@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-pa package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-pa\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-02-18 03:11+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: contents/config/config.qml:26
+#, kde-format
+msgid "General"
+msgstr ""
+
+#: contents/ui/ConfigGeneral.qml:39
+#, kde-format
+msgid "Volume"
+msgstr ""
+
+#: contents/ui/ConfigGeneral.qml:47
+#, kde-format
+msgid "Maximum volume:"
+msgstr ""
+
+#: contents/ui/ConfigGeneral.qml:55 contents/ui/ConfigGeneral.qml:68
+#, kde-format
+msgid "%"
+msgstr ""
+
+#: contents/ui/ConfigGeneral.qml:60
+#, kde-format
+msgid "Volume step:"
+msgstr ""
+
+#: contents/ui/ConfigGeneral.qml:76
+#, kde-format
+msgid "Behavior"
+msgstr ""
+
+#: contents/ui/ConfigGeneral.qml:81
+#, kde-format
+msgid "Volume feedback"
+msgstr ""
+
+#: contents/ui/ConfigGeneral.qml:87
+#, kde-format
+msgid "Visual feedback when default output device changes"
+msgstr ""
+
+#: contents/ui/DeviceListItem.qml:37
+#, kde-format
+msgctxt "label of device items"
+msgid "%1 (%2)"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:124
+#, kde-format
+msgid "Show additional options for %1"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:133
+#, kde-format
+msgid "Mute %1"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:157
+#, kde-format
+msgctxt "Accessibility data on volume slider"
+msgid "Adjust volume for %1"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:208
+#, kde-format
+msgctxt "volume percentage"
+msgid "%1%"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:214
+#, kde-format
+msgctxt "only used for sizing, should be widest possible string"
+msgid "100%"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:270
+#, kde-format
+msgctxt "Checkable switch for (un-)muting sound output."
+msgid "Mute"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:281
+#, kde-format
+msgctxt "Checkable switch to change the current default output."
+msgid "Default"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:292
+#, kde-format
+msgid "Raise maximum volume"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:309
+#, kde-format
+msgctxt ""
+"Heading for a list of ports of a device (for example built-in laptop "
+"speakers or a plug for headphones)"
+msgid "Ports"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:319
+#, kde-format
+msgctxt "Port is unavailable"
+msgid " (unavailable)"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:321
+#, kde-format
+msgctxt "Port is unplugged"
+msgid " (unplugged)"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:343
+#, kde-format
+msgctxt ""
+"Heading for a list of possible output devices (speakers, headphones, ...) to "
+"choose"
+msgid "Play audio using"
+msgstr ""
+
+#: contents/ui/ListItemBase.qml:345
+#, kde-format
+msgctxt ""
+"Heading for a list of possible input devices (built-in microphone, "
+"headset, ...) to choose"
+msgid "Record audio using"
+msgstr ""
+
+#: contents/ui/main.qml:39
+#, kde-format
+msgid "Audio Volume"
+msgstr ""
+
+#: contents/ui/main.qml:58
+#, kde-format
+msgid "Audio Muted"
+msgstr ""
+
+#: contents/ui/main.qml:60
+#, kde-format
+msgid "Volume at %1%"
+msgstr ""
+
+#: contents/ui/main.qml:248
+#, kde-format
+msgid "Increase Volume"
+msgstr ""
+
+#: contents/ui/main.qml:254
+#, kde-format
+msgid "Decrease Volume"
+msgstr ""
+
+#: contents/ui/main.qml:260
+#, kde-format
+msgid "Mute"
+msgstr ""
+
+#: contents/ui/main.qml:266
+#, kde-format
+msgid "Increase Microphone Volume"
+msgstr ""
+
+#: contents/ui/main.qml:272
+#, kde-format
+msgid "Decrease Microphone Volume"
+msgstr ""
+
+#: contents/ui/main.qml:278
+#, kde-format
+msgid "Mute Microphone"
+msgstr ""
+
+#: contents/ui/main.qml:329
+#, kde-format
+msgid "Devices"
+msgstr ""
+
+#: contents/ui/main.qml:334
+#, kde-format
+msgid "Applications"
+msgstr ""
+
+#: contents/ui/main.qml:376
+#, kde-format
+msgid "Playback Streams"
+msgstr ""
+
+#: contents/ui/main.qml:400
+#, kde-format
+msgid "Capture Streams"
+msgstr ""
+
+#: contents/ui/main.qml:434
+#, kde-format
+msgid "Playback Devices"
+msgstr ""
+
+#: contents/ui/main.qml:459
+#, kde-format
+msgid "Capture Devices"
+msgstr ""
+
+#: contents/ui/main.qml:487
+#, kde-format
+msgid "No applications playing or recording audio"
+msgstr ""
+
+#: contents/ui/main.qml:499
+#, kde-format
+msgid "No output or input devices found"
+msgstr ""
+
+#: contents/ui/StreamListItem.qml:37
+#, kde-format
+msgctxt "label of stream items"
+msgid "%1 (%2)"
+msgstr ""

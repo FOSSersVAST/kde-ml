@@ -1,0 +1,333 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-06-25 01:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: app/kdesystemsettings.desktop:8
+msgctxt "GenericName"
+msgid "KDE System Settings"
+msgstr ""
+
+#: app/kdesystemsettings.desktop:63
+msgctxt "Name"
+msgid "KDE System Settings"
+msgstr ""
+
+#: app/kdesystemsettings.desktop:118 app/systemsettings.desktop:175
+msgctxt "Comment"
+msgid "Configuration tools for your computer"
+msgstr ""
+
+#: app/systemsettings.desktop:9
+msgctxt "GenericName"
+msgid "System Settings"
+msgstr ""
+
+#: app/systemsettings.desktop:90
+msgctxt "Name"
+msgid "System Settings"
+msgstr ""
+
+#: categories/hidden.desktop:7
+msgctxt "Name"
+msgid "Hidden"
+msgstr ""
+
+#: categories/old/settings-account-details.desktop:8
+#: categories/settings-personalization-accountdetails.desktop:9
+msgctxt "Name"
+msgid "Account Details"
+msgstr ""
+
+#: categories/old/settings-application-and-system-notifications.desktop:8
+msgctxt "Name"
+msgid "Application and System Notifications"
+msgstr ""
+
+#: categories/old/settings-application-appearance.desktop:8
+msgctxt "Name"
+msgid "Application Appearance"
+msgstr ""
+
+#: categories/old/settings-audio-and-video.desktop:9
+#: categories/settings-hardware-multimedia.desktop:9
+msgctxt "Name"
+msgid "Multimedia"
+msgstr ""
+
+#: categories/old/settings-bluetooth.desktop:8
+#: categories/settings-network-bluetooth.desktop:9
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr ""
+
+#: categories/old/settings-desktop-appearance.desktop:9
+msgctxt "Name"
+msgid "Workspace Appearance"
+msgstr ""
+
+#: categories/old/settings-desktop-appearance.desktop:72
+msgctxt "Comment"
+msgid "Customize the appearance of your desktop"
+msgstr ""
+
+#: categories/old/settings-display.desktop:8
+#: categories/settings-hardware-display.desktop:9
+msgctxt "Name"
+msgid "Display and Monitor"
+msgstr ""
+
+#: categories/old/settings-display.desktop:69
+#: categories/settings-hardware-display.desktop:70
+msgctxt "Comment"
+msgid "Display Settings"
+msgstr ""
+
+#: categories/old/settings-hardware.desktop:9
+#: categories/settings-hardware.desktop:9
+msgctxt "Name"
+msgid "Hardware"
+msgstr ""
+
+#: categories/old/settings-input-devices.desktop:8
+#: categories/settings-hardware-input.desktop:9
+msgctxt "Name"
+msgid "Input Devices"
+msgstr ""
+
+#: categories/old/settings-locale.desktop:8
+msgctxt "Name"
+msgid "Locale"
+msgstr ""
+
+#: categories/old/settings-lost-and-found.desktop:9
+msgctxt "Name"
+msgid "Lost and Found"
+msgstr ""
+
+#: categories/old/settings-network-and-connectivity.desktop:8
+msgctxt "Name"
+msgid "Network and Connectivity"
+msgstr ""
+
+#: categories/old/settings-network-settings.desktop:8
+msgctxt "Name"
+msgid "Network Settings"
+msgstr ""
+
+#: categories/old/settings-permissions.desktop:8
+msgctxt "Name"
+msgid "Permissions"
+msgstr ""
+
+#: categories/old/settings-personal-information.desktop:8
+msgctxt "Name"
+msgid "Personal Information"
+msgstr ""
+
+#: categories/old/settings-power-management.desktop:8
+#: categories/settings-hardware-powermanagement.desktop:9
+msgctxt "Name"
+msgid "Power Management"
+msgstr ""
+
+#: categories/old/settings-sharing.desktop:8
+msgctxt "Name"
+msgid "Sharing"
+msgstr ""
+
+#: categories/old/settings-shortcuts-and-gestures.desktop:8
+msgctxt "Name"
+msgid "Shortcuts and Gestures"
+msgstr ""
+
+#: categories/old/settings-startup-and-shutdown.desktop:8
+#: categories/settings-workspace-session.desktop:9
+msgctxt "Name"
+msgid "Startup and Shutdown"
+msgstr ""
+
+#: categories/old/settings-system-administration.desktop:9
+msgctxt "Name"
+msgid "System Administration"
+msgstr ""
+
+#: categories/old/settings-window-behaviour.desktop:8
+msgctxt "Name"
+msgid "Window Behavior"
+msgstr ""
+
+#: categories/old/settings-workspace-appearance-and-behavior.desktop:9
+msgctxt "Name"
+msgid "Workspace Appearance and Behavior"
+msgstr ""
+
+#: categories/old/settings-workspace-behavior.desktop:8
+msgctxt "Name"
+msgid "Workspace Behavior"
+msgstr ""
+
+#: categories/settings-appearance-applicationstyle.desktop:9
+msgctxt "Name"
+msgid "Application Style"
+msgstr ""
+
+#: categories/settings-appearance-color.desktop:9
+msgctxt "Name"
+msgid "Colors"
+msgstr ""
+
+#: categories/settings-appearance.desktop:9
+msgctxt "Name"
+msgid "Appearance"
+msgstr ""
+
+#: categories/settings-appearance-font.desktop:9
+msgctxt "Name"
+msgid "Fonts"
+msgstr ""
+
+#: categories/settings-appearance-icons.desktop:9
+msgctxt "Name"
+msgid "Icons"
+msgstr ""
+
+#: categories/settings-appearance-workspacetheme.desktop:9
+msgctxt "Name"
+msgid "Workspace Theme"
+msgstr ""
+
+#: categories/settings-hardware-peripherals.desktop:9
+msgctxt "Name"
+msgid "Peripherals"
+msgstr ""
+
+#: categories/settings-hardware-removable-storage.desktop:8
+msgctxt "Name"
+msgid "Removable Storage"
+msgstr ""
+
+#: categories/settings-network-connectivity.desktop:9
+msgctxt "Name"
+msgid "Connectivity"
+msgstr ""
+
+#: categories/settings-network.desktop:8
+msgctxt "Name"
+msgid "Network"
+msgstr ""
+
+#: categories/settings-network-networksettings.desktop:9
+msgctxt "Name"
+msgid "Settings"
+msgstr ""
+
+#: categories/settings-personalization-accessibility.desktop:8
+msgctxt "Name"
+msgid "Accessibility"
+msgstr ""
+
+#: categories/settings-personalization-applications.desktop:9
+msgctxt "Name"
+msgid "Applications"
+msgstr ""
+
+#: categories/settings-personalization.desktop:9
+msgctxt "Name"
+msgid "Personalization"
+msgstr ""
+
+#: categories/settings-personalization-notification.desktop:9
+msgctxt "Name"
+msgid "Notifications"
+msgstr ""
+
+#: categories/settings-personalization-regionalsettings.desktop:9
+msgctxt "Name"
+msgid "Regional Settings"
+msgstr ""
+
+#: categories/settings-workspace.desktop:9
+msgctxt "Name"
+msgid "Workspace"
+msgstr ""
+
+#: categories/settings-workspace-desktopbehavior.desktop:9
+msgctxt "Name"
+msgid "Desktop Behavior"
+msgstr ""
+
+#: categories/settings-workspace-search.desktop:9
+msgctxt "Name"
+msgid "Search"
+msgstr ""
+
+#: categories/settings-workspace-shortcuts.desktop:9
+msgctxt "Name"
+msgid "Shortcuts"
+msgstr ""
+
+#: categories/settings-workspace-windowmanagement.desktop:9
+msgctxt "Name"
+msgid "Window Management"
+msgstr ""
+
+#: categories/systemsettingscategory.desktop:4
+msgctxt "Name"
+msgid "System Settings Category"
+msgstr ""
+
+#: classic/settings-classic-view.desktop:7 icons/settings-icon-view.desktop:7
+#: sidebar/settings-sidebar-view.desktop:7
+msgctxt "X-KDE-Keywords"
+msgid "System Settings"
+msgstr ""
+
+#: classic/settings-classic-view.desktop:64
+msgctxt "Name"
+msgid "Tree View"
+msgstr ""
+
+#: classic/settings-classic-view.desktop:100
+msgctxt "Comment"
+msgid "A Classic KDE 3 KControl style system settings view."
+msgstr ""
+
+#: core/systemsettingsexternalapp.desktop:4
+msgctxt "Name"
+msgid "System Settings External Application"
+msgstr ""
+
+#: core/systemsettingsview.desktop:4
+msgctxt "Name"
+msgid "System Settings View"
+msgstr ""
+
+#: icons/settings-icon-view.desktop:64
+msgctxt "Name"
+msgid "Icon View"
+msgstr ""
+
+#: icons/settings-icon-view.desktop:141
+msgctxt "Comment"
+msgid "The KDE 4 icon view style"
+msgstr ""
+
+#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:64
+msgctxt "Name"
+msgid "Sidebar View"
+msgstr ""
+
+#: sidebar/package/metadata.desktop:40
+#: sidebar/settings-sidebar-view.desktop:102
+msgctxt "Comment"
+msgid "Categorized sidebar style"
+msgstr ""

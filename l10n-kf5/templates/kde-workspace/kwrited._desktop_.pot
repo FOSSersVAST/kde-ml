@@ -1,0 +1,37 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-03-11 02:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kwrited-autostart.desktop:2
+msgctxt "Name"
+msgid "KDE Write Daemon"
+msgstr ""
+
+#: kwrited-autostart.desktop:91
+msgctxt "Comment"
+msgid "Watch for messages from local users sent with write(1) or wall(1)"
+msgstr ""
+
+#: kwrited.notifyrc:3
+msgctxt "Comment"
+msgid "Local system message service"
+msgstr ""
+
+#: kwrited.notifyrc:68
+msgctxt "Name"
+msgid "New message received"
+msgstr ""
+
+#: kwrited.notifyrc:140
+msgctxt "Comment"
+msgid "The daemon received a new message sent with wall(1) or write(1)"
+msgstr ""

@@ -1,0 +1,96 @@
+# Malayalam translation of plasma_applet_kalzium.po.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdebase package.
+# CHANDRASEKHARAN NAIR <chandrasekharan.nair@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_kalzium trunk\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-10-22 03:46+0200\n"
+"PO-Revision-Date: 2008-07-12 13:13+0530\n"
+"Last-Translator: CHANDRASEKHARAN NAIR <chandrasekharan.nair@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: config.ui:18
+#, kde-format
+msgid "Theme:"
+msgstr "രംഗവിതാനം:"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, comboBox)
+#: config.ui:32
+#, kde-format
+msgid "testtube.svg"
+msgstr "testtube.svg"
+
+#. i18n: ectx: property (text), widget (QPushButton, fontSelectButton)
+#: config.ui:42
+#, kde-format
+msgid "Select Font..."
+msgstr "അക്ഷരസഞ്ചയം തെരഞ്ഞെടുക്കുക"
+
+#: kalzium_plasma.cpp:41
+#, kde-format
+msgid "Enter the atomic number."
+msgstr "അറ്റോമിക് നമ്പര്‍ നല്‍കുക."
+
+#: kalzium_plasma.cpp:107
+#, kde-format
+msgid ""
+"\n"
+"Name: %1"
+msgstr ""
+"\n"
+"പേരു്: %1"
+
+#: kalzium_plasma.cpp:108
+#, kde-format
+msgid ""
+"\n"
+"Symbol: %1"
+msgstr ""
+
+#: kalzium_plasma.cpp:109
+#, fuzzy, kde-format
+#| msgid ""
+#| "\n"
+#| "Boilingpoint: %1"
+msgid ""
+"\n"
+"Boiling point: %1"
+msgstr ""
+"\n"
+"തിളനില: %1"
+
+#: kalzium_plasma.cpp:110
+#, fuzzy, kde-format
+#| msgid ""
+#| "\n"
+#| "Boilingpoint: %1"
+msgid ""
+"\n"
+"Melting point: %1"
+msgstr ""
+"\n"
+"തിളനില: %1"
+
+#: kalzium_plasma.cpp:111
+#, kde-format
+msgid ""
+"\n"
+"Mass: %1"
+msgstr ""
+"\n"
+"ഭാരം: %1"
+
+#: kalzium_plasma.cpp:141
+#, kde-format
+msgid "KalziumPlasma Configuration"
+msgstr "ക്യാത്സ്യംപ്ലാസ്മ കോണ്‍ഫിഗറേഷന്‍"

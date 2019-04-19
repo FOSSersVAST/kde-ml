@@ -1,0 +1,708 @@
+# translation of kcmlocale.po to
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdebase package.
+# Ani Peter <peter.ani@gmail.com>, 2008.
+# Manilal K M|മണിലാല്‍ കെ എം <libregeek@gmail.com>, 2009.
+# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmlocale\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-04-16 03:41+0200\n"
+"PO-Revision-Date: 2009-07-17 10:44-0700\n"
+"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: kcmformats.cpp:45
+#, kde-format
+msgid ""
+"<h1>Formats</h1>You can configure the formats used for time, dates, money "
+"and other numbers here."
+msgstr ""
+
+#: kcmformats.cpp:102
+#, kde-format
+msgid "No change"
+msgstr ""
+
+#: kcmformats.cpp:139
+#, kde-format
+msgid "%1 - %2 (%3)"
+msgstr ""
+
+#: kcmformats.cpp:141
+#, kde-format
+msgid "%1 (%2)"
+msgstr ""
+
+#: kcmformats.cpp:274
+#, kde-format
+msgid "Your changes will take effect the next time you log in."
+msgstr ""
+
+#: kcmformats.cpp:275
+#, kde-format
+msgid "Format Settings Changed"
+msgstr ""
+
+#: kcmformats.cpp:341
+#, fuzzy, kde-format
+#| msgid "Short date format:"
+msgid "%1 (long format)"
+msgstr "തീയതി ലഘു രീതിയില്‍:"
+
+#: kcmformats.cpp:342
+#, fuzzy, kde-format
+#| msgid "Short date format:"
+msgid "%1 (short format)"
+msgstr "തീയതി ലഘു രീതിയില്‍:"
+
+#: kcmformats.cpp:347
+#, fuzzy, kde-format
+#| msgctxt "The Imperial System"
+#| msgid "Imperial"
+msgctxt "Measurement combobox"
+msgid "Imperial UK"
+msgstr "ഇംപീരിയല്‍"
+
+#: kcmformats.cpp:349
+#, fuzzy, kde-format
+#| msgctxt "The Imperial System"
+#| msgid "Imperial"
+msgctxt "Measurement combobox"
+msgid "Imperial US"
+msgstr "ഇംപീരിയല്‍"
+
+#: kcmformats.cpp:351
+#, fuzzy, kde-format
+#| msgctxt "The Metric System"
+#| msgid "Metric"
+msgctxt "Measurement combobox"
+msgid "Metric"
+msgstr "മെട്രിക്"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: kcmformatswidget.ui:47
+#, kde-format
+msgid "Re&gion:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkDetailed)
+#: kcmformatswidget.ui:76
+#, fuzzy, kde-format
+#| msgid "Regional settings"
+msgid "De&tailed Settings"
+msgstr "പ്രാദേശിക ക്രമികരണങ്ങള്‍"
+
+#. i18n: ectx: property (text), widget (QLabel, labelNumbers)
+#: kcmformatswidget.ui:83
+#, fuzzy, kde-format
+#| msgid "Numbers:"
+msgid "&Numbers:"
+msgstr "അക്കങ്ങള്‍:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelTime)
+#: kcmformatswidget.ui:112
+#, fuzzy, kde-format
+#| msgid "Time:"
+msgid "&Time:"
+msgstr "സമയം:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelCurrency)
+#: kcmformatswidget.ui:141
+#, fuzzy, kde-format
+#| msgid "Currency symbol:"
+msgid "Currenc&y:"
+msgstr "നാണയത്തിന്റെ ചിഹ്നം:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelMeasurement)
+#: kcmformatswidget.ui:170
+#, fuzzy, kde-format
+#| msgid "Measure system:"
+msgid "Measurement &Units:"
+msgstr "അളവു് സംവിധാനം:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelCollate)
+#: kcmformatswidget.ui:199
+#, kde-format
+msgid "Co&llation and Sorting:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, labelMeasurement_2)
+#: kcmformatswidget.ui:238
+#, kde-format
+msgid "<b>Description</b>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lexNumbers)
+#: kcmformatswidget.ui:248
+#, kde-format
+msgid "Numbers:"
+msgstr "അക്കങ്ങള്‍:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexTime)
+#: kcmformatswidget.ui:268
+#, kde-format
+msgid "Time:"
+msgstr "സമയം:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexCurrency)
+#: kcmformatswidget.ui:288
+#, fuzzy, kde-format
+#| msgid "Currency symbol:"
+msgid "Currency:"
+msgstr "നാണയത്തിന്റെ ചിഹ്നം:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexMeasurement_2)
+#: kcmformatswidget.ui:308
+#, fuzzy, kde-format
+#| msgid "Measure system:"
+msgid "Measurement Units:"
+msgstr "അളവു് സംവിധാനം:"
+
+#, fuzzy
+#~| msgid "Examples"
+#~ msgid "<b>Examples</b>"
+#~ msgstr "ഉദാഹരണങ്ങള്‍"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "അനി പീറ്റര്‍ "
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "peter.ani@gmail.com"
+
+#~ msgid "Country Selector"
+#~ msgstr "രാജ്യം തിരഞ്ഞെടുക്കല്‍"
+
+#~ msgid "without name"
+#~ msgstr "പേരില്ലാതെ"
+
+#~ msgctxt "@item:inlistbox Country"
+#~ msgid "Not set (Generic English)"
+#~ msgstr "ക്രമികരിച്ചിട്ടില്ല (സാധാരണ ഇംഗ്ലീഷ്)"
+
+#, fuzzy
+#~| msgid "&Locale"
+#~ msgid "kcmlocale"
+#~ msgstr "&ലോക്കേല്‍"
+
+#~ msgid ""
+#~ "Changed language settings apply only to newly started applications.\n"
+#~ "To change the language of all programs, you will have to logout first."
+#~ msgstr ""
+#~ "പുതുതായി തുറക്കുന്ന പ്രയോഗങ്ങള്‍ക്കു് മാത്രമേ ഭാഷയില്‍ വരുത്തിയ മാറ്റങ്ങള്‍ ബാധകമാകൂ.\n"
+#~ "എല്ലാ പ്രോഗ്രാമുകളുടേയും ഭാഷ മാറ്റുന്നതിനായി, നിങ്ങള്‍ പുറത്തുപോകേണ്ടതാണു്."
+
+#~ msgid "Applying Language Settings"
+#~ msgstr "ഭാഷയ്ക്കു് ആവശ്യമുള്ള ക്രമികരണങ്ങള്‍ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിക്കുക"
+
+#, fuzzy
+#~| msgctxt "Day name list, option for no day of religious observance"
+#~| msgid "None"
+#~ msgctxt "No separator symbol"
+#~ msgid "None"
+#~ msgstr "ഒന്നുമില്ല"
+
+#, fuzzy
+#~| msgid "Country Selector"
+#~ msgid "Country"
+#~ msgstr "രാജ്യം തിരഞ്ഞെടുക്കല്‍"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Languages"
+#~ msgstr "ഭാഷകള്‍:"
+
+#, fuzzy
+#~| msgid "Numbers:"
+#~ msgid "Numbers"
+#~ msgstr "അക്കങ്ങള്‍:"
+
+#, fuzzy
+#~| msgid "Money:"
+#~ msgid "Money"
+#~ msgstr "പണം:"
+
+#, fuzzy
+#~| msgid "Calendar system:"
+#~ msgid "Calendar"
+#~ msgstr "കലണ്ടര്‍ സിസ്റ്റം:"
+
+#, fuzzy
+#~| msgid "&Other"
+#~ msgid "Other"
+#~ msgstr "&മറ്റുള്ളവ"
+
+#, fuzzy
+#~| msgid "This is how numbers will be displayed."
+#~ msgid "This is how positive numbers will be displayed."
+#~ msgstr "ഇങ്ങനെയാണു് അക്കങ്ങള്‍ കാണപ്പെടുന്നുതു്."
+
+#, fuzzy
+#~| msgid "This is how numbers will be displayed."
+#~ msgid "This is how negative numbers will be displayed."
+#~ msgstr "ഇങ്ങനെയാണു് അക്കങ്ങള്‍ കാണപ്പെടുന്നുതു്."
+
+#~ msgid "Money:"
+#~ msgstr "പണം:"
+
+#, fuzzy
+#~| msgid "This is how monetary values will be displayed."
+#~ msgid "This is how positive monetary values will be displayed."
+#~ msgstr "നാണയ വിലകള്‍ പ്രദര്‍ശിപ്പിയ്ക്കുന്നതിങ്ങനെയായിരിയ്ക്കും."
+
+#, fuzzy
+#~| msgid "This is how monetary values will be displayed."
+#~ msgid "This is how negative monetary values will be displayed."
+#~ msgstr "നാണയ വിലകള്‍ പ്രദര്‍ശിപ്പിയ്ക്കുന്നതിങ്ങനെയായിരിയ്ക്കും."
+
+#~ msgid "Date:"
+#~ msgstr "തീയതി:"
+
+#, fuzzy
+#~| msgid "This is how date values will be displayed."
+#~ msgid "This is how long dates will be displayed."
+#~ msgstr "ഇങ്ങനെയാണു് തീയതി കാണപ്പെടുന്നുതു്."
+
+#~ msgid "Short date:"
+#~ msgstr "തീയതിയുടെ ലഘുരൂപം:"
+
+#, fuzzy
+#~| msgid "This is how the time will be displayed."
+#~ msgid "This is how short dates will be displayed."
+#~ msgstr "ഇങ്ങനെയാണു് സമയം കാണപ്പെടുന്നുതു്."
+
+#, fuzzy
+#~| msgid "This is how the time will be displayed."
+#~ msgid "This is how time will be displayed."
+#~ msgstr "ഇങ്ങനെയാണു് സമയം കാണപ്പെടുന്നുതു്."
+
+#, fuzzy
+#~| msgid "Country or region:"
+#~ msgid "Country:"
+#~ msgstr "രാജ്യം അല്ലെങ്കില്‍ പ്രദേശം:"
+
+#, fuzzy
+#~| msgid ""
+#~| "This is where you live. KDE will use the defaults for this country or "
+#~| "region."
+#~ msgid ""
+#~ "<p>This is the country where you live.  The KDE Workspace will use the "
+#~ "settings for this country or region.</p>"
+#~ msgstr ""
+#~ "ഇതാണു് നിങ്ങള്‍ താമസിക്കുന്ന സ്ഥലം. ഈ രാജ്യം അല്ലെങ്കില്‍ പ്രദേശത്തിനായി കെഡിഇ സ്വതവേയുള്ളതു് "
+#~ "ഉപയോഗിക്കുന്നു."
+
+#, fuzzy
+#~| msgid ""
+#~| "This is where you live. KDE will use the defaults for this country or "
+#~| "region."
+#~ msgid ""
+#~ "<p>This is the country subdivision where you live, e.g. your state or "
+#~ "province.  The KDE Workspace will use this setting for local information "
+#~ "services such as holidays.</p>"
+#~ msgstr ""
+#~ "ഇതാണു് നിങ്ങള്‍ താമസിക്കുന്ന സ്ഥലം. ഈ രാജ്യം അല്ലെങ്കില്‍ പ്രദേശത്തിനായി കെഡിഇ സ്വതവേയുള്ളതു് "
+#~ "ഉപയോഗിക്കുന്നു."
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Available Languages:"
+#~ msgstr "ഭാഷകള്‍:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Preferred Languages:"
+#~ msgstr "ഭാഷകള്‍:"
+
+#, fuzzy
+#~| msgid "Thousands separator:"
+#~ msgid "Group separator:"
+#~ msgstr "ആയിരങ്ങളെ വേര്‍തിരിച്ചു് കാണിയ്ക്കുന്ന അടയാളം:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal separator:"
+#~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal places:"
+#~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
+
+#, fuzzy
+#~| msgid "Positive si&gn:"
+#~ msgid "Positive sign:"
+#~ msgstr "പോസിറ്റീവ്  &ചിഹ്നം:"
+
+#, fuzzy
+#~| msgctxt "Day name list, option for no day of religious observance"
+#~| msgid "None"
+#~ msgctxt "No positive symbol"
+#~ msgid "None"
+#~ msgstr "ഒന്നുമില്ല"
+
+#, fuzzy
+#~| msgid "&Negative sign:"
+#~ msgid "Negative sign:"
+#~ msgstr "&നെഗറ്റീവ് ചിഹ്നം:"
+
+#, fuzzy
+#~| msgctxt "Day name list, option for no day of religious observance"
+#~| msgid "None"
+#~ msgctxt "No negative symbol"
+#~ msgid "None"
+#~ msgstr "ഒന്നുമില്ല"
+
+#~ msgid "Digit set:"
+#~ msgstr "അക്ക ഗണം:"
+
+#~ msgid "Currency symbol:"
+#~ msgstr "നാണയത്തിന്റെ ചിഹ്നം:"
+
+#, fuzzy
+#~| msgid "Time format:"
+#~ msgid "Positive format:"
+#~ msgstr "സമയത്തിന്റെ രീതി:"
+
+#~ msgid "Sign position:"
+#~ msgstr "ചിഹ്നത്തിന്റെ സ്ഥാനം:"
+
+#~ msgid "Parentheses Around"
+#~ msgstr "ചുറ്റും പരാന്തസിസ്"
+
+#~ msgid "Before Quantity Money"
+#~ msgstr "പണത്തിന്റെ അളവിനു് മുമ്പു്"
+
+#~ msgid "After Quantity Money"
+#~ msgstr "പണത്തിന്റെ അളവിനു് ശേഷം"
+
+#~ msgid "Before Money"
+#~ msgstr "പണത്തിനു് മുമ്പു്"
+
+#~ msgid "After Money"
+#~ msgstr "പണത്തിനു് ശേഷം"
+
+#~ msgid "Prefix currency symbol"
+#~ msgstr "നാണയചിഹ്നത്തിനു് മുമ്പില്‍ വയ്ക്കേണ്ടതു്"
+
+#, fuzzy
+#~| msgid "Date format:"
+#~ msgid "Negative format:"
+#~ msgstr "തീയതിയുടെ രീതി:"
+
+#~ msgid "Calendar system:"
+#~ msgstr "കലണ്ടര്‍ സിസ്റ്റം:"
+
+#, fuzzy
+#~| msgid "Measure system:"
+#~ msgid "Week number system:"
+#~ msgstr "അളവു് സംവിധാനം:"
+
+#, fuzzy
+#~| msgid "First day of the week:"
+#~ msgid "First day of week:"
+#~ msgstr "ആഴ്ചയുടെ ആദ്യത്തെ ദിവസം: "
+
+#, fuzzy
+#~| msgid "First working day of the week:"
+#~ msgid "First working day of week:"
+#~ msgstr "ആഴ്ചയിലെ ആദ്യത്തെ പ്രവൃത്തി ദിവസം: "
+
+#, fuzzy
+#~| msgid "Last working day of the week:"
+#~ msgid "Last working day of week:"
+#~ msgstr "ആഴ്ചയിലെ അവസാനത്തെ പ്രവൃത്തി ദിവസം: "
+
+#, fuzzy
+#~| msgid "Day of the week for religious observance:"
+#~ msgid "Week day for special religious observance:"
+#~ msgstr "ആഴ്ചയിലെ മതാനുഷ്ടാനത്തിനുള്ള ദിവസം:"
+
+#~ msgid "Time format:"
+#~ msgstr "സമയത്തിന്റെ രീതി:"
+
+#~ msgid "HH"
+#~ msgstr "HH"
+
+#~ msgid "hH"
+#~ msgstr "hH"
+
+#~ msgid "PH"
+#~ msgstr "PH"
+
+#~ msgid "pH"
+#~ msgstr "pH"
+
+#~ msgctxt "Minute"
+#~ msgid "MM"
+#~ msgstr "MM"
+
+#~ msgid "SS"
+#~ msgstr "SS"
+
+#~ msgid "AMPM"
+#~ msgstr "AMPM"
+
+#~ msgctxt "some reasonable time formats for the language"
+#~ msgid ""
+#~ "HH:MM:SS\n"
+#~ "pH:MM:SS AMPM"
+#~ msgstr ""
+#~ "HH:MM:SS\n"
+#~ "pH:MM:SS AMPM"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "AM symbol:"
+#~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "PM symbol:"
+#~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
+
+#~ msgid "YYYY"
+#~ msgstr "YYYY"
+
+#~ msgid "YY"
+#~ msgstr "YY"
+
+#~ msgid "mM"
+#~ msgstr "mM"
+
+#~ msgctxt "Month"
+#~ msgid "MM"
+#~ msgstr "MM"
+
+#~ msgid "SHORTMONTH"
+#~ msgstr "SHORTMONTH"
+
+#~ msgid "MONTH"
+#~ msgstr "MONTH"
+
+#~ msgid "dD"
+#~ msgstr "dD"
+
+#~ msgid "DD"
+#~ msgstr "DD"
+
+#~ msgid "SHORTWEEKDAY"
+#~ msgstr "SHORTWEEKDAY"
+
+#~ msgid "WEEKDAY"
+#~ msgstr "WEEKDAY"
+
+#, fuzzy
+#~| msgid "SHORTWEEKDAY"
+#~ msgid "ISOWEEK"
+#~ msgstr "SHORTWEEKDAY"
+
+#~ msgctxt "some reasonable date formats for the language"
+#~ msgid ""
+#~ "WEEKDAY MONTH dD YYYY\n"
+#~ "SHORTWEEKDAY MONTH dD YYYY"
+#~ msgstr ""
+#~ "WEEKDAY MONTH dD YYYY\n"
+#~ "SHORTWEEKDAY MONTH dD YYYY"
+
+#~ msgctxt "some reasonable short date formats for the language"
+#~ msgid ""
+#~ "YYYY-MM-DD\n"
+#~ "dD.mM.YYYY\n"
+#~ "DD.MM.YYYY"
+#~ msgstr ""
+#~ "YYYY-MM-DD\n"
+#~ "dD.mM.YYYY\n"
+#~ "DD.MM.YYYY"
+
+#, fuzzy
+#~| msgid "A4"
+#~ msgctxt "Page size"
+#~ msgid "A4"
+#~ msgstr "A4"
+
+#, fuzzy
+#~| msgid "US Letter"
+#~ msgctxt "Page size"
+#~ msgid "US Letter"
+#~ msgstr "യുഎസ് ലെറ്റര്‍"
+
+#, fuzzy
+#~| msgid "Measure system:"
+#~ msgid "Metric System"
+#~ msgstr "അളവു് സംവിധാനം:"
+
+#, fuzzy
+#~| msgid "Measure system:"
+#~ msgid "Measurement system"
+#~ msgstr "അളവു് സംവിധാനം:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "&Available Languages:"
+#~ msgstr "ഭാഷകള്‍:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "&Preferred Languages:"
+#~ msgstr "ഭാഷകള്‍:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Preferred Langauges:"
+#~ msgstr "ഭാഷകള്‍:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal seperator:"
+#~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
+
+#~ msgid "Remove"
+#~ msgstr "നീക്കം ചെയ്യുക"
+
+#~ msgctxt "@item:intext Country"
+#~ msgid "Not set (Generic English)"
+#~ msgstr "ക്രമികരിച്ചിട്ടില്ല (സാധാരണ ഇംഗ്ലീഷ്)"
+
+#~ msgctxt "@info %1 is country name"
+#~ msgid "<html>%1 (<a href=\"changeCountry\">change...</a>)</html>"
+#~ msgstr "<html>%1 (<a href=\"changeCountry\">change...</a>)</html>"
+
+#~ msgid "Add Language"
+#~ msgstr "ഭാഷ ചേര്‍ക്കുക"
+
+#~ msgid ""
+#~ "This will add a language to the list. If the language is already in the "
+#~ "list, the old one will be moved instead."
+#~ msgstr ""
+#~ "ഇതു് പട്ടികയിലേക്കു് ഒരു ഭാഷ ചേര്‍ക്കുന്നു. നിലവില്‍ പട്ടികയിലുള്ള ഭാഷയാണു് എങ്കില്‍, പഴയതിനെ "
+#~ "മാറ്റി ഇതു് സംരക്ഷിക്കപ്പെടുന്നു."
+
+#~ msgid "This will remove the highlighted language from the list."
+#~ msgstr "പട്ടികയില്‍ തിരഞ്ഞെടുത്തിട്ടുള്ള ഭാഷ ഇതു് നീക്കം ചെയ്യുന്നു."
+
+#~ msgid ""
+#~ "KDE programs will be displayed in the first available language in this "
+#~ "list.\n"
+#~ "If none of the languages are available, US English will be used."
+#~ msgstr ""
+#~ "ഈ പട്ടികയിലുള്ള ആദ്യത്തെ ഭാഷയില്‍ കെഡിഇ പ്രോഗ്രാമുകള്‍ ലഭ്യമാകുന്നു.\n"
+#~ "ഒരു ഭാഷയും ഇല്ല എങ്കില്‍, യു എസ്  ഇംഗ്ലീഷ് ഉപയോഗിക്കുന്നു."
+
+#~ msgid ""
+#~ "Here you can choose your country or region. The settings for languages, "
+#~ "numbers etc. will automatically switch to the corresponding values."
+#~ msgstr ""
+#~ "ഇവിടെ നിങ്ങളുടെ രാജ്യം അല്ലെങ്കില്‍ പ്രദേശം നല്‍കുക. അതനുസരിച്ചു്,നിങ്ങളുടെ ഭാഷ, അക്കങ്ങള്‍ "
+#~ "എന്നിവയുടെ ക്രമികരണങ്ങള്‍ സ്വയമേവ ലഭ്യമാകുന്നു."
+
+#~ msgid ""
+#~ "<p>Here you can choose the languages that will be used by KDE. If the "
+#~ "first language in the list is not available, the second will be used, "
+#~ "etc. If only US English is available, no translations have been "
+#~ "installed. You can get translation packages for many languages from the "
+#~ "place you got KDE from.</p><p>Note that some applications may not be "
+#~ "translated to your languages; in this case, they will automatically fall "
+#~ "back to US English.</p>"
+#~ msgstr ""
+#~ "<p>ഇവിടെ നിങ്ങള്‍ക്കു് കെഡിഇ ഉപയോഗിക്കേണ്ട ഭാഷ തിരഞ്ഞെടുക്കാവുന്നതാണു്. പട്ടികയിലുള്ള "
+#~ "ആദ്യത്തെ ഭാഷ ലഭ്യമായില്ലെങ്കില്‍, അതു് അടുത്തതു് തിരഞ്ഞെടുക്കുന്നു, ഇല്ലെങ്കില്‍ അടുത്തതു്. യുഎസ് "
+#~ "ഇംഗ്ലീഷ് മാത്രമേ ലഭ്യമുള്ളൂ എങ്കില്‍, തര്‍ജ്ജമകള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെടുന്നതല്ല. നിങ്ങള്‍ക്കു് കെഡിഇ "
+#~ "ലഭ്യമായിടത്തു് നിന്നും മറ്റു് ഭാഷകളുടെ തര്‍ജ്ജമ പാക്കേജുകള്‍ ലഭ്യമാകുന്നതാണു്.</p><p>കുറിപ്പ്: ചില "
+#~ "പ്രയോഗങ്ങള്‍ നിങ്ങളുടെ ഭാഷയില്‍ ലഭ്യമായിരിക്കില്ല, അപ്പോള്‍ ഓട്ടോമാറ്റിക്കായി അവ ഇംഗ്ലീഷ് "
+#~ "ഉപയോഗിക്കുന്നു.</p>"
+
+#~ msgid "This is how date values will be displayed using a short notation."
+#~ msgstr "ചുരുക്കെഴുത്തുപയോഗിച്ചു് തിയ്യതി വിലകള്‍ പ്രദര്‍ശിപ്പിയ്ക്കുന്നതിങ്ങനെയായിരിയ്ക്കും."
+
+#~ msgid "Positive"
+#~ msgstr "പോസിറ്റീവ്"
+
+#~ msgid "Negative"
+#~ msgstr "നെഗറ്റീവ്"
+
+#~ msgid "&Decimal symbol:"
+#~ msgstr "&ഡെസിമല്‍ ചിഹ്നം:"
+
+#~ msgid "Tho&usands separator:"
+#~ msgstr "ആയിരങ്ങളെ വേര്‍തിരിച്ചു് കാണിയ്ക്കുന്ന അടയാളം:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal &places:"
+#~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
+
+#~ msgid "Di&git set:"
+#~ msgstr "&അക്ക ഗണം:"
+
+#~ msgid "Paper format:"
+#~ msgstr "പേപ്പറിന്റെ രീതി:"
+
+#~ msgid "None selected (<a href=\"/change\">change...</a>)"
+#~ msgstr "ഒന്നും തിരഞ്ഞെടുത്തിട്ടില്ല (<a href=\"/change\">change...</a>)"
+
+#~ msgid "KCMLocale"
+#~ msgstr "KCMLocale"
+
+#~ msgid "(C) 1998 Matthias Hoelzer, (C) 1999-2003 Hans Petter Bieker"
+#~ msgstr "(C) 1998 Matthias Hoelzer, (C) 1999-2003 Hans Petter Bieker"
+
+#~ msgid ""
+#~ "<h1>Country/Region & Language</h1>\n"
+#~ "<p>From here you can configure language, numeric, and time \n"
+#~ "settings for your particular region. In most cases it will be \n"
+#~ "sufficient to choose the country you live in. For instance KDE \n"
+#~ "will automatically choose \"German\" as language if you choose \n"
+#~ "\"Germany\" from the list. It will also change the time format \n"
+#~ "to use 24 hours and and use comma as decimal separator.</p>\n"
+#~ msgstr ""
+#~ "<h1>രാജ്യം/പ്രദേശവും ഭാഷയും</h1>\n"
+#~ "<p>ഇവിടെ നിങ്ങള്‍ക്കു് നിങ്ങളുടെ സ്ഥലത്തിനനുസരിച്ചുള്ള ഭാഷ, അക്കങ്ങള്‍, സമയം\n"
+#~ " എന്നിവ ക്രമികരിക്കുവാന്‍ സാധിക്കുന്നു. മിക്കപ്പോഴും നിങ്ങളുടെ രാജ്യം തിരഞ്ഞെടുക്കുക\n"
+#~ "മാത്രമേ ചെയ്യേണ്ടുള്ളൂ. ഉദാഹരണത്തിനു്,പട്ടികയില്‍ നിന്നും നിങ്ങള്‍ \"ജെര്‍മനി\" എന്ന്\n"
+#~ "തിരഞ്ഞെടുത്താല്‍, കെഡിഇ സ്വതവേ \"ജെര്‍മന്‍\" എന്ന ഭാഷ തിരഞ്ഞെടുക്കുന്നു. 24 മണിക്കൂര്‍\n"
+#~ "സമയം ഉപയോഗിക്കുന്നതിനായി ഇതു് സമയത്തിന്റെ ക്രമികരണവും മാറ്റുന്നു. കൂടാതെ,\n"
+#~ "ദശാംശ ചിഹ്നമായി കോമായും ഉപയോഗിക്കുന്നു.</p>\n"
+
+#~ msgid "&Numbers"
+#~ msgstr "&അക്കങ്ങള്‍"
+
+#~ msgid "&Money"
+#~ msgstr "&പണം"
+
+#~ msgid "&Time && Dates"
+#~ msgstr "&സമയവും തീയതിയും"
+
+#~ msgid "Fract digits:"
+#~ msgstr "ഭിന്നാക്കങ്ങള്‍:"
+
+#~ msgid "Here you can enter your usual currency symbol, e.g. $ or €."
+#~ msgstr "ഇവിടെ നിങ്ങളുടെ നാണയ ചിഹ്നം നല്‍കുക, ഉദാഹരണം $ അല്ലെങ്കില്‍ €."
+
+#~ msgid "Fractional digits:"
+#~ msgstr "ഭിന്നാക്കങ്ങള്‍:"
+
+#~ msgctxt "Calendar System Gregorian"
+#~ msgid "Gregorian"
+#~ msgstr "ഗ്രിഗോറിയന്‍"
+
+#~ msgctxt "Calendar System Hijri"
+#~ msgid "Hijri"
+#~ msgstr "ഹിജ്രി"
+
+#~ msgctxt "Calendar System Hebrew"
+#~ msgid "Hebrew"
+#~ msgstr "ഹീബ്രൂ"
+
+#~ msgctxt "Calendar System Jalali"
+#~ msgid "Jalali"
+#~ msgstr "ജലാലി"

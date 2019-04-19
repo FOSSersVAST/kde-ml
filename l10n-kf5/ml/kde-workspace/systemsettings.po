@@ -1,0 +1,348 @@
+# Malayalam translation of systemsettings.
+# Copyright (C) 2008-2009 This_file_is_part_of_KDE
+# This file is distributed under the same license as the systemsettings package.
+# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: systemsettings trunk\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-04-04 03:42+0200\n"
+"PO-Revision-Date: 2009-12-30 16:23+0530\n"
+"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 0.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "pravi.a@gmail.com"
+
+#. i18n: ectx: property (title), widget (QGroupBox, GbViewStyle)
+#: app/configDialog.ui:17
+#, kde-format
+msgid "View Style"
+msgstr "അവതരണരീതിയുടെ ശൈലി"
+
+#. i18n: ectx: property (text), widget (QCheckBox, ChTooltips)
+#: app/configDialog.ui:24
+#, kde-format
+msgid "Show detailed tooltips"
+msgstr "വിശദമായ സൂചനകള്‍ കാണിയ്ക്കുക"
+
+#: app/main.cpp:48 app/SettingsBase.cpp:56 classic/CategoryList.cpp:40
+#: sidebar/package/contents/ui/introPage.qml:54
+#, kde-format
+msgid "System Settings"
+msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്ങള്‍"
+
+#: app/main.cpp:48
+#, fuzzy, kde-format
+#| msgid "Central configuration center for KDE."
+msgid "Central configuration center by KDE."
+msgstr "കെഡിഇയ്ക്കു് വേണ്ടിയുള്ള കേന്ദ്രീയ ക്രമീകരണ കേന്ദ്രം."
+
+#: app/main.cpp:48 classic/ClassicMode.cpp:71 icons/IconMode.cpp:61
+#, kde-format
+msgid "(c) 2009, Ben Cooksley"
+msgstr "(c) 2009, ബെന്‍ കുക്ക്സ്ലി"
+
+#: app/main.cpp:49 classic/ClassicMode.cpp:72 icons/IconMode.cpp:62
+#: sidebar/SidebarMode.cpp:266
+#, kde-format
+msgid "Ben Cooksley"
+msgstr "ബെന്‍ കുക്ക്സ്ലി"
+
+#: app/main.cpp:49
+#, kde-format
+msgid "Maintainer"
+msgstr "പരിപാലകന്‍"
+
+#: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
+#: sidebar/SidebarMode.cpp:267
+#, kde-format
+msgid "Mathias Soeken"
+msgstr "മത്തിയാസ് സോക്കെന്‍"
+
+#: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
+#: sidebar/SidebarMode.cpp:267
+#, kde-format
+msgid "Developer"
+msgstr "രചയിതാവു്"
+
+#: app/main.cpp:51
+#, kde-format
+msgid "Will Stephenson"
+msgstr "വില്‍ സ്റ്റീഫന്‍സന്‍"
+
+#: app/main.cpp:51
+#, kde-format
+msgid "Internal module representation, internal module model"
+msgstr "ആന്തരിക മൊഡ്യൂള്‍ പ്രതിനിധീകരണം, ആന്തരിക മൊഡ്യൂള്‍ മാതൃക"
+
+#: app/SettingsBase.cpp:63
+#, kde-format
+msgctxt "Search through a list of control modules"
+msgid "Search"
+msgstr "തെരയുക"
+
+#: app/SettingsBase.cpp:144
+#, kde-format
+msgid "Configure"
+msgstr "ക്രമീകരിയ്ക്കുക"
+
+#: app/SettingsBase.cpp:171
+#, kde-format
+msgid "Help"
+msgstr "സഹായം"
+
+#: app/SettingsBase.cpp:176 app/SettingsBase.cpp:371
+#, kde-format
+msgid "About Active Module"
+msgstr "സജീവമായ മൊഡ്യൂളിനെക്കുറിച്ചു്"
+
+#: app/SettingsBase.cpp:190
+#, kde-format
+msgctxt "General config for System Settings"
+msgid "General"
+msgstr "പൊതുവായ"
+
+#: app/SettingsBase.cpp:282
+#, kde-format
+msgid ""
+"System Settings was unable to find any views, and hence nothing is available "
+"to configure."
+msgstr ""
+"സിസ്റ്റം സജ്ജീകരണങ്ങള്‍ക്കു് അവതരണരീതികളൊന്നും കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, അതുകൊണ്ടു് തന്നെ "
+"ക്രമീകരിയ്ക്കാന്‍ ഒന്നും ലഭ്യമല്ല."
+
+#: app/SettingsBase.cpp:282 app/SettingsBase.cpp:320
+#, kde-format
+msgid "No views found"
+msgstr "പ്രദര്‍ശനരീതികളൊന്നും കണ്ടില്ല"
+
+#: app/SettingsBase.cpp:320
+#, kde-format
+msgid ""
+"System Settings was unable to find any views, and hence has nothing to "
+"display."
+msgstr ""
+"സിസ്റ്റം സജ്ജീകരണങ്ങള്‍ക്കു് അവതരണരീതികളൊന്നും കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, അതുകൊണ്ടു് തന്നെ "
+"കാണിയ്ക്കാന്‍ ഒന്നുമില്ല."
+
+#: app/SettingsBase.cpp:353
+#, kde-format
+msgid "About Active View"
+msgstr "സജീവമായ മൊഡ്യൂളിനെക്കുറിച്ചു്"
+
+#: app/SettingsBase.cpp:414
+#, kde-format
+msgid "About %1"
+msgstr "%1 ന്റെ അണിയറ വിശേഷം"
+
+#. i18n: ectx: label, entry (ShowToolTips), group (Main)
+#: app/systemsettings.kcfg:9
+#, kde-format
+msgid "Determines whether detailed tooltips should be used"
+msgstr "വിശദമായ സൂചനകള്‍ ഉപയോഗിയ്ക്കണമോ എന്നു് തീരുമാനിയ്ക്കുന്നു"
+
+#. i18n: ectx: label, entry (ActiveView), group (Main)
+#: app/systemsettings.kcfg:13
+#, kde-format
+msgid "Internal name for the view used"
+msgstr "ഉപയോഗിച്ച അവതരണരീതിയുടെ ആന്തരിക പേരു്"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: app/systemsettingsui.rc:16
+#, kde-format
+msgid "About System Settings"
+msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്ങളെക്കുറിച്ചു്"
+
+#: app/ToolTips/tooltipmanager.cpp:201
+#, fuzzy, kde-format
+#| msgid "<i>Contains 1 item</i>"
+#| msgid_plural "<i>Contains %1 items</i>"
+msgid "Contains 1 item"
+msgid_plural "Contains %1 items"
+msgstr[0] "<i>1 ഇനം ഉള്‍ക്കൊള്ളുന്നു</i>"
+msgstr[1] "<i>%1 ഇനങ്ങള്‍ ഉള്‍ക്കൊള്ളുന്നു</i>"
+
+#: classic/CategoryList.cpp:41
+#, kde-format
+msgid "Configure your system"
+msgstr "നിങ്ങളുടെ സിസ്റ്റം ക്രമീകരിയ്ക്കുക"
+
+#: classic/CategoryList.cpp:42
+#, kde-format
+msgid ""
+"Welcome to \"System Settings\", a central place to configure your computer "
+"system."
+msgstr ""
+"നിങ്ങളുടെ സിസ്റ്റം ക്രമീകരിയ്ക്കാനുള്ള കേന്ദ്ര സ്ഥാനമായ \"സിസ്റ്റം സജ്ജീകരണങ്ങളിലേയ്ക്കു്\" "
+"സ്വാഗതം."
+
+#: classic/ClassicMode.cpp:67 classic/ClassicMode.cpp:252
+#, kde-format
+msgid "Tree View"
+msgstr "ശാഖകളായുള്ള അവതരണരീതി"
+
+#: classic/ClassicMode.cpp:69
+#, kde-format
+msgid "Provides a classic tree-based view of control modules."
+msgstr "നിയന്ത്രണ ഭാഗങ്ങളുടെ ശാഖകളായുള്ള നിത്യഹരിത അവതരണരീതി തരുന്നു."
+
+#: classic/ClassicMode.cpp:72 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:265
+#: sidebar/SidebarMode.cpp:266
+#, kde-format
+msgid "Author"
+msgstr "രചയിതാവു്"
+
+#. i18n: ectx: property (text), widget (QCheckBox, CbExpand)
+#: classic/configClassic.ui:17
+#, kde-format
+msgid "Expand the first level automatically"
+msgstr "ആദ്യ തലം സ്വയം വികസിപ്പിയ്ക്കുക"
+
+#: core/ExternalAppModule.cpp:34
+#, kde-format
+msgid "%1 is an external application and has been automatically launched"
+msgstr "%1 പുറമെയുള്ളൊരു പ്രയോഗമാണു്, അതു് സ്വയം തുടങ്ങിയിട്ടുണ്ടു്"
+
+#: core/ExternalAppModule.cpp:35
+#, kde-format
+msgid "Relaunch %1"
+msgstr "%1 വീണ്ടും തുടങ്ങുക"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ExternalModule)
+#: core/externalModule.ui:14
+#, kde-format
+msgid "Dialog"
+msgstr "ഡയലോഗ്"
+
+#: core/ModuleView.cpp:91
+#, kde-format
+msgid "Reset all current changes to previous values"
+msgstr "ഇപ്പോള്‍ വരുത്തിയ എല്ലാ മാറ്റങ്ങളും മുമ്പുണ്ടായിരുന്ന വിലകളിലേയ്ക്കു് മാറ്റുക"
+
+#: core/ModuleView.cpp:247
+#, kde-format
+msgid ""
+"The settings of the current module have changed.\n"
+"Do you want to apply the changes or discard them?"
+msgstr ""
+"ഇപ്പോള്‍ സജീവമായ മൊഡ്യൂളിന്റെ സജ്ജീകരണങ്ങള്‍ മാറിയിട്ടുണ്ടു്.\n"
+"മാറ്റങ്ങള്‍ നടപ്പിലാക്കണോ അതോ കളയണോ?"
+
+#: core/ModuleView.cpp:249
+#, kde-format
+msgid "Apply Settings"
+msgstr "സജ്ജീകരണങ്ങള്‍ നടപ്പിലാക്കുക"
+
+#: icons/IconMode.cpp:59
+#, kde-format
+msgid "Icon View"
+msgstr "ചിഹ്നങ്ങളായി കാണുക"
+
+#: icons/IconMode.cpp:60
+#, kde-format
+msgid "Provides a categorized icons view of control modules."
+msgstr "നിയന്ത്രണ മൊഡ്യൂളുകളുടെ ചിഹ്നങ്ങള്‍ തരംതിരിച്ചു് കാണിയ്ക്കന്നു. "
+
+#: icons/IconMode.cpp:66
+#, fuzzy, kde-format
+#| msgid "Apply Settings"
+msgid "All Settings"
+msgstr "സജ്ജീകരണങ്ങള്‍ നടപ്പിലാക്കുക"
+
+#: icons/IconMode.cpp:67
+#, kde-format
+msgid "Keyboard Shortcut: %1"
+msgstr "കീബോര്‍ഡ് കുറുക്കുവഴി: %1"
+
+#: sidebar/package/contents/ui/CategoriesPage.qml:61
+#, fuzzy, kde-format
+#| msgctxt "Search through a list of control modules"
+#| msgid "Search"
+msgid "Search..."
+msgstr "തെരയുക"
+
+#: sidebar/package/contents/ui/CategoriesPage.qml:90
+#, kde-format
+msgctxt "A search yielded no results"
+msgid "No items matching your search"
+msgstr ""
+
+#: sidebar/package/contents/ui/IntroIcon.qml:85
+#, kde-format
+msgid "Most used module number %1"
+msgstr ""
+
+#: sidebar/package/contents/ui/introPage.qml:73
+#, kde-format
+msgid "Frequently used:"
+msgstr ""
+
+#: sidebar/package/contents/ui/SubCategoryPage.qml:53
+#, kde-format
+msgid "Back"
+msgstr ""
+
+#: sidebar/SidebarMode.cpp:262
+#, kde-format
+msgid "Sidebar View"
+msgstr ""
+
+#: sidebar/SidebarMode.cpp:263
+#, fuzzy, kde-format
+#| msgid "Provides a categorized icons view of control modules."
+msgid "Provides a categorized sidebar for control modules."
+msgstr "നിയന്ത്രണ മൊഡ്യൂളുകളുടെ ചിഹ്നങ്ങള്‍ തരംതിരിച്ചു് കാണിയ്ക്കന്നു. "
+
+#: sidebar/SidebarMode.cpp:264
+#, kde-format
+msgid "(c) 2017, Marco Martin"
+msgstr ""
+
+#: sidebar/SidebarMode.cpp:265
+#, kde-format
+msgid "Marco Martin"
+msgstr ""
+
+#: sidebar/SidebarMode.cpp:486
+#, kde-format
+msgid "Sidebar"
+msgstr ""
+
+#: sidebar/SidebarMode.cpp:529
+#, kde-format
+msgid "Most Used"
+msgstr ""
+
+#: sidebar/ToolTips/tooltipmanager.cpp:204
+#, kde-format
+msgid "<i>Contains 1 item</i>"
+msgid_plural "<i>Contains %1 items</i>"
+msgstr[0] "<i>1 ഇനം ഉള്‍ക്കൊള്ളുന്നു</i>"
+msgstr[1] "<i>%1 ഇനങ്ങള്‍ ഉള്‍ക്കൊള്ളുന്നു</i>"
+
+#, fuzzy
+#~| msgid "System Settings"
+#~ msgid "System Settings Handbook"
+#~ msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്ങള്‍"
+
+#, fuzzy
+#~| msgid "About %1"
+#~ msgid "About KDE"
+#~ msgstr "%1 ന്റെ അണിയറ വിശേഷം"
+
+#~ msgid "Overview"
+#~ msgstr "അവലോകനം"

@@ -1,0 +1,389 @@
+# translation of kcmfonts.po to
+# Copyright (C) 2008, 2010 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdebase package.
+#
+# ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>, 2008.
+# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008, 2010.
+# seshagiri prabhu <seshagiriprabhu@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmfonts\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-02-14 03:17+0100\n"
+"PO-Revision-Date: 2010-02-01 01:02+0530\n"
+"Last-Translator: seshagiri prabhu <seshagiriprabhu@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: fonts.cpp:278
+#, fuzzy, kde-format
+#| msgid ""
+#| "<p>Some changes such as anti-aliasing will only affect newly started "
+#| "applications.</p>"
+msgid ""
+"<p>Some changes such as anti-aliasing or DPI will only affect newly started "
+"applications.</p>"
+msgstr ""
+"<p>ആന്റി-അലിയാസിങ് പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ മാത്രമേ ലഭ്യമാകുള്ളൂ.</"
+"p>"
+
+#: fonts.cpp:279 fonts.cpp:289
+#, kde-format
+msgid "Font Settings Changed"
+msgstr "അക്ഷരസഞ്ചയ ക്രമീകരണങ്ങളില്‍ മാറ്റം വരുത്തിയിരിക്കുന്നു"
+
+#: fonts.cpp:288
+#, kde-format
+msgid ""
+"<p>Some changes such as DPI will only affect newly started applications.</p>"
+msgstr ""
+"<p>ഡിപിഐ പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ മാത്രമേ ലഭ്യമാകുള്ളൂ.</p>"
+
+#: fonts.cpp:440
+#, kde-format
+msgid "Fonts"
+msgstr ""
+
+#: fonts.cpp:442
+#, kde-format
+msgid "Antonis Tsiapaliokas"
+msgstr ""
+
+#: kxftconfig.cpp:444
+#, fuzzy, kde-format
+#| msgctxt "Use anti-aliasing"
+#| msgid "System Settings"
+msgctxt "use system subpixel setting"
+msgid "Vendor default"
+msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
+
+#: kxftconfig.cpp:446
+#, fuzzy, kde-format
+#| msgid "None"
+msgctxt "no subpixel rendering"
+msgid "None"
+msgstr "ഒന്നുമല്ല"
+
+#: kxftconfig.cpp:448
+#, kde-format
+msgid "RGB"
+msgstr "ആര്‍ജിബി"
+
+#: kxftconfig.cpp:450
+#, kde-format
+msgid "BGR"
+msgstr "ബിജിആര്‍"
+
+#: kxftconfig.cpp:452
+#, kde-format
+msgid "Vertical RGB"
+msgstr "വെര്‍ട്ടിക്കല്‍ ആര്‍ജിബി"
+
+#: kxftconfig.cpp:454
+#, kde-format
+msgid "Vertical BGR"
+msgstr "വെര്‍ട്ടിക്കല്‍ ബിജിആര്‍"
+
+#: kxftconfig.cpp:482
+#, fuzzy, kde-format
+#| msgctxt "Use anti-aliasing"
+#| msgid "System Settings"
+msgctxt "use system hinting settings"
+msgid "Vendor default"
+msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
+
+#: kxftconfig.cpp:484
+#, fuzzy, kde-format
+#| msgid "Medium"
+msgctxt "medium hinting"
+msgid "Medium"
+msgstr "മദ്ധ്യം"
+
+#: kxftconfig.cpp:486
+#, fuzzy, kde-format
+#| msgid "None"
+msgctxt "no hinting"
+msgid "None"
+msgstr "ഒന്നുമല്ല"
+
+#: kxftconfig.cpp:488
+#, fuzzy, kde-format
+#| msgid "Slight"
+msgctxt "slight hinting"
+msgid "Slight"
+msgstr "ചെറുതായി"
+
+#: kxftconfig.cpp:490
+#, fuzzy, kde-format
+#| msgid "Full"
+msgctxt "full hinting"
+msgid "Full"
+msgstr "പൂര്‍ണ്ണം"
+
+#: package/contents/ui/FontWidget.qml:68
+#, kde-format
+msgid "Select %1 Font..."
+msgstr ""
+
+#: package/contents/ui/main.qml:30
+#, kde-format
+msgid "This module lets you configure the system fonts."
+msgstr ""
+
+#: package/contents/ui/main.qml:40
+#, fuzzy, kde-format
+#| msgid "Ad&just All Fonts..."
+msgid "&Adjust All Fonts..."
+msgstr "എല്ലാ അക്ഷരസഞ്ചയങ്ങളും ആ&വശ്യാനുസൃതമാക്കുക..."
+
+#: package/contents/ui/main.qml:47
+#, fuzzy, kde-format
+#| msgid "General"
+msgid "General:"
+msgstr "സാധാരണ"
+
+#: package/contents/ui/main.qml:52
+#, fuzzy, kde-format
+#| msgid "Fixed width"
+msgid "Fixed width:"
+msgstr "തുല്ല്യ വീതി"
+
+#: package/contents/ui/main.qml:57
+#, fuzzy, kde-format
+#| msgid "Small"
+msgid "Small:"
+msgstr "ചെറിയ"
+
+#: package/contents/ui/main.qml:62
+#, fuzzy, kde-format
+#| msgid "Toolbar"
+msgid "Toolbar:"
+msgstr "ഉപകരണപട്ട"
+
+#: package/contents/ui/main.qml:67
+#, fuzzy, kde-format
+#| msgid "Menu"
+msgid "Menu:"
+msgstr "മെനു"
+
+#: package/contents/ui/main.qml:72
+#, fuzzy, kde-format
+#| msgid "Window title"
+msgid "Window title:"
+msgstr "ജാലകത്തിനുള്ള തലക്കെട്ടു്"
+
+#: package/contents/ui/main.qml:84
+#, fuzzy, kde-format
+#| msgid "Use a&nti-aliasing:"
+msgctxt "Used as a noun, and precedes a combobox full of options"
+msgid "Anti-aliasing:"
+msgstr "&ആന്റി-അലിയാസിങ് ഉപയോഗിക്കുക:"
+
+#: package/contents/ui/main.qml:86
+#, fuzzy, kde-format
+#| msgctxt "Use anti-aliasing"
+#| msgid "Enabled"
+msgid "Enabled"
+msgstr "പ്രവര്‍ത്തന സജ്ജം"
+
+#: package/contents/ui/main.qml:86
+#, fuzzy, kde-format
+#| msgctxt "Use anti-aliasing"
+#| msgid "System Settings"
+msgid "Vendor default"
+msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
+
+#: package/contents/ui/main.qml:86
+#, fuzzy, kde-format
+#| msgctxt "Use anti-aliasing"
+#| msgid "Disabled"
+msgid "Disabled"
+msgstr "പ്രവര്‍ത്തന രഹിതം"
+
+#: package/contents/ui/main.qml:96
+#, kde-format
+msgid "Exclude range from anti-aliasing"
+msgstr ""
+
+#: package/contents/ui/main.qml:113 package/contents/ui/main.qml:128
+#, kde-format
+msgid "%1 pt"
+msgstr ""
+
+#: package/contents/ui/main.qml:120
+#, fuzzy, kde-format
+#| msgid " to "
+msgid "to"
+msgstr "ടു"
+
+#: package/contents/ui/main.qml:141
+#, fuzzy, kde-format
+#| msgid "&Use sub-pixel rendering:"
+msgctxt "Used as a noun, and precedes a combobox full of options"
+msgid "Sub-pixel rendering:"
+msgstr "സബ്-പിക്സല്‍ റെണ്ടറിങ് &ഉപയോഗിക്കുക:"
+
+#: package/contents/ui/main.qml:178
+#, fuzzy, kde-format
+#| msgid "Hinting style: "
+msgctxt "Used as a noun, and precedes a combobox full of options"
+msgid "Hinting:"
+msgstr "ഹിന്റിങ് രീതി: "
+
+#: package/contents/ui/main.qml:216
+#, fuzzy, kde-format
+#| msgid "Force fonts DPI:"
+msgid "Force font DPI:"
+msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ നിര്‍ബന്ധമായാക്കേണ്ടതു്:"
+
+#: package/contents/ui/main.qml:238
+#, kde-format
+msgid "Select Font"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Configure..."
+#~ msgid "Configure the system fonts"
+#~ msgstr "ക്രമീകരിക്കുക..."
+
+#~ msgid "Configure Anti-Alias Settings"
+#~ msgstr "ആന്റി-അലിയാസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#~ msgid "E&xclude range:"
+#~ msgstr "ഒ&ഴിവാക്കേണ്ട പരിധി:"
+
+#, fuzzy
+#~| msgid " pt"
+#~ msgctxt "abbreviation for unit of points"
+#~ msgid " pt"
+#~ msgstr " pt"
+
+#, fuzzy
+#~ msgid ""
+#~ "<p>If you have a TFT or LCD screen you can further improve the quality of "
+#~ "displayed fonts by selecting this option.<br />Sub-pixel rendering is "
+#~ "also known as ClearType(tm).<br /> In order for sub-pixel rendering to "
+#~ "work correctly you need to know how the sub-pixels of your display are "
+#~ "aligned.</p> <p>On TFT or LCD displays a single pixel is actually "
+#~ "composed of three sub-pixels, red, green and blue. Most displays have a "
+#~ "linear ordering of RGB sub-pixel, some have BGR.<br /> This feature does "
+#~ "not work with CRT monitors.</p>"
+#~ msgstr ""
+#~ "<p>നിങ്ങളുടെതു ഒരു എല്‍സിഡിയൊ ടി.എഫ്.ടി സ്ക്രീനാണെങ്കില്‍, ധ്രശ്യമാകുന്ന അക്ഷരസഞ്ചയങ്ങളുടെ "
+#~ "പരിശുദ്ധി കൂട്ടുവാന്‍ ഈ വഴി തിരഞ്ഞെടുക്കുക.<br />സബ്-പിക്സല്‍ "
+
+#~ msgid ""
+#~ "Hinting is a process used to enhance the quality of fonts at small sizes."
+#~ msgstr "വലിപ്പം കുറഞ്ഞ അക്ഷരങ്ങളുടെ ഗുണനിലവാരം കൂട്ടാനുള്ളൊരു പ്രവൃത്തിയാണു് ഹിന്റിങ്ങ്."
+
+#~ msgid "Used for normal text (e.g. button labels, list items)."
+#~ msgstr "സാധാരണ വാചകത്തിനു് ഉപയോഗിക്കുന്നതു് (ഉദാ. ബട്ടണ്‍ ലേബലുകള്‍, പട്ടികയിലുള്ള വസ്തുക്കള്‍)"
+
+#~ msgid "A non-proportional font (i.e. typewriter font)."
+#~ msgstr "ഒരു ആനുപാതികമല്ലാത്ത അക്ഷരസഞ്ചയം (അതായതു  ടൈപ്പ്റൈറ്റര്‍ അക്ഷരസഞ്ചയം)."
+
+#~ msgid "Smallest font that is still readable well."
+#~ msgstr "വായിക്കുവാന്‍ സാധ്യമാകുന്ന ഏറ്റവും ചെറിയ വലിപ്പമുള്ള അക്ഷരസഞ്ചയം."
+
+#~ msgid "Used to display text beside toolbar icons."
+#~ msgstr "ഉപകരണപട്ടയുടെ ചിഹ്നത്തിനടുത്തു് വാചകം പ്രദര്‍ശിപ്പിക്കുന്നതിനായി ഉപയോഗിക്കുന്നു."
+
+#~ msgid "Used by menu bars and popup menus."
+#~ msgstr "മെനു ബാറുകളും പോപപ്പ് മെനുകളും ഉപയോഗിക്കുന്നു."
+
+#~ msgid "Used by the window titlebar."
+#~ msgstr "ജാലകത്തിനുള്ള തലക്കെട്ട് പട്ടയില്‍ ഉപയോഗിക്കുന്നു."
+
+#~ msgctxt "Font role"
+#~ msgid "%1: "
+#~ msgstr "%1: "
+
+#~ msgid "Click to change all fonts"
+#~ msgstr "എല്ലാ അക്ഷരസഞ്ചയങ്ങളും മാറ്റുന്നതിനായി ക്ലിക്ക് ചെയ്യുക"
+
+#~ msgctxt "Use anti-aliasing"
+#~ msgid "System Settings"
+#~ msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
+
+#, fuzzy
+#~| msgid ""
+#~| "If this option is selected, KDE will smooth the edges of curves in fonts."
+#~ msgid "Select this option to smooth the edges of curves in fonts."
+#~ msgstr ""
+#~ "ഈ ഐച്ഛികം തെരഞ്ഞെടുക്കുകയാണെങ്കില്‍ കെഡിഇ അക്ഷരങ്ങളുടെ വളവുകളുടെ അരികുകള്‍ "
+#~ "മിനുക്കുന്നതായിരിയ്ക്കും."
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>This option forces a specific DPI value for fonts. It may be useful "
+#~| "when the real DPI of the hardware is not detected properly and it is "
+#~| "also often misused when poor quality fonts are used that do not look "
+#~| "well with DPI values other than 96 or 120 DPI.</p><p>The use of this "
+#~| "option is generally discouraged. For selecting proper DPI value a better "
+#~| "option is explicitly configuring it for the whole X server if possible "
+#~| "(e.g. DisplaySize in xorg.conf or adding <i>-dpi value</i> to "
+#~| "ServerLocalArgs= in $KDEDIR/share/config/kdm/kdmrc). When fonts do not "
+#~| "render properly with real DPI value better fonts should be used or "
+#~| "configuration of font hinting should be checked.</p>"
+#~ msgid ""
+#~ "<p>This option forces a specific DPI value for fonts. It may be useful "
+#~ "when the real DPI of the hardware is not detected properly and it is also "
+#~ "often misused when poor quality fonts are used that do not look well with "
+#~ "DPI values other than 96 or 120 DPI.</p><p>The use of this option is "
+#~ "generally discouraged. For selecting proper DPI value a better option is "
+#~ "explicitly configuring it for the whole X server if possible (e.g. "
+#~ "DisplaySize in xorg.conf). When fonts do not render properly with real "
+#~ "DPI value better fonts should be used or configuration of font hinting "
+#~ "should be checked.</p>"
+#~ msgstr ""
+#~ "<p>ഈ വഴി തിരഞ്ഞെടുത്താല്‍ ഒരു നിശ്ചിതമായ ഡിപിഐ അക്ഷരസഞ്ചയം അനുവാര്യമാണ്. ശരിയായിട്ടുള്ള "
+#~ "ഡിപിഐ ഹാര്‍ഡ്വെവര്‍ കണ്ടെത്താത്ത സമയത്ത് ഇതു ഉപകാരപ്രദമാകും, നിലവാരം കുറഞ്ഞ അക്ഷരസഞ്ചയങ്ങള്‍ "
+#~ "അതു 96 അല്ലേങ്കില്‍ 120 ഡിപിഐയിലും കാണുവാന്‍ സുഗപ്രദമല്ലാത്തതു ഉപയോഗിക്കുബോള്‍ ദുരുപയോഗപെടുന്നു."
+#~ "</p><p>ഈ വഴി തിരഞ്ഞെടുക്കാന്‍ പ്രേരിപ്പിക്കന്നില്ല. മികച്ച ഡിപിഐ തിരഞ്ഞെടുക്കാന്‍ ഒരു നല്ല "
+#~ "വഴി പുറമേ നിന്നു എക്സ് സെര്‍വറിനെ ക്രമീകരിയ്ക്കുക (ഉദാ: xorg.confന്റെ പ്രദര്‍ശനത്തിന്റെ "
+#~ "വലിപ്പം അല്ലേങ്കില്‍ ServerLocalArgs= in $KDEDIR/share/config/kdm/kdmrcല്‍ <i>-"
+#~ "dpi value</i> ചേര്‍ക്കുക). അക്ഷരസഞ്ചയങ്ങളുടെ രൂപകല്പനാ സാധാരണ ഡിപിഐയുടെ നിലവാരം "
+#~ "കാണിക്കുന്നില്ലേങ്കില്‍ അക്ഷരസഞ്ചയം മാറ്റുകയൊ അക്ഷരസഞ്ചയങ്ങളുടെ ക്രമീകരണം പരിശോധിക്കുക,</p>"
+
+#, fuzzy
+#~| msgid "Taskbar"
+#~ msgctxt "font usage"
+#~ msgid "Taskbar"
+#~ msgstr "ടാസ്ക്ബാര്‍"
+
+#, fuzzy
+#~| msgid "Desktop"
+#~ msgctxt "font usage"
+#~ msgid "Desktop"
+#~ msgstr "പണിയിടം"
+
+#~ msgid "Used by the taskbar."
+#~ msgstr "ടാസ്ക്ബാറില്‍ ഉപയോഗിക്കുന്നു."
+
+#~ msgid "Used for desktop icons."
+#~ msgstr "പണിയിടത്തിലുള്ള ചിഹ്നങ്ങള്‍ക്കായി ഉപയോഗിക്കുക."
+
+#~ msgctxt "Force fonts DPI"
+#~ msgid "Disabled"
+#~ msgstr "പ്രവര്‍ത്തന രഹിതം"
+
+#~ msgid "96 DPI"
+#~ msgstr "96 ഡിപിഐ"
+
+#~ msgid "120 DPI"
+#~ msgstr "120 ഡിപിഐ"

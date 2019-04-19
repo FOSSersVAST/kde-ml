@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-07-02 03:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.ksysguard.appdata.xml:3
+msgid "KSysGuard"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.ksysguard.appdata.xml:4
+msgid "Monitor running processes and system performance"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.ksysguard.appdata.xml:11
+msgid "System Guard allows you to monitor information and statistics about your system."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.ksysguard.appdata.xml:12
+msgid "In addition to monitoring the local system, it can connect to remote systems running the System Guard Daemon."
+msgstr ""

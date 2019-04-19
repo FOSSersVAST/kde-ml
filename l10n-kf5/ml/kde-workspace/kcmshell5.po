@@ -1,0 +1,142 @@
+# Malayalam translation of kcmshell.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdebase package.
+# സുജിത് ഹരിദാസന്‍ <sujith.h@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmshell\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-01-23 03:29+0100\n"
+"PO-Revision-Date: 2008-07-10 02:36+0530\n"
+"Last-Translator: സുജിത് ഹരിദാസന്‍ <sujith.h@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "സുജിത് ഹരിദാസന്‍"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sujith.h@gmail.com"
+
+#: main.cpp:192
+#, kde-format
+msgid "System Settings Module"
+msgstr ""
+
+#: main.cpp:194
+#, fuzzy, kde-format
+#| msgid "A tool to start single KDE control modules"
+msgid "A tool to start single system settings modules"
+msgstr "കെഡിയിലെ ഒരു നിയന്ത്രണ മൊഡ്യൂളുകള്‍ തുടങ്ങാനുള്ള പണിയായുധം"
+
+#: main.cpp:196
+#, fuzzy, kde-format
+#| msgid "(c) 1999-2004, The KDE Developers"
+msgid "(c) 1999-2016, The KDE Developers"
+msgstr "(C) 1999-2004, കെഡിഇലെ രചയിതാക്കള്‍"
+
+#: main.cpp:198
+#, kde-format
+msgid "Frans Englich"
+msgstr "ഫ്രാന്സ് എന്‍ഗ്ളിച്ച്"
+
+#: main.cpp:198
+#, kde-format
+msgid "Maintainer"
+msgstr "പരിപാലകന്‍"
+
+#: main.cpp:199
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr "ഡാനിയല്‍ മോള്‍കെന്ടീന്‍"
+
+#: main.cpp:200
+#, kde-format
+msgid "Matthias Hoelzer-Kluepfel"
+msgstr "മത്തിയാസ്  ഹൊള്‍സര്‍-ക്ളുപ്ഫേല്‍"
+
+#: main.cpp:201
+#, kde-format
+msgid "Matthias Elter"
+msgstr "മത്തിയാസ് എല്ടര്‍"
+
+#: main.cpp:202
+#, kde-format
+msgid "Matthias Ettrich"
+msgstr "മത്തിയാസ് എട്ട്റിച്ച്"
+
+#: main.cpp:203
+#, kde-format
+msgid "Waldo Bastian"
+msgstr "വാള്‍ഡൊ ബാസ്റ്റിന്‍"
+
+#: main.cpp:209
+#, kde-format
+msgid "List all possible modules"
+msgstr "സാധ്യമായ എല്ലാ മൊഡ്യൂളുകളുടെ പട്ടിക"
+
+#: main.cpp:210
+#, kde-format
+msgid "Configuration module to open"
+msgstr "തുറക്കേണ്ട ക്രമീകരണ മൊഡ്യൂള്‍"
+
+#: main.cpp:211
+#, kde-format
+msgid "Specify a particular language"
+msgstr "ഒരു ഭാഷ വ്യക്തമാക്കുക"
+
+#: main.cpp:212
+#, kde-format
+msgid "Do not display main window"
+msgstr "പ്രധാന ജാലകം കാണിക്കരുത്"
+
+#: main.cpp:213
+#, kde-format
+msgid "Arguments for the module"
+msgstr ""
+
+#: main.cpp:214
+#, kde-format
+msgid "Use a specific icon for the window"
+msgstr ""
+
+#: main.cpp:215
+#, kde-format
+msgid "Use a specific caption for the window"
+msgstr ""
+
+#: main.cpp:224
+#, kde-format
+msgid ""
+"--lang is deprecated. Please set the LANGUAGE environment variable instead"
+msgstr ""
+
+#: main.cpp:228
+#, kde-format
+msgid "The following modules are available:"
+msgstr "താഴെ പറയുന്ന മൊഡ്യൂളുകള്‍ ലഭ്യമാണ്"
+
+#: main.cpp:245
+#, kde-format
+msgid "No description available"
+msgstr "വിവരണം ഒന്നും ലഭ്യമല്ല"
+
+#: main.cpp:276
+#, kde-format
+msgid ""
+"Could not find module '%1'. See kcmshell5 --list for the full list of "
+"modules."
+msgstr ""
+
+#~ msgid "KDE Control Module"
+#~ msgstr "കെഡിഇ നിയന്ത്രണ മൊഡ്യൂള്‍"

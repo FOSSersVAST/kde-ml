@@ -1,0 +1,737 @@
+# translation of kfindpart.po to
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kfindpart package.
+# ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>, 2008.
+# Hari|ഹരി  Vishnu | വിഷ്ണു <harivishnu@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kfindpart\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-11-15 03:43+0100\n"
+"PO-Revision-Date: 2008-12-05 02:28+0730\n"
+"Last-Translator: Hari|ഹരി  Vishnu | വിഷ്ണു <harivishnu@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: kfinddlg.cpp:47
+#, fuzzy, kde-format
+#| msgid "Find Files/Folders"
+msgctxt "@title:window"
+msgid "Find Files/Folders"
+msgstr "ഫയലുകള്‍/അറകള്‍ കണ്ടുപിടിക്കുക"
+
+#: kfinddlg.cpp:66 kfinddlg.cpp:215
+#, kde-format
+msgctxt "the application is currently idle, there is no active search"
+msgid "Idle."
+msgstr ""
+
+#. i18n as below
+#: kfinddlg.cpp:151
+#, fuzzy, kde-format
+#| msgid "one file found"
+#| msgid_plural "%1 files found"
+msgid "0 items found"
+msgstr "ഒരു ഫയല്‍ ലഭ്യമായി"
+
+#: kfinddlg.cpp:190
+#, kde-format
+msgid "Searching..."
+msgstr "തെരയുന്നു..."
+
+#: kfinddlg.cpp:217
+#, kde-format
+msgid "Canceled."
+msgstr ""
+
+#: kfinddlg.cpp:219 kfinddlg.cpp:222 kfinddlg.cpp:225
+#, kde-format
+msgid "Error."
+msgstr "പിശകു്."
+
+#: kfinddlg.cpp:220
+#, kde-format
+msgid "Please specify an absolute path in the \"Look in\" box."
+msgstr "\"ഇതില്‍ നോക്കുക\" കളത്തില്‍ ഒരു പൂര്‍ണമായ സ്ഥാന പേരു്‌ വ്യക്തമാക്കുക."
+
+#: kfinddlg.cpp:223
+#, kde-format
+msgid "Could not find the specified folder."
+msgstr "പറഞ്ഞിരിക്കുന്ന അറ ലഭ്യമാക്കുവാന്‍ സാധ്യമായില്ല."
+
+#: kfinddlg.cpp:246 kfinddlg.cpp:270
+#, fuzzy, kde-format
+#| msgid "one file found"
+#| msgid_plural "%1 files found"
+msgid "one item found"
+msgid_plural "%1 items found"
+msgstr[0] "ഒരു ഫയല്‍ ലഭ്യമായി"
+msgstr[1] "%1 ഫയലുകള്‍ ലഭ്യമായി"
+
+#: kfindtreeview.cpp:51
+#, kde-format
+msgid "Read-write"
+msgstr "റീഡ്-റൈറ്റ്"
+
+#: kfindtreeview.cpp:52
+#, kde-format
+msgid "Read-only"
+msgstr "റീഡ്-ഒണ്‍ലി"
+
+#: kfindtreeview.cpp:53
+#, kde-format
+msgid "Write-only"
+msgstr "റൈറ്റ്-ഒണ്‍ലി"
+
+#: kfindtreeview.cpp:54
+#, kde-format
+msgid "Inaccessible"
+msgstr "ലഭ്യമല്ലാത്ത"
+
+#: kfindtreeview.cpp:74
+#, fuzzy, kde-format
+#| msgid "Name"
+msgctxt "file name column"
+msgid "Name"
+msgstr "പേരു്"
+
+#: kfindtreeview.cpp:76
+#, fuzzy, kde-format
+#| msgid "In Subfolder"
+msgctxt "name of the containing folder"
+msgid "In Subfolder"
+msgstr "ഉപഫോള്‍ഡറില്‍"
+
+#: kfindtreeview.cpp:78
+#, fuzzy, kde-format
+#| msgid "Size"
+msgctxt "file size column"
+msgid "Size"
+msgstr "വലിപ്പം"
+
+#: kfindtreeview.cpp:80
+#, fuzzy, kde-format
+#| msgid "Modified"
+msgctxt "modified date column"
+msgid "Modified"
+msgstr "മാറ്റം വരുത്തിയിരിക്കുന്നു"
+
+#: kfindtreeview.cpp:82
+#, fuzzy, kde-format
+#| msgid "Permissions"
+msgctxt "file permissions column"
+msgid "Permissions"
+msgstr "അനുമതികള്‍"
+
+#: kfindtreeview.cpp:84
+#, fuzzy, kde-format
+#| msgid "First Matching Line"
+msgctxt "first matching line of the query string in this file"
+msgid "First Matching Line"
+msgstr "ചേരുന്ന ആദ്യത്തെ വരി"
+
+#: kfindtreeview.cpp:346
+#, kde-format
+msgid "&Open containing folder(s)"
+msgstr ""
+
+#: kfindtreeview.cpp:350
+#, fuzzy, kde-format
+#| msgid "Delete"
+msgid "&Delete"
+msgstr "വെട്ടിമാറ്റുക"
+
+#: kfindtreeview.cpp:354
+#, kde-format
+msgid "&Move to Trash"
+msgstr ""
+
+#: kfindtreeview.cpp:431
+#, fuzzy, kde-format
+#| msgid "Save Results As"
+msgctxt "@title:window"
+msgid "Save Results As"
+msgstr "ഫലങ്ങള്‍ സൂക്ഷിക്കേണ്ട പേരു്"
+
+#: kfindtreeview.cpp:456
+#, kde-format
+msgid "Unable to save results."
+msgstr "ഫലങ്ങള്‍ സൂക്ഷിക്കുവാന്‍ സാധ്യമായില്ല."
+
+#: kfindtreeview.cpp:471
+#, kde-format
+msgid "KFind Results File"
+msgstr "KFind ഫലങ്ങളുടെ ഫയല്‍"
+
+#: kfindtreeview.cpp:486
+#, fuzzy, kde-format
+#| msgid "Results were saved to file\n"
+msgctxt "%1=filename"
+msgid "Results were saved to: %1"
+msgstr "ഫലങ്ങള്‍ ഫയലില്‍ സൂക്ഷച്ചിരിക്കുന്നു\n"
+
+#: kfindtreeview.cpp:574 kftabdlg.cpp:437
+#, kde-format
+msgid "&Properties"
+msgstr "&ഗുണഗണങ്ങള്‍"
+
+#: kftabdlg.cpp:82
+#, fuzzy, kde-format
+#| msgid "&Named:"
+msgctxt "this is the label for the name textfield"
+msgid "&Named:"
+msgstr "&Named:"
+
+#: kftabdlg.cpp:85
+#, kde-format
+msgid "You can use wildcard matching and \";\" for separating multiple names"
+msgstr ""
+"ഒന്നിലധികം പേരുകള്‍ വേര്‍തിരിക്കാന്‍ നിങ്ങള്‍ക്ക് വൈല്‍ഡ്കാര്‍ഡ് മാച്ചിങ്ങും \";\" ഉപയോഗിയ്ക്കാം."
+
+#: kftabdlg.cpp:91
+#, kde-format
+msgid "Look &in:"
+msgstr "തെര&യുക:"
+
+#: kftabdlg.cpp:94
+#, kde-format
+msgid "Include &subfolders"
+msgstr "&ഉള്ളിലെ അറകള്‍ ഉള്‍പ്പെടുത്തുക"
+
+#: kftabdlg.cpp:95
+#, kde-format
+msgid "Case s&ensitive search"
+msgstr "വലിയക്ഷര&ചെറിയക്ഷര വ്യത്യാസം പരിഗണിച്ചു് തെരയുക"
+
+#: kftabdlg.cpp:96
+#, kde-format
+msgid "&Browse..."
+msgstr "&നോക്കുക..."
+
+#: kftabdlg.cpp:97
+#, kde-format
+msgid "&Use files index"
+msgstr "ഫയലുകള്‍ക്കുള്ള സൂചിക &ഉപയോഗിക്കുക"
+
+#: kftabdlg.cpp:98
+#, kde-format
+msgid "Show &hidden files"
+msgstr ""
+
+#: kftabdlg.cpp:117
+#, kde-format
+msgid ""
+"<qt>Enter the filename you are looking for. <br />Alternatives may be "
+"separated by a semicolon \";\".<br /><br />The filename may contain the "
+"following special characters:<ul><li><b>?</b> matches any single character</"
+"li><li><b>*</b> matches zero or more of any characters</li><li><b>[...]</b> "
+"matches any of the characters between the braces</li></ul><br />Example "
+"searches:<ul><li><b>*.kwd;*.txt</b> finds all files ending with .kwd or ."
+"txt</li><li><b>go[dt]</b> finds god and got</li><li><b>Hel?o</b> finds all "
+"files that start with \"Hel\" and end with \"o\", having one character in "
+"between</li><li><b>My Document.kwd</b> finds a file of exactly that name</"
+"li></ul></qt>"
+msgstr ""
+
+#: kftabdlg.cpp:138
+#, kde-format
+msgid ""
+"<qt>This lets you use the files' index created by the <i>slocate</i> package "
+"to speed-up the search; remember to update the index from time to time "
+"(using <i>updatedb</i>).</qt>"
+msgstr ""
+
+#: kftabdlg.cpp:182
+#, kde-format
+msgid "Find all files created or &modified:"
+msgstr "ഉണ്ടാക്കിയ/&മാറ്റങ്ങള്‍ വരുത്തിയ എല്ലാ ഫയലുകളും കണ്ടുപിടിക്കുക:"
+
+#: kftabdlg.cpp:184
+#, kde-format
+msgid "&between"
+msgstr "&മധ്യേ"
+
+#: kftabdlg.cpp:186
+#, kde-format
+msgid "and"
+msgstr ","
+
+#: kftabdlg.cpp:208
+#, kde-format
+msgid "File &size is:"
+msgstr "ഫയലിന്റെ &വലിപ്പം:"
+
+#: kftabdlg.cpp:221
+#, kde-format
+msgid "Files owned by &user:"
+msgstr "&ഉപയോക്താവിന്റെ ഉടമസ്ഥതയിലുള്ള ഫയലുകള്‍:"
+
+#: kftabdlg.cpp:226
+#, kde-format
+msgid "Owned by &group:"
+msgstr "&ഗ്രൂപ്പിന്റെ ഉടമസ്ഥതയിലുള്ള ഫയലുകള്‍:"
+
+#: kftabdlg.cpp:229
+#, fuzzy, kde-format
+#| msgid "(none)"
+msgctxt "file size isn't considered in the search"
+msgid "(none)"
+msgstr "(ഒന്നുമല്ല)"
+
+#: kftabdlg.cpp:230
+#, kde-format
+msgid "At Least"
+msgstr "കുറഞ്ഞതു്"
+
+#: kftabdlg.cpp:231
+#, kde-format
+msgid "At Most"
+msgstr "കൂടിയതു്"
+
+#: kftabdlg.cpp:232
+#, kde-format
+msgid "Equal To"
+msgstr "സമം"
+
+#: kftabdlg.cpp:234 kftabdlg.cpp:889
+#, fuzzy, kde-format
+#| msgid "Bytes"
+msgid "Byte"
+msgid_plural "Bytes"
+msgstr[0] "ബൈറ്റ്സ്"
+msgstr[1] "ബൈറ്റ്സ്"
+
+#: kftabdlg.cpp:235
+#, kde-format
+msgid "KiB"
+msgstr "KiB"
+
+#: kftabdlg.cpp:236
+#, kde-format
+msgid "MiB"
+msgstr "MiB"
+
+#: kftabdlg.cpp:237
+#, kde-format
+msgid "GiB"
+msgstr "GiB"
+
+#: kftabdlg.cpp:300
+#, fuzzy, kde-format
+#| msgid "File &type:"
+msgctxt "label for the file type combobox"
+msgid "File &type:"
+msgstr "ഫയല്‍ &തരം:"
+
+#: kftabdlg.cpp:305
+#, kde-format
+msgid "C&ontaining text:"
+msgstr "പദാവലി അ&ടങ്ങുന്നവ:"
+
+#: kftabdlg.cpp:311
+#, kde-format
+msgid ""
+"<qt>If specified, only files that contain this text are found. Note that not "
+"all file types from the list above are supported. Please refer to the "
+"documentation for a list of supported file types.</qt>"
+msgstr ""
+
+#: kftabdlg.cpp:319
+#, kde-format
+msgid "Case s&ensitive"
+msgstr "വലിയക്ഷര&ചെറിയക്ഷര വ്യത്യാസമുള്ള"
+
+#: kftabdlg.cpp:320
+#, kde-format
+msgid "Include &binary files"
+msgstr "&ബൈനറി ഫയലുകള്‍ ഉള്‍പ്പെടുത്തുക"
+
+#: kftabdlg.cpp:321
+#, kde-format
+msgid "Regular e&xpression"
+msgstr "റെഗുലര്‍ എ&ക്സ്പ്രെഷന്‍"
+
+#: kftabdlg.cpp:324
+#, kde-format
+msgid ""
+"<qt>This lets you search in any type of file, even those that usually do not "
+"contain text (for example program files and images).</qt>"
+msgstr ""
+
+#: kftabdlg.cpp:332
+#, kde-format
+msgid "&Edit..."
+msgstr "&ചിട്ടപ്പെടുത്തുക..."
+
+#: kftabdlg.cpp:338
+#, fuzzy, kde-format
+#| msgid "fo&r:"
+msgctxt "as in search for"
+msgid "fo&r:"
+msgstr "വേ&ണ്ടി:"
+
+#: kftabdlg.cpp:340
+#, kde-format
+msgid "Search &metainfo sections:"
+msgstr "&മെറ്റാവിവര വിഭാഗങ്ങള്‍ തെരയുക:"
+
+#: kftabdlg.cpp:344
+#, kde-format
+msgid "All Files & Folders"
+msgstr "എല്ലാ ഫയലുകളും അറകളും"
+
+#: kftabdlg.cpp:345
+#, kde-format
+msgid "Files"
+msgstr "ഫയലുകള്‍"
+
+#: kftabdlg.cpp:346
+#, kde-format
+msgid "Folders"
+msgstr "അറകള്‍"
+
+#: kftabdlg.cpp:347
+#, kde-format
+msgid "Symbolic Links"
+msgstr "പ്രതീകാത്മക കണ്ണികള്‍"
+
+#: kftabdlg.cpp:348
+#, kde-format
+msgid "Special Files (Sockets, Device Files, ...)"
+msgstr "പ്രത്യേക ഫയലുകള്‍ (സോക്കറ്റുകള്‍, ഡിവൈസ് ഫയലുകള്‍...)"
+
+#: kftabdlg.cpp:349
+#, kde-format
+msgid "Executable Files"
+msgstr "എക്സിക്യൂട്ടബിള്‍ ഫയലുകള്‍"
+
+#: kftabdlg.cpp:350
+#, kde-format
+msgid "SUID Executable Files"
+msgstr "SUID എക്സിക്യൂട്ടബിള്‍ ഫയലുകള്‍"
+
+#: kftabdlg.cpp:351
+#, kde-format
+msgid "All Images"
+msgstr "എല്ലാ ചിത്രങ്ങളും"
+
+#: kftabdlg.cpp:352
+#, kde-format
+msgid "All Video"
+msgstr "എല്ലാ വീഡിയോയും"
+
+#: kftabdlg.cpp:353
+#, kde-format
+msgid "All Sounds"
+msgstr "എല്ലാ ശബ്ദവും"
+
+#: kftabdlg.cpp:435
+#, kde-format
+msgid "Name/&Location"
+msgstr "പേരു്/&സ്ഥാനം"
+
+#: kftabdlg.cpp:436
+#, fuzzy, kde-format
+#| msgid "C&ontents"
+msgctxt "tab name: search by contents"
+msgid "C&ontents"
+msgstr "ഉ&ള്ളടക്കം"
+
+#: kftabdlg.cpp:441
+#, kde-format
+msgid ""
+"<qt>Search within files' specific comments/metainfo<br />These are some "
+"examples:<br /><ul><li><b>Audio files (mp3...)</b> Search in id3 tag for a "
+"title, an album</li><li><b>Images (png...)</b> Search images with a special "
+"resolution, comment...</li></ul></qt>"
+msgstr ""
+
+#: kftabdlg.cpp:449
+#, kde-format
+msgid ""
+"<qt>If specified, search only in this field<br /><ul><li><b>Audio files "
+"(mp3...)</b> This can be Title, Album...</li><li><b>Images (png...)</b> "
+"Search only in Resolution, Bitdepth...</li></ul></qt>"
+msgstr ""
+
+#: kftabdlg.cpp:607
+#, kde-format
+msgid "Unable to search within a period which is less than a minute."
+msgstr "ഒരു മിനിട്ടിനകമുള്ള കാലയളവില്‍ തിരയാന്‍ സാധ്യമല്ല."
+
+#: kftabdlg.cpp:618
+#, kde-format
+msgid "The date is not valid."
+msgstr "തീയതി അസാധുവാണു്."
+
+#: kftabdlg.cpp:620
+#, kde-format
+msgid "Invalid date range."
+msgstr "തീയതി തെറ്റായ പരിധിയിലാണു്."
+
+#: kftabdlg.cpp:622
+#, kde-format
+msgid "Unable to search dates in the future."
+msgstr "ഭാവിയിലുള്ള തീയതികള്‍ തിരയുവാന്‍ സാധ്യമായില്ല."
+
+#: kftabdlg.cpp:694
+#, kde-format
+msgid "Size is too big. Set maximum size value?"
+msgstr "വളരെ വലുതാണു്. ഏറ്റവും കൂടിയ വലിപ്പം ആക്കണമോ?"
+
+#: kftabdlg.cpp:694
+#, kde-format
+msgid "Error"
+msgstr "പിശകു്"
+
+#: kftabdlg.cpp:694
+#, kde-format
+msgid "Set"
+msgstr "സജീകരിക്കുക"
+
+#: kftabdlg.cpp:694
+#, kde-format
+msgid "Do Not Set"
+msgstr "സജ്ജമാക്കേണ്ട"
+
+#: kftabdlg.cpp:879
+#, fuzzy, kde-format
+#| msgid "&during the previous"
+msgctxt ""
+"during the previous minute(s)/hour(s)/...; dynamic context 'type': 'i' "
+"minutes, 'h' hours, 'd' days, 'm' months, 'y' years"
+msgid "&during the previous"
+msgid_plural "&during the previous"
+msgstr[0] "നേരത്തേതിന്റെ &സമയത്ത്"
+msgstr[1] "നേരത്തേതിന്റെ &സമയത്ത്"
+
+#: kftabdlg.cpp:880
+#, fuzzy, kde-format
+#| msgid "minute(s)"
+msgctxt "use date ranges to search files by modified time"
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "മിനിറ്റുകള്‍"
+msgstr[1] "മിനിറ്റുകള്‍"
+
+#: kftabdlg.cpp:881
+#, fuzzy, kde-format
+#| msgid "hour(s)"
+msgctxt "use date ranges to search files by modified time"
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "മണിക്കൂറുകള്‍"
+msgstr[1] "മണിക്കൂറുകള്‍"
+
+#: kftabdlg.cpp:882
+#, fuzzy, kde-format
+#| msgid "day(s)"
+msgctxt "use date ranges to search files by modified time"
+msgid "day"
+msgid_plural "days"
+msgstr[0] "ദിവസങ്ങള്‍"
+msgstr[1] "ദിവസങ്ങള്‍"
+
+#: kftabdlg.cpp:883
+#, fuzzy, kde-format
+#| msgid "month(s)"
+msgctxt "use date ranges to search files by modified time"
+msgid "month"
+msgid_plural "months"
+msgstr[0] "മാസങ്ങള്‍"
+msgstr[1] "മാസങ്ങള്‍"
+
+#: kftabdlg.cpp:884
+#, fuzzy, kde-format
+#| msgid "year(s)"
+msgctxt "use date ranges to search files by modified time"
+msgid "year"
+msgid_plural "years"
+msgstr[0] "വര്‍ഷങ്ങള്‍"
+msgstr[1] "വര്‍ഷങ്ങള്‍"
+
+#: kquery.cpp:600
+#, fuzzy, kde-format
+#| msgid "Error while using locate"
+msgctxt "@title:window"
+msgid "Error while using locate"
+msgstr "locate ഉപയോഗിക്കുമ്പോള്‍ പിശകു്"
+
+#: main.cpp:41
+#, kde-format
+msgid "KFind"
+msgstr "KFind"
+
+#: main.cpp:42
+#, kde-format
+msgid "KDE file find utility"
+msgstr "കെഡിഇയിലെ ഫയല്‍ തെരയുന്നതിനുള്ള പ്രയോഗം"
+
+#: main.cpp:43
+#, fuzzy, kde-format
+#| msgid "(c) 1998-2003, The KDE Developers"
+msgid "(c) 1998-2017, The KDE Developers"
+msgstr "(c) 1998-2003, കെഡിഇ രചയിതാക്കള്‍"
+
+#: main.cpp:45
+#, kde-format
+msgid "Kai-Uwe Broulik"
+msgstr ""
+
+#: main.cpp:45
+#, kde-format
+msgid "Current Maintainer"
+msgstr "നിലവിലുള്ള പരിപാലകന്‍"
+
+#: main.cpp:46
+#, kde-format
+msgid "Eric Coquelle"
+msgstr "എറിക് കോക്വല്‍"
+
+#: main.cpp:46
+#, fuzzy, kde-format
+#| msgid "Current Maintainer"
+msgid "Former Maintainer"
+msgstr "നിലവിലുള്ള പരിപാലകന്‍"
+
+#: main.cpp:47
+#, kde-format
+msgid "Mark W. Webb"
+msgstr "മാര്‍ക് ഡബ്ല്യൂ വെബ്"
+
+#: main.cpp:47
+#, kde-format
+msgid "Developer"
+msgstr "രചയിതാവു്"
+
+#: main.cpp:48
+#, kde-format
+msgid "Beppe Grimaldi"
+msgstr "ബീപ്പ് ഗ്രിമാള്‍ഡി"
+
+#: main.cpp:48
+#, kde-format
+msgid "UI Design & more search options"
+msgstr "യുഐ ഡിസൈനും കൂടുതല്‍ തെരച്ചില്‍ രീതികളും"
+
+#: main.cpp:49
+#, kde-format
+msgid "Martin Hartig"
+msgstr "മാര്‍ട്ടിന്‍ ഹാര്‍ട്ടിഗ്"
+
+#: main.cpp:50
+#, kde-format
+msgid "Stephan Kulow"
+msgstr "സ്റ്റീഫന്‍ കുലൌ"
+
+#: main.cpp:51
+#, kde-format
+msgid "Mario Weilguni"
+msgstr "മാറിയോ വെയില്‍ഗുനി"
+
+#: main.cpp:52
+#, kde-format
+msgid "Alex Zepeda"
+msgstr "അലക്സ് സെപ്പെഡാ"
+
+#: main.cpp:53
+#, kde-format
+msgid "Miroslav Flídr"
+msgstr "മിറോസ്ലാവ് ഫ്ലിഡര്‍"
+
+#: main.cpp:54
+#, kde-format
+msgid "Harri Porten"
+msgstr "ഹാരി പോര്‍ട്ടന്‍"
+
+#: main.cpp:55
+#, kde-format
+msgid "Dima Rogozin"
+msgstr "ഡിമോ റോഗോസിന്‍"
+
+#: main.cpp:56
+#, kde-format
+msgid "Carsten Pfeiffer"
+msgstr "കാര്‍സ്റ്റന്‍ ഫൈഫെര്‍"
+
+#: main.cpp:57
+#, kde-format
+msgid "Hans Petter Bieker"
+msgstr "ഹാന്‍സ് പെറ്റര്‍ ബെയിക്കര്‍"
+
+#: main.cpp:58
+#, kde-format
+msgid "Waldo Bastian"
+msgstr "വാള്‍ഡോ ബാസ്റ്റന്‍"
+
+#: main.cpp:58
+#, kde-format
+msgid "UI Design"
+msgstr "യുഐ ഡിസൈന്‍"
+
+#: main.cpp:59
+#, kde-format
+msgid "Alexander Neundorf"
+msgstr "അലക്സാണ്ടര്‍ ന്യൂണ്‍ഡോര്‍ഫ്"
+
+#: main.cpp:60
+#, kde-format
+msgid "Clarence Dang"
+msgstr "ക്ലാറന്‍സ് ഡാങ്"
+
+#: main.cpp:61
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "അനി പീറ്റര്‍, ഹരി വിഷ്ണു"
+
+#: main.cpp:61
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "peter.ani@gmail.com,harivishnu@gmail.com"
+
+#: main.cpp:67
+#, kde-format
+msgid "Path(s) to search"
+msgstr "തെരയേണ്ട പാത്ത്"
+
+#~ msgctxt "Name of the component that finds things"
+#~ msgid "Find Component"
+#~ msgstr "ഘടകം കണ്ടുപിടിയ്ക്കക"
+
+#~ msgid "Aborted."
+#~ msgstr "നിര്‍ത്തിയിരിക്കുന്നു."
+
+#~ msgid "Ready."
+#~ msgstr "തയ്യാര്‍."
+
+#~ msgid "Do you really want to delete the selected file?"
+#~ msgid_plural "Do you really want to delete the %1 selected files?"
+#~ msgstr[0] "തിരഞ്ഞെടുത്ത ഫയല്‍ നിങ്ങള്‍ക്കു് വെട്ടിമാറ്റണമോ?"
+#~ msgstr[1] "തിരഞ്ഞെടുത്ത %1 ഫയലുകള്‍ നിങ്ങള്‍ക്കു് വെട്ടിമാറ്റണമോ?"
+
+#~ msgctxt "Menu item"
+#~ msgid "Open"
+#~ msgstr "തുറക്കുക"
+
+#~ msgid "Open Folder"
+#~ msgstr "അറ തുറക്കുക"
+
+#~ msgid "Copy"
+#~ msgstr "പകര്‍ത്തുക"
+
+#~ msgid "Open With..."
+#~ msgstr "തുറക്കേണ്ട പ്രയോഗം..."
+
+#~ msgid "Properties"
+#~ msgstr "ഗുണഗണങ്ങള്‍"
+
+#~ msgid "Selected Files"
+#~ msgstr "തിരഞ്ഞെടുത്ത ഫയലുകള്‍"

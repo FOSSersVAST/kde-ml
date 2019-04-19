@@ -1,0 +1,529 @@
+# Translation of desktop_kdebase to Malayalam
+# Copyright (C) 2008-2010 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_kdebase package.
+# Santhosh Thottingal <santhosh.thottingal@gmail.com>, 2008.
+# Ani Peter <peter.ani@gmail.com>, 2008.
+# Hari Vishnu <harivishnu@gmail.com>, 2008.
+# SANKARANARAYANAN <snalledam@dataone.in>, 2009.
+# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008, 2009, 2010.
+# seshagiri prabhu <seshagiriprabhu@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-10-11 02:02+0000\n"
+"PO-Revision-Date: 2010-07-01 15:48+0530\n"
+"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: app/khotkeys.desktop:2
+msgctxt "Name"
+msgid "Input Actions"
+msgstr "ഇന്‍പുട്ട് പ്രവര്‍ത്തനങ്ങള്‍"
+
+#: app/khotkeys.desktop:87
+msgctxt "Comment"
+msgid "Input Actions service performing configured actions on key presses"
+msgstr ""
+
+#: data/defaults.khotkeys:5 data/defaults.khotkeys:155
+msgctxt "Comment"
+msgid "Comment"
+msgstr "അഭിപ്രായം"
+
+#: data/defaults.khotkeys:77
+msgctxt "Name"
+msgid "KMenuEdit"
+msgstr "കെമെനുഎഡിറ്റ്"
+
+#: data/defaults.khotkeys:226
+msgctxt "Name"
+msgid "Search"
+msgstr "തെരച്ചില്‍"
+
+#: data/defaults.khotkeys:309 data/kde32b1.khotkeys:521
+#: data/kde32b1.khotkeys:761 data/kde32b1.khotkeys:1018
+#: data/kde32b1.khotkeys:1483 data/kde32b1.khotkeys:1899
+#: data/kde32b1.khotkeys:3307
+msgctxt "Comment"
+msgid "Simple_action"
+msgstr "ലഘു പ്രവൃത്തി"
+
+#: data/kde32b1.khotkeys:5
+msgctxt "Comment"
+msgid ""
+"This group contains various examples demonstrating most of the features of "
+"KHotkeys. (Note that this group and all its actions are disabled by default.)"
+msgstr ""
+"കെഹോട്കീസ് ന്റെ വിവിധ സവിശേഷതകള്‍ ഉദാഹരണസഹിതം കാണിക്കുന്നു.  (അറിയിപ്പ്: ഈ കൂട്ടത്തിന്റെയും "
+"ഇവയുടെ പ്രവൃത്തികളും സഹജമായി ലഭ്യമല്ല)"
+
+#: data/kde32b1.khotkeys:78
+msgctxt "Name"
+msgid "Examples"
+msgstr "ഉദാഹരണങ്ങള്‍"
+
+#: data/kde32b1.khotkeys:171
+msgctxt "Comment"
+msgid ""
+"After pressing Ctrl+Alt+I, the KSIRC window will be activated, if it exists. "
+"Simple."
+msgstr "നിലവിലുണ്ടെങ്കില്‍, Ctrl+Alt+I കീ അമര്‍ത്തിയാല്‍, കെഎസ്ഐആര്‍സി ജാലകം സജീവമാകുന്നു."
+
+#: data/kde32b1.khotkeys:248
+msgctxt "Name"
+msgid "Activate KSIRC Window"
+msgstr "കെഎസ്ഐആര്‍സി ജാലകം സജ്ജമാക്കുക"
+
+#: data/kde32b1.khotkeys:338
+msgctxt "Comment"
+msgid "KSIRC window"
+msgstr "കെഎസ്ഐആര്‍സി ജാലകം"
+
+#: data/kde32b1.khotkeys:426
+msgctxt "Comment"
+msgid "KSIRC"
+msgstr "കെഎസ്ഐആര്‍സി"
+
+#: data/kde32b1.khotkeys:605
+msgctxt "Comment"
+msgid ""
+"After pressing Alt+Ctrl+H the input of 'Hello' will be simulated, as if you "
+"typed it.  This is especially useful if you have call to frequently type a "
+"word (for instance, 'unsigned').  Every keypress in the input is separated "
+"by a colon ':'. Note that the keypresses literally mean keypresses, so you "
+"have to write what you would press on the keyboard. In the table below, the "
+"left column shows the input and the right column shows what to type.\\n\\n"
+"\"enter\" (i.e. new line)                Enter or Return\\na (i.e. small "
+"a)                          A\\nA (i.e. capital a)                       "
+"Shift+A\\n: (colon)                                  Shift+;\\n' "
+"'  (space)                              Space"
+msgstr ""
+"Alt+Ctrl+H അമര്‍ത്തിയശേഷം നിങ്ങള്‍ 'Hello' ടൈപ്പ് ചെയ്തതുപോലെ തോന്നിപ്പിയ്ക്കും. ഒരു പ്രത്യേക "
+"വാക്ക് പലവട്ടം ടൈപ്പ് ചെയ്യണ്ട ഘട്ടത്തില്‍ (ഉദാഹരണത്തിന് 'unsigned') ഇതു് പ്രയോജനപ്പെടും. "
+"ഇന്‍പുട്ടിലെ ഓരോ കീ അമര്‍ത്തുന്നതും ഒരു കോളന്‍ ':' കൊണ്ട് വേര്‍തിരിക്കപ്പെടും. കീ അമര്‍ത്തുക "
+"എന്നതുകൊണ്ട് അക്ഷരാര്‍ത്ഥത്തില്‍ കീ കൊണ്ടുള്ള അമര്‍ത്തലുകള്‍ എന്നു് തന്നെ അര്‍ത്ഥമാക്കണം, അതു കൊണ്ടു് "
+"കീബോര്‍ഡില്‍ നിങ്ങള്‍ അമര്‍ത്താന്‍ സാധ്യതയുള്ളതെല്ലാം എഴുതിയിരിക്കണം. താഴെ കൊടുത്ത പട്ടികയില്‍ "
+"ഇടതുഭാഗത്തെ നിരകള്‍ ഇന്‍പുട്ടും വലതുഭാഗത്തെ നിരകള്‍ നിങ്ങള്‍ ടൈപ്പ് ചെയ്യേണ്ടതും കാണിക്കുന്നു. \\n\\n"
+"\"enter\" (i.e. പുതിയ വരി)                Enter or Return\\na (i.e. ചെറിയക്ഷരം "
+"a)                       A\\nA (i.e. വലിയക്ഷരം a)                       Shift"
+"+A\\n: (കോളന്‍)                                  Shift+;\\n' "
+"'  (സ്പേസ്)                              Space"
+
+#: data/kde32b1.khotkeys:667
+msgctxt "Name"
+msgid "Type 'Hello'"
+msgstr "'Hello' എന്നു് ടൈപ്പ് ചെയ്യുക"
+
+#: data/kde32b1.khotkeys:845
+msgctxt "Comment"
+msgid "This action runs Konsole, after pressing Ctrl+Alt+T."
+msgstr "Ctrl+Alt+T അമര്‍ത്തിയശേഷം, ഇതു് കണ്‍സോള്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നു."
+
+#: data/kde32b1.khotkeys:922
+msgctxt "Name"
+msgid "Run Konsole"
+msgstr "കണ്‍സോള്‍ പ്രവര്‍ത്തിപ്പിയ്ക്കുക"
+
+#: data/kde32b1.khotkeys:1102
+#, fuzzy
+msgctxt "Comment"
+msgid ""
+"Read the comment on the \"Type 'Hello'\" action first.\\n\\nQt Designer uses "
+"Ctrl+F4 for closing windows.  In KDE, however, Ctrl+F4 is the shortcut for "
+"going to virtual desktop 4, so this shortcut does not work in Qt Designer.  "
+"Further, Qt Designer does not use KDE's standard Ctrl+W for closing the "
+"window.\\n\\nThis problem can be solved by remapping Ctrl+W to Ctrl+F4 when "
+"the active window is Qt Designer. When Qt Designer is active, every time Ctrl"
+"+W is pressed, Ctrl+F4 will be sent to Qt Designer instead. In other "
+"applications, the effect of Ctrl+W is unchanged.\\n\\nWe now need to specify "
+"three things: A new shortcut trigger on 'Ctrl+W', a new keyboard input "
+"action sending Ctrl+F4, and a new condition that the active window is Qt "
+"Designer.\\nQt Designer seems to always have title 'Qt Designer by "
+"Trolltech', so the condition will check for the active window having that "
+"title."
+msgstr ""
+"Type Hello \" എന്ന നടപടിയിലെ അഭിപ്രായം തന്നെ ആദ്യം വായിയ്ക്കാം. ജാലകങ്ങള്‍ "
+"അടയ്ക്കുന്നതിന്  \\n\\nക്യു‌‌ടി ഡിസൈനറില്‍ ctl+F4 ആണുപയോഗിക്കുന്നത്. അതെന്തായാലും കെഡിഈ യില്‍ അത് "
+"വെര്‍ച്വല്‍ ഡെസ്ക്ടോപ് 4ലേക്ക് പോകാനുള്ള കുറുക്കുവഴിയാണ്, അപ്പോള്‍ ക്യൂടിഡെസൈനറില്‍ ഈ കുറുക്കുവഴി "
+"പ്രാവര്‍ത്തികമല്ല. അതു കൂടാതെ, കെഡിഈ യില്‍ ജാലകം അടക്കുന്നതിന്ഉപയോഗിക്കുന്ന അംഗീകരിക്കപ്പെട്ട "
+"ctl+W ക്യൂടിഡിസൈനറില്‍ ഉപയോഗിക്കുന്നുമില്ല..\\n\\n  ക്യുടി ഡിസൈനര്‍ ജാലകം "
+"സജീവമായിരിക്കുമ്പോള്‍ ctrl+W എന്നത് ctrl+F4 ആയി റീമാപ്പ് ചെയ്യുന്നതുകൊണ്ട് ഈപ്രശ്നം "
+"പരിഹരിക്കാം. ക്യുടി ഡിസൈനര്‍ സജീവമായിരിക്കുമ്പോള്‍ ctrl+W അമര്‍ത്തുമ്പോഴെല്ലാം പകരത്തിന് ക്യുടി "
+"ഡെസൈനറിലേക്ക് പോകുന്നത് ctrl+F4ആയിരിക്കും. മറ്റു പ്രയോഗങ്ങളില്‍ ctrl+W വിന്റെ "
+"ഫലംമാറുന്നുമില്ല. \\n\\n ഇവിടെ മൂന്ന് സംഗതികള്‍ പ്രത്യേ‌‌കം എടുത്തു പറയേണ്ടതായിട്ടുണ്ട്: ctrl+W "
+"എന്ന പുതിയ ഒരു കുറുക്കുവഴിക്ക് തുടക്കമായി, ctrl+F4 എന്ന പുതിയ ഒരു കീബോര്‍ഡ് ഇന്‍പുട്ട് നടപടി "
+"നിലവില്‍ വന്നു,ക്യുടി ഡിസൈനര്‍ സജീവജാലകമായ ഒരു വ്യവസ്ഥയും വന്നുചേര്‍ന്നു.\\nക്യൂടി ഡിസൈനറിന് "
+"എപ്പോഴുംക്യുടി ഡിസൈനര്‍ ബൈ ട്രോള്‍ടെക്ക് എന്ന തലവാചകം ഉള്ളതായി തോന്നുന്നു,  ആ തലവാചകം "
+"ഉള്ളതിനാല്‍ സജീവജാലകത്തിന്റെ സ്ഥിതി പരിശോധിക്കപ്പെടും."
+
+#: data/kde32b1.khotkeys:1153
+msgctxt "Name"
+msgid "Remap Ctrl+W to Ctrl+F4 in Qt Designer"
+msgstr "ക്യുട്ടി ഡിസൈനറില്‍ Ctrl+W to Ctrl+F4 വീണ്ടും മാപ്പ് ചെയ്യുന്നു"
+
+#: data/kde32b1.khotkeys:1244
+msgctxt "Comment"
+msgid "Qt Designer"
+msgstr "ക്യൂട്ടി ഡിസൈനര്‍ "
+
+#: data/kde32b1.khotkeys:1348
+msgctxt "Comment"
+msgid ""
+"By pressing Alt+Ctrl+W a D-Bus call will be performed that will show the "
+"minicli. You can use any kind of D-Bus call, just like using the command "
+"line 'qdbus' tool."
+msgstr ""
+"Alt+Ctrl+W അമര്‍ത്തിയാല്‍ ഡി-ബസിനെ വിളിയ്ക്കുകയും മിനിസിഎല്‍ഐ കാണിയ്ക്കുകയും ചെയ്യും. 'qdbus' "
+"പണിയായുധം ഉപയോഗിയ്ക്കുന്നതു് പോലെ നിങ്ങള്‍ക്കു് ഏതു് തരത്തിലുള്ള ഡി-ബസ് വിളിയും നടത്താം."
+
+#: data/kde32b1.khotkeys:1413
+msgctxt "Name"
+msgid "Perform D-Bus call 'qdbus org.kde.krunner /App display'"
+msgstr ""
+
+#: data/kde32b1.khotkeys:1567
+#, fuzzy
+msgctxt "Comment"
+msgid ""
+"Read the comment on the \"Type 'Hello'\" action first.\\n\\nJust like the "
+"\"Type 'Hello'\" action, this one simulates keyboard input, specifically, "
+"after pressing Ctrl+Alt+B, it sends B to XMMS (B in XMMS jumps to the next "
+"song). The 'Send to specific window' checkbox is checked and a window with "
+"its class containing 'XMMS_Player' is specified; this will make the input "
+"always be sent to this window. This way, you can control XMMS even if, for "
+"instance, it is on a different virtual desktop.\\n\\n(Run 'xprop' and click "
+"on the XMMS window and search for WM_CLASS to see 'XMMS_Player')."
+msgstr ""
+"ആദ്യമായി \"Type 'Hello'\" നടപടികളിലെ അഭിപ്രായങ്ങള്‍ വായിയ്ക്കാം.\\n\\n.\"Type "
+"'Hello'\"നടപടികളിലേതുപോലെ ഇതും കീബോര്‍ഡ് ഇന്‍പുട്ട് പോലെ തോന്നിക്കും,പ്രത്യേ‌കിച്ച് Ctrl+Alt+B "
+"അമര്‍ത്തിയാല്‍ XMMS ലേക്ക്  B അയയ്ക്കും (XMMSല്‍ Bഅമര്‍ത്തിയാല്‍ അടുത്ത പാട്ടിലേക്ക് ചാടും). Send "
+"to checkboxല്‍ അടയാളമിട്ട് XMMS_Player ഉള്ള ജാലകംക്ളാസുള്‍പ്പെടെ നിര്‍ദ്ദേശിച്ചല്‍ ഇന്‍പുട്ട് "
+"എല്ലായ്പ്പോഴും ഈ ജാലകത്തിലേക്കയക്കും. വേറൊരുഅഭിനവ പണിയിടത്തിലായാല്‍പ്പോലും XMMSനെ ഇങ്ങനെ "
+"നിയന്ത്രിക്കാം.\\n\\n('xprop' ഓടിച്ച്XMMS ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്ത് XMMS_Player കാണാന്‍ "
+"വേണ്ടി WM_CLASS പരതിനോക്കൂ)."
+
+#: data/kde32b1.khotkeys:1625
+msgctxt "Name"
+msgid "Next in XMMS"
+msgstr "എക്സ്എംഎംഎസില്‍ അടുത്തതു്"
+
+#: data/kde32b1.khotkeys:1718
+msgctxt "Comment"
+msgid "XMMS window"
+msgstr "എക്സ്എംഎംഎസ് ജാലകം"
+
+#: data/kde32b1.khotkeys:1807
+msgctxt "Comment"
+msgid "XMMS Player window"
+msgstr "എക്സ്എംഎംഎസ് പ്ലേയര്‍ ജാലകം"
+
+#: data/kde32b1.khotkeys:1983
+msgctxt "Comment"
+msgid ""
+"Konqueror in KDE3.1 has tabs, and now you can also have gestures.\\n\\nJust "
+"press the middle mouse button and start drawing one of the gestures, and "
+"after you are finished, release the mouse button. If you only need to paste "
+"the selection, it still works, just click the middle mouse button. (You can "
+"change the mouse button to use in the global settings).\\n\\nRight now, "
+"there are the following gestures available:\\nmove right and back left - "
+"Forward (Alt+Right)\\nmove left and back right - Back (Alt+Left)\\nmove up "
+"and back down  - Up (Alt+Up)\\ncircle anticlockwise - Reload (F5)\\n\\nThe "
+"gesture shapes can be entered by performing them in the configuration "
+"dialog. You can also look at your numeric pad to help you: gestures are "
+"recognized like a 3x3 grid of fields, numbered 1 to 9.\\n\\nNote that you "
+"must perform exactly the gesture to trigger the action. Because of this, it "
+"is possible to enter more gestures for the action. You should try to avoid "
+"complicated gestures where you change the direction of mouse movement more "
+"than once.  For instance, 45654 or 74123 are simple to perform, but 1236987 "
+"may be already quite difficult.\\n\\nThe conditions for all gestures are "
+"defined in this group. All these gestures are active only if the active "
+"window is Konqueror (class contains 'konqueror')."
+msgstr ""
+"കെഡിഈ.3.1ലെ കോണ്‍ക്വററില്‍ തൊങ്ങലുകളുണ്ട്, ഇപ്പോള്‍ നിങ്ങള്‍ക്ക് ആംഗ്യങ്ങളും ഉപയോഗിക്കാം\\n"
+"\\nമൌസിന്റെ നടു ബട്ടണ്‍ അമര്‍ത്തി ഏതെങ്കിലും ഒരു ആംഗ്യം വരയ്ക്കുകയേ വേണ്ടൂ, വരച്ചുകഴിഞ്ഞാല്‍മൌസ് "
+"ബട്ടണ്‍ വിടുക. ഒട്ടിക്കാന്‍ മാത്രമാണ് നിങ്ങള്‍ ഉദ്ദേശിക്കുന്നത് എങ്കില്‍ അതും ഫലിക്കും, മൌസിന്റെനടു "
+"ബട്ടണമര്‍ത്തുക.(ആഗോള ഒരുക്കങ്ങളില്‍ ഉപയോഗിക്കത്തക്കവിധം മൌസ് ബട്ടണ്‍ മാറ്റാനാവും).\\n"
+"\\nതാഴെകൊടുത്ത ആംഗ്യങ്ങള്‍ ഇപ്പോള്‍ത്തന്നെ ലഭ്യമാണ്:\\nവലത്തോട്ടും താഴെ ഇടത്തോട്ടും "
+"നീങ്ങുകമുന്നോട്ടും (Alt+Right)\\n ഇടത്തോട്ടും പിന്നില്‍ വലത്തോട്ടും നീങ്ങുക -പിന്നിലേക്ക്(Alt"
+"+Left)\\n\\ മുകളിലേക്കുംപിന്നില്‍ താഴേക്കും നീങ്ങുക -മുകളിലേക്ക്(Alt+Up)\\n അപ്രദക്ഷിണമായി "
+"വട്ടം കറങ്ങുക -വീണ്ടുംകയറ്റുക(F5)\\n\\nചിട്ടപ്പെടുത്തുന്നതിനുള്ള  സംഭാഷണജാലകത്തില്‍ "
+"പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ട്  ആംഗ്യ ആകൃതികള്‍ചേര്‍ക്കനുമാവും. സഹായത്തിനായി നിങ്ങള്‍ക്ക് ന്യൂമറിക് പാഡില്‍ "
+"ശ്രദ്ധിക്കാവുന്നതാണ്: 1മുതല്‍ 9വരെയുള്ള അക്കങ്ങളായി ക്ഷേത്രത്തിന്റെ 3x3 ഗ്രിഡ് പോലെയാണ് ആംഗ്യ‌‌ങ്ങള്‍ "
+"അംഗീകരിക്കപ്പെടുന്നത്.\\n\\nആംഗ്യ‌നടപടികള്‍ തുടങ്ങാന്‍ അത് ശരിയായി നിങ്ങള്‍ ചെയ്യേണ്ടതുണ്ടെന്ന് "
+"ശ്രദ്ധിക്കണം. ഇക്കാരണത്താല്‍നടപടികള്‍ക്കുള്ള കൂടുതല്‍ ആംഗ്യ‌‌ങ്ങള്‍ ചേര്‍ക്കന്‍ സാദ്ധ്യ‌‌തയുണ്ട്.മൌസിന്റെ നീക്കം "
+"ഒന്നിലധികം തവണഉപയോഗിക്കേണ്ടിവരുന്ന വിധത്തില്‍ കെട്ടുപിണഞ്ഞ ആംഗ്യ‌ങ്ങള്‍ ഒഴിവാക്കുന്നതാണ് ഉത്തമം. "
+"ഉദാഹരണത്തിന്45654 അല്ലെങ്കില്‍ 74123 എന്നിവ ലളിതമാണ്, എന്നാല്‍ 1236987തികച്ചും "
+"വിഷമിപ്പിക്കുന്നതാണ്.\\n\\n എല്ലാ ആംഗ്യ‌ങ്ങള്‍ക്കുമുള്ള വ്യവസ്ഥകള്‍ ഈ ഗ്രൂപ്പില്‍ നിര്‍വ്വചിച്ചിട്ടുണ്ട്. "
+"കോണ്‍ക്വറര്‍ സജീവജാലകമാണെങ്കില്‍ മാത്രമേഈ ആംഗ്യ‌ങ്ങള്‍ സജീവമാകുകയുള്ളു.(കോണ്‍ക്വറര്‍ ഉള്‍പ്പെട്ട ക്ലാസ്)."
+
+#: data/kde32b1.khotkeys:2042
+msgctxt "Name"
+msgid "Konqi Gestures"
+msgstr "കോങ്ക്വി ആംഗ്യങ്ങള്‍"
+
+#: data/kde32b1.khotkeys:2123 data/konqueror_gestures_kde321.khotkeys:168
+msgctxt "Comment"
+msgid "Konqueror window"
+msgstr "കോണ്‍ക്വറിന്റെ ജാലകം"
+
+#: data/kde32b1.khotkeys:2213 data/kde32b1.khotkeys:2303
+#: data/konqueror_gestures_kde321.khotkeys:258
+#: data/konqueror_gestures_kde321.khotkeys:348
+msgctxt "Comment"
+msgid "Konqueror"
+msgstr "കോണ്‍ക്വറര്‍"
+
+#: data/kde32b1.khotkeys:2398 data/konqueror_gestures_kde321.khotkeys:520
+msgctxt "Name"
+msgid "Back"
+msgstr "പുറകോട്ടു്"
+
+#: data/kde32b1.khotkeys:2499 data/kde32b1.khotkeys:2687
+#: data/kde32b1.khotkeys:2875 data/kde32b1.khotkeys:3063
+#: data/konqueror_gestures_kde321.khotkeys:779
+#: data/konqueror_gestures_kde321.khotkeys:1026
+#: data/konqueror_gestures_kde321.khotkeys:1260
+#: data/konqueror_gestures_kde321.khotkeys:1515
+#: data/konqueror_gestures_kde321.khotkeys:1769
+#: data/konqueror_gestures_kde321.khotkeys:1858
+#: data/konqueror_gestures_kde321.khotkeys:2109
+#: data/konqueror_gestures_kde321.khotkeys:2360
+#: data/konqueror_gestures_kde321.khotkeys:2616
+#: data/konqueror_gestures_kde321.khotkeys:2872
+#: data/konqueror_gestures_kde321.khotkeys:3124
+#: data/konqueror_gestures_kde321.khotkeys:3375
+#: data/konqueror_gestures_kde321.khotkeys:3635
+#: data/konqueror_gestures_kde321.khotkeys:3891
+msgctxt "Comment"
+msgid "Gesture_triggers"
+msgstr "Gesture_triggers"
+
+#: data/kde32b1.khotkeys:2586 data/konqueror_gestures_kde321.khotkeys:2515
+msgctxt "Name"
+msgid "Forward"
+msgstr "മുന്നോട്ടു്"
+
+#: data/kde32b1.khotkeys:2774 data/konqueror_gestures_kde321.khotkeys:925
+msgctxt "Name"
+msgid "Up"
+msgstr "മുകളിലോട്ടു്"
+
+#: data/kde32b1.khotkeys:2962 data/konqueror_gestures_kde321.khotkeys:3790
+msgctxt "Name"
+msgid "Reload"
+msgstr "പുതുക്കുക"
+
+#: data/kde32b1.khotkeys:3148
+msgctxt "Comment"
+msgid ""
+"After pressing Win+E (Tux+E) a WWW browser will be launched, and it will "
+"open http://www.kde.org . You may run all kind of commands you can run in "
+"minicli (Alt+F2)."
+msgstr ""
+"Win+E (Tux+E) അമര്‍ത്തിയശേഷം ഒരു ഡബ്ല്യൂഡബ്ല്യൂഡബ്ല്യൂ ബ്രൌസറില്‍ http://www.kde.org "
+"പ്രത്യക്ഷപെടും.നിങ്ങള്‍ക്ക് മിനിസിഎല്‍ഐ (Alt+F2) ഉപയോഗിച്ച് പ്രവര്‍ത്തിപ്പിയ്ക്കാവുന്ന എല്ലാ തരം "
+"ആജ്ഞകളും പ്രവര്‍ത്തിപ്പിയ്ക്കാവുന്നതാണു്."
+
+#: data/kde32b1.khotkeys:3212
+msgctxt "Name"
+msgid "Go to KDE Website"
+msgstr "കെഡിഇ വെബ്സൈറ്റിലേക്കു് പോകുക"
+
+#: data/konqueror_gestures_kde321.khotkeys:5
+msgctxt "Comment"
+msgid "Basic Konqueror gestures."
+msgstr "അടിസ്ഥാന കോണ്‍ക്വറര്‍ ആംഗ്യങ്ങള്‍"
+
+#: data/konqueror_gestures_kde321.khotkeys:85
+msgctxt "Name"
+msgid "Konqueror Gestures"
+msgstr "കോണ്‍ക്വറര്‍ വിശേഷതകള്‍"
+
+#: data/konqueror_gestures_kde321.khotkeys:441
+msgctxt "Comment"
+msgid "Press, move left, release."
+msgstr "അമര്‍ത്തി, ഇടത്തേക്കു് നീക്കി വിടുക"
+
+#: data/konqueror_gestures_kde321.khotkeys:609
+msgctxt "Comment"
+msgid ""
+"Opera-style: Press, move up, release.\\nNOTE: Conflicts with 'New Tab', and "
+"as such is disabled by default."
+msgstr ""
+"ഒപേറാ-രീതി: അമര്‍ത്തി, മുകളിലേയ്ക്ക് നീങ്ങി, വിടുക.\\nഅറിയിപ്പ്: 'പുതിയ കിളിവാതിലു'മായി "
+"വിരുദ്ധമായതിനാല്‍ സഹജമായി പ്രവര്‍ത്തനരഹിതമാക്കിയിരിയ്ക്കുന്നു."
+
+#: data/konqueror_gestures_kde321.khotkeys:681
+msgctxt "Name"
+msgid "Stop Loading"
+msgstr "ലഭ്യമാക്കുന്നതു് നിര്‍ത്തുക"
+
+#: data/konqueror_gestures_kde321.khotkeys:856
+msgctxt "Comment"
+msgid ""
+"Going up in URL/directory structure.\\nMozilla-style: Press, move up, move "
+"left, move up, release."
+msgstr ""
+"യുആര്‍എല്‍/ഘടനയില്‍ ഒരുപടി മുകളിലേയ്ക്ക് പോവുക.\\nമോസില്ലാ-രീതി: അമര്‍ത്തി, മുകളിലേയ്ക്കു് നീങ്ങി, "
+"ഇടത്തേയ്ക്കു് നീങ്ങി, വീണ്ടും മുകളിലേയ്ക്കു് നീങ്ങി, വിടുക.\\n"
+
+#: data/konqueror_gestures_kde321.khotkeys:1103
+msgctxt "Comment"
+msgid ""
+"Going up in URL/directory structure.\\nOpera-style: Press, move up, move "
+"left, move up, release.\\nNOTE: Conflicts with  \"Activate Previous Tab\", "
+"and as such is disabled by default."
+msgstr ""
+"യുആര്‍എല്‍/ഘടനയില്‍ ഒരുപടി മുകളിലേയ്ക്ക് പോവുക.\\nഒപേറാ-രീതി: അമര്‍ത്തി, മുകളിലേയ്ക്കു് നീങ്ങി, "
+"ഇടത്തേയ്ക്കു് നീങ്ങി, വീണ്ടും മുകളിലേയ്ക്കു് നീങ്ങി, വിടുക..\\nഅറിയിപ്പ് : \"മുമ്പത്തെ കിളിവാതില്‍ "
+"സജീവമാക്കുന്നതു\"മായി വിരുദ്ധമായതിനാല്‍ സഹജമായി പ്രവര്‍ത്തനരഹിതമാക്കിയിരിയ്ക്കുന്നു."
+
+#: data/konqueror_gestures_kde321.khotkeys:1169
+msgctxt "Name"
+msgid "Up #2"
+msgstr "മുകളിലേക്കു് #2"
+
+#: data/konqueror_gestures_kde321.khotkeys:1337
+msgctxt "Comment"
+msgid "Press, move up, move right, release."
+msgstr "അമര്‍ത്തി, മുകളിലേക്കു് നീങ്ങി, പിന്നീടു് വലത്തേക്കു് നീങ്ങി വിടുക."
+
+#: data/konqueror_gestures_kde321.khotkeys:1415
+msgctxt "Name"
+msgid "Activate Next Tab"
+msgstr "അടുത്ത ടാബ് സജീവമാക്കുക"
+
+#: data/konqueror_gestures_kde321.khotkeys:1592
+msgctxt "Comment"
+msgid "Press, move up, move left, release."
+msgstr "അമര്‍ത്തി, മുകളിലേക്കു് നീങ്ങി, പിന്നീട് ഇടത്തേക്കു് നീങ്ങി വിടുക."
+
+#: data/konqueror_gestures_kde321.khotkeys:1670
+msgctxt "Name"
+msgid "Activate Previous Tab"
+msgstr "മുമ്പുള്ള ടാബ് സജീവമാക്കുക"
+
+#: data/konqueror_gestures_kde321.khotkeys:1935
+msgctxt "Comment"
+msgid "Press, move down, move up, move down, release."
+msgstr "അമര്‍ത്തി, താഴേക്കു് നീങ്ങി, പിന്നീടു് മുകളില്‍ ചെന്നു് താഴേക്കു് നീങ്ങി വിടുക."
+
+#: data/konqueror_gestures_kde321.khotkeys:2013
+msgctxt "Name"
+msgid "Duplicate Tab"
+msgstr "കിളിവാതില്‍ പകര്‍ത്തുക"
+
+#: data/konqueror_gestures_kde321.khotkeys:2186
+msgctxt "Comment"
+msgid "Press, move down, move up, release."
+msgstr "അമര്‍ത്തി, താഴേക്കു് നീങ്ങി, പിന്നീടു് മുകളിലേക്കു് ചെന്നു് വിടുക."
+
+#: data/konqueror_gestures_kde321.khotkeys:2264
+msgctxt "Name"
+msgid "Duplicate Window"
+msgstr "ജാലകം പകര്‍ത്തുക"
+
+#: data/konqueror_gestures_kde321.khotkeys:2437
+msgctxt "Comment"
+msgid "Press, move right, release."
+msgstr "അമര്‍ത്തി വലത്തേക്കു് നീക്കി വിടുക."
+
+#: data/konqueror_gestures_kde321.khotkeys:2693
+msgctxt "Comment"
+msgid ""
+"Press, move down, move half up, move right, move down, release.\\n(Drawing a "
+"lowercase 'h'.)"
+msgstr ""
+"അമര്‍ത്തി, താഴേയ്ക്കു നീങ്ങി, പാതി മുകളിലേയ്ക്കു നീങ്ങി, വലത്തോട്ടു് നീങ്ങി, പിന്നെ താഴേയ്ക്കു "
+"നീങ്ങി, വിടുക\\n(ചെറിയക്ഷരം 'h' എഴുതും പോലെ)"
+
+#: data/konqueror_gestures_kde321.khotkeys:2765
+msgctxt "Name"
+msgid "Home"
+msgstr "പൂമുഖം"
+
+#: data/konqueror_gestures_kde321.khotkeys:2953
+msgctxt "Comment"
+msgid ""
+"Press, move right, move down, move right, release.\\nMozilla-style: Press, "
+"move down, move right, release."
+msgstr ""
+"അമര്‍ത്തി, വലത്തേക്കു നീങ്ങി, താഴേയ്ക്കു് നീങ്ങി, പിന്നെ ഇടത്തേക്കു നീങ്ങി, വിടുക\\nമോസില്ല "
+"രീതി: അമര്‍ത്തി, താഴേയ്ക്കു നീങ്ങി, പിന്നെ വലത്തേയ്ക്കു നീങ്ങി, വിടുക"
+
+#: data/konqueror_gestures_kde321.khotkeys:3025
+msgctxt "Name"
+msgid "Close Tab"
+msgstr "കിളിവാതില്‍ അടയ്ക്കുക"
+
+#: data/konqueror_gestures_kde321.khotkeys:3205
+msgctxt "Comment"
+msgid ""
+"Press, move up, release.\\nConflicts with Opera-style 'Up #2', which is "
+"disabled by default."
+msgstr ""
+"അമര്‍ത്തി, മുകളിലേയ്ക്കു് നീങ്ങി, വിടുക\\nഓപറയുടെ 'Up #2' ശൈലിയുമായി വിരുദ്ധം, സഹജമായി "
+"പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു."
+
+#: data/konqueror_gestures_kde321.khotkeys:3276
+msgctxt "Name"
+msgid "New Tab"
+msgstr "പുതിയ കിളിവാതില്‍ "
+
+#: data/konqueror_gestures_kde321.khotkeys:3452
+msgctxt "Comment"
+msgid "Press, move down, release."
+msgstr "അമര്‍ത്തി, താഴേക്കു് നീങ്ങി വിടുക."
+
+#: data/konqueror_gestures_kde321.khotkeys:3530
+msgctxt "Name"
+msgid "New Window"
+msgstr "പുതിയ ജാലകം"
+
+#: data/konqueror_gestures_kde321.khotkeys:3712
+msgctxt "Comment"
+msgid "Press, move up, move down, release."
+msgstr "അമര്‍ത്തി, മുകളിലേക്കു് നീങ്ങി പിന്നീടു് താഴേക്കു് നീങ്ങി വിടുക."
+
+#: kcm_hotkeys/khotkeys.desktop:13
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Web Shortcuts"
+msgctxt "Name"
+msgid "Custom Shortcuts"
+msgstr "വെബിലെ കുറക്കുവഴികള്‍"
+
+#: kcm_hotkeys/khotkeys.desktop:76
+msgctxt "Comment"
+msgid "Configure Input Actions settings"
+msgstr "ഇന്‍പുട്ട് പ്രവര്‍ത്തന സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#: kcm_hotkeys/khotkeys.desktop:145
+msgctxt "X-KDE-Keywords"
+msgid ""
+"global,keyboard shortcuts,hot keys,hotkeys,KHotKeys,input actions,mouse "
+"gestures,actions,triggers,launch"
+msgstr ""
+
+#~ msgctxt "Comment"
+#~ msgid "This group contains actions that are set up by default."
+#~ msgstr "സഹജമായി ക്രമീകരിച്ചിട്ടുള്ള പ്രവര്‍ത്തികള്‍ ഈ കൂട്ടത്തില്‍ ലഭ്യമാകുന്നു."
+
+#~ msgctxt "Name"
+#~ msgid "Preset Actions"
+#~ msgstr "മുമ്പു് ക്രമീകരിച്ചിട്ടുള്ള പ്രവൃത്തികള്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "Launches KSnapShot when PrintScrn is pressed."
+#~ msgstr "PrintScrn അമര്‍ത്തിയാല്‍ കെസ്നാപ്ഷോട്ട് തുടങ്ങുന്നു."
+
+#~ msgctxt "Name"
+#~ msgid "PrintScreen"
+#~ msgstr "PrintScreen"

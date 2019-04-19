@@ -1,0 +1,264 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-pa package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-pa\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-04-01 03:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: kcm/module.cpp:39
+#, kde-format
+msgctxt "@title"
+msgid "Configure the Audio Volume"
+msgstr ""
+
+#: kcm/module.cpp:43
+#, kde-format
+msgctxt "@info:credit"
+msgid "Copyright 2015 Harald Sitter"
+msgstr ""
+
+#: kcm/module.cpp:45
+#, kde-format
+msgctxt "@info:credit"
+msgid "Harald Sitter"
+msgstr ""
+
+#: kcm/module.cpp:46
+#, kde-format
+msgctxt "@info:credit"
+msgid "Author"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:49
+#, kde-format
+msgid "Device Profiles"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:50
+#, kde-format
+msgctxt "@label"
+msgid "No Device Profiles Available"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:66
+#, kde-format
+msgid "Advanced Output Configuration"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:79
+#, kde-format
+msgid ""
+"Add virtual output device for simultaneous output on all local sound cards"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:90
+#, kde-format
+msgid ""
+"Automatically switch all running streams when a new output becomes available"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:101
+#, kde-format
+msgid "Requires %1 PulseAudio module"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:107
+#, kde-format
+msgid "Speaker Placement and Testing"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:115
+#, kde-format
+msgctxt "@label"
+msgid "Output:"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:154
+#, kde-format
+msgid "Front Left"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:165
+#, kde-format
+msgid "Front Center"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:176
+#, kde-format
+msgid "Front Right"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:187
+#, kde-format
+msgid "Side Left"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:213
+#, kde-format
+msgid "Side Right"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:223
+#, kde-format
+msgid "Rear Left"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:233
+#, kde-format
+msgid "Subwoofer"
+msgstr ""
+
+#: kcm/package/contents/ui/Advanced.qml:243
+#, kde-format
+msgid "Rear Right"
+msgstr ""
+
+#: kcm/package/contents/ui/Applications.qml:48
+#, kde-format
+msgid "Playback"
+msgstr ""
+
+#: kcm/package/contents/ui/Applications.qml:49
+#, kde-format
+msgctxt "@label"
+msgid "No Applications Playing Audio"
+msgstr ""
+
+#: kcm/package/contents/ui/Applications.qml:87
+#, kde-format
+msgid "Capture"
+msgstr ""
+
+#: kcm/package/contents/ui/Applications.qml:88
+#, kde-format
+msgctxt "@label"
+msgid "No Applications Recording Audio"
+msgstr ""
+
+#: kcm/package/contents/ui/CardListItem.qml:51
+#, kde-format
+msgctxt "@label"
+msgid "Profile:"
+msgstr ""
+
+#: kcm/package/contents/ui/DefaultDeviceButton.qml:28
+#, kde-format
+msgid "Default"
+msgstr ""
+
+#: kcm/package/contents/ui/DeviceListItem.qml:73
+#, kde-format
+msgid "Port"
+msgstr ""
+
+#: kcm/package/contents/ui/DeviceListItem.qml:91
+#, kde-format
+msgctxt "Port is unavailable"
+msgid " (unavailable)"
+msgstr ""
+
+#: kcm/package/contents/ui/DeviceListItem.qml:93
+#, kde-format
+msgctxt "Port is unplugged"
+msgid " (unplugged)"
+msgstr ""
+
+#: kcm/package/contents/ui/Devices.qml:45
+#, kde-format
+msgid "Outputs"
+msgstr ""
+
+#: kcm/package/contents/ui/Devices.qml:46
+#, kde-format
+msgctxt "@label"
+msgid "No Output Devices Available"
+msgstr ""
+
+#: kcm/package/contents/ui/Devices.qml:63
+#, kde-format
+msgid "Inputs"
+msgstr ""
+
+#: kcm/package/contents/ui/Devices.qml:64
+#, kde-format
+msgctxt "@label"
+msgid "No Input Devices Available"
+msgstr ""
+
+#: kcm/package/contents/ui/main.qml:34
+#, kde-format
+msgid "This module allows configuring the Pulseaudio sound subsystem."
+msgstr ""
+
+#: kcm/package/contents/ui/main.qml:46
+#, kde-format
+msgctxt "@title:tab"
+msgid "Devices"
+msgstr ""
+
+#: kcm/package/contents/ui/main.qml:49
+#, kde-format
+msgctxt "@title:tab"
+msgid "Applications"
+msgstr ""
+
+#: kcm/package/contents/ui/main.qml:52
+#, kde-format
+msgctxt "@title:tab"
+msgid "Advanced"
+msgstr ""
+
+#: kcm/package/contents/ui/MuteButton.qml:28
+#, kde-format
+msgid "Mute audio"
+msgstr ""
+
+#: kcm/package/contents/ui/StreamListItem.qml:57
+#, kde-format
+msgid "Notification Sounds"
+msgstr ""
+
+#: kcm/package/contents/ui/StreamListItem.qml:59
+#, kde-format
+msgctxt "label of stream items"
+msgid "%1: %2"
+msgstr ""
+
+#: kcm/package/contents/ui/VolumeSlider.qml:88
+#, kde-format
+msgid "100%"
+msgstr ""
+
+#: kcm/package/contents/ui/VolumeSlider.qml:104
+#, kde-format
+msgctxt "volume percentage"
+msgid "%1%"
+msgstr ""
+
+#: kcm/package/contents/ui/VolumeSlider.qml:110
+#, kde-format
+msgctxt "only used for sizing, should be widest possible string"
+msgid "100%"
+msgstr ""

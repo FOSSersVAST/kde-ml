@@ -1,0 +1,145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-03-18 02:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/applet/package/metadata.desktop:2
+#: src/kio/bluetooth/bluetooth-network.desktop:3
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr ""
+
+#: src/applet/package/metadata.desktop:48
+msgctxt "Comment"
+msgid "Bluetooth status and control"
+msgstr ""
+
+#: src/bluedevil.notifyrc:3
+msgctxt "Comment"
+msgid "Bluetooth system"
+msgstr ""
+
+#: src/bluedevil.notifyrc:50
+msgctxt "Name"
+msgid "Authorization Requested"
+msgstr ""
+
+#: src/bluedevil.notifyrc:95
+msgctxt "Comment"
+msgid "A device wants to connect"
+msgstr ""
+
+#: src/bluedevil.notifyrc:144
+msgctxt "Name"
+msgid "Confirm PIN"
+msgstr ""
+
+#: src/bluedevil.notifyrc:189
+msgctxt "Comment"
+msgid "Confirm a device request using matching PINs"
+msgstr ""
+
+#: src/bluedevil.notifyrc:238
+msgctxt "Name"
+msgid "Request PIN"
+msgstr ""
+
+#: src/bluedevil.notifyrc:283
+msgctxt "Comment"
+msgid "A PIN is needed"
+msgstr ""
+
+#: src/bluedevil.notifyrc:332
+msgctxt "Name"
+msgid "Incoming File"
+msgstr ""
+
+#: src/bluedevil.notifyrc:377
+msgctxt "Comment"
+msgid "Incoming file transfer"
+msgstr ""
+
+#: src/bluedevil.notifyrc:426
+msgctxt "Name"
+msgid "Connection Failed"
+msgstr ""
+
+#: src/bluedevil.notifyrc:470
+msgctxt "Comment"
+msgid "Connection to device failed"
+msgstr ""
+
+#: src/kcmodule/adapters/bluedeviladapters.desktop:14
+msgctxt "Name"
+msgid "Adapters"
+msgstr ""
+
+#: src/kcmodule/adapters/bluedeviladapters.desktop:60
+msgctxt "Comment"
+msgid "Bluetooth Adapters"
+msgstr ""
+
+#: src/kcmodule/adapters/bluedeviladapters.desktop:104
+#: src/kcmodule/devices/bluedevildevices.desktop:104
+#: src/kcmodule/global/bluedevilglobal.desktop:102
+msgctxt "X-KDE-Keywords"
+msgid "Network,Connectivity,Bluetooth"
+msgstr ""
+
+#: src/kcmodule/devices/bluedevildevices.desktop:14
+msgctxt "Name"
+msgid "Devices"
+msgstr ""
+
+#: src/kcmodule/devices/bluedevildevices.desktop:60
+msgctxt "Comment"
+msgid "Bluetooth Devices"
+msgstr ""
+
+#: src/kcmodule/global/bluedevilglobal.desktop:14
+msgctxt "Name"
+msgid "Advanced Settings"
+msgstr ""
+
+#: src/kcmodule/global/bluedevilglobal.desktop:58
+msgctxt "Comment"
+msgid "Advanced Bluetooth Settings"
+msgstr ""
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:2
+msgctxt "Name"
+msgid "BlueDevil Send File"
+msgstr ""
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:45
+msgctxt "GenericName"
+msgid "BlueDevil Send File"
+msgstr ""
+
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:88
+msgctxt "Comment"
+msgid "BlueDevil Send File"
+msgstr ""
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:2
+msgctxt "Name"
+msgid "BlueDevil Wizard"
+msgstr ""
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:46
+msgctxt "GenericName"
+msgid "BlueDevil Wizard"
+msgstr ""
+
+#: src/wizard/org.kde.bluedevilwizard.desktop:90
+msgctxt "Comment"
+msgid "BlueDevil Wizard"
+msgstr ""

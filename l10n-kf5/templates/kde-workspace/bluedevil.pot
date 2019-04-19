@@ -1,0 +1,894 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the bluedevil package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bluedevil\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-03-17 03:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:71
+#, kde-format
+msgctxt "Radio widget to set if we want the adapter to be hidden"
+msgid "Hidden"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:72
+#, kde-format
+msgctxt "Radio widget to set if we want the adapter to be always visible"
+msgid "Always visible"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:73
+#, kde-format
+msgctxt "Radio widget to set if we want the adapter to be temporarily visible"
+msgid "Temporarily visible"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:113
+#, kde-format
+msgctxt "Discover time for the adapter"
+msgid "1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: kcmodule/adapters/adapters.cpp:119
+#, kde-format
+msgctxt "Name of the adapter"
+msgid "Name"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:120
+#, kde-format
+msgctxt "Whether the adapter is powered or not"
+msgid "Powered"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:121
+#, kde-format
+msgctxt "Whether the adapter is visible or not"
+msgid "Visibility"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:124
+#, kde-format
+msgctxt "How long the adapter will be discoverable"
+msgid "Discover Time"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:230 kcmodule/adapters/adapters.cpp:257
+#, kde-format
+msgid "1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: kcmodule/adapters/adapters.cpp:269
+#, kde-format
+msgid "Bluetooth Adapters"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:271
+#, kde-format
+msgid "Bluetooth Adapters Control Panel Module"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:273 kcmodule/devices/devices.cpp:118
+#: kcmodule/global/global.cpp:53
+#, kde-format
+msgid "(c) 2010 Rafael Fernández López"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:275 kcmodule/devices/devices.cpp:121
+#: kcmodule/global/global.cpp:55 kded/bluedevildaemon.cpp:91
+#: sendfile/main.cpp:42 wizard/main.cpp:44
+#, kde-format
+msgid "Maintainer"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:278 kcmodule/devices/devices.cpp:124
+#: kcmodule/global/global.cpp:58
+#, kde-format
+msgid "Previous Developer and Maintainer"
+msgstr ""
+
+#: kcmodule/adapters/adapters.cpp:348
+#, kde-format
+msgid "No adapters found"
+msgstr ""
+
+#: kcmodule/common/systemcheck.cpp:69 kio/bluetooth/kiobluetooth.cpp:79
+#: kio/bluetooth/kiobluetooth.cpp:209
+#, kde-format
+msgid "No Bluetooth adapters have been found."
+msgstr ""
+
+#: kcmodule/common/systemcheck.cpp:76 sendfile/discoverwidget.cpp:149
+#: wizard/pages/discover.cpp:274
+#, kde-format
+msgid "Bluetooth is disabled."
+msgstr ""
+
+#: kcmodule/common/systemcheck.cpp:78 sendfile/discoverwidget.cpp:150
+#, kde-format
+msgctxt "Action to enable Bluetooth adapter"
+msgid "Enable"
+msgstr ""
+
+#: kcmodule/common/systemcheck.cpp:87 sendfile/discoverwidget.cpp:152
+#, kde-format
+msgid "Your Bluetooth adapter is powered off."
+msgstr ""
+
+#: kcmodule/common/systemcheck.cpp:89 sendfile/discoverwidget.cpp:153
+#, kde-format
+msgctxt "Action to turn on Bluetooth adapter"
+msgid "Turn On"
+msgstr ""
+
+#: kcmodule/common/systemcheck.cpp:99 kcmodule/common/systemcheck.cpp:110
+#: kcmodule/common/systemcheck.cpp:121 wizard/pages/discover.cpp:279
+#, kde-format
+msgctxt "Action to fix a problem"
+msgid "Fix it"
+msgstr ""
+
+#: kcmodule/common/systemcheck.cpp:102
+#, kde-format
+msgid "Your default Bluetooth adapter is not visible for remote devices."
+msgstr ""
+
+#: kcmodule/common/systemcheck.cpp:113
+#, kde-format
+msgid "Interaction with Bluetooth system is not optimal."
+msgstr ""
+
+#: kcmodule/common/systemcheck.cpp:124
+#, kde-format
+msgid "Bluetooth is not completely enabled."
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:162
+#, kde-format
+msgid "Disconnect"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:165
+#, kde-format
+msgid "Connect"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:216
+#, kde-format
+msgctxt "This device is a Phone"
+msgid "Phone"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:218
+#, kde-format
+msgctxt "This device is a Modem"
+msgid "Modem"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:220
+#, kde-format
+msgctxt "This device is a Computer"
+msgid "Computer"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:222
+#, kde-format
+msgctxt "This device is of type Network"
+msgid "Network"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:224
+#, kde-format
+msgctxt "This device is a Headset"
+msgid "Headset"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:226
+#, kde-format
+msgctxt "This device is a Headphones"
+msgid "Headphones"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:228
+#, kde-format
+msgctxt "This device is an Audio device"
+msgid "Audio"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:230
+#, kde-format
+msgctxt "This device is a Keyboard"
+msgid "Keyboard"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:232
+#, kde-format
+msgctxt "This device is a Mouse"
+msgid "Mouse"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:234
+#, kde-format
+msgctxt "This device is a Joypad"
+msgid "Joypad"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:236
+#, kde-format
+msgctxt "This device is a Graphics Tablet (input device)"
+msgid "Tablet"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:238
+#, kde-format
+msgctxt "This device is a Peripheral device"
+msgid "Peripheral"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:240
+#, kde-format
+msgctxt "This device is a Camera"
+msgid "Camera"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:242
+#, kde-format
+msgctxt "This device is a Printer"
+msgid "Printer"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:244
+#, kde-format
+msgctxt ""
+"This device is an Imaging device (printer, scanner, camera, display, ...)"
+msgid "Imaging"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:246
+#, kde-format
+msgctxt "This device is a Wearable"
+msgid "Wearable"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:248
+#, kde-format
+msgctxt "This device is a Toy"
+msgid "Toy"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:250
+#, kde-format
+msgctxt "This device is a Health device"
+msgid "Health"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:252
+#, kde-format
+msgctxt "Type of device: could not be determined"
+msgid "Unknown"
+msgstr ""
+
+#: kcmodule/devices/devicedetails.cpp:274
+#, kde-format
+msgctxt "DeviceName Network (Service)"
+msgid "%1 Network (%2)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: kcmodule/devices/devicedetails.ui:113
+#, kde-format
+msgid "Type:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: kcmodule/devices/devicedetails.ui:123
+#, kde-format
+msgid "Address:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: kcmodule/devices/devicedetails.ui:137
+#, kde-format
+msgid "Name:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kcmodule/devices/devicedetails.ui:151
+#, kde-format
+msgid "Trusted:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: kcmodule/devices/devicedetails.ui:161
+#, kde-format
+msgid "Blocked:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, actionsLabel)
+#: kcmodule/devices/devicedetails.ui:171
+#, kde-format
+msgid "Actions:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, sendFileButton)
+#: kcmodule/devices/devicedetails.ui:180 kio/bluetooth/kiobluetooth.cpp:58
+#, kde-format
+msgid "Send File"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, napButton)
+#: kcmodule/devices/devicedetails.ui:187
+#, kde-format
+msgid "Setup NAP Network..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, dunButton)
+#: kcmodule/devices/devicedetails.ui:194
+#, kde-format
+msgid "Setup DUN Network..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: kcmodule/devices/devicedetails.ui:203
+#, kde-format
+msgid "Adapter:"
+msgstr ""
+
+#: kcmodule/devices/devices.cpp:114
+#, kde-format
+msgid "Bluetooth Devices"
+msgstr ""
+
+#: kcmodule/devices/devices.cpp:116
+#, kde-format
+msgid "Bluetooth Devices Control Panel Module"
+msgstr ""
+
+#: kcmodule/devices/devices.cpp:214
+#, kde-format
+msgid ""
+"Are you sure that you want to remove device \"%1\" from the list of known "
+"devices?"
+msgstr ""
+
+#: kcmodule/devices/devices.cpp:215
+#, kde-format
+msgctxt "Title of window that asks for confirmation when removing a device"
+msgid "Device removal"
+msgstr ""
+
+#: kcmodule/devices/devices.cpp:270
+#, kde-format
+msgid "Select a device to configure"
+msgstr ""
+
+#: kcmodule/devices/devices.cpp:285
+#, kde-format
+msgid "No devices found"
+msgstr ""
+
+#: kcmodule/devices/devices.cpp:288
+#, kde-format
+msgid "Add new device"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, addButton)
+#: kcmodule/devices/devices.ui:62
+#, kde-format
+msgid "Add device"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, removeButton)
+#: kcmodule/devices/devices.ui:76
+#, kde-format
+msgid "Remove device"
+msgstr ""
+
+#: kcmodule/global/global.cpp:49
+#, kde-format
+msgid "Bluetooth Advanced Settings"
+msgstr ""
+
+#: kcmodule/global/global.cpp:51
+#, kde-format
+msgid "Bluetooth Advanced Settings Control Panel Module"
+msgstr ""
+
+#: kcmodule/global/global.cpp:66
+#, kde-format
+msgctxt "'Auto accept' option value"
+msgid "Never"
+msgstr ""
+
+#: kcmodule/global/global.cpp:67
+#, kde-format
+msgctxt "'Auto accept' option value"
+msgid "Trusted devices"
+msgstr ""
+
+#: kcmodule/global/global.cpp:68
+#, kde-format
+msgctxt "'Auto accept' option value"
+msgid "All devices"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_enableGlobalBluetooth)
+#: kcmodule/global/global.ui:17
+#, kde-format
+msgid "Enable Bluetooth integration"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lbl_receivingFiles)
+#: kcmodule/global/global.ui:40
+#, kde-format
+msgid "<b>Receiving files</b>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_enabled)
+#: kcmodule/global/global.ui:47
+#, kde-format
+msgid "Receive files from remote devices"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lbl_autoAccept)
+#: kcmodule/global/global.ui:89
+#, kde-format
+msgid "Accept automatically:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lbl_saveFiles)
+#: kcmodule/global/global.ui:99
+#, kde-format
+msgid "Save files in:"
+msgstr ""
+
+#: kded/bluedevildaemon.cpp:84 kded/bluedevildaemon.cpp:86
+#, kde-format
+msgid "Bluetooth Daemon"
+msgstr ""
+
+#: kded/bluedevildaemon.cpp:88 sendfile/main.cpp:40 wizard/main.cpp:42
+#, kde-format
+msgid "(c) 2010, UFO Coders"
+msgstr ""
+
+#: kded/bluedevildaemon.cpp:94 kded/bluedevildaemon.cpp:97
+#: sendfile/main.cpp:45 wizard/main.cpp:47
+#, kde-format
+msgid "Previous Maintainer"
+msgstr ""
+
+#: kded/helpers/requestauthorization.cpp:42
+#, kde-format
+msgctxt ""
+"Show a notification asking to authorize or deny access to this computer from "
+"Bluetooth.The %1 is the name of the bluetooth device"
+msgid "%1 is requesting access to this computer"
+msgstr ""
+
+#: kded/helpers/requestauthorization.cpp:45
+#, kde-format
+msgctxt "Button to trust a bluetooth remote device and authorize it to connect"
+msgid "Trust && Authorize"
+msgstr ""
+
+#: kded/helpers/requestauthorization.cpp:46
+#, kde-format
+msgctxt "Button to authorize a bluetooth remote device to connect"
+msgid "Authorize Only"
+msgstr ""
+
+#: kded/helpers/requestauthorization.cpp:47
+#, kde-format
+msgctxt "Deny access to a remote bluetooth device"
+msgid "Deny"
+msgstr ""
+
+#: kded/helpers/requestconfirmation.cpp:41
+#, kde-format
+msgctxt ""
+"The text is shown in a notification to know if the PIN is correct,%1 is the "
+"remote bluetooth device and %2 is the pin"
+msgid "%1 is asking if the PIN is correct: %2"
+msgstr ""
+
+#: kded/helpers/requestconfirmation.cpp:44
+#, kde-format
+msgctxt "Notification button to know if the pin is correct or not"
+msgid "PIN correct"
+msgstr ""
+
+#: kded/helpers/requestconfirmation.cpp:45
+#, kde-format
+msgctxt "Notification button to say that the PIN is wrong"
+msgid "PIN incorrect"
+msgstr ""
+
+#: kded/helpers/requestpin.cpp:49
+#, kde-format
+msgctxt ""
+"Shown in a notification to announce that a PIN is needed to accomplish a "
+"pair action,%1 is the name of the bluetooth device"
+msgid "PIN needed to pair with %1"
+msgstr ""
+
+#: kded/helpers/requestpin.cpp:53
+#, kde-format
+msgctxt ""
+"Notification button which once clicked, a dialog to introduce the PIN will "
+"be shown"
+msgid "Introduce PIN"
+msgstr ""
+
+#: kded/helpers/requestpin.cpp:75
+#, kde-format
+msgctxt "Shown in the caption of a dialog where the user introduce the PIN"
+msgid "Introduce PIN"
+msgstr ""
+
+#: kded/helpers/requestpin.cpp:81
+#, kde-format
+msgctxt ""
+"Shown in a dialog which asks to introduce a PIN that will be used to pair a "
+"Bluetooth device,%1 is the name of the Bluetooth device"
+msgid ""
+"In order to pair this computer with %1, you have to enter a PIN. Please do "
+"it below."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: kded/helpers/requestpin.ui:52
+#, kde-format
+msgid "PIN:"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, pin)
+#: kded/helpers/requestpin.ui:65
+#, kde-format
+msgid "1234"
+msgstr ""
+
+#: kded/receivefilejob.cpp:144
+#, kde-format
+msgctxt ""
+"Show a notification asking to authorize or deny an incoming file transfer to "
+"this computer from a Bluetooth device."
+msgid "%1 is sending you the file %2"
+msgstr ""
+
+#: kded/receivefilejob.cpp:147
+#, kde-format
+msgctxt ""
+"Button to accept the incoming file transfer and download it in the default "
+"download directory"
+msgid "Accept"
+msgstr ""
+
+#: kded/receivefilejob.cpp:148
+#, kde-format
+msgctxt "Deny the incoming file transfer"
+msgid "Cancel"
+msgstr ""
+
+#: kded/receivefilejob.cpp:171
+#, kde-format
+msgid "Receiving file over Bluetooth"
+msgstr ""
+
+#: kded/receivefilejob.cpp:172 sendfile/sendfilesjob.cpp:82
+#: sendfile/sendfilesjob.cpp:97
+#, kde-format
+msgctxt "File transfer origin"
+msgid "From"
+msgstr ""
+
+#: kded/receivefilejob.cpp:173 sendfile/sendfilesjob.cpp:83
+#: sendfile/sendfilesjob.cpp:98
+#, kde-format
+msgctxt "File transfer destination"
+msgid "To"
+msgstr ""
+
+#: kded/receivefilejob.cpp:198
+#, kde-format
+msgid "Saving file failed"
+msgstr ""
+
+#: kded/receivefilejob.cpp:231 kio/obexftp/transferfilejob.cpp:62
+#: sendfile/sendfilesjob.cpp:169
+#, kde-format
+msgid "Bluetooth transfer failed"
+msgstr ""
+
+#: kio/bluetooth/kiobluetooth.cpp:64
+#, kde-format
+msgid "Browse Files"
+msgstr ""
+
+#: kio/bluetooth/kiobluetooth.cpp:99
+#, kde-format
+msgid "Retrieving services..."
+msgstr ""
+
+#: kio/bluetooth/kiobluetooth.cpp:106
+#, kde-format
+msgid "This address is unavailable."
+msgstr ""
+
+#: kio/bluetooth/kiobluetooth.cpp:155
+#, kde-format
+msgid "Received Files"
+msgstr ""
+
+#: kio/bluetooth/kiobluetooth.cpp:175
+#, kde-format
+msgid "Scanning for new devices..."
+msgstr ""
+
+#: kio/obexftp/kioobexftp.cpp:102
+#, kde-format
+msgid "Obexd service is not running."
+msgstr ""
+
+#: kio/obexftp/kioobexftp.cpp:148
+#, kde-format
+msgid "Retrieving information from remote device..."
+msgstr ""
+
+#: kio/obexftp/kioobexftp.cpp:231
+#, kde-format
+msgid "Connecting to the device"
+msgstr ""
+
+#: kio/obexftp/kioobexftp.cpp:537
+#, kde-format
+msgid "Phone memory"
+msgstr ""
+
+#: kio/obexftp/kioobexftp.cpp:540
+#, kde-format
+msgid "External memory"
+msgstr ""
+
+#: sendfile/main.cpp:36 sendfile/main.cpp:38
+#, kde-format
+msgid "Bluetooth Send File Wizard"
+msgstr ""
+
+#: sendfile/main.cpp:56
+#, kde-format
+msgid "Specify receiving device by MAC address."
+msgstr ""
+
+#: sendfile/main.cpp:60
+#, kde-format
+msgid "Specify receiving device by UBI path."
+msgstr ""
+
+#: sendfile/main.cpp:64
+#, kde-format
+msgid "Files to be sent."
+msgstr ""
+
+#: sendfile/pages/connectingpage.cpp:45 wizard/pages/connect.cpp:53
+#, kde-format
+msgctxt "Connecting to a Bluetooth device"
+msgid "Connecting to %1..."
+msgstr ""
+
+#: sendfile/pages/failpage.cpp:56
+#, kde-format
+msgctxt "This string is shown when the wizard fail"
+msgid "The connection to the device has failed"
+msgstr ""
+
+#: sendfile/pages/failpage.cpp:58
+#, kde-format
+msgid "The connection to %1 has failed"
+msgstr ""
+
+#: sendfile/pages/selectdeviceandfilespage.cpp:65
+#, kde-format
+msgid "Open file..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KSqueezedTextLabel, selectLbl)
+#: sendfile/pages/selectdeviceandfilespage.cpp:70
+#: sendfile/pages/selectfilediscover.ui:99
+#, kde-format
+msgid "Select one or more files:"
+msgstr ""
+
+#: sendfile/pages/selectdeviceandfilespage.cpp:77
+#, kde-format
+msgid "Selected files: <b>%1</b>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: sendfile/pages/selectfilediscover.ui:38
+#, kde-format
+msgid "Select a device from the list:"
+msgstr ""
+
+#: sendfile/pages/selectfilespage.cpp:55
+#, kde-format
+msgctxt "Send files to a Bluetooth device"
+msgid "Send to %1"
+msgstr ""
+
+#: sendfile/sendfilesjob.cpp:81 sendfile/sendfilesjob.cpp:96
+#, kde-format
+msgid "Sending file over Bluetooth"
+msgstr ""
+
+#: sendfile/sendfilewizard.cpp:54
+#, kde-format
+msgid "Send Files"
+msgstr ""
+
+#: sendfile/sendfilewizard.cpp:55
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#. i18n: ectx: label, entry (enabled), group (General)
+#: settings/filereceiver.kcfg:11
+#, kde-format
+msgid "Enable or disable receiving files"
+msgstr ""
+
+#. i18n: ectx: label, entry (saveUrl), group (General)
+#: settings/filereceiver.kcfg:15
+#, kde-format
+msgid "Save received files to:"
+msgstr ""
+
+#. i18n: ectx: label, entry (autoAccept), group (General)
+#: settings/filereceiver.kcfg:19
+#, kde-format
+msgid "Whether allow to modify shared files"
+msgstr ""
+
+#. i18n: ectx: label, entry (enableGlobalBluetooth), group (General)
+#: settings/global.kcfg:9
+#, kde-format
+msgid "Enable or disable the global KDE Bluetooth integration"
+msgstr ""
+
+#: wizard/bluewizard.cpp:68
+#, kde-format
+msgctxt "Action to go to the next page on the wizard"
+msgid "Next"
+msgstr ""
+
+#: wizard/bluewizard.cpp:69
+#, kde-format
+msgctxt "Action to finish the wizard"
+msgid "Finish"
+msgstr ""
+
+#: wizard/main.cpp:38 wizard/main.cpp:40
+#, kde-format
+msgid "Bluetooth Device Wizard"
+msgstr ""
+
+#: wizard/pages/discover.cpp:118
+#, kde-format
+msgid "Select a device"
+msgstr ""
+
+#: wizard/pages/discover.cpp:276
+#, kde-format
+msgid "Your Bluetooth adapter is not pairable."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: wizard/pages/discover.ui:66
+#, kde-format
+msgid "Scanning..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, manualPin)
+#: wizard/pages/discover.ui:86
+#, kde-format
+msgid "Manual PIN:"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, pinText)
+#: wizard/pages/discover.ui:114
+#, kde-format
+msgid "0000"
+msgstr ""
+
+#: wizard/pages/fail.cpp:50
+#, kde-format
+msgctxt ""
+"Button offered when the wizard fail. This button will restart the wizard"
+msgid "Restart the wizard"
+msgstr ""
+
+#: wizard/pages/fail.cpp:54
+#, kde-format
+msgctxt "Button that closes the wizard"
+msgid "Close"
+msgstr ""
+
+#: wizard/pages/fail.cpp:66
+#, kde-format
+msgctxt "This string is shown when the wizard fail"
+msgid "The setup of the device has failed"
+msgstr ""
+
+#: wizard/pages/fail.cpp:68
+#, kde-format
+msgid "The setup of %1 has failed"
+msgstr ""
+
+#: wizard/pages/pairing.cpp:75
+#, kde-format
+msgid "Connecting to %1..."
+msgstr ""
+
+#: wizard/pages/pairing.cpp:106
+#, kde-format
+msgid ""
+"Please introduce the PIN in your keyboard when it appears and press Enter"
+msgstr ""
+
+#: wizard/pages/pairing.cpp:108
+#, kde-format
+msgid "Please introduce the PIN in your device when it appears"
+msgstr ""
+
+#: wizard/pages/pairing.cpp:126
+#, kde-format
+msgid "Matches"
+msgstr ""
+
+#: wizard/pages/pairing.cpp:130
+#, kde-format
+msgid "Does not match"
+msgstr ""
+
+#: wizard/pages/pairing.cpp:145
+#, kde-format
+msgid "Please, confirm that the PIN displayed on %1 matches the wizard one."
+msgstr ""
+
+#: wizard/pages/success.cpp:61
+#, kde-format
+msgctxt "This string is shown when the wizard succeeds"
+msgid "The setup of the device has succeeded"
+msgstr ""
+
+#: wizard/pages/success.cpp:63
+#, kde-format
+msgid "The setup of %1 has succeeded"
+msgstr ""

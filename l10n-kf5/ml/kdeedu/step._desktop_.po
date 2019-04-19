@@ -1,0 +1,424 @@
+# Malayalam translation of desktop_kdeedu.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_kdeedu package.
+# Manu S Madhav <manusmad@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-10-11 02:02+0000\n"
+"PO-Revision-Date: 2008-07-16 10:34+0530\n"
+"Last-Translator: Manu S Madhav | മനു എസ് മാധവ് <manusmad@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: step/org.kde.step.desktop:8
+msgctxt "Name"
+msgid "Step"
+msgstr "സ്റ്റെപ്പ്"
+
+#: step/org.kde.step.desktop:59
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "Interactive physical simulator"
+msgctxt "GenericName"
+msgid "Interactive Physical Simulator"
+msgstr "ഇന്ററാക്ടീവ് ഫിസിക്കല്‍ സിമുലേറ്റര്‍"
+
+#: step/org.kde.step.desktop:104
+msgctxt "Comment"
+msgid "Simulate physics experiments"
+msgstr "ഫിസിക്സ് പരീക്ഷണങ്ങള്‍ സിമുലേറ്റ് ചെയ്യുക"
+
+#~ msgctxt "Name"
+#~ msgid "Blinken"
+#~ msgstr "ബ്ലിങ്കന്‍"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A memory enhancement game"
+#~ msgctxt "GenericName"
+#~ msgid "Memory Enhancement Game"
+#~ msgstr "ഒരു ഓര്‍മ്മ വര്‍ദ്ധിപ്പിക്കല്‍ കളി"
+
+#~ msgctxt "Comment"
+#~ msgid "A memory enhancement game"
+#~ msgstr "ഒരു ഓര്‍മ്മ വര്‍ദ്ധിപ്പിക്കല്‍ കളി"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KmPlot"
+#~ msgctxt "Name"
+#~ msgid "Plot2d"
+#~ msgstr "കെഎംപ്ലോട്ട്"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KmPlot"
+#~ msgctxt "Name"
+#~ msgid "Plot3d"
+#~ msgstr "കെഎംപ്ലോട്ട്"
+
+#~ msgctxt "Name"
+#~ msgid "KAlgebra"
+#~ msgstr "കെ-ആള്‍ജിബ്ര"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KAlgebra"
+#~ msgctxt "Name"
+#~ msgid "KAlgebra Mobile"
+#~ msgstr "കെ-ആള്‍ജിബ്ര"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Graph Calculator"
+#~ msgctxt "GenericName"
+#~ msgid "Pocket Graph Calculator"
+#~ msgstr "ഗ്രാഫ് ഗണനി"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Math Expression Solver and Plotter"
+#~ msgctxt "Comment"
+#~ msgid "Pocket Math Expression Solver and Plotter"
+#~ msgstr "ഗണിതസൂത്ര പരിഹാരകനും പ്ലോട്ടറും"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KAlgebra"
+#~ msgctxt "Name"
+#~ msgid "KAlgebra Script"
+#~ msgstr "കെ-ആള്‍ജിബ്ര"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KGeography"
+#~ msgctxt "Name"
+#~ msgid "Graph 2D"
+#~ msgstr "കെ-ജ്യോഗ്രഫി"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Marble"
+#~ msgctxt "Name"
+#~ msgid "Variables"
+#~ msgstr "മാര്‍ബിള്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "A Calculator"
+#~ msgstr "ഗണനി"
+
+#~ msgctxt "GenericName"
+#~ msgid "Graph Calculator"
+#~ msgstr "ഗ്രാഫ് ഗണനി"
+
+#~ msgctxt "Comment"
+#~ msgid "Math Expression Solver and Plotter"
+#~ msgstr "ഗണിതസൂത്ര പരിഹാരകനും പ്ലോട്ടറും"
+
+#~ msgctxt "Name"
+#~ msgid "KalziumGLPart"
+#~ msgstr "കാല്‍സിയംGLPart"
+
+#~ msgctxt "Comment"
+#~ msgid "An OpenGL-based 3D-renderer for molecules"
+#~ msgstr "OpenGL അടിസ്ഥാനമാക്കി തന്മാത്രകള്‍ക്കുള്ള ഒരു ത്രിമാന റെണ്‍ഡറര്‍"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A Calculator"
+#~ msgctxt "Name"
+#~ msgid "Kalzium gas Calculator"
+#~ msgstr "ഗണനി"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A Calculator"
+#~ msgctxt "Comment"
+#~ msgid "Kalzium gas Calculator"
+#~ msgstr "ഗണനി"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A Calculator"
+#~ msgctxt "Name"
+#~ msgid "Molar mass calculator"
+#~ msgstr "ഗണനി"
+
+#~ msgctxt "Name"
+#~ msgid "Kalzium"
+#~ msgstr "കാല്‍സിയം"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Periodic Table of Elements"
+#~ msgstr "കെഡിഇ മൂലകങ്ങളുടെ ആവര്‍ത്തനപ്പട്ടിക"
+
+#~ msgctxt "GenericName"
+#~ msgid "Periodic Table of Elements"
+#~ msgstr "മൂലകങ്ങളുടെ ആവര്‍ത്തനപ്പട്ടിക"
+
+#~ msgctxt "Name"
+#~ msgid "Kanagram"
+#~ msgstr "കെ-അനഗ്രം"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Letter Order Game"
+#~ msgstr "കെഡിഇ അക്ഷരക്രമം കളി"
+
+#~ msgctxt "GenericName"
+#~ msgid "Letter Order Game"
+#~ msgstr "അക്ഷരക്രമം കളി"
+
+#~ msgctxt "GenericName"
+#~ msgid "Exercise Fractions"
+#~ msgstr "ഭിന്നകങ്ങള്‍ അഭ്യസിക്കുക"
+
+#~ msgctxt "Comment"
+#~ msgid "Practice exercises with fractions"
+#~ msgstr "ഭിന്നകങ്ങള്‍ ചെയ്ത് അഭ്യസിക്കുക"
+
+#~ msgctxt "Name"
+#~ msgid "KBruch"
+#~ msgstr "കെ-ബ്രൂച്ച്"
+
+#~ msgctxt "Name"
+#~ msgid "KGeography"
+#~ msgstr "കെ-ജ്യോഗ്രഫി"
+
+#~ msgctxt "GenericName"
+#~ msgid "Geography Trainer"
+#~ msgstr "ഭൂമിശാസ്ത്ര പഠനസഹായി"
+
+#~ msgctxt "Comment"
+#~ msgid "A Geography Learning Program"
+#~ msgstr "ഒരു ഭൂമിശാസ്ത്ര പഠന പ്രോഗ്രാം"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Hangman Game"
+#~ msgstr "കെഡിഇ ഹാങ്ങ്മാന്‍ കളി"
+
+#~ msgctxt "GenericName"
+#~ msgid "Hangman Game"
+#~ msgstr "ഹാങ്ങ്മാന്‍ കളി"
+
+#~ msgctxt "Name"
+#~ msgid "KHangMan"
+#~ msgstr "കെ-ഹാങ്ങ്മാന്‍"
+
+#~ msgctxt "Name"
+#~ msgid "Dr. Geo Info"
+#~ msgstr "Dr. ജിയോ വിവരം"
+
+#~ msgctxt "Name"
+#~ msgid "Kig Info"
+#~ msgstr "കിഗ് വിവരം"
+
+#~ msgctxt "Name"
+#~ msgid "Kig"
+#~ msgstr "കിഗ്"
+
+#~ msgctxt "GenericName"
+#~ msgid "Interactive Geometry"
+#~ msgstr "ഇന്ററാക്ടീവ് ജ്യാമിതി"
+
+#~ msgctxt "Comment"
+#~ msgid "Explore Geometric Constructions"
+#~ msgstr "ജ്യാമിതീയ നിര്‍മ്മിതികള്‍ കണ്ടുപഠിക്കുക"
+
+#~ msgctxt "Name"
+#~ msgid "KigPart"
+#~ msgstr "കിഗ്പാര്‍ട്ട്"
+
+#~ msgctxt "GenericName"
+#~ msgid "Japanese Reference/Study Tool"
+#~ msgstr "ജാപ്പനീസ് റഫറന്‍സ്/പഠന ഉപകരണം"
+
+#~ msgctxt "Comment"
+#~ msgid "Japanese Reference and Study Tool"
+#~ msgstr "ജാപ്പനീസ് റഫറന്‍സിനായും പഠിക്കാനായുമുള്ള ഉപകരണം"
+
+#~ msgctxt "Name"
+#~ msgid "Kiten"
+#~ msgstr "കിറ്റണ്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "a KDE program to learn the alphabet"
+#~ msgstr "അക്ഷരമാല പഠിക്കുവാനുള്ള ഒരു കെഡിഇ പ്രയോഗം"
+
+#~ msgctxt "Name"
+#~ msgid "KLettres"
+#~ msgstr "കെ-ലെറ്റേഴ്സ്"
+
+#~ msgctxt "GenericName"
+#~ msgid "Learn The Alphabet"
+#~ msgstr "അക്ഷരമാല പഠിക്കുക"
+
+#~ msgctxt "Comment"
+#~ msgid "Function Plotter"
+#~ msgstr "ഫങ്ഷന്‍ പ്ലോട്ടര്‍"
+
+#~ msgctxt "Name"
+#~ msgid "KmPlot"
+#~ msgstr "കെഎംപ്ലോട്ട്"
+
+#~ msgctxt "GenericName"
+#~ msgid "Mathematical Function Plotter"
+#~ msgstr "ഗണിത ഫങ്ഷന്‍ പ്ലോട്ടര്‍"
+
+#~ msgctxt "Name"
+#~ msgid "KmPlotPart"
+#~ msgstr "കെഎംപ്ലോട്ട്പാര്‍ട്ട്"
+
+#~ msgctxt "Comment"
+#~ msgid "Desktop Planetarium"
+#~ msgstr "പണിയിട പ്ലാനറ്റേറിയം"
+
+#~ msgctxt "Name"
+#~ msgid "KStars"
+#~ msgstr "കെ-സ്റ്റാര്‍സ്"
+
+#~ msgctxt "GenericName"
+#~ msgid "Desktop Planetarium"
+#~ msgstr "പണിയിട പ്ലാനറ്റേറിയം"
+
+#~ msgctxt "GenericName"
+#~ msgid "Touch Typing Tutor"
+#~ msgstr "ടച്ച് ടൈപ്പിങ്ങ് പഠനസഹായി"
+
+#~ msgctxt "Name"
+#~ msgid "KTouch"
+#~ msgstr "കെ-ടച്ച്"
+
+#~ msgctxt "Name"
+#~ msgid "KTurtle"
+#~ msgstr "കെ-ടര്‍ട്ടില്‍"
+
+#~ msgctxt "GenericName"
+#~ msgid "Educational Programming Environment"
+#~ msgstr "പ്രോഗ്രാമിങ്ങ് പഠന പരിസ്ഥിതി"
+
+#~ msgctxt "Comment"
+#~ msgid "A flashcard and vocabulary learning program"
+#~ msgstr "ഫ്ലാഷ്‌കാര്‍ഡും വാക്പട്ടികയും പഠിക്കാനുള്ള ഒരു പ്രോഗ്രാം"
+
+#~ msgctxt "Name"
+#~ msgid "KWordQuiz"
+#~ msgstr "കെ-വേര്‍ഡ്ക്വിസ്"
+
+#~ msgctxt "GenericName"
+#~ msgid "Flash Card Trainer"
+#~ msgstr "ഫ്ലാഷ് കാര്‍ഡ് പഠനസഹായി"
+
+#~ msgctxt "Comment"
+#~ msgid "KWordQuiz"
+#~ msgstr "കെ-വേര്‍ഡ്ക്വിസ്"
+
+#~ msgctxt "Name"
+#~ msgid "QuizCorrect"
+#~ msgstr "QuizCorrect"
+
+#~ msgctxt "Comment"
+#~ msgid "Correct answer"
+#~ msgstr "ശരിയുത്തരം"
+
+#~ msgctxt "Name"
+#~ msgid "QuizError"
+#~ msgstr "QuizError"
+
+#~ msgctxt "Comment"
+#~ msgid "Wrong answer"
+#~ msgstr "തെറ്റുത്തരം"
+
+#~ msgctxt "Name"
+#~ msgid "syntaxerror"
+#~ msgstr "syntaxerror"
+
+#~ msgctxt "Comment"
+#~ msgid "Error in syntax"
+#~ msgstr "സിന്റാക്സില്‍ പിശക്"
+
+#~ msgctxt "Name"
+#~ msgid "Marble"
+#~ msgstr "മാര്‍ബിള്‍"
+
+#~ msgctxt "GenericName"
+#~ msgid "Desktop Globe"
+#~ msgstr "പണിയിട ഭൂഗോളം"
+
+#~ msgctxt "Name"
+#~ msgid "Marble Part"
+#~ msgstr "മാര്‍ബിള്‍ പാര്‍ട്ട്"
+
+#~ msgctxt "Name"
+#~ msgid "World Clock"
+#~ msgstr "ലോകഘടികാരം"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Plasmoid to show you the time in different parts of the world"
+#~ msgctxt "Comment"
+#~ msgid "Shows the time in different parts of the world"
+#~ msgstr "ലോകത്തിലെ വിവിധഭാഗങ്ങളിലെ സമയം കാണിക്കുവാനുള്ള പ്ലാസ്മോയിഡ്"
+
+#~ msgctxt "Name"
+#~ msgid "Parley"
+#~ msgstr "പാര്‍ലി"
+
+#~ msgctxt "Comment"
+#~ msgid "Vocabulary data for Plasmoids"
+#~ msgstr "പ്ലാസ്മോയിഡ്സിനായുള്ള വാക്പട്ടിക ഡാറ്റ"
+
+#~ msgctxt "Comment"
+#~ msgid "Vocabulary Cards"
+#~ msgstr "വാക്പട്ടിക കാര്‍ടുകള്‍"
+
+#~ msgctxt "GenericName"
+#~ msgid "Vocabulary Trainer"
+#~ msgstr "വാക്പട്ടിക പഠനസഹായി"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KGeography"
+#~ msgctxt "Name"
+#~ msgid "Graph"
+#~ msgstr "കെ-ജ്യോഗ്രഫി"
+
+#~ msgctxt "Name"
+#~ msgid "KPercentage"
+#~ msgstr "കെപെര്‍സന്റേജ്"
+
+#~ msgctxt "GenericName"
+#~ msgid "Exercise Percentages"
+#~ msgstr "ശതമാനങ്ങള്‍ അഭ്യസിക്കുക"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Parley Data Engine"
+#~ msgctxt "Name"
+#~ msgid "Parley Practice"
+#~ msgstr "പാര്‍ലി ഡാറ്റ എന്‍ജിന്‍"
+
+#, fuzzy
+#~| msgctxt "GenericName"
+#~| msgid "Vocabulary Trainer"
+#~ msgctxt "GenericName"
+#~ msgid "Vocabulary Practice"
+#~ msgstr "വാക്പട്ടിക പഠനസഹായി"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Parley Data Engine"
+#~ msgctxt "Name"
+#~ msgid "Kalzium Data Engine"
+#~ msgstr "പാര്‍ലി ഡാറ്റ എന്‍ജിന്‍"
+
+#~ msgctxt "Name"
+#~ msgid "Parley Data Engine"
+#~ msgstr "പാര്‍ലി ഡാറ്റ എന്‍ജിന്‍"

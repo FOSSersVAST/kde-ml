@@ -1,0 +1,497 @@
+# Malayalam translation of plasma_applet_tasks.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the plasma_applet_tasks package.
+# Hari|ഹരി  Vishnu | വിഷ്ണു <harivishnu@gmail.com>, 2008.
+# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_tasks trunk\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-03-15 03:39+0100\n"
+"PO-Revision-Date: 2008-11-25 02:43-0800\n"
+"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Malayalam\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 0.3\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "Appearance"
+msgstr "കാഴ്ച"
+
+#: package/contents/config/config.qml:31
+#, kde-format
+msgid "Behavior"
+msgstr ""
+
+#: package/contents/ui/Badge.qml:48
+#, kde-format
+msgctxt "Invalid number of new messages, overlay, keep short"
+msgid "—"
+msgstr ""
+
+#: package/contents/ui/Badge.qml:50
+#, kde-format
+msgctxt "Over 9999 new messages, overlay, keep short"
+msgid "9,999+"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:49
+#, fuzzy, kde-format
+#| msgid "General"
+msgid "General:"
+msgstr "പൊതുവായ"
+
+#: package/contents/ui/ConfigAppearance.qml:50
+#, fuzzy, kde-format
+#| msgid "Show tooltips:"
+msgid "Show tooltips"
+msgstr "സൂചനകള്‍ കാണിയ്ക്കുക:"
+
+#: package/contents/ui/ConfigAppearance.qml:55
+#, kde-format
+msgid "Highlight windows when hovering over tasks"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:60
+#, kde-format
+msgid "Show progress and status information in task buttons"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:65
+#, kde-format
+msgid "Mark applications that play audio"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:79
+#, kde-format
+msgid "Icon size:"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:91
+#, kde-format
+msgid "Small"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:100
+#, kde-format
+msgid "Large"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:111
+#, fuzzy, kde-format
+#| msgid "Maximum rows:"
+msgid "Maximum columns:"
+msgstr "ഏറ്റവും കൂടുതല്‍ ആകാവുന്ന വരികള്‍:"
+
+#: package/contents/ui/ConfigAppearance.qml:111
+#, kde-format
+msgid "Maximum rows:"
+msgstr "ഏറ്റവും കൂടുതല്‍ ആകാവുന്ന വരികള്‍:"
+
+#: package/contents/ui/ConfigAppearance.qml:117
+#, kde-format
+msgid "Always arrange tasks in as many rows as columns"
+msgstr ""
+
+#: package/contents/ui/ConfigAppearance.qml:117
+#, kde-format
+msgid "Always arrange tasks in as many columns as rows"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:52
+#, fuzzy, kde-format
+#| msgid "Grouping:"
+msgid "Group:"
+msgstr "ഒരുമിച്ചു് കാണിയ്ക്കല്‍:"
+
+#: package/contents/ui/ConfigBehavior.qml:54
+#, fuzzy, kde-format
+#| msgid "Do Not Group"
+msgid "Do not group"
+msgstr "ഒരുമിച്ചു് കാണിയ്ക്കരുതു്"
+
+#: package/contents/ui/ConfigBehavior.qml:54
+#, fuzzy, kde-format
+#| msgid "By Program Name"
+msgid "By program name"
+msgstr "പ്രയോഗത്തിന്റെ പേരനുസരിച്ചു്"
+
+#: package/contents/ui/ConfigBehavior.qml:60
+#, kde-format
+msgid "Open groups in popups"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:74
+#, fuzzy, kde-format
+#| msgid "Only when the taskbar is full"
+msgid "Group only when the Task Manager is full"
+msgstr "ജോലികള്‍ കാണിയ്ക്കുന്ന പട്ട നിറയുമ്പോള്‍ മാത്രം"
+
+#: package/contents/ui/ConfigBehavior.qml:88
+#, fuzzy, kde-format
+#| msgid "Sorting:"
+msgid "Sort:"
+msgstr "തരംതിരിയ്ക്കല്‍:"
+
+#: package/contents/ui/ConfigBehavior.qml:90
+#, kde-format
+msgid "Do not sort"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:90
+#, kde-format
+msgid "Manually"
+msgstr "യാന്ത്രികമായി"
+
+#: package/contents/ui/ConfigBehavior.qml:90
+#, kde-format
+msgid "Alphabetically"
+msgstr "അകാരാദിക്രമത്തില്‍"
+
+#: package/contents/ui/ConfigBehavior.qml:90
+#, fuzzy, kde-format
+#| msgid "By Desktop"
+msgid "By desktop"
+msgstr "പണിയിടം അനുസരിച്ച്"
+
+#: package/contents/ui/ConfigBehavior.qml:90
+#, kde-format
+msgid "By activity"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:96
+#, kde-format
+msgid "Keep launchers separate"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:108
+#, kde-format
+msgid "On middle-click:"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:111
+#, kde-format
+msgctxt "The click action"
+msgid "None"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:112
+#, kde-format
+msgid "Close window or group"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:113
+#, kde-format
+msgid "New instance"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:114
+#, kde-format
+msgid "Minimize/Restore window or group"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:115
+#, fuzzy, kde-format
+#| msgid "Grouping:"
+msgctxt "When clicking it would toggle grouping windows of a specific app"
+msgid "Group/Ungroup"
+msgstr "ഒരുമിച്ചു് കാണിയ്ക്കല്‍:"
+
+#: package/contents/ui/ConfigBehavior.qml:121
+#, kde-format
+msgid "Cycle through tasks with mouse wheel"
+msgstr ""
+
+#: package/contents/ui/ConfigBehavior.qml:130
+#, fuzzy, kde-format
+#| msgid "Filters"
+msgid "Filter:"
+msgstr "ഫില്‍ടറുകള്‍"
+
+#: package/contents/ui/ConfigBehavior.qml:131
+#, fuzzy, kde-format
+#| msgid "Only show tasks from the current screen"
+msgid "Show only tasks from the current screen"
+msgstr "ഇപ്പോഴത്തെ സ്ക്രീനിലെ ജോലികള്‍ മാത്രം കാണിയ്ക്കുക"
+
+#: package/contents/ui/ConfigBehavior.qml:136
+#, fuzzy, kde-format
+#| msgid "Only show tasks from the current desktop"
+msgid "Show only tasks from the current desktop"
+msgstr "ഇപ്പോഴത്തെ പണിയിടത്തിലെ ജോലികള്‍ മാത്രം കാണിയ്ക്കുക"
+
+#: package/contents/ui/ConfigBehavior.qml:141
+#, fuzzy, kde-format
+#| msgid "Only show tasks from the current screen"
+msgid "Show only tasks from the current activity"
+msgstr "ഇപ്പോഴത്തെ സ്ക്രീനിലെ ജോലികള്‍ മാത്രം കാണിയ്ക്കുക"
+
+#: package/contents/ui/ConfigBehavior.qml:147
+#, fuzzy, kde-format
+#| msgid "Only show tasks that are minimized"
+msgid "Show only tasks that are minimized"
+msgstr "ഇപ്പോള്‍ മിനിമൈസ് ചെയ്തിരിക്കുന്ന ജോലികള്‍ മാത്രം കാണിയ്ക്കുക"
+
+#: package/contents/ui/ContextMenu.qml:100
+#, kde-format
+msgid "Places"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:105
+#, kde-format
+msgid "Recent Documents"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:110
+#, kde-format
+msgid "Actions"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:163
+#, kde-format
+msgctxt "Play previous track"
+msgid "Previous Track"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:177
+#, kde-format
+msgctxt "Pause playback"
+msgid "Pause"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:177
+#, kde-format
+msgctxt "Start playback"
+msgid "Play"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:195
+#, kde-format
+msgctxt "Play next track"
+msgid "Next Track"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:206
+#, kde-format
+msgctxt "Stop playback"
+msgid "Stop"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:226
+#, kde-format
+msgctxt "Quit media player app"
+msgid "Quit"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:241
+#, kde-format
+msgctxt "Open or bring to the front window of media player app"
+msgid "Restore"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:267
+#, kde-format
+msgid "Mute"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:281
+#, kde-format
+msgid "Start New Instance"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:297
+#, fuzzy, kde-format
+#| msgid "By Desktop"
+msgid "Move To &Desktop"
+msgstr "പണിയിടം അനുസരിച്ച്"
+
+#: package/contents/ui/ContextMenu.qml:320
+#, fuzzy, kde-format
+#| msgid "By Desktop"
+msgid "Move &To Current Desktop"
+msgstr "പണിയിടം അനുസരിച്ച്"
+
+#: package/contents/ui/ContextMenu.qml:329
+#, fuzzy, kde-format
+#| msgid "By Desktop"
+msgid "&All Desktops"
+msgstr "പണിയിടം അനുസരിച്ച്"
+
+#: package/contents/ui/ContextMenu.qml:343
+#, fuzzy, kde-format
+#| msgid "By Desktop"
+msgctxt "1 = number of desktop, 2 = desktop name"
+msgid "&%1 %2"
+msgstr "പണിയിടം അനുസരിച്ച്"
+
+#: package/contents/ui/ContextMenu.qml:357
+#, fuzzy, kde-format
+#| msgid "By Desktop"
+msgid "&New Desktop"
+msgstr "പണിയിടം അനുസരിച്ച്"
+
+#: package/contents/ui/ContextMenu.qml:376
+#, kde-format
+msgid "Move To &Activity"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:397
+#, kde-format
+msgid "Add To Current Activity"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:407
+#, kde-format
+msgid "All Activities"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:466
+#, kde-format
+msgid "More Actions"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:475
+#, kde-format
+msgid "&Move"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:484
+#, kde-format
+msgid "Re&size"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:498
+#, kde-format
+msgid "Ma&ximize"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:512
+#, kde-format
+msgid "Mi&nimize"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:522
+#, kde-format
+msgid "Keep &Above Others"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:532
+#, kde-format
+msgid "Keep &Below Others"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:544
+#, kde-format
+msgid "&Fullscreen"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:556
+#, kde-format
+msgid "&Shade"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:572
+#, kde-format
+msgid "Allow this program to be grouped"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:624
+#: package/contents/ui/ContextMenu.qml:639
+#, kde-format
+msgid "&Pin to Task Manager"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:692
+#, kde-format
+msgid "On All Activities"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:698
+#, kde-format
+msgid "On The Current Activity"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:719
+#, kde-format
+msgid "Unpin from Task Manager"
+msgstr ""
+
+#: package/contents/ui/ContextMenu.qml:733
+#, kde-format
+msgid "&Close"
+msgstr ""
+
+#: package/contents/ui/ToolTipInstance.qml:469
+#, fuzzy, kde-format
+#| msgctxt "Which virtual desktop a window is currently on"
+#| msgid "On %1"
+msgctxt "Comma-separated list of desktops"
+msgid "On %1"
+msgstr "%1 എന്നതില്‍"
+
+#: package/contents/ui/ToolTipInstance.qml:479
+#, kde-format
+msgctxt "Which virtual desktop a window is currently on"
+msgid "Available on all activities"
+msgstr ""
+
+#: package/contents/ui/ToolTipInstance.qml:501
+#, kde-format
+msgctxt "Activities a window is currently on (apart from the current one)"
+msgid "Also available on %1"
+msgstr ""
+
+#: package/contents/ui/ToolTipInstance.qml:505
+#, kde-format
+msgctxt "Which activities a window is currently on"
+msgid "Available on %1"
+msgstr ""
+
+#: plugin/backend.cpp:278
+#, kde-format
+msgctxt "Show all user Places"
+msgid "%1 more Place"
+msgid_plural "%1 more Places"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugin/backend.cpp:350
+#, kde-format
+msgid "Forget Recent Documents"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Grouping & Sorting"
+#~ msgid "Grouping and Sorting"
+#~ msgstr "ഒരുമിച്ചു് കാണിയ്ക്കലും തരംതിരിയ്ക്കലും"
+
+#~ msgid "Do Not Sort"
+#~ msgstr "തരംതിരിയ്ക്കേണ്ട"
+
+#, fuzzy
+#~| msgid "Force row settings:"
+#~ msgid "Force row settings"
+#~ msgstr "വരി സജ്ജീകരണങ്ങള്‍ നിര്‍ബന്ദ്ധിതമാക്കുക:"
+
+#~ msgid "Collapse Group"
+#~ msgstr "ഒരുമിച്ചു് കാണിയ്ക്കുക"
+
+#~ msgid "Expand Group"
+#~ msgstr "ഒരുമിച്ചു് കാണിയ്ക്കുന്നതൊഴിവാക്കുക"
+
+#, fuzzy
+#~| msgid "Expand Group"
+#~ msgid "Edit Group"
+#~ msgstr "ഒരുമിച്ചു് കാണിയ്ക്കുന്നതൊഴിവാക്കുക"
+
+#~ msgid "Collapse Parent Group"
+#~ msgstr "നേരത്തെ പോലെ ഒരുമിച്ചു് കാണിയ്ക്കുക"
+
+#~ msgid "Configure Taskbar"
+#~ msgstr "ജോലികള്‍ കാണിയ്ക്കുന്ന പട്ട ക്രമീകരിയ്ക്കുക"

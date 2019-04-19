@@ -1,0 +1,52 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-10-11 02:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: example/ksysguard.notifyrc:3
+msgctxt "Comment"
+msgid "System Monitor"
+msgstr ""
+
+#: example/ksysguard.notifyrc:70
+msgctxt "Name"
+msgid "Pattern Matched"
+msgstr ""
+
+#: example/ksysguard.notifyrc:150
+msgctxt "Comment"
+msgid "Search pattern matched"
+msgstr ""
+
+#: example/ksysguard.notifyrc:234
+msgctxt "Name"
+msgid "Sensor Alarm"
+msgstr ""
+
+#: example/ksysguard.notifyrc:314
+msgctxt "Comment"
+msgid "Sensor exceeded critical limit"
+msgstr ""
+
+#: gui/org.kde.ksysguard.desktop:2
+msgctxt "Name"
+msgid "KSysGuard"
+msgstr ""
+
+#: gui/org.kde.ksysguard.desktop:77
+msgctxt "GenericName"
+msgid "System Monitor"
+msgstr ""
+
+#: gui/org.kde.ksysguard.desktop:169
+msgctxt "Comment"
+msgid "Monitor running processes and system performance"
+msgstr ""

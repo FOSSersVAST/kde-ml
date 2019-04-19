@@ -1,0 +1,135 @@
+# Translation of desktop_kdebase to Malayalam
+# Copyright (C) 2008-2010 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_kdebase package.
+# Santhosh Thottingal <santhosh.thottingal@gmail.com>, 2008.
+# Ani Peter <peter.ani@gmail.com>, 2008.
+# Hari Vishnu <harivishnu@gmail.com>, 2008.
+# SANKARANARAYANAN <snalledam@dataone.in>, 2009.
+# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008, 2009, 2010.
+# seshagiri prabhu <seshagiriprabhu@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-11-04 03:06+0000\n"
+"PO-Revision-Date: 2010-07-01 15:48+0530\n"
+"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: cursors/KDE_Classic/index.theme:2
+msgctxt "Name"
+msgid "KDE Classic"
+msgstr ""
+
+#: cursors/KDE_Classic/index.theme:44
+msgctxt "Comment"
+msgid "The default cursor theme in KDE 2 and 3"
+msgstr ""
+
+#: cursors/Oxygen_Black/index.theme:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Oxygen"
+msgctxt "Name"
+msgid "Oxygen Black"
+msgstr "ഓക്സിജന്‍"
+
+#: cursors/Oxygen_Black/index.theme:43 cursors/Oxygen_Blue/index.theme:43
+#: cursors/Oxygen_White/index.theme:43 cursors/Oxygen_Yellow/index.theme:43
+#: cursors/Oxygen_Zion/index.theme:42
+msgctxt "Comment"
+msgid "Oxygen mouse theme. Oxygenize your desktop!"
+msgstr ""
+
+#: cursors/Oxygen_Blue/index.theme:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Oxygen"
+msgctxt "Name"
+msgid "Oxygen Blue"
+msgstr "ഓക്സിജന്‍"
+
+#: cursors/Oxygen_White/index.theme:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Oxygen"
+msgctxt "Name"
+msgid "Oxygen White"
+msgstr "ഓക്സിജന്‍"
+
+#: cursors/Oxygen_Yellow/index.theme:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Oxygen"
+msgctxt "Name"
+msgid "Oxygen Yellow"
+msgstr "ഓക്സിജന്‍"
+
+#: cursors/Oxygen_Zion/index.theme:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Oxygen"
+msgctxt "Name"
+msgid "Oxygen Zion"
+msgstr "ഓക്സിജന്‍"
+
+#: kdecoration/config/oxygendecorationconfig.desktop:12
+msgctxt "Name"
+msgid "Oxygen Window Decoration"
+msgstr ""
+
+#: kdecoration/config/oxygendecorationconfig.desktop:48
+msgctxt "Comment"
+msgid "Modify the appearance of window decorations"
+msgstr ""
+
+#: kdecoration/config/oxygendecorationconfig.desktop:86
+msgctxt "X-KDE-Keywords"
+msgid "oxygen,decoration"
+msgstr ""
+
+#: kstyle/config/oxygenstyleconfig.desktop:12
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Oxygen"
+msgctxt "Name"
+msgid "Oxygen Widget Style"
+msgstr "ഓക്സിജന്‍"
+
+#: kstyle/config/oxygenstyleconfig.desktop:48
+msgctxt "Comment"
+msgid "Modify the appearance of widgets"
+msgstr ""
+
+#: kstyle/config/oxygenstyleconfig.desktop:89
+msgctxt "X-KDE-Keywords"
+msgid "oxygen,widget,style"
+msgstr ""
+
+#: kstyle/oxygen.themerc:2 lookandfeel/metadata.desktop:85
+msgctxt "Name"
+msgid "Oxygen"
+msgstr "ഓക്സിജന്‍"
+
+#: kstyle/oxygen.themerc:89
+msgctxt "Comment"
+msgid "Styling of the next generation desktop"
+msgstr "ഭാവിതലമുറയിലെ പണിയിടത്തിനുള്ള രീതികള്‍"
+
+#: lookandfeel/metadata.desktop:2
+msgctxt "Comment"
+msgid "Oxygen Desktop Design Language"
+msgstr ""
+
+#: lookandfeel/metadata.desktop:46
+msgctxt "Keywords"
+msgid ""
+"Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;"
+"Hibernate;"
+msgstr ""

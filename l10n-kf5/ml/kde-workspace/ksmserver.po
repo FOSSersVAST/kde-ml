@@ -1,0 +1,243 @@
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdebase package.
+# HARI VISHNU <harivishnu@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-01-22 03:21+0100\n"
+"PO-Revision-Date: 2008-10-22 00:45+0530\n"
+"Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: INDIA\n"
+
+#: logout.cpp:399
+#, kde-format
+msgid "Logout canceled by '%1'"
+msgstr "പുറത്തിറങ്ങുന്നതു് %1 റദ്ദാക്കി"
+
+#: main.cpp:54
+#, kde-format
+msgid ""
+"The reliable KDE session manager that talks the standard X11R6 \n"
+"session management protocol (XSMP)."
+msgstr ""
+"വിശ്വസ്തകരമായ കെ.ഡി.ഇ സെഷന്‍ നടത്തിപ്പുകാരന്‍ - ഇതു എക്സ്.11.ആര്‍.6 (X11R6)\n"
+"സെഷന്‍ കയ്കാര്യം ചെയ്യാനുള്ള പ്രോടോക്കോള്‍ (എക്സ്.എസ്.എം.പി) ഉപയോഗിക്കുന്നു"
+
+#: main.cpp:142
+#, kde-format
+msgid "$HOME not set!"
+msgstr ""
+
+#: main.cpp:147 main.cpp:154
+#, kde-format
+msgid "$HOME directory (%1) does not exist."
+msgstr ""
+
+#: main.cpp:149
+#, kde-format
+msgid "No write access to $HOME directory (%1)."
+msgstr ""
+
+#: main.cpp:156
+#, kde-format
+msgid "No read access to $HOME directory (%1)."
+msgstr ""
+
+#: main.cpp:161
+#, kde-format
+msgid "$HOME directory (%1) is out of disk space."
+msgstr ""
+
+#: main.cpp:163
+#, kde-format
+msgid "Writing to the $HOME directory (%2) failed with the error '%1'"
+msgstr ""
+
+#: main.cpp:176 main.cpp:210
+#, kde-format
+msgid "No write access to '%1'."
+msgstr ""
+
+#: main.cpp:178 main.cpp:212
+#, kde-format
+msgid "No read access to '%1'."
+msgstr ""
+
+#: main.cpp:188 main.cpp:200
+#, kde-format
+msgid "Temp directory (%1) is out of disk space."
+msgstr ""
+
+#: main.cpp:190 main.cpp:202
+#, kde-format
+msgid ""
+"Writing to the temp directory (%2) failed with\n"
+"    the error '%1'"
+msgstr ""
+
+#: main.cpp:217
+#, kde-format
+msgid ""
+"The following installation problem was detected\n"
+"while trying to start KDE:"
+msgstr ""
+
+#: main.cpp:220
+#, kde-format
+msgid ""
+"\n"
+"\n"
+"KDE is unable to start.\n"
+msgstr ""
+
+#: main.cpp:227
+#, kde-format
+msgid "Plasma Workspace installation problem!"
+msgstr ""
+
+#: main.cpp:268
+#, kde-format
+msgid "Restores the saved user session if available"
+msgstr "ഉപയോക്താവിന്റെ സൂക്ഷിച്ചിരിക്കുന്ന സെഷന്‍ തിരികെ കൊണ്ടുവരുന്നു ലഭ്യമാണെങ്കില്‍"
+
+#: main.cpp:272
+#, fuzzy, kde-format
+#| msgid ""
+#| "Starts 'wm' in case no other window manager is \n"
+#| "participating in the session. Default is 'kwin'"
+msgid ""
+"Starts <wm> in case no other window manager is \n"
+"participating in the session. Default is 'kwin'"
+msgstr ""
+"വേറെ ജാലക നടത്തിപ്പുകാരന്‍മാര്‍ സെഷനില്‍ പങ്കെടുക്കുന്നെങ്കില്‍ ഇത് \n"
+"'ഡബിള്‍ യൂ.എം'(wm) തുടങ്ങുന്നു. സ്വാഭാവികമായിറ്റുള്ളത് 'കെ.വിന്‍' ആണ്"
+
+#: main.cpp:273
+#, kde-format
+msgid "wm"
+msgstr ""
+
+#: main.cpp:277
+#, kde-format
+msgid "Also allow remote connections"
+msgstr "അകലെ നിന്നുള്ള കണക്ഷെനുകള്‍ അനുവദിക്കുന്നു"
+
+#: main.cpp:281
+#, kde-format
+msgid "Starts the session in locked mode"
+msgstr ""
+
+#: main.cpp:285
+#, kde-format
+msgid ""
+"Starts without lock screen support. Only needed if other component provides "
+"the lock screen."
+msgstr ""
+
+#: server.cpp:1040
+#, fuzzy, kde-format
+#| msgid "&Logout"
+msgid "Log Out"
+msgstr "&പുറത്തിറങ്ങുക"
+
+#: server.cpp:1045
+#, kde-format
+msgid "Log Out Without Confirmation"
+msgstr ""
+
+#: server.cpp:1050
+#, kde-format
+msgid "Halt Without Confirmation"
+msgstr ""
+
+#: server.cpp:1055
+#, kde-format
+msgid "Reboot Without Confirmation"
+msgstr ""
+
+#, fuzzy
+#~| msgid "&Logout"
+#~ msgid "Logout"
+#~ msgstr "&പുറത്തിറങ്ങുക"
+
+#, fuzzy
+#~| msgid "Logging out in 1 second."
+#~| msgid_plural "Logging out in %1 seconds."
+#~ msgid "Sleeping in 1 second"
+#~ msgid_plural "Sleeping in %1 seconds"
+#~ msgstr[0] "പുറത്തിറങ്ങുന്നു 1 സെകന്റില്‍"
+#~ msgstr[1] "പുറത്തിറങ്ങുന്നു %1 സെകന്റില്‍"
+
+#~ msgid "Logging out in 1 second."
+#~ msgid_plural "Logging out in %1 seconds."
+#~ msgstr[0] "പുറത്തിറങ്ങുന്നു 1 സെകന്റില്‍"
+#~ msgstr[1] "പുറത്തിറങ്ങുന്നു %1 സെകന്റില്‍"
+
+#~ msgid "Turning off computer in 1 second."
+#~ msgid_plural "Turning off computer in %1 seconds."
+#~ msgstr[0] "കമ്പ്യൂടര്‍ നിര്‍ത്തുന്നു 1 സെകന്റില്‍"
+#~ msgstr[1] "കമ്പ്യൂടര്‍ നിര്‍ത്തുന്നു %1 സെകന്റില്‍"
+
+#~ msgid "Restarting computer in 1 second."
+#~ msgid_plural "Restarting computer in %1 seconds."
+#~ msgstr[0] "കമ്പ്യൂടര്‍ വീണ്ടും തുടങ്ങുന്നു 1 സെകന്റില്‍"
+#~ msgstr[1] "കമ്പ്യൂടര്‍ വീണ്ടും തുടങ്ങുന്നു %1 സെകന്റില്‍"
+
+#, fuzzy
+#~| msgid "&Turn Off Computer"
+#~ msgid "Turn Off Computer"
+#~ msgstr "&കമ്പ്യൂടര്‍ നിര്‍ത്തി വെക്കുക"
+
+#, fuzzy
+#~| msgid "&Restart Computer"
+#~ msgid "Restart Computer"
+#~ msgstr "&കമ്പ്യൂടര്‍ വീണ്ടും തുടങ്ങുക"
+
+#, fuzzy
+#~| msgid "&Cancel"
+#~ msgid "Cancel"
+#~ msgstr "&റദ്ദാക്കുക"
+
+#~ msgid "&Standby"
+#~ msgstr "&സ്റ്റാന്റ് ബൈ"
+
+#~ msgid "Suspend to &RAM"
+#~ msgstr "&റാം (RAM) ഇലേക്ക് സസ്പെന്റ് ചെയ്യുക"
+
+#~ msgid "Suspend to &Disk"
+#~ msgstr "&ഡിസ്ക് (disk) ഇലേക്ക് സസ്പെന്റ് ചെയ്യുക"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "ഹരി വിഷ്ണു"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "harivishnu@gmail.com"
+
+#~ msgid "The KDE Session Manager"
+#~ msgstr "കെ.ഡി.ഇ സെഷന്‍ നടത്തിപ്പുകാരന്‍"
+
+#~ msgid "(C) 2000, The KDE Developers"
+#~ msgstr "(C) 2000,  കെ.ഡി.ഇ രചയിതാക്കള്‍"
+
+#~ msgid "Matthias Ettrich"
+#~ msgstr "മത്തിയാസ് എട്ട്രിച്ച്"
+
+#~ msgid "Luboš Luňák"
+#~ msgstr "ലുബോസ് ലുനാക്ക്"
+
+#~ msgid "Maintainer"
+#~ msgstr "പരിപാലകന്‍"
+
+#~ msgctxt "current option in boot loader"
+#~ msgid " (current)"
+#~ msgstr "(ഇപ്പോഴത്തെ)"
