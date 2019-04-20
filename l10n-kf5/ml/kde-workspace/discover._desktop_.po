@@ -16,12 +16,12 @@ msgstr ""
 #: libdiscover/backends/FlatpakBackend/org.kde.discover-flatpak.desktop:2
 msgctxt "Name"
 msgid "Discover"
-msgstr ""
+msgstr "കണ്ടെത്തുക"
 
 #: discover/org.kde.discover.desktop.cmake:49
 msgctxt "GenericName"
 msgid "Software Center"
-msgstr ""
+msgstr "സോഫ്റ്റ്വെയർ സെന്റർ"
 
 #: discover/org.kde.discover.desktop.cmake:90
 msgctxt "Keywords"
@@ -33,7 +33,7 @@ msgstr ""
 #: notifier/plasmoid/metadata.desktop:2
 msgctxt "Name"
 msgid "Updates"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾ"
 
 #: libdiscover/backends/KNSBackend/custom/discover_ktexteditor_codesnippets_core.knsrc:2
 msgctxt "Name"
@@ -53,12 +53,12 @@ msgstr ""
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:3
 msgctxt "Comment"
 msgid "Discover"
-msgstr ""
+msgstr "കണ്ടെത്തുക"
 
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:43
 msgctxt "Name"
 msgid "Updates Are Available"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ് "
 
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:84
 msgctxt "Comment"
@@ -68,4 +68,4 @@ msgstr ""
 #: notifier/plasmoid/metadata.desktop:43
 msgctxt "Comment"
 msgid "Helps you keep your system up to date"
-msgstr ""
+msgstr "നിങ്ങളുടെ സിസ്റ്റം കാലികമായി നിലനിർത്താൻ സഹായിക്കുന്നു"

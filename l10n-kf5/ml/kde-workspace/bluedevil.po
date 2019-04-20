@@ -20,44 +20,44 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "നിങ്ങളുടെ പേരുകൾ"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "നിങ്ങളുടെ ഇമെയിലുകൾ"
 
 #: kcmodule/adapters/adapters.cpp:71
 #, kde-format
 msgctxt "Radio widget to set if we want the adapter to be hidden"
 msgid "Hidden"
-msgstr ""
+msgstr "അദ്ര്യശ്യം"
 
 #: kcmodule/adapters/adapters.cpp:72
 #, kde-format
 msgctxt "Radio widget to set if we want the adapter to be always visible"
 msgid "Always visible"
-msgstr ""
+msgstr "എല്ലായ്പ്പോഴും ദൃശ്യമാണ്"
 
 #: kcmodule/adapters/adapters.cpp:73
 #, kde-format
 msgctxt "Radio widget to set if we want the adapter to be temporarily visible"
 msgid "Temporarily visible"
-msgstr ""
+msgstr "താൽക്കാലികമായി ദൃശ്യമാണ്"
 
 #: kcmodule/adapters/adapters.cpp:113
 #, kde-format
 msgctxt "Discover time for the adapter"
 msgid "1 minute"
 msgid_plural "%1 minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 മിനിറ്റ്"
+msgstr[1] "%1 മിനിറ്റ്"
 
 #: kcmodule/adapters/adapters.cpp:119
 #, kde-format
 msgctxt "Name of the adapter"
 msgid "Name"
-msgstr ""
+msgstr "പേര്"
 
 #: kcmodule/adapters/adapters.cpp:120
 #, kde-format
@@ -87,12 +87,12 @@ msgstr[1] ""
 #: kcmodule/adapters/adapters.cpp:269
 #, kde-format
 msgid "Bluetooth Adapters"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് അഡാപ്റ്ററുകൾ"
 
 #: kcmodule/adapters/adapters.cpp:271
 #, kde-format
 msgid "Bluetooth Adapters Control Panel Module"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് അഡാപ്റ്ററുകൾ നിയന്ത്രണ പാനൽ മൊഡ്യൂൾ"
 
 #: kcmodule/adapters/adapters.cpp:273 kcmodule/devices/devices.cpp:118
 #: kcmodule/global/global.cpp:53
@@ -116,25 +116,25 @@ msgstr ""
 #: kcmodule/adapters/adapters.cpp:348
 #, kde-format
 msgid "No adapters found"
-msgstr ""
+msgstr "അഡാപ്റ്ററുകൾ ഒന്നും കണ്ടെത്തിയില്ല"
 
 #: kcmodule/common/systemcheck.cpp:69 kio/bluetooth/kiobluetooth.cpp:79
 #: kio/bluetooth/kiobluetooth.cpp:209
 #, kde-format
 msgid "No Bluetooth adapters have been found."
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് അഡാപ്റ്ററുകളൊന്നും കണ്ടെത്തിയില്ല."
 
 #: kcmodule/common/systemcheck.cpp:76 sendfile/discoverwidget.cpp:149
 #: wizard/pages/discover.cpp:274
 #, kde-format
 msgid "Bluetooth is disabled."
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് അപ്രാപ്തമാക്കി."
 
 #: kcmodule/common/systemcheck.cpp:78 sendfile/discoverwidget.cpp:150
 #, kde-format
 msgctxt "Action to enable Bluetooth adapter"
 msgid "Enable"
-msgstr ""
+msgstr "പ്രാപ്തമാക്കുക"
 
 #: kcmodule/common/systemcheck.cpp:87 sendfile/discoverwidget.cpp:152
 #, kde-format
@@ -145,14 +145,14 @@ msgstr ""
 #, kde-format
 msgctxt "Action to turn on Bluetooth adapter"
 msgid "Turn On"
-msgstr ""
+msgstr "ഓൺ ചെയ്യുക"
 
 #: kcmodule/common/systemcheck.cpp:99 kcmodule/common/systemcheck.cpp:110
 #: kcmodule/common/systemcheck.cpp:121 wizard/pages/discover.cpp:279
 #, kde-format
 msgctxt "Action to fix a problem"
 msgid "Fix it"
-msgstr ""
+msgstr "ശരിയാക്കുക"
 
 #: kcmodule/common/systemcheck.cpp:102
 #, kde-format
@@ -172,78 +172,78 @@ msgstr ""
 #: kcmodule/devices/devicedetails.cpp:162
 #, kde-format
 msgid "Disconnect"
-msgstr ""
+msgstr "വേര്പ്പെടുത്തുക"
 
 #: kcmodule/devices/devicedetails.cpp:165
 #, kde-format
 msgid "Connect"
-msgstr ""
+msgstr "ബന്ധിപ്പിക്കുക"
 
 #: kcmodule/devices/devicedetails.cpp:216
 #, kde-format
 msgctxt "This device is a Phone"
 msgid "Phone"
-msgstr ""
+msgstr "ഫോൺ"
 
 #: kcmodule/devices/devicedetails.cpp:218
 #, kde-format
 msgctxt "This device is a Modem"
 msgid "Modem"
-msgstr ""
+msgstr "മോഡം"
 
 #: kcmodule/devices/devicedetails.cpp:220
 #, kde-format
 msgctxt "This device is a Computer"
 msgid "Computer"
-msgstr ""
+msgstr "കമ്പ്യൂട്ടർ"
 
 #: kcmodule/devices/devicedetails.cpp:222
 #, kde-format
 msgctxt "This device is of type Network"
 msgid "Network"
-msgstr ""
+msgstr "ശൃംഖല"
 
 #: kcmodule/devices/devicedetails.cpp:224
 #, kde-format
 msgctxt "This device is a Headset"
 msgid "Headset"
-msgstr ""
+msgstr "ഹെഡ്സെറ്റ്"
 
 #: kcmodule/devices/devicedetails.cpp:226
 #, kde-format
 msgctxt "This device is a Headphones"
 msgid "Headphones"
-msgstr ""
+msgstr "ഹെഡ്ഫോണുകൾ"
 
 #: kcmodule/devices/devicedetails.cpp:228
 #, kde-format
 msgctxt "This device is an Audio device"
 msgid "Audio"
-msgstr ""
+msgstr "ശബ്ദം"
 
 #: kcmodule/devices/devicedetails.cpp:230
 #, kde-format
 msgctxt "This device is a Keyboard"
 msgid "Keyboard"
-msgstr ""
+msgstr "കീബോര്‍ഡ്"
 
 #: kcmodule/devices/devicedetails.cpp:232
 #, kde-format
 msgctxt "This device is a Mouse"
 msgid "Mouse"
-msgstr ""
+msgstr "മൗസ്"
 
 #: kcmodule/devices/devicedetails.cpp:234
 #, kde-format
 msgctxt "This device is a Joypad"
 msgid "Joypad"
-msgstr ""
+msgstr "ജോയ്‌പാഡ്‌ "
 
 #: kcmodule/devices/devicedetails.cpp:236
 #, kde-format
 msgctxt "This device is a Graphics Tablet (input device)"
 msgid "Tablet"
-msgstr ""
+msgstr "ടാബ്ലെറ്റ്"
 
 #: kcmodule/devices/devicedetails.cpp:238
 #, kde-format

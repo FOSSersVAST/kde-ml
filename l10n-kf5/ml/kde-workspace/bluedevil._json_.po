@@ -20,4 +20,4 @@ msgstr ""
 #: src/kded/bluedevil.json
 msgctxt "Description"
 msgid "Handles Bluetooth events"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് ഇവന്റുകൾ കൈകാര്യം ചെയ്യുന്നു"

@@ -21,12 +21,12 @@ msgstr ""
 #: src/applet/package/metadata.desktop:48
 msgctxt "Comment"
 msgid "Bluetooth status and control"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് സ്റ്റാറ്റസും നിയന്ത്രണവും"
 
 #: src/bluedevil.notifyrc:3
 msgctxt "Comment"
 msgid "Bluetooth system"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് സിസ്റ്റം"
 
 #: src/bluedevil.notifyrc:50
 msgctxt "Name"
@@ -41,7 +41,7 @@ msgstr ""
 #: src/bluedevil.notifyrc:144
 msgctxt "Name"
 msgid "Confirm PIN"
-msgstr ""
+msgstr "പിൻ ഉറപ്പാക്കുക"
 
 #: src/bluedevil.notifyrc:189
 msgctxt "Comment"
@@ -56,12 +56,12 @@ msgstr ""
 #: src/bluedevil.notifyrc:283
 msgctxt "Comment"
 msgid "A PIN is needed"
-msgstr ""
+msgstr "ഒരു പിൻ ആവശ്യമാണ്"
 
 #: src/bluedevil.notifyrc:332
 msgctxt "Name"
 msgid "Incoming File"
-msgstr ""
+msgstr "സ്വീകരിക്കുന്ന ഫയല്‍"
 
 #: src/bluedevil.notifyrc:377
 msgctxt "Comment"
@@ -71,17 +71,17 @@ msgstr ""
 #: src/bluedevil.notifyrc:426
 msgctxt "Name"
 msgid "Connection Failed"
-msgstr ""
+msgstr "ബന്ധം തടസ്സപ്പെട്ടു"
 
 #: src/bluedevil.notifyrc:470
 msgctxt "Comment"
 msgid "Connection to device failed"
-msgstr ""
+msgstr "ഡിവൈസിലേക്കുള്ള ബന്ധം നഷ്ടപ്പെട്ടു"
 
 #: src/kcmodule/adapters/bluedeviladapters.desktop:14
 msgctxt "Name"
 msgid "Adapters"
-msgstr ""
+msgstr "അഡാപ്റ്ററുകള്‍"
 
 #: src/kcmodule/adapters/bluedeviladapters.desktop:60
 msgctxt "Comment"
@@ -103,17 +103,17 @@ msgstr ""
 #: src/kcmodule/devices/bluedevildevices.desktop:60
 msgctxt "Comment"
 msgid "Bluetooth Devices"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് ഉപകരണങ്ങള്‍"
 
 #: src/kcmodule/global/bluedevilglobal.desktop:14
 msgctxt "Name"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "ഉന്നതരീതിയിലുള്ള ക്രമികരണങ്ങള്‍"
 
 #: src/kcmodule/global/bluedevilglobal.desktop:58
 msgctxt "Comment"
 msgid "Advanced Bluetooth Settings"
-msgstr ""
+msgstr "ഉന്നതരീതിയിലുള്ള ബ്ലൂടൂത്ത് ക്രമീകരണങ്ങള്‍"
 
 #: src/sendfile/org.kde.bluedevilsendfile.desktop:2
 msgctxt "Name"
@@ -143,4 +143,4 @@ msgstr ""
 #: src/wizard/org.kde.bluedevilwizard.desktop:90
 msgctxt "Comment"
 msgid "BlueDevil Wizard"
-msgstr ""
+msgstr "ബ്ലൂഡെവിള്‍ വിസാര്‍ഡ്"

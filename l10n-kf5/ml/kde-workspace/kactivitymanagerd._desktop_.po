@@ -15,14 +15,14 @@ msgstr ""
 #: src/service/files/kactivitymanagerd.desktop:9
 msgctxt "Name"
 msgid "Activity Manager"
-msgstr ""
+msgstr "പ്രവർത്തനങ്ങൾ കൈകാര്യം ചെയ്യാന്‍"
 
 #: src/service/files/kactivitymanagerd.desktop:64
 msgctxt "Comment"
 msgid "The activity management backend"
-msgstr ""
+msgstr "പ്രവർത്തന നടത്തിപ്പിനുള്ള ബാക്കെന്‍ഡ്"
 
 #: src/service/files/kactivitymanagerd-plugin.desktop:5
 msgctxt "Comment"
 msgid "Activity manager plugin"
-msgstr ""
+msgstr "പ്രവർത്തനങ്ങൾ കൈകാര്യം ചെയ്യാന്‍ പ്ലഗിൻ"

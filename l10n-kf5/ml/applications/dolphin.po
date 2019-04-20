@@ -140,7 +140,7 @@ msgstr "ഉറപ്പ്"
 #, kde-format
 msgctxt "@action:button 'Quit Dolphin' button"
 msgid "&Quit %1"
-msgstr ""
+msgstr "%1 &നിര്‍ത്തൂ"
 
 #: dolphinmainwindow.cpp:414
 #, kde-format
@@ -161,14 +161,14 @@ msgstr "ഇനി ചോദിക്കരുത്"
 #: dolphinmainwindow.cpp:465
 #, kde-format
 msgid "Show &Terminal Panel"
-msgstr ""
+msgstr "&ടെര്‍മിനല്‍ പാനല്‍ കാണികുക"
 
 #: dolphinmainwindow.cpp:475
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "The program '%1' is still running in the Terminal panel. Are you sure you "
 "want to quit?"
-msgstr "ഈ ജാലകത്തില്‍ ഒന്നിലേറെ കിളിവാതിലുകള്‍ കാണുന്നു. ജാലകം അടക്കണമെന്നുറപ്പാണോ?"
+msgstr "'%1' ടെര്‍മിനല്‍ പാനലില്‍ പ്രവർത്തിക്കുന്നു. ജാലകം അടക്കണമെന്നുറപ്പാണോ?"
 
 #: dolphinmainwindow.cpp:967
 #, fuzzy, kde-format
@@ -222,13 +222,13 @@ msgstr "വിട്ടുപോയതു് തെരഞ്ഞെടുക്�
 #, kde-format
 msgctxt "@action:intoolbar Stash"
 msgid "Stash"
-msgstr ""
+msgstr "സ്റ്റാഷ്"
 
 #: dolphinmainwindow.cpp:1163
 #, kde-format
 msgctxt "@info"
 msgid "Opens the stash virtual directory in a split window"
-msgstr ""
+msgstr "സ്റ്റാഷ് ഫോള്‍ഡര്‍ വിഭജിച്ച വിൻഡോയില്‍ തുറക്കും"
 
 #: dolphinmainwindow.cpp:1172
 #, kde-format
@@ -378,7 +378,7 @@ msgstr "പാളികള്‍"
 #, kde-format
 msgctxt "@action"
 msgid "Control"
-msgstr ""
+msgstr "നിയന്ത്രണം"
 
 #: dolphinmainwindow.cpp:1622
 #, kde-format
@@ -606,12 +606,12 @@ msgstr "ചവറ്റുകുട്ട കാലിയാക്കുക"
 #: dolphinviewcontainer.cpp:119
 #, kde-format
 msgid "Running Dolphin as root can be dangerous. Please be careful."
-msgstr ""
+msgstr "ഡോൾഫിൻ റൂട്ട് ആയി ഉപയോഗിക്കുന്നത് അപകടകരമാണ്. ദയവായി സൂക്ഷിക്കുക."
 
 #: dolphinviewcontainer.cpp:401 search/dolphinsearchbox.cpp:308
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search for %1 in %2"
-msgstr "തെരച്ചില്‍ പട്ട"
+msgstr "'%1' ല്‍ '%2' തിരയുക"
 
 #: dolphinviewcontainer.cpp:439
 #, fuzzy, kde-format
@@ -619,9 +619,9 @@ msgid "Search"
 msgstr "തെരയുക"
 
 #: dolphinviewcontainer.cpp:441
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search for %1"
-msgstr "തെരച്ചില്‍ പട്ട"
+msgstr "'%1' തിരയുക"
 
 #: dolphinviewcontainer.cpp:518
 #, kde-format
@@ -675,7 +675,7 @@ msgstr "അരിപ്പയുടെ പട്ട മറയ്ക്കുക"
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Keep Filter When Changing Folders"
-msgstr ""
+msgstr "ഫോള്‍ഡറുകള്‍ മാറ്റുമ്പോള്‍ ഫില്‍റ്റര്‍ സൂക്ഷിക്കുക"
 
 #: filterbar/filterbar.cpp:51
 #, kde-format
@@ -690,18 +690,18 @@ msgid "Unknown"
 msgstr "വലിപ്പം ലഭ്യമല്ല"
 
 #: kitemviews/kfileitemlistwidget.cpp:74
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:intable"
 msgid "%1 item"
 msgid_plural "%1 items"
-msgstr[0] "ഒരു സാധനം തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
+msgstr[0] "%1 സാധനം തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
 msgstr[1] "%1 സാധനങ്ങള്‍ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
 
 #: kitemviews/kfileitemmodel.cpp:1934
 #, kde-format
 msgctxt "@title:group Groups that start with a digit"
 msgid "0 - 9"
-msgstr ""
+msgstr "0 - 9"
 
 #: kitemviews/kfileitemmodel.cpp:1936
 #, fuzzy, kde-format
@@ -783,12 +783,12 @@ msgid "Earlier this Month"
 msgstr "ഈ മാസമാദ്യം"
 
 #: kitemviews/kfileitemmodel.cpp:2051
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
 "full year number"
 msgid "'Yesterday' (MMMM, yyyy)"
-msgstr "ഇന്നലെ (%B, %Y)"
+msgstr "'ഇന്നലെ' (MMMM, yyyy)"
 
 #: kitemviews/kfileitemmodel.cpp:2057
 #, kde-format
@@ -799,12 +799,12 @@ msgid "%1"
 msgstr ""
 
 #: kitemviews/kfileitemmodel.cpp:2067
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "@title:group Date: The week day name: dddd, MMMM is full month name in "
 "current locale, and yyyy is full year number"
 msgid "dddd (MMMM, yyyy)"
-msgstr "ഇന്നലെ (%B, %Y)"
+msgstr "dddd (MMMM, yyyy)"
 
 #: kitemviews/kfileitemmodel.cpp:2070
 #, kde-format
@@ -815,12 +815,12 @@ msgid "%1"
 msgstr ""
 
 #: kitemviews/kfileitemmodel.cpp:2074
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
 "full year number"
 msgid "'One Week Ago' (MMMM, yyyy)"
-msgstr "മൂന്നാഴ്ച മുമ്പു് (%B, %Y)"
+msgstr "'ഒരാഴ്ച മുമ്പ്' (MMMM, yyyy)"
 
 #: kitemviews/kfileitemmodel.cpp:2080
 #, kde-format
@@ -831,12 +831,12 @@ msgid "%1"
 msgstr ""
 
 #: kitemviews/kfileitemmodel.cpp:2089
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
 "full year number"
 msgid "'Two Weeks Ago' (MMMM, yyyy)"
-msgstr "രണ്ടാഴ്ച്ച മുമ്പു് (%B, %Y)"
+msgstr "'രണ്ടാഴ്ച്ച മുമ്പ്' (MMMM, yyyy)"
 
 #: kitemviews/kfileitemmodel.cpp:2095
 #, kde-format
@@ -847,12 +847,12 @@ msgid "%1"
 msgstr ""
 
 #: kitemviews/kfileitemmodel.cpp:2104
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
 "full year number"
 msgid "'Three Weeks Ago' (MMMM, yyyy)"
-msgstr "മൂന്നാഴ്ച മുമ്പു് (%B, %Y)"
+msgstr "'മൂന്നാഴ്ച മുമ്പ്' (MMMM, yyyy)"
 
 #: kitemviews/kfileitemmodel.cpp:2110
 #, kde-format
@@ -863,12 +863,12 @@ msgid "%1"
 msgstr ""
 
 #: kitemviews/kfileitemmodel.cpp:2119
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
 "full year number"
 msgid "'Earlier on' MMMM, yyyy"
-msgstr "നേരത്തെ %B യില്‍, %Y"
+msgstr "'നേരത്തെ' MMMM യില്‍, yyyy"
 
 #: kitemviews/kfileitemmodel.cpp:2125
 #, kde-format
@@ -956,7 +956,7 @@ msgstr "പുതിയതായി ഉണ്ടാക്കുക"
 #, kde-format
 msgctxt "@label"
 msgid "Accessed"
-msgstr ""
+msgstr "ഉപയോഗിച്ചത്"
 
 #: kitemviews/kfileitemmodel.cpp:2307
 #, kde-format
@@ -999,19 +999,19 @@ msgstr "വിവരണം"
 #, kde-format
 msgctxt "@label"
 msgid "Word Count"
-msgstr ""
+msgstr "വാക്കുകളുടെ എണ്ണം"
 
 #: kitemviews/kfileitemmodel.cpp:2313
 #, kde-format
 msgctxt "@label"
 msgid "Line Count"
-msgstr ""
+msgstr "വരികളുടെ എണ്ണം"
 
 #: kitemviews/kfileitemmodel.cpp:2314
 #, kde-format
 msgctxt "@label"
 msgid "Date Photographed"
-msgstr ""
+msgstr "പടമെടുത്തത്"
 
 #: kitemviews/kfileitemmodel.cpp:2314 kitemviews/kfileitemmodel.cpp:2315
 #: kitemviews/kfileitemmodel.cpp:2316 kitemviews/kfileitemmodel.cpp:2317
@@ -1030,7 +1030,7 @@ msgstr "വീതി:"
 #, kde-format
 msgctxt "@label"
 msgid "Height"
-msgstr ""
+msgstr "നീളം"
 
 #: kitemviews/kfileitemmodel.cpp:2317
 #, fuzzy, kde-format
@@ -1051,7 +1051,7 @@ msgstr "പാടിയതു്:"
 #, kde-format
 msgctxt "@label"
 msgid "Audio"
-msgstr ""
+msgstr "ശബ്ദം"
 
 #: kitemviews/kfileitemmodel.cpp:2319
 #, fuzzy, kde-format
@@ -1090,16 +1090,16 @@ msgid "Release Year"
 msgstr "കളഞ്ഞു"
 
 #: kitemviews/kfileitemmodel.cpp:2325
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "@label"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "അനുപാതം"
 
 #: kitemviews/kfileitemmodel.cpp:2325 kitemviews/kfileitemmodel.cpp:2326
 #, kde-format
 msgctxt "@label"
 msgid "Video"
-msgstr ""
+msgstr "വീഡിയോ"
 
 #: kitemviews/kfileitemmodel.cpp:2326
 #, kde-format
@@ -1138,7 +1138,7 @@ msgstr "കണ്ണിയുടെ ലക്ഷ്യസ്ഥാനം"
 #, kde-format
 msgctxt "@label"
 msgid "Downloaded From"
-msgstr ""
+msgstr "ഡൗണ്‍ലോഡ് എടുത്തത്"
 
 #: kitemviews/kfileitemmodel.cpp:2331
 #, kde-format
@@ -1302,13 +1302,13 @@ msgstr "ആര്‍ഗ്യുമെന്റുകളായി കൊടു�
 #, kde-format
 msgctxt "@info:shell"
 msgid "Dolphin will get started with a split view."
-msgstr ""
+msgstr "വിഭജിച്ച രീതിയില്‍ ഡോൾഫിൻ ആരംഭിക്കും"
 
 #: main.cpp:125
 #, kde-format
 msgctxt "@info:shell"
 msgid "Start Dolphin Daemon (only required for DBus Interface)"
-msgstr ""
+msgstr "ഡോൾഫിൻ daemon തുടങ്ങുക (DBus ഇന്റർഫേസിനു മാത്രം ആവശ്യമുള്ളത്)"
 
 #: main.cpp:126
 #, kde-format
@@ -1326,7 +1326,7 @@ msgstr "മറഞ്ഞിരിക്കുന്ന ഫയലുകളും �
 #: panels/folders/dolphin_folderspanelsettings.kcfg:14
 #, kde-format
 msgid "Limit folders panel to home directory if inside home"
-msgstr ""
+msgstr "ഹോമിലാണെങ്കില്‍ ഫോള്‍ഡേര്‍സ് പാനല്‍ ഹോം ഫോള്‍ഡറില്‍ ചുരുക്കുക"
 
 #. i18n: ectx: label, entry (AutoScrolling), group (FoldersPanel)
 #: panels/folders/dolphin_folderspanelsettings.kcfg:18
@@ -1374,13 +1374,13 @@ msgstr "മറഞ്ഞിരിക്കുന്ന ഫയലുകളും �
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Limit to Home Directory"
-msgstr ""
+msgstr "ഹോം ഫോള്‍ഡറില്‍ ചുരുക്കുക"
 
 #: panels/folders/treeviewcontextmenu.cpp:139
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Automatic Scrolling"
-msgstr ""
+msgstr "സ്വയം സ്ക്രോൾ ചെയ്യുക"
 
 #: panels/folders/treeviewcontextmenu.cpp:149 panels/places/placespanel.cpp:188
 #, kde-format
@@ -1398,7 +1398,7 @@ msgstr "തിരനോട്ടങ്ങള്‍"
 #: panels/information/dolphin_informationpanelsettings.kcfg:14
 #, kde-format
 msgid "Date display format"
-msgstr ""
+msgstr "തീയതി കാണിക്കുന്ന രീതി"
 
 #: panels/information/filemetadataconfigurationdialog.cpp:39
 #, kde-format
@@ -1428,7 +1428,7 @@ msgstr "ക്രമീകരിക്കുക..."
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Condensed Date"
-msgstr ""
+msgstr "ചുരുക്കിയ തീയതി"
 
 #: panels/information/informationpanel.cpp:207
 #, fuzzy, kde-format
@@ -1437,11 +1437,11 @@ msgid "Select which data should be shown in the information panel:"
 msgstr "'വിവരങ്ങള്‍' പാനലില്‍ കാണിക്കേണ്ട കാര്യങ്ങള്‍ തെരഞ്ഞെടുക്കുക"
 
 #: panels/information/informationpanelcontent.cpp:229
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@label"
 msgid "%1 item selected"
 msgid_plural "%1 items selected"
-msgstr[0] "ഒരു സാധനം തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
+msgstr[0] "%1 സാധനം തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
 msgstr[1] "%1 സാധനങ്ങള്‍ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
 
 #: panels/information/phononwidget.cpp:126
@@ -1460,6 +1460,7 @@ msgstr "നിര്‍ത്തുക"
 msgid ""
 "Size of icons in the Places Panel (-1 means \"use the style's small size\")"
 msgstr ""
+"സ്ഥലങ്ങള്‍ പാനലിലെ ഐക്കണുകളുടെ വലുപ്പം (-1 എന്നു വെച്ചാല്‍ എറ്റുവും ചെറുത്)"
 
 #: panels/places/placesitemmodel.cpp:201
 #, fuzzy, kde-format
@@ -1489,19 +1490,20 @@ msgstr "കളഞ്ഞു"
 #, kde-format
 msgctxt "@info"
 msgid "The device '%1' is not a disk and cannot be ejected."
-msgstr ""
+msgstr "'%1' എന്ന ഉപകരണം ഒരു ഡിസ്ക്കല്ല അതിനാല്‍ പുറന്തള്ളാനും പറ്റില്ല."
 
 #: panels/places/placesitemmodel.cpp:498
 #, kde-format
 msgctxt "@info"
 msgid "An error occurred while accessing '%1', the system responded: %2"
 msgstr ""
+"'%1' തുറക്കാന്‍ ശ്രമിച്ചപ്പോള്‍ പിശക് സംഭവിച്ചു, സിസ്റ്റം പ്രതികരിച്ചത്: %2"
 
 #: panels/places/placesitemmodel.cpp:502
 #, kde-format
 msgctxt "@info"
 msgid "An error occurred while accessing '%1'"
-msgstr ""
+msgstr "'%1' തുറക്കാന്‍ ശ്രമിച്ചപ്പോള്‍ പിശക് സംഭവിച്ചു"
 
 #: panels/places/placespanel.cpp:184
 #, fuzzy, kde-format
@@ -1537,7 +1539,7 @@ msgstr "കളഞ്ഞു"
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Hide"
-msgstr ""
+msgstr "മറയ്ക്കുക"
 
 #: panels/places/placespanel.cpp:291
 #, fuzzy, kde-format
@@ -1555,31 +1557,31 @@ msgstr "ചിഹ്നത്തിന്റെ വലിപ്പം"
 #, kde-format
 msgctxt "Small icon size"
 msgid "Small (%1x%2)"
-msgstr ""
+msgstr "ചെറുത് (%1x%2)"
 
 #: panels/places/placespanel.cpp:313
 #, kde-format
 msgctxt "Medium icon size"
 msgid "Medium (%1x%2)"
-msgstr ""
+msgstr "ഇടത്തരം (%1x%2)"
 
 #: panels/places/placespanel.cpp:314
 #, kde-format
 msgctxt "Large icon size"
 msgid "Large (%1x%2)"
-msgstr ""
+msgstr "വലുത് (%1x%2)"
 
 #: panels/places/placespanel.cpp:315
 #, kde-format
 msgctxt "Huge icon size"
 msgid "Huge (%1x%2)"
-msgstr ""
+msgstr "വൻ (%1x%2)"
 
 #: panels/places/placespanel.cpp:361
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Hide Section '%1'"
-msgstr ""
+msgstr "'%1' ഭാഗം മറയ്ക്കുക"
 
 #: panels/terminal/terminalpanel.cpp:159
 #, kde-format
@@ -1587,11 +1589,13 @@ msgid ""
 "Terminal cannot be shown because Konsole is not installed. Please install it "
 "and then reopen the panel."
 msgstr ""
+"Konsole ഇൻസ്റ്റാൾ ചെയ്യാത്തത് കാര്ണം ടെര്‍മിനല്‍ കാണിക്കാന്‍ കഴിയില്ല. ദയവായി"
+" അത് ഇൻസ്റ്റാൾ ചെയ്ത് പാനല്‍ വീണ്ടും തുറക്കുക."
 
 #: panels/terminal/terminalpanel.cpp:165
 #, kde-format
 msgid "Install Konsole"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ Konsole"
 
 #. i18n: ectx: label, entry (Location), group (Search)
 #: search/dolphin_searchsettings.kcfg:10
@@ -1639,13 +1643,13 @@ msgstr "ചിത്രങ്ങള്‍"
 #, kde-format
 msgctxt "@option:check"
 msgid "Audio Files"
-msgstr ""
+msgstr "ശബ്ദ ഫയലുകള്‍"
 
 #: search/dolphinfacetswidget.cpp:56
 #, kde-format
 msgctxt "@option:check"
 msgid "Videos"
-msgstr ""
+msgstr "വീഡിയോകള്‍"
 
 #: search/dolphinfacetswidget.cpp:69
 #, fuzzy, kde-format
@@ -1693,43 +1697,43 @@ msgstr "നിലവാരം"
 #, kde-format
 msgctxt "@option:option"
 msgid "1 or more"
-msgstr ""
+msgstr "ഒന്നോ അതില്‍ കൂടുതലോ"
 
 #: search/dolphinfacetswidget.cpp:89
 #, kde-format
 msgctxt "@option:option"
 msgid "2 or more"
-msgstr ""
+msgstr "രണ്ടോ അതില്‍ കൂടുതലോ"
 
 #: search/dolphinfacetswidget.cpp:90
 #, kde-format
 msgctxt "@option:option"
 msgid "3 or more"
-msgstr ""
+msgstr "മൂന്നോ അതില്‍ കൂടുതലോ"
 
 #: search/dolphinfacetswidget.cpp:91
 #, kde-format
 msgctxt "@option:option"
 msgid "4 or more"
-msgstr ""
+msgstr "നാലോ അതില്‍ കൂടുതലോ"
 
 #: search/dolphinfacetswidget.cpp:92
 #, kde-format
 msgctxt "@option:option"
 msgid "Highest Rating"
-msgstr ""
+msgstr "ഉയർന്ന റേറ്റിംഗ്"
 
 #: search/dolphinsearchbox.cpp:104
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action:button"
 msgid "From Here (%1)"
-msgstr "ഇവിടെ നിന്ന്"
+msgstr "ഇവിടെ നിന്ന് (%1)"
 
 #: search/dolphinsearchbox.cpp:105
 #, kde-format
 msgctxt "action:button"
 msgid "Limit search to '%1' and its subfolders"
-msgstr ""
+msgstr "'%1' ഉം അതിന്റെ ഉപ ഫോള്‍ഡറുകളിലേക്കും തിരയൽ ചുരുക്കുക"
 
 #: search/dolphinsearchbox.cpp:355
 #, fuzzy, kde-format
@@ -2986,8 +2990,8 @@ msgstr "സഹജമായ"
 msgctxt "@info:status"
 msgid "1 Folder selected"
 msgid_plural "%1 Folders selected"
-msgstr[0] "ഒരു അറ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
-msgstr[1] "%1 അറകള്‍ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
+msgstr[0] "1 അറ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
+msgstr[1] "%1 അറകള് തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
 
 #: views/dolphinview.cpp:538
 #, kde-format

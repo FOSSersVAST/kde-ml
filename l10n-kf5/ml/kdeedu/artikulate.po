@@ -20,79 +20,79 @@ msgstr ""
 #, kde-format
 msgctxt "Language Title"
 msgid "Bengali"
-msgstr ""
+msgstr "ബംഗാളി"
 
 #: data/languages/ca.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "Catalan"
-msgstr ""
+msgstr "കറ്റാലൻ"
 
 #: data/languages/de.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "German"
-msgstr ""
+msgstr "ജർമൻ "
 
 #: data/languages/du.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "Dutch"
-msgstr ""
+msgstr "ഡച്ച് "
 
 #: data/languages/en_BE.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "British English"
-msgstr ""
+msgstr "ബ്രിട്ടീഷ് ഇംഗ്ലീഷ് "
 
 #: data/languages/en_US.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "English"
-msgstr ""
+msgstr "ഇംഗ്ലീഷ്"
 
 #: data/languages/fr.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "French"
-msgstr ""
+msgstr "ഫ്രഞ്ച് "
 
 #: data/languages/gr.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "Greek"
-msgstr ""
+msgstr "ഗ്രീക്ക്"
 
 #: data/languages/hi.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "Hindi"
-msgstr ""
+msgstr "ഹിന്ദി "
 
 #: data/languages/it.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "Italian"
-msgstr ""
+msgstr "ഇറ്റാലിയന്‍"
 
 #: data/languages/mr.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "Marathi"
-msgstr ""
+msgstr "മറാത്തി"
 
 #: data/languages/pl.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "Polish"
-msgstr ""
+msgstr "പോളിഷ്"
 
 #: data/languages/sp.xml:5
 #, kde-format
 msgctxt "Language Title"
 msgid "Spanish"
-msgstr ""
+msgstr "സ്പാനിഷ്"
 
 #: liblearnerprofile/src/models/learninggoalmodel.cpp:179
 #: src/models/coursemodel.cpp:129 src/models/languageresourcemodel.cpp:107
@@ -103,13 +103,13 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inlistbox:"
 msgid "unknown"
-msgstr ""
+msgstr "അജ്ഞാതം"
 
 #: liblearnerprofile/src/models/learninggoalmodel.cpp:244
 #, kde-format
 msgctxt "@title:column"
 msgid "Learning Goal"
-msgstr ""
+msgstr "പഠന ലക്ഷ്യം"
 
 #: liblearnerprofile/src/profilemanager.cpp:161
 #, kde-format
@@ -785,9 +785,9 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QToolButton, selectDirectoryButton)
 #. i18n: ectx: property (text), widget (QToolButton, buttonSelectCourseRepository)
 #: src/ui/exportghnsdialog.ui:29 src/ui/resourcesdialogpage.ui:88
-#, kde-format
+#, fuzzy, kde-format
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: src/ui/resourcesdialogpage.cpp:44
 #, kde-format

@@ -20,9 +20,9 @@ msgstr ""
 #: addons/preview/ktexteditorpreview.json
 msgctxt "Name"
 msgid "Document Preview"
-msgstr ""
+msgstr "പ്രമാണ പ്രിവ്യൂ"
 
 #: addons/preview/ktexteditorpreview.json
 msgctxt "Description"
 msgid "Preview the document in the target format"
-msgstr ""
+msgstr "ടാർഗെറ്റ് ഫോർമാറ്റിൽ പ്രമാണം തിരനോട്ടം ചെയ്യുക"
