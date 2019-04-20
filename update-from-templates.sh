@@ -16,6 +16,6 @@ for templatepath in $pots; do
     filepath=${filepath/.pot/.po}
     if [ ! -f $filepath ]; then
         msginit -o $filepath -i $templatepath --no-translator --locale=ml_IN
-        sed -i 's/Team: none/Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>/' $filepath
+        sed -i 's/Language-Team: none/Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."\n"org.in>/' $filepath
     fi
 done
