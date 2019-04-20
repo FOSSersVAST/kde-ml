@@ -106,16 +106,12 @@ msgstr "ജാലകങ്ങള്‍ ഒളിപ്പിയ്ക്കു�
 
 #: effects/fadingpopups/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sliding popups"
 msgctxt "Name"
 msgid "Fading Popups"
 msgstr "പൊങ്ങി വരുന്നവ തെന്നി നീങ്ങുന്നു"
 
 #: effects/fadingpopups/package/metadata.desktop:26
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Make windows smoothly fade in and out when they are shown or hidden"
 msgctxt "Comment"
 msgid "Make popups smoothly fade in and out when they are shown or hidden"
 msgstr "ജാലകങ്ങള്‍ ഒളിപ്പിയ്ക്കുമ്പോഴോ കാണിയ്ക്കുമ്പോഴോ മങ്ങുന്നതും തെളിയുന്നതും പോലെ തോന്നിയ്ക്കുക"
@@ -137,8 +133,6 @@ msgstr ""
 
 #: effects/glide/glide_config.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Slide"
 msgctxt "Name"
 msgid "Glide"
 msgstr "തെന്നിമാറുക"
@@ -165,16 +159,12 @@ msgstr "അകത്തേക്ക് കടക്കുംബോള്‍ പ�
 
 #: effects/logout/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Logout"
 msgctxt "Name"
 msgid "Logout"
 msgstr "പുറത്തിറങ്ങുക"
 
 #: effects/logout/package/metadata.desktop:32
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Smoothly fade to the desktop when logging in"
 msgctxt "Comment"
 msgid "Smoothly fade to the logout screen"
 msgstr "അകത്തേക്ക് കടക്കുംബോള്‍ പണിയിടത്തിലേക്ക് തനിയെ സ്മൂത് ആയി കടക്കുന്നു"
@@ -201,8 +191,6 @@ msgstr ""
 
 #: effects/maximize/package/metadata.desktop:49
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Maximize"
 msgctxt "Name"
 msgid "Maximize"
 msgstr "ജാലകം വലുതാക്കുക"
@@ -215,16 +203,12 @@ msgstr ""
 
 #: effects/morphingpopups/package/metadata.desktop:39
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sliding popups"
 msgctxt "Name"
 msgid "Morphing popups"
 msgstr "പൊങ്ങി വരുന്നവ തെന്നി നീങ്ങുന്നു"
 
 #: effects/mouseclick/mouseclick_config.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "More Applications"
 msgctxt "Name"
 msgid "Mouse Click Animation"
 msgstr "കൂടുതല്‍ പ്രയോഗങ്ങള്‍"
@@ -246,16 +230,12 @@ msgstr "ജാലകത്തിന്റെ വലിപ്പം മാറ്�
 
 #: effects/scale/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Scale In"
 msgctxt "Name"
 msgid "Scale"
 msgstr "ആനുപാതികമാക്കുക"
 
 #: effects/scale/package/metadata.desktop:32
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Make windows smoothly fade in and out when they are shown or hidden"
 msgctxt "Comment"
 msgid "Make windows smoothly scale in and out when they are shown or hidden"
 msgstr "ജാലകങ്ങള്‍ ഒളിപ്പിയ്ക്കുമ്പോഴോ കാണിയ്ക്കുമ്പോഴോ മങ്ങുന്നതും തെളിയുന്നതും പോലെ തോന്നിയ്ക്കുക"
@@ -277,8 +257,6 @@ msgstr "തെന്നിമാറുക"
 
 #: effects/squash/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Deform windows while they are moving"
 msgctxt "Comment"
 msgid "Squash windows when they are minimized"
 msgstr "അനങ്ങുംബോള്‍ ജാലകങ്ങളുടെ ആക്രതി മാറുന്നു"
@@ -310,24 +288,18 @@ msgstr "ജാലകങ്ങള്‍ പ്രത്യേക സാഹചര�
 
 #: effects/windowaperture/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Close"
 msgctxt "Name"
 msgid "Window Aperture"
 msgstr "ജാലകം അടയ്ക്കുക"
 
 #: effects/windowaperture/package/metadata.desktop:43
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Slide windows across the screen when switching virtual desktops"
 msgctxt "Comment"
 msgid "Move window into the corners while showing desktop"
 msgstr "വിര്‍ച്ച്വല്‍ പണിയിടങ്ങള്‍ തമ്മില്‍ മാറുമ്പോള്‍ ജാലകങ്ങള്‍ സ്ക്രീനിനു് കുറുകെ തെന്നി മാറട്ടെ"
 
 #: effects/windowgeometry/windowgeometry_config.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Move Start"
 msgctxt "Name"
 msgid "WindowGeometry"
 msgstr "ജാലകം നീങ്ങി തുടങ്ങുമ്പോള്‍"
@@ -363,8 +335,6 @@ msgstr ""
 #: kcmkwin/kwindecoration/package/metadata.desktop:17
 #: kcmkwin/kwindecoration/window-decorations.knsrc:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Name"
 msgid "Window Decorations"
 msgstr "വിന്‍ഡോ വിവരം"
@@ -372,8 +342,6 @@ msgstr "വിന്‍ഡോ വിവരം"
 #: kcmkwin/kwindecoration/kwindecoration.desktop:75
 #: kcmkwin/kwindecoration/package/metadata.desktop:77
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure the window behavior"
 msgctxt "Comment"
 msgid "Configure window titlebars and borders"
 msgstr "ജാലകത്തിന്റെ വിശേഷത ക്രമീകരിക്കുക"
@@ -388,8 +356,6 @@ msgstr ""
 #: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:15
 #: kcmkwin/kwindesktop/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Switch Desktop"
 msgctxt "Name"
 msgid "Virtual Desktops"
 msgstr "പണിയിടം മാറുക"
@@ -410,8 +376,6 @@ msgstr ""
 #: kcmkwin/kwineffects/kcm_kwin_effects.desktop:15
 #: kcmkwin/kwineffects/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Cube"
 msgctxt "Name"
 msgid "Desktop Effects"
 msgstr "പണിയിടം ക്യൂബ്"
@@ -419,8 +383,6 @@ msgstr "പണിയിടം ക്യൂബ്"
 #: kcmkwin/kwineffects/kcm_kwin_effects.desktop:61
 #: kcmkwin/kwineffects/package/metadata.desktop:49
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Cube"
 msgctxt "Comment"
 msgid "Desktop Effects"
 msgstr "പണിയിടം ക്യൂബ്"
@@ -447,8 +409,6 @@ msgstr ""
 
 #: kcmkwin/kwineffects/kwineffect.knsrc:2
 #, fuzzy
-#| msgctxt "Name|standard desktop component"
-#| msgid "Window Manager"
 msgctxt "Name"
 msgid "Window Manager Effects"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
@@ -460,8 +420,6 @@ msgstr "പ്രവര്‍ത്തനങ്ങള്‍"
 
 #: kcmkwin/kwinoptions/kwinactions.desktop:102
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure Input Actions settings"
 msgctxt "Comment"
 msgid "Mouse Actions on Windows"
 msgstr "ഇന്‍പുട്ട് പ്രവര്‍ത്തന സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
@@ -480,8 +438,6 @@ msgstr "സങ്കീര്‍ണ്ണമായ"
 
 #: kcmkwin/kwinoptions/kwinadvanced.desktop:101
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure advanced window management features"
 msgctxt "Comment"
 msgid "Advanced Window Management Features"
 msgstr "സങ്കീര്‍ണ്ണമായ ജാലകപാലക സവിശേഷതകള്‍ സജ്ജീകരിക്കുക"
@@ -519,8 +475,6 @@ msgstr "നീക്കുന്നു"
 
 #: kcmkwin/kwinoptions/kwinmoving.desktop:100
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Comment"
 msgid "Window Moving"
 msgstr "വിന്‍ഡോ വിവരം"
@@ -537,8 +491,6 @@ msgstr "ജാലകത്തിന്റെ വിശേഷത"
 
 #: kcmkwin/kwinoptions/kwinoptions.desktop:103
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Behavior"
 msgctxt "Comment"
 msgid "Window Actions and Behavior"
 msgstr "ജാലകത്തിന്റെ വിശേഷത"
@@ -552,16 +504,12 @@ msgstr ""
 
 #: kcmkwin/kwinrules/kwinrules.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Close"
 msgctxt "Name"
 msgid "Window Rules"
 msgstr "ജാലകം അടയ്ക്കുക"
 
 #: kcmkwin/kwinrules/kwinrules.desktop:76
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Behavior"
 msgctxt "Comment"
 msgid "Individual Window Behavior"
 msgstr "ജാലകത്തിന്റെ വിശേഷത"
@@ -610,16 +558,12 @@ msgstr ""
 
 #: kcmkwin/kwinscripts/kwinscripts.desktop:11
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
 msgctxt "X-KDE-Keywords"
 msgid "kwin script"
 msgstr "സീജീഐ സ്ക്രിപ്റ്റുകള്‍"
 
 #: kcmkwin/kwinscripts/kwinscripts.desktop:63
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
 msgctxt "Name"
 msgid "KWin Scripts"
 msgstr "സീജീഐ സ്ക്രിപ്റ്റുകള്‍"
@@ -631,24 +575,18 @@ msgstr ""
 
 #: kcmkwin/kwinscripts/kwinscripts.knsrc:2
 #, fuzzy
-#| msgctxt "Name|standard desktop component"
-#| msgid "Window Manager"
 msgctxt "Name"
 msgid "Window Manager Scripts"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
 
 #: kcmkwin/kwintabbox/kwinswitcher.knsrc:2
 #, fuzzy
-#| msgctxt "Name|standard desktop component"
-#| msgid "Window Manager"
 msgctxt "Name"
 msgid "Window Manager Switching Layouts"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
 
 #: kcmkwin/kwintabbox/kwintabbox.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Box Switch"
 msgctxt "Name"
 msgid "Task Switcher"
 msgstr "ബോക്സ് സ്വിച്ച്"
@@ -667,8 +605,6 @@ msgstr ""
 
 #: kwin.notifyrc:3
 #, fuzzy
-#| msgctxt "Name|standard desktop component"
-#| msgid "Window Manager"
 msgctxt "Comment"
 msgid "KWin Window Manager"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
@@ -685,8 +621,6 @@ msgstr "കമ്പോസിറ്റിംഗ് നിര്‍ത്തി�
 
 #: kwin.notifyrc:196
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Graphics"
 msgctxt "Name"
 msgid "Graphics Reset"
 msgstr "ഗ്രാഫിക്സ്"
@@ -698,16 +632,12 @@ msgstr ""
 
 #: plugins/kdecorations/aurorae/src/aurorae.knsrc:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Name"
 msgid "Aurorae Window Decorations"
 msgstr "വിന്‍ഡോ വിവരം"
 
 #: plugins/kdecorations/aurorae/src/kwindecoration.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Comment"
 msgid "KWin Window Decoration"
 msgstr "വിന്‍ഡോ വിവരം"
@@ -729,48 +659,36 @@ msgstr ""
 
 #: plugins/kpackage/decoration/kwin-packagestructure-decoration.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Name"
 msgid "KWin Decoration"
 msgstr "വിന്‍ഡോ വിവരം"
 
 #: plugins/kpackage/effect/kwin-packagestructure-effect.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "KWin Effect"
 msgctxt "Name"
 msgid "KWin Effect"
 msgstr "കെവിന്‍ പ്രഭാവം"
 
 #: plugins/kpackage/scripts/kwin-packagestructure-scripts.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
 msgctxt "Name"
 msgid "KWin Script"
 msgstr "സീജീഐ സ്ക്രിപ്റ്റുകള്‍"
 
 #: plugins/kpackage/windowswitcher/kwin-packagestructure-windowswitcher.desktop:2
 #, fuzzy
-#| msgctxt "Name|standard desktop component"
-#| msgid "Window Manager"
 msgctxt "Name"
 msgid "KWin Window Switcher"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
 
 #: scripting/kwinscript.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "CGI Scripts"
 msgctxt "Comment"
 msgid "KWin Script"
 msgstr "സീജീഐ സ്ക്രിപ്റ്റുകള്‍"
 
 #: scripts/desktopchangeosd/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Cube"
 msgctxt "Name"
 msgid "Desktop Change OSD"
 msgstr "പണിയിടം ക്യൂബ്"
@@ -782,8 +700,6 @@ msgstr ""
 
 #: scripts/enforcedeco/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Information"
 msgctxt "Name"
 msgid "Enforces Window Decorations on GTK+ window"
 msgstr "വിന്‍ഡോ വിവരം"
@@ -795,8 +711,6 @@ msgstr ""
 
 #: scripts/minimizeall/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window Maximize"
 msgctxt "Name"
 msgid "MinimizeAll"
 msgstr "ജാലകം വലുതാക്കുക"
@@ -820,8 +734,6 @@ msgstr ""
 
 #: scripts/videowall/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Video Player"
 msgctxt "Name"
 msgid "Video Wall"
 msgstr "ചലച്ചിത്രദര്‍ശിനി"
@@ -835,23 +747,17 @@ msgstr ""
 
 #: tabbox/kwindesktopswitcher.desktop:5
 #, fuzzy
-#| msgctxt "Name|standard desktop component"
-#| msgid "Window Manager"
 msgctxt "Comment"
 msgid "KWin Desktop Switcher Layout"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
 
 #: tabbox/kwinwindowswitcher.desktop:5
 #, fuzzy
-#| msgctxt "Name|standard desktop component"
-#| msgid "Window Manager"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure the look and feel of window titles"
 #~ msgctxt "Comment"
 #~ msgid "Look and Feel of Window Titles"
 #~ msgstr "ജാലകങ്ങളുടെ തലക്കെട്ടിന്റെ ഭംഗി ക്രമീകരിക്കുക."
@@ -869,57 +775,41 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 #~ msgstr "അറോറ അണിയിച്ചൊരുക്കാനുള്ള പ്രമേയ എഞ്ചിന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Icons"
 #~ msgctxt "Name"
 #~ msgid "Large Icons"
 #~ msgstr "ചിഹ്നങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Compiz"
 #~ msgctxt "Name"
 #~ msgid "Compact"
 #~ msgstr "കോമ്പിസ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Information"
 #~ msgctxt "Name"
 #~ msgid "Informative"
 #~ msgstr "വിവരം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Icons"
 #~ msgctxt "Name"
 #~ msgid "Small Icons"
 #~ msgstr "ചിഹ്നങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Description"
-#~| msgid "Text File"
 #~ msgctxt "Name"
 #~ msgid "Text Only"
 #~ msgstr "പദാവലി ഫയല്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Thumbnail Aside"
 #~ msgctxt "Name"
 #~ msgid "Thumbnails"
 #~ msgstr "അടുത്തുള്ള നഖചിത്രം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Animate desktop switching with a cube"
 #~ msgctxt "Comment"
 #~ msgid "An informative desktop switcher layout"
 #~ msgstr "ക്യുബ് ഉപയോഗിച്ചു് പണിയിടം മാറുന്നതു് കളിപ്പിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "File Preview"
 #~ msgctxt "Name"
 #~ msgid "Previews"
 #~ msgstr "ഫയല്‍ കണ്ടുനോക്കുക"
@@ -949,15 +839,11 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 #~ msgstr "സജീവമായ സ്ക്രീന്‍ അരികുകള്‍ ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure the behavior for navigating through windows."
 #~ msgctxt "Comment"
 #~ msgid "Configure the behavior for navigating through windows"
 #~ msgstr "ജാലകങ്ങളിലൂടെ നീങ്ങുന്നതിന്റെ പെരുമാറ്റം ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Blurs the background behind semi-transparent windows"
 #~ msgctxt "Comment"
 #~ msgid "Improve contrast and readability behind semi-transparent windows"
 #~ msgstr "പാതിസുതാര്യ ജാലകങ്ങളുടെ പിന്നാമ്പുറം മങ്ങിയതാക്കുന്നു. "
@@ -979,8 +865,6 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 #~ msgstr "ക്യുബ് ഉപയോഗിച്ചു് പണിയിടം മാറുന്നതു് കളിപ്പിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Desaturate the desktop when displaying the logout dialog"
 #~ msgctxt "Comment"
 #~ msgid "Desaturate the desktop when displaying the Plasma dashboard"
 #~ msgstr "പുറത്തേക്ക് കടക്കാനുള്ള ഡയലോഗ് കാണിക്കുംബോള്‍ പണിയിടം ഡീ-സാചുറേറ്റ് ചെയ്യുക"
@@ -1007,8 +891,6 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 #~ msgstr "ജാലക സ്വിച്ചര്‍  - alt+tab ഉപയോഗിച്ചു് ഒരു സ്റ്റാക്കിലുള്ള ജാലകങ്ങള്‍ തമ്മില്‍ മാറ്റുക."
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Make windows explode when they are closed"
 #~ msgctxt "Comment"
 #~ msgid "Windows Glide Effect as they are open and closed"
 #~ msgstr "അടയ്ക്കുമ്പോള്‍ ജാലകങ്ങള്‍ പൊട്ടിത്തെറിയ്ക്കുന്നു. "
@@ -1026,8 +908,6 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 #~ msgstr "പണിയിടത്തിന്റെയും ജാലകങ്ങളുടെയും നിറം ഇന്‍വര്‍ട് ചെയ്യുന്നു (വിപരീതം ആക്കുന്നു)"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Splash Screen"
 #~ msgctxt "Name"
 #~ msgid "Kscreen"
 #~ msgstr "മുഖചിത്രം"
@@ -1065,15 +945,11 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 #~ msgstr "തുറന്നിരിയ്ക്കുന്ന എല്ലാം ജാലകങ്ങളും അടുത്തടുത്തു് കാണുന്ന തരത്തില്‍ ചെറുതാക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen Edges"
 #~ msgctxt "Name"
 #~ msgid "Screen Edge"
 #~ msgstr "സ്ക്രീന്‍ അതിരുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen Edges"
 #~ msgctxt "Name"
 #~ msgid "Screenshot"
 #~ msgstr "സ്ക്രീന്‍ അതിരുകള്‍"
@@ -1102,8 +978,6 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 #~ msgstr "പുറകോട്ടു് തെന്നിമാറുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Slide windows when switching or grouping tabs."
 #~ msgctxt "Comment"
 #~ msgid "Slide back windows when another window is raised"
 #~ msgstr "കിളിവാതിലുകള്‍ തമ്മില്‍ മാറുമ്പോള്‍ ജാലകങ്ങള്‍ തെന്നി മാറട്ടെ."
@@ -1121,8 +995,6 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 #~ msgstr "ഒരു ജാലകം നീക്കുമ്പോള്‍ സ്ക്രീനിന്റെ നടു കണ്ടെത്താന്‍ നിങ്ങളെ സഹായിക്കുന്നു."
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Launch Feedback"
 #~ msgctxt "Name"
 #~ msgid "Startup Feedback"
 #~ msgstr "അഭിപ്രായങ്ങള്‍ ലഭ്യമാക്കുക"

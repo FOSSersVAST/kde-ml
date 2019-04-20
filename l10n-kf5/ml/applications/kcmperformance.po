@@ -25,8 +25,8 @@ msgid ""
 "<h1>KDE Performance</h1> You can configure settings that improve KDE "
 "performance here."
 msgstr ""
-"<h1>കെഡിഇ പ്രവര്‍ത്തനം</h1> കെഡിഇയുടെ പ്രവര്‍ത്തനം മെച്ചപ്പെടുത്തുന്ന സജ്ജീകരണങ്ങള്‍ "
-"നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിക്കാം."
+"<h1>കെഡിഇ പ്രവര്‍ത്തനം</h1> കെഡിഇയുടെ പ്രവര്‍ത്തനം മെച്ചപ്പെടുത്തുന്ന സജ്ജീകരണങ്ങള്‍ നിങ്ങള്‍"
+"ക്കിവിടെ ക്രമീകരിക്കാം."
 
 #: kcmperformance.cpp:50
 #, kde-format
@@ -78,14 +78,12 @@ msgstr "പ്രീലോഡിങ്"
 #. i18n: ectx: property (text), widget (QCheckBox, cb_preload_on_startup)
 #: konqueror_ui.ui:23
 #, fuzzy, kde-format
-#| msgid "Preload an instance after KDE startup"
 msgid "Preload an instance after desktop startup"
 msgstr "കെഡിഇ ആരംഭിച്ച ശേഷം ഒരു ഇന്‍സ്റ്റന്‍സ് ലഭ്യമാക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, cb_always_have_preloaded)
 #: konqueror_ui.ui:30
 #, fuzzy, kde-format
-#| msgid "Always try to have at least one preloaded instance"
 msgid "Always try to have one preloaded instance"
 msgstr "മുമ്പ് ലഭ്യമാക്കിയ ഒരു ഇന്‍സ്റ്റെന്‍സെങ്കിലും ഉണ്ടായിരിക്കണം"
 
@@ -130,7 +128,6 @@ msgstr ""
 "+F1) എന്ന സഹായക്കുറിപ്പു കാണുക"
 
 #, fuzzy
-#~| msgid "Maximum number of instances kept &preloaded:"
 #~ msgid "&Maximum number of instances kept preloaded:"
 #~ msgstr "&പ്രീലോഡറായിവച്ചിരിക്കുന്ന ഏറ്റവും കൂടിയ ഇന്‍സ്റ്റന്‍സുകള്‍: "
 

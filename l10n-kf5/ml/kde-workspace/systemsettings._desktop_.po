@@ -24,16 +24,12 @@ msgstr ""
 
 #: app/kdesystemsettings.desktop:8
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "System Settings"
 msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
 
 #: app/kdesystemsettings.desktop:63
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "System Settings"
 msgctxt "Name"
 msgid "KDE System Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
@@ -61,24 +57,18 @@ msgstr ""
 #: categories/old/settings-account-details.desktop:8
 #: categories/settings-personalization-accountdetails.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Details"
 msgctxt "Name"
 msgid "Account Details"
 msgstr "വിശദവിവരങ്ങള്‍"
 
 #: categories/old/settings-application-and-system-notifications.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Notifications"
 msgctxt "Name"
 msgid "Application and System Notifications"
 msgstr "പ്രയോഗ അറിയിപ്പുകള്‍"
 
 #: categories/old/settings-application-appearance.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Application Appearance"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
@@ -97,16 +87,12 @@ msgstr "ബ്ലൂടൂത്ത്"
 
 #: categories/old/settings-desktop-appearance.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Workspace Appearance"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #: categories/old/settings-desktop-appearance.desktop:72
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
 msgid "Customize the appearance of your desktop"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
@@ -114,8 +100,6 @@ msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ 
 #: categories/old/settings-display.desktop:8
 #: categories/settings-hardware-display.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
 msgctxt "Name"
 msgid "Display and Monitor"
 msgstr "ഫയല്‍ നടത്തിപ്പ്"
@@ -135,32 +119,24 @@ msgstr "ഹാര്‍ഡ്‌വെയര്‍"
 #: categories/old/settings-input-devices.desktop:8
 #: categories/settings-hardware-input.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Devices"
 msgctxt "Name"
 msgid "Input Devices"
 msgstr "ഉപകരണങ്ങള്‍"
 
 #: categories/old/settings-locale.desktop:8
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Logic Game"
 msgctxt "Name"
 msgid "Locale"
 msgstr "ബുദ്ധി ഉപയോഗിച്ചുള്ള കളി"
 
 #: categories/old/settings-lost-and-found.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Lost & Found"
 msgctxt "Name"
 msgid "Lost and Found"
 msgstr "പോയതും കണ്ടതും"
 
 #: categories/old/settings-network-and-connectivity.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Network & Connectivity"
 msgctxt "Name"
 msgid "Network and Connectivity"
 msgstr "ശൃംഖലയും ബന്ധവും"
@@ -172,16 +148,12 @@ msgstr "ശൃംഖലയുടെ സജ്ജീകരണങ്ങള്‍"
 
 #: categories/old/settings-permissions.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Partitions"
 msgctxt "Name"
 msgid "Permissions"
 msgstr "ഡിസ്ക് ഭാഗങ്ങള്‍"
 
 #: categories/old/settings-personal-information.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Processor Information"
 msgctxt "Name"
 msgid "Personal Information"
 msgstr "പ്രൊസസ്സറിന്റെ വിവരങ്ങള്‍"
@@ -199,8 +171,6 @@ msgstr "പങ്കിടല്‍"
 
 #: categories/old/settings-shortcuts-and-gestures.desktop:8
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Shortcut icon support"
 msgctxt "Name"
 msgid "Shortcuts and Gestures"
 msgstr "കുറുക്കുവഴിചിഹ്ന പിന്തുണ"
@@ -213,8 +183,6 @@ msgstr ""
 
 #: categories/old/settings-system-administration.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "SAM System-Administration"
 msgctxt "Name"
 msgid "System Administration"
 msgstr "സാം സിസ്റ്റം-അഡ്മിനിസ്ട്രേറ്റഷന്‍"
@@ -226,24 +194,18 @@ msgstr "ജാലകത്തിന്റെ വിശേഷത"
 
 #: categories/old/settings-workspace-appearance-and-behavior.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Workspace Appearance and Behavior"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #: categories/old/settings-workspace-behavior.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Web Behavior"
 msgctxt "Name"
 msgid "Workspace Behavior"
 msgstr "വെബിലെ പെരുമാറ്റം"
 
 #: categories/settings-appearance-applicationstyle.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Application Style"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
@@ -255,8 +217,6 @@ msgstr ""
 
 #: categories/settings-appearance.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Appearance"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
@@ -273,8 +233,6 @@ msgstr ""
 
 #: categories/settings-appearance-workspacetheme.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Workspace Theme"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
@@ -286,32 +244,24 @@ msgstr ""
 
 #: categories/settings-hardware-removable-storage.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Removable Devices"
 msgctxt "Name"
 msgid "Removable Storage"
 msgstr "നീക്കം ചെയ്യാവുന്ന ഉപകരണങ്ങള്‍"
 
 #: categories/settings-network-connectivity.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Network & Connectivity"
 msgctxt "Name"
 msgid "Connectivity"
 msgstr "ശൃംഖലയും ബന്ധവും"
 
 #: categories/settings-network.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Network Settings"
 msgctxt "Name"
 msgid "Network"
 msgstr "ശൃംഖലയുടെ സജ്ജീകരണങ്ങള്‍"
 
 #: categories/settings-network-networksettings.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "System Settings"
 msgctxt "Name"
 msgid "Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
@@ -323,48 +273,36 @@ msgstr "സാമീപ്യത"
 
 #: categories/settings-personalization-applications.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Applications"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #: categories/settings-personalization.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Processor Information"
 msgctxt "Name"
 msgid "Personalization"
 msgstr "പ്രൊസസ്സറിന്റെ വിവരങ്ങള്‍"
 
 #: categories/settings-personalization-notification.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Notifications"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #: categories/settings-personalization-regionalsettings.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Network Settings"
 msgctxt "Name"
 msgid "Regional Settings"
 msgstr "ശൃംഖലയുടെ സജ്ജീകരണങ്ങള്‍"
 
 #: categories/settings-workspace.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Web Behavior"
 msgctxt "Name"
 msgid "Workspace"
 msgstr "വെബിലെ പെരുമാറ്റം"
 
 #: categories/settings-workspace-desktopbehavior.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Web Behavior"
 msgctxt "Name"
 msgid "Desktop Behavior"
 msgstr "വെബിലെ പെരുമാറ്റം"
@@ -381,8 +319,6 @@ msgstr ""
 
 #: categories/settings-workspace-windowmanagement.desktop:9
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Power Management"
 msgctxt "Name"
 msgid "Window Management"
 msgstr "വൈദ്യുതി നടത്തിപ്പു്"
@@ -395,16 +331,12 @@ msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങളുടെ �
 #: classic/settings-classic-view.desktop:7 icons/settings-icon-view.desktop:7
 #: sidebar/settings-sidebar-view.desktop:7
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "System Settings"
 msgctxt "X-KDE-Keywords"
 msgid "System Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
 
 #: classic/settings-classic-view.desktop:64
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Classic Tree View"
 msgctxt "Name"
 msgid "Tree View"
 msgstr "ക്ലാസിക് വൃക്ഷ കാഴ്ച"
@@ -446,15 +378,11 @@ msgid "Categorized sidebar style"
 msgstr ""
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Human Input Devices"
 #~ msgstr "ഉപകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Launcher"
 #~ msgctxt "Name"
 #~ msgid "Common Appearance and Behavior"
 #~ msgstr "പ്രയോഗവിക്ഷേപിണി"

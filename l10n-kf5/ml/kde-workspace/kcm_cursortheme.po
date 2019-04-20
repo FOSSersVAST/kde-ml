@@ -32,7 +32,6 @@ msgstr "shijualexonline@gmail.com"
 
 #: kcmcursortheme.cpp:74
 #, fuzzy, kde-format
-#| msgid "&Cursor Theme"
 msgid "Cursors"
 msgstr "&കര്‍സര്‍ പ്രമേയം"
 
@@ -59,7 +58,6 @@ msgstr ""
 
 #: kcmcursortheme.cpp:376
 #, fuzzy, kde-format
-#| msgid "You have to restart KDE for these changes to take effect."
 msgid ""
 "You have to restart the Plasma session for these changes to take effect."
 msgstr "ഈ മാറ്റങ്ങള്‍ പ്രയോഗത്തില്‍ വരുവാന്‍ കെഡി‌ഇ വീണ്ടും തുടങ്ങണം."
@@ -71,13 +69,11 @@ msgstr ""
 
 #: kcmcursortheme.cpp:523
 #, fuzzy, kde-format
-#| msgid "Unable to find the cursor theme archive %1."
 msgid "Unable to download the icon theme archive: %1"
 msgstr "%1 എന്ന കര്‍സര്‍ പ്രമേയം കണ്ടെത്താന്‍ കഴിഞ്ഞില്ല."
 
 #: kcmcursortheme.cpp:554
 #, fuzzy, kde-format
-#| msgid "The file %1 does not appear to be a valid cursor theme archive."
 msgid "The file is not a valid icon theme archive."
 msgstr "%1 എന്ന പ്രമാണം സാധുവായ ഒരു കര്‍സര്‍ പ്രമേയം ആണെന്നു തോന്നുന്നില്ല."
 
@@ -145,19 +141,16 @@ msgstr ""
 
 #: package/contents/ui/main.qml:146
 #, fuzzy, kde-format
-#| msgid "Install New Theme..."
 msgid "&Install from File..."
 msgstr "പുതിയ പ്രമേയം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക..."
 
 #: package/contents/ui/main.qml:152
 #, fuzzy, kde-format
-#| msgid "Install New Theme..."
 msgid "&Get New Cursors..."
 msgstr "പുതിയ പ്രമേയം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക..."
 
 #: package/contents/ui/main.qml:174
 #, fuzzy, kde-format
-#| msgid "Remove Theme"
 msgid "Open Theme"
 msgstr "പ്രമേയം കളയുക"
 
@@ -185,7 +178,6 @@ msgid "(Available sizes: %1)"
 msgstr ""
 
 #, fuzzy
-#~| msgid "&Cursor Theme"
 #~ msgid "Mouse Cursor Theme settings"
 #~ msgstr "&കര്‍സര്‍ പ്രമേയം"
 
@@ -273,13 +265,11 @@ msgstr ""
 #~ msgstr "&യാന്ത്രികമായി ചിഹ്നങ്ങള്‍ തെരഞ്ഞെടുക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Dela&y:"
 #~ msgctxt "label. delay (on milliseconds) to automatically select icons"
 #~ msgid "Delay"
 #~ msgstr "താ&മസം:"
 
 #, fuzzy
-#~| msgid " msec"
 #~ msgctxt "milliseconds. time to automatically select the items"
 #~ msgid " ms"
 #~ msgstr " മില്ലിസെക്കന്റ്"
@@ -290,8 +280,8 @@ msgstr ""
 #~ "mouse, trackball, or some other hardware that performs a similar function."
 #~ msgstr ""
 #~ "<h1>മൌസ്</h1>നിങ്ങളുടെ ഇന്‍പുട്ട് പോയിന്റിങ്ങ് ഡിവൈസ് പ്രവര്‍ത്തിക്കേണ്ട ക്രമീകരണങ്ങള്‍ "
-#~ "തെരഞ്ഞെടുക്കാന്‍ ഈ മോഡ്യൂള്‍ സഹായിക്കുന്നു.  മൌസ്, ട്രാക്ക്ബാള്‍, അല്ലെങ്കില്‍ അതെ പോലെ "
-#~ "പ്രവര്‍ത്തിക്കുന്ന മറ്റു എന്തെങ്കിലും ഉപാധിയായിരിക്കാം താങ്കളുടെ പോയിന്റിങ്ങ് ഡിവൈസ്. "
+#~ "തെരഞ്ഞെടുക്കാന്‍ ഈ മോഡ്യൂള്‍ സഹായിക്കുന്നു.  മൌസ്, ട്രാക്ക്ബാള്‍, അല്ലെങ്കില്‍ അതെ പോലെ പ്രവര്‍"
+#~ "ത്തിക്കുന്ന മറ്റു എന്തെങ്കിലും ഉപാധിയായിരിക്കാം താങ്കളുടെ പോയിന്റിങ്ങ് ഡിവൈസ്. "
 
 #~ msgid "&General"
 #~ msgstr "&പൊതുവായത്"
@@ -421,8 +411,8 @@ msgstr ""
 #~ "will be handled as a page up/down movement."
 #~ msgstr ""
 #~ "താങ്കള്‍ മൌസിന്റെ ചക്രം ഉപയോഗിക്കുമ്പോള്‍ ചക്രത്തിന്റെ ഓരോ ചലനത്തിനും എത്ര വരികള്‍ നീങ്ങണം "
-#~ "എന്നതു ഈ മൂല്യം മുഖേന നിര്‍ണ്ണയിക്കുന്നു.  ഈ സംഖ്യ മൊത്തം കാണാവുന്ന "
-#~ "വരികള്‍ക്കപ്പുറമാവുകയാണെങ്കില്‍ ചക്രത്തിന്റെ ചലനം പേജ് അപ്/പേജ് ഡൌണ്‍ ചലനം പോലെ കണക്കാക്കും. "
+#~ "എന്നതു ഈ മൂല്യം മുഖേന നിര്‍ണ്ണയിക്കുന്നു.  ഈ സംഖ്യ മൊത്തം കാണാവുന്ന വരികള്‍"
+#~ "ക്കപ്പുറമാവുകയാണെങ്കില്‍ ചക്രത്തിന്റെ ചലനം പേജ് അപ്/പേജ് ഡൌണ്‍ ചലനം പോലെ കണക്കാക്കും. "
 
 #~ msgid "Mouse Navigation"
 #~ msgstr "മൌസിന്റെ പര്യവേക്ഷം"
@@ -507,7 +497,6 @@ msgstr ""
 #~ "ആര്‍ എഫ് ചാനല്‍ 2 ക്രമപ്പെടുത്തിയിരിക്കുന്നു. കണ്ണി പുനഃസ്ഥാപിക്കുവാന്‍ മൌസില്‍ കണക്റ്റ് ബട്ടണ്‍ അമര്‍ത്തൂ"
 
 #, fuzzy
-#~| msgid "none"
 #~ msgctxt "no cordless mouse"
 #~ msgid "none"
 #~ msgstr "ഒന്നുമില്ല"

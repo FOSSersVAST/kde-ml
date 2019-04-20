@@ -35,35 +35,30 @@ msgstr ""
 
 #: aurorae/src/aurorae.cpp:724
 #, fuzzy, kde-format
-#| msgid "Large"
 msgctxt "@item:inlistbox Button size:"
 msgid "Large"
 msgstr "വലുത്"
 
 #: aurorae/src/aurorae.cpp:725
 #, fuzzy, kde-format
-#| msgid "Large"
 msgctxt "@item:inlistbox Button size:"
 msgid "Very Large"
 msgstr "വലുത്"
 
 #: aurorae/src/aurorae.cpp:726
 #, fuzzy, kde-format
-#| msgid "Large"
 msgctxt "@item:inlistbox Button size:"
 msgid "Huge"
 msgstr "വലുത്"
 
 #: aurorae/src/aurorae.cpp:727
 #, fuzzy, kde-format
-#| msgid "Large"
 msgctxt "@item:inlistbox Button size:"
 msgid "Very Huge"
 msgstr "വലുത്"
 
 #: aurorae/src/aurorae.cpp:728
 #, fuzzy, kde-format
-#| msgid "Resize"
 msgctxt "@item:inlistbox Button size:"
 msgid "Oversized"
 msgstr "വലിപ്പം മാറ്റുക"
@@ -152,45 +147,37 @@ msgid "Animate buttons"
 msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 
 #, fuzzy
-#~| msgid "Animate buttons"
 #~ msgid "Animations"
 #~ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 
 #, fuzzy
-#~| msgid "Actions Settings"
 #~ msgid "Question - Oxygen Settings"
 #~ msgstr "പ്രവൃത്തികളുടെ സജ്ജീകരണം"
 
 #, fuzzy
-#~| msgid "Center"
 #~ msgid "General"
 #~ msgstr "മദ്ധ്യം"
 
 #, fuzzy
-#~| msgid "Large"
 #~ msgctxt "@item:inlistbox Border size:"
 #~ msgid "Large"
 #~ msgstr "വലുത്"
 
 #, fuzzy
-#~| msgid "Large"
 #~ msgctxt "@item:inlistbox Border size:"
 #~ msgid "Very Large"
 #~ msgstr "വലുത്"
 
 #, fuzzy
-#~| msgid "Large"
 #~ msgctxt "@item:inlistbox Border size:"
 #~ msgid "Huge"
 #~ msgstr "വലുത്"
 
 #, fuzzy
-#~| msgid "Title &Alignment"
 #~ msgid "Tit&le alignment:"
 #~ msgstr "&തലക്കെട്ട് ക്രമീകരണം"
 
 #, fuzzy
-#~| msgid "Small"
 #~ msgctxt "@item:inlistbox Button size:"
 #~ msgid "Small"
 #~ msgstr "ചെറുത്"
@@ -199,57 +186,46 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ msgstr "മെനു ബട്ടണില്‍ ഇരട്ട ക്ലിക്ക് ചെയ്ത് ജാലകം അടയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Minimize Window"
 #~ msgid "Outline active window title"
 #~ msgstr "ജാലകം ചെറുതാക്കുക"
 
 #, fuzzy
-#~| msgid "Shade"
 #~ msgid "Shadows"
 #~ msgstr "ചുരുക്കുക"
 
 #, fuzzy
-#~| msgid "Minimize Window"
 #~ msgid "Active Window Glow"
 #~ msgstr "ജാലകം ചെറുതാക്കുക"
 
 #, fuzzy
-#~| msgid "Config Dialog"
 #~ msgid "Dialog"
 #~ msgstr "സജ്ജീകരണത്തിനുള്ള സംവാദം"
 
 #, fuzzy
-#~| msgid "Minimize Window"
 #~ msgid "Use window title"
 #~ msgstr "ജാലകം ചെറുതാക്കുക"
 
 #, fuzzy
-#~| msgid "Minimize Window"
 #~ msgid "Outline active window title:"
 #~ msgstr "ജാലകം ചെറുതാക്കുക"
 
 #, fuzzy
-#~| msgid "Minimize Window"
 #~ msgid "Hide window title bar"
 #~ msgstr "ജാലകം ചെറുതാക്കുക"
 
 #, fuzzy
-#~| msgid "Restore"
 #~ msgid "Remove"
 #~ msgstr "വീണ്ടടുക്കുക"
 
 #, fuzzy
-#~| msgid "Oxygen"
 #~ msgid "Oxygen Shadow Demo"
 #~ msgstr "ഓക്സിജന്‍"
 
 #, fuzzy
-#~| msgid "Minimize Window"
 #~ msgid "Inactive Windows"
 #~ msgstr "ജാലകം ചെറുതാക്കുക"
 
 #, fuzzy
-#~| msgid "Minimize Window"
 #~ msgid "Active Windows"
 #~ msgstr "ജാലകം ചെറുതാക്കുക"
 
@@ -329,9 +305,6 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ "ജാലകങ്ങളുടെ താഴത്തെ വലതു വശത്തായ്; അല്ലെങ്കില്‍, വലിക്കാനുള്ള പിടി വരയ്ക്കുന്നതല്ല."
 
 #, fuzzy
-#~| msgid ""
-#~| "When selected, active titlebars are drawn with a stipple (dotted) "
-#~| "effect; otherwise, they are drawn without the stipple."
 #~ msgid ""
 #~ "When selected, titlebars are automatically relocated to visible "
 #~ "positions; otherwise, they are only moved manually using shift+drag."
@@ -368,12 +341,10 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ msgstr "ലാപ്‌ടോപ്പ്"
 
 #, fuzzy
-#~| msgid "Draw &gradients"
 #~ msgid "Radial Gradient"
 #~ msgstr "&ഗ്രേഡിയന്റുകള്‍ വരക്കുക"
 
 #, fuzzy
-#~| msgid "Shade"
 #~ msgid "Save"
 #~ msgstr "ചുരുക്കുക"
 
@@ -394,12 +365,10 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ msgstr "പ്ലാസ്റ്റിക്"
 
 #, fuzzy
-#~| msgid "On All Desktops"
 #~ msgid "All Desktops"
 #~ msgstr "എല്ലാ പണിയിടത്തിലും"
 
 #, fuzzy
-#~| msgid "Close"
 #~ msgid "Close Item"
 #~ msgstr "അടയ്ക്കുക"
 
@@ -407,7 +376,6 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ msgstr "&ഇടത്"
 
 #, fuzzy
-#~| msgid "Center"
 #~ msgid "&Center"
 #~ msgstr "മദ്ധ്യം"
 
@@ -415,7 +383,6 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ msgstr "&വലത്ത്"
 
 #, fuzzy
-#~| msgid "Keep above others"
 #~ msgid "Do not keep above others"
 #~ msgstr "മറ്റുള്ളവയുടെ മേലെ"
 
@@ -423,7 +390,6 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ msgstr "മറ്റുള്ളവയുടെ മേലെ"
 
 #, fuzzy
-#~| msgid "Keep below others"
 #~ msgid "Do not keep below others"
 #~ msgstr "മറ്റുള്ളവയുടെ കീഴെ"
 
@@ -431,22 +397,18 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ msgstr "മറ്റുള്ളവയുടെ കീഴെ"
 
 #, fuzzy
-#~| msgid "Maximize"
 #~ msgid "Maximum"
 #~ msgstr "വലുതാക്കുക"
 
 #, fuzzy
-#~| msgid "Shade"
 #~ msgid "Shadow style:"
 #~ msgstr "ചുരുക്കുക"
 
 #, fuzzy
-#~| msgid "Blend title bar colors with window contents"
 #~ msgid "Draw separator between title bar and window contents: "
 #~ msgstr "തലക്കെട്ടു് കാണിയ്ക്കുന്ന പട്ടയുടെ നിറങ്ങള്‍ ജാലകത്തിന്റെ ഉള്ളടക്കവുമായി കലര്‍ത്തുക"
 
 #, fuzzy
-#~| msgid "Blend title bar colors with window contents"
 #~ msgid "Draw Separator between title bar and active window contents "
 #~ msgstr "തലക്കെട്ടു് കാണിയ്ക്കുന്ന പട്ടയുടെ നിറങ്ങള്‍ ജാലകത്തിന്റെ ഉള്ളടക്കവുമായി കലര്‍ത്തുക"
 
@@ -582,29 +544,22 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ "വരയ്ക്കപ്പെടും. "
 
 #, fuzzy
-#~| msgid "Installs a KWM theme"
 #~ msgid "Get New Themes..."
 #~ msgstr "കെഡബ്ലിയുഎം പ്രമേയം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Installs a KWM theme"
 #~ msgid "Install New Theme..."
 #~ msgstr "കെഡബ്ലിയുഎം പ്രമേയം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Minimize Window"
 #~ msgid "Glow active window"
 #~ msgstr "ജാലകം ചെറുതാക്കുക"
 
 #, fuzzy
-#~| msgid "Blend title bar colors with window contents"
 #~ msgid "Draw separator between title bar and active window contents:"
 #~ msgstr "തലക്കെട്ടു് കാണിയ്ക്കുന്ന പട്ടയുടെ നിറങ്ങള്‍ ജാലകത്തിന്റെ ഉള്ളടക്കവുമായി കലര്‍ത്തുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "When enabled, this option increases the visibility of the window "
-#~| "titlebar by showing stripes"
 #~ msgid ""
 #~ "When enabled, this option makes an horizontal separator appear between "
 #~ "the window title bar and the window contents."
@@ -623,9 +578,6 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ msgstr "തലക്കെട്ട് കഴിഞ്ഞിട്ട് വരകള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "When enabled, this option increases the visibility of the window "
-#~| "titlebar by showing stripes"
 #~ msgid ""
 #~ "When enabled, this option increases the visibility of the window titlebar "
 #~ "by adding an horizontal bar between the title bar and the window contents"
@@ -634,17 +586,14 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ "ദൃശ്യപരത കൂട്ടും"
 
 #, fuzzy
-#~| msgid "Blend title bar colors with window contents"
 #~ msgid "Draw separator between title bar and window contents"
 #~ msgstr "തലക്കെട്ടു് കാണിയ്ക്കുന്ന പട്ടയുടെ നിറങ്ങള്‍ ജാലകത്തിന്റെ ഉള്ളടക്കവുമായി കലര്‍ത്തുക"
 
 #, fuzzy
-#~| msgid "Show stripes next to the title"
 #~ msgid "Show stripes next to the title:"
 #~ msgstr "തലക്കെട്ട് കഴിഞ്ഞിട്ട് വരകള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Blend title bar colors with window contents"
 #~ msgid "Blend title bar colors with window content:"
 #~ msgstr "തലക്കെട്ടു് കാണിയ്ക്കുന്ന പട്ടയുടെ നിറങ്ങള്‍ ജാലകത്തിന്റെ ഉള്ളടക്കവുമായി കലര്‍ത്തുക"
 
@@ -655,7 +604,6 @@ msgstr "ബട്ടണുകള്‍ ചലിപ്പിക്കുക"
 #~ msgstr "ഓസോണ്‍"
 
 #, fuzzy
-#~| msgid "Draw window frames using &titlebar colors"
 #~ msgid "Overwrite default title bar colors:"
 #~ msgstr "ജാലക ചട്ടക്കൂടിനെ &തലക്കെട്ടു് കാണിയ്ക്കുന്ന പട്ടയുടെ നിറങ്ങള്‍ കൊണ്ടു വരയ്ക്കുക"
 

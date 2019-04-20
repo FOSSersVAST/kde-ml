@@ -29,31 +29,26 @@ msgstr ""
 
 #: image.cpp:644
 #, fuzzy, kde-format
-#| msgid "Download new wallpapers"
 msgid "Download Wallpapers"
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ഡൌണ്‍ലോഡ് ചെയ്യുക"
 
 #: image.cpp:698
 #, fuzzy, kde-format
-#| msgid "Select Wallpaper Image File"
 msgid "Open Image"
 msgstr "പശ്ചാത്തലചിത്രത്തിനുള്ള ഫയല്‍ തെരഞ്ഞെടുക്കുക"
 
 #: image.cpp:700
 #, fuzzy, kde-format
-#| msgid "Images"
 msgid "Image Files"
 msgstr "ചിത്രങ്ങള്‍"
 
 #: imagepackage/contents/ui/config.qml:80
 #, fuzzy, kde-format
-#| msgid "P&ositioning:"
 msgid "Positioning:"
 msgstr "&സ്ഥാപനം:"
 
 #: imagepackage/contents/ui/config.qml:83
 #, fuzzy, kde-format
-#| msgid "Scaled & Cropped"
 msgid "Scaled and Cropped"
 msgstr "വലിപ്പം മാറ്റിയതും അറ്റം വെട്ടിചുരുക്കിയതും"
 
@@ -64,7 +59,6 @@ msgstr "വലിപ്പം മാറ്റിയത്"
 
 #: imagepackage/contents/ui/config.qml:91
 #, fuzzy, kde-format
-#| msgid "Scaled, keep proportions"
 msgid "Scaled, Keep Proportions"
 msgstr "ചിത്രത്തിന്റെ അനുപാതം മാറ്റാതെ വലിപ്പം മാറ്റിയത്"
 
@@ -100,7 +94,6 @@ msgstr ""
 
 #: imagepackage/contents/ui/config.qml:158
 #, fuzzy, kde-format
-#| msgid "&Change images every:"
 msgid "Change every:"
 msgstr "&ചിത്രങ്ങള്‍ മാറ്റേണ്ടതെത്ര സമയത്തിനുള്ളില്‍:"
 
@@ -121,25 +114,21 @@ msgstr ""
 
 #: imagepackage/contents/ui/config.qml:195
 #, fuzzy, kde-format
-#| msgid "&Remove Folder"
 msgid "Folders"
 msgstr "അറകള്‍ &നീക്കം ചെയ്യുക"
 
 #: imagepackage/contents/ui/config.qml:217
 #, fuzzy, kde-format
-#| msgid "&Remove Folder"
 msgid "Remove Folder"
 msgstr "അറകള്‍ &നീക്കം ചെയ്യുക"
 
 #: imagepackage/contents/ui/config.qml:222
 #, fuzzy, kde-format
-#| msgid "&Remove Folder"
 msgid "Open Folder"
 msgstr "അറകള്‍ &നീക്കം ചെയ്യുക"
 
 #: imagepackage/contents/ui/config.qml:248
 #, fuzzy, kde-format
-#| msgid "&Add Folder..."
 msgid "Add Folder..."
 msgstr "അറകള്‍ &ചേര്‍ക്കുക..."
 
@@ -156,13 +145,11 @@ msgstr ""
 
 #: imagepackage/contents/ui/main.qml:59
 #, fuzzy, kde-format
-#| msgid "Select Wallpaper Image File"
 msgid "Open Wallpaper Image"
 msgstr "പശ്ചാത്തലചിത്രത്തിനുള്ള ഫയല്‍ തെരഞ്ഞെടുക്കുക"
 
 #: imagepackage/contents/ui/main.qml:60
 #, fuzzy, kde-format
-#| msgid "Select Wallpaper Image File"
 msgid "Next Wallpaper Image"
 msgstr "പശ്ചാത്തലചിത്രത്തിനുള്ള ഫയല്‍ തെരഞ്ഞെടുക്കുക"
 
@@ -179,37 +166,30 @@ msgstr ""
 
 #: imagepackage/contents/ui/WallpaperDelegate.qml:51
 #, fuzzy, kde-format
-#| msgid "Get New Wallpapers..."
 msgid "Restore wallpaper"
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
 
 #: imagepackage/contents/ui/WallpaperDelegate.qml:56
 #, fuzzy, kde-format
-#| msgid "Get New Wallpapers..."
 msgid "Remove Wallpaper"
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
 
 #: imagepackage/platformcontents/phone/ui/config.qml:80
 #, fuzzy, kde-format
-#| msgid "Get New Wallpapers..."
 msgid "Add Custom Wallpaper"
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
 
 #: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:89
 #, fuzzy, kde-format
-#| msgid "Get New Wallpapers..."
 msgid "Remove wallpaper"
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
 
 #: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:119
 #, fuzzy, kde-format
-#| msgctxt "Caption to wallpaper preview, %1 author name"
-#| msgid "by %1"
 msgid "%1 by %2"
 msgstr "%1 വക"
 
 #, fuzzy
-#~| msgid "..."
 #~ msgid "Open..."
 #~ msgstr "..."
 
@@ -229,7 +209,6 @@ msgstr "%1 വക"
 #~ msgstr "&നിറം:"
 
 #, fuzzy
-#~| msgid "&Remove Folder"
 #~ msgid "Remove from list"
 #~ msgstr "അറകള്‍ &നീക്കം ചെയ്യുക"
 
@@ -240,12 +219,10 @@ msgstr "%1 വക"
 #~ msgstr "hh 'മണിക്കൂറുകള്‍' mm 'മിനിറ്റുകള്‍' ss 'സെക്കന്റുകള്‍'"
 
 #, fuzzy
-#~| msgid "Download new wallpapers"
 #~ msgid "&My downloaded wallpapers:"
 #~ msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ഡൌണ്‍ലോഡ് ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Folders:"
 #~ msgid "Custom folders:"
 #~ msgstr "അറകള്‍"
 

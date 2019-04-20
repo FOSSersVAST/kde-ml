@@ -251,13 +251,11 @@ msgstr "റെന്‍ഡറര്‍"
 
 #: opengl.cpp:632
 #, fuzzy, kde-format
-#| msgid "OpenGL version"
 msgid "OpenGL ES version"
 msgstr "ഓപ്പണ്‍ജീയെല്‍ പതിപ്പ്"
 
 #: opengl.cpp:634
 #, fuzzy, kde-format
-#| msgid "OpenGL version"
 msgid "OpenGL version"
 msgstr "ഓപ്പണ്‍ജീയെല്‍ പതിപ്പ്"
 
@@ -268,13 +266,11 @@ msgstr "കെര്‍ണല്‍ മൊഡ്യൂള്‍"
 
 #: opengl.cpp:643
 #, fuzzy, kde-format
-#| msgid "OpenGL extensions"
 msgid "OpenGL ES extensions"
 msgstr "ഓപ്പണ്‍ജീയെല്‍ അനുബന്ധങ്ങള്‍"
 
 #: opengl.cpp:645
 #, fuzzy, kde-format
-#| msgid "OpenGL extensions"
 msgid "OpenGL extensions"
 msgstr "ഓപ്പണ്‍ജീയെല്‍ അനുബന്ധങ്ങള്‍"
 
@@ -340,43 +336,36 @@ msgstr "ജീയെല്യു അനുബന്ധങ്ങള്‍"
 
 #: opengl.cpp:690
 #, fuzzy, kde-format
-#| msgid "GLX"
 msgid "EGL"
 msgstr "ജീയെല്ലെക്സ്"
 
 #: opengl.cpp:691
 #, fuzzy, kde-format
-#| msgid "Vendor"
 msgid "EGL Vendor"
 msgstr "വില്പനക്കാരന്‍"
 
 #: opengl.cpp:692
 #, fuzzy, kde-format
-#| msgid "GLU version"
 msgid "EGL Version"
 msgstr "ജീയെല്യു പതിപ്പ്"
 
 #: opengl.cpp:693
 #, fuzzy, kde-format
-#| msgid "GLX extensions"
 msgid "EGL Extensions"
 msgstr "ജീയെല്ലെക്സ് അനുബന്ധങ്ങള്‍"
 
 #: opengl.cpp:770
 #, fuzzy, kde-format
-#| msgid "Direct Rendering"
 msgid "Direct Rendering (GLX)"
 msgstr "നേരിട്ടുള്ള ചിത്രീകരണം"
 
 #: opengl.cpp:770
 #, fuzzy, kde-format
-#| msgid "Indirect Rendering"
 msgid "Indirect Rendering (GLX)"
 msgstr "നേരിട്ടുള്ളതല്ലാത്ത ചിത്രീകരണം"
 
 #: opengl.cpp:887
 #, fuzzy, kde-format
-#| msgid "Direct Rendering"
 msgid "Direct Rendering (EGL)"
 msgstr "നേരിട്ടുള്ള ചിത്രീകരണം"
 

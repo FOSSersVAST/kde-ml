@@ -41,7 +41,6 @@ msgstr "പേരു് മാറ്റുക"
 
 #: actionsimpl.cpp:107
 #, fuzzy, kde-format
-#| msgid "C&hange URL"
 msgid "C&hange Location"
 msgstr "യുആര്‍എല്‍ മാ&റ്റുക"
 
@@ -187,20 +186,17 @@ msgstr "&മോസിലാ ഓര്‍മ്മക്കുറിപ്പു�
 
 #: actionsimpl.cpp:298
 #, fuzzy, kde-format
-#| msgid "*.html|HTML Bookmark Listing"
 msgid "HTML Bookmark Listing (*.html)"
 msgstr "*.html|എച്ച്ടിഎംഎല്‍ ഓര്‍മ്മക്കുറിപ്പുകള്‍"
 
 #: actionsimpl.cpp:341
 #, fuzzy, kde-format
-#| msgid "Cut Items"
 msgctxt "(qtundo-format)"
 msgid "Cut Items"
 msgstr "വസ്തുക്കള്‍ മുറിയ്ക്കുക"
 
 #: actionsimpl.cpp:366
 #, fuzzy, kde-format
-#| msgid "Paste"
 msgctxt "(qtundo-format)"
 msgid "Paste"
 msgstr "ഒട്ടിയ്ക്കുക"
@@ -212,28 +208,24 @@ msgstr "പുതിയ അറ:"
 
 #: actionsimpl.cpp:378
 #, fuzzy, kde-format
-#| msgid "Create New Bookmark Folder"
 msgctxt "@title:window"
 msgid "Create New Bookmark Folder"
 msgstr "ഓര്‍മ്മക്കുറിപ്പിനുള്ള പുതിയ അറയുണ്ടാക്കുക"
 
 #: actionsimpl.cpp:505
 #, fuzzy, kde-format
-#| msgid "Recursive Sort"
 msgctxt "(qtundo-format)"
 msgid "Recursive Sort"
 msgstr "ആവര്‍ത്തിച്ചു് ക്രമത്തിലാക്കുക"
 
 #: actionsimpl.cpp:519
 #, fuzzy, kde-format
-#| msgid "Sort Alphabetically"
 msgctxt "(qtundo-format)"
 msgid "Sort Alphabetically"
 msgstr "അക്ഷരങ്ങളുടെ ക്രമത്തിലാക്കുക"
 
 #: actionsimpl.cpp:527
 #, fuzzy, kde-format
-#| msgid "Delete Items"
 msgctxt "(qtundo-format)"
 msgid "Delete Items"
 msgstr "വസ്തുക്കള്‍ വെട്ടിമാറ്റുക"
@@ -290,7 +282,6 @@ msgstr ""
 
 #: importers.cpp:57
 #, fuzzy, kde-format
-#| msgid "Import %1 Bookmarks"
 msgctxt "(qtundo-format)"
 msgid "Import %1 Bookmarks"
 msgstr "%1 ഓര്‍മ്മക്കുറിപ്പുകള്‍ അകത്തേക്കെടുക്കുക"
@@ -307,7 +298,6 @@ msgstr "പുതിയ ഒരു ഉള്ളറയായി അകത്തെ
 
 #: importers.cpp:94
 #, fuzzy, kde-format
-#| msgid "%1 Import"
 msgctxt "@title:window"
 msgid "%1 Import"
 msgstr "%1 അകത്തേക്കെടുക്കുക"
@@ -324,13 +314,11 @@ msgstr "മാറ്റിയെഴുതുക"
 
 #: importers.cpp:202
 #, fuzzy, kde-format
-#| msgid "*.xbel|Galeon Bookmark Files (*.xbel)"
 msgid "Galeon Bookmark Files (*.xbel)"
 msgstr "*.xbel|Galeon ഓര്‍മ്മക്കുറിപ്പു് ഫയലുകള്‍ (*.xbel)"
 
 #: importers.cpp:210
 #, fuzzy, kde-format
-#| msgid "*.xml|KDE Bookmark Files (*.xml)"
 msgid "KDE Bookmark Files (*.xml)"
 msgstr "*.xml|കെഡിഇയിലെ ഓര്‍മ്മക്കുറിപ്പു് ഫയലുകള്‍ (*.xml)"
 
@@ -373,8 +361,8 @@ msgstr "KBookmarkMerger"
 #, kde-format
 msgid "Merges bookmarks installed by 3rd parties into the user's bookmarks"
 msgstr ""
-"വേറെ മൂന്നാം കക്ഷികള്‍ വക ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെട്ട ഓര്‍മ്മകുറിപ്പുകള്‍ ഉപയോക്താവിന്റെ "
-"ഓര്‍മ്മകുറിപ്പുകളിലേയ്ക്കു് ചേര്‍ക്കുന്നു"
+"വേറെ മൂന്നാം കക്ഷികള്‍ വക ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെട്ട ഓര്‍മ്മകുറിപ്പുകള്‍ ഉപയോക്താവിന്റെ ഓര്‍"
+"മ്മകുറിപ്പുകളിലേയ്ക്കു് ചേര്‍ക്കുന്നു"
 
 #: kbookmarkmerger.cpp:51
 #, kde-format
@@ -398,119 +386,102 @@ msgstr "കൂടുതല്‍ ഓര്‍മ്മക്കുറിപ്�
 
 #: kbookmarkmodel/commands.cpp:68
 #, fuzzy, kde-format
-#| msgid "Insert Separator"
 msgctxt "(qtundo-format)"
 msgid "Insert Separator"
 msgstr "വിടവടയാളം ചേര്‍ക്കുക"
 
 #: kbookmarkmodel/commands.cpp:77
 #, fuzzy, kde-format
-#| msgid "Create Bookmark"
 msgctxt "(qtundo-format)"
 msgid "Create Bookmark"
 msgstr "ഓര്‍മ്മക്കുറിപ്പുണ്ടാക്കുക"
 
 #: kbookmarkmodel/commands.cpp:86
 #, fuzzy, kde-format
-#| msgid "Create Folder"
 msgctxt "(qtundo-format)"
 msgid "Create Folder"
 msgstr "അറയുണ്ടാക്കുക"
 
 #: kbookmarkmodel/commands.cpp:95
 #, fuzzy, kde-format
-#| msgid "Copy %1"
 msgctxt "(qtundo-format)"
 msgid "Copy %1"
 msgstr "%1 പകര്‍ത്തുക"
 
 #: kbookmarkmodel/commands.cpp:186
 #, fuzzy, kde-format
-#| msgid "%1 Change"
 msgctxt "(qtundo-format)"
 msgid "Icon Change"
 msgstr "%1 മാറ്റം"
 
 #: kbookmarkmodel/commands.cpp:188
 #, fuzzy, kde-format
-#| msgid "%1 Change"
 msgctxt "(qtundo-format)"
 msgid "Title Change"
 msgstr "%1 മാറ്റം"
 
 #: kbookmarkmodel/commands.cpp:190
 #, fuzzy, kde-format
-#| msgid "%1 Change"
 msgctxt "(qtundo-format)"
 msgid "URL Change"
 msgstr "%1 മാറ്റം"
 
 #: kbookmarkmodel/commands.cpp:192
 #, fuzzy, kde-format
-#| msgid "Comment"
 msgctxt "(qtundo-format)"
 msgid "Comment Change"
 msgstr "അഭിപ്രായം"
 
 #: kbookmarkmodel/commands.cpp:367
 #, fuzzy, kde-format
-#| msgid "Move %1"
 msgctxt "(qtundo-format)"
 msgid "Move %1"
 msgstr "%1 നീക്കുക"
 
 #: kbookmarkmodel/commands.cpp:487
 #, fuzzy, kde-format
-#| msgid "Set as Bookmark Toolbar"
 msgctxt "(qtundo-format)"
 msgid "Set as Bookmark Toolbar"
 msgstr "ഓര്‍മ്മക്കുറിപ്പിനുള്ള ഉപരണപട്ടയായി സജ്ജമാക്കുക"
 
 #: kbookmarkmodel/commands.cpp:522
 #, fuzzy, kde-format
-#| msgid "Copy Items"
 msgctxt "(qtundo-format)"
 msgid "Copy Items"
 msgstr "വസ്തുക്കള്‍ പകര്‍ത്തുക"
 
 #: kbookmarkmodel/commands.cpp:523
 #, fuzzy, kde-format
-#| msgid "Move Items"
 msgctxt "(qtundo-format)"
 msgid "Move Items"
 msgstr "വസ്തുക്കള്‍ നീക്കുക"
 
 #: kbookmarkmodel/model.cpp:115
 #, fuzzy, kde-format
-#| msgid "Bookmarks"
 msgctxt "name of the container of all browser bookmarks"
 msgid "Bookmarks"
 msgstr "ഓര്‍മ്മക്കുറിപ്പുകള്‍"
 
 #: kbookmarkmodel/model.cpp:219
 #, fuzzy, kde-format
-#| msgid "Name:"
 msgctxt "@title:column name of a bookmark"
 msgid "Name"
 msgstr "പേരു്:"
 
 #: kbookmarkmodel/model.cpp:223
 #, fuzzy, kde-format
-#| msgid "Location:"
 msgctxt "@title:column name of a bookmark"
 msgid "Location"
 msgstr "സ്ഥാനം:"
 
 #: kbookmarkmodel/model.cpp:227
 #, fuzzy, kde-format
-#| msgid "Comment"
 msgctxt "@title:column comment for a bookmark"
 msgid "Comment"
 msgstr "അഭിപ്രായം"
 
 #: kbookmarkmodel/model.cpp:231
 #, fuzzy, kde-format
-#| msgid "Status"
 msgctxt "@title:column status of a bookmark"
 msgid "Status"
 msgstr "അവസ്ഥ"
@@ -610,7 +581,6 @@ msgstr ""
 
 #: main.cpp:69
 #, fuzzy, kde-format
-#| msgid "Warning"
 msgctxt "@title:window"
 msgid "Warning"
 msgstr "മുന്നറിയിപ്പു്"
@@ -637,7 +607,6 @@ msgstr "ഓര്‍മ്മക്കുറിപ്പുകള്‍ അട�
 
 #: main.cpp:109
 #, fuzzy, kde-format
-#| msgid "Copyright 2000-2007, KDE developers"
 msgid "Copyright 2000-2017, KDE developers"
 msgstr "Copyright 2000-2007, കെഡിഇയുടെ രചയിതാക്കള്‍"
 
@@ -685,13 +654,11 @@ msgstr "ഓപ്പെറാ ഫോര്‍മാറ്റിലുള്ള �
 
 #: main.cpp:126
 #, fuzzy, kde-format
-#| msgid "Import bookmarks from a file in Opera format"
 msgid "Import bookmarks from a file in KDE2 format"
 msgstr "ഓപ്പെറാ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലില്‍ നിന്നും ഓര്‍മ്മക്കുറിപ്പുകള്‍ എടുക്കുക"
 
 #: main.cpp:127
 #, fuzzy, kde-format
-#| msgid "Import bookmarks from a file in Opera format"
 msgid "Import bookmarks from a file in Galeon format"
 msgstr "ഓപ്പെറാ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലില്‍ നിന്നും ഓര്‍മ്മക്കുറിപ്പുകള്‍ എടുക്കുക"
 
@@ -739,12 +706,6 @@ msgstr "ബ്രൌസര്‍ സംബന്ധിച്ചുള്ള ഫ�
 
 #: main.cpp:136
 #, fuzzy, kde-format
-#| msgid ""
-#| "A unique name that represents this bookmark collection, usually the "
-#| "kinstance name.\n"
-#| "This should be \"konqueror\" for the Konqueror bookmarks, \"kfile\" for "
-#| "KFileDialog bookmarks, etc.\n"
-#| "The final DBus object path is /KBookmarkManager/dbusObjectName"
 msgid ""
 "A unique name that represents this bookmark collection, usually the "
 "kinstance name.\n"

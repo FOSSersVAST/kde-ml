@@ -62,14 +62,12 @@ msgstr "പ്രസക്തമായ ഉപകരണങ്ങളെ കാണ�
 
 #: devicelisting.cpp:101
 #, fuzzy, kde-format
-#| msgid "Unknown"
 msgctxt "unknown device type"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
 
 #: devicelisting.cpp:142 devinfo.cpp:87
 #, fuzzy, kde-format
-#| msgid "None"
 msgctxt "no device UDI"
 msgid "None"
 msgstr "ഒന്നുമില്ല"
@@ -81,7 +79,6 @@ msgstr "kcmdevinfo"
 
 #: devinfo.cpp:33
 #, fuzzy, kde-format
-#| msgid "KDE Solid Based Device Viewer"
 msgid "Device Viewer"
 msgstr "കെഡിഇയിലെ സോളിഡ് അധിഷ്ടിത ഉപകരണദര്‍ശിനി"
 
@@ -143,14 +140,12 @@ msgstr "അല്ല"
 
 #: infopanel.h:57
 #, fuzzy, kde-format
-#| msgid "Unknown"
 msgctxt "name of something is not known"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
 
 #: soldevice.cpp:72
 #, fuzzy, kde-format
-#| msgid "Unknown"
 msgctxt "unknown device"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
@@ -208,7 +203,6 @@ msgstr "എടിഐ IVEC"
 
 #: soldevicetypes.cpp:98
 #, fuzzy, kde-format
-#| msgid "None"
 msgctxt "no instruction set extensions"
 msgid "None"
 msgstr "ഒന്നുമില്ല"
@@ -300,14 +294,12 @@ msgstr "സാട്ട"
 
 #: soldevicetypes.cpp:208
 #, fuzzy, kde-format
-#| msgid "Platform"
 msgctxt "platform storage bus"
 msgid "Platform"
 msgstr "അടിത്തറ"
 
 #: soldevicetypes.cpp:211
 #, fuzzy, kde-format
-#| msgid "Unknown"
 msgctxt "unknown storage bus"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
@@ -354,7 +346,6 @@ msgstr "എന്‍ക്രിപ്റ്റ് ചെയ്തതു്"
 
 #: soldevicetypes.cpp:277
 #, fuzzy, kde-format
-#| msgid "Unknown"
 msgctxt "unknown volume usage"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
@@ -489,7 +480,6 @@ msgstr ""
 
 #: soldevicetypes.cpp:475
 #, fuzzy, kde-format
-#| msgid "Unknown"
 msgctxt "unknown battery type"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
@@ -506,7 +496,6 @@ msgstr "ചാര്‍ജ്ജ് ഉപയോഗിയ്ക്കുന്�
 
 #: soldevicetypes.cpp:487
 #, fuzzy, kde-format
-#| msgid "No Charge"
 msgid "Fully Charged"
 msgstr "ചാര്‍ജ്ജ് ഇല്ല"
 
@@ -527,7 +516,6 @@ msgstr "ചാര്‍ജിന്റെ  നിജസ്ഥിതി: "
 
 #: soldevicetypes.cpp:497
 #, fuzzy, kde-format
-#| msgid "Charge Status: "
 msgid "Charge Percent: "
 msgstr "ചാര്‍ജിന്റെ  നിജസ്ഥിതി: "
 
@@ -568,7 +556,6 @@ msgstr "ചാര്‍ജിന്റെ  നിജസ്ഥിതി: "
 #~ msgstr "ഔട്ട്പുട്ട്"
 
 #, fuzzy
-#~| msgid "Unknown"
 #~ msgctxt "unknown audio interface type"
 #~ msgid "Unknown"
 #~ msgstr "അജ്ഞാതം"
@@ -589,7 +576,6 @@ msgstr "ചാര്‍ജിന്റെ  നിജസ്ഥിതി: "
 #~ msgstr "മോഡം"
 
 #, fuzzy
-#~| msgid "Unknown"
 #~ msgctxt "unknown sound card type"
 #~ msgid "Unknown"
 #~ msgstr "അജ്ഞാതം"
@@ -667,19 +653,16 @@ msgstr "ചാര്‍ജിന്റെ  നിജസ്ഥിതി: "
 #~ msgstr "സീരിയല്‍ ഉപകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Platform"
 #~ msgctxt "platform serial interface type"
 #~ msgid "Platform"
 #~ msgstr "അടിത്തറ"
 
 #, fuzzy
-#~| msgid "Unknown"
 #~ msgctxt "unknown serial interface type"
 #~ msgid "Unknown"
 #~ msgstr "അജ്ഞാതം"
 
 #, fuzzy
-#~| msgid "Unknown"
 #~ msgctxt "unknown port"
 #~ msgid "Unknown"
 #~ msgstr "അജ്ഞാതം"
@@ -700,7 +683,6 @@ msgstr "ചാര്‍ജിന്റെ  നിജസ്ഥിതി: "
 #~ msgstr "ക്രിപ്റ്റോ ടോക്കണ്‍"
 
 #, fuzzy
-#~| msgid "Unknown"
 #~ msgctxt "unknown smart card type"
 #~ msgid "Unknown"
 #~ msgstr "അജ്ഞാതം"

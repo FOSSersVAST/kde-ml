@@ -31,7 +31,6 @@ msgstr "peter.ani@gmail.com"
 
 #: main.cpp:52
 #, fuzzy, kde-format
-#| msgid "Plasma Widget Viewer"
 msgid "Plasmoidviewer"
 msgstr "പ്ലാസ്മാ വിഡ്ജറ്റ് വ്യൂവര്‍"
 
@@ -42,20 +41,16 @@ msgstr "സ്വന്തം ജാലകത്തില്‍ പ്ലാസ�
 
 #: main.cpp:64
 #, fuzzy, kde-format
-#| msgid "Name of the containment plugin"
 msgid "The name of the containment plugin"
 msgstr "കണ്ടൈന്‍മെന്റ് സംയോജകത്തിന്റെ പേരു്"
 
 #: main.cpp:66
 #, fuzzy, kde-format
-#| msgid "Name of the wallpaper plugin"
 msgid "The name of the applet plugin"
 msgstr "ചുമര്‍ച്ചിത്രത്തിനുള്ള സംയോജകത്തിന്റെ പേരു്"
 
 #: main.cpp:68
 #, fuzzy, kde-format
-#| msgctxt "Do not translate horizontal, vertical, mediacenter nor planar"
-#| msgid "The formfactor to use (horizontal, vertical, mediacenter or planar)"
 msgid ""
 "The formfactor to use (horizontal, vertical, mediacenter, planar or "
 "application)"
@@ -85,7 +80,6 @@ msgstr ""
 
 #: main.cpp:83
 #, fuzzy, kde-format
-#| msgid "The size in KB to set the pixmap cache to"
 msgid "The size in kB to set the pixmap cache to"
 msgstr "പിക്സ്മാപ്പ് കാഷേയ്ക്കു് വ്യാപ്തി (KB)"
 
@@ -131,17 +125,14 @@ msgstr ""
 #~ msgstr "അറിയാവുന്ന ലഘുപ്രയോഗങ്ങളുടെ പട്ടിക കാണിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Displays a list of known applets"
 #~ msgid "Displays a list of known wallpapers"
 #~ msgstr "അറിയാവുന്ന ലഘുപ്രയോഗങ്ങളുടെ പട്ടിക കാണിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Displays a list of known applets"
 #~ msgid "Displays a list of known containments"
 #~ msgstr "അറിയാവുന്ന ലഘുപ്രയോഗങ്ങളുടെ പട്ടിക കാണിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Displays a list of known applets"
 #~ msgid "Displays a list of known themes"
 #~ msgstr "അറിയാവുന്ന ലഘുപ്രയോഗങ്ങളുടെ പട്ടിക കാണിയ്ക്കുന്നു"
 

@@ -70,8 +70,6 @@ msgstr "ഒരു പ്രക്രിയ പ്രവര്‍ത്തിപ�
 
 #: scripts/smaps/smaps.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Memory information"
 msgctxt "Name"
 msgid "Detailed Memory Information"
 msgstr "മെമ്മറിയെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"

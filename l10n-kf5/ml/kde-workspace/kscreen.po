@@ -1,0 +1,45 @@
+# Malayalam translations for kscreen package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the kscreen package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kscreen\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-01-08 03:14+0100\n"
+"PO-Revision-Date: 2019-01-08 03:14+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: daemon.cpp:86
+msgid "Switch Display"
+msgstr ""
+
+#: osdaction.cpp:49
+msgid "Switch to external screen"
+msgstr ""
+
+#: osdaction.cpp:50
+msgid "Switch to laptop screen"
+msgstr ""
+
+#: osdaction.cpp:51
+msgid "Unify outputs"
+msgstr ""
+
+#: osdaction.cpp:52
+msgid "Extend to left"
+msgstr ""
+
+#: osdaction.cpp:53
+msgid "Extend to right"
+msgstr ""
+
+#: osdaction.cpp:54
+msgid "Leave unchanged"
+msgstr ""

@@ -1,0 +1,174 @@
+# Malayalam translations for kalgebra package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the kalgebra package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kalgebra\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-03-08 03:26+0100\n"
+"PO-Revision-Date: 2019-03-08 03:26+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.cpp:47
+#, kde-format
+msgid "A portable calculator"
+msgstr ""
+
+#: main.cpp:48
+#, kde-format
+msgid "(C) 2006-2018 Aleix Pol i Gonzalez"
+msgstr ""
+
+#: main.cpp:50
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: main.cpp:50
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: plugins/About.qml:28
+#, kde-format
+msgid "KAlgebra Mobile"
+msgstr ""
+
+#: plugins/About.qml:31
+#, kde-format
+msgid "A simple scientific calculator"
+msgstr ""
+
+#: plugins/Console.qml:58
+#, kde-format
+msgid "Load Script..."
+msgstr ""
+
+#: plugins/Console.qml:62 plugins/Console.qml:72
+#, kde-format
+msgid "Script (*.kal)"
+msgstr ""
+
+#: plugins/Console.qml:68
+#, kde-format
+msgid "Save Script..."
+msgstr ""
+
+#: plugins/Console.qml:79
+#, kde-format
+msgid "Export Log..."
+msgstr ""
+
+#: plugins/Console.qml:83
+#, kde-format
+msgid "HTML (*.html)"
+msgstr ""
+
+#: plugins/Console.qml:90
+#, kde-format
+msgid "Evaluate..."
+msgstr ""
+
+#: plugins/Console.qml:90
+#, kde-format
+msgid "Calculate..."
+msgstr ""
+
+#: plugins/Console.qml:96
+#, kde-format
+msgid "Clear Log"
+msgstr ""
+
+#: plugins/Console.qml:111
+#, kde-format
+msgid "Copy \"%1\""
+msgstr ""
+
+#: plugins/Console.qml:121
+#, kde-format
+msgid "2D Plot"
+msgstr ""
+
+#: plugins/Console.qml:128
+#, kde-format
+msgid "3D Plot"
+msgstr ""
+
+#: plugins/Plot2D.qml:47 plugins/Plot3D.qml:46
+#, kde-format
+msgid "Save..."
+msgstr ""
+
+#: plugins/Plot2D.qml:60
+#, kde-format
+msgid "View Grid"
+msgstr ""
+
+#: plugins/Plot2D.qml:66 plugins/Plot3D.qml:59
+#, kde-format
+msgid "Reset Viewport"
+msgstr ""
+
+#: plugins/Plot2D.qml:111 plugins/Plot3D.qml:107
+#, kde-format
+msgid "Clear All"
+msgstr ""
+
+#: plugins/Tables.qml:47
+#, kde-format
+msgid "Errors: The step cannot be 0"
+msgstr ""
+
+#: plugins/Tables.qml:49
+#, kde-format
+msgid "Errors: The start and end are the same"
+msgstr ""
+
+#: plugins/Tables.qml:51
+#, kde-format
+msgid "Errors: %1"
+msgstr ""
+
+#: plugins/Tables.qml:79
+#, kde-format
+msgid "Input:"
+msgstr ""
+
+#: plugins/Tables.qml:86
+#, kde-format
+msgid "From:"
+msgstr ""
+
+#: plugins/Tables.qml:87
+#, kde-format
+msgid "To:"
+msgstr ""
+
+#: plugins/Tables.qml:88
+#, kde-format
+msgid "Step:"
+msgstr ""
+
+#: plugins/Tables.qml:93
+#, kde-format
+msgid "Run"
+msgstr ""
+
+#: plugins/Tables.qml:110
+#, kde-format
+msgid "Results:"
+msgstr ""
+
+#: plugins/widgets/qtcontrols/ExpressionInput.qml:73
+#, kde-format
+msgid "Expression to calculate..."
+msgstr ""

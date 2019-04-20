@@ -20,7 +20,6 @@ msgstr ""
 
 #: akregatorplugin.cpp:74
 #, fuzzy, kde-format
-#| msgid "Add Feed to Akregator"
 msgctxt "@action:inmenu"
 msgid "Add Feed to Akregator"
 msgstr "അക്രിഗേറ്ററില്‍ ഫീഡ് കൂട്ടിച്ചേര്‍ക്കുക"

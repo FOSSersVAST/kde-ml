@@ -46,7 +46,6 @@ msgstr ""
 
 #: package/contents/ui/configGeneral.qml:54
 #, fuzzy, kde-format
-#| msgid "No devices plugged in"
 msgid "Open popup when new device is plugged in"
 msgstr "ഉപകരണങ്ങളൊന്നും കുത്തിയിട്ടില്ല"
 
@@ -72,8 +71,6 @@ msgstr ""
 
 #: package/contents/ui/DeviceItem.qml:199
 #, fuzzy, kde-format
-#| msgid "1 action for this device"
-#| msgid_plural "%1 actions for this device"
 msgid "It is currently safe to remove this device."
 msgstr "%1 ഈ ഉപകരണത്തിനെടുക്കേണ്ട നടപടി"
 
@@ -90,8 +87,6 @@ msgstr ""
 
 #: package/contents/ui/DeviceItem.qml:271
 #, fuzzy, kde-format
-#| msgid "1 action for this device"
-#| msgid_plural "%1 actions for this device"
 msgid "1 action for this device"
 msgid_plural "%1 actions for this device"
 msgstr[0] "%1 ഈ ഉപകരണത്തിനെടുക്കേണ്ട നടപടി"
@@ -121,21 +116,17 @@ msgstr ""
 
 #: package/contents/ui/devicenotifier.qml:62
 #, fuzzy, kde-format
-#| msgid "Last plugged in device: %1"
 msgid "Most Recent Device"
 msgstr "അവസാനമായി കുത്തിയ ഉപകരണം: %1"
 
 #: package/contents/ui/devicenotifier.qml:236
 #, fuzzy, kde-format
-#| msgid "Configure New Device Notifier"
 msgctxt "Open auto mounter kcm"
 msgid "Configure Removable Devices"
 msgstr "പുതിയ ഉപകരണത്തിനുള്ള അറിയിപ്പു് ക്രമീകരിയ്ക്കുക"
 
 #: package/contents/ui/FullRepresentation.qml:121
 #, fuzzy, kde-format
-#| msgid "1 action for this device"
-#| msgid_plural "%1 actions for this device"
 msgid "Click to safely remove all devices"
 msgstr "%1 ഈ ഉപകരണത്തിനെടുക്കേണ്ട നടപടി"
 
@@ -151,33 +142,23 @@ msgstr ""
 
 #: package/contents/ui/FullRepresentation.qml:201
 #, fuzzy, kde-format
-#| msgid "1 action for this device"
-#| msgid_plural "%1 actions for this device"
 msgid "Click to eject this disc."
 msgstr "%1 ഈ ഉപകരണത്തിനെടുക്കേണ്ട നടപടി"
 
 #: package/contents/ui/FullRepresentation.qml:203
 #, fuzzy, kde-format
-#| msgid "1 action for this device"
-#| msgid_plural "%1 actions for this device"
 msgid "Click to safely remove this device."
 msgstr "%1 ഈ ഉപകരണത്തിനെടുക്കേണ്ട നടപടി"
 
 #, fuzzy
-#~| msgid "No devices plugged in"
 #~ msgid "No devices available"
 #~ msgstr "ഉപകരണങ്ങളൊന്നും കുത്തിയിട്ടില്ല"
 
 #, fuzzy
-#~| msgid "1 action for this device"
-#~| msgid_plural "%1 actions for this device"
 #~ msgid "Click to mount this device."
 #~ msgstr "%1 ഈ ഉപകരണത്തിനെടുക്കേണ്ട നടപടി"
 
 #, fuzzy
-#~| msgid ""
-#~| "Cannot unmount the device.\n"
-#~| "One or more files on this device are open within an application."
 #~ msgid ""
 #~ "Could not unmount device %1.\n"
 #~ "One or more files on this device are open within an application."
@@ -193,17 +174,14 @@ msgstr "%1 ഈ ഉപകരണത്തിനെടുക്കേണ്ട ന�
 #~ "ഈ ഉപകരണത്തിലെ ഒന്നോ അതിലധികമോ ഫയലുകള്‍ ഒരു പ്രയോഗത്തില്‍ തുറന്നിട്ടുണ്ടു്."
 
 #, fuzzy
-#~| msgid "Last plugged in device: %1"
 #~ msgid "Could not mount device %1."
 #~ msgstr "അവസാനമായി കുത്തിയ ഉപകരണം: %1"
 
 #, fuzzy
-#~| msgid "<font color=\"%1\">Devices recently plugged in:</font>"
 #~ msgid "Devices recently plugged in:"
 #~ msgstr "<font color=\"%1\">അടുത്തിടെ കുത്തിയ ഉപകരണങ്ങള്‍:</font>"
 
 #, fuzzy
-#~| msgid " sec"
 #~ msgid " second"
 #~ msgid_plural " seconds"
 #~ msgstr[0] "സെ"

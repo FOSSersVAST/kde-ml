@@ -21,15 +21,12 @@ msgstr ""
 
 #: contents/ui/main.qml:100
 #, fuzzy, kde-format
-#| msgid "&Open"
 msgctxt "a verb"
 msgid "Open"
 msgstr "&തുറക്കുക"
 
 #: contents/ui/main.qml:101
 #, fuzzy, kde-format
-#| msgctxt "The trash is empty. This is not an action, but a state"
-#| msgid "Empty"
 msgctxt "a verb"
 msgid "Empty"
 msgstr "കാലി"
@@ -41,7 +38,6 @@ msgstr ""
 
 #: contents/ui/main.qml:154
 #, fuzzy, kde-format
-#| msgid "Trash"
 msgid ""
 "Trash\n"
 "Empty"
@@ -49,8 +45,6 @@ msgstr "ചവറ്റുകുട്ട"
 
 #: contents/ui/main.qml:154
 #, fuzzy, kde-format
-#| msgid "One item"
-#| msgid_plural "%1 items"
 msgid ""
 "Trash\n"
 "One item"
@@ -67,29 +61,21 @@ msgstr "ചവറ്റുകുട്ട"
 
 #: contents/ui/main.qml:164
 #, fuzzy, kde-format
-#| msgctxt "The trash is empty. This is not an action, but a state"
-#| msgid "Empty"
 msgid "Empty"
 msgstr "കാലി"
 
 #: contents/ui/main.qml:164
 #, fuzzy, kde-format
-#| msgid "One item"
-#| msgid_plural "%1 items"
 msgid "One item"
 msgid_plural "%1 items"
 msgstr[0] "ഒരു വസ്തു"
 msgstr[1] "%1 വസ്തുക്കള്‍"
 
 #, fuzzy
-#~| msgctxt "@action:button"
-#~| msgid "Empty Trash"
 #~ msgid "Empty Trash"
 #~ msgstr "ചവറ്റുകുട്ട കാലിയാക്കുക"
 
 #, fuzzy
-#~| msgctxt "@info"
-#~| msgid "Do you really want to empty the trash? All items will be deleted."
 #~ msgid ""
 #~ "Do you really want to empty the trash ? All the items will be deleted."
 #~ msgstr "ചവറ്റുകുട്ട കാലിയാക്കിയാല്‍ വസ്തുക്കളെല്ലാം നഷ്ടമാകും, അങ്ങനെ ചെയ്യണമോ?"
@@ -101,13 +87,10 @@ msgstr[1] "%1 വസ്തുക്കള്‍"
 #~ msgstr "&മെനു"
 
 #, fuzzy
-#~| msgctxt "@action:button"
-#~| msgid "Empty Trash"
 #~ msgctxt "@title:window"
 #~ msgid "Empty Trash"
 #~ msgstr "ചവറ്റുകുട്ട കാലിയാക്കുക"
 
 #, fuzzy
-#~| msgid "&Empty Trashcan"
 #~ msgid "Emptying Trashcan..."
 #~ msgstr "ചവറ്റുകുട്ട &കാലിയാക്കുക"

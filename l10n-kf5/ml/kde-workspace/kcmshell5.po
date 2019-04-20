@@ -35,13 +35,11 @@ msgstr ""
 
 #: main.cpp:194
 #, fuzzy, kde-format
-#| msgid "A tool to start single KDE control modules"
 msgid "A tool to start single system settings modules"
 msgstr "കെഡിയിലെ ഒരു നിയന്ത്രണ മൊഡ്യൂളുകള്‍ തുടങ്ങാനുള്ള പണിയായുധം"
 
 #: main.cpp:196
 #, fuzzy, kde-format
-#| msgid "(c) 1999-2004, The KDE Developers"
 msgid "(c) 1999-2016, The KDE Developers"
 msgstr "(C) 1999-2004, കെഡിഇലെ രചയിതാക്കള്‍"
 

@@ -24,8 +24,6 @@ msgstr ""
 
 #: applets/icontasks/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Task Manager"
 msgctxt "Name"
 msgid "Icons-only Task Manager"
 msgstr "ടാസ്ക് മാനേജര്‍"
@@ -38,8 +36,6 @@ msgstr "പ്രവര്‍ത്തിക്കുന്ന പ്രവര�
 
 #: applets/kicker/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Application Menu"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
@@ -87,16 +83,12 @@ msgstr "വര്‍ച്ചുവല്‍ പണിയിടങ്ങള്�
 #: applets/showActivityManager/package/metadata.desktop:2
 #: kcms/activities/kcm_activities.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Activity Manager"
 msgctxt "Name"
 msgid "Activities"
 msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
 
 #: applets/showActivityManager/package/metadata.desktop:60
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Activity Manager"
 msgctxt "Comment"
 msgid "Shows the activity manager"
 msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
@@ -118,8 +110,6 @@ msgstr ""
 
 #: applets/window-list/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window List"
 msgctxt "Name"
 msgid "Window list"
 msgstr "ജാലകങ്ങളുടെ പട്ടിക"
@@ -142,8 +132,6 @@ msgstr ""
 
 #: containments/folder/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Font Viewer"
 msgctxt "Name"
 msgid "Folder View"
 msgstr "അക്ഷരസഞ്ചയദര്‍ശിനി"
@@ -155,8 +143,6 @@ msgstr ""
 
 #: containments/panel/metadata.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Panel"
 msgctxt "Name"
 msgid "Panel"
 msgstr "പാളി"
@@ -164,8 +150,6 @@ msgstr "പാളി"
 #: containments/panel/plasma-containment-panel.desktop:2
 #: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Panel"
 msgctxt "Name"
 msgid "Empty Panel"
 msgstr "പാളി"
@@ -187,8 +171,6 @@ msgstr ""
 
 #: desktoppackage/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Desktop Magnifier"
 msgctxt "Comment"
 msgid "Desktop view furniture"
 msgstr "പണിയിടം വലുതാക്കാന്‍"
@@ -312,8 +294,6 @@ msgstr "സാമീപ്യത"
 
 #: kcms/access/kcmaccess.desktop:110
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Accessibility"
 msgctxt "Comment"
 msgid "Accessibility Options"
 msgstr "സാമീപ്യത"
@@ -339,8 +319,6 @@ msgstr "ഓട്ടോസ്റ്റാര്‍ട്ട്"
 
 #: kcms/autostart/autostart.desktop:103
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Launcher to start applications"
 msgctxt "Comment"
 msgid "Automatically Started Applications"
 msgstr "പ്രയോഗങ്ങള്‍ ആരംഭിക്കുന്നതിനു് സഹായിക്കുന്ന സംവിധാനം"
@@ -352,16 +330,12 @@ msgstr ""
 
 #: kcms/baloo/kcm_baloofile.desktop:15
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "File Path"
 msgctxt "Name"
 msgid "File Search"
 msgstr "ഫയല്‍ വഴി"
 
 #: kcms/baloo/kcm_baloofile.desktop:58
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure the spell checker"
 msgctxt "Comment"
 msgid "Configure File Search"
 msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
@@ -373,8 +347,6 @@ msgstr ""
 
 #: kcms/colors/colorschemes.knsrc:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cursor Files"
 msgctxt "Name"
 msgid "Color Schemes"
 msgstr "കര്‍സര്‍ ഫയലുകള്‍"
@@ -401,8 +373,6 @@ msgstr "നിറങ്ങള്‍"
 
 #: kcms/colors/kcm_colors.desktop:106 kcms/colors/package/metadata.desktop:93
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
 msgid "Choose color scheme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
@@ -466,8 +436,6 @@ msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
 
 #: kcms/componentchooser/componentchooser.desktop:98
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Default Applications"
 msgctxt "Comment"
 msgid "Default Applications"
 msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
@@ -496,8 +464,6 @@ msgstr ""
 
 #: kcms/componentchooser/componentservices/kcm_filemanager.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Task Manager"
 msgctxt "Name|standard desktop component"
 msgid "File Manager"
 msgstr "ടാസ്ക് മാനേജര്‍"
@@ -558,8 +524,6 @@ msgstr ""
 #: kcms/cursortheme/package/metadata.desktop:2
 #: kcms/cursortheme/xcursor/xcursor.knsrc:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cursor Files"
 msgctxt "Name"
 msgid "Cursors"
 msgstr "കര്‍സര്‍ ഫയലുകള്‍"
@@ -567,8 +531,6 @@ msgstr "കര്‍സര്‍ ഫയലുകള്‍"
 #: kcms/cursortheme/kcm_cursortheme.desktop:52
 #: kcms/cursortheme/package/metadata.desktop:40
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
 msgid "Choose mouse cursor theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
@@ -587,8 +549,6 @@ msgstr "തീയതിയും സമയവും"
 
 #: kcms/dateandtime/clock.desktop:108
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Date & Time"
 msgctxt "Comment"
 msgid "Date and Time"
 msgstr "തീയതിയും സമയവും"
@@ -616,8 +576,6 @@ msgstr "സിസ്റ്റത്തിലെ നയങ്ങള്‍ തി�
 
 #: kcms/desktoppaths/desktoppath.desktop:13
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Manage Notifications"
 msgctxt "Name"
 msgid "Locations"
 msgstr "അറിയിപ്പുകള്‍ കൈകാര്യം ചെയ്യുക"
@@ -643,16 +601,12 @@ msgstr ""
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:38
 #: kcms/desktoptheme/package/metadata.desktop:27
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
 msgid "Choose Plasma theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:60
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Theme Details"
 msgctxt "X-KDE-Keywords"
 msgid "Desktop Theme"
 msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
@@ -669,16 +623,12 @@ msgstr "വികാരചിഹ്നങ്ങള്‍"
 
 #: kcms/emoticons/emoticons.desktop:96
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
 msgid "Choose emoticon theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
 #: kcms/emoticons/emoticons.desktop:118
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Emoticons"
 msgctxt "X-KDE-Keywords"
 msgid "Emoticons"
 msgstr "വികാരചിഹ്നങ്ങള്‍"
@@ -692,8 +642,6 @@ msgstr "അക്ഷരസഞ്ചയങ്ങള്‍"
 
 #: kcms/fonts/kcm_fonts.desktop:106 kcms/fonts/package/metadata.desktop:94
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Manage system-wide fonts."
 msgctxt "Comment"
 msgid "Configure user interface fonts"
 msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍"
@@ -727,8 +675,6 @@ msgstr ""
 
 #: kcms/hardware/joystick/joystick.desktop:17
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Joystick"
 msgctxt "Comment"
 msgid "Joystick"
 msgstr "ജോയ്സ്റ്റിക്"
@@ -751,8 +697,6 @@ msgstr "ചിഹ്നങ്ങള്‍"
 
 #: kcms/icons/kcm_icons.desktop:106 kcms/icons/package/metadata.desktop:93
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
 msgid "Choose icon theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
@@ -794,8 +738,6 @@ msgstr ""
 
 #: kcms/kded/kcmkded.desktop:102
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Dolphin Services"
 msgctxt "X-KDE-Keywords"
 msgid "KDED,Daemon,Services"
 msgstr "ഡോള്‍ഫിന്‍ സേവനങ്ങള്‍"
@@ -807,8 +749,6 @@ msgstr "കീബോര്‍ഡ്"
 
 #: kcms/keyboard/kcm_keyboard.desktop:108
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Keyboard Layout"
 msgctxt "Comment"
 msgid "Keyboard Hardware and Layout"
 msgstr "കീബോര്‍ഡ് വിന്യാസം"
@@ -824,8 +764,6 @@ msgstr ""
 
 #: kcms/keyboard/keyboard.desktop:11
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Keyboard Layout"
 msgctxt "Name"
 msgid "Keyboard Daemon"
 msgstr "കീബോര്‍ഡ് വിന്യാസം"
@@ -837,16 +775,12 @@ msgstr ""
 
 #: kcms/keys/keys.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Global Keyboard Shortcuts"
 msgctxt "Name"
 msgid "Global Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
 #: kcms/keys/keys.desktop:55
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Global Keyboard Shortcuts"
 msgctxt "Comment"
 msgid "Global Keyboard Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
@@ -890,16 +824,12 @@ msgstr "സിസ്റ്റത്തിനു് മുഴുവനായു�
 
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "File Management"
 msgctxt "Name"
 msgid "Font Management"
 msgstr "ഫയല്‍ നടത്തിപ്പ്"
 
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:71
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Install, manage, and preview fonts"
 msgctxt "Comment"
 msgid "Install, manage and preview fonts"
 msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക, നോക്കി നടത്തുക അല്ലെങ്കില്‍ കണ്ടുനോക്കുക"
@@ -921,16 +851,12 @@ msgstr "അക്ഷരസഞ്ചയദര്‍ശിനി"
 
 #: kcms/knotify/kcmnotify.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Manage Notifications"
 msgctxt "Name"
 msgid "Notifications"
 msgstr "അറിയിപ്പുകള്‍ കൈകാര്യം ചെയ്യുക"
 
 #: kcms/knotify/kcmnotify.desktop:60
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "System Bell Configuration"
 msgctxt "Comment"
 msgid "Event Notifications and Actions"
 msgstr "സിസ്റ്റത്തിന്റെ മണിയ്ക്കുള്ള ക്രമീകരണം"
@@ -942,8 +868,6 @@ msgstr ""
 
 #: kcms/ksmserver/kcmsmserver.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Theme Details"
 msgctxt "Name"
 msgid "Desktop Session"
 msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
@@ -967,8 +891,6 @@ msgstr ""
 #: kcms/ksplash/kcm_splashscreen.desktop:60
 #: kcms/ksplash/package/metadata.desktop:47
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
 msgid "Choose splash screen theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
@@ -992,8 +914,6 @@ msgstr "അഭിപ്രായങ്ങള്‍ ലഭ്യമാക്ക�
 #: kcms/launch/kcm_launchfeedback.desktop:101
 #: kcms/launch/package/metadata.desktop:89
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Comment"
 msgid "Application Launch Feedback"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
@@ -1015,8 +935,6 @@ msgstr ""
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:53
 #: kcms/lookandfeel/package/metadata.desktop:41
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Customize individual desktop theme items"
 msgctxt "Comment"
 msgid "Choose Look and Feel theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
@@ -1055,16 +973,12 @@ msgstr ""
 
 #: kcms/phonon/kcm_phonon.desktop:13
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure keyboard and mouse settings"
 msgctxt "Name"
 msgid "Audio and Video"
 msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
 
 #: kcms/phonon/kcm_phonon.desktop:59
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure keyboard and mouse settings"
 msgctxt "Comment"
 msgid "Phonon Audio and Video"
 msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
@@ -1088,8 +1002,6 @@ msgstr ""
 
 #: kcms/runners/kcm_plasmasearch.desktop:58
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure the spell checker"
 msgctxt "Comment"
 msgid "Configure Search Bar"
 msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
@@ -1111,8 +1023,6 @@ msgstr "ചാര്‍ജ്ജ് സ്ഥിതി"
 
 #: kcms/solid_actions/device-actions/solid-device-Battery.desktop:145
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Plugged"
 msgctxt "Name|battery plugged in"
 msgid "Plugged"
 msgstr "കുത്തിയിരിയ്ക്കുന്നു"
@@ -1317,10 +1227,6 @@ msgstr "ഉപകരണത്തിനുള്ള പ്രവൃത്തി�
 
 #: kcms/solid_actions/solid-actions.desktop:83
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid ""
-#| "A configuration tool for managing the actions available to the user when "
-#| "connecting new devices to the computer"
 msgctxt "Comment"
 msgid "Manage actions available to the user when connecting new devices"
 msgstr ""
@@ -1329,8 +1235,6 @@ msgstr ""
 
 #: kcms/solid_actions/solid-actions.desktop:135
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Actions"
 msgctxt "X-KDE-Keywords"
 msgid "Solid Devices Actions"
 msgstr "ഉപകരണത്തിനുള്ള പ്രവൃത്തികള്‍"
@@ -1342,8 +1246,6 @@ msgstr "സോളിഡ് ഉപകരണതരം"
 
 #: kcms/spellchecking/spellchecking.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Spell Checker"
 msgctxt "Name"
 msgid "Spell Check"
 msgstr "അക്ഷരത്തെറ്റു് പരിശോധകന്‍ "
@@ -1360,16 +1262,12 @@ msgstr ""
 
 #: kcms/standard_actions/standard_actions.desktop:15
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Global Keyboard Shortcuts"
 msgctxt "Name"
 msgid "Standard Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
 #: kcms/standard_actions/standard_actions.desktop:55
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Standard Keyboard Shortcuts"
 msgctxt "Comment"
 msgid "Standard Keyboard Shortcuts for Applications"
 msgstr "കീബോര്‍ഡിലെ സ്റ്റാന്‍ഡേര്‍ഡ് കുറക്കുവഴികള്‍"
@@ -1383,16 +1281,12 @@ msgstr ""
 
 #: kcms/style/style.desktop:16
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Application Style"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #: kcms/style/style.desktop:38
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure the spell checker"
 msgctxt "Comment"
 msgid "Configure application style and behavior"
 msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
@@ -1429,8 +1323,6 @@ msgstr ""
 
 #: kcms/touchpad/src/kcm/kcm_touchpad.desktop:58
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Mouse settings"
 msgctxt "Comment"
 msgid "Touchpad settings"
 msgstr "മൌസിന്റെ സജ്ജീകരണങ്ങള്‍"
@@ -1501,8 +1393,6 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ഫോള്‍ഡര്�
 
 #: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Launcher"
 msgctxt "Name"
 msgid "Application Menu Bar"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
@@ -1514,8 +1404,6 @@ msgstr ""
 
 #: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Default Applications"
 msgctxt "Name"
 msgid "Default Panel"
 msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
@@ -1528,8 +1416,6 @@ msgstr ""
 
 #: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:54
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Panel"
 msgctxt "Comment"
 msgid "Empty panel"
 msgstr "പാളി"
@@ -1541,8 +1427,6 @@ msgstr ""
 
 #: runners/kwin/plasma-runner-kwin.desktop:41
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Interact with the Plasma desktop shell"
 msgctxt "Comment"
 msgid "Interact with the Plasma Compositor"
 msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
@@ -1564,8 +1448,6 @@ msgstr ""
 
 #: solid-device-automounter/kcm/device_automounter_kcm.desktop:48
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Removable"
 msgctxt "Name"
 msgid "Removable Devices"
 msgstr "നീക്കം ചെയ്യാവുന്ന"
@@ -1587,8 +1469,6 @@ msgstr ""
 
 #: toolboxes/desktoptoolbox/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
 msgctxt "Name"
 msgid "Declarative Toolbox"
 msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
@@ -1600,130 +1480,94 @@ msgstr ""
 
 #: toolboxes/paneltoolbox/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
 msgctxt "Name"
 msgid "Panel Toolbox"
 msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
 
 #: toolboxes/paneltoolbox/metadata.desktop:51
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Plasma Manual"
 msgctxt "Comment"
 msgid "Manage Plasma panel"
 msgstr "പ്ലാസ്മയുടെ സഹായക്കുറിപ്പു് "
 
 #: toolboxes/plasma-toolbox-paneltoolbox.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Interact with the Plasma desktop shell"
 msgctxt "Comment"
 msgid "Default panel toolbox for the Plasma desktop shell"
 msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
 
 #: toolboxes/plasma-toolbox-paneltoolbox.desktop:60
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Emoticons Themes Manager"
 #~ msgctxt "Comment"
 #~ msgid "Emoticon Theme"
 #~ msgstr "വികാരചിഹ്നങ്ങളുടെ വൈവിധ്യപാലകന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Cursor Files"
 #~ msgctxt "Comment"
 #~ msgid "Icon Theme"
 #~ msgstr "കര്‍സര്‍ ഫയലുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Fonts"
 #~ msgctxt "Comment"
 #~ msgid "Fonts"
 #~ msgstr "അക്ഷരസഞ്ചയങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Launcher"
 #~ msgctxt "Comment"
 #~ msgid "Application Color Scheme"
 #~ msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Cursor Files"
 #~ msgctxt "Name"
 #~ msgid "Cursor Theme"
 #~ msgstr "കര്‍സര്‍ ഫയലുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Cursor Files"
 #~ msgctxt "Comment"
 #~ msgid "Mouse Cursor Theme"
 #~ msgstr "കര്‍സര്‍ ഫയലുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop Theme Details"
 #~ msgctxt "Name"
 #~ msgid "Desktop Theme"
 #~ msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop Theme Details"
 #~ msgctxt "Comment"
 #~ msgid "Desktop Theme"
 #~ msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Launcher"
 #~ msgctxt "Comment"
 #~ msgid "Workspace and Application Colors"
 #~ msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Calendar Manager"
 #~ msgctxt "Name"
 #~ msgid "Menubar manager"
 #~ msgstr "കലണ്ടര്‍ നടത്തിപ്പുകാരന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Global Keyboard Shortcuts"
 #~ msgctxt "Name"
 #~ msgid "Application Keyboard Shortcuts"
 #~ msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Task Manager"
 #~ msgctxt "Name"
 #~ msgid "Icons-only Task Manager (Old backend)"
 #~ msgstr "ടാസ്ക് മാനേജര്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Task Manager"
 #~ msgctxt "Name"
 #~ msgid "Task Manager (Old backend)"
 #~ msgstr "ടാസ്ക് മാനേജര്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Task Manager"
 #~ msgctxt "Name|standard desktop component"
 #~ msgid "Window Manager"
 #~ msgstr "ടാസ്ക് മാനേജര്‍"
@@ -1759,8 +1603,6 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരി�
 #~ msgstr "സിസ്റ്റം മണി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "System Bell"
 #~ msgctxt "Comment"
 #~ msgid "System Bell"
 #~ msgstr "സിസ്റ്റം മണി"
@@ -1770,8 +1612,6 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരി�
 #~ msgstr "വഴികള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Improve accessibility for disabled persons"
 #~ msgctxt "Comment"
 #~ msgid "Accessibility Improvements for Disabled Persons"
 #~ msgstr "അംഗവൈകല്യമുള്ളവര്‍ക്കുള്ള സാമീപ്യത നന്നാക്കുക"
@@ -1789,8 +1629,6 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരി�
 #~ msgstr "അവസ്ഥാവില"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop"
 #~ msgctxt "Name"
 #~ msgid "Social Desktop"
 #~ msgstr "പണിയിടം"
@@ -1808,8 +1646,6 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരി�
 #~ msgstr "പ്രദര്‍ശനം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A configuration tool for managing which programs start up with KDE."
 #~ msgctxt "Comment"
 #~ msgid "Manage which programs start up automatically with KDE."
 #~ msgstr ""
@@ -1820,8 +1656,6 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരി�
 #~ msgstr "സിസ്റ്റത്തിന്റെ മണിയ്ക്കുള്ള ക്രമീകരണം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Launcher to start applications"
 #~ msgctxt "Comment"
 #~ msgid "Change the colors used in applications"
 #~ msgstr "പ്രയോഗങ്ങള്‍ ആരംഭിക്കുന്നതിനു് സഹായിക്കുന്ന സംവിധാനം"
@@ -1831,8 +1665,6 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരി�
 #~ msgstr "പല സേവനങ്ങള്‍ക്കുമുള്ള സഹജമായ ഘടകങ്ങള്‍ തെരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure keyboard and mouse settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure date and time settings"
 #~ msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
@@ -1846,8 +1678,6 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരി�
 #~ msgstr "അക്ഷരസഞ്ചയത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Language, numeric, and time settings for your particular region"
 #~ msgctxt "Comment"
 #~ msgid ""
 #~ "Numeric, currency and time formatting settings for your particular region"
@@ -1866,15 +1696,11 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരി�
 #~ msgstr "കെഡിഇ ചിഹ്നങ്ങള്‍ സജ്ജീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Calendar Manager"
 #~ msgctxt "Name"
 #~ msgid "Service Manager"
 #~ msgstr "കലണ്ടര്‍ നടത്തിപ്പുകാരന്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "System Bell Configuration"
 #~ msgctxt "Comment"
 #~ msgid "KDE Services Configuration"
 #~ msgstr "സിസ്റ്റത്തിന്റെ മണിയ്ക്കുള്ള ക്രമീകരണം"
@@ -1888,15 +1714,11 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരി�
 #~ msgstr "കീബൈന്‍ഡിങ്സിനുള്ള ക്രമീകരണം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "File Management"
 #~ msgctxt "Name"
 #~ msgid "Session Management"
 #~ msgstr "ഫയല്‍ നടത്തിപ്പ്"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure keyboard and mouse settings"
 #~ msgctxt "Comment"
 #~ msgid "Configure the session manager and logout settings"
 #~ msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"

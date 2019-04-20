@@ -26,19 +26,16 @@ msgstr "കാഴ്ച"
 
 #: contents/ui/configGeneral.qml:35
 #, fuzzy, kde-format
-#| msgid "Show &seconds hand"
 msgid "Show seconds hand"
 msgstr "&സെക്കന്റ് സൂചി കാണിയ്ക്കുക "
 
 #: contents/ui/configGeneral.qml:36
 #, fuzzy, kde-format
-#| msgid "General"
 msgid "General:"
 msgstr "പൊതുവായ"
 
 #: contents/ui/configGeneral.qml:40
 #, fuzzy, kde-format
-#| msgid "Show &time zone"
 msgid "Show time zone"
 msgstr "&സമയമേഖല കാണിയ്ക്കുക"
 
@@ -61,7 +58,6 @@ msgstr "&സമയമേഖല കാണിയ്ക്കുക"
 #~ msgstr "&സമയമേഖല കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Also show the time as text"
 #~ msgid "Also show the Timezone as text"
 #~ msgstr "പദാവലിയായും സമയം കാണിയ്ക്കുക "
 

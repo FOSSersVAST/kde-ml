@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-10-11 02:02+0000\n"
+"PO-Revision-Date: 2018-10-11 02:02+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kcm_sddm.actions:2
+msgctxt "Name"
+msgid "SDDM"
+msgstr ""
+
+#: kcm_sddm.actions:49
+msgctxt "Name"
+msgid "Save Settings"
+msgstr ""
+
+#: kcm_sddm.actions:93
+msgctxt "Description"
+msgid "Save Settings in SDDM"
+msgstr ""
+
+#: kcm_sddm.actions:140
+msgctxt "Name"
+msgid "Install an SDDM theme"
+msgstr ""
+
+#: kcm_sddm.actions:178
+msgctxt "Description"
+msgid "Extracts a zip file containing an SDDM theme to the SDDM theme location"
+msgstr ""
+
+#: kcm_sddm.actions:220
+msgctxt "Name"
+msgid "Uninstall an SDDM theme"
+msgstr ""
+
+#: kcm_sddm.actions:258
+msgctxt "Description"
+msgid "Removes a previously installed SDDM theme"
+msgstr ""
+
+#: kcm_sddm.desktop:12
+msgctxt "X-KDE-Keywords"
+msgid "sddm,display manager,theme"
+msgstr ""
+
+#: kcm_sddm.desktop:56
+msgctxt "Name"
+msgid "Login Screen (SDDM)"
+msgstr ""
+
+#: kcm_sddm.desktop:100
+msgctxt "Comment"
+msgid "Configure Login Manager"
+msgstr ""
+
+#: sddmtheme.knsrc:2
+msgctxt "Name"
+msgid "Login Screen"
+msgstr ""

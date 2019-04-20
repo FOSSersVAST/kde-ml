@@ -32,7 +32,6 @@ msgstr "shijualexonline@gmail.com,snalledam@dataone.in"
 
 #: application.cpp:44
 #, fuzzy, kde-format
-#| msgid "Document to be indexed"
 msgid "Documentation to open"
 msgstr "ഇന്‍‌ഡെക്സ് ചെയ്യാനുള്ള പ്രമാണം"
 
@@ -43,7 +42,6 @@ msgstr "സഹായ കേന്ദ്രം"
 
 #: application.cpp:95
 #, fuzzy, kde-format
-#| msgid "(c) 1999-2003, The KHelpCenter developers"
 msgid "(c) 1999-2018, The KHelpCenter developers"
 msgstr "(c) 1999-2003, കെഡി‌‌ഇ സഹായകേന്ദ്രം ഡെവലപ്പര്‍മാര്‍"
 
@@ -101,14 +99,12 @@ msgstr "വലിപ്പം "
 
 #: fontdialog.cpp:85
 #, fuzzy, kde-format
-#| msgid "M&inimum font size:"
 msgctxt "The smallest size a will have"
 msgid "M&inimum font size:"
 msgstr "അക്ഷരസഞ്ചയത്തിന്റെ കു&റഞ്ഞ വലിപ്പം:"
 
 #: fontdialog.cpp:92
 #, fuzzy, kde-format
-#| msgid "M&edium font size:"
 msgctxt "The normal size a font will have"
 msgid "M&edium font size:"
 msgstr "അക്ഷരസഞ്ചയത്തിന്റെ ഇടത്തരം വലിപ്പം:"
@@ -190,7 +186,6 @@ msgstr "കാഷെ പുനഃര്‍നിര്‍മ്മിക്ക�
 
 #: grantleeformatter.cpp:117
 #, fuzzy, kde-format
-#| msgid "KDE Glossary"
 msgctxt "%1 is a glossary term"
 msgid "KDE Glossary: %1"
 msgstr "കെഡി‌ഇ ഗ്ലോസ്സറി"
@@ -202,7 +197,6 @@ msgstr "കെഡി‌ഇ ഗ്ലോസ്സറി"
 
 #: grantleeformatter.cpp:122
 #, fuzzy, kde-format
-#| msgid "See also: "
 msgid "See also: %1"
 msgstr "ഇതും കാണുക:"
 
@@ -341,7 +335,6 @@ msgstr ""
 
 #: navigator.cpp:78
 #, fuzzy, kde-format
-#| msgid "&Search"
 msgid "Search..."
 msgstr "&തിരയുക"
 
@@ -377,13 +370,11 @@ msgstr "തെരച്ചില്‍ പ്രോഗ്രാം ഓടിക�
 
 #: navigator.cpp:601
 #, fuzzy, kde-format
-#| msgid "Build Search Index..."
 msgid "Updating search index..."
 msgstr "തെരച്ചിലിന്റെ ഇന്‍‌ഡെക്സ് തയ്യാറാക്കുക"
 
 #: navigator.cpp:612
 #, fuzzy, kde-format
-#| msgid "Rebuilding cache... done."
 msgid "Updating search index... done."
 msgstr "കാഷെ പുനഃര്‍നിര്‍മ്മിക്കുന്നു... ചെയ്തു."
 
@@ -517,9 +508,6 @@ msgstr ""
 #~ msgstr "ht://dig"
 
 #, fuzzy
-#~| msgid ""
-#~| "The fulltext search feature makes use of the ht://dig HTML search "
-#~| "engine. You can get ht://dig at the"
 #~ msgid ""
 #~ "The fulltext search feature makes use of the ht://dig HTML search engine."
 #~ msgstr ""
@@ -570,12 +558,10 @@ msgstr ""
 #~ msgstr "നിര്‍ത്തുക"
 
 #, fuzzy
-#~| msgid "Details &lt;&lt;"
 #~ msgid "Details <<"
 #~ msgstr "വിശദാംശങ്ങള്‍ &lt;&lt;"
 
 #, fuzzy
-#~| msgid "Details &lt;&lt;"
 #~ msgid "Details >>"
 #~ msgstr "വിശദാംശങ്ങള്‍ &lt;&lt;"
 

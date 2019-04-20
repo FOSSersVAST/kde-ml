@@ -31,7 +31,6 @@ msgstr "sushmamanuks@gmail.com"
 
 #: AppMenuWidget.cpp:108
 #, fuzzy, kde-format
-#| msgid "KBruch"
 msgid "KBruch modes:"
 msgstr "കെബ്രന്ച്"
 
@@ -68,7 +67,6 @@ msgstr ""
 
 #: ExerciseCompare.cpp:102
 #, fuzzy, kde-format
-#| msgid "Click on this button to change the comparison sign."
 msgid "Click on this button to select the 'greater than' sign."
 msgstr "തുലനത്തിനുളള അടയാളം മാറ്റുവാനായി ഈ  ബട്ടണില്‍ അമര്‍ത്തുക"
 
@@ -79,7 +77,6 @@ msgstr ""
 
 #: ExerciseCompare.cpp:111
 #, fuzzy, kde-format
-#| msgid "Click on this button to get to the next task."
 msgid "Click on this button to select the 'less than' sign."
 msgstr "അടുത്ത പ്രവര്‍ത്തി ലഭിക്കാനായി ഈ  ബട്ടണില്‍ അമര്ത്തുക"
 
@@ -90,7 +87,6 @@ msgstr ""
 
 #: ExerciseCompare.cpp:120
 #, fuzzy, kde-format
-#| msgid "Click on this button to get to the next task."
 msgid "Click on this button to select the 'equals' sign."
 msgstr "അടുത്ത പ്രവര്‍ത്തി ലഭിക്കാനായി ഈ  ബട്ടണില്‍ അമര്ത്തുക"
 
@@ -104,19 +100,16 @@ msgstr ""
 #: ExerciseCompare.cpp:133 ExerciseConvert.cpp:149 ExerciseFactorize.cpp:179
 #: ExerciseMixedNumbers.cpp:171 ExercisePercentage.cpp:131
 #, fuzzy, kde-format
-#| msgid "Click on this button to check your result."
 msgid "Click on this button to skip this question."
 msgstr "നിങ്ങളുടെ ഫലം പരിശോധിക്കാനായി ഈ ബട്ടനില്‍ അമര്‍ത്തുക"
 
 #: ExerciseCompare.cpp:148 MainQtWidget.cpp:516
 #, fuzzy, kde-format
-#| msgid "In this exercise you have to compare 2 given fractions."
 msgid "In this exercise you have to compare two given fractions."
 msgstr "ഈ അഭ്യസത്തില്‍ നിങ്ങള്‍ തന്നിരിക്കുന്ന 2 ഭിന്നസംഖ്യകളെ താരതാമ്യം ചെയ്യേണ്ടതാണു്."
 
 #: ExerciseCompare.cpp:149
 #, fuzzy, kde-format
-#| msgid "In this exercise you have to compare 2 given fractions."
 msgid ""
 "In this exercise you have to compare two given fractions and choose the "
 "correct comparison sign."
@@ -129,8 +122,6 @@ msgstr "നിങ്ങളുടെ ഫലം പരിശോധിക്കാ�
 
 #: ExerciseCompare.cpp:310 ExerciseCompare.cpp:324 ExerciseCompare.cpp:338
 #, fuzzy, kde-format
-#| msgctxt "@action opens a new task"
-#| msgid "&New"
 msgid "&Next"
 msgstr "പുതിയതു്"
 
@@ -152,7 +143,6 @@ msgstr "നിങ്ങളുടെ ഫലത്തിന്റെ ഛേദം 
 #: ExercisePercentage.cpp:402 TaskView.cpp:154 TaskView.cpp:259
 #: TaskView.cpp:455
 #, fuzzy, kde-format
-#| msgid "&Check Task"
 msgid "&Check"
 msgstr "&പ്രവര്‍ത്തി പരിശോധിക്കുക"
 
@@ -174,9 +164,6 @@ msgstr "ഈ അഭ്യാസത്തില്‍ നിങ്ങള്‍ അ
 
 #: ExerciseConvert.cpp:160
 #, fuzzy, kde-format
-#| msgid ""
-#| "In this exercise you have to convert a given number into a fraction by "
-#| "entering numerator and denominator. Do not forget to reduce the result."
 msgid ""
 "In this exercise you have to convert a given number into a fraction by "
 "entering a numerator and denominator. Do not forget to reduce the result."
@@ -186,15 +173,11 @@ msgstr ""
 
 #: ExerciseConvert.cpp:324 ExerciseFactorize.cpp:368 ExercisePercentage.cpp:332
 #, fuzzy, kde-format
-#| msgid "Click on this button to get to the next task."
 msgid "Click on this button to get to the next question."
 msgstr "അടുത്ത പ്രവര്‍ത്തി ലഭിക്കാനായി ഈ  ബട്ടണില്‍ അമര്ത്തുക"
 
 #: ExerciseConvert.cpp:369
 #, fuzzy, kde-format
-#| msgid ""
-#| "You entered a 0 as the denominator. This means division by zero, which is "
-#| "not allowed. This task will be counted as not correctly solved."
 msgid ""
 "You entered a 0 as the denominator. This means division by zero, which is "
 "not allowed. This question will be counted as not correctly solved."
@@ -204,10 +187,6 @@ msgstr ""
 
 #: ExerciseConvert.cpp:375
 #, fuzzy, kde-format
-#| msgid ""
-#| "You entered the correct result, but not reduced.\n"
-#| "Always enter your results as reduced. This task will be counted as not "
-#| "correctly solved."
 msgid ""
 "You entered the correct result, but not reduced.\n"
 "Always enter your results as reduced. This question will be counted as not "
@@ -220,7 +199,6 @@ msgstr ""
 #: ExerciseConvert.cpp:420 ExerciseFactorize.cpp:517
 #: ExerciseMixedNumbers.cpp:299 ExercisePercentage.cpp:398 TaskView.cpp:451
 #, fuzzy, kde-format
-#| msgid "N&ext Task"
 msgid "N&ext"
 msgstr "&അടുത്ത പ്രവര്‍ത്തി"
 
@@ -321,12 +299,6 @@ msgstr "ഈ അഭ്യസത്തില്‍ നിങ്ങള്‍ നല
 
 #: ExerciseFactorize.cpp:263
 #, fuzzy, kde-format
-#| msgid ""
-#| "In this exercise you have to factorize a given number. You have to enter "
-#| "all prime factors of the number. You can add a prime factor by clicking "
-#| "on the corresponding button. The chosen prime factors will be shown in "
-#| "the input field. Do not forget to enter all prime factors, even when a "
-#| "prime factor repeats several times."
 msgid ""
 "In this exercise you have to factorize a given number. You have to enter all "
 "prime factors of the number. You can add a prime factor by clicking on the "
@@ -342,25 +314,21 @@ msgstr ""
 
 #: ExerciseMixedNumbers.cpp:108 TaskView.cpp:108
 #, fuzzy, kde-format
-#| msgid "Change the color of the fraction bar"
 msgid "Enter the integer part of the fraction"
 msgstr "ഭാഗ ചിഹ്നത്തിന്റെ നിറം മാറ്റുക "
 
 #: ExerciseMixedNumbers.cpp:122
 #, fuzzy, kde-format
-#| msgid "Change the color of the fraction bar"
 msgid "Enter the numerator of the fraction"
 msgstr "ഭാഗ ചിഹ്നത്തിന്റെ നിറം മാറ്റുക "
 
 #: ExerciseMixedNumbers.cpp:139
 #, fuzzy, kde-format
-#| msgid "Change the color of the fraction bar"
 msgid "Enter the denominator of the fraction"
 msgstr "ഭാഗ ചിഹ്നത്തിന്റെ നിറം മാറ്റുക "
 
 #: ExerciseMixedNumbers.cpp:177 MainQtWidget.cpp:528
 #, fuzzy, kde-format
-#| msgid "In this exercise you have to convert a number into a fraction."
 msgid ""
 "In this exercise you have to convert a mixed number into a ratio and vice "
 "versa."
@@ -368,9 +336,6 @@ msgstr "ഈ അഭ്യാസത്തില്‍ നിങ്ങള്‍ അ
 
 #: ExerciseMixedNumbers.cpp:178
 #, fuzzy, kde-format
-#| msgid ""
-#| "In this exercise you have to convert a given number into a fraction by "
-#| "entering numerator and denominator. Do not forget to reduce the result."
 msgid ""
 "In this exercise you have to convert a mixed number into a ratio and vice "
 "versa. Do not forget to reduce the result."
@@ -380,9 +345,6 @@ msgstr ""
 
 #: ExerciseMixedNumbers.cpp:257 TaskView.cpp:156 TaskView.cpp:397
 #, fuzzy, kde-format
-#| msgid ""
-#| "Click on this button to check your result. The button will not work if "
-#| "you have not entered a result yet."
 msgid ""
 "Click this button to check your result. The button will not work if you have "
 "not entered a result yet."
@@ -392,15 +354,11 @@ msgstr ""
 
 #: ExerciseMixedNumbers.cpp:298 TaskView.cpp:281
 #, fuzzy, kde-format
-#| msgid "Click on this button to get to the next task."
 msgid "Click this button to get the next question."
 msgstr "അടുത്ത പ്രവര്‍ത്തി ലഭിക്കാനായി ഈ  ബട്ടണില്‍ അമര്ത്തുക"
 
 #: ExerciseMixedNumbers.cpp:352 TaskView.cpp:370
 #, fuzzy, kde-format
-#| msgid ""
-#| "You entered a 0 as the denominator. This means division by zero, which is "
-#| "not allowed. This task will be counted as not correctly solved."
 msgid ""
 "You entered 0 as the denominator. This means division by zero, which is not "
 "allowed. This question will be counted as not correctly solved."
@@ -410,10 +368,6 @@ msgstr ""
 
 #: ExerciseMixedNumbers.cpp:359 TaskView.cpp:380
 #, fuzzy, kde-format
-#| msgid ""
-#| "You entered the correct result, but not reduced.\n"
-#| "Always enter your results as reduced. This task will be counted as not "
-#| "correctly solved."
 msgid ""
 "You entered the correct result, but not in the mixed number notation. This "
 "question will be counted as not correctly solved."
@@ -424,10 +378,6 @@ msgstr ""
 
 #: ExerciseMixedNumbers.cpp:362 TaskView.cpp:377
 #, fuzzy, kde-format
-#| msgid ""
-#| "You entered the correct result, but not reduced.\n"
-#| "Always enter your results as reduced. This task will be counted as not "
-#| "correctly solved."
 msgid ""
 "You entered the correct result, but not reduced. This question will be "
 "counted as not correctly solved."
@@ -449,13 +399,11 @@ msgstr ""
 
 #: ExercisePercentage.cpp:145 MainQtWidget.cpp:540
 #, fuzzy, kde-format
-#| msgid "In this exercise you have to solve a given task with fractions."
 msgid "In this exercise you have to work with percentage questions."
 msgstr "ഈ അഭ്യാസത്തില്‍ തന്നിരിക്കുന്ന പ്രവര്‍ത്തിയെ ഭിന്നസംഖ്യകള്‍ കൊണ്ട് പരിഹരിക്കുക "
 
 #: ExercisePercentage.cpp:146
 #, fuzzy, kde-format
-#| msgid "In this exercise you have to factorize a given number."
 msgid "In this exercise you have to enter the fraction of the given number."
 msgstr "ഈ അഭ്യസത്തില്‍ നിങ്ങള്‍ നല്‍കിയ അക്കത്തെ ഫാക്ടര്‍ ചെയ്തിട്ടുണ്ട്"
 
@@ -470,15 +418,11 @@ msgstr ""
 
 #: FractionRingWidget.cpp:146 MainQtWidget.cpp:495
 #, fuzzy, kde-format
-#| msgctxt "@action opens a new task"
-#| msgid "&New"
 msgid "New"
 msgstr "പുതിയതു്"
 
 #: FractionRingWidget.cpp:199 MainQtWidget.cpp:545
 #, fuzzy, kde-format
-#| msgctxt "@action opens a new task"
-#| msgid "&New"
 msgctxt "@action opens a new question"
 msgid "&New"
 msgstr "പുതിയതു്"
@@ -572,7 +516,6 @@ msgstr "ഭിന്നസംഖ്യകളെ കൊണ്ട് കണക്�
 
 #: KBruch.cpp:63
 #, fuzzy, kde-format
-#| msgid "(c) 2002-2004, Sebastian Stein"
 msgid "© 2002-2011, Sebastian Stein"
 msgstr "(c) 2002-2004, സെബാസ്റ്റ്യ‍ന്‍ സ്റ്റിയന്‍"
 
@@ -631,21 +574,18 @@ msgstr "പ്രവര്‍ത്തിച്ചു കൊണ്ടിരി�
 #. i18n: ectx: label, entry, group (Task)
 #: kbruch.kcfg:19
 #, fuzzy, kde-format
-#| msgid "Enable Addition/Subtraction"
 msgid "Enable Addition"
 msgstr "കൂട്ടല്‍ /കുറയ്ക്കല്‍ സാധ്യ‍മാക്കുക "
 
 #. i18n: ectx: whatsthis, entry, group (Task)
 #: kbruch.kcfg:20
 #, fuzzy, kde-format
-#| msgid "Enable Addition/Subtraction for task generation."
 msgid "Enable Addition for task generation."
 msgstr "പ്രവര്‍ത്തനം ഉല്‍പാദിപ്പിക്കാന്‍ കൂട്ടല്‍/കുറയ്ക്കല്‍ സാധ്യ‍മാക്കുക "
 
 #. i18n: ectx: label, entry, group (Task)
 #: kbruch.kcfg:24
 #, fuzzy, kde-format
-#| msgid "Enable Addition/Subtraction"
 msgid "Enable Subtraction"
 msgstr "കൂട്ടല്‍ /കുറയ്ക്കല്‍ സാധ്യ‍മാക്കുക "
 
@@ -658,28 +598,24 @@ msgstr "പ്രവര്‍ത്തനം ഉല്‍പാദിപ്പ�
 #. i18n: ectx: label, entry, group (Task)
 #: kbruch.kcfg:29
 #, fuzzy, kde-format
-#| msgid "Enable Multiplication/Division"
 msgid "Enable Division"
 msgstr "പെരുക്കല്‍/ഭാഗിക്കല്‍ സാധ്യ‍മാക്കുക"
 
 #. i18n: ectx: whatsthis, entry, group (Task)
 #: kbruch.kcfg:30
 #, fuzzy, kde-format
-#| msgid "Enable Multiplication/Division for task generation."
 msgid "Enable Division for task generation."
 msgstr "പ്രവര്‍ത്തനം ഉല്‍പാദിപ്പിക്കാന്‍ പെരുക്കല്‍/ഭാഗിക്കല്‍ സാധ്യ‍മാക്കുക."
 
 #. i18n: ectx: label, entry, group (Task)
 #: kbruch.kcfg:34
 #, fuzzy, kde-format
-#| msgid "Enable Multiplication/Division"
 msgid "Enable Multiplication"
 msgstr "പെരുക്കല്‍/ഭാഗിക്കല്‍ സാധ്യ‍മാക്കുക"
 
 #. i18n: ectx: whatsthis, entry, group (Task)
 #: kbruch.kcfg:35
 #, fuzzy, kde-format
-#| msgid "Enable Multiplication/Division for task generation."
 msgid "Enable Multiplication for task generation."
 msgstr "പ്രവര്‍ത്തനം ഉല്‍പാദിപ്പിക്കാന്‍ പെരുക്കല്‍/ഭാഗിക്കല്‍ സാധ്യ‍മാക്കുക."
 
@@ -722,7 +658,6 @@ msgstr "പ്രധാന ഛേദത്തിന്റെ കൂടുതല�
 #. i18n: ectx: label, entry, group (Task)
 #: kbruch.kcfg:54
 #, fuzzy, kde-format
-#| msgid "Number of fractions"
 msgid "Answer reduced fractions"
 msgstr "ഭിന്നസംഖ്യകളുടെ എണ്ണം"
 
@@ -735,7 +670,6 @@ msgstr ""
 #. i18n: ectx: label, entry, group (Task)
 #: kbruch.kcfg:59 kbruch.kcfg:64 kbruch.kcfg:69
 #, fuzzy, kde-format
-#| msgid "&Number:"
 msgid "Mixed number"
 msgstr "&അക്കം:"
 
@@ -781,7 +715,6 @@ msgstr "പൂര്‍ത്തിയാക്കിയവയുടെ ആക�
 #. i18n: ectx: whatsthis, entry, group (Statistics)
 #: kbruch.kcfg:87 kbruch.kcfg:88
 #, fuzzy, kde-format
-#| msgid "Number of solved tasks"
 msgid "Number of skipped tasks"
 msgstr "പൂര്‍ത്തിയാക്കിയവയുടെ എണ്ണം"
 
@@ -829,7 +762,6 @@ msgstr "പ്രത്യാഗ വഴി ചേര്‍ത്തു് അക
 
 #: MainQtWidget.cpp:120
 #, fuzzy, kde-format
-#| msgid "Operations:"
 msgid "Question:"
 msgstr "പ്രവര്‍ത്തനങ്ങള്‍ :"
 
@@ -850,13 +782,11 @@ msgstr ""
 
 #: MainQtWidget.cpp:170
 #, fuzzy, kde-format
-#| msgid "Operations:"
 msgid "Options:"
 msgstr "പ്രവര്‍ത്തനങ്ങള്‍ :"
 
 #: MainQtWidget.cpp:171
 #, fuzzy, kde-format
-#| msgid "Press the button to reset the statistics."
 msgid "Set the options to solve the exercises."
 msgstr "സ്ഥിതിവിവരക്കണക്ക് പുനര്ക്രമീകരിക്കാന് ബട്ടണ് അമര്ത്തുക"
 
@@ -900,7 +830,6 @@ msgstr ""
 
 #: MainQtWidget.cpp:208
 #, fuzzy, kde-format
-#| msgid "Addition/Subtraction"
 msgid "Subtraction:"
 msgstr "കൂട്ടുക/കുറയ്ക്കുക"
 
@@ -911,7 +840,6 @@ msgstr ""
 
 #: MainQtWidget.cpp:218
 #, fuzzy, kde-format
-#| msgid "Multiplication/Division"
 msgid "Multiplication:"
 msgstr "ഗുണനം/ഹരണം"
 
@@ -942,13 +870,11 @@ msgstr ""
 
 #: MainQtWidget.cpp:249
 #, fuzzy, kde-format
-#| msgid "Number of Terms"
 msgid "Number of terms:"
 msgstr "എത്ര ആവര്‍ത്തി"
 
 #: MainQtWidget.cpp:250 MainQtWidget.cpp:260
 #, fuzzy, kde-format
-#| msgid "The number of terms you want"
 msgid ""
 "The number of \n"
 "terms you want"
@@ -956,9 +882,6 @@ msgstr "നിങ്ങള്‍ക്കു് എത്ര ആവര്‍ത�
 
 #: MainQtWidget.cpp:261
 #, fuzzy, kde-format
-#| msgid ""
-#| "Choose the number of terms (2, 3, 4 or 5) you want for calculating "
-#| "fractions."
 msgid ""
 "Choose the number of terms (2, 3, 4 or 5) you \n"
 "want for calculating fractions."
@@ -967,7 +890,6 @@ msgstr ""
 
 #: MainQtWidget.cpp:264
 #, fuzzy, kde-format
-#| msgid "Max. main denominator:"
 msgid "Maximum denominator:"
 msgstr "പ്രധാന ഛേദം, കൂടുതല്‍:"
 
@@ -1009,13 +931,11 @@ msgstr ""
 
 #: MainQtWidget.cpp:510 TaskView.cpp:174
 #, fuzzy, kde-format
-#| msgid "In this exercise you have to solve a given task with fractions."
 msgid "In this exercise you have to solve a given question with fractions."
 msgstr "ഈ അഭ്യാസത്തില്‍ തന്നിരിക്കുന്ന പ്രവര്‍ത്തിയെ ഭിന്നസംഖ്യകള്‍ കൊണ്ട് പരിഹരിക്കുക "
 
 #: MainQtWidget.cpp:515
 #, fuzzy, kde-format
-#| msgid "Comparison"
 msgid ""
 "\n"
 "\n"
@@ -1024,7 +944,6 @@ msgstr "താരതമ്യം"
 
 #: MainQtWidget.cpp:521
 #, fuzzy, kde-format
-#| msgid "Conversion"
 msgid ""
 "\n"
 "\n"
@@ -1041,7 +960,6 @@ msgstr ""
 
 #: MainQtWidget.cpp:533
 #, fuzzy, kde-format
-#| msgid "Factorization"
 msgid ""
 "\n"
 "\n"
@@ -1058,15 +976,12 @@ msgstr ""
 
 #: MainQtWidget.cpp:552
 #, fuzzy, kde-format
-#| msgctxt "@action opens a new task"
-#| msgid "&New"
 msgctxt "@action opens a new question"
 msgid "New"
 msgstr "പുതിയതു്"
 
 #: MainQtWidget.cpp:558
 #, fuzzy, kde-format
-#| msgid "&Task"
 msgctxt "@action go to the main screen"
 msgid "&Back"
 msgstr "&പ്രവര്‍ത്തി"
@@ -1079,28 +994,24 @@ msgstr ""
 
 #: MainQtWidget.cpp:577
 #, fuzzy, kde-format
-#| msgid "Comparison"
 msgctxt "Comparison Exercise"
 msgid "Comparison"
 msgstr "താരതമ്യം"
 
 #: MainQtWidget.cpp:583
 #, fuzzy, kde-format
-#| msgid "Conversion"
 msgctxt "Conversion Exercise"
 msgid "Conversion"
 msgstr "പരിവര്‍ത്തനം"
 
 #: MainQtWidget.cpp:589
 #, fuzzy, kde-format
-#| msgid "&Number:"
 msgctxt "Mixed Numbers Exercise"
 msgid "MixedNumbers"
 msgstr "&അക്കം:"
 
 #: MainQtWidget.cpp:595
 #, fuzzy, kde-format
-#| msgid "Factorization"
 msgctxt "Factorization Exercise"
 msgid "Factorization"
 msgstr "ഭാഗിക്കല്‍"
@@ -1123,13 +1034,11 @@ msgstr ""
 
 #: MainQtWidget.cpp:937
 #, fuzzy, kde-format
-#| msgid "Comparison"
 msgid "Comparison"
 msgstr "താരതമ്യം"
 
 #: MainQtWidget.cpp:953
 #, fuzzy, kde-format
-#| msgid "Conversion"
 msgid "Conversion"
 msgstr "പരിവര്‍ത്തനം"
 
@@ -1140,7 +1049,6 @@ msgstr ""
 
 #: MainQtWidget.cpp:985
 #, fuzzy, kde-format
-#| msgid "Factorization"
 msgid "Factorization"
 msgstr "ഭാഗിക്കല്‍"
 
@@ -1151,15 +1059,11 @@ msgstr ""
 
 #: ResultWidget.cpp:142
 #, fuzzy, kde-format
-#| msgctxt "@info:status the number of correct answers"
-#| msgid "Correct:"
 msgid "Correct!"
 msgstr "ശരി :"
 
 #: ResultWidget.cpp:149 ResultWidget.cpp:156
 #, fuzzy, kde-format
-#| msgctxt "@info:status the number of incorrect answers"
-#| msgid "Incorrect:"
 msgid "Incorrect!"
 msgstr "ശരിയല്ല :"
 
@@ -1170,7 +1074,6 @@ msgstr "ഇത് പരിഗണിക്കപ്പെട്ട പ്രവ�
 
 #: StatisticsView.cpp:79
 #, fuzzy, kde-format
-#| msgid "Operations:"
 msgid "Questions:"
 msgstr "പ്രവര്‍ത്തനങ്ങള്‍ :"
 
@@ -1204,7 +1107,6 @@ msgstr " ഇത് പരിഗണിക്കപ്പെടാത്ത പ്
 
 #: StatisticsView.cpp:120
 #, fuzzy, kde-format
-#| msgid "This is the current total number of solved tasks."
 msgid "This is the current total number of skipped tasks."
 msgstr "ഇത് പരിഗണിക്കപ്പെട്ട പ്രവര്ത്തികളുടെ നിലവിലുളള ആക എണ്ണം"
 
@@ -1215,11 +1117,6 @@ msgstr "ഈ ജാലകത്തിന്റെ ഭാഗത്ത് സ്ഥ
 
 #: StatisticsView.cpp:124
 #, fuzzy, kde-format
-#| msgid ""
-#| "This part of the window shows the statistics.  Each exercise you do is "
-#| "counted. You can reset the statistics by clicking on the button below. "
-#| "Also, if you do not want to see the statistics, use the vertical bar on "
-#| "the left to reduce the size of this window part."
 msgid ""
 "This part of the window shows the statistics. Each exercise you do is "
 "counted. You can reset the statistics by clicking on the 'New' button in the "
@@ -1237,7 +1134,6 @@ msgstr "&പുനര്ക്രമീകരിക്കുക"
 
 #: StatisticsView.cpp:136
 #, fuzzy, kde-format
-#| msgid "Click on this button to get to the next task."
 msgid "Click this button to reset the statistics."
 msgstr "അടുത്ത പ്രവര്‍ത്തി ലഭിക്കാനായി ഈ  ബട്ടണില്‍ അമര്ത്തുക"
 
@@ -1285,16 +1181,11 @@ msgstr "അക്കങ്ങളുടെ അക്ഷരസഞ്ചയം മ�
 
 #: TaskView.cpp:165
 #, fuzzy, kde-format
-#| msgid "Click on this button to check your result."
 msgid "Click this button to skip this question."
 msgstr "നിങ്ങളുടെ ഫലം പരിശോധിക്കാനായി ഈ ബട്ടനില്‍ അമര്‍ത്തുക"
 
 #: TaskView.cpp:175
 #, fuzzy, kde-format
-#| msgid ""
-#| "In this exercise you have to solve the generated task. You have to enter "
-#| "numerator and denominator. You can adjust the difficulty of the task with "
-#| "the boxes in the toolbar. Do not forget to reduce the result."
 msgid ""
 "In this exercise you have to solve the generated question. You have to enter "
 "the integer part of the fraction and the numerator and the denominator. You "
@@ -1312,15 +1203,10 @@ msgid "/"
 msgstr "/"
 
 #, fuzzy
-#~| msgid "Multiplication/Division"
 #~ msgid "Multiply"
 #~ msgstr "ഗുണനം/ഹരണം"
 
 #, fuzzy
-#~| msgid ""
-#~| "You entered the correct result, but not reduced.\n"
-#~| "Always enter your results as reduced. This task will be counted as not "
-#~| "correctly solved."
 #~ msgid ""
 #~ "You entered the correct result, but not reduced.\n"
 #~ "Enter your results as reduced, if the use of this form is forced in the "
@@ -1331,7 +1217,6 @@ msgstr "/"
 #~ "കണക്കാക്കും "
 
 #, fuzzy
-#~| msgid "Click on this button to change the comparison sign."
 #~ msgid "Click on this button to select the minor sign."
 #~ msgstr "തുലനത്തിനുളള അടയാളം മാറ്റുവാനായി ഈ  ബട്ടണില്‍ അമര്‍ത്തുക"
 
@@ -1344,7 +1229,6 @@ msgstr "/"
 #~ "താരതമ്യചിഹ്നങ്ങള്‍ മാറ്റാന്‍ ചിഹ്നം കാണിക്കുന്നബട്ടണില്‍ ക്ലിക്ക് ചെയ്താല്‍ മാത്രം മതി"
 
 #, fuzzy
-#~| msgid "Comparison"
 #~ msgctxt "Comparision Exercise"
 #~ msgid "Comparision"
 #~ msgstr "താരതമ്യം"
@@ -1361,12 +1245,10 @@ msgstr "/"
 #~ msgstr "ഫലം എണ്ണല്‍ പട്ടികയായും കാണിക്കുക,1 2/3 പോലെ"
 
 #, fuzzy
-#~| msgid "Set the maximum value of the main denominator."
 #~ msgid "This is called finding the main denominator. "
 #~ msgstr "പ്രധാന ഛേദത്തിന്റെ കൂടുതല്‍ മൂല്യം ക്രമീകരിക്കുക"
 
 #, fuzzy
-#~| msgid "Change the color of the fraction bar"
 #~ msgid " and the second fraction by "
 #~ msgstr "ഭാഗ ചിഹ്നത്തിന്റെ നിറം മാറ്റുക "
 

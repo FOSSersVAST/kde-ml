@@ -22,7 +22,6 @@ msgstr ""
 
 #: kalzium_engine.cpp:190
 #, fuzzy, kde-format
-#| msgid "An error occured."
 msgid "An error occurred. No element found."
 msgstr "ഒരു പിശകുണ്ടായി."
 
@@ -37,9 +36,6 @@ msgstr ""
 
 #: kalzium_engine.cpp:203 kalzium_engine.cpp:205
 #, fuzzy, kde-format
-#| msgid ""
-#| "Did you know that\n"
-#| " %1 (%2) weights %3 u?"
 msgid ""
 "Did you know that\n"
 " %1 (%2) weighs %3 u?"
@@ -49,6 +45,5 @@ msgstr ""
 
 #: kalzium_engine.cpp:210
 #, fuzzy, kde-format
-#| msgid "An error occured."
 msgid "An error occurred."
 msgstr "ഒരു പിശകുണ്ടായി."

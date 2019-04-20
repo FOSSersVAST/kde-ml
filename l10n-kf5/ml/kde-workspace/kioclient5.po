@@ -105,11 +105,6 @@ msgstr ""
 
 #: kioclient.cpp:86
 #, fuzzy, kde-format
-#| msgid ""
-#| "  kioclient copy 'src' 'dest'\n"
-#| "            # Copies the URL 'src' to 'dest'.\n"
-#| "            #   'src' may be a list of URLs.\n"
-#| "\n"
 msgid ""
 "  kioclient copy 'src' 'dest'\n"
 "            # Copies the URL 'src' to 'dest'.\n"
@@ -141,10 +136,6 @@ msgstr ""
 
 #: kioclient.cpp:93
 #, fuzzy, kde-format
-#| msgid ""
-#| "  kioclient cat 'url'\n"
-#| "            # Writes out the contents of 'url' to stdout\n"
-#| "\n"
 msgid ""
 "  kioclient ls 'url'\n"
 "            # Lists the contents of the directory 'url' to stdout\n"
@@ -156,10 +147,6 @@ msgstr ""
 
 #: kioclient.cpp:95
 #, fuzzy, kde-format
-#| msgid ""
-#| "  kioclient move 'src' 'dest'\n"
-#| "            # Moves the URL 'src' to 'dest'.\n"
-#| "            #   'src' may be a list of URLs.\n"
 msgid ""
 "  kioclient remove 'url'\n"
 "            # Removes the URL\n"
@@ -255,7 +242,6 @@ msgstr ""
 
 #: kioclient.cpp:142
 #, fuzzy, kde-format
-#| msgid "URL or URLs"
 msgid "file or URL"
 msgstr "യുആര്‍എല്‍ അല്ലെങ്കില്‍ യുആര്‍എല്ലുകള്‍"
 
@@ -301,14 +287,12 @@ msgstr "ആജ്ഞയ്ക്കുള്ള ആര്‍ഗ്യുമെ�
 
 #: kioclient.cpp:189
 #, fuzzy, kde-format
-#| msgid "Syntax Error: Not enough arguments\n"
 msgctxt "@info:shell"
 msgid "%1: Syntax error, not enough arguments\n"
 msgstr "സിന്റാക്സ് പിശകു്: ആവശ്യത്തിനുള്ള ആര്‍ഗ്യുമെന്റുകളില്ല\n"
 
 #: kioclient.cpp:194
 #, fuzzy, kde-format
-#| msgid "Syntax Error: Too many arguments\n"
 msgctxt "@info:shell"
 msgid "%1: Syntax error, too many arguments\n"
 msgstr "സിന്റാക്സ് പിശകു്: ഒരുപാടു് ആര്‍ഗ്യുമെന്റുകള്‍\n"
@@ -320,7 +304,6 @@ msgstr ""
 
 #: kioclient.cpp:412
 #, fuzzy, kde-format
-#| msgid "Syntax Error: Unknown command '%1'\n"
 msgctxt "@info:shell"
 msgid "%1: Syntax error, unknown command '%2'\n"
 msgstr "സിന്റാക്സില്‍ പിശകു്: അപരിചിതമായ ആജ്ഞ '%1'\n"

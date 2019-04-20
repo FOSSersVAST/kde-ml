@@ -32,7 +32,6 @@ msgstr "snalledam@dataone.in, pravi.a@gmail.com, harivishnu@gmail.com"
 
 #: kcm.cpp:61
 #, fuzzy, kde-format
-#| msgid "Get New Theme..."
 msgid "Plasma Theme"
 msgstr "പുതിയ പ്രമേയം എടുക്കുക..."
 
@@ -43,19 +42,16 @@ msgstr ""
 
 #: kcm.cpp:139
 #, fuzzy, kde-format
-#| msgid "How to Change Desktop Theme"
 msgid "Download New Desktop Themes"
 msgstr "പണിയിടത്തിന്റെ പ്രമേയം മാറ്റുന്നതെങ്ങനെ"
 
 #: kcm.cpp:165
 #, fuzzy, kde-format
-#| msgid "Unable to save theme."
 msgid "Unable to create a temporary file."
 msgstr "പ്രമേയം സൂക്ഷിക്കാന്‍ കഴിയില്ല."
 
 #: kcm.cpp:177
 #, fuzzy, kde-format
-#| msgid "Unable to save theme."
 msgid "Unable to download the theme: %1"
 msgstr "പ്രമേയം സൂക്ഷിക്കാന്‍ കഴിയില്ല."
 
@@ -81,7 +77,6 @@ msgstr ""
 
 #: package/contents/ui/main.qml:68
 #, fuzzy, kde-format
-#| msgid "Theme Item"
 msgid "Edit Theme..."
 msgstr "പ്രമേയത്തിന്റെ ഇനം"
 
@@ -92,7 +87,6 @@ msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
 
 #: package/contents/ui/main.qml:82
 #, fuzzy, kde-format
-#| msgid "Remove Theme"
 msgid "Restore Theme"
 msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
 
@@ -103,13 +97,11 @@ msgstr ""
 
 #: package/contents/ui/main.qml:126
 #, fuzzy, kde-format
-#| msgid "Get New Theme..."
 msgid "Get New Plasma Themes..."
 msgstr "പുതിയ പ്രമേയം എടുക്കുക..."
 
 #: package/contents/ui/main.qml:138
 #, fuzzy, kde-format
-#| msgid "Theme Item"
 msgid "Open Theme"
 msgstr "പ്രമേയത്തിന്റെ ഇനം"
 
@@ -119,12 +111,10 @@ msgid "Theme Files (*.zip *.tar.gz *.tar.bz2)"
 msgstr ""
 
 #, fuzzy
-#~| msgid "Remove Desktop Theme"
 #~ msgid "Configure Desktop Theme"
 #~ msgstr "പണിയിടത്തിന്റെ പ്രമേയം നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Export Desktop Theme"
 #~ msgid "KDE Desktop Theme Module"
 #~ msgstr "പണിയിടപ്രമേയം പുറത്തെടുക്കുക"
 
@@ -193,7 +183,6 @@ msgstr ""
 #~ "ആഗ്രഹിക്കുന്നുണ്ടോ?"
 
 #, fuzzy
-#~| msgid "Removal of the default KDE theme is not allowed."
 #~ msgid "Removal of the default desktop theme is not allowed."
 #~ msgstr "കെഡിഇയുടെ തനത് പ്രമേയം നീക്കം ചെയ്യാന്‍‍ അനുവാദമില്ല."
 
@@ -204,7 +193,6 @@ msgstr ""
 #~ msgstr "പണിയിടപ്രമേയം പുറത്തെടുക്കുക"
 
 #, fuzzy
-#~| msgid "Export Theme to File..."
 #~ msgid "Export theme to file"
 #~ msgstr "പ്രമേയം ഫയലിലേയ്ക്കെടുത്തു് വയ്ക്കുക..."
 
@@ -215,7 +203,6 @@ msgstr ""
 #~ msgstr "സ്രോതസ്സ്"
 
 #, fuzzy
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "%1 is the name of the theme, %2 is the type of the element (background, "
 #~ "icon, note, etc)"
@@ -241,7 +228,6 @@ msgstr ""
 #~ msgstr "കൂടുതല്‍"
 
 #, fuzzy
-#~| msgid "Remove Desktop Theme"
 #~ msgid "Remove the selected theme"
 #~ msgstr "പണിയിടത്തിന്റെ പ്രമേയം നീക്കം ചെയ്യുക"
 
@@ -252,7 +238,6 @@ msgstr ""
 #~ msgstr "പുതിയ പ്രമേയത്തിന്റെ പേര്:"
 
 #, fuzzy
-#~| msgid "New theme name:"
 #~ msgid "Custom theme name"
 #~ msgstr "പുതിയ പ്രമേയത്തിന്റെ പേര്:"
 
@@ -260,7 +245,6 @@ msgstr ""
 #~ msgstr "രചയിതാവ്"
 
 #, fuzzy
-#~| msgid "Theme Author"
 #~ msgid "Custom theme author "
 #~ msgstr "പ്രമേയത്തിന്റെ രചയിതാവ്"
 
@@ -268,7 +252,6 @@ msgstr ""
 #~ msgstr "പതിപ്പ് "
 
 #, fuzzy
-#~| msgid "New theme name:"
 #~ msgid "Custom theme version number"
 #~ msgstr "പുതിയ പ്രമേയത്തിന്റെ പേര്:"
 
@@ -276,7 +259,6 @@ msgstr ""
 #~ msgstr "വിവരണം"
 
 #, fuzzy
-#~| msgid "The theme description goes here..."
 #~ msgid "Custom theme description"
 #~ msgstr "പ്രമേയത്തിന്റെ വിവരണം ഇവിടെ തുടരുന്നു...."
 
@@ -293,14 +275,10 @@ msgstr ""
 #~ msgstr "പ്രമേയത്തിന്റെ വിവരണം ഇവിടെ തുടരുന്നു...."
 
 #, fuzzy
-#~| msgid "Remove Desktop Theme"
 #~ msgid "KCMDesktopTheme"
 #~ msgstr "പണിയിടത്തിന്റെ പ്രമേയം നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "To change your desktop theme to \"%1\", open\n"
-#~| "Desktop Settings and select \"%2\" from the droplist."
 #~ msgid ""
 #~ "To change your desktop theme to \"%1\", go back to the 'General' tab of "
 #~ "System Settings; choose 'Appearance', and then 'Style'; and finally "
@@ -310,7 +288,6 @@ msgstr ""
 #~ "പട്ടികയില്‍നിന്ന് \"%2\", തെരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgid "Removal of the default KDE theme is not allowed."
 #~ msgid "Removal of the active desktop theme is not allowed."
 #~ msgstr "കെഡിഇയുടെ തനത് പ്രമേയം നീക്കം ചെയ്യാന്‍‍ അനുവാദമില്ല."
 

@@ -81,7 +81,6 @@ msgstr ""
 
 #: devicepreference.cpp:152
 #, fuzzy, kde-format
-#| msgid "prefer the selected device"
 msgid "Test the selected device"
 msgstr "തെരഞ്ഞെടുത്ത ഉപകരണത്തിനു് മുന്‍ഗണന നല്‍കുക"
 
@@ -94,45 +93,36 @@ msgstr "ഉപകരണങ്ങളുടെ സഹജമായ ക്രമം 
 
 #: devicepreference.cpp:306
 #, fuzzy, kde-format
-#| msgid "Default Capture Device Preference"
 msgid "Default Audio Playback Device Preference"
 msgstr "സഹജമായ രേഖപ്പെടുത്തലിനുള്ള ഉപകരണത്തിന്റെ മുന്‍ഗണനകള്‍:"
 
 #: devicepreference.cpp:309
 #, fuzzy, kde-format
-#| msgid "Default Capture Device Preference"
 msgid "Default Audio Recording Device Preference"
 msgstr "സഹജമായ രേഖപ്പെടുത്തലിനുള്ള ഉപകരണത്തിന്റെ മുന്‍ഗണനകള്‍:"
 
 #: devicepreference.cpp:312
 #, fuzzy, kde-format
-#| msgid "Default Capture Device Preference"
 msgid "Default Video Recording Device Preference"
 msgstr "സഹജമായ രേഖപ്പെടുത്തലിനുള്ള ഉപകരണത്തിന്റെ മുന്‍ഗണനകള്‍:"
 
 #: devicepreference.cpp:319
 #, fuzzy, kde-format
-#| msgid "Capture Device Preference for the '%1' Category"
 msgid "Audio Playback Device Preference for the '%1' Category"
 msgstr "'%1' വിഭാഗത്തിലേക്കുള്ള രേഖപ്പെടുത്തതിനുള്ള ഉപകരണത്തിന്റെ മുന്‍ഗണനകള്‍:"
 
 #: devicepreference.cpp:323
 #, fuzzy, kde-format
-#| msgid "Capture Device Preference for the '%1' Category"
 msgid "Audio Recording Device Preference for the '%1' Category"
 msgstr "'%1' വിഭാഗത്തിലേക്കുള്ള രേഖപ്പെടുത്തതിനുള്ള ഉപകരണത്തിന്റെ മുന്‍ഗണനകള്‍:"
 
 #: devicepreference.cpp:327
 #, fuzzy, kde-format
-#| msgid "Capture Device Preference for the '%1' Category"
 msgid "Video Recording Device Preference for the '%1' Category "
 msgstr "'%1' വിഭാഗത്തിലേക്കുള്ള രേഖപ്പെടുത്തതിനുള്ള ഉപകരണത്തിന്റെ മുന്‍ഗണനകള്‍:"
 
 #: devicepreference.cpp:752
 #, fuzzy, kde-format
-#| msgid ""
-#| "Apply the currently shown device preference list to the following other "
-#| "audio output categories:"
 msgid ""
 "Apply the currently shown device preference list to the following other "
 "audio playback categories:"
@@ -145,7 +135,6 @@ msgstr "സഹജമായ/വ്യക്തമല്ലാത്ത വിഭ�
 
 #: devicepreference.cpp:869
 #, fuzzy, kde-format
-#| msgid "prefer the selected device"
 msgid "Failed to set the selected audio output device"
 msgstr "തെരഞ്ഞെടുത്ത ഉപകരണത്തിനു് മുന്‍ഗണന നല്‍കുക"
 
@@ -168,9 +157,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QTreeView, categoryTree)
 #: devicepreference.ui:29 devicepreference.ui:32
 #, fuzzy, kde-format
-#| msgid ""
-#| "Various categories of outputs.  For each category you may choose what "
-#| "device you wish to output to."
 msgid ""
 "Various categories of media use cases.  For each category, you may choose "
 "what device you prefer to be used by the Phonon applications."
@@ -188,9 +174,6 @@ msgstr "സങ്കീര്‍ണ്ണമായ ഉപകരണങ്ങള�
 #. i18n: ectx: property (whatsThis), widget (QPushButton, applyPreferencesButton)
 #: devicepreference.ui:77 devicepreference.ui:80
 #, fuzzy, kde-format
-#| msgid ""
-#| "Apply the currently shown device preference list to the following other "
-#| "audio output categories:"
 msgid "Use the currently shown device list for more categories."
 msgstr "മറ്റുള്ള ശബ്ദ ഔട്ട്പുട്ട് വിഭാഗങ്ങള്‍ക്കും നിലവിലുള്ള ഈ ഉപകരണത്തിന്റെ മുന്‍ഗണനകള്‍ നല്‍കുക:"
 
@@ -203,9 +186,6 @@ msgstr "ഉപകരണ പട്ടിക സൂക്ഷിക്കേണ്�
 #. i18n: ectx: property (toolTip), widget (QTreeView, deviceList)
 #: devicepreference.ui:113
 #, fuzzy, kde-format
-#| msgid ""
-#| "Audio Outputs found on your system.  Choose the device that you wish "
-#| "sound to come out of."
 msgid ""
 "Devices found on your system, suitable for the selected category.  Choose "
 "the device that you wish to be used by the applications."
@@ -215,11 +195,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QTreeView, deviceList)
 #: devicepreference.ui:116
 #, fuzzy, kde-format
-#| msgid ""
-#| "The order determines the preference of the output devices. If for some "
-#| "reason the first device cannot be used Phonon will try to use the second, "
-#| "and\n"
-#| "so on."
 msgid ""
 "The order determines the preference of the devices. If for some reason the "
 "first device cannot be used Phonon will try to use the second, and so on."
@@ -277,12 +252,10 @@ msgid "Backend"
 msgstr "ബാക്കെന്‍ഡ്"
 
 #, fuzzy
-#~| msgid "Prefer"
 #~ msgid "Profile"
 #~ msgstr "മുന്‍ഗണന നല്‍കുക"
 
 #, fuzzy
-#~| msgid "Show advanced devices"
 #~ msgid "Sound Device"
 #~ msgstr "സങ്കീര്‍ണ്ണമായ ഉപകരണങ്ങള്‍ കാണിക്കുക"
 
@@ -293,17 +266,14 @@ msgstr "ബാക്കെന്‍ഡ്"
 #~ msgstr "ശബ്ദം രേഖപ്പെടുത്തുക"
 
 #, fuzzy
-#~| msgid "Audio Capture"
 #~ msgid "Video Capture"
 #~ msgstr "ശബ്ദം രേഖപ്പെടുത്തുക"
 
 #, fuzzy
-#~| msgid "Default Output Device Preference"
 #~ msgid "Default Audio Output Device Preference"
 #~ msgstr "സഹജമായ ഔട്ട്പുട്ട് ഉപകരണത്തിന്റെ മുന്‍ഗണനകള്‍: "
 
 #, fuzzy
-#~| msgid "Output Device Preference for the '%1' Category"
 #~ msgid "Audio Output Device Preference for the '%1' Category"
 #~ msgstr "'%1' വിഭാഗത്തിലേക്കുള്ള ഔട്ട്പുട്ട് ഉപകരണത്തിന്റെ മുന്‍ഗണനകള്‍:"
 
@@ -311,12 +281,10 @@ msgstr "ബാക്കെന്‍ഡ്"
 #~ msgstr "നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Audio Output"
 #~ msgid "Output"
 #~ msgstr "ശബ്ദ ഔട്ട്പുട്ട്"
 
 #, fuzzy
-#~| msgid "Audio Output"
 #~ msgid "Sound Output"
 #~ msgstr "ശബ്ദ ഔട്ട്പുട്ട്"
 

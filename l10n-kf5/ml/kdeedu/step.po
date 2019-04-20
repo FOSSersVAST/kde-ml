@@ -205,7 +205,6 @@ msgstr "വാതകം എടുക്കുന്ന പ്രദേശം"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: step/create_gas_particles.ui:61
 #, fuzzy, kde-format
-#| msgid "Particles count:"
 msgid "Particle count:"
 msgstr "അണുക്കളുടെ എണ്ണം:"
 
@@ -213,7 +212,6 @@ msgstr "അണുക്കളുടെ എണ്ണം:"
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, lineEditCount)
 #: step/create_gas_particles.ui:68 step/create_gas_particles.ui:71
 #, fuzzy, kde-format
-#| msgid "The number of partcles of this gas."
 msgid "The number of particles of this gas."
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
@@ -232,7 +230,6 @@ msgstr "ഏകാഗ്രത:"
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: step/create_gas_particles.ui:112
 #, fuzzy, kde-format
-#| msgid "Particles mass:"
 msgid "Particle mass:"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
@@ -379,9 +376,6 @@ msgstr "രേണുക്കള്‍ സൃഷ്ടിക്കുക..."
 
 #: step/gasgraphics.cc:362
 #, fuzzy, kde-format
-#| msgid ""
-#| "You are trying to create a very large number of particles. It will make "
-#| "simulation very slow. Do you want to continue ?"
 msgid ""
 "You are trying to create a very large number of particles. This will make "
 "simulation very slow. Do you want to continue?"
@@ -446,14 +440,11 @@ msgstr "വിവരണക്കുറിപ്പിലുള്ള പിശ�
 
 #: step/infobrowser.cc:185
 #, fuzzy, kde-format
-#| msgid "Documentation for %1 not available."
 msgid "Documentation for %1 not available. "
 msgstr "%1-നുള്ള വിവരണക്കുറിപ്പു് ലഭ്യമല്ല."
 
 #: step/infobrowser.cc:186
 #, fuzzy, kde-format
-#| msgid ""
-#| "You can help <a href=\"http://edu.kde.org/step\">Step</a> by writting it!"
 msgid ""
 "You can help <a href=\"http://edu.kde.org/step\">Step</a> by writing it!"
 msgstr ""
@@ -467,7 +458,6 @@ msgstr "വികിപീഡിയ"
 
 #: step/infobrowser.cc:205
 #, fuzzy, kde-format
-#| msgid "Fetching Wikipedia Information ..."
 msgid "Fetching Wikipedia Information..."
 msgstr "വികിപീഡിയ വിവരണങ്ങളില്‍ കണ്ടെത്താം..."
 
@@ -694,7 +684,6 @@ msgstr "<പുതിയശേഖരം>"
 
 #: step/mainwindow.cc:318
 #, fuzzy, kde-format
-#| msgid "Step"
 msgid "Open Step File"
 msgstr "പടി"
 
@@ -715,7 +704,6 @@ msgstr "<ശേഖരം തുറക്കുക: %1>"
 
 #: step/mainwindow.cc:356
 #, fuzzy, kde-format
-#| msgid "Step"
 msgid "Save Step File"
 msgstr "പടി"
 
@@ -775,10 +763,6 @@ msgstr ""
 
 #: step/mainwindow.cc:529
 #, fuzzy, kde-format
-#| msgid ""
-#| "Cannot finish this step because there are collisions which cannot be "
-#| "resolved automatically.\n"
-#| "Please move colliding objects appart and try again."
 msgid ""
 "Cannot finish this step because there are collisions which cannot be "
 "resolved automatically.\n"
@@ -912,7 +896,6 @@ msgstr "%1 നിര്‍മ്മിക്കാന്‍ ഈ കാഴ്ച�
 
 #: step/softbodygraphics.cc:66
 #, fuzzy, kde-format
-#| msgid "Please fill in the parameters for the gas particles."
 msgid "Please fill in the parameters for %1"
 msgstr "വാതക അണുക്കളുടെ സഥിരരാശികള്‍ പൂരിപ്പിക്കുക."
 
@@ -930,7 +913,6 @@ msgstr "%1 ന്റെ ഇനങ്ങള്‍ സൃഷ്ടിക്കു�
 #. i18n: ectx: whatsthis, entry (showCreationTips), group (General)
 #: step/step.kcfg:9 step/step.kcfg:10
 #, fuzzy, kde-format
-#| msgid "Show tips when creating objects"
 msgid "Show tips when creating items"
 msgstr "ഉദ്ദേശ്യവസ്തു സൃഷ്ടിക്കുമ്പോള് ചെറുകുറിപ്പ് കാണിക്കുക"
 
@@ -938,7 +920,6 @@ msgstr "ഉദ്ദേശ്യവസ്തു സൃഷ്ടിക്കു�
 #. i18n: ectx: whatsthis, entry (showAxes), group (General)
 #: step/step.kcfg:14 step/step.kcfg:15
 #, fuzzy, kde-format
-#| msgid "Show lines"
 msgid "Show axes on the scene"
 msgstr "വരകള്‍ കാണിക്കുക "
 
@@ -946,7 +927,6 @@ msgstr "വരകള്‍ കാണിക്കുക "
 #. i18n: ectx: whatsthis, entry (floatDisplayPrecision), group (General)
 #: step/step.kcfg:19 step/step.kcfg:20
 #, fuzzy, kde-format
-#| msgid "Display precision:"
 msgid "Display precision of double numbers"
 msgstr "കൃത്യത പ്രദര്‍ശിപ്പിക്കുക:"
 
@@ -961,7 +941,6 @@ msgstr ""
 #. i18n: ectx: whatsthis, entry (wikiExternal), group (InfoBrowser)
 #: step/step.kcfg:33 step/step.kcfg:34
 #, fuzzy, kde-format
-#| msgid "Open wikipedia in external browser"
 msgid "Browse wikipedia in external browser"
 msgstr "പുറമെനിന്നുള്ള ബ്രൌസറില്‍ വിക്കിപീഡിയ തുറക്കുക"
 
@@ -969,7 +948,6 @@ msgstr "പുറമെനിന്നുള്ള ബ്രൌസറില്�
 #. i18n: ectx: whatsthis, entry (showButtonText), group (ItemPalette)
 #: step/step.kcfg:40 step/step.kcfg:41
 #, fuzzy, kde-format
-#| msgid "Show text"
 msgid "Show text beside icon"
 msgstr "പാഠം കാണിക്കുക"
 
@@ -1021,7 +999,6 @@ msgstr "&പട്ടികകള്‍"
 
 #: step/toolgraphics.cc:266
 #, fuzzy, kde-format
-#| msgid "Click to enter a text"
 msgid "Click to enter text"
 msgstr "വാക്യങ്ങള് ചേര്‍ക്കാന്‍ ഇവിടെ ക്ലിക്ക് ചെയ്യുക"
 
@@ -1112,9 +1089,6 @@ msgstr "%1 ശേഖരം വ്യാകരിക്കാന്‍ കഴി�
 
 #: step/toolgraphics.cc:704
 #, fuzzy, kde-format
-#| msgid ""
-#| "Can not find latex installation. You need 'latex', 'dvips' and 'gs' "
-#| "executables installed and accessible from $PATH"
 msgid ""
 "Cannot find latex installation. You need 'latex', 'dvips' and 'gs' "
 "executables installed and accessible from $PATH"
@@ -1144,13 +1118,11 @@ msgstr "തല്‍ഫലമായ ഛായ വ്യാഖ്യാനിക�
 
 #: step/toolgraphics.cc:787
 #, fuzzy, kde-format
-#| msgid "Objects under mouse:"
 msgid "Object name"
 msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #: step/toolgraphics.cc:792
 #, fuzzy, kde-format
-#| msgid "Property"
 msgid "Property name"
 msgstr "ഗുണവിശേഷം"
 
@@ -1322,25 +1294,21 @@ msgstr "%1 → %2 പരീക്ഷണം നടത്തുക"
 
 #: step/worldmodel.cc:1056
 #, fuzzy, kde-format
-#| msgid "Create %1"
 msgid "Cut %1"
 msgstr "%1 നിര്‍മ്മിക്കുക"
 
 #: step/worldmodel.cc:1057
 #, fuzzy, kde-format
-#| msgid "Delete several items"
 msgid "Cut several items"
 msgstr "പല ഇനങ്ങളും മായ്ചുകളയുക"
 
 #: step/worldmodel.cc:1079
 #, fuzzy, kde-format
-#| msgid "Create %1"
 msgid "Pasted %1"
 msgstr "%1 നിര്‍മ്മിക്കുക"
 
 #: step/worldmodel.cc:1080
 #, fuzzy, kde-format
-#| msgid "Delete several items"
 msgid "Pasted several items"
 msgstr "പല ഇനങ്ങളും മായ്ചുകളയുക"
 
@@ -1351,7 +1319,6 @@ msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്�
 
 #: step/worldscene.cc:263
 #, fuzzy, kde-format
-#| msgid "... (%1 more items)"
 msgid "... (1 more item)"
 msgid_plural "... (%1 more items)"
 msgstr[0] ".....(%1 കൂടുതല്‍ ഇനങ്ങള്‍)"
@@ -1367,120 +1334,99 @@ msgstr[1] ".....(%1 കൂടുതല്‍ ഇനങ്ങള്‍)"
 #~ msgstr "ഇനങ്ങള്‍ സൃഷ്ടിക്കുക"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgctxt "PropertyName"
 #~ msgid "position"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Range"
 #~ msgctxt "PropertyName"
 #~ msgid "angle"
 #~ msgstr "പരിധി"
 
 #, fuzzy
-#~| msgid "Forward"
 #~ msgctxt "Units"
 #~ msgid "rad"
 #~ msgstr "മുന്നോട്ട്"
 
 #, fuzzy
-#~| msgid "Mean velocity:"
 #~ msgctxt "PropertyName"
 #~ msgid "velocity"
 #~ msgstr "ശരാശരി ശീഘ്രത:"
 
 #, fuzzy
-#~| msgid "Mean velocity:"
 #~ msgctxt "PropertyName"
 #~ msgid "angularVelocity"
 #~ msgstr "ശരാശരി ശീഘ്രത:"
 
 #, fuzzy
-#~| msgid "Concentration:"
 #~ msgctxt "PropertyName"
 #~ msgid "acceleration"
 #~ msgstr "ഏകാഗ്രത:"
 
 #, fuzzy
-#~| msgid "true"
 #~ msgctxt "PropertyName"
 #~ msgid "torque"
 #~ msgstr "സുബദ്ധം"
 
 #, fuzzy
-#~| msgid "&Panels"
 #~ msgctxt "ObjectClass"
 #~ msgid "Plane"
 #~ msgstr "&പട്ടികകള്‍"
 
 #, fuzzy
-#~| msgid "Pointer"
 #~ msgctxt "PropertyName"
 #~ msgid "point1"
 #~ msgstr "സൂചിക "
 
 #, fuzzy
-#~| msgid "Pointer"
 #~ msgctxt "PropertyName"
 #~ msgid "point2"
 #~ msgstr "സൂചിക "
 
 #, fuzzy
-#~| msgid "Body damping:"
 #~ msgid "SoftBody spring"
 #~ msgstr "ശരീര ആര്ദ്രത"
 
 #, fuzzy
-#~| msgid "Show lines"
 #~ msgid "Show internal items"
 #~ msgstr "വരകള്‍ കാണിക്കുക "
 
 #, fuzzy
-#~| msgid "Change solver type"
 #~ msgctxt "PropertyName"
 #~ msgid "solverType"
 #~ msgstr "സോള്‍വര്‍ ഇനങ്ങള്‍ മാറ്റുക"
 
 #, fuzzy
-#~| msgid "Change solver type"
 #~ msgid "Solver type"
 #~ msgstr "സോള്‍വര്‍ ഇനങ്ങള്‍ മാറ്റുക"
 
 #, fuzzy
-#~| msgid "Particles mass:"
 #~ msgctxt "ObjectClass"
 #~ msgid "Particle"
 #~ msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgid "position"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Mean velocity:"
 #~ msgid "velocity"
 #~ msgstr "ശരാശരി ശീഘ്രത:"
 
 #, fuzzy
-#~| msgid "Concentration:"
 #~ msgid "acceleration"
 #~ msgstr "ഏകാഗ്രത:"
 
 #, fuzzy
-#~| msgid "Particles mass:"
 #~ msgctxt "ObjectClass"
 #~ msgid "ParticleErrors"
 #~ msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #, fuzzy
-#~| msgid "The mass of one particle"
 #~ msgid "Errors class for Particle"
 #~ msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
 
 #, fuzzy
-#~| msgid "Create gas particles"
 #~ msgid "Charged zero-size particle"
 #~ msgstr "വാതകകണങ്ങള്‍ സൃഷ്ടിക്കുക"
 
@@ -1521,375 +1467,307 @@ msgstr[1] ".....(%1 കൂടുതല്‍ ഇനങ്ങള്‍)"
 #~ msgstr "ശേഖരം വരി %1:%2 വ്യാകരണതെറ്റു്"
 
 #, fuzzy
-#~| msgid "File is not writeble."
 #~ msgid "File is not writable."
 #~ msgstr "ഫയലിലേക്കു് സൂക്ഷിക്കുവാന്‍ സാധ്യമല്ല."
 
 #, fuzzy
-#~| msgid "Unknown constraintSolver type \"%1\""
 #~ msgctxt "ObjectClass"
 #~ msgid "ConstraintSolver"
 #~ msgstr "അറിയപ്പെടാത്ത \"%1\"സമ്മര്‍ദ്ദ പരിഹാര ഇനം"
 
 #, fuzzy
-#~| msgid "Particles mass:"
 #~ msgctxt "ObjectClass"
 #~ msgid "GasParticle"
 #~ msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #, fuzzy
-#~| msgid "Create gas particles"
 #~ msgid "Gas particle"
 #~ msgstr "വാതകകണങ്ങള്‍ സൃഷ്ടിക്കുക"
 
 #, fuzzy
-#~| msgid "min:"
 #~ msgctxt "PropertyName"
 #~ msgid "rmin"
 #~ msgstr "ചുരുങ്ങിയ:"
 
 #, fuzzy
-#~| msgid "auto"
 #~ msgctxt "PropertyName"
 #~ msgid "cutoff"
 #~ msgstr "യാന്ത്രികം"
 
 #, fuzzy
-#~| msgid "Particles mass:"
 #~ msgid "Particle gas"
 #~ msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #, fuzzy
-#~| msgid "Particles count:"
 #~ msgctxt "PropertyName"
 #~ msgid "rectParticleCount"
 #~ msgstr "അണുക്കളുടെ എണ്ണം:"
 
 #, fuzzy
-#~| msgid "Concentration:"
 #~ msgctxt "PropertyName"
 #~ msgid "rectConcentration"
 #~ msgstr "ഏകാഗ്രത:"
 
 #, fuzzy
-#~| msgid "Temperature:"
 #~ msgctxt "PropertyName"
 #~ msgid "rectTemperature"
 #~ msgstr "താപം:"
 
 #, fuzzy
-#~| msgid "The number of partcles of this gas."
 #~ msgid "Temperature of particles in the measureRect"
 #~ msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #, fuzzy
-#~| msgid "Mean velocity:"
 #~ msgctxt "PropertyName"
 #~ msgid "rectMeanVelocity"
 #~ msgstr "ശരാശരി ശീഘ്രത:"
 
 #, fuzzy
-#~| msgid "Create gas particles"
 #~ msgctxt "PropertyName"
 #~ msgid "rectMeanParticleMass"
 #~ msgstr "വാതകകണങ്ങള്‍ സൃഷ്ടിക്കുക"
 
 #, fuzzy
-#~| msgid "Temperature:"
 #~ msgctxt "PropertyName"
 #~ msgid "rectTemperatureVariance"
 #~ msgstr "താപം:"
 
 #, fuzzy
-#~| msgid "Range"
 #~ msgctxt "PropertyName"
 #~ msgid "image"
 #~ msgstr "പരിധി"
 
 #, fuzzy
-#~| msgid "Insert &Formula"
 #~ msgctxt "ObjectClass"
 #~ msgid "NoteFormula"
 #~ msgstr "&ഗണിതസൂത്രം തിരുകിക്കയറ്റുക"
 
 #, fuzzy
-#~| msgid "Show text"
 #~ msgctxt "PropertyName"
 #~ msgid "text"
 #~ msgstr "പാഠം കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "<no object>"
 #~ msgctxt "PropertyName"
 #~ msgid "objectX"
 #~ msgstr "<വിഷയം ഇല്ല>"
 
 #, fuzzy
-#~| msgid "Property"
 #~ msgctxt "PropertyName"
 #~ msgid "propertyX"
 #~ msgstr "ഗുണവിശേഷം"
 
 #, fuzzy
-#~| msgid "<no object>"
 #~ msgctxt "PropertyName"
 #~ msgid "objectY"
 #~ msgstr "<വിഷയം ഇല്ല>"
 
 #, fuzzy
-#~| msgid "Property"
 #~ msgctxt "PropertyName"
 #~ msgid "propertyY"
 #~ msgstr "ഗുണവിശേഷം"
 
 #, fuzzy
-#~| msgid "Show points"
 #~ msgctxt "PropertyName"
 #~ msgid "showPoints"
 #~ msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show points"
 #~ msgid "Show points on the graph"
 #~ msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show lines"
 #~ msgctxt "PropertyName"
 #~ msgid "showLines"
 #~ msgstr "വരകള്‍ കാണിക്കുക "
 
 #, fuzzy
-#~| msgid "Show points"
 #~ msgctxt "PropertyName"
 #~ msgid "points"
 #~ msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show points"
 #~ msgid "points"
 #~ msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "<no object>"
 #~ msgctxt "PropertyName"
 #~ msgid "object"
 #~ msgstr "<വിഷയം ഇല്ല>"
 
 #, fuzzy
-#~| msgid "several objects"
 #~ msgid "Observed object"
 #~ msgstr "പല വസ്തുക്കള്‍"
 
 #, fuzzy
-#~| msgid "Property"
 #~ msgctxt "PropertyName"
 #~ msgid "property"
 #~ msgstr "ഗുണവിശേഷം"
 
 #, fuzzy
-#~| msgid "Display precision:"
 #~ msgid "Display digits"
 #~ msgstr "കൃത്യത പ്രദര്‍ശിപ്പിക്കുക:"
 
 #, fuzzy
-#~| msgid "Value"
 #~ msgid "value"
 #~ msgstr "മൂല്യം"
 
 #, fuzzy
-#~| msgid "Change controller %1"
 #~ msgctxt "ObjectClass"
 #~ msgid "Controller"
 #~ msgstr "%1 നിയാമകനെ മാറ്റുക"
 
 #, fuzzy
-#~| msgid "<no object>"
 #~ msgid "Controlled object"
 #~ msgstr "<വിഷയം ഇല്ല>"
 
 #, fuzzy
-#~| msgid "Shortcuts"
 #~ msgctxt "PropertyName"
 #~ msgid "increaseShortcut"
 #~ msgstr "കുറുക്കുവഴി "
 
 #, fuzzy
-#~| msgid "Shortcuts"
 #~ msgctxt "PropertyName"
 #~ msgid "decreaseShortcut"
 #~ msgstr "കുറുക്കുവഴി "
 
 #, fuzzy
-#~| msgid "Increment:"
 #~ msgctxt "PropertyName"
 #~ msgid "increment"
 #~ msgstr "വര്‍ദ്ധനവു്:"
 
 #, fuzzy
-#~| msgid "Increase value"
 #~ msgid "Increment value"
 #~ msgstr "മൂല ്യം കൂട്ടുക"
 
 #, fuzzy
-#~| msgid "Value"
 #~ msgctxt "PropertyName"
 #~ msgid "value"
 #~ msgstr "മൂല്യം"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgctxt "PropertyName"
 #~ msgid "localPosition"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgid "Local position"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgid "Position"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "&Bold"
 #~ msgid "Body"
 #~ msgstr "&തടിച്ച "
 
 #, fuzzy
-#~| msgid "Value"
 #~ msgctxt "PropertyName"
 #~ msgid "forceValue"
 #~ msgstr "മൂല്യം"
 
 #, fuzzy
-#~| msgid "Value"
 #~ msgctxt "PropertyName"
 #~ msgid "torqueValue"
 #~ msgstr "മൂല്യം"
 
 #, fuzzy
-#~| msgid "&Color"
 #~ msgctxt "PropertyName"
 #~ msgid "color"
 #~ msgstr "&വര്‍ണ്ണം"
 
 #, fuzzy
-#~| msgid "&Bold"
 #~ msgctxt "ObjectClass"
 #~ msgid "Body"
 #~ msgstr "&തടിച്ച "
 
 #, fuzzy
-#~| msgid "Pointer"
 #~ msgctxt "ObjectClass"
 #~ msgid "Joint"
 #~ msgstr "സൂചിക "
 
 #, fuzzy
-#~| msgid "Pointer"
 #~ msgid "Joint"
 #~ msgstr "സൂചിക "
 
 #, fuzzy
-#~| msgctxt "Object list"
-#~| msgid "World"
 #~ msgctxt "ObjectClass"
 #~ msgid "World"
 #~ msgstr "ലോകം"
 
 #, fuzzy
-#~| msgctxt "Object list"
-#~| msgid "World"
 #~ msgid "World"
 #~ msgstr "ലോകം"
 
 #, fuzzy
-#~| msgid "&Simulation"
 #~ msgid "Simulation speed scale"
 #~ msgstr "&പരീക്ഷണം"
 
 #, fuzzy
-#~| msgid "Range"
 #~ msgid "Angle"
 #~ msgstr "പരിധി"
 
 #, fuzzy
-#~| msgid "Pointer"
 #~ msgctxt "ObjectClass"
 #~ msgid "Pin"
 #~ msgstr "സൂചിക "
 
 #, fuzzy
-#~| msgid "&Bold"
 #~ msgid "Body1"
 #~ msgstr "&തടിച്ച "
 
 #, fuzzy
-#~| msgid "&Bold"
 #~ msgid "Body2"
 #~ msgstr "&തടിച്ച "
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgctxt "PropertyName"
 #~ msgid "localPosition1"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgctxt "PropertyName"
 #~ msgid "localPosition2"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgctxt "PropertyName"
 #~ msgid "position1"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgid "Position1"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgctxt "PropertyName"
 #~ msgid "position2"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgid "Position2"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Objects under mouse:"
 #~ msgctxt "ObjectClass"
 #~ msgid "Object"
 #~ msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #, fuzzy
-#~| msgid "Objects under mouse:"
 #~ msgid "Object"
 #~ msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #, fuzzy
-#~| msgid "<unnamed>"
 #~ msgctxt "PropertyName"
 #~ msgid "name"
 #~ msgstr "<unnamed>"
 
 #, fuzzy
-#~| msgid "Body damping:"
 #~ msgctxt "PropertyName"
 #~ msgid "damping"
 #~ msgstr "ശരീര ആര്ദ്രത"
 
 #, fuzzy
-#~| msgid "Body damping:"
 #~ msgid "Damping"
 #~ msgstr "ശരീര ആര്ദ്രത"

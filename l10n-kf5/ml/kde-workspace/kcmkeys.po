@@ -114,7 +114,6 @@ msgstr ""
 
 #: kglobalshortcutseditor.cpp:453
 #, fuzzy, kde-format
-#| msgid "Shortcuts:"
 msgid "Other Shortcuts"
 msgstr "കുറുക്കുവഴികള്‍:"
 
@@ -158,7 +157,6 @@ msgstr "കെഡിഇ ആഗോള കുറുക്കുവഴി നിര
 #. i18n: ectx: property (text), widget (QLabel, componentLabel)
 #: kglobalshortcutseditor.ui:37
 #, fuzzy, kde-format
-#| msgid "Components"
 msgid "Component:"
 msgstr "ഘടകങ്ങള്‍"
 
@@ -178,7 +176,6 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QToolButton, removeButton)
 #: kglobalshortcutseditor.ui:87
 #, fuzzy, kde-format
-#| msgid "Remove component"
 msgid "Remove the selected component"
 msgstr "ഘടകം നീക്കം ചെയ്യുക"
 

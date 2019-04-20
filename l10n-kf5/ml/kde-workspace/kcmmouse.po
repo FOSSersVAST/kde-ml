@@ -115,7 +115,6 @@ msgstr ""
 
 #: kcm/libinput/main.qml:110 kcm/libinput/main_deviceless.qml:65
 #, fuzzy, kde-format
-#| msgid "&General"
 msgid "General:"
 msgstr "&പൊതുവായത്"
 
@@ -131,7 +130,6 @@ msgstr ""
 
 #: kcm/libinput/main.qml:137 kcm/libinput/main_deviceless.qml:67
 #, fuzzy, kde-format
-#| msgid "Le&ft handed"
 msgid "Left handed mode"
 msgstr "&ഇടം കൈയ്യന്‍"
 
@@ -153,13 +151,11 @@ msgstr ""
 
 #: kcm/libinput/main.qml:191 kcm/libinput/main_deviceless.qml:121
 #, fuzzy, kde-format
-#| msgid "Pointer threshold:"
 msgid "Pointer speed:"
 msgstr "പോയിന്റര്‍ ത്രെഷ്ഹോള്‍ഡ്"
 
 #: kcm/libinput/main.qml:223 kcm/libinput/main_deviceless.qml:153
 #, fuzzy, kde-format
-#| msgid "Acceleration &profile:"
 msgid "Acceleration profile:"
 msgstr "ത്വരണത്തിന്റെ &പ്രൊഫൈല്‍:"
 
@@ -190,7 +186,6 @@ msgstr ""
 
 #: kcm/libinput/main.qml:281 kcm/libinput/main_deviceless.qml:211
 #, fuzzy, kde-format
-#| msgid "Re&verse scroll direction"
 msgid "Invert scroll direction"
 msgstr "&സ്ക്രോള്‍ എതിര്‍ദിശയിലാക്കുക"
 
@@ -340,8 +335,8 @@ msgid ""
 "the mouse pointer. With larger movements of the physical device, you can "
 "move the mouse pointer rapidly to different areas on the screen.</p>"
 msgstr ""
-"<p>ത്വരണത്തിന്റെ സ്വാധീനം പ്രകടമാകാന്‍ മൌസ് പോയിന്റര്‍ ചലിക്കേണ്ട ഏറ്റവും കുറഞ്ഞ ദൂരമാണു "
-"ത്രെഷ്ഹോള്‍ഡ്. ത്രെഷ്ഹോള്‍ഡിനേക്കാള്‍ കുറഞ്ഞ ദൂരമാണു മൌസ് പോയിന്റര്‍ ചലിക്കുന്നതെങ്കില്‍ ത്വരണം 1Xനു "
+"<p>ത്വരണത്തിന്റെ സ്വാധീനം പ്രകടമാകാന്‍ മൌസ് പോയിന്റര്‍ ചലിക്കേണ്ട ഏറ്റവും കുറഞ്ഞ ദൂരമാണു ത്രെഷ്ഹോള്‍"
+"ഡ്. ത്രെഷ്ഹോള്‍ഡിനേക്കാള്‍ കുറഞ്ഞ ദൂരമാണു മൌസ് പോയിന്റര്‍ ചലിക്കുന്നതെങ്കില്‍ ത്വരണം 1Xനു "
 "ക്രമീകരിക്കപ്പെട്ടതു പോലെ മൌസ് പോയിന്റര്‍ ചലിക്കും.</p><p> അതിനാല്‍ കുറഞ്ഞ ദൂരം ചലിപ്പിക്കേണ്ടി "
 "വരുമ്പോള്‍ താങ്കള്‍ക്കു മൌസ് പോയിന്ററിനു മേല്‍ കൂടുതല്‍ നിയന്ത്രണമുണ്ടാകും. കൂടുതല്‍ ദൂരം ചലിപ്പിക്കേണ്ടി "
 "വരുമ്പോള്‍ ത്വരണം മൂലം മൌസ് പോയിന്റര്‍ കൂടുതല്‍ വേഗത്തില്‍ സ്ക്രീന്റെ വിവിധയിടങ്ങളിലേക്കു പോവുകയും "
@@ -408,7 +403,6 @@ msgstr ""
 #. i18n: ectx: attribute (title), widget (QWidget, MouseNavigation)
 #: kcm/xlib/kcmmouse.ui:387
 #, fuzzy, kde-format
-#| msgid "Mouse Navigation"
 msgid "Keyboard Navigation"
 msgstr "മൌസിന്റെ പര്യവേക്ഷം"
 
@@ -461,7 +455,6 @@ msgstr "മൌസ്"
 
 #: kcm/xlib/xlib_config.cpp:98
 #, fuzzy, kde-format
-#| msgid "(c) 1997 - 2005 Mouse developers"
 msgid "(c) 1997 - 2018 Mouse developers"
 msgstr "(c) 1997 - 2005 മൌസ് ഡെവലപ്പേര്‍സ്"
 
@@ -518,12 +511,10 @@ msgstr[1] " വരികള്"
 #~ msgstr "റാള്‍ഫ് നോള്‍ഡെന്‍"
 
 #, fuzzy
-#~| msgid "Acceleration &time:"
 #~ msgid "Acceleration:"
 #~ msgstr "ത്വരണത്തിന്റെ &സമയം:"
 
 #, fuzzy
-#~| msgid "Acceleration &profile:"
 #~ msgid "Acceleration Profile:"
 #~ msgstr "ത്വരണത്തിന്റെ &പ്രൊഫൈല്‍:"
 
@@ -601,13 +592,11 @@ msgstr[1] " വരികള്"
 #~ msgstr "&യാന്ത്രികമായി ചിഹ്നങ്ങള്‍ തെരഞ്ഞെടുക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Dela&y:"
 #~ msgctxt "label. delay (on milliseconds) to automatically select icons"
 #~ msgid "Delay"
 #~ msgstr "താ&മസം:"
 
 #, fuzzy
-#~| msgid " msec"
 #~ msgctxt "milliseconds. time to automatically select the items"
 #~ msgid " ms"
 #~ msgstr " മില്ലിസെക്കന്റ്"
@@ -650,7 +639,6 @@ msgstr[1] " വരികള്"
 #~ "ആര്‍ എഫ് ചാനല്‍ 2 ക്രമപ്പെടുത്തിയിരിക്കുന്നു. കണ്ണി പുനഃസ്ഥാപിക്കുവാന്‍ മൌസില്‍ കണക്റ്റ് ബട്ടണ്‍ അമര്‍ത്തൂ"
 
 #, fuzzy
-#~| msgid "none"
 #~ msgctxt "no cordless mouse"
 #~ msgid "none"
 #~ msgstr "ഒന്നുമില്ല"
@@ -736,7 +724,6 @@ msgstr[1] " വരികള്"
 #~ "കുറിച്ചറിയാന്‍ മാനുവല്‍ (സഹായകുറിപ്പ്) നോക്കണം."
 
 #, fuzzy
-#~| msgid "&Cursor Theme"
 #~ msgid "Cursor Theme"
 #~ msgstr "&കര്‍സര്‍ പ്രമേയം"
 
@@ -767,8 +754,8 @@ msgstr[1] " വരികള്"
 #~ "<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
 #~ "will delete all the files installed by this theme.</qt>"
 #~ msgstr ""
-#~ "<qt><i>%1</i> എന്ന കര്‍സര്‍ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ?<br />ഈ "
-#~ "പ്രവര്‍ത്തനം %1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം മായ്ക്കും.</qt>"
+#~ "<qt><i>%1</i> എന്ന കര്‍സര്‍ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ?<br />ഈ പ്രവര്‍"
+#~ "ത്തനം %1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം മായ്ക്കും.</qt>"
 
 #~ msgid "Confirmation"
 #~ msgstr "സ്ഥിരീകരണം"
@@ -790,12 +777,10 @@ msgstr[1] " വരികള്"
 #~ "ചെയ്യുക ചൂണ്ടുവിരള്‍ പരീക്ഷിക്കാന്‍):"
 
 #, fuzzy
-#~| msgid "Install New Theme..."
 #~ msgid "Get New Theme..."
 #~ msgstr "പുതിയ പ്രമേയം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക..."
 
 #, fuzzy
-#~| msgid "Install New Theme..."
 #~ msgid "Install From File..."
 #~ msgstr "പുതിയ പ്രമേയം ഇന്‍സ്റ്റോള്‍ ചെയ്യുക..."
 

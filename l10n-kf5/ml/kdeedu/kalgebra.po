@@ -29,7 +29,6 @@ msgstr ""
 
 #: consolehtml.cpp:171
 #, fuzzy, kde-format
-#| msgid "Operations"
 msgid "Options: %1"
 msgstr "പ്രക്രിയകള്‍"
 
@@ -45,7 +44,6 @@ msgstr ""
 
 #: consolemodel.cpp:88
 #, fuzzy, kde-format
-#| msgid "<ul class='error'>Error: %1<li>%2</li></ul>"
 msgid "<ul class='error'>Error: <b>%1</b><li>%2</li></ul>"
 msgstr "<ul class='error'>പിശകു്: %1<li>%2</li></ul>"
 
@@ -56,7 +54,6 @@ msgstr ""
 
 #: consolemodel.cpp:112
 #, fuzzy, kde-format
-#| msgid "<ul class='error'>Error: %1<li>%2</li></ul>"
 msgid "<ul class='error'>Error: Could not load %1. <br /> %2</ul>"
 msgstr "<ul class='error'>പിശകു്: %1<li>%2</li></ul>"
 
@@ -92,7 +89,6 @@ msgstr ""
 
 #: functionedit.cpp:106
 #, fuzzy, kde-format
-#| msgid "Operations"
 msgid "Options"
 msgstr "പ്രക്രിയകള്‍"
 
@@ -103,7 +99,6 @@ msgstr "ശരി"
 
 #: functionedit.cpp:113
 #, fuzzy, kde-format
-#| msgid "Remove '%1'"
 msgctxt "@action:button"
 msgid "Remove"
 msgstr "'%1' നീക്കം ചെയ്യുക"
@@ -130,7 +125,6 @@ msgstr ""
 
 #: kalgebra.cpp:117
 #, fuzzy, kde-format
-#| msgid "To Expression"
 msgid "Session"
 msgstr "വാക്ക്യത്തിലേക്കു്"
 
@@ -141,35 +135,27 @@ msgstr "വേരിയബിളുകള്‍"
 
 #: kalgebra.cpp:155
 #, fuzzy, kde-format
-#| msgid "A calculator"
 msgid "&Calculator"
 msgstr "ഗണനി"
 
 #: kalgebra.cpp:167
 #, fuzzy, kde-format
-#| msgid "A calculator"
 msgid "C&alculator"
 msgstr "ഗണനി"
 
 #: kalgebra.cpp:169
 #, fuzzy, kde-format
-#| msgctxt "@item:inmenu"
-#| msgid "&Load Script"
 msgctxt "@item:inmenu"
 msgid "&Load Script..."
 msgstr "സ്ക്രിപ്റ്റ് &ലഭ്യമാക്കുക"
 
 #: kalgebra.cpp:171
 #, fuzzy, kde-format
-#| msgctxt "@item:inmenu"
-#| msgid "&Save Script"
 msgid "Recent Scripts"
 msgstr "സ്ക്രിപ്റ്റ് &സൂക്ഷിക്കുക"
 
 #: kalgebra.cpp:175
 #, fuzzy, kde-format
-#| msgctxt "@item:inmenu"
-#| msgid "&Save Script"
 msgctxt "@item:inmenu"
 msgid "&Save Script..."
 msgstr "സ്ക്രിപ്റ്റ് &സൂക്ഷിക്കുക"
@@ -193,15 +179,12 @@ msgstr ""
 
 #: kalgebra.cpp:184
 #, fuzzy, kde-format
-#| msgid "A calculator"
 msgctxt "@item:inmenu"
 msgid "Calculate"
 msgstr "ഗണനി"
 
 #: kalgebra.cpp:185
 #, fuzzy, kde-format
-#| msgctxt "@title:column"
-#| msgid "Value"
 msgctxt "@item:inmenu"
 msgid "Evaluate"
 msgstr "മൂല്യം"
@@ -337,20 +320,16 @@ msgstr "സ്ക്രിപ്റ്റ് (*.kal)"
 
 #: kalgebra.cpp:528
 #, fuzzy, kde-format
-#| msgid "Text File (*)"
 msgid "HTML File (*.html)"
 msgstr "വാചക ഫയല്‍ (*)"
 
 #: kalgebra.cpp:551
 #, fuzzy, kde-format
-#| msgctxt "Function parameter separator"
-#| msgid ", "
 msgid ", "
 msgstr ", "
 
 #: kalgebra.cpp:551
 #, fuzzy, kde-format
-#| msgid "Error: %1"
 msgid "Errors: %1"
 msgstr "പിശകു്: %1"
 
@@ -361,9 +340,6 @@ msgstr ""
 
 #: kalgebra.cpp:589
 #, fuzzy, kde-format
-#| msgid ""
-#| "*.png|Image File\n"
-#| "*.svg|SVG File"
 msgid "Image File (*.png);;SVG File (*.svg)"
 msgstr ""
 "*.png|Image ഫയല്‍\n"
@@ -377,7 +353,6 @@ msgstr "തയ്യാര്‍"
 
 #: kalgebra.cpp:681
 #, fuzzy, kde-format
-#| msgid "Add/Edit a variable"
 msgid "Add variable"
 msgstr "ചരം ചേര്‍ക്കുക/മാറ്റുക"
 
@@ -388,13 +363,11 @@ msgstr ""
 
 #: main.cpp:29
 #, fuzzy, kde-format
-#| msgid "A calculator"
 msgid "A portable calculator"
 msgstr "ഗണനി"
 
 #: main.cpp:30
 #, fuzzy, kde-format
-#| msgid "(C) 2006-2008 Aleix Pol Gonzalez"
 msgid "(C) 2006-2016 Aleix Pol i Gonzalez"
 msgstr "(C) 2006-2008 അലെയിക്സ് പോള്‍ ഗോണ്‍സാലസ്"
 
@@ -417,7 +390,6 @@ msgstr "ചരം ചേര്‍ക്കുക/മാറ്റുക"
 
 #: varedit.cpp:39
 #, fuzzy, kde-format
-#| msgid "Variables"
 msgid "Remove Variable"
 msgstr "വേരിയബിളുകള്‍"
 
@@ -476,13 +448,10 @@ msgstr ""
 #~ msgstr "അലെയിക്സ് പോള്‍ ഗോണ്‍സാലസ്"
 
 #, fuzzy
-#~| msgid "<b>%1</b>"
 #~ msgid "<b>Formula</b>"
 #~ msgstr "<b>%1</b>"
 
 #, fuzzy
-#~| msgctxt "3D graph done in x miliseconds"
-#~| msgid "Done: %1ms"
 #~ msgctxt "3D graph done in x milliseconds"
 #~ msgid "Done: %1ms"
 #~ msgstr "പൂര്‍ത്തിയായി: %1ms"
@@ -513,8 +482,6 @@ msgstr ""
 #~ msgstr "ലളിതമാക്കുക"
 
 #, fuzzy
-#~| msgctxt "@title:column"
-#~| msgid "Example"
 #~ msgid "Examples"
 #~ msgstr "ഉദാഹരണം"
 
@@ -553,7 +520,6 @@ msgstr ""
 #~ msgstr "%1("
 
 #, fuzzy
-#~| msgid "%1... parameters, ...)"
 #~ msgid "%1... parameters, ...%2)"
 #~ msgstr "%1... പരാമീറ്ററുകള്‍, ...)"
 
@@ -597,39 +563,30 @@ msgstr ""
 #~ msgstr "കൊടാന്‍ജെന്റ്"
 
 #, fuzzy
-#~| msgid "Cotangent"
 #~ msgid "Arc tangent"
 #~ msgstr "കൊടാന്‍ജെന്റ്"
 
 #, fuzzy
-#~| msgid "Cotangent"
 #~ msgid "Arc cotangent"
 #~ msgstr "കൊടാന്‍ജെന്റ്"
 
 #, fuzzy
-#~| msgctxt "@item:inmenu"
-#~| msgid "Normal"
 #~ msgid "For all"
 #~ msgstr "സാധാരണ"
 
 #, fuzzy
-#~| msgid "List"
 #~ msgid "Exists"
 #~ msgstr "പട്ടിക"
 
 #, fuzzy
-#~| msgctxt "@title:column"
-#~| msgid "Description"
 #~ msgid "Differentiation"
 #~ msgstr "വിവരണം"
 
 #, fuzzy
-#~| msgid "Cosecant"
 #~ msgid "Arc cosecant"
 #~ msgstr "കൊസീക്കെന്‍ഡ്"
 
 #, fuzzy
-#~| msgid "Cosecant"
 #~ msgid "Arc secant"
 #~ msgstr "കൊസീക്കെന്‍ഡ്"
 
@@ -670,7 +627,6 @@ msgstr ""
 #~ msgstr "ബൂളിയന്‍ xor"
 
 #, fuzzy
-#~| msgid "Multiplication"
 #~ msgid "Boolean implication"
 #~ msgstr "ഗുണനം"
 
@@ -706,29 +662,23 @@ msgstr ""
 #~ msgstr "മൂല്യം"
 
 #, fuzzy
-#~| msgctxt "Function parameter separator"
-#~| msgid ", "
 #~ msgctxt "identifier separator in error message"
 #~ msgid "', '"
 #~ msgstr ", "
 
 #, fuzzy
-#~| msgid "Calculate the expression"
 #~ msgid "Could not find a type that unifies '%1'"
 #~ msgstr "വാക്ക്യത്തിന്റെ മൂല്യം കാണുക"
 
 #, fuzzy
-#~| msgid "Calculate the expression"
 #~ msgid "Cannot calculate the remainder on 0."
 #~ msgstr "വാക്ക്യത്തിന്റെ മൂല്യം കാണുക"
 
 #, fuzzy
-#~| msgid "Calculate the expression"
 #~ msgid "Cannot calculate the lcm of 0."
 #~ msgstr "വാക്ക്യത്തിന്റെ മൂല്യം കാണുക"
 
 #, fuzzy
-#~| msgid "Calculate the expression"
 #~ msgid "Could not calculate the derivative for '%1'"
 #~ msgstr "വാക്ക്യത്തിന്റെ മൂല്യം കാണുക"
 
@@ -740,7 +690,6 @@ msgstr ""
 #~ msgstr "വ്യവകലനം"
 
 #, fuzzy
-#~| msgid "Error: %1"
 #~ msgid ""
 #~ "%1\n"
 #~ "Error: %2"
@@ -757,8 +706,6 @@ msgstr ""
 #~ msgstr "ലോഗ് &സൂക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgctxt "@item:inmenu"
-#~| msgid "Fine"
 #~ msgid "File"
 #~ msgstr "നല്ലത്"
 

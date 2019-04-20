@@ -209,24 +209,18 @@ msgstr "ഉന്നത നിലവാരങ്ങള്‍"
 
 #: highscoredialog.cpp:152
 #, fuzzy, kde-format
-#| msgctxt "@title:group first level high scores"
-#| msgid "Level 1"
 msgctxt "@title:group High scores Level 1 tab title"
 msgid "Level 1"
 msgstr "നില 1"
 
 #: highscoredialog.cpp:153
 #, fuzzy, kde-format
-#| msgctxt "@title:group second level high scores"
-#| msgid "Level 2"
 msgctxt "@title:group High scores Level 2 tab title"
 msgid "Level 2"
 msgstr "നില 2"
 
 #: highscoredialog.cpp:154
 #, fuzzy, kde-format
-#| msgctxt "@title:group all other level high scores"
-#| msgid "Level ?"
 msgctxt "@title:group High scores Level ? tab tible"
 msgid "Level ?"
 msgstr "നില ?"

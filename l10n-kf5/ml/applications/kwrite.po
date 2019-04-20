@@ -74,7 +74,6 @@ msgstr "പ്രധാന ഉപകരണപ്പട്ട"
 
 #: kwrite.cpp:152
 #, fuzzy, kde-format
-#| msgid "Use this to close the current document"
 msgid "Use this command to close the current document"
 msgstr "നിലവിലുള്ള രചന അടയ്ക്കാന്‍ ഇതുപയോഗിയ്ക്കുക"
 
@@ -119,7 +118,6 @@ msgstr "കാഴ്ചയുടെ അവസ്ഥ കാണിയ്ക്ക�
 
 #: kwrite.cpp:183
 #, fuzzy, kde-format
-#| msgid "Sho&w Path"
 msgid "Sho&w Path in Titlebar"
 msgstr "വഴി കാ&wണിക്കുക"
 
@@ -176,13 +174,11 @@ msgstr "കെറൈറ്റ്"
 
 #: main.cpp:95
 #, fuzzy, kde-format
-#| msgid "KWrite - Text Editor"
 msgid "KWrite - Text Editor"
 msgstr "കെറൈറ്റ് - എഴുത്തിടം"
 
 #: main.cpp:96
 #, fuzzy, kde-format
-#| msgid "(c) 2000-2005 The Kate Authors"
 msgid "(c) 2000-2019 The Kate Authors"
 msgstr "(c) 2000-2005 കേറ്റിന്റെ രചയിതാക്കള്‍"
 
@@ -461,7 +457,6 @@ msgstr "ഞാന്‍ ഉള്‍പ്പെടുത്തുവാന്�
 
 #: main.cpp:165
 #, fuzzy, kde-format
-#| msgid "Set encoding for the file to open"
 msgid "Set encoding for the file to open."
 msgstr "ഫയല്‍ തുറക്കുന്നതിനായി എന്‍കോഡിങ് സജ്ജമാക്കുക"
 
@@ -472,7 +467,6 @@ msgstr ""
 
 #: main.cpp:169
 #, fuzzy, kde-format
-#| msgid "Navigate to this line"
 msgid "Navigate to this line."
 msgstr "ഈ വരിയിലേക്കു് പോകുക"
 
@@ -483,7 +477,6 @@ msgstr ""
 
 #: main.cpp:173
 #, fuzzy, kde-format
-#| msgid "Navigate to this column"
 msgid "Navigate to this column."
 msgstr "ഈ നിരയിലേക്കു് പോകുക"
 
@@ -494,7 +487,6 @@ msgstr ""
 
 #: main.cpp:177
 #, fuzzy, kde-format
-#| msgid "Read the contents of stdin"
 msgid "Read the contents of stdin."
 msgstr "stdin-ന്റെ ഉള്ളടക്കം വായിക്കുക"
 
@@ -505,7 +497,6 @@ msgstr ""
 
 #: main.cpp:185
 #, fuzzy, kde-format
-#| msgid "Document to open"
 msgid "Documents to open."
 msgstr "തുറക്കുന്നതിനുള്ള രചന"
 
@@ -531,9 +522,6 @@ msgstr "'%1' എന്ന ഫയല്‍ തുറക്കുവാന്‍ �
 #~ "എന്നും പരിശോധിക്കുക."
 
 #, fuzzy
-#~| msgid ""
-#~| "A KDE text-editor component could not be found;\n"
-#~| "please check your KDE installation."
 #~ msgid ""
 #~ "A KDE text-editor component could not be found.\n"
 #~ "Please check your KDE installation."

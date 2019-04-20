@@ -25,8 +25,8 @@ msgid ""
 "<h1>Konqueror Behavior</h1> You can configure how Konqueror behaves as a "
 "file manager here."
 msgstr ""
-"<h1>കോണ്‍ക്വററിന്റെ പെരുമാറ്റം</h1> കോണ്‍ക്വറര്‍ ഒരു ഫയലുകളുടെ നടത്തിപ്പുകാരനായി എങ്ങിനെ "
-"പ്രവര്‍ത്തിക്കുന്നുവെന്നതു് ഇവിടെ ക്രമീകരിക്കാം."
+"<h1>കോണ്‍ക്വററിന്റെ പെരുമാറ്റം</h1> കോണ്‍ക്വറര്‍ ഒരു ഫയലുകളുടെ നടത്തിപ്പുകാരനായി എങ്ങിനെ പ്രവര്‍"
+"ത്തിക്കുന്നുവെന്നതു് ഇവിടെ ക്രമീകരിക്കാം."
 
 #: behaviour.cpp:52
 #, kde-format
@@ -49,28 +49,22 @@ msgstr ""
 
 #: behaviour.cpp:85
 #, fuzzy, kde-format
-#| msgid "Show 'Delete' context me&nu entries which bypass the trashcan"
 msgid "Show 'Delete' me&nu entries which bypass the trashcan"
 msgstr "ചവറ്റുകുട്ട മറികടക്കാന്‍ 'നീക്കം ചെയ്യുക' എന്നതു് &വിഭവസൂചികകളില്‍ കാണിക്കുക. "
 
 #: behaviour.cpp:89
 #, fuzzy, kde-format
-#| msgid ""
-#| "Check this if you want 'Delete' menu commands to be displayed on the "
-#| "desktop and in the file manager's context menus. You can always delete "
-#| "files by holding the Shift key while calling 'Move to Trash'."
 msgid ""
 "Check this if you want 'Delete' menu commands to be displayed on the desktop "
 "and in the file manager's menus and context menus. You can always delete "
 "files by holding the Shift key while calling 'Move to Trash'."
 msgstr ""
 "പണിയിടത്തിന്റെയും ഫയല്‍ കാര്യസ്ഥന്റെയും വിഭവസൂചികകളില്‍ 'നീക്കം ചെയ്യുക' എന്ന ആജ്ഞ കാണണമെങ്കില്‍ "
-"ഇതു് തെരഞ്ഞെടുക്കുക. 'ചവറ്റുകുട്ടയിലേക്കു് നീക്കുക' എന്നതു് പ്രയോഗിക്കുമ്പോള്‍ Shift കീ "
-"അമര്‍ത്തിപ്പിടിച്ചാല്‍ ഫയലുകള്‍ എപ്പോഴും നീക്കം ചെയ്യാവുന്നതാണു്."
+"ഇതു് തെരഞ്ഞെടുക്കുക. 'ചവറ്റുകുട്ടയിലേക്കു് നീക്കുക' എന്നതു് പ്രയോഗിക്കുമ്പോള്‍ Shift കീ അമര്‍"
+"ത്തിപ്പിടിച്ചാല്‍ ഫയലുകള്‍ എപ്പോഴും നീക്കം ചെയ്യാവുന്നതാണു്."
 
 #: kcustommenueditor.cpp:95
 #, fuzzy, kde-format
-#| msgid "Menu Editor"
 msgctxt "@title:window"
 msgid "Menu Editor"
 msgstr "വിഭവസൂചിക ചിട്ടപ്പെടുത്തല്‍"
@@ -112,7 +106,6 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ "പ്രത്യേക ഐച്ഛികങ്ങളെക്കുറിച്ചുള്ള സഹായത്തിനായി \"എന്താണിതു്?\" (Shift+F1) ഉപയോഗിക്കുക."
 
 #, fuzzy
-#~| msgid "Des&ktop path:"
 #~ msgid "Desktop path:"
 #~ msgstr "പണിയിട പാത:"
 
@@ -125,7 +118,6 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ "അതിലുള്ളവയും പുതിയ സ്ഥാനത്തേക്കു് സ്വയം മാറും."
 
 #, fuzzy
-#~| msgid "A&utostart path:"
 #~ msgid "Autostart path:"
 #~ msgstr "സ്വയാരംഭ പാത:"
 
@@ -140,7 +132,6 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ "അതനുസരിച്ചു് മാറും."
 
 #, fuzzy
-#~| msgid "D&ocuments path:"
 #~ msgid "Documents path:"
 #~ msgstr "രചനകളുടെ പാത:"
 
@@ -149,43 +140,32 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ msgstr "രചനകള്‍ സൂക്ഷിക്കാനും തിരിച്ചെടുക്കാനും ഈ അറ തനതായി ഉപയോഗിക്കപ്പെടും."
 
 #, fuzzy
-#~| msgid "D&ocuments path:"
 #~ msgid "Downloads path:"
 #~ msgstr "രചനകളുടെ പാത:"
 
 #, fuzzy
-#~| msgid ""
-#~| "This folder will be used by default to load or save documents from or to."
 #~ msgid "This folder will be used by default to save your downloaded items."
 #~ msgstr "രചനകള്‍ സൂക്ഷിക്കാനും തിരിച്ചെടുക്കാനും ഈ അറ തനതായി ഉപയോഗിക്കപ്പെടും."
 
 #, fuzzy
-#~| msgid "D&ocuments path:"
 #~ msgid "Movies path:"
 #~ msgstr "രചനകളുടെ പാത:"
 
 #, fuzzy
-#~| msgid ""
-#~| "This folder will be used by default to load or save documents from or to."
 #~ msgid ""
 #~ "This folder will be used by default to load or save movies from or to."
 #~ msgstr "രചനകള്‍ സൂക്ഷിക്കാനും തിരിച്ചെടുക്കാനും ഈ അറ തനതായി ഉപയോഗിക്കപ്പെടും."
 
 #, fuzzy
-#~| msgid "D&ocuments path:"
 #~ msgid "Pictures path:"
 #~ msgstr "രചനകളുടെ പാത:"
 
 #, fuzzy
-#~| msgid ""
-#~| "This folder will be used by default to load or save documents from or to."
 #~ msgid ""
 #~ "This folder will be used by default to load or save pictures from or to."
 #~ msgstr "രചനകള്‍ സൂക്ഷിക്കാനും തിരിച്ചെടുക്കാനും ഈ അറ തനതായി ഉപയോഗിക്കപ്പെടും."
 
 #, fuzzy
-#~| msgid ""
-#~| "This folder will be used by default to load or save documents from or to."
 #~ msgid ""
 #~ "This folder will be used by default to load or save music from or to."
 #~ msgstr "രചനകള്‍ സൂക്ഷിക്കാനും തിരിച്ചെടുക്കാനും ഈ അറ തനതായി ഉപയോഗിക്കപ്പെടും."
@@ -197,13 +177,10 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ msgstr "പണിയിടം"
 
 #, fuzzy
-#~| msgid "D&ocuments path:"
 #~ msgid "Documents"
 #~ msgstr "രചനകളുടെ പാത:"
 
 #, fuzzy
-#~| msgctxt "Move desktop files from old to new place"
-#~| msgid "Move"
 #~ msgid "Movies"
 #~ msgstr "നീക്കുക"
 
@@ -215,16 +192,11 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ "'%2'-ല്‍ നിന്നും '%3'-ലേക്കു് ഫയലുകള്‍ മാറ്റണോ?"
 
 #, fuzzy
-#~| msgctxt "Move desktop files from old to new place"
-#~| msgid "Move"
 #~ msgctxt "Move files from old to new place"
 #~ msgid "Move"
 #~ msgstr "നീക്കുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "The path for '%1' has been changed.\n"
-#~| "Do you want the files to be moved from '%2' to '%3'?"
 #~ msgid ""
 #~ "The path for '%1' has been changed.\n"
 #~ "Do you want to move the directory '%2' to '%3'?"
@@ -233,8 +205,6 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ "'%2'-ല്‍ നിന്നും '%3'-ലേക്കു് ഫയലുകള്‍ മാറ്റണോ?"
 
 #, fuzzy
-#~| msgctxt "Move desktop files from old to new place"
-#~| msgid "Move"
 #~ msgctxt "Move the directory"
 #~ msgid "Move"
 #~ msgstr "നീക്കുക"
@@ -252,10 +222,10 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ "trash folder, from where it can be recovered very easily.</li> "
 #~ "<li><em>Delete:</em> simply deletes the file.</li> </ul>"
 #~ msgstr ""
-#~ "നിങ്ങള്‍ ഒരു ഫയല്‍ \"നീക്കം ചെയ്യുമ്പോള്‍\" ഉറപ്പാക്കല്‍ ചോദിക്കണോ വേണ്ടയോ എന്നു് ഈ ഐച്ഛികം "
-#~ "കോണ്‍ക്വററിനോടു് പറയും. <ul><li><em>ചവറ്റുകുട്ടയിലേക്കു് മാറ്റുക:</em> ഫയലിനെ ചവര്‍ "
-#~ "അറയിലേക്കു് മാറ്റുന്നു, അവിടെനിന്നു് അതിനെ എളുപ്പം തിരികെ കൊണ്ടുവരാന്‍ സാധിക്കും.</li> "
-#~ "<li><em>നീക്കം ചെയ്യുക:</em> ഫയലിനെ പൂര്‍ണ്ണമായി നീക്കം ചെയ്യുന്നു.</li> </ul>"
+#~ "നിങ്ങള്‍ ഒരു ഫയല്‍ \"നീക്കം ചെയ്യുമ്പോള്‍\" ഉറപ്പാക്കല്‍ ചോദിക്കണോ വേണ്ടയോ എന്നു് ഈ ഐച്ഛികം കോണ്‍"
+#~ "ക്വററിനോടു് പറയും. <ul><li><em>ചവറ്റുകുട്ടയിലേക്കു് മാറ്റുക:</em> ഫയലിനെ ചവര്‍ അറയിലേക്കു് "
+#~ "മാറ്റുന്നു, അവിടെനിന്നു് അതിനെ എളുപ്പം തിരികെ കൊണ്ടുവരാന്‍ സാധിക്കും.</li> <li><em>നീക്കം "
+#~ "ചെയ്യുക:</em> ഫയലിനെ പൂര്‍ണ്ണമായി നീക്കം ചെയ്യുന്നു.</li> </ul>"
 
 #~ msgctxt "@option:check Ask for confirmation when moving to trash"
 #~ msgid "&Move to trash"
@@ -299,7 +269,6 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ "ഉദാഹരണത്തിനു്, 1 MB (തനതു്) ആണു് സജ്ജീകരിച്ചിരിക്കുന്നതെങ്കില്‍, വേഗമില്ലായ്മ കാരണം, 1 MB-"
 #~ "യില്‍ കൂടിയ ഫയലുകള്‍ക്കു് മുന്‍കാഴ്ചകള്‍ ഉല്‍പാദിപ്പിക്കപ്പെടില്ല."
 
-#~| msgid "Select Protocols"
 #~ msgctxt ""
 #~ "@title:column Header of a column where the user has to select in which "
 #~ "protocols he wants to see file previews"
@@ -501,10 +470,10 @@ msgstr "താഴേക്കു് നീക്കുക"
 #~ "applications like netscape that check the root window for running "
 #~ "instances, disable this option."
 #~ msgstr ""
-#~ "xസ്നോ, xപെന്‍ഗ്വിന്‍ or xമൌണ്ടന്‍ മുതലായ, പണിയിടത്തില്‍ വരയ്ക്കുന്ന X11 പ്രയോഗങ്ങള്‍ "
-#~ "പ്രവര്‍ത്തിപ്പിക്കണമെങ്കില്‍, ഈ ഐച്ഛികം തെരഞ്ഞെടുക്കുക. പ്രവര്‍ത്തിക്കുന്നവയുടെ റൂട്ട് ജാലകം "
-#~ "പരിശോധിക്കുന്ന നെറ്റ്സ്കേപ്പ് പോലുള്ള പ്രയോഗങ്ങള്‍ പ്രശ്നമുണ്ടാക്കുന്നുണ്ടെങ്കില്‍, ഈ ഐച്ഛികം "
-#~ "പ്രവര്‍ത്തനരഹിതമാക്കുക."
+#~ "xസ്നോ, xപെന്‍ഗ്വിന്‍ or xമൌണ്ടന്‍ മുതലായ, പണിയിടത്തില്‍ വരയ്ക്കുന്ന X11 പ്രയോഗങ്ങള്‍ പ്രവര്‍"
+#~ "ത്തിപ്പിക്കണമെങ്കില്‍, ഈ ഐച്ഛികം തെരഞ്ഞെടുക്കുക. പ്രവര്‍ത്തിക്കുന്നവയുടെ റൂട്ട് ജാലകം "
+#~ "പരിശോധിക്കുന്ന നെറ്റ്സ്കേപ്പ് പോലുള്ള പ്രയോഗങ്ങള്‍ പ്രശ്നമുണ്ടാക്കുന്നുണ്ടെങ്കില്‍, ഈ ഐച്ഛികം പ്രവര്‍"
+#~ "ത്തനരഹിതമാക്കുക."
 
 #~ msgid "Allow pro&grams in desktop window"
 #~ msgstr "പണിയിടജാലകത്തില്‍ പ്രയോഗങ്ങള്‍ അനുവദിക്കുക"

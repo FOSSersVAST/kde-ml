@@ -59,9 +59,6 @@ msgstr ""
 
 #: kalzium_plasma.cpp:109
 #, fuzzy, kde-format
-#| msgid ""
-#| "\n"
-#| "Boilingpoint: %1"
 msgid ""
 "\n"
 "Boiling point: %1"
@@ -71,9 +68,6 @@ msgstr ""
 
 #: kalzium_plasma.cpp:110
 #, fuzzy, kde-format
-#| msgid ""
-#| "\n"
-#| "Boilingpoint: %1"
 msgid ""
 "\n"
 "Melting point: %1"

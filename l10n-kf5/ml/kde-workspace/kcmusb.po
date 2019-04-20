@@ -286,7 +286,6 @@ msgstr "kcmusb"
 
 #: kcmusb.cpp:69
 #, fuzzy, kde-format
-#| msgid "Device"
 msgid "USB Devices"
 msgstr "ഉപകരണം"
 

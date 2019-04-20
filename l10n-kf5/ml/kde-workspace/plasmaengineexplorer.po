@@ -19,13 +19,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #, fuzzy, kde-format
-#| msgid "Your names"
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍"
 
 #, fuzzy, kde-format
-#| msgid "Your emails"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "pravi.a@gmail.com"
@@ -84,7 +82,6 @@ msgstr ""
 
 #: engineexplorer.cpp:304
 #, fuzzy, kde-format
-#| msgid "update every "
 msgid "Update source now"
 msgstr "പുതുക്കേണ്ടതോരോ"
 
@@ -136,7 +133,6 @@ msgstr "പ്ലാസ്മ ഡാറ്റാഎഞ്ചിന്‍ എക�
 
 #: engineexplorer.cpp:512
 #, fuzzy, kde-format
-#| msgid "%1 - %2 data sources"
 msgctxt "The name of the engine followed by the number of data sources"
 msgid "%1 Engine - 1 data source"
 msgid_plural "%1 Engine - %2 data sources"
@@ -152,28 +148,24 @@ msgstr "സ്രോതസ്സിന്റെ പേരു്"
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, m_updateInterval)
 #: engineexplorer.ui:75
 #, fuzzy, kde-format
-#| msgid "update every "
 msgid "Update on demand"
 msgstr "പുതുക്കേണ്ടതോരോ"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, m_updateInterval)
 #: engineexplorer.ui:81
 #, fuzzy, kde-format
-#| msgid "ms"
 msgid " ms"
 msgstr "മിസെ"
 
 #. i18n: ectx: property (prefix), widget (QSpinBox, m_updateInterval)
 #: engineexplorer.ui:84
 #, fuzzy, kde-format
-#| msgid "update every "
 msgid "Update Every "
 msgstr "പുതുക്കേണ്ടതോരോ"
 
 #. i18n: ectx: property (text), widget (QPushButton, m_sourceRequesterButton)
 #: engineexplorer.ui:100
 #, fuzzy, kde-format
-#| msgid "Request"
 msgid "Request Source"
 msgstr "ചോദിയ്ക്കുക"
 
@@ -186,7 +178,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_serviceRequesterButton)
 #: engineexplorer.ui:133
 #, fuzzy, kde-format
-#| msgid "Request"
 msgid "Request Service for Source"
 msgstr "ചോദിയ്ക്കുക"
 

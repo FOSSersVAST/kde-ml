@@ -41,7 +41,6 @@ msgstr ""
 
 #: package/contents/ui/main.qml:60
 #, fuzzy, kde-format
-#| msgid "Bus&y Cursor"
 msgid "Cursor:"
 msgstr "&തിരക്കിലാണെന്ന കര്‍സര്‍"
 
@@ -57,13 +56,11 @@ msgstr ""
 
 #: package/contents/ui/main.qml:77
 #, fuzzy, kde-format
-#| msgid "Blinking Cursor"
 msgid "Blinking"
 msgstr "ചിമ്മുന്ന കര്‍സര്‍"
 
 #: package/contents/ui/main.qml:85
 #, fuzzy, kde-format
-#| msgid "Bouncing Cursor"
 msgid "Bouncing"
 msgstr "തട്ടിതിരിച്ചുവരുന്ന (ബൗണ്‍സിങ്ങ് ) കര്‍സര്‍"
 
@@ -74,19 +71,16 @@ msgstr ""
 
 #: package/contents/ui/main.qml:95
 #, fuzzy, kde-format
-#| msgid "Enable &taskbar notification"
 msgid "Enable animation"
 msgstr "പ്രാവര്‍ത്തികമാക്കുക ടാസ്ക്ക്-ബാര്‍ അറിയിപ്പ്"
 
 #: package/contents/ui/main.qml:104
 #, fuzzy, kde-format
-#| msgid "&Startup indication timeout:"
 msgid "Stop animation after:"
 msgstr "&തുടക്കം സൂചന തരുന്ന സമയം"
 
 #: package/contents/ui/main.qml:113
 #, fuzzy, kde-format
-#| msgid " sec"
 msgid "%1 sec"
 msgid_plural "%1 secs"
 msgstr[0] " സെക്കന്റ്"

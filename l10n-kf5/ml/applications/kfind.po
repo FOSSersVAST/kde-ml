@@ -21,7 +21,6 @@ msgstr ""
 
 #: kfinddlg.cpp:47
 #, fuzzy, kde-format
-#| msgid "Find Files/Folders"
 msgctxt "@title:window"
 msgid "Find Files/Folders"
 msgstr "ഫയലുകള്‍/അറകള്‍ കണ്ടുപിടിക്കുക"
@@ -35,8 +34,6 @@ msgstr ""
 #. i18n as below
 #: kfinddlg.cpp:151
 #, fuzzy, kde-format
-#| msgid "one file found"
-#| msgid_plural "%1 files found"
 msgid "0 items found"
 msgstr "ഒരു ഫയല്‍ ലഭ്യമായി"
 
@@ -67,8 +64,6 @@ msgstr "പറഞ്ഞിരിക്കുന്ന അറ ലഭ്യമാ�
 
 #: kfinddlg.cpp:246 kfinddlg.cpp:270
 #, fuzzy, kde-format
-#| msgid "one file found"
-#| msgid_plural "%1 files found"
 msgid "one item found"
 msgid_plural "%1 items found"
 msgstr[0] "ഒരു ഫയല്‍ ലഭ്യമായി"
@@ -96,42 +91,36 @@ msgstr "ലഭ്യമല്ലാത്ത"
 
 #: kfindtreeview.cpp:74
 #, fuzzy, kde-format
-#| msgid "Name"
 msgctxt "file name column"
 msgid "Name"
 msgstr "പേരു്"
 
 #: kfindtreeview.cpp:76
 #, fuzzy, kde-format
-#| msgid "In Subfolder"
 msgctxt "name of the containing folder"
 msgid "In Subfolder"
 msgstr "ഉപഫോള്‍ഡറില്‍"
 
 #: kfindtreeview.cpp:78
 #, fuzzy, kde-format
-#| msgid "Size"
 msgctxt "file size column"
 msgid "Size"
 msgstr "വലിപ്പം"
 
 #: kfindtreeview.cpp:80
 #, fuzzy, kde-format
-#| msgid "Modified"
 msgctxt "modified date column"
 msgid "Modified"
 msgstr "മാറ്റം വരുത്തിയിരിക്കുന്നു"
 
 #: kfindtreeview.cpp:82
 #, fuzzy, kde-format
-#| msgid "Permissions"
 msgctxt "file permissions column"
 msgid "Permissions"
 msgstr "അനുമതികള്‍"
 
 #: kfindtreeview.cpp:84
 #, fuzzy, kde-format
-#| msgid "First Matching Line"
 msgctxt "first matching line of the query string in this file"
 msgid "First Matching Line"
 msgstr "ചേരുന്ന ആദ്യത്തെ വരി"
@@ -143,7 +132,6 @@ msgstr ""
 
 #: kfindtreeview.cpp:350
 #, fuzzy, kde-format
-#| msgid "Delete"
 msgid "&Delete"
 msgstr "വെട്ടിമാറ്റുക"
 
@@ -154,7 +142,6 @@ msgstr ""
 
 #: kfindtreeview.cpp:431
 #, fuzzy, kde-format
-#| msgid "Save Results As"
 msgctxt "@title:window"
 msgid "Save Results As"
 msgstr "ഫലങ്ങള്‍ സൂക്ഷിക്കേണ്ട പേരു്"
@@ -171,7 +158,6 @@ msgstr "KFind ഫലങ്ങളുടെ ഫയല്‍"
 
 #: kfindtreeview.cpp:486
 #, fuzzy, kde-format
-#| msgid "Results were saved to file\n"
 msgctxt "%1=filename"
 msgid "Results were saved to: %1"
 msgstr "ഫലങ്ങള്‍ ഫയലില്‍ സൂക്ഷച്ചിരിക്കുന്നു\n"
@@ -183,7 +169,6 @@ msgstr "&ഗുണഗണങ്ങള്‍"
 
 #: kftabdlg.cpp:82
 #, fuzzy, kde-format
-#| msgid "&Named:"
 msgctxt "this is the label for the name textfield"
 msgid "&Named:"
 msgstr "&Named:"
@@ -279,7 +264,6 @@ msgstr "&ഗ്രൂപ്പിന്റെ ഉടമസ്ഥതയിലു�
 
 #: kftabdlg.cpp:229
 #, fuzzy, kde-format
-#| msgid "(none)"
 msgctxt "file size isn't considered in the search"
 msgid "(none)"
 msgstr "(ഒന്നുമല്ല)"
@@ -301,7 +285,6 @@ msgstr "സമം"
 
 #: kftabdlg.cpp:234 kftabdlg.cpp:889
 #, fuzzy, kde-format
-#| msgid "Bytes"
 msgid "Byte"
 msgid_plural "Bytes"
 msgstr[0] "ബൈറ്റ്സ്"
@@ -324,7 +307,6 @@ msgstr "GiB"
 
 #: kftabdlg.cpp:300
 #, fuzzy, kde-format
-#| msgid "File &type:"
 msgctxt "label for the file type combobox"
 msgid "File &type:"
 msgstr "ഫയല്‍ &തരം:"
@@ -371,7 +353,6 @@ msgstr "&ചിട്ടപ്പെടുത്തുക..."
 
 #: kftabdlg.cpp:338
 #, fuzzy, kde-format
-#| msgid "fo&r:"
 msgctxt "as in search for"
 msgid "fo&r:"
 msgstr "വേ&ണ്ടി:"
@@ -438,7 +419,6 @@ msgstr "പേരു്/&സ്ഥാനം"
 
 #: kftabdlg.cpp:436
 #, fuzzy, kde-format
-#| msgid "C&ontents"
 msgctxt "tab name: search by contents"
 msgid "C&ontents"
 msgstr "ഉ&ള്ളടക്കം"
@@ -502,7 +482,6 @@ msgstr "സജ്ജമാക്കേണ്ട"
 
 #: kftabdlg.cpp:879
 #, fuzzy, kde-format
-#| msgid "&during the previous"
 msgctxt ""
 "during the previous minute(s)/hour(s)/...; dynamic context 'type': 'i' "
 "minutes, 'h' hours, 'd' days, 'm' months, 'y' years"
@@ -513,7 +492,6 @@ msgstr[1] "നേരത്തേതിന്റെ &സമയത്ത്"
 
 #: kftabdlg.cpp:880
 #, fuzzy, kde-format
-#| msgid "minute(s)"
 msgctxt "use date ranges to search files by modified time"
 msgid "minute"
 msgid_plural "minutes"
@@ -522,7 +500,6 @@ msgstr[1] "മിനിറ്റുകള്‍"
 
 #: kftabdlg.cpp:881
 #, fuzzy, kde-format
-#| msgid "hour(s)"
 msgctxt "use date ranges to search files by modified time"
 msgid "hour"
 msgid_plural "hours"
@@ -531,7 +508,6 @@ msgstr[1] "മണിക്കൂറുകള്‍"
 
 #: kftabdlg.cpp:882
 #, fuzzy, kde-format
-#| msgid "day(s)"
 msgctxt "use date ranges to search files by modified time"
 msgid "day"
 msgid_plural "days"
@@ -540,7 +516,6 @@ msgstr[1] "ദിവസങ്ങള്‍"
 
 #: kftabdlg.cpp:883
 #, fuzzy, kde-format
-#| msgid "month(s)"
 msgctxt "use date ranges to search files by modified time"
 msgid "month"
 msgid_plural "months"
@@ -549,7 +524,6 @@ msgstr[1] "മാസങ്ങള്‍"
 
 #: kftabdlg.cpp:884
 #, fuzzy, kde-format
-#| msgid "year(s)"
 msgctxt "use date ranges to search files by modified time"
 msgid "year"
 msgid_plural "years"
@@ -558,7 +532,6 @@ msgstr[1] "വര്‍ഷങ്ങള്‍"
 
 #: kquery.cpp:600
 #, fuzzy, kde-format
-#| msgid "Error while using locate"
 msgctxt "@title:window"
 msgid "Error while using locate"
 msgstr "locate ഉപയോഗിക്കുമ്പോള്‍ പിശകു്"
@@ -575,7 +548,6 @@ msgstr "കെഡിഇയിലെ ഫയല്‍ തെരയുന്നത�
 
 #: main.cpp:43
 #, fuzzy, kde-format
-#| msgid "(c) 1998-2003, The KDE Developers"
 msgid "(c) 1998-2017, The KDE Developers"
 msgstr "(c) 1998-2003, കെഡിഇ രചയിതാക്കള്‍"
 
@@ -596,7 +568,6 @@ msgstr "എറിക് കോക്വല്‍"
 
 #: main.cpp:46
 #, fuzzy, kde-format
-#| msgid "Current Maintainer"
 msgid "Former Maintainer"
 msgstr "നിലവിലുള്ള പരിപാലകന്‍"
 

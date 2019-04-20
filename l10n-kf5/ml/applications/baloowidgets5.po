@@ -1,0 +1,195 @@
+# Malayalam translations for baloo-widgets package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the baloo-widgets package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: baloo-widgets\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-04-15 02:56+0200\n"
+"PO-Revision-Date: 2019-04-15 02:56+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: src/filemetadataprovider.cpp:168
+#, kde-format
+msgctxt "unknown file size"
+msgid "Unknown"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:170 src/filemetadataprovider.cpp:210
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/filemetadataprovider.cpp:380 src/filemetadataprovider.cpp:394
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:381
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:382
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:383
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:384
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:385
+#, kde-format
+msgctxt "@label"
+msgid "Group"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:386
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:387 src/filemetadataprovider.cpp:393
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:388
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:389 src/filemetadataprovider.cpp:392
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:390
+#, kde-format
+msgctxt "@label"
+msgid "Total Size"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:391
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:395
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr ""
+
+#: src/filepropertiesplugin/baloofilepropertiesplugin.cpp:65
+#, kde-format
+msgctxt "Tab page with file meta data"
+msgid "&Details"
+msgstr ""
+
+#: src/kcommentwidget.cpp:67 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Add..."
+msgstr ""
+
+#: src/kcommentwidget.cpp:73 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Edit..."
+msgstr ""
+
+#: src/kcommentwidget.cpp:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Comment"
+msgstr ""
+
+#: src/kcommentwidget.cpp:120
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Comment"
+msgstr ""
+
+#: src/keditcommentdialog.cpp:45 src/kedittagsdialog.cpp:52
+#, kde-format
+msgid "Save"
+msgstr ""
+
+#: src/kedittagsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Tags"
+msgstr ""
+
+#: src/kedittagsdialog.cpp:48
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Tags"
+msgstr ""
+
+#: src/kedittagsdialog.cpp:62
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Configure which tags should be applied."
+msgstr ""
+
+#: src/kedittagsdialog.cpp:70
+#, kde-format
+msgctxt "@label"
+msgid "Create new tag:"
+msgstr ""
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:43
+#, kde-format
+msgid "Assign Tags"
+msgstr ""
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:71
+#, kde-format
+msgid "Create New..."
+msgstr ""
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:75
+#, kde-format
+msgid "New tag"
+msgstr ""
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:75
+#, kde-format
+msgid "New tag:"
+msgstr ""
+
+#: src/widgetfactory.cpp:89 src/widgetfactory.cpp:96
+#, kde-format
+msgctxt "String list separator"
+msgid ", "
+msgstr ""

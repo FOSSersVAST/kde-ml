@@ -53,36 +53,28 @@ msgstr ""
 
 #: kcmformats.cpp:341
 #, fuzzy, kde-format
-#| msgid "Short date format:"
 msgid "%1 (long format)"
 msgstr "തീയതി ലഘു രീതിയില്‍:"
 
 #: kcmformats.cpp:342
 #, fuzzy, kde-format
-#| msgid "Short date format:"
 msgid "%1 (short format)"
 msgstr "തീയതി ലഘു രീതിയില്‍:"
 
 #: kcmformats.cpp:347
 #, fuzzy, kde-format
-#| msgctxt "The Imperial System"
-#| msgid "Imperial"
 msgctxt "Measurement combobox"
 msgid "Imperial UK"
 msgstr "ഇംപീരിയല്‍"
 
 #: kcmformats.cpp:349
 #, fuzzy, kde-format
-#| msgctxt "The Imperial System"
-#| msgid "Imperial"
 msgctxt "Measurement combobox"
 msgid "Imperial US"
 msgstr "ഇംപീരിയല്‍"
 
 #: kcmformats.cpp:351
 #, fuzzy, kde-format
-#| msgctxt "The Metric System"
-#| msgid "Metric"
 msgctxt "Measurement combobox"
 msgid "Metric"
 msgstr "മെട്രിക്"
@@ -96,35 +88,30 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, checkDetailed)
 #: kcmformatswidget.ui:76
 #, fuzzy, kde-format
-#| msgid "Regional settings"
 msgid "De&tailed Settings"
 msgstr "പ്രാദേശിക ക്രമികരണങ്ങള്‍"
 
 #. i18n: ectx: property (text), widget (QLabel, labelNumbers)
 #: kcmformatswidget.ui:83
 #, fuzzy, kde-format
-#| msgid "Numbers:"
 msgid "&Numbers:"
 msgstr "അക്കങ്ങള്‍:"
 
 #. i18n: ectx: property (text), widget (QLabel, labelTime)
 #: kcmformatswidget.ui:112
 #, fuzzy, kde-format
-#| msgid "Time:"
 msgid "&Time:"
 msgstr "സമയം:"
 
 #. i18n: ectx: property (text), widget (QLabel, labelCurrency)
 #: kcmformatswidget.ui:141
 #, fuzzy, kde-format
-#| msgid "Currency symbol:"
 msgid "Currenc&y:"
 msgstr "നാണയത്തിന്റെ ചിഹ്നം:"
 
 #. i18n: ectx: property (text), widget (QLabel, labelMeasurement)
 #: kcmformatswidget.ui:170
 #, fuzzy, kde-format
-#| msgid "Measure system:"
 msgid "Measurement &Units:"
 msgstr "അളവു് സംവിധാനം:"
 
@@ -155,19 +142,16 @@ msgstr "സമയം:"
 #. i18n: ectx: property (text), widget (QLabel, lexCurrency)
 #: kcmformatswidget.ui:288
 #, fuzzy, kde-format
-#| msgid "Currency symbol:"
 msgid "Currency:"
 msgstr "നാണയത്തിന്റെ ചിഹ്നം:"
 
 #. i18n: ectx: property (text), widget (QLabel, lexMeasurement_2)
 #: kcmformatswidget.ui:308
 #, fuzzy, kde-format
-#| msgid "Measure system:"
 msgid "Measurement Units:"
 msgstr "അളവു് സംവിധാനം:"
 
 #, fuzzy
-#~| msgid "Examples"
 #~ msgid "<b>Examples</b>"
 #~ msgstr "ഉദാഹരണങ്ങള്‍"
 
@@ -190,7 +174,6 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "ക്രമികരിച്ചിട്ടില്ല (സാധാരണ ഇംഗ്ലീഷ്)"
 
 #, fuzzy
-#~| msgid "&Locale"
 #~ msgid "kcmlocale"
 #~ msgstr "&ലോക്കേല്‍"
 
@@ -205,49 +188,39 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "ഭാഷയ്ക്കു് ആവശ്യമുള്ള ക്രമികരണങ്ങള്‍ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Day name list, option for no day of religious observance"
-#~| msgid "None"
 #~ msgctxt "No separator symbol"
 #~ msgid "None"
 #~ msgstr "ഒന്നുമില്ല"
 
 #, fuzzy
-#~| msgid "Country Selector"
 #~ msgid "Country"
 #~ msgstr "രാജ്യം തിരഞ്ഞെടുക്കല്‍"
 
 #, fuzzy
-#~| msgid "Languages:"
 #~ msgid "Languages"
 #~ msgstr "ഭാഷകള്‍:"
 
 #, fuzzy
-#~| msgid "Numbers:"
 #~ msgid "Numbers"
 #~ msgstr "അക്കങ്ങള്‍:"
 
 #, fuzzy
-#~| msgid "Money:"
 #~ msgid "Money"
 #~ msgstr "പണം:"
 
 #, fuzzy
-#~| msgid "Calendar system:"
 #~ msgid "Calendar"
 #~ msgstr "കലണ്ടര്‍ സിസ്റ്റം:"
 
 #, fuzzy
-#~| msgid "&Other"
 #~ msgid "Other"
 #~ msgstr "&മറ്റുള്ളവ"
 
 #, fuzzy
-#~| msgid "This is how numbers will be displayed."
 #~ msgid "This is how positive numbers will be displayed."
 #~ msgstr "ഇങ്ങനെയാണു് അക്കങ്ങള്‍ കാണപ്പെടുന്നുതു്."
 
 #, fuzzy
-#~| msgid "This is how numbers will be displayed."
 #~ msgid "This is how negative numbers will be displayed."
 #~ msgstr "ഇങ്ങനെയാണു് അക്കങ്ങള്‍ കാണപ്പെടുന്നുതു്."
 
@@ -255,12 +228,10 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "പണം:"
 
 #, fuzzy
-#~| msgid "This is how monetary values will be displayed."
 #~ msgid "This is how positive monetary values will be displayed."
 #~ msgstr "നാണയ വിലകള്‍ പ്രദര്‍ശിപ്പിയ്ക്കുന്നതിങ്ങനെയായിരിയ്ക്കും."
 
 #, fuzzy
-#~| msgid "This is how monetary values will be displayed."
 #~ msgid "This is how negative monetary values will be displayed."
 #~ msgstr "നാണയ വിലകള്‍ പ്രദര്‍ശിപ്പിയ്ക്കുന്നതിങ്ങനെയായിരിയ്ക്കും."
 
@@ -268,7 +239,6 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "തീയതി:"
 
 #, fuzzy
-#~| msgid "This is how date values will be displayed."
 #~ msgid "This is how long dates will be displayed."
 #~ msgstr "ഇങ്ങനെയാണു് തീയതി കാണപ്പെടുന്നുതു്."
 
@@ -276,24 +246,18 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "തീയതിയുടെ ലഘുരൂപം:"
 
 #, fuzzy
-#~| msgid "This is how the time will be displayed."
 #~ msgid "This is how short dates will be displayed."
 #~ msgstr "ഇങ്ങനെയാണു് സമയം കാണപ്പെടുന്നുതു്."
 
 #, fuzzy
-#~| msgid "This is how the time will be displayed."
 #~ msgid "This is how time will be displayed."
 #~ msgstr "ഇങ്ങനെയാണു് സമയം കാണപ്പെടുന്നുതു്."
 
 #, fuzzy
-#~| msgid "Country or region:"
 #~ msgid "Country:"
 #~ msgstr "രാജ്യം അല്ലെങ്കില്‍ പ്രദേശം:"
 
 #, fuzzy
-#~| msgid ""
-#~| "This is where you live. KDE will use the defaults for this country or "
-#~| "region."
 #~ msgid ""
 #~ "<p>This is the country where you live.  The KDE Workspace will use the "
 #~ "settings for this country or region.</p>"
@@ -302,9 +266,6 @@ msgstr "അളവു് സംവിധാനം:"
 #~ "ഉപയോഗിക്കുന്നു."
 
 #, fuzzy
-#~| msgid ""
-#~| "This is where you live. KDE will use the defaults for this country or "
-#~| "region."
 #~ msgid ""
 #~ "<p>This is the country subdivision where you live, e.g. your state or "
 #~ "province.  The KDE Workspace will use this setting for local information "
@@ -314,50 +275,39 @@ msgstr "അളവു് സംവിധാനം:"
 #~ "ഉപയോഗിക്കുന്നു."
 
 #, fuzzy
-#~| msgid "Languages:"
 #~ msgid "Available Languages:"
 #~ msgstr "ഭാഷകള്‍:"
 
 #, fuzzy
-#~| msgid "Languages:"
 #~ msgid "Preferred Languages:"
 #~ msgstr "ഭാഷകള്‍:"
 
 #, fuzzy
-#~| msgid "Thousands separator:"
 #~ msgid "Group separator:"
 #~ msgstr "ആയിരങ്ങളെ വേര്‍തിരിച്ചു് കാണിയ്ക്കുന്ന അടയാളം:"
 
 #, fuzzy
-#~| msgid "Decimal symbol:"
 #~ msgid "Decimal separator:"
 #~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
 
 #, fuzzy
-#~| msgid "Decimal symbol:"
 #~ msgid "Decimal places:"
 #~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
 
 #, fuzzy
-#~| msgid "Positive si&gn:"
 #~ msgid "Positive sign:"
 #~ msgstr "പോസിറ്റീവ്  &ചിഹ്നം:"
 
 #, fuzzy
-#~| msgctxt "Day name list, option for no day of religious observance"
-#~| msgid "None"
 #~ msgctxt "No positive symbol"
 #~ msgid "None"
 #~ msgstr "ഒന്നുമില്ല"
 
 #, fuzzy
-#~| msgid "&Negative sign:"
 #~ msgid "Negative sign:"
 #~ msgstr "&നെഗറ്റീവ് ചിഹ്നം:"
 
 #, fuzzy
-#~| msgctxt "Day name list, option for no day of religious observance"
-#~| msgid "None"
 #~ msgctxt "No negative symbol"
 #~ msgid "None"
 #~ msgstr "ഒന്നുമില്ല"
@@ -369,7 +319,6 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "നാണയത്തിന്റെ ചിഹ്നം:"
 
 #, fuzzy
-#~| msgid "Time format:"
 #~ msgid "Positive format:"
 #~ msgstr "സമയത്തിന്റെ രീതി:"
 
@@ -395,7 +344,6 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "നാണയചിഹ്നത്തിനു് മുമ്പില്‍ വയ്ക്കേണ്ടതു്"
 
 #, fuzzy
-#~| msgid "Date format:"
 #~ msgid "Negative format:"
 #~ msgstr "തീയതിയുടെ രീതി:"
 
@@ -403,27 +351,22 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "കലണ്ടര്‍ സിസ്റ്റം:"
 
 #, fuzzy
-#~| msgid "Measure system:"
 #~ msgid "Week number system:"
 #~ msgstr "അളവു് സംവിധാനം:"
 
 #, fuzzy
-#~| msgid "First day of the week:"
 #~ msgid "First day of week:"
 #~ msgstr "ആഴ്ചയുടെ ആദ്യത്തെ ദിവസം: "
 
 #, fuzzy
-#~| msgid "First working day of the week:"
 #~ msgid "First working day of week:"
 #~ msgstr "ആഴ്ചയിലെ ആദ്യത്തെ പ്രവൃത്തി ദിവസം: "
 
 #, fuzzy
-#~| msgid "Last working day of the week:"
 #~ msgid "Last working day of week:"
 #~ msgstr "ആഴ്ചയിലെ അവസാനത്തെ പ്രവൃത്തി ദിവസം: "
 
 #, fuzzy
-#~| msgid "Day of the week for religious observance:"
 #~ msgid "Week day for special religious observance:"
 #~ msgstr "ആഴ്ചയിലെ മതാനുഷ്ടാനത്തിനുള്ള ദിവസം:"
 
@@ -461,12 +404,10 @@ msgstr "അളവു് സംവിധാനം:"
 #~ "pH:MM:SS AMPM"
 
 #, fuzzy
-#~| msgid "Decimal symbol:"
 #~ msgid "AM symbol:"
 #~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
 
 #, fuzzy
-#~| msgid "Decimal symbol:"
 #~ msgid "PM symbol:"
 #~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
 
@@ -502,7 +443,6 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "WEEKDAY"
 
 #, fuzzy
-#~| msgid "SHORTWEEKDAY"
 #~ msgid "ISOWEEK"
 #~ msgstr "SHORTWEEKDAY"
 
@@ -525,44 +465,36 @@ msgstr "അളവു് സംവിധാനം:"
 #~ "DD.MM.YYYY"
 
 #, fuzzy
-#~| msgid "A4"
 #~ msgctxt "Page size"
 #~ msgid "A4"
 #~ msgstr "A4"
 
 #, fuzzy
-#~| msgid "US Letter"
 #~ msgctxt "Page size"
 #~ msgid "US Letter"
 #~ msgstr "യുഎസ് ലെറ്റര്‍"
 
 #, fuzzy
-#~| msgid "Measure system:"
 #~ msgid "Metric System"
 #~ msgstr "അളവു് സംവിധാനം:"
 
 #, fuzzy
-#~| msgid "Measure system:"
 #~ msgid "Measurement system"
 #~ msgstr "അളവു് സംവിധാനം:"
 
 #, fuzzy
-#~| msgid "Languages:"
 #~ msgid "&Available Languages:"
 #~ msgstr "ഭാഷകള്‍:"
 
 #, fuzzy
-#~| msgid "Languages:"
 #~ msgid "&Preferred Languages:"
 #~ msgstr "ഭാഷകള്‍:"
 
 #, fuzzy
-#~| msgid "Languages:"
 #~ msgid "Preferred Langauges:"
 #~ msgstr "ഭാഷകള്‍:"
 
 #, fuzzy
-#~| msgid "Decimal symbol:"
 #~ msgid "Decimal seperator:"
 #~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
 
@@ -637,7 +569,6 @@ msgstr "അളവു് സംവിധാനം:"
 #~ msgstr "ആയിരങ്ങളെ വേര്‍തിരിച്ചു് കാണിയ്ക്കുന്ന അടയാളം:"
 
 #, fuzzy
-#~| msgid "Decimal symbol:"
 #~ msgid "Decimal &places:"
 #~ msgstr "ഡെസിമലിനുള്ള ചിഹ്നം:"
 

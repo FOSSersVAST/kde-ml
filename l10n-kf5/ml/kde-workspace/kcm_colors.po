@@ -41,7 +41,6 @@ msgstr ""
 
 #: colors.cpp:110
 #, fuzzy, kde-format
-#| msgid "Get &New Schemes..."
 msgid "Download New Color Schemes"
 msgstr "&പുതിയ നിറക്കൂട്ടുകള്‍ ലഭ്യമാക്കുക..."
 
@@ -52,13 +51,11 @@ msgstr ""
 
 #: colors.cpp:180
 #, fuzzy, kde-format
-#| msgid "&Enter a name for the color scheme:"
 msgid "Unable to download the color scheme: %1"
 msgstr "നിറങ്ങളുടെ കൂട്ടിനു് ഒരു പേരു് &നല്‍കുക:"
 
 #: colors.cpp:198
 #, fuzzy, kde-format
-#| msgid "Import a color scheme from a file"
 msgid "This file is not a color scheme file."
 msgstr "ഒരു ഫയലില്‍ നിന്നും നിറക്കൂട്ടു് എടുക്കുക"
 
@@ -79,13 +76,11 @@ msgstr ""
 
 #: editor/kcolorschemeeditor.cpp:35
 #, fuzzy, kde-format
-#| msgid "Save Color Scheme"
 msgid "KColorSchemeEditor"
 msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
 
 #: editor/kcolorschemeeditor.cpp:37
 #, fuzzy, kde-format
-#| msgid "Save the current color scheme"
 msgid "Utility to edit and create color schemes"
 msgstr "നിലവിലുള്ള നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
 
@@ -207,7 +202,6 @@ msgstr "ഐച്ഛികങ്ങള്‍"
 
 #: editor/scmeditordialog.cpp:81
 #, fuzzy, kde-format
-#| msgid "Disabled"
 msgid "Disabled"
 msgstr "പ്രവര്‍ത്തനരഹിതം"
 
@@ -262,7 +256,6 @@ msgstr "പിശകു്"
 
 #: editor/scmeditordialog.cpp:237
 #, fuzzy, kde-format
-#| msgid "Inactive"
 msgid "Inactive"
 msgstr "സജീവമല്ലാത്ത"
 
@@ -284,81 +277,68 @@ msgstr ""
 
 #: package/contents/ui/main.qml:133
 #, fuzzy, kde-format
-#| msgid "Import Scheme..."
 msgid "All Schemes"
 msgstr "നിറക്കൂട്ടു് എടുക്കുക..."
 
 #: package/contents/ui/main.qml:134
 #, fuzzy, kde-format
-#| msgid "&Scheme"
 msgid "Light Schemes"
 msgstr "&നിറക്കൂട്ടു്"
 
 #: package/contents/ui/main.qml:135
 #, fuzzy, kde-format
-#| msgid "Save Scheme..."
 msgid "Dark Schemes"
 msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക..."
 
 #: package/contents/ui/main.qml:189
 #, fuzzy, kde-format
-#| msgid "Window text"
 msgid "Window text"
 msgstr "ജാലകത്തിനുള്ള പദാവലി"
 
 #: package/contents/ui/main.qml:196
 #, fuzzy, kde-format
-#| msgid "Button"
 msgid "Button"
 msgstr "ബട്ടണ്‍"
 
 #: package/contents/ui/main.qml:215
 #, fuzzy, kde-format
-#| msgid "link"
 msgctxt "Hyperlink"
 msgid "link"
 msgstr "കണ്ണി"
 
 #: package/contents/ui/main.qml:217
 #, fuzzy, kde-format
-#| msgid "visited"
 msgctxt "Visited hyperlink"
 msgid "visited"
 msgstr "സന്ദര്‍ശിച്ചതു്"
 
 #: package/contents/ui/main.qml:223
 #, fuzzy, kde-format
-#| msgid "Normal text"
 msgid "Normal text"
 msgstr "സാധരണ പദാവലി"
 
 #: package/contents/ui/main.qml:231
 #, fuzzy, kde-format
-#| msgid "Visited Text"
 msgid "Highlighted text"
 msgstr "സന്ദര്‍ശിച്ച പദാവലി"
 
 #: package/contents/ui/main.qml:238
 #, fuzzy, kde-format
-#| msgid "Disabled"
 msgid "Disabled text"
 msgstr "പ്രവര്‍ത്തനരഹിതം"
 
 #: package/contents/ui/main.qml:256
 #, fuzzy, kde-format
-#| msgid "Import Scheme..."
 msgid "Edit Color Scheme..."
 msgstr "നിറക്കൂട്ടു് എടുക്കുക..."
 
 #: package/contents/ui/main.qml:262
 #, fuzzy, kde-format
-#| msgid "Save Color Scheme"
 msgid "Remove Color Scheme"
 msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
 
 #: package/contents/ui/main.qml:269
 #, fuzzy, kde-format
-#| msgid "Import Color Scheme"
 msgid "Restore Color Scheme"
 msgstr "നിറക്കൂട്ടു് എടുക്കുക"
 
@@ -369,13 +349,11 @@ msgstr ""
 
 #: package/contents/ui/main.qml:318
 #, fuzzy, kde-format
-#| msgid "Get &New Schemes..."
 msgid "Get New Color Schemes..."
 msgstr "&പുതിയ നിറക്കൂട്ടുകള്‍ ലഭ്യമാക്കുക..."
 
 #: package/contents/ui/main.qml:330
 #, fuzzy, kde-format
-#| msgid "Save Color Scheme"
 msgid "Open Color Scheme"
 msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
 
@@ -385,7 +363,6 @@ msgid "Color Scheme Files (*.colors)"
 msgstr ""
 
 #, fuzzy
-#~| msgid "Save the current color scheme"
 #~ msgid "Choose the color scheme"
 #~ msgstr "നിലവിലുള്ള നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
 
@@ -404,7 +381,6 @@ msgstr ""
 #~ msgstr "നിങ്ങള്‍ക്കു് ഈ നിറക്കൂട്ടു് വേണ്ടെന്ന് വയ്ക്കുന്നതിനുള്ള അനുവാദമില്ല"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgid "Notice"
 #~ msgstr "ശൂന്യം"
 
@@ -412,7 +388,6 @@ msgstr ""
 #~ msgstr "തെരഞ്ഞെടുത്ത നിറക്കൂട്ടു് നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove Scheme"
 #~ msgid "Remove"
 #~ msgstr "നിറക്കൂട്ടു് നീക്കം ചെയ്യുക"
 
@@ -420,146 +395,117 @@ msgstr ""
 #~ msgstr "ഇന്റര്‍നെറ്റില്‍ നിന്നും നിറക്കൂട്ടു് ലഭ്യമാക്കുക"
 
 #, fuzzy
-#~| msgid "Apply colors to &non-KDE4 applications"
 #~ msgid "Apply colors to &non-Qt applications"
 #~ msgstr "&കെഡിഇ4 അല്ലാത്ത പ്രയോഗങ്ങളിലും നിറങ്ങള്‍ പ്രയോഗിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Window Background"
 #~ msgid "Window text on Window Background"
 #~ msgstr "ജാലകത്തിന്റെ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Button Background"
 #~ msgid "Button text on Button Background"
 #~ msgstr "ബട്ടണിന്റെ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Push Button"
 #~ msgctxt "color-kcm-preview"
 #~ msgid "Push Button"
 #~ msgstr "പുഷ് ബട്ടണ്‍"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Selection Normal Text against Selection Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Selected text"
 #~ msgctxt "color-kcm-preview"
 #~ msgid "Selected text"
 #~ msgstr "തെരഞ്ഞെടുത്ത പദാവലി"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Selection Link Text against Selection Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Selection Visited Text against Selection Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Selection Active Text against Selection Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgctxt "active (abbreviate)"
-#~| msgid "a"
 #~ msgctxt "color-kcm-preview"
 #~ msgid "a"
 #~ msgstr "a"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Selection Inactive Text against Selection Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgctxt "inactive (abbreviate)"
-#~| msgid "i"
 #~ msgctxt "color-kcm-preview"
 #~ msgid "i"
 #~ msgstr "i"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Selection Negative Text against Selection Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "!"
 #~ msgctxt "color-kcm-preview"
 #~ msgid "!"
 #~ msgstr "!"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Selection Neutral Text against Selection Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "="
 #~ msgctxt "color-kcm-preview"
 #~ msgid "="
 #~ msgstr "="
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Selection Positive Text against Selection Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "+"
 #~ msgctxt "color-kcm-preview"
 #~ msgid "+"
 #~ msgstr "+"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "View Normal Text against View Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "View Link Text against View Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "View Visited Text against View Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "View Active Text against View Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "View Inactive Text against View Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "View Negative Text against View Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "View Neutral Text against View Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "View Positive Text against View Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Color Set:"
 #~ msgid "Color set:"
 #~ msgstr "നിറക്കൂട്ടം:"
 
@@ -567,31 +513,26 @@ msgstr ""
 #~ msgstr "കാണേണ്ട/മാറ്റേണ്ട നിറക്കൂട്ടം"
 
 #, fuzzy
-#~| msgid "Common Colors"
 #~ msgctxt "color-sets"
 #~ msgid "Common Colors"
 #~ msgstr "സാധാരണ നിറങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "View"
 #~ msgctxt "color-sets"
 #~ msgid "View"
 #~ msgstr "കാഴ്ച"
 
 #, fuzzy
-#~| msgid "Window"
 #~ msgctxt "color-sets"
 #~ msgid "Window"
 #~ msgstr "ജാലകം"
 
 #, fuzzy
-#~| msgid "Selection"
 #~ msgctxt "color-sets"
 #~ msgid "Selection"
 #~ msgstr "തെരഞ്ഞെടുത്തവ"
 
 #, fuzzy
-#~| msgid "Tooltip"
 #~ msgctxt "color-sets"
 #~ msgid "Tooltip"
 #~ msgstr "സൂചന"
@@ -645,7 +586,6 @@ msgstr ""
 #~ msgstr "സജീവമായ തലകെട്ട് ബാര്‍ പദാവലി"
 
 #, fuzzy
-#~| msgid "Active Titlebar Text"
 #~ msgid "Active Titlebar Secondary"
 #~ msgstr "സജീവമായ തലകെട്ട് ബാര്‍ പദാവലി"
 
@@ -656,12 +596,10 @@ msgstr ""
 #~ msgstr "സജീവമല്ലാത്ത തലകെട്ട് ബാര്‍ പദാവലി"
 
 #, fuzzy
-#~| msgid "Inactive Titlebar Text"
 #~ msgid "Inactive Titlebar Secondary"
 #~ msgstr "സജീവമല്ലാത്ത തലകെട്ട് ബാര്‍ പദാവലി"
 
 #, fuzzy
-#~| msgid "Get new color schemes from the Internet"
 #~ msgid "Share the selected scheme on the Internet"
 #~ msgstr "ഇന്റര്‍നെറ്റില്‍ നിന്നും നിറക്കൂട്ടു് ലഭ്യമാക്കുക"
 
@@ -675,25 +613,21 @@ msgstr ""
 #~ msgstr "പ്രവര്‍ത്തനരഹിതമായവയുടെ നിറത്തിന്റെ പ്രഭാവ തരം"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "no disabled color effect"
 #~ msgid "None"
 #~ msgstr "ശൂന്യം"
 
 #, fuzzy
-#~| msgid "Desaturate"
 #~ msgctxt "disabled color effect"
 #~ msgid "Desaturate"
 #~ msgstr "ഡീസാച്ചുറേറ്റ് ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Fade"
 #~ msgctxt "disabled color effect"
 #~ msgid "Fade"
 #~ msgstr "മങ്ങുക"
 
 #, fuzzy
-#~| msgid "Tint"
 #~ msgctxt "disabled color effect"
 #~ msgid "Tint"
 #~ msgstr "ഇളംനിറം"
@@ -702,25 +636,21 @@ msgstr ""
 #~ msgstr "പ്രവര്‍ത്തനരഹിതമായവയുടെ രൂക്ഷതയുടെ പ്രഭാവ തരം"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "no disabled intensity effect"
 #~ msgid "None"
 #~ msgstr "ശൂന്യം"
 
 #, fuzzy
-#~| msgid "Shade"
 #~ msgctxt "disabled intensity effect"
 #~ msgid "Shade"
 #~ msgstr "ചുരുക്കുക"
 
 #, fuzzy
-#~| msgid "Darken"
 #~ msgctxt "disabled intensity effect"
 #~ msgid "Darken"
 #~ msgstr "പ്രകാശം കുറയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Lighten"
 #~ msgctxt "disabled intensity effect"
 #~ msgid "Lighten"
 #~ msgstr "പ്രകാശിപ്പിക്കുക"
@@ -741,19 +671,16 @@ msgstr ""
 #~ msgstr "പ്രവര്‍ത്തനരഹിതമായവയുടെ വ്യത്യയത്തിന്റെ (contrast) തരം"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "no disabled contrast"
 #~ msgid "None"
 #~ msgstr "ശൂന്യം"
 
 #, fuzzy
-#~| msgid "Fade"
 #~ msgctxt "disabled contrast"
 #~ msgid "Fade"
 #~ msgstr "മങ്ങുക"
 
 #, fuzzy
-#~| msgid "Tint"
 #~ msgctxt "disabled contrast"
 #~ msgid "Tint"
 #~ msgstr "ഇളംനിറം"
@@ -762,7 +689,6 @@ msgstr ""
 #~ msgstr "പ്രവര്‍ത്തനരഹിതമായവയുടെ വ്യത്യയത്തിന്റെ അളവു്"
 
 #, fuzzy
-#~| msgid "Apply inactive window color &effects"
 #~ msgid "Apply &effects to inactive windows"
 #~ msgstr "സജീവമല്ലാത്ത ജാലകത്തിനുള്ള നിറ &പ്രഭാവങ്ങള്‍ പ്രയോഗിയ്ക്കുക"
 
@@ -770,7 +696,6 @@ msgstr ""
 #~ msgstr "&പട്ടികകളില്‍ ക്രമീകരിച്ചിരിക്കുന്ന നിരകള്‍ ചുരുക്കുക"
 
 #, fuzzy
-#~| msgid "Shade"
 #~ msgid "Shading"
 #~ msgstr "ചുരുക്കുക"
 
@@ -778,122 +703,100 @@ msgstr ""
 #~ msgstr "വ്യത്യയം (contrast)"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Normal Text on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "normal"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "normal"
 #~ msgstr "സാധാരണ"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Link Text on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "link"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "link"
 #~ msgstr "കണ്ണി"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Visited Text on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "visited"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "visited"
 #~ msgstr "സന്ദര്‍ശിച്ചതു്"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Active Text on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "active"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "active"
 #~ msgstr "സജീവം"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Inactive Text on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "inactive"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "inactive"
 #~ msgstr "സജീവമല്ലാത്ത"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Negative Text on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "negative"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "negative"
 #~ msgstr "നെഗറ്റിവ്"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Neutral Text on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "neutral"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "neutral"
 #~ msgstr "ന്യൂട്രല്‍"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Positive Text on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "positive"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "positive"
 #~ msgstr "പോസിറ്റിവ്"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Hover on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "hover"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "hover"
 #~ msgstr "മുകളില്‍ വരുന്ന"
 
 #, fuzzy
-#~| msgid "Alternate Background"
 #~ msgid "Inactive Text on Alternate Background"
 #~ msgstr "മറ്റൊരു പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "alternate"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "alternate"
 #~ msgstr "പകരമായി"
 
 #, fuzzy
-#~| msgid "Normal Background"
 #~ msgid "Focus on Normal Background"
 #~ msgstr "സാധാരണ പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "focus"
 #~ msgctxt "color-kcm-set-preview"
 #~ msgid "focus"
 #~ msgstr "ദൃഷ്ടി കേന്ദ്രം"
@@ -908,7 +811,6 @@ msgstr ""
 #~ msgstr "നിങ്ങള്‍ക്കുറപ്പാണോ?"
 
 #, fuzzy
-#~| msgid "Inactive"
 #~ msgctxt "@title:tab color transformations on inactive elements"
 #~ msgid "Inactive"
 #~ msgstr "സജീവമല്ലാത്ത"
@@ -917,25 +819,21 @@ msgstr ""
 #~ msgstr "സജീവമല്ലാത്ത രൂക്ഷതയുടെ പ്രഭാവ തരം"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "no inactive intensity effect"
 #~ msgid "None"
 #~ msgstr "ശൂന്യം"
 
 #, fuzzy
-#~| msgid "Shade"
 #~ msgctxt "inactive intensity effect"
 #~ msgid "Shade"
 #~ msgstr "ചുരുക്കുക"
 
 #, fuzzy
-#~| msgid "Darken"
 #~ msgctxt "inactive intensity effect"
 #~ msgid "Darken"
 #~ msgstr "പ്രകാശം കുറയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Lighten"
 #~ msgctxt "inactive intensity effect"
 #~ msgid "Lighten"
 #~ msgstr "പ്രകാശിപ്പിക്കുക"
@@ -947,25 +845,21 @@ msgstr ""
 #~ msgstr "സജീവമല്ലാത്തവയുടെ നിറത്തിന്റെ പ്രഭാവ തരം"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "no inactive color effect"
 #~ msgid "None"
 #~ msgstr "ശൂന്യം"
 
 #, fuzzy
-#~| msgid "Desaturate"
 #~ msgctxt "inactive color effect"
 #~ msgid "Desaturate"
 #~ msgstr "ഡീസാച്ചുറേറ്റ് ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Fade"
 #~ msgctxt "inactive color effect"
 #~ msgid "Fade"
 #~ msgstr "മങ്ങുക"
 
 #, fuzzy
-#~| msgid "Tint"
 #~ msgctxt "inactive color effect"
 #~ msgid "Tint"
 #~ msgstr "ഇളംനിറം"
@@ -980,19 +874,16 @@ msgstr ""
 #~ msgstr "സജീവമല്ലാത്തവയുടെ വ്യത്യയത്തിന്റെ (contrast) പ്രഭാവ തരം"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "no inactive contrast effect"
 #~ msgid "None"
 #~ msgstr "ശൂന്യം"
 
 #, fuzzy
-#~| msgid "Fade"
 #~ msgctxt "inactive contrast effect"
 #~ msgid "Fade"
 #~ msgstr "മങ്ങുക"
 
 #, fuzzy
-#~| msgid "Tint"
 #~ msgctxt "inactive contrast effect"
 #~ msgid "Tint"
 #~ msgstr "ഇളംനിറം"

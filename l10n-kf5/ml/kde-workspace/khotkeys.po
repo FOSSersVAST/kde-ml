@@ -80,7 +80,6 @@ msgstr "വിളിയ്ക്കുക"
 #. i18n: ectx: property (text), widget (QPushButton, launchButton)
 #: kcm_hotkeys/actions/dbus_action_widget.ui:92
 #, fuzzy, kde-format
-#| msgid "Launch  D-Bus Browser"
 msgid "Launch D-Bus Browser"
 msgstr "ഡി-ബസ് ബ്രൌസര്‍ പ്രവര്‍ത്തിപ്പിക്കുക"
 
@@ -167,7 +166,6 @@ msgstr "1"
 #. i18n: ectx: property (text), widget (QPushButton, new_button)
 #: kcm_hotkeys/conditions/conditions_widget.ui:30
 #, fuzzy, kde-format
-#| msgid "New"
 msgctxt "new condition"
 msgid "New"
 msgstr "പുതിയ"
@@ -212,7 +210,6 @@ msgstr "സമയപരിധി:"
 #. i18n: ectx: property (suffix), widget (KIntSpinBox, gestures_timeout)
 #: kcm_hotkeys/global_settings_widget.ui:70
 #, fuzzy, kde-format
-#| msgid "ms"
 msgid " ms"
 msgstr "ms"
 
@@ -288,7 +285,6 @@ msgstr "ജാലകത്തിന്റെ പേരു്:"
 #. i18n: ectx: property (text), item, widget (QComboBox, window_title_combo)
 #: kcm_hotkeys/helper_widgets/window_definition_widget.ui:39
 #, fuzzy, kde-format
-#| msgid "Is Not Important"
 msgctxt "window title is not important"
 msgid "Is Not Important"
 msgstr "അപ്രധാനമാണ്"
@@ -362,7 +358,6 @@ msgstr "ജാലകത്തിന്റെ ക്ലാസ്സ്:"
 #. i18n: ectx: property (text), item, widget (QComboBox, window_class_combo)
 #: kcm_hotkeys/helper_widgets/window_definition_widget.ui:85
 #, fuzzy, kde-format
-#| msgid "Is Not Important"
 msgctxt "window class is not important"
 msgid "Is Not Important"
 msgstr "അപ്രധാനമാണ്"
@@ -376,7 +371,6 @@ msgstr "ജാലകത്തിന്റെ ആവശ്യം:"
 #. i18n: ectx: property (text), item, widget (QComboBox, window_role_combo)
 #: kcm_hotkeys/helper_widgets/window_definition_widget.ui:131
 #, fuzzy, kde-format
-#| msgid "Is Not Important"
 msgctxt "window role is not important"
 msgid "Is Not Important"
 msgstr "അപ്രധാനമാണ്"
@@ -441,7 +435,6 @@ msgstr "ഇംപോര്‍ട്ട്..."
 
 #: kcm_hotkeys/hotkeys_context_menu.cpp:155
 #, fuzzy, kde-format
-#| msgid "New"
 msgctxt "@title:menu create various trigger types"
 msgid "New"
 msgstr "പുതിയ"
@@ -458,7 +451,6 @@ msgstr "ജാലകത്തിനുള്ള നടപടി"
 
 #: kcm_hotkeys/hotkeys_context_menu.cpp:187
 #, fuzzy, kde-format
-#| msgid "PushButton"
 msgid "Mouse Gesture Action"
 msgstr "തള്ളു-ബട്ടണ്‍:"
 
@@ -512,7 +504,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, stateLabel)
 #: kcm_hotkeys/hotkeys_export_widget.ui:20
 #, fuzzy, kde-format
-#| msgid "Action"
 msgid "Export Actions"
 msgstr "നടപടി"
 
@@ -660,9 +651,6 @@ msgstr "പരിപാലകന്‍"
 
 #: kcm_hotkeys/kcm_hotkeys.cpp:333
 #, fuzzy, kde-format
-#| msgid ""
-#| "The current action has unsaved changes. If you continue these changes "
-#| "will be lost."
 msgid ""
 "The current action has unsaved changes.\n"
 "Do you want to apply the changes or discard them?"

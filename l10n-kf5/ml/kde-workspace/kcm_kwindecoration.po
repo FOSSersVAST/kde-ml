@@ -41,7 +41,6 @@ msgstr ""
 
 #: declarative-plugin/buttonsmodel.cpp:72
 #, fuzzy, kde-format
-#| msgid "On All Desktops"
 msgid "On all desktops"
 msgstr "എല്ലാ പണിയിടങ്ങളിലും"
 
@@ -72,19 +71,16 @@ msgstr "മറയ്ക്കുക"
 
 #: declarative-plugin/buttonsmodel.cpp:84
 #, fuzzy, kde-format
-#| msgid "Keep Below Others"
 msgid "Keep below"
 msgstr "മറ്റുള്ളവയുടെ താഴെ വെക്കുക"
 
 #: declarative-plugin/buttonsmodel.cpp:86
 #, fuzzy, kde-format
-#| msgid "Keep Above Others"
 msgid "Keep above"
 msgstr "മറ്റുള്ളവയ്ക്കു മുകളില്‍ വെക്കുക"
 
 #: kcm.cpp:92
 #, fuzzy, kde-format
-#| msgid "Get New Decorations..."
 msgid "Window Decorations"
 msgstr "പുതിയ അലങ്കാരങ്ങള്‍ നേടുക"
 
@@ -100,7 +96,6 @@ msgstr ""
 
 #: kcm.cpp:135
 #, fuzzy, kde-format
-#| msgid "Get New Decorations..."
 msgid "Download New Window Decorations"
 msgstr "പുതിയ അലങ്കാരങ്ങള്‍ നേടുക"
 
@@ -132,21 +127,18 @@ msgstr ""
 
 #: package/contents/ui/main.qml:58
 #, fuzzy, kde-format
-#| msgid "Buttons"
 msgctxt "tab label"
 msgid "Titlebar Buttons"
 msgstr "ബട്ടണുകള്‍"
 
 #: package/contents/ui/main.qml:79
 #, fuzzy, kde-format
-#| msgid "Border size:"
 msgctxt "combobox label"
 msgid "Window border size:"
 msgstr "വക്കിന്റെ വലുപ്പം:"
 
 #: package/contents/ui/main.qml:94
 #, fuzzy, kde-format
-#| msgid "Get New Decorations..."
 msgctxt "button text"
 msgid "Get New Window Decorations..."
 msgstr "പുതിയ അലങ്കാരങ്ങള്‍ നേടുക"
@@ -167,7 +159,6 @@ msgstr ""
 
 #: package/contents/ui/main.qml:129
 #, fuzzy, kde-format
-#| msgid "&Show window button tooltips"
 msgctxt "checkbox label"
 msgid "Show titlebar button tooltips"
 msgstr "ജാലകത്തിന്റെ ബട്ടണുകളെക്കുറിച്ചുള്ള സൂചനകള്‍ &കാണിയ്ക്കുക"
@@ -179,77 +170,58 @@ msgstr ""
 
 #: utils.cpp:38
 #, fuzzy, kde-format
-#| msgid "Border size:"
 msgid "No Borders"
 msgstr "വക്കിന്റെ വലുപ്പം:"
 
 #: utils.cpp:39
 #, fuzzy, kde-format
-#| msgid "Border size:"
 msgid "No Side Borders"
 msgstr "വക്കിന്റെ വലുപ്പം:"
 
 #: utils.cpp:40
 #, fuzzy, kde-format
-#| msgctxt "@item:inlistbox Border size:"
-#| msgid "Tiny"
 msgid "Tiny"
 msgstr "ചെറുത്"
 
 #: utils.cpp:41
 #, fuzzy, kde-format
-#| msgctxt "@item:inlistbox Border size:"
-#| msgid "Normal"
 msgid "Normal"
 msgstr "സാധാരണമായത്"
 
 #: utils.cpp:42
 #, fuzzy, kde-format
-#| msgctxt "@item:inlistbox Border size:"
-#| msgid "Large"
 msgid "Large"
 msgstr "വലിയത്"
 
 #: utils.cpp:43
 #, fuzzy, kde-format
-#| msgctxt "@item:inlistbox Border size:"
-#| msgid "Very Large"
 msgid "Very Large"
 msgstr "വളരെ വലുത്"
 
 #: utils.cpp:44
 #, fuzzy, kde-format
-#| msgctxt "@item:inlistbox Border size:"
-#| msgid "Huge"
 msgid "Huge"
 msgstr "ഭീമമായത്"
 
 #: utils.cpp:45
 #, fuzzy, kde-format
-#| msgctxt "@item:inlistbox Border size:"
-#| msgid "Very Huge"
 msgid "Very Huge"
 msgstr "അതിഭീമമായത് "
 
 #: utils.cpp:46
 #, fuzzy, kde-format
-#| msgctxt "@item:inlistbox Border size:"
-#| msgid "Oversized"
 msgid "Oversized"
 msgstr "ബൃഹത്തായ"
 
 #, fuzzy
-#~| msgid "Search"
 #~ msgid "Search..."
 #~ msgstr "തെരയുക"
 
 #, fuzzy
-#~| msgid "Border size:"
 #~ msgid "Border si&ze:"
 #~ msgstr "വക്കിന്റെ വലുപ്പം:"
 
 #, fuzzy
-#~| msgid "Configure Buttons..."
 #~ msgid "Configure %1..."
 #~ msgstr "ബട്ടണുകള്‍ ക്രമീകരിക്കുക..."
 
@@ -343,18 +315,6 @@ msgstr "ബൃഹത്തായ"
 #~ msgstr "ഓക്സിജന്‍"
 
 #, fuzzy
-#~| msgid ""
-#~| "<h1>Window Manager Decoration</h1><p>This module allows you to choose "
-#~| "the window border decorations, as well as titlebar button positions and "
-#~| "custom decoration options.</p>To choose a theme for your window "
-#~| "decoration click on its name and apply your choice by clicking the "
-#~| "\"Apply\" button below. If you do not want to apply your choice you can "
-#~| "click the \"Reset\" button to discard your changes.<p>You can configure "
-#~| "each theme in the \"Configure [...]\" tab. There are different options "
-#~| "specific for each theme.</p><p>In \"General Options (if available)\" you "
-#~| "can activate the \"Buttons\" tab by checking the \"Use custom titlebar "
-#~| "button positions\" box. In the \"Buttons\" tab you can change the "
-#~| "positions of the buttons to your liking.</p>"
 #~ msgid ""
 #~ "<h1>Window Manager Decoration</h1><p>This module allows you to choose the "
 #~ "window border decorations, as well as titlebar button positions and "
@@ -373,8 +333,8 @@ msgstr "ബൃഹത്തായ"
 #~ "തോന്നുകയാണെങ്കില്‍ \"പുനഃസ്ഥാപിക്കുക\" എന്നബട്ടണില്‍ അമര്‍ത്തുക.<p>\"ക്രമീകരിക്കുക [...]\"എന്ന "
 #~ "റ്റാബില്‍ നിന്ന് ഓരോ പ്രമേയത്തേയും നിങ്ങള്‍ക്ക് ക്രമീകരികാവുന്നതാണ്ഓരോ പ്രമേയത്തിനും "
 #~ "അതിന്റേതായ  വ്യത്യസ്ത ഐച്ഛികങ്ങളുണ്ട്.</p><p>\" പൊതുവായുള്ള ഐച്ഛികങ്ങള്‍( അതുണ്ടെങ്കില്‍)\" -ഇല്‍"
-#~ "\"ടൈറ്റില്‍ബാര്‍ ബട്ടണുളുടെ സ്ഥാനങ്ങള്‍ ഇഷ്ടമുള്ള പോലെ ആക്കിത്തീര്‍ക്കുക‍ \" എന്ന ചെക്ക്ബോക്സ് "
-#~ "പ്രവര്‍ത്തനസജ്ജമാക്കിയാല്‍ \"ബട്ടണുകള്‍\" എന്ന റ്റാബ് പ്രവര്‍ത്തനസജ്ജമാകും . അതില്‍ ടൈറ്റില്‍ബാര്‍ "
+#~ "\"ടൈറ്റില്‍ബാര്‍ ബട്ടണുളുടെ സ്ഥാനങ്ങള്‍ ഇഷ്ടമുള്ള പോലെ ആക്കിത്തീര്‍ക്കുക‍ \" എന്ന ചെക്ക്ബോക്സ് പ്രവര്‍"
+#~ "ത്തനസജ്ജമാക്കിയാല്‍ \"ബട്ടണുകള്‍\" എന്ന റ്റാബ് പ്രവര്‍ത്തനസജ്ജമാകും . അതില്‍ ടൈറ്റില്‍ബാര്‍ "
 #~ "ബട്ടണുളുടെ സ്ഥാനങ്ങള്‍ ഇഷ്ടമുള്ള പോലെ ആക്കിത്തീര്‍ക്കുവാന്‍സാധിക്കുന്നതാണ്.</p>"
 
 #~ msgid "Active Window"

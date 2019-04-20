@@ -169,12 +169,10 @@ msgstr "വിശേഷത"
 #~ msgstr "peter.ani@gmail.com"
 
 #, fuzzy
-#~| msgid "Progress Manager"
 #~ msgid "Job Manager"
 #~ msgstr "പ്രോഗ്രസ് മാനേജര്‍"
 
 #, fuzzy
-#~| msgid "(C) 2000-2008, KDE Team"
 #~ msgid "(C) 2000-2009, KDE Team"
 #~ msgstr "(C) 2000-2008, കെഡിഇ സംഘം"
 
@@ -185,7 +183,6 @@ msgstr "വിശേഷത"
 #~ msgstr "റാഫേല്‍ ഫെര്‍ണാണ്ടെസ് ലോപസ്"
 
 #, fuzzy
-#~| msgid "Former maintainer"
 #~ msgid "Former Maintainer"
 #~ msgstr "മുമ്പുള്ള പാലകന്‍"
 
@@ -208,7 +205,6 @@ msgstr "വിശേഷത"
 #~ msgstr "പുരോഗതിയില്‍"
 
 #, fuzzy
-#~| msgid "Finished Jobs"
 #~ msgid "Finished"
 #~ msgstr "പൂര്‍ത്തിയാക്കിയ ജോലികള്‍"
 

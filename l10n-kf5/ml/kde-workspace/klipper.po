@@ -80,17 +80,12 @@ msgstr "പ്രവൃത്തി കളയുക"
 #. i18n: ectx: property (text), widget (QPushButton, pbAdvanced)
 #: actionsconfig.ui:85
 #, fuzzy, kde-format
-#| msgid "Advanced"
 msgid "Advanced..."
 msgstr "മെച്ചപ്പെട്ട"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: actionsconfig.ui:94
 #, fuzzy, no-c-format, kde-format
-#| msgid ""
-#| "For more information about regular expressions, you could have a look at "
-#| "the <a href=\"http://en.wikipedia.org/wiki/Regular_expression\">Wikipedia "
-#| "entry about this topic</a>."
 msgid ""
 "Click on a highlighted item's column to change it. \"%s\" in a command will "
 "be replaced with the clipboard contents.<br>For more information about "
@@ -127,7 +122,6 @@ msgstr "പൊതുവായത്"
 
 #: configdialog.cpp:287
 #, fuzzy, kde-format
-#| msgid "General Config"
 msgid "General Configuration"
 msgstr "പൊതുവായ സജ്ജീകരണങ്ങള്‍"
 
@@ -139,7 +133,6 @@ msgstr "പ്രവൃത്തികള്‍"
 
 #: configdialog.cpp:288
 #, fuzzy, kde-format
-#| msgid "Actions Config"
 msgid "Actions Configuration"
 msgstr "പ്രവൃത്തികളുടെ സജ്ജീകരണം"
 
@@ -151,7 +144,6 @@ msgstr "കുറുക്ക്‌വഴികള്‍"
 
 #: configdialog.cpp:292
 #, fuzzy, kde-format
-#| msgid "Shortcuts Config"
 msgid "Shortcuts Configuration"
 msgstr "കുറുക്ക്‌വഴികളുടെ സജ്ജീകരണങ്ങള്‍"
 
@@ -335,7 +327,6 @@ msgstr "ക്ലിപ്പര്‍ സജ്ജീകരിക്കുക"
 
 #: klipper.cpp:165
 #, fuzzy, kde-format
-#| msgid "&Quit"
 msgctxt "@item:inmenu Quit Klipper"
 msgid "&Quit"
 msgstr "പുറത്ത് കടക്കുക"
@@ -372,9 +363,6 @@ msgstr ""
 
 #: klipper.cpp:499
 #, fuzzy, kde-format
-#| msgid ""
-#| "You can enable URL actions later by right-clicking on the Klipper icon "
-#| "and selecting 'Enable Actions'"
 msgid ""
 "You can enable URL actions later by left-clicking on the Klipper icon and "
 "selecting 'Enable Clipboard Actions'"
@@ -615,10 +603,6 @@ msgstr "ക്ലിപ്പര്‍"
 
 #: main.cpp:45
 #, fuzzy, kde-format
-#| msgid ""
-#| "(c) 1998, Andrew Stanley-Jones\n"
-#| "1998-2002, Carsten Pfeiffer\n"
-#| "2001, Patrick Dubroy"
 msgid ""
 "(c) 1998, Andrew Stanley-Jones\n"
 "1998-2002, Carsten Pfeiffer\n"
@@ -675,7 +659,6 @@ msgstr "എസ്ബെന്‍ മോസ് ഹാന്‍സെന്‍"
 
 #: main.cpp:65
 #, fuzzy, kde-format
-#| msgid "Maintainer"
 msgid "Previous Maintainer"
 msgstr "പാലകന്‍"
 

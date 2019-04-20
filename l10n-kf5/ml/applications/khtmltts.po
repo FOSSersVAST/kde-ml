@@ -36,7 +36,6 @@ msgstr "ശ്രവ്യ ഉപകരണപ്പട്ട"
 #~ msgstr "say() എന്ന ഡി-ബസ് പ്രവൃത്തി പരാജയപ്പെട്ടു"
 
 #, fuzzy
-#~| msgid "D-Bus Call Failed"
 #~ msgctxt "@title:window"
 #~ msgid "D-Bus Call Failed"
 #~ msgstr "ഡി-ബസ് പ്രവൃത്തി പരാജയപ്പെട്ടു"

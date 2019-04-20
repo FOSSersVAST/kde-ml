@@ -153,8 +153,6 @@ msgstr "ബാച്ച്"
 
 #: process.cpp:156
 #, fuzzy, kde-format
-#| msgctxt "Priority Class"
-#| msgid "Idle"
 msgctxt "Scheduler"
 msgid "Idle"
 msgstr "വെറുതെയിരിക്കുന്നു"

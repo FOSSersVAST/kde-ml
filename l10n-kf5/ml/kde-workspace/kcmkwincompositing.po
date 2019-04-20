@@ -17,13 +17,11 @@ msgstr ""
 
 #: compositing.cpp:378
 #, fuzzy, kde-format
-#| msgid "OpenGL"
 msgid "OpenGL 3.1"
 msgstr "ഓപ്പണ്‍ജിഎല്‍"
 
 #: compositing.cpp:379
 #, fuzzy, kde-format
-#| msgid "OpenGL"
 msgid "OpenGL 2.0"
 msgstr "ഓപ്പണ്‍ജിഎല്‍"
 
@@ -75,7 +73,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, compositingEnabled)
 #: compositing.ui:77
 #, fuzzy, kde-format
-#| msgid "Enable desktop effects"
 msgid "Enable compositor on startup"
 msgstr "പണിയിട പ്രഭാവങ്ങള്‍ പ്രാവര്‍ത്തികമാക്കുക"
 
@@ -126,7 +123,6 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, xrScaleFilter)
 #: compositing.ui:181
 #, fuzzy, kde-format
-#| msgid "Smooth scaling (slower)"
 msgid "Smooth (slower)"
 msgstr "സ്വൂത്ത് സ്കേല്ങ് (പതുക്കെ)"
 
@@ -236,17 +232,14 @@ msgstr ""
 #~ "സൂചന: ഒരു പ്രഭാവം കാണാനോ അല്ലെങ്കില്‍ സജ്ജീകരിക്കാനോ പ്രഭാവത്തിന്റെ ക്രമീകരണത്തില്‍ നോക്കുക"
 
 #, fuzzy
-#~| msgid "Texture filter:"
 #~ msgid "Configure filter"
 #~ msgstr "ഇഴയടുപ്പത്തിന്റെ ഫില്‍ട്ടര്‍"
 
 #, fuzzy
-#~| msgid "Enable desktop effects"
 #~ msgid "Exclude internal Desktop Effects"
 #~ msgstr "പണിയിട പ്രഭാവങ്ങള്‍ പ്രാവര്‍ത്തികമാക്കുക"
 
 #, fuzzy
-#~| msgid "All Effects"
 #~ msgid "Get New Desktop Effects..."
 #~ msgstr "എല്ലാ പ്രഭാവങ്ങള്‍"
 
@@ -259,30 +252,25 @@ msgstr ""
 #~ msgstr "libregeek@gmail.com"
 
 #, fuzzy
-#~| msgid "Accessibility"
 #~ msgctxt "Category of Desktop Effects, used as section header"
 #~ msgid "Accessibility"
 #~ msgstr "സാമീപ്യത"
 
 #, fuzzy
-#~| msgid "Appearance"
 #~ msgctxt "Category of Desktop Effects, used as section header"
 #~ msgid "Appearance"
 #~ msgstr "ബാഹ്യരൂപം"
 
 #, fuzzy
-#~| msgid "Window Management"
 #~ msgctxt "Category of Desktop Effects, used as section header"
 #~ msgid "Window Management"
 #~ msgstr "ജാലകത്തിന്റെ നടത്തിപ്പ്"
 
 #, fuzzy
-#~| msgid "Enable desktop effects"
 #~ msgid "Suspend compositor for full screen windows"
 #~ msgstr "പണിയിട പ്രഭാവങ്ങള്‍ പ്രാവര്‍ത്തികമാക്കുക"
 
 #, fuzzy
-#~| msgid "OpenGL mode:"
 #~ msgid "OpenGL interface:"
 #~ msgstr "ഓപ്പണ്‍ജിഎല്‍ രീതി"
 
@@ -322,7 +310,6 @@ msgstr ""
 #~ msgstr "റിവോ ലാക്സ്"
 
 #, fuzzy
-#~| msgid "All Effects"
 #~ msgid "No effect"
 #~ msgstr "എല്ലാ പ്രഭാവങ്ങള്‍"
 
@@ -333,7 +320,6 @@ msgstr ""
 #~ msgstr "പരീക്ഷണങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Confirm Desktop Effects Change"
 #~ msgctxt ""
 #~ "Error Message shown when compositing is not active after tried activation"
 #~ msgid "Desktop effect system is not running."
@@ -343,7 +329,6 @@ msgstr ""
 #~ msgstr "<h1>പണിയിട പ്രഭാവങ്ങള്‍</h1>"
 
 #, fuzzy
-#~| msgid "General"
 #~ msgid "General"
 #~ msgstr "പൊതുവായ"
 
@@ -354,7 +339,6 @@ msgstr ""
 #~ msgstr "വിവധ ചിത്രീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "You can find more effects in the 'All Effects' tab"
 #~ msgid ""
 #~ "You can find more effects, as well as effect-specific settings, in the "
 #~ "\"All Effects\" tab above."
@@ -364,7 +348,6 @@ msgstr ""
 #~ msgstr "എല്ലാ പ്രഭാവങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Advanced Options"
 #~ msgid "Advanced"
 #~ msgstr "സങ്കീര്‍ണ്ണമായ ഐച്ഛികങ്ങള്‍"
 
@@ -372,7 +355,6 @@ msgstr ""
 #~ msgstr "ഓപ്പണ്‍ജിഎല്‍ ഐച്ഛികങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "XRender Options"
 #~ msgid "General Options"
 #~ msgstr "എക്സ്‌റെന്‍ഡര്‍ ഐച്ഛികങ്ങള്‍"
 
@@ -380,7 +362,6 @@ msgstr ""
 #~ msgstr "വിന്യസിക്കുന്നതിന്റെ തരം"
 
 #, fuzzy
-#~| msgid "OpenGL"
 #~ msgid "OpenGL 1.2"
 #~ msgstr "ഓപ്പണ്‍ജിഎല്‍"
 
@@ -388,22 +369,18 @@ msgstr ""
 #~ msgstr "വിസിങ്ക് ഉപയോഗുക്കുക"
 
 #, fuzzy
-#~| msgid "Direct rendering"
 #~ msgid "Enable direct rendering"
 #~ msgstr "നേരിട്ടുള്ള ചിത്രീകരണം"
 
 #, fuzzy
-#~| msgid "Enable desktop effects"
 #~ msgid "Resume Desktop Effects"
 #~ msgstr "പണിയിട പ്രഭാവങ്ങള്‍ പ്രാവര്‍ത്തികമാക്കുക"
 
 #, fuzzy
-#~| msgid "Common Effects"
 #~ msgid "Common Settings"
 #~ msgstr "സാധാരണയുള്ള പ്രഭാവങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Compositing type:"
 #~ msgid "Compositing State"
 #~ msgstr "വിന്യസിക്കുന്നതിന്റെ തരം"
 
@@ -432,32 +409,26 @@ msgstr ""
 #~ msgstr "നിങ്ങളുടെ സിസ്റ്റത്തില്‍ പണിയിട വിന്യാസം സാധിക്കില്ല"
 
 #, fuzzy
-#~| msgid "Compositing type:"
 #~ msgid "Compositing is active"
 #~ msgstr "വിന്യസിക്കുന്നതിന്റെ തരം"
 
 #, fuzzy
-#~| msgid "Compositing type:"
 #~ msgid "Suspend Compositing"
 #~ msgstr "വിന്യസിക്കുന്നതിന്റെ തരം"
 
 #, fuzzy
-#~| msgid "Compositing type:"
 #~ msgid "Resume Compositing"
 #~ msgstr "വിന്യസിക്കുന്നതിന്റെ തരം"
 
 #, fuzzy
-#~| msgid "Compositing type:"
 #~ msgid "Compositing is disabled"
 #~ msgstr "വിന്യസിക്കുന്നതിന്റെ തരം"
 
 #, fuzzy
-#~| msgid "All Effects"
 #~ msgid "All Desktops"
 #~ msgstr "എല്ലാ പ്രഭാവങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Bilinear"
 #~ msgid "Cylinder"
 #~ msgstr "ബൈലീനിയര്‍"
 

@@ -20,7 +20,6 @@ msgstr ""
 
 #: ksysguardprocesslist.cpp:204 ksysguardprocesslist.cpp:529
 #, fuzzy, kde-format
-#| msgid "Low Priority"
 msgid "Set Priority..."
 msgid_plural "Set Priority..."
 msgstr[0] "മുന്‍ഗണന കുറഞ്ഞ "
@@ -48,7 +47,6 @@ msgstr "നിര്‍ത്തിയ പ്രക്രിയ തുടരു�
 
 #: ksysguardprocesslist.cpp:211
 #, fuzzy, kde-format
-#| msgid "Own Processes"
 msgid "End Process"
 msgid_plural "End Processes"
 msgstr[0] "സ്വന്തം പ്രക്രിയകള്‍"
@@ -56,8 +54,6 @@ msgstr[1] "സ്വന്തം പ്രക്രിയകള്‍"
 
 #: ksysguardprocesslist.cpp:214 ksysguardprocesslist.cpp:530
 #, fuzzy, kde-format
-#| msgid "Kill Process"
-#| msgid_plural "Kill Processes"
 msgid "Forcibly Kill Process"
 msgid_plural "Forcibly Kill Processes"
 msgstr[0] "പ്രക്രിയെ ഇല്ലാതാക്കുക"
@@ -118,8 +114,6 @@ msgstr ""
 
 #: ksysguardprocesslist.cpp:417
 #, fuzzy, kde-format
-#| msgctxt "process heading"
-#| msgid "Command"
 msgctxt "@action:inmenu"
 msgid "Run Command"
 msgstr "ആജ്ഞ"
@@ -132,7 +126,6 @@ msgstr ""
 
 #: ksysguardprocesslist.cpp:531
 #, fuzzy, kde-format
-#| msgid "Own Processes"
 msgctxt "Context menu"
 msgid "End Process"
 msgid_plural "End Processes"
@@ -264,8 +257,8 @@ msgid ""
 "You do not have the permission to change the I/O priority of the process and "
 "there was a problem trying to run as root.  Error %1 %2"
 msgstr ""
-"നിങ്ങള്‍ക്കു് പ്രൊസസ്സിന്റെ ഐ/ഒ മുന്‍ഗണന മാറ്റാനുള്ള അനുവാദമില്ല, കൂടാതെ റൂട്ടായി "
-"പ്രവര്‍ത്തിപ്പിയ്ക്കുന്നതില്‍ ഒരു പ്രശ്നം ഉണ്ടായി. തെറ്റു് %1 %2"
+"നിങ്ങള്‍ക്കു് പ്രൊസസ്സിന്റെ ഐ/ഒ മുന്‍ഗണന മാറ്റാനുള്ള അനുവാദമില്ല, കൂടാതെ റൂട്ടായി പ്രവര്‍"
+"ത്തിപ്പിയ്ക്കുന്നതില്‍ ഒരു പ്രശ്നം ഉണ്ടായി. തെറ്റു് %1 %2"
 
 #: ksysguardprocesslist.cpp:1342
 #, kde-format
@@ -273,8 +266,8 @@ msgid ""
 "You do not have the permission to change the CPU Scheduler for the process "
 "and there was a problem trying to run as root.  Error %1 %2"
 msgstr ""
-"നിങ്ങള്‍ക്കു് പ്രൊസസ്സിന്റെ സിപിയു ഷെഡ്യൂളര്‍ മാറ്റാനുള്ള അനുവാദമില്ല, കൂടാതെ റൂട്ടായി "
-"പ്രവര്‍ത്തിപ്പിയ്ക്കുന്നതില്‍ ഒരു പ്രശ്നം ഉണ്ടായി. തെറ്റു് %1 %2"
+"നിങ്ങള്‍ക്കു് പ്രൊസസ്സിന്റെ സിപിയു ഷെഡ്യൂളര്‍ മാറ്റാനുള്ള അനുവാദമില്ല, കൂടാതെ റൂട്ടായി പ്രവര്‍"
+"ത്തിപ്പിയ്ക്കുന്നതില്‍ ഒരു പ്രശ്നം ഉണ്ടായി. തെറ്റു് %1 %2"
 
 #: ksysguardprocesslist.cpp:1372
 #, kde-format
@@ -287,8 +280,6 @@ msgstr ""
 
 #: ksysguardprocesslist.cpp:1410
 #, fuzzy, kde-format
-#| msgid "Are you sure you want to kill this process?"
-#| msgid_plural "Are you sure you want to kill these %1 processes?"
 msgid ""
 "Are you sure you want to end this process?  Any unsaved work may be lost."
 msgid_plural ""
@@ -299,7 +290,6 @@ msgstr[1] "ഈ %1 പ്രക്രിയകളെ ഇല്ലാതാക്�
 
 #: ksysguardprocesslist.cpp:1413
 #, fuzzy, kde-format
-#| msgid "Own Processes"
 msgctxt "Dialog title"
 msgid "End Process"
 msgid_plural "End %1 Processes"
@@ -313,8 +303,6 @@ msgstr ""
 
 #: ksysguardprocesslist.cpp:1417
 #, fuzzy, kde-format
-#| msgid "Are you sure you want to kill this process?"
-#| msgid_plural "Are you sure you want to kill these %1 processes?"
 msgid ""
 "<qt>Are you sure you want to <b>immediately and forcibly kill</b> this "
 "process?  Any unsaved work may be lost."
@@ -326,8 +314,6 @@ msgstr[1] "ഈ %1 പ്രക്രിയകളെ ഇല്ലാതാക്�
 
 #: ksysguardprocesslist.cpp:1420
 #, fuzzy, kde-format
-#| msgid "Kill Process"
-#| msgid_plural "Kill Processes"
 msgctxt "Dialog title"
 msgid "Forcibly Kill Process"
 msgid_plural "Forcibly Kill %1 Processes"
@@ -356,13 +342,11 @@ msgstr "%1 ജി"
 
 #: ProcessModel.cpp:69
 #, fuzzy, kde-format
-#| msgid "%1 K"
 msgid "%1 T"
 msgstr "%1 കെ"
 
 #: ProcessModel.cpp:70
 #, fuzzy, kde-format
-#| msgid "%1 K"
 msgid "%1 P"
 msgstr "%1 കെ"
 
@@ -408,15 +392,12 @@ msgstr "ഈ പ്രക്രിയ പ്രവര്‍ത്തിച്ച�
 
 #: ProcessModel.cpp:989
 #, fuzzy, kde-format
-#| msgid ""
-#| "The priority with which this process is being run. Ranges from 19 (very "
-#| "nice, least priority) to -19 (top priority)."
 msgid ""
 "The priority with which this process is being run. For the normal scheduler, "
 "this ranges from 19 (very nice, least priority) to -19 (top priority)."
 msgstr ""
-"ഈ പ്രക്രിയ ഇപ്പോള്‍ പ്രവര്‍ത്തിച്ചു് കൊണ്ടിരിയ്ക്കുന്ന മുന്‍ഗണന. ഇതിന്റെ വിലകള്‍ 19 (നൈസ് കൂടിയതു്, "
-"മുന്‍ഗണന ഏറ്റവും കുറഞ്ഞതു്) മുതല്‍ -19 (മുന്‍ഗണന ഏറ്റവും കൂടിയതു്) വരെയാണു്."
+"ഈ പ്രക്രിയ ഇപ്പോള്‍ പ്രവര്‍ത്തിച്ചു് കൊണ്ടിരിയ്ക്കുന്ന മുന്‍ഗണന. ഇതിന്റെ വിലകള്‍ 19 (നൈസ് കൂടിയതു്, മുന്‍"
+"ഗണന ഏറ്റവും കുറഞ്ഞതു്) മുതല്‍ -19 (മുന്‍ഗണന ഏറ്റവും കൂടിയതു്) വരെയാണു്."
 
 #: ProcessModel.cpp:992
 #, kde-format
@@ -458,11 +439,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1005
 #, fuzzy, kde-format
-#| msgid ""
-#| "<qt>This is the amount of real physical memory that this process is using "
-#| "by itself.<br>It does not include any swapped out memory, nor the code "
-#| "size of its shared libraries.<br>This is often the most useful figure to "
-#| "judge the memory use of a program.</qt>"
 msgid ""
 "<qt>This is the amount of real physical memory that this process is using by "
 "itself, and approximates the Private memory usage of the process.<br>It does "
@@ -476,10 +452,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1007
 #, fuzzy, kde-format
-#| msgid ""
-#| "<qt>This is the amount of real physical memory that this process's shared "
-#| "libraries are using.<br>This memory is shared among all processes that "
-#| "use this library.</qt>"
 msgid ""
 "<qt>This is approximately the amount of real physical memory that this "
 "process's shared libraries are using.<br>This memory is shared among all "
@@ -490,7 +462,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1009
 #, fuzzy, kde-format
-#| msgid "<qt>The command with which this process was launched.</qt>"
 msgid "<qt>The elapsed time since the process was started.</qt>"
 msgstr "<qt>ഈ പ്രക്രിയ തുടങ്ങാനുപയോഗിച്ച ആജ്ഞ.</qt>"
 
@@ -501,7 +472,6 @@ msgstr "<qt>ഈ പ്രക്രിയ തുടങ്ങാനുപയോഗ
 
 #: ProcessModel.cpp:1013
 #, fuzzy, kde-format
-#| msgid "<qt>The title of any windows that this process is showing.</qt>"
 msgid "<qt>The amount of pixmap memory that this process is using.</qt>"
 msgstr "<qt>ഈ പ്രക്രിയ കാണിയ്ക്കുന്ന എതു് ജാലകങ്ങളുടേയും തലക്കെട്ടു്.</qt>"
 
@@ -592,10 +562,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1050
 #, fuzzy, kde-format
-#| msgid ""
-#| "<qt><i>Technical information: </i>This is the Shared memory, called SHR "
-#| "in top.  It is the number of pages that are backed by a file (see kernel "
-#| "Documentation/filesystems/proc.txt .)"
 msgid ""
 "<qt><i>Technical information: </i>This is an approximation of the Shared "
 "memory, called SHR in top.  It is the number of pages that are backed by a "
@@ -690,7 +656,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1155
 #, fuzzy, kde-kuit-format
-#| msgid "This user is not recognized for some reason."
 msgctxt "@info:tooltip"
 msgid "<para>This user is not recognized for some reason.</para>"
 msgstr "ഏതോ കാരണത്താല്‍ ഈ ഉപയോക്താവിനെ തിരിച്ചറിഞ്ഞിട്ടില്ല."
@@ -764,36 +729,30 @@ msgstr ""
 
 #: ProcessModel.cpp:1194
 #, fuzzy, kde-format
-#| msgctxt "Short description of a process. PID, name, user"
-#| msgid "<numid>%1</numid>: %2, owned by user %3"
 msgctxt "Short description of a process. PID, name, user"
 msgid "%1: %2, owned by user %3"
 msgstr "<numid>%1</numid>: %2, %3 എന്ന ഉപയോക്താവിന്റെ ഉടമസ്ഥതയിലുള്ളതു്"
 
 #: ProcessModel.cpp:1201
 #, fuzzy, kde-format
-#| msgid "%1 (uid: %2)"
 msgctxt "Group name and group id"
 msgid "%1 (gid: %2)"
 msgstr "%1 (യുഐഡി: %2)"
 
 #: ProcessModel.cpp:1222
 #, fuzzy, kde-format
-#| msgid "%1 (uid: %2)"
 msgctxt "User name and user id"
 msgid "%1 (uid: %2)"
 msgstr "%1 (യുഐഡി: %2)"
 
 #: ProcessModel.cpp:1261
 #, fuzzy, kde-format
-#| msgid "Idle"
 msgctxt "scheduler"
 msgid "Idle"
 msgstr "അലസമായിരിയ്ക്കുന്നു"
 
 #: ProcessModel.cpp:1263
 #, fuzzy, kde-format
-#| msgid "Batch"
 msgctxt "scheduler"
 msgid "(Batch) %1"
 msgstr "ബാച്ച്"
@@ -812,7 +771,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1270
 #, fuzzy, kde-format
-#| msgid "FIFO"
 msgctxt "First in first out scheduler"
 msgid "FIFO %1"
 msgstr "ഫിഫോ"
@@ -831,8 +789,6 @@ msgstr "%1/s"
 
 #: ProcessModel.cpp:1407
 #, fuzzy, kde-kuit-format
-#| msgctxt "tooltip. name,pid "
-#| msgid "This process is being debugged by %1 (<numid>%2</numid>)"
 msgctxt "tooltip. name,pid "
 msgid "This process is being debugged by %1 (%2)"
 msgstr "%1 (<numid>%2</numid>) ആണു് ഈ പ്രക്രിയയുടെ പിഴവു് തിരുത്തിക്കൊണ്ടിരിയ്ക്കുന്നതു്"
@@ -847,9 +803,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1430
 #, fuzzy, kde-kuit-format
-#| msgid ""
-#| "<b>KThreadd</b> manages kernel threads. The children processes run in the "
-#| "kernel, controlling hard disk access, etc.<br/>"
 msgctxt "@info:tooltip"
 msgid ""
 "<title>KThreadd</title><para>Manages kernel threads. The children processes "
@@ -915,7 +868,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1484
 #, fuzzy, kde-kuit-format
-#| msgid "<qt>This process was run with the following command:<br />%1"
 msgctxt "@info:tooltip"
 msgid ""
 "<para><emphasis strong='true'>This process was run with the following "
@@ -975,7 +927,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1554
 #, fuzzy, kde-kuit-format
-#| msgid "<br /><br />CPU time spent running as user: %1 seconds"
 msgctxt "@info:tooltip"
 msgid ""
 "<para><emphasis strong='true'>CPU time spent running as user:</emphasis> %1 "
@@ -984,7 +935,6 @@ msgstr "<br /><br />താഴെ പറയുന്ന ഉപയോക്താ�
 
 #: ProcessModel.cpp:1557
 #, fuzzy, kde-kuit-format
-#| msgid "<br />CPU time spent running in kernel: %1 seconds"
 msgctxt "@info:tooltip"
 msgid ""
 "<para><emphasis strong='true'>CPU time spent running in kernel:</emphasis> "
@@ -993,7 +943,6 @@ msgstr "<br />കെര്‍ണലില്‍ പ്രവര്‍ത്ത�
 
 #: ProcessModel.cpp:1579
 #, fuzzy, kde-kuit-format
-#| msgid "Memory usage: %1 out of %2  (%3 %)<br />"
 msgctxt "@info:tooltip"
 msgid ""
 "<para><emphasis strong='true'>Memory usage:</emphasis> %1 out of %2  (%3 %)</"
@@ -1002,14 +951,12 @@ msgstr "മെമ്മറിയുടെ ഉപയോഗം: %2 വില്‍
 
 #: ProcessModel.cpp:1584
 #, fuzzy, kde-kuit-format
-#| msgid "Memory usage: %1 out of %2  (%3 %)<br />"
 msgctxt "@info:tooltip"
 msgid "<emphasis strong='true'>Memory usage:</emphasis> %1<br />"
 msgstr "മെമ്മറിയുടെ ഉപയോഗം: %2 വില്‍ %1 (%3 %)<br />"
 
 #: ProcessModel.cpp:1587
 #, fuzzy, kde-kuit-format
-#| msgid "RSS Memory usage: %1 out of %2  (%3 %)"
 msgctxt "@info:tooltip"
 msgid ""
 "<para><emphasis strong='true'>RSS Memory usage:</emphasis> %1 out of %2  (%3 "
@@ -1024,8 +971,6 @@ msgstr ""
 
 #: ProcessModel.cpp:1596
 #, fuzzy, kde-kuit-format
-#| msgid ""
-#| "Your system does not seem to have this information available to be read."
 msgctxt "@info:tooltip"
 msgid ""
 "<para><emphasis strong='true'>Your system does not seem to have this "
@@ -1034,7 +979,6 @@ msgstr "നിങ്ങളുടെ സിസ്റ്റത്തില്‍ �
 
 #: ProcessModel.cpp:1599
 #, fuzzy, kde-kuit-format
-#| msgid "Shared library memory usage: %1 out of %2  (%3 %)"
 msgctxt "@info:tooltip"
 msgid ""
 "<para><emphasis strong='true'>Shared library memory usage:</emphasis> %1 out "
@@ -1100,8 +1044,6 @@ msgstr "സിപിയു %"
 
 #: ProcessModel.cpp:1938
 #, fuzzy, kde-format
-#| msgctxt "process heading"
-#| msgid "CPU %"
 msgctxt "process heading"
 msgid "CPU Time"
 msgstr "സിപിയു %"
@@ -1150,8 +1092,6 @@ msgstr "ആജ്ഞ"
 
 #: ProcessModel.cpp:1948
 #, fuzzy, kde-format
-#| msgctxt "process heading"
-#| msgid "Memory"
 msgctxt "process heading"
 msgid "X11 Memory"
 msgstr "മെമ്മറി"
@@ -1170,16 +1110,6 @@ msgstr "%1%"
 #. i18n: ectx: property (whatsThis), widget (QPushButton, btnKillProcess)
 #: ProcessWidgetUI.ui:39
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\">Process gets immediate "
-#| "access to the hard disk whenever needed, regardless of what else is going "
-#| "on.</p></body></html>"
 msgid ""
 "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 "REC-html40/strict.dtd\">\n"
@@ -1212,7 +1142,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, btnKillProcess)
 #: ProcessWidgetUI.ui:42
 #, fuzzy, kde-format
-#| msgid "&Kill Process..."
 msgid "&End Process..."
 msgstr "പ്രക്രിയയെ ഇല്ലാതാക്കുക"
 
@@ -1324,7 +1253,6 @@ msgstr ""
 
 #: ReniceDlg.cpp:43
 #, fuzzy, kde-format
-#| msgid "Low Priority"
 msgid "Set Priority"
 msgstr "മുന്‍ഗണന കുറഞ്ഞ "
 
@@ -1371,16 +1299,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioNormal)
 #: ReniceDlgUi.ui:136
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\">Process gets immediate "
-#| "access to the hard disk whenever needed, regardless of what else is going "
-#| "on.</p></body></html>"
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
 "\">\n"
@@ -1446,16 +1364,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioBatch)
 #: ReniceDlgUi.ui:156
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\">Process gets immediate "
-#| "access to the hard disk whenever needed, regardless of what else is going "
-#| "on.</p></body></html>"
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
 "\">\n"
@@ -1520,16 +1428,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioRR)
 #: ReniceDlgUi.ui:176
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\">Process gets immediate "
-#| "access to the hard disk whenever needed, regardless of what else is going "
-#| "on.</p></body></html>"
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
 "\">\n"
@@ -1589,16 +1487,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioFIFO)
 #: ReniceDlgUi.ui:196
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\">For CPU-intensive non-"
-#| "interactive processes.  Process is mildly disfavored in scheduling "
-#| "decisions.</p></body></html>"
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
 "\">\n"
@@ -1662,16 +1550,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioIONormal)
 #: ReniceDlgUi.ui:300
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\">Process gets immediate "
-#| "access to the hard disk whenever needed, regardless of what else is going "
-#| "on.</p></body></html>"
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
 "\">\n"
@@ -1725,16 +1603,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioIdle)
 #: ReniceDlgUi.ui:320
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\">Process gets immediate "
-#| "access to the hard disk whenever needed, regardless of what else is going "
-#| "on.</p></body></html>"
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
 "\">\n"
@@ -1786,21 +1654,12 @@ msgstr ""
 "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">പ്രക്രിയയ്ക്കു് സാധാരണയേക്കാള്‍ "
-"ഹാര്‍ഡ് ഡിസ്ക്കിനെ സമീപിയ്ക്കാനുള്ള മുന്‍ഗണനയുണ്ടു്.</p></body></html>"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">പ്രക്രിയയ്ക്കു് സാധാരണയേക്കാള്‍ ഹാര്‍"
+"ഡ് ഡിസ്ക്കിനെ സമീപിയ്ക്കാനുള്ള മുന്‍ഗണനയുണ്ടു്.</p></body></html>"
 
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioBestEffort)
 #: ReniceDlgUi.ui:340
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\">Process is given higher "
-#| "priority to access the hard disk than Normal.</p></body></html>"
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
 "\">\n"
@@ -1823,8 +1682,8 @@ msgstr ""
 "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; font-"
 "weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">പ്രക്രിയയ്ക്കു് സാധാരണയേക്കാള്‍ "
-"ഹാര്‍ഡ് ഡിസ്ക്കിനെ സമീപിയ്ക്കാനുള്ള മുന്‍ഗണനയുണ്ടു്.</p></body></html>"
+"right:0px; -qt-block-indent:0; text-indent:0px;\">പ്രക്രിയയ്ക്കു് സാധാരണയേക്കാള്‍ ഹാര്‍"
+"ഡ് ഡിസ്ക്കിനെ സമീപിയ്ക്കാനുള്ള മുന്‍ഗണനയുണ്ടു്.</p></body></html>"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioBestEffort)
 #: ReniceDlgUi.ui:343
@@ -1858,16 +1717,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, radioRealTime)
 #: ReniceDlgUi.ui:360
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#| "css\">\n"
-#| "p, li { white-space: pre-wrap; }\n"
-#| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#| "font-weight:400; font-style:normal;\">\n"
-#| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#| "right:0px; -qt-block-indent:0; text-indent:0px;\">Process gets immediate "
-#| "access to the hard disk whenever needed, regardless of what else is going "
-#| "on.</p></body></html>"
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
 "\">\n"
@@ -1929,7 +1778,6 @@ msgid ""
 msgstr ""
 
 #, fuzzy
-#~| msgid "Memory usage: %1<br />"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Memory usage:</emphasis> %1<br />"
 #~ msgstr "മെമ്മറിയുടെ ഉപയോഗം: %1<br />"
@@ -1977,17 +1825,11 @@ msgstr ""
 #~ "<b>Init</b> എല്ലാ പ്രക്രിയകളുടേയും മാതാവായതിനാല്‍ അതിനെ ഇല്ലാതാക്കാന്‍ കഴിയില്ല.<br/>"
 
 #, fuzzy
-#~| msgctxt "name column tooltip. first item is the name"
-#~| msgid "<b>%1</b><br />Process ID: <numid>%2</numid>"
 #~ msgctxt "name column tooltip. first item is the name"
 #~ msgid "<b>%1</b><br />Process ID: %2"
 #~ msgstr "<b>%1</b><br />പ്രൊസസ്സ് ഐഡി: <numid>%2</numid>"
 
 #, fuzzy
-#~| msgctxt "name column tooltip. first item is the name"
-#~| msgid ""
-#~| "<b>%1</b><br />Process ID: <numid>%2</numid><br />Parent: %3<br /"
-#~| ">Parent's ID: <numid>%4</numid>"
 #~ msgctxt "name column tooltip. first item is the name"
 #~ msgid "<b>%1</b><br />Process ID: %2<br />Parent: %3<br />Parent's ID: %4"
 #~ msgstr ""
@@ -1995,10 +1837,6 @@ msgstr ""
 #~ ">മാതാവിന്റെ ഐഡി: <numid>%4</numid>"
 
 #, fuzzy
-#~| msgctxt "name column tooltip. first item is the name"
-#~| msgid ""
-#~| "<b>%1</b><br />Process ID: <numid>%2</numid><br />Parent's ID: <numid>"
-#~| "%3</numid>"
 #~ msgctxt "name column tooltip. first item is the name"
 #~ msgid "<b>%1</b><br />Process ID: %2<br />Parent's ID: %3"
 #~ msgstr ""
@@ -2060,9 +1898,6 @@ msgstr ""
 #~ "%11 (%12 KiB/s)"
 
 #, fuzzy
-#~| msgid ""
-#~| "You do not have the permission to kill the process and there was a "
-#~| "problem trying to run as root.  Error %1 %2"
 #~ msgid ""
 #~ "You do not have the permission to kill the process and there was a "
 #~ "problem trying to run as root. %1"
@@ -2074,8 +1909,6 @@ msgstr ""
 #~ msgstr "%1 (ജിഐഡി: <numid>%2</numid>)"
 
 #, fuzzy
-#~| msgid "Renice Process..."
-#~| msgid_plural "Renice Processes..."
 #~ msgid "End Process..."
 #~ msgid_plural "End Processes..."
 #~ msgstr[0] "പ്രക്രിയ റീനൈസ് ചെയ്യുക..."
@@ -2097,8 +1930,6 @@ msgstr ""
 #~ msgstr "ഐഒ ഷെഡ്യൂളറും മുന്‍ഗണനയും മാറ്റാനുള്ളത്രയും അനുവാദം നിങ്ങള്‍ക്കില്ല. പിന്തിരിയുന്നു."
 
 #, fuzzy
-#~| msgid "Kill process"
-#~| msgid_plural "Kill %1 processes"
 #~ msgid "End process"
 #~ msgid_plural "End %1 processes"
 #~ msgstr[0] "പ്രക്രിയയെ ഇല്ലാതാക്കുക"
@@ -2108,7 +1939,6 @@ msgstr ""
 #~ msgstr "ഷെഡ്യൂളറിന്റെ മുന്‍ഗണന: %1"
 
 #, fuzzy
-#~| msgid "Script error: Argument to setHtml() was not a string"
 #~ msgid "Script error: Argument was not a string"
 #~ msgstr ""
 #~ "സ്ക്രിപ്റ്റിനു് മനസ്സിലായ പിശകു്: setHtml() നു് കിട്ടിയ ആര്‍ഗ്യുമെന്റൊരു സ്ട്രിങ്ങായിരുന്നില്ല"
@@ -2208,8 +2038,8 @@ msgstr ""
 #~ msgid ""
 #~ "Interpret output as containing VT100 commands. For console-based programs."
 #~ msgstr ""
-#~ "വിടി100 ആജ്ഞകള്‍ ഉള്‍പ്പെടുന്നവയായി ഫലത്തെ കണക്കാക്കുക. കണ്‍സോള്‍-അടിസ്ഥാനമാക്കിയ "
-#~ "പ്രോഗ്രാമുകള്‍ക്കു്."
+#~ "വിടി100 ആജ്ഞകള്‍ ഉള്‍പ്പെടുന്നവയായി ഫലത്തെ കണക്കാക്കുക. കണ്‍സോള്‍-അടിസ്ഥാനമാക്കിയ പ്രോഗ്രാമുകള്‍"
+#~ "ക്കു്."
 
 #~ msgid ""
 #~ "If this is checked then ANSI escape sequences will be interpreted and not "
@@ -2239,8 +2069,8 @@ msgstr ""
 #~ "resuming, detaching or closing the dialog."
 #~ msgstr ""
 #~ "പ്രക്രിയയില്‍ നിന്നും ഫലം വായിയ്ക്കുന്നതു് നിര്‍ത്തുക. ഇതു് പ്രക്രിയയെ തടയുന്നതിനു് കാരണമാകും, "
-#~ "അതിന്റെ ഫലമായി പ്രക്രിയയെ താത്കാലികമായി നിര്‍ത്തുന്നു. പ്രക്രിയ തുടരുന്നതിനു് തുടരുക, "
-#~ "വേര്‍പ്പെടുത്തുക എന്നിവ തെരഞ്ഞെടുക്കുകയോ ചെറുജാലകം അടയ്ക്കുകയോ ചെയ്യാം."
+#~ "അതിന്റെ ഫലമായി പ്രക്രിയയെ താത്കാലികമായി നിര്‍ത്തുന്നു. പ്രക്രിയ തുടരുന്നതിനു് തുടരുക, വേര്‍"
+#~ "പ്പെടുത്തുക എന്നിവ തെരഞ്ഞെടുക്കുകയോ ചെറുജാലകം അടയ്ക്കുകയോ ചെയ്യാം."
 
 #~ msgid "Stop monitoring the process"
 #~ msgstr "പ്രക്രിയയെ നിരീക്ഷിയ്ക്കുന്നതു് നിര്‍ത്തുക"

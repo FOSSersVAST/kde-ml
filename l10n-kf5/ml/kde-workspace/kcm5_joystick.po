@@ -177,7 +177,6 @@ msgstr "കെ.ഡി.ഇ ജോയിസ്റ്റിക്ക് നിയ�
 
 #: joystick.cpp:48
 #, fuzzy, kde-format
-#| msgid "KDE Control Center Module to test Joysticks"
 msgid "KDE System Settings Module to test Joysticks"
 msgstr "കെ.ഡി.ഇ നിയന്ത്രണ കേന്ദ്രം"
 

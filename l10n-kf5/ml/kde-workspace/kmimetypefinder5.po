@@ -30,13 +30,11 @@ msgstr ""
 
 #: kmimetypefinder.cpp:38
 #, fuzzy, kde-format
-#| msgid "MimeType Finder"
 msgid "MIME Type Finder"
 msgstr "മൈം(MIME) തരം തിരയുവാനുള്ളതു്"
 
 #: kmimetypefinder.cpp:39
 #, fuzzy, kde-format
-#| msgid "Gives the mimetype for a given file"
 msgid "Gives the MIME type for a given file"
 msgstr "ഒരു ഫയലിന്റെ മൈം തരം തരുന്നു"
 
@@ -54,6 +52,5 @@ msgstr ""
 
 #: kmimetypefinder.cpp:46
 #, fuzzy, kde-format
-#| msgid "The filename to test"
 msgid "The filename to test. '-' to read from stdin."
 msgstr "പരീക്ഷിക്കുവാനുള്ള ഫയലിന്റെ പേരു്"

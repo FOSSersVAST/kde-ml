@@ -29,16 +29,12 @@ msgstr ""
 
 #: freespacenotifier.cpp:110
 #, fuzzy, kde-format
-#| msgctxt "Opens a file manager like dolphin"
-#| msgid "Open File Manager"
 msgctxt "Opens a file manager like dolphin"
 msgid "Open File Manager..."
 msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരന്‍ തുറക്കുക"
 
 #: freespacenotifier.cpp:114
 #, fuzzy, kde-format
-#| msgctxt "Allows the user to configure the warning notification being shown"
-#| msgid "Configure Warning"
 msgctxt "Allows the user to configure the warning notification being shown"
 msgid "Configure Warning..."
 msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക"

@@ -29,40 +29,30 @@ msgstr "ഉപകരണ വിവരം"
 
 #: Categories/graphicalinfocategory.desktop:7
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Processor Information"
 msgctxt "Name"
 msgid "Graphical Information"
 msgstr "പ്രൊസസ്സറിന്റെ വിവരങ്ങള്‍"
 
 #: Categories/kinfocentercategory.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "KInfoCenter"
 msgctxt "Name"
 msgid "KInfoCenter Category"
 msgstr "കെഇന്‍ഫോസെന്റര്‍"
 
 #: Categories/lostfoundcategory.desktop:7
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Lost & Found"
 msgctxt "Name"
 msgid "Lost And Found"
 msgstr "പോയതും കണ്ടതും"
 
 #: Categories/networkinfocategory.desktop:7
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Memory information"
 msgctxt "Name"
 msgid "Network Information"
 msgstr "മെമ്മറിയെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
 
 #: kcontrol/menus/kinfocenter.directory:3
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "PCI information"
 msgctxt "Name"
 msgid "Information"
 msgstr "പിസിഐ വിവരങ്ങള്‍"
@@ -79,24 +69,18 @@ msgstr ""
 
 #: Modules/about-distro/src/about-distro.desktop:95
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Information about files and directories."
 msgctxt "Comment"
 msgid "Information About This System"
 msgstr "ഫയലുകളുടേയും തട്ടുകളുടേയും വിവരങ്ങള്‍."
 
 #: Modules/devinfo/devinfo.desktop:13
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
 msgctxt "Name"
 msgid "Device Viewer"
 msgstr "ചിത്രദര്‍ശിനി"
 
 #: Modules/devinfo/devinfo.desktop:76
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Picture Viewer"
 msgctxt "Comment"
 msgid "Device Viewer"
 msgstr "ചിത്രദര്‍ശിനി"
@@ -109,8 +93,6 @@ msgstr ""
 #: Modules/energy/kcm_energyinfo.desktop:9
 #: Modules/energy/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Memory information"
 msgctxt "Name"
 msgid "Energy Information"
 msgstr "മെമ്മറിയെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
@@ -178,8 +160,6 @@ msgstr "ഇന്ററപ്റ്റുകളെക്കുറിച്ചു
 
 #: Modules/info/interrupts.desktop:198
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Interrupt information"
 msgctxt "X-KDE-Keywords"
 msgid "Interrupts,IRQ,System Information"
 msgstr "ഇന്ററപ്റ്റുകളെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
@@ -201,16 +181,12 @@ msgstr ""
 
 #: Modules/info/wayland.desktop:12
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Thailand"
 msgctxt "Name"
 msgid "Wayland"
 msgstr "തായിലാന്‍ഡ്"
 
 #: Modules/info/wayland.desktop:58
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Information about files and directories."
 msgctxt "Comment"
 msgid "Information about the Wayland Compositor"
 msgstr "ഫയലുകളുടേയും തട്ടുകളുടേയും വിവരങ്ങള്‍."
@@ -341,8 +317,6 @@ msgstr ""
 
 #: org.kde.kinfocenter.desktop:9
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Info Center"
 msgctxt "Name"
 msgid "Info Center"
 msgstr "വിവരകേന്ദ്രം"
@@ -366,8 +340,6 @@ msgstr ""
 #~ msgstr "സ്കസിയുടെ വിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "SCSI information"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "SCSI,SCSI-Bus,System Information"
 #~ msgstr "സ്കസിയുടെ വിവരങ്ങള്‍"
@@ -377,8 +349,6 @@ msgstr ""
 #~ msgstr "കെഇന്‍ഫോസെന്റര്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Hardware"
 #~ msgctxt "Comment"
 #~ msgid "Hardware Information Summary"
 #~ msgstr "ഹാര്‍ഡ്‌വെയര്‍"

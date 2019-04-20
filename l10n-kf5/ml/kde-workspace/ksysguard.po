@@ -180,13 +180,11 @@ msgstr "&വിദൂര മഷീനുന്‍ നിരീക്ഷിക്
 
 #: ksysguard.cpp:186
 #, fuzzy, kde-format
-#| msgid "&New Worksheet..."
 msgid "&Download New Tabs..."
 msgstr "&പുതിയ വര്‍ക്ക്ഷീറ്റ്"
 
 #: ksysguard.cpp:187
 #, fuzzy, kde-format
-#| msgid "&New Worksheet..."
 msgid "&Upload Current Tab..."
 msgstr "&പുതിയ വര്‍ക്ക്ഷീറ്റ്"
 
@@ -197,8 +195,6 @@ msgstr "കിളിവാതീന്റെ &ഗുണഗണങ്ങള്‍"
 
 #: ksysguard.cpp:386
 #, fuzzy, kde-format
-#| msgid "1 process1"
-#| msgid_plural "%1 processes%1"
 msgid "1 process"
 msgid_plural "%1 processes"
 msgstr[0] "1 പ്രക്രിയകള്‍1"
@@ -206,30 +202,23 @@ msgstr[1] " %1 പ്രക്രിയകള്‍ %1"
 
 #: ksysguard.cpp:467
 #, fuzzy, kde-format
-#| msgid "CPU: %1%%1%"
 msgid "CPU: %1%"
 msgstr " സിപിയു: %1%%1%"
 
 #: ksysguard.cpp:467
 #, fuzzy, kde-format
-#| msgctxt "units"
-#| msgid "%1%"
 msgctxt "This is the shorter version of CPU: %1%"
 msgid "%1%"
 msgstr "%1%"
 
 #: ksysguard.cpp:486
 #, fuzzy, kde-format
-#| msgctxt "Arguments are formatted byte sizes (used/total)"
-#| msgid " Memory: %1 / %2 "
 msgctxt "Arguments are formatted byte sizes (used/total)"
 msgid "Memory: %1 / %2"
 msgstr " മെമ്മറി : %1 / %2 "
 
 #: ksysguard.cpp:488
 #, fuzzy, kde-format
-#| msgctxt "Arguments are formatted byte sizes (used/total)"
-#| msgid " Memory: %1 / %2 "
 msgctxt ""
 "Arguments are formatted byte sizes (used/total) This should be a shorter "
 "version of the previous Memory: %1 / %2"
@@ -251,8 +240,6 @@ msgstr "സ്വാപ്പ് സ്പെയിസ് ലഭ്യമല്�
 
 #: ksysguard.cpp:522
 #, fuzzy, kde-format
-#| msgctxt "Arguments are formatted byte sizes (used/total)"
-#| msgid "Swap: %1 / %2Swap: %1%1"
 msgctxt "Arguments are formatted byte sizes (used/total)"
 msgid "Swap: %1 / %2"
 msgstr " സ്വാപ്പ്: %1 / %2സ്വാപ്പ്: %1%1"
@@ -265,7 +252,6 @@ msgstr ""
 
 #: ksysguard.cpp:573
 #, fuzzy, kde-format
-#| msgid "(c) 1996-2008 The KDE System Monitor Developers"
 msgid "(c) 1996-2016 The KDE System Monitor Developers"
 msgstr "(c) 1996-2008 കെഡിഇ സിസ്റ്റം മോണിറ്റര്‍ ഡവലപര്‍മാര്‍"
 
@@ -628,7 +614,6 @@ msgstr "<p><b>%1:</b><br>"
 
 #: SensorDisplayLib/FancyPlotter.cpp:597
 #, fuzzy, kde-format
-#| msgid "%1 of %2%1"
 msgid "%1 of %2"
 msgstr "%2%1 ല്‍ %1"
 
@@ -741,7 +726,6 @@ msgstr ""
 
 #: SensorDisplayLib/FancyPlotterSettings.cpp:103
 #, fuzzy, kde-format
-#| msgid "Enter the title of the display here."
 msgid "Enter the minimum value for the display here."
 msgstr "പ്രദര്‍ശനത്തിനുള്ള തലക്കെട്ടു് ഇവിടെ നല്‍കുക."
 
@@ -849,42 +833,31 @@ msgstr "താഴേക്കു് നീക്കുക"
 
 #: SensorDisplayLib/ListView.cpp:44
 #, fuzzy, kde-format
-#| msgctxt "units"
-#| msgid "%1 KiB"
 msgid "%1 K"
 msgstr "%1 KiB"
 
 #: SensorDisplayLib/ListView.cpp:45
 #, fuzzy, kde-format
-#| msgctxt "units"
-#| msgid "%1 MiB"
 msgid "%1 M"
 msgstr "%1 MiB"
 
 #: SensorDisplayLib/ListView.cpp:46
 #, fuzzy, kde-format
-#| msgctxt "units"
-#| msgid "%1 GiB"
 msgid "%1 G"
 msgstr "%1 GiB"
 
 #: SensorDisplayLib/ListView.cpp:47
 #, fuzzy, kde-format
-#| msgctxt "units"
-#| msgid "%1 TiB"
 msgid "%1 T"
 msgstr "%1 TiB"
 
 #: SensorDisplayLib/ListView.cpp:48
 #, fuzzy, kde-format
-#| msgctxt "units"
-#| msgid "%1 KiB"
 msgid "%1 P"
 msgstr "%1 KiB"
 
 #: SensorDisplayLib/ListView.cpp:151
 #, fuzzy, kde-format
-#| msgid "Display Range"
 msgid "Display Units"
 msgstr "പ്രദര്‍ശിപ്പിയ്ക്കേണ്ട പരിധി"
 
@@ -910,7 +883,6 @@ msgstr ""
 
 #: SensorDisplayLib/ListView.cpp:179
 #, fuzzy, kde-format
-#| msgid "Temperature"
 msgid "Terabytes"
 msgstr "താപനില"
 
@@ -1021,7 +993,6 @@ msgstr "അലാറം &സജ്ജമാക്കുക"
 #. i18n: ectx: property (text), widget (QLabel, m_lblLowerLimit)
 #: SensorDisplayLib/MultiMeterSettingsWidget.ui:86
 #, fuzzy, kde-format
-#| msgid "Lower limit:"
 msgid "&Lower limit:"
 msgstr "കുറഞ്ഞ പരിധി:"
 
@@ -1041,21 +1012,18 @@ msgstr "കൂടിയ‌ പരിധി"
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
 #: SensorDisplayLib/MultiMeterSettingsWidget.ui:175
 #, fuzzy, kde-format
-#| msgid "Normal digit color:"
 msgid "Nor&mal digit color:"
 msgstr "സധാരണ അക്കങ്ങളുടെ നിറം:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
 #: SensorDisplayLib/MultiMeterSettingsWidget.ui:205
 #, fuzzy, kde-format
-#| msgid "Alarm digit color:"
 msgid "Alarm di&git color:"
 msgstr "അലാറത്തിലെ അക്കങ്ങളുടെ നിറം:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
 #: SensorDisplayLib/MultiMeterSettingsWidget.ui:235
 #, fuzzy, kde-format
-#| msgid "Background color:"
 msgid "Bac&kground color:"
 msgstr "പശ്ചാത്തലത്തിലുള്ള നിറം:"
 
@@ -1080,7 +1048,6 @@ msgstr ""
 
 #: SensorDisplayLib/SensorLogger.cpp:133
 #, fuzzy, kde-format
-#| msgid "Logging"
 msgctxt "@title:column"
 msgid "Logging"
 msgstr "ചരിത്രം രേഖപ്പെടുത്തുന്നു"
@@ -1099,14 +1066,12 @@ msgstr "വിഭാഗത്തിനുളള പേര് (_N)"
 
 #: SensorDisplayLib/SensorLogger.cpp:139
 #, fuzzy, kde-format
-#| msgid "Host Name"
 msgctxt "@title:column"
 msgid "Host Name"
 msgstr "ഹോസ്റ്റ് നാമം"
 
 #: SensorDisplayLib/SensorLogger.cpp:141
 #, fuzzy, kde-format
-#| msgid "Log File"
 msgctxt "@title:column"
 msgid "Log File"
 msgstr "ലോഗ് ഫയല്‍"
@@ -1231,7 +1196,6 @@ msgstr "നെറ്റ്‌വര്‍ക്ക് ചരിത്രം"
 #. i18n: tag beam attribute summationName
 #: SystemLoad2.sgrd:13
 #, fuzzy, kde-format
-#| msgid "Receiver"
 msgid "Receiving"
 msgstr "റിസീവര്‍"
 
@@ -1365,9 +1329,6 @@ msgstr "ഷീറ്റു് %1"
 
 #: Workspace.cpp:170
 #, fuzzy, kde-format
-#| msgid ""
-#| "The worksheet '%1' contains unsaved data.\n"
-#| "Do you want to save the worksheet?"
 msgid ""
 "The tab '%1' contains unsaved data.\n"
 "Do you want to save the tab?"
@@ -1405,7 +1366,6 @@ msgstr ""
 
 #: Workspace.cpp:304
 #, fuzzy, kde-format
-#| msgid "System Monitor"
 msgid "Upload custom System Monitor tab"
 msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 
@@ -1421,7 +1381,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "മെമറി: %1 / %2മെമ്: %1 / %2മെമ്: %1%1"
 
 #, fuzzy
-#~| msgid "*.sgrd|Sensor Files"
 #~ msgid "*.sgrd|Sensor Files (*.sgrd)"
 #~ msgstr "*.sgrd|Sensor Files"
 
@@ -1482,7 +1441,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "കാത്തിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Interrupts"
 #~ msgid "Interrupt Load"
 #~ msgstr "ഇന്ററപ്റ്റുകള്‍"
 
@@ -1527,7 +1485,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "ഫയലിലെ താളുകള്‍"
 
 #, fuzzy
-#~| msgid "Processors"
 #~ msgid "Processes"
 #~ msgstr "പ്രസസ്സറുകള്‍"
 
@@ -1535,7 +1492,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "പ്രൊസസ്സ് കണ്ട്രോളര്‍"
 
 #, fuzzy
-#~| msgid "Process Count"
 #~ msgid "Process Spawn Count"
 #~ msgstr "പ്രൊസസ്സ് കൌണ്ടു്"
 
@@ -1543,37 +1499,30 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "പ്രൊസസ്സ് കൌണ്ടു്"
 
 #, fuzzy
-#~| msgid "Process Count"
 #~ msgid "Idle Processes Count"
 #~ msgstr "പ്രൊസസ്സ് കൌണ്ടു്"
 
 #, fuzzy
-#~| msgid "Process Count"
 #~ msgid "Running Processes Count"
 #~ msgstr "പ്രൊസസ്സ് കൌണ്ടു്"
 
 #, fuzzy
-#~| msgid "Process Count"
 #~ msgid "Sleeping Processes Count"
 #~ msgstr "പ്രൊസസ്സ് കൌണ്ടു്"
 
 #, fuzzy
-#~| msgid "Process Count"
 #~ msgid "Stopped Processes Count"
 #~ msgstr "പ്രൊസസ്സ് കൌണ്ടു്"
 
 #, fuzzy
-#~| msgid "Process Count"
 #~ msgid "Zombie Processes Count"
 #~ msgstr "പ്രൊസസ്സ് കൌണ്ടു്"
 
 #, fuzzy
-#~| msgid "Process Count"
 #~ msgid "Waiting Processes Count"
 #~ msgstr "പ്രൊസസ്സ് കൌണ്ടു്"
 
 #, fuzzy
-#~| msgid "Process Count"
 #~ msgid "Locked Processes Count"
 #~ msgstr "പ്രൊസസ്സ് കൌണ്ടു്"
 
@@ -1625,7 +1574,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "GOption കോണ്‍ടക്സ്റ്റ് "
 
 #, fuzzy
-#~| msgid "System Load"
 #~ msgid "System Calls"
 #~ msgstr "സിസ്റ്റം ലോഡ്"
 
@@ -1656,12 +1604,10 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "%s: fifo തുറക്കാന്‍‌ കഴിയില്ല!"
 
 #, fuzzy
-#~| msgid "Frame Errors"
 #~ msgid "Frame Error Rate"
 #~ msgstr "ഫ്രെയിം പിശകുകള്‍"
 
 #, fuzzy
-#~| msgid "Packets"
 #~ msgid "Multicast Packet Rate"
 #~ msgstr "പാക്കറ്റുകള്‍"
 
@@ -1669,7 +1615,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "പാക്കററ്റ് റേറ്റ് "
 
 #, fuzzy
-#~| msgid "Errors"
 #~ msgctxt "@item sensor description ('carrier' is a type of network signal)"
 #~ msgid "Carrier Loss Rate"
 #~ msgstr "പിശകുകള്‍"
@@ -1720,7 +1665,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "താപനില"
 
 #, fuzzy
-#~| msgid "Temperature"
 #~ msgid "Average CPU Temperature"
 #~ msgstr "താപനില"
 
@@ -1734,7 +1678,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "ബാറ്ററി"
 
 #, fuzzy
-#~| msgid "Battery Charge"
 #~ msgid "Battery Capacity"
 #~ msgstr "ബാറ്ററിയിലുള്ള ചാര്‍ജ്"
 
@@ -1745,12 +1688,10 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "ബാറ്ററിയുടെ ഉപയോഗം"
 
 #, fuzzy
-#~| msgid "Battery Usage"
 #~ msgid "Battery Voltage"
 #~ msgstr "ബാറ്ററിയുടെ ഉപയോഗം"
 
 #, fuzzy
-#~| msgid "Battery Charge"
 #~ msgid "Battery Discharge Rate"
 #~ msgstr "ബാറ്ററിയിലുള്ള ചാര്‍ജ്"
 
@@ -1795,7 +1736,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "ലവല്‍ നിറയ്ക്കുക "
 
 #, fuzzy
-#~| msgid "User Load"
 #~ msgid "Used Inodes"
 #~ msgstr "യൂസര്‍ ലോഡ്"
 
@@ -1815,7 +1755,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "മൊത്തം ഉപകരണങ്ങളുടെ എണ്ണം"
 
 #, fuzzy
-#~| msgid "Number of displays:"
 #~ msgid "Number of Raid Devices"
 #~ msgstr "പ്രദര്‍ശനങ്ങളുടെ എണ്ണം:"
 
@@ -1838,7 +1777,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "ഡിസ്ക് %1"
 
 #, fuzzy
-#~| msgid "Battery"
 #~ msgid "Battery %1"
 #~ msgstr "ബാറ്ററി"
 
@@ -1852,12 +1790,10 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "മൊത്തം"
 
 #, fuzzy
-#~| msgid "Interrupts"
 #~ msgid "Software Interrupts"
 #~ msgstr "ഇന്ററപ്റ്റുകള്‍"
 
 #, fuzzy
-#~| msgid "Interrupts"
 #~ msgid "Hardware Interrupts"
 #~ msgstr "ഇന്ററപ്റ്റുകള്‍"
 
@@ -1889,15 +1825,12 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgid "Floating Point Value"
 #~ msgstr "ഫ്ളോട്ടിങ്-പോയിന്‍റ് മൂല്യം "
 
-#~| msgid " sec"
 #~ msgctxt "Units"
 #~ msgid "%1 second"
 #~ msgid_plural "%1 seconds"
 #~ msgstr[0] " sec"
 #~ msgstr[1] " sec"
 
-#~| msgctxt "a percentage"
-#~| msgid "%"
 #~ msgid "%1"
 #~ msgstr "%"
 
@@ -1924,8 +1857,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgid "Automatic range"
 #~ msgstr "മൂല്ല്യം പരിധിയ്ക്ക് പുറത്ത്.\n"
 
-#~| msgctxt "a percentage"
-#~| msgid "%"
 #~ msgctxt "units in percentage"
 #~ msgid "%1%"
 #~ msgstr "%"
@@ -1946,7 +1877,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgid "Size ratio:"
 #~ msgstr "ഫയലുകള്‍ ചുരുക്കുന്ന അളവ്:"
 
-#~| msgid "%"
 #~ msgctxt "Number suffix in spinbox"
 #~ msgid "%"
 #~ msgstr "%"
@@ -1977,7 +1907,6 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgid "&New Worksheet..."
 #~ msgstr "&പുതിയ വര്‍ക്ക്ഷീറ്റ്"
 
-#~| msgid "&New Worksheet..."
 #~ msgid "Open Worksheet..."
 #~ msgstr "&പുതിയ വര്‍ക്ക്ഷീറ്റ്"
 

@@ -80,7 +80,6 @@ msgstr ""
 
 #: main.cpp:332
 #, fuzzy, kde-format
-#| msgid "Unable to find the icon theme archive %1."
 msgid "Unable to download the icon theme archive: %1"
 msgstr "ചിഹ്നത്തിന്റെ പ്രമേയത്തിനുള്ള ആര്‍ക്കൈവ് %1 ലഭ്യമായില്ല."
 
@@ -105,13 +104,11 @@ msgstr ""
 
 #: main.cpp:465
 #, fuzzy, kde-format
-#| msgid "Installing icon themes"
 msgid "Installing icon themes..."
 msgstr "ചിഹ്നത്തിനുള്ള പ്രമേയങ്ങള്‍ ചേര്‍ക്കുന്നു"
 
 #: main.cpp:475
 #, fuzzy, kde-format
-#| msgid "Installing icon themes"
 msgid "Installing %1 theme..."
 msgstr "ചിഹ്നത്തിനുള്ള പ്രമേയങ്ങള്‍ ചേര്‍ക്കുന്നു"
 
@@ -152,13 +149,11 @@ msgstr ""
 
 #: package/contents/ui/main.qml:155
 #, fuzzy, kde-format
-#| msgid "Remove Theme"
 msgid "Remove Icon Theme"
 msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
 
 #: package/contents/ui/main.qml:162
 #, fuzzy, kde-format
-#| msgid "Remove Theme"
 msgid "Restore Icon Theme"
 msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
 
@@ -169,19 +164,16 @@ msgstr ""
 
 #: package/contents/ui/main.qml:247
 #, fuzzy, kde-format
-#| msgid "Install Theme File..."
 msgid "Install from File..."
 msgstr "പ്രമേയ ഫയല്‍ ചേര്‍ക്കുക..."
 
 #: package/contents/ui/main.qml:253
 #, fuzzy, kde-format
-#| msgid "Get New Themes..."
 msgid "Get New Icons..."
 msgstr "പുതിയ പ്രമേയങ്ങള്‍ ലഭ്യമാക്കുക..."
 
 #: package/contents/ui/main.qml:274
 #, fuzzy, kde-format
-#| msgid "Remove Theme"
 msgid "Open Theme"
 msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
 
@@ -288,8 +280,8 @@ msgstr ""
 #~ "theme locally."
 #~ msgstr ""
 #~ "ഈ പ്രവൃത്തി ഉപയോഗിക്കുന്നതിനായി നിങ്ങള്‍ക്കു് ഇന്റര്‍നെറ്റ് കണക്ഷന്‍ ആവശ്യമുണ്ടു്. http://www.kde."
-#~ "org വെബ്സൈറ്റില്‍ നിന്നും പ്രമേയങ്ങളുടെ ഒരു പട്ടിക ലഭ്യമാകുന്നു. നിങ്ങളുടെ സിസ്റ്റത്തില്‍ ഇവ "
-#~ "ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഓരോ പ്രമേയത്തിനുമുള്ള ബട്ടണില്‍ ക്ലിക്കു് ചെയ്യുക."
+#~ "org വെബ്സൈറ്റില്‍ നിന്നും പ്രമേയങ്ങളുടെ ഒരു പട്ടിക ലഭ്യമാകുന്നു. നിങ്ങളുടെ സിസ്റ്റത്തില്‍ ഇവ ഇന്‍"
+#~ "സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഓരോ പ്രമേയത്തിനുമുള്ള ബട്ടണില്‍ ക്ലിക്കു് ചെയ്യുക."
 
 #~ msgid "Remove the selected theme from your disk"
 #~ msgstr "നിങ്ങളുടെ ഡിസ്കില്‍ നിന്നും തിരഞ്ഞെടുത്ത പ്രമേയം നീക്കം ചെയ്യുക"
@@ -327,18 +319,6 @@ msgstr ""
 #~ msgstr "വി&ശദമായ"
 
 #, fuzzy
-#~| msgid ""
-#~| "<h1>Icons</h1>This module allows you to choose the icons for your "
-#~| "desktop.<p>To choose an icon theme, click on its name and apply your "
-#~| "choice by pressing the \"Apply\" button below. If you do not want to "
-#~| "apply your choice you can press the \"Reset\" button to discard your "
-#~| "changes.</p><p>By pressing the \"Install New Theme\" button you can "
-#~| "install your new icon theme by writing its location in the box or "
-#~| "browsing to the location. Press the \"OK\" button to finish the "
-#~| "installation.</p><p>The \"Remove Theme\" button will only be activated "
-#~| "if you select a theme that you installed using this module. You are not "
-#~| "able to remove globally installed themes here.</p><p>You can also "
-#~| "specify effects that should be applied to the icons.</p>"
 #~ msgid ""
 #~ "<h1>Icons</h1>This module allows you to choose the icons for your desktop."
 #~ "<p>To choose an icon theme, click on its name and apply your choice by "
@@ -354,12 +334,12 @@ msgstr ""
 #~ msgstr ""
 #~ "<h1>ചിഹ്നങ്ങള്‍ (ഐക്കണുകള്‍)</h1>ഈ ഭാഗം നിങ്ങളുടെ പണിയിടത്തിലെ ചിഹ്നങ്ങള്‍ തിരഞ്ഞെടുക്കുവാന്‍ "
 #~ "സഹായിയ്കും. <p>ചിഹ്നത്തിന്റെ പ്രമേയം തെരഞ്ഞെടുക്കുന്നതിന് അതിന്റെ പേരില്‍ ക്ലിക്ക് ചെയ്ത "
-#~ "ശേഷം താഴെയുള്ള \"പ്രാവര്‍ത്തികമാക്കുക\" എന്ന ബട്ടണ്‍ അമര്‍ത്തുക. നിങ്ങളുടെ തിരഞ്ഞെടുപ്പു് "
-#~ "പ്രാവര്‍ത്തികമാക്കേണ്ട എന്നുണ്ടെങ്കില്‍ \"തിരിച്ചുപോകുക\" എന്ന ബട്ടണ്‍ അമര്‍ത്തി നിങ്ങള്‍ വരുത്തിയ "
+#~ "ശേഷം താഴെയുള്ള \"പ്രാവര്‍ത്തികമാക്കുക\" എന്ന ബട്ടണ്‍ അമര്‍ത്തുക. നിങ്ങളുടെ തിരഞ്ഞെടുപ്പു് പ്രാവര്‍"
+#~ "ത്തികമാക്കേണ്ട എന്നുണ്ടെങ്കില്‍ \"തിരിച്ചുപോകുക\" എന്ന ബട്ടണ്‍ അമര്‍ത്തി നിങ്ങള്‍ വരുത്തിയ "
 #~ "മാറ്റങ്ങള്‍ തിരസ്കരിക്കാം.</p><p>ചിഹ്നത്തിന്റെ പുതിയ പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നതിന് "
 #~ "\"പുതിയ പ്രമേയം ചേര്‍ക്കുക\" എന്ന ബട്ടണ്‍ അമര്‍ത്തിയശേഷം പ്രത്യക്ഷപ്പെടുന്ന പെട്ടിയില്‍ അതിന്റെ "
-#~ "വിലാസം എഴുതിച്ചേര്‍ക്കുകയോ, വിലാസം തെരഞ്ഞ് കണ്ടേത്തുകയോ ചെയ്യാം. ഇന്‍സ്റ്റാളേഷന്‍ "
-#~ "പൂര്‍ത്തിയാക്കുന്നതിന് \"ശരി\" എന്ന ബട്ടണ്‍ അമര്‍ത്തുക.</p><p>ഈ ഭാഗത്തു് നിങ്ങള്‍ ഒരു പ്രമേയം "
+#~ "വിലാസം എഴുതിച്ചേര്‍ക്കുകയോ, വിലാസം തെരഞ്ഞ് കണ്ടേത്തുകയോ ചെയ്യാം. ഇന്‍സ്റ്റാളേഷന്‍ പൂര്‍"
+#~ "ത്തിയാക്കുന്നതിന് \"ശരി\" എന്ന ബട്ടണ്‍ അമര്‍ത്തുക.</p><p>ഈ ഭാഗത്തു് നിങ്ങള്‍ ഒരു പ്രമേയം "
 #~ "തെരഞ്ഞെടുക്കുമ്പോള്‍ മാത്രമേ  \"പ്രമേയം മായ്ക്കുക\" എന്ന ബട്ടണ്‍ പ്രവര്‍ത്തനനിരതമാകുകയുള്ളൂ. "
 #~ "ആഗോളമായി ചേര്‍ത്ത പ്രമേയങ്ങള്‍ ഇവിടെവച്ച് പിന്‍വലിക്കുവാന്‍ സാധിക്കുകയില്ല.</p><p>ചിഹ്നങ്ങളില്‍ "
 #~ "വരുത്തേണ്ട പ്രഭാവങ്ങളും നിങ്ങള്‍ക്ക് ഇവിടെ വ്യക്തമാക്കാം.</p>"

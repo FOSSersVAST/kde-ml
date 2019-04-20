@@ -30,34 +30,27 @@ msgstr "manusmad@gmail.com, aneeshn.nl@gmail.com"
 
 #: bindings.cpp:33
 #, fuzzy, kde-format
-#| msgid "Switch to Next Keyboard Layout"
 msgid "Switch to Next Keyboard Layout"
 msgstr "അടുത്ത കീബോര്‍ഡു് വിന്യാസത്തിലേയ്ക്കു് മാറ്റുക"
 
 #: bindings.cpp:34
 #, fuzzy, kde-format
-#| msgid "Switch to Next Keyboard Layout"
 msgid "KDE Keyboard Layout Switcher"
 msgstr "അടുത്ത കീബോര്‍ഡു് വിന്യാസത്തിലേയ്ക്കു് മാറ്റുക"
 
 #: bindings.cpp:67
 #, fuzzy, kde-format
-#| msgid "Error changing keyboard layout to '%1'"
 msgid "Switch keyboard layout to %1"
 msgstr "'%1' കീബോര്‍ഡു് വിന്യാസത്തിലേയ്ക്കു് മാറ്റുന്നതില്‍ പിശകു്"
 
 #: flags.cpp:168
 #, fuzzy, kde-format
-#| msgctxt "vendor | keyboard model"
-#| msgid "%1 | %2"
 msgctxt "short layout label - full layout name"
 msgid "%1 - %2"
 msgstr "%1 | %2"
 
 #: flags.cpp:176
 #, fuzzy, kde-format
-#| msgctxt "vendor | keyboard model"
-#| msgid "%1 | %2"
 msgctxt "layout - variant"
 msgid "%1 - %2"
 msgstr "%1 | %2"
@@ -76,7 +69,6 @@ msgstr "സഹജമായ"
 #. i18n: ectx: property (windowTitle), widget (QDialog, AddLayoutDialog)
 #: kcm_add_layout_dialog.ui:14
 #, fuzzy, kde-format
-#| msgid "Keyboard Repeat"
 msgid "Add Layout"
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ്"
 
@@ -145,7 +137,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: kcm_keyboard.ui:33
 #, fuzzy, kde-format
-#| msgid "Keyboard Repeat"
 msgid "Keyboard &model:"
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ്"
 
@@ -182,7 +173,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, showSingleChk)
 #: kcm_keyboard.ui:115
 #, fuzzy, kde-format
-#| msgid "&Enable keyboard repeat"
 msgid "Show for single layout"
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാവര്‍ത്തികമാക്കുക"
 
@@ -309,7 +299,6 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, layoutsGroupBox)
 #: kcm_keyboard.ui:298
 #, fuzzy, kde-format
-#| msgid "&Enable keyboard repeat"
 msgid "Configure layouts"
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാവര്‍ത്തികമാക്കുക"
 
@@ -340,7 +329,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, layoutLoopingCheckBox)
 #: kcm_keyboard.ui:387
 #, fuzzy, kde-format
-#| msgid "&Enable keyboard repeat"
 msgid "Spare layouts"
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാവര്‍ത്തികമാക്കുക"
 
@@ -359,7 +347,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, configureKeyboardOptionsChk)
 #: kcm_keyboard.ui:455
 #, fuzzy, kde-format
-#| msgid "&Enable keyboard repeat"
 msgid "&Configure keyboard options"
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാവര്‍ത്തികമാക്കുക"
 
@@ -418,18 +405,12 @@ msgstr "പേരു്"
 
 #: kcm_view_models.cpp:226
 #, fuzzy, kde-format
-#| msgid "%1 shortcut"
-#| msgid_plural "%1 shortcuts"
 msgid "Shortcut"
 msgstr "%1 കുറുക്കുവഴി"
 
 #. i18n: ectx: property (whatsThis), widget (QGroupBox, numlockGroupBox)
 #: kcmmiscwidget.ui:17
 #, fuzzy, kde-format
-#| msgid ""
-#| "If supported, this option allows you to setup the state of NumLock after "
-#| "KDE startup.<p>You can configure NumLock to be turned on or off, or "
-#| "configure KDE not to set NumLock state."
 msgid ""
 "If supported, this option allows you to setup the state of NumLock after "
 "Plasma startup.<p>You can configure NumLock to be turned on or off, or "
@@ -442,7 +423,6 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, numlockGroupBox)
 #: kcmmiscwidget.ui:20
 #, fuzzy, kde-format
-#| msgid "NumLock on KDE Startup"
 msgid "NumLock on Plasma Startup"
 msgstr "കെഡിഇ തുടങ്ങുമ്പോള്‍ നംലോക്ക് (NumLock)"
 
@@ -456,7 +436,6 @@ msgstr "&ഓണാക്കുക"
 #. i18n: ectx: property (text), widget (QRadioButton, radioButton2)
 #: kcmmiscwidget.ui:39
 #, fuzzy, kde-format
-#| msgid "Turn o&ff"
 msgid "&Turn off"
 msgstr "ഓ&ഫാക്കുക"
 
@@ -481,7 +460,6 @@ msgstr "ഓ&ഫാക്കുക"
 #. i18n: ectx: property (text), widget (QRadioButton, keyboardRepeatUnchangedRadioButton)
 #: kcmmiscwidget.ui:85
 #, fuzzy, kde-format
-#| msgid "Leave unchan&ged"
 msgid "&Leave unchanged"
 msgstr "&മാറ്റാതെ വിടുക"
 
@@ -549,19 +527,16 @@ msgstr ""
 
 #: layout_tray_icon.cpp:46 layout_tray_icon.cpp:47
 #, fuzzy, kde-format
-#| msgid "Keyboard Repeat"
 msgctxt "tooltip title"
 msgid "Keyboard Layout"
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ്"
 
 #: layouts_menu.cpp:135
 #, fuzzy, kde-format
-#| msgid "&Enable keyboard repeat"
 msgid "Configure Layouts..."
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാവര്‍ത്തികമാക്കുക"
 
 #, fuzzy
-#~| msgid "&Enable keyboard repeat"
 #~ msgid "Configure..."
 #~ msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാവര്‍ത്തികമാക്കുക"
 
@@ -573,15 +548,14 @@ msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാ
 #~ "click feedback by dragging the slider button or by clicking the up/down "
 #~ "arrows on the spin box. Setting the volume to 0% turns off the key click."
 #~ msgstr ""
-#~ "പിന്തുണയുണ്ടെങ്കില്‍, കീബോര്‍ഡിലെ കീകള്‍ അമര്‍ത്തിയാല്‍ കമ്പ്യൂട്ടറിന്റെ സ്പീക്കറില്‍നിന്നും "
-#~ "കേള്‍ക്കാവുന്ന ക്ലിക്കുകള്‍ ശ്രവിക്കാന്‍ ഈ ഐച്ഛികം നിങ്ങളെ അനുവദിക്കും. നിങ്ങളുടെ കീബോര്‍ഡിന് "
+#~ "പിന്തുണയുണ്ടെങ്കില്‍, കീബോര്‍ഡിലെ കീകള്‍ അമര്‍ത്തിയാല്‍ കമ്പ്യൂട്ടറിന്റെ സ്പീക്കറില്‍നിന്നും കേള്‍"
+#~ "ക്കാവുന്ന ക്ലിക്കുകള്‍ ശ്രവിക്കാന്‍ ഈ ഐച്ഛികം നിങ്ങളെ അനുവദിക്കും. നിങ്ങളുടെ കീബോര്‍ഡിന് "
 #~ "യാന്ത്രിക കീകള്‍ ഇല്ലെങ്കിലോ, അവയുണ്ടാക്കുന്ന സ്വരം വളരെ മൃദുവാണെങ്കിലോ ഇത് "
 #~ "ഉപയോഗപ്രദമായേക്കാം. സ്ലൈഡര്‍ ബട്ടണ്‍ വലിച്ചോ, സ്പിന്‍ പെട്ടിയിലെ മുകളിലേക്കും താഴേക്കുമുള്ള "
 #~ "ആരോകള്‍ ക്ലിക്ക് ചെയ്തോ, കീ ക്ലിക്ക് ഫീഡ്ബാക്കിന്റെ ഒച്ച നിങ്ങള്‍ക്ക് മാറ്റാവുന്നതാണ്. ഒച്ച 0% "
 #~ "ആക്കിയാല്‍ കീ ക്ലിക്ക് ഓഫാകും."
 
 #, fuzzy
-#~| msgid "Key click &volume:"
 #~ msgid "&Key click volume:"
 #~ msgstr "കീ ക്ലിക്ക് &ഒച്ച:"
 
@@ -596,8 +570,8 @@ msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാ
 #~ "release the key."
 #~ msgstr ""
 #~ "നിങ്ങള്‍ ഈ ഐച്ഛികം ചെക്ക് ചെയ്താല്‍, ഒരു കീ അമര്‍ത്തിപ്പിടിച്ചാല്‍ ഒരേ അക്ഷരരൂപം വീണ്ടും വീണ്ടും "
-#~ "പുറത്തുവരും. ഉദാഹരണത്തിന്, ടാബ് കീ അമര്‍ത്തിപ്പിടിച്ചാല്‍ ആ കീ ഒന്നിനു പിറകേ ഒന്നായി "
-#~ "അമര്‍ത്തുന്ന ഫലമുണ്ടാകും: ടാബ് അക്ഷരരൂപങ്ങള്‍ കീ വിടുന്നതുവരെ പുറത്തുവന്നുകൊണ്ടിരിക്കും."
+#~ "പുറത്തുവരും. ഉദാഹരണത്തിന്, ടാബ് കീ അമര്‍ത്തിപ്പിടിച്ചാല്‍ ആ കീ ഒന്നിനു പിറകേ ഒന്നായി അമര്‍"
+#~ "ത്തുന്ന ഫലമുണ്ടാകും: ടാബ് അക്ഷരരൂപങ്ങള്‍ കീ വിടുന്നതുവരെ പുറത്തുവന്നുകൊണ്ടിരിക്കും."
 
 #~ msgid "&Enable keyboard repeat"
 #~ msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാവര്‍ത്തികമാക്കുക"

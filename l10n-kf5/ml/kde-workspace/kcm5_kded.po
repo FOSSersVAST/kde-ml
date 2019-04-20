@@ -51,16 +51,6 @@ msgstr "ഡാനിയേല്‍ മോല്‍കെന്റിന്‍"
 
 #: kcmkded.cpp:85
 #, fuzzy, kde-format
-#| msgid ""
-#| "<h1>Service Manager</h1><p>This module allows you to have an overview of "
-#| "all plugins of the KDE Daemon, also referred to as KDE Services. "
-#| "Generally, there are two types of service:</p><ul><li>Services invoked at "
-#| "startup</li><li>Services called on demand</li></ul><p>The latter are only "
-#| "listed for convenience. The startup services can be started and stopped. "
-#| "In Administrator mode, you can also define whether services should be "
-#| "loaded at startup.</p><p><b> Use this with care: some services are vital "
-#| "for KDE; do not deactivate services if you do not know what you are doing."
-#| "</b></p>"
 msgid ""
 "<h1>Service Manager</h1><p>This module allows you to have an overview of all "
 "plugins of the KDE Daemon, also referred to as KDE Services. Generally, "
@@ -127,18 +117,14 @@ msgstr "പ്രാരംഭ സേവനങ്ങള്‍"
 
 #: kcmkded.cpp:121
 #, fuzzy, kde-format
-#| msgid ""
-#| "This shows all KDE services that can be loaded on KDE startup. Checked "
-#| "services will be invoked on next startup. Be careful with deactivation of "
-#| "unknown services."
 msgid ""
 "This shows all KDE services that can be loaded on Plasma startup. Checked "
 "services will be invoked on next startup. Be careful with deactivation of "
 "unknown services."
 msgstr ""
 "കെഡിഇയുടെ ആരംഭത്തില്‍ ലഭ്യമാകുന്ന എല്ലാ കെഡിഇ സേവനങ്ങളും ഇവിടെ കാണാം. ഇപ്പോള്‍ നിങ്ങള്‍ "
-"തിരഞ്ഞെടുക്കുന്നവ അടുത്ത തവണ ആരംഭിക്കുമ്പോള്‍ ലഭ്യമാകുന്നു. അപരിചിതമായ സേവനങ്ങള്‍ "
-"നിര്‍ജ്ജീവമാക്കുന്നതിനെപ്പറ്റി പ്രത്യേകം ശ്രദ്ധിക്കേണ്ടതുണ്ടു്."
+"തിരഞ്ഞെടുക്കുന്നവ അടുത്ത തവണ ആരംഭിക്കുമ്പോള്‍ ലഭ്യമാകുന്നു. അപരിചിതമായ സേവനങ്ങള്‍ നിര്‍"
+"ജ്ജീവമാക്കുന്നതിനെപ്പറ്റി പ്രത്യേകം ശ്രദ്ധിക്കേണ്ടതുണ്ടു്."
 
 #: kcmkded.cpp:130
 #, kde-format
@@ -173,7 +159,6 @@ msgstr ""
 
 #: kcmkded.cpp:489
 #, fuzzy, kde-format
-#| msgid "Unable to stop server <em>%1</em>."
 msgid "Unable to stop service <em>%1</em>."
 msgstr "സെര്‍വര്‍  <em>%1</em> നിര്‍ത്തുവാന്‍ സാധ്യമായില്ല."
 

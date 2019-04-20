@@ -120,7 +120,6 @@ msgstr ""
 
 #: oxygenanimationconfigwidget.cpp:89
 #, fuzzy, kde-format
-#| msgid "Progress bar animation"
 msgid "Progress bar busy indicator"
 msgstr "പുരോഗതി ബാറിന്റെ ആനിമേഷന്‍ "
 
@@ -138,7 +137,6 @@ msgstr "ഫ്രെയിം"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/oxygenfollowmouseanimationconfigbox.ui:32
 #, fuzzy, kde-format
-#| msgid "Animations"
 msgid "Animation type:"
 msgstr "അനിമേഷനുകള്‍"
 
@@ -163,7 +161,6 @@ msgstr "മങ്ങാനുള്ള സമയദൈര്‍ഘ്യം"
 #. i18n: ectx: property (text), widget (QLabel, followMouseDurationLabel)
 #: ui/oxygenfollowmouseanimationconfigbox.ui:72
 #, fuzzy, kde-format
-#| msgid "Fade duration:"
 msgid "Follow mouse duration:"
 msgstr "മങ്ങാനുള്ള സമയദൈര്‍ഘ്യം"
 
@@ -208,28 +205,24 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, _mnemonicsLabel)
 #: ui/oxygenstyleconfig.ui:70
 #, fuzzy, kde-format
-#| msgid "Draw toolbar item separators"
 msgid "Keyboard accelerators visibility:"
 msgstr "പണിയായുധപട്ടയിലെ ഇനങ്ങളെ വേര്‍ത്തിരിയ്ക്കുന്നതു് വരയ്ക്കുക"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, _mnemonicsMode)
 #: ui/oxygenstyleconfig.ui:84
 #, fuzzy, kde-format
-#| msgid "Draw toolbar item separators"
 msgid "Always Hide Keyboard Accelerators"
 msgstr "പണിയായുധപട്ടയിലെ ഇനങ്ങളെ വേര്‍ത്തിരിയ്ക്കുന്നതു് വരയ്ക്കുക"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, _mnemonicsMode)
 #: ui/oxygenstyleconfig.ui:89
 #, fuzzy, kde-format
-#| msgid "Draw toolbar item separators"
 msgid "Show Keyboard Accelerators When Needed"
 msgstr "പണിയായുധപട്ടയിലെ ഇനങ്ങളെ വേര്‍ത്തിരിയ്ക്കുന്നതു് വരയ്ക്കുക"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, _mnemonicsMode)
 #: ui/oxygenstyleconfig.ui:94
 #, fuzzy, kde-format
-#| msgid "Draw toolbar item separators"
 msgid "Always Show Keyboard Accelerators"
 msgstr "പണിയായുധപട്ടയിലെ ഇനങ്ങളെ വേര്‍ത്തിരിയ്ക്കുന്നതു് വരയ്ക്കുക"
 
@@ -284,7 +277,6 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, _viewTriangularExpanderSize)
 #: ui/oxygenstyleconfig.ui:209
 #, fuzzy, kde-format
-#| msgid "Tiny"
 msgctxt "triangle size"
 msgid "Tiny"
 msgstr "വളരെ ചെറുത്"
@@ -292,7 +284,6 @@ msgstr "വളരെ ചെറുത്"
 #. i18n: ectx: property (text), item, widget (KComboBox, _viewTriangularExpanderSize)
 #: ui/oxygenstyleconfig.ui:214
 #, fuzzy, kde-format
-#| msgid "Small"
 msgctxt "triangle size"
 msgid "Small"
 msgstr "ചെറുത്"
@@ -300,7 +291,6 @@ msgstr "ചെറുത്"
 #. i18n: ectx: property (text), item, widget (KComboBox, _viewTriangularExpanderSize)
 #: ui/oxygenstyleconfig.ui:219
 #, fuzzy, kde-format
-#| msgid "Normal"
 msgctxt "triangle size"
 msgid "Normal"
 msgstr "സാധാരണ"
@@ -320,7 +310,6 @@ msgstr "സ്ക്രോള്‍ബാറുകള്‍‌ "
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: ui/oxygenstyleconfig.ui:272
 #, fuzzy, kde-format
-#| msgid "Scrollbars"
 msgid "Scrollbar wi&dth:"
 msgstr "സ്ക്രോള്‍ബാറുകള്‍‌ "
 
@@ -345,7 +334,6 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarSubLineButtons)
 #: ui/oxygenstyleconfig.ui:361
 #, fuzzy, kde-format
-#| msgid "Buttons"
 msgid "No buttons"
 msgstr "ബട്ടണുകള്‍"
 
@@ -353,7 +341,6 @@ msgstr "ബട്ടണുകള്‍"
 #. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarAddLineButtons)
 #: ui/oxygenstyleconfig.ui:366 ui/oxygenstyleconfig.ui:398
 #, fuzzy, kde-format
-#| msgid "Use flat buttons"
 msgid "One button"
 msgstr "പരന്ന ബട്ടനുകള്‍ ഉപയോഗിക്കുക"
 
@@ -361,14 +348,12 @@ msgstr "പരന്ന ബട്ടനുകള്‍ ഉപയോഗിക്�
 #. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarAddLineButtons)
 #: ui/oxygenstyleconfig.ui:371 ui/oxygenstyleconfig.ui:403
 #, fuzzy, kde-format
-#| msgid "Buttons"
 msgid "Two buttons"
 msgstr "ബട്ടണുകള്‍"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, _scrollBarAddLineButtons)
 #: ui/oxygenstyleconfig.ui:393
 #, fuzzy, kde-format
-#| msgid "Buttons"
 msgid "No button"
 msgstr "ബട്ടണുകള്‍"
 
@@ -403,7 +388,6 @@ msgstr ""
 #~ msgstr "+/- നു പകരം ട്രയാഗുലര്‍ ട്രീ ഉപയോഗിക്കുക"
 
 #, fuzzy
-#~| msgid "Triangle size:"
 #~ msgid "Triangle si&ze:"
 #~ msgstr "ത്രിഗോണ വലുപ്പം:"
 
@@ -411,13 +395,11 @@ msgstr ""
 #~ msgstr "ടാബ്സ് "
 
 #, fuzzy
-#~| msgid "Single"
 #~ msgctxt "Renders each inactive tab in a tabbar as separate darker slab"
 #~ msgid "Single"
 #~ msgstr "ഒറ്റ"
 
 #, fuzzy
-#~| msgid "Plain"
 #~ msgctxt "Renders inactive tabs in a tabbar as a unique darker slab"
 #~ msgid "Plain"
 #~ msgstr "പ്ളെയിന്‍"
@@ -459,7 +441,6 @@ msgstr ""
 #~ msgstr "കാസ്കെയ്ഡ്"
 
 #, fuzzy
-#~| msgid "Buttons"
 #~ msgid "Tools"
 #~ msgstr "ബട്ടണുകള്‍"
 
@@ -470,17 +451,14 @@ msgstr ""
 #~ msgstr "മുമ്പത്തെ ജാലകം തിരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgid "Example text"
 #~ msgid "This is a sample text"
 #~ msgstr "ഉദാഹരണ വാചകം"
 
 #, fuzzy
-#~| msgid "Animations"
 #~ msgid "Run Simulation"
 #~ msgstr "അനിമേഷനുകള്‍"
 
 #, fuzzy
-#~| msgid "CheckBox"
 #~ msgid "Checkboxes"
 #~ msgstr "ചെക്ക് ബോക്സ്"
 
@@ -494,27 +472,22 @@ msgstr ""
 #~ msgstr "ഓഫ്"
 
 #, fuzzy
-#~| msgid "Buttons"
 #~ msgid "Radiobuttons"
 #~ msgstr "ബട്ടണുകള്‍"
 
 #, fuzzy
-#~| msgid "First item"
 #~ msgid "First Choice"
 #~ msgstr "ഒന്നാമത്തെ സാധനം"
 
 #, fuzzy
-#~| msgid "Second item"
 #~ msgid "Second Choice"
 #~ msgstr "രണ്ടാമത്തെ സാധനം"
 
 #, fuzzy
-#~| msgid "Third item"
 #~ msgid "Third Choice"
 #~ msgstr "മൂന്നാമത്തെ സാധനം"
 
 #, fuzzy
-#~| msgid "Buttons"
 #~ msgid "Pushbuttons"
 #~ msgstr "ബട്ടണുകള്‍"
 
@@ -522,7 +495,6 @@ msgstr ""
 #~ msgstr "വാചകം മാത്രം:"
 
 #, fuzzy
-#~| msgid "Example text"
 #~ msgid "This is a normal, text only combo box"
 #~ msgstr "ഉദാഹരണ വാചകം"
 
@@ -539,42 +511,34 @@ msgstr ""
 #~ msgstr "പരന്ന ബട്ടനുകള്‍ ഉപയോഗിക്കുക"
 
 #, fuzzy
-#~| msgid "Example text"
 #~ msgid "This is a normal, text and icon combo box"
 #~ msgstr "ഉദാഹരണ വാചകം"
 
 #, fuzzy
-#~| msgid "Example text"
 #~ msgid "This is a normal, text only tool button"
 #~ msgstr "ഉദാഹരണ വാചകം"
 
 #, fuzzy
-#~| msgid "Example text"
 #~ msgid "This is a normal, text and icon tool button"
 #~ msgstr "ഉദാഹരണ വാചകം"
 
 #, fuzzy
-#~| msgid "Example text"
 #~ msgid "This is a normal, text only button"
 #~ msgstr "ഉദാഹരണ വാചകം"
 
 #, fuzzy
-#~| msgid "Example text"
 #~ msgid "This is a normal, text only button with menu"
 #~ msgstr "ഉദാഹരണ വാചകം"
 
 #, fuzzy
-#~| msgid "Example text"
 #~ msgid "This is a normal, text and icon button"
 #~ msgstr "ഉദാഹരണ വാചകം"
 
 #, fuzzy
-#~| msgid "Example text"
 #~ msgid "This is a normal, text and icon button with menu"
 #~ msgstr "ഉദാഹരണ വാചകം"
 
 #, fuzzy
-#~| msgid "Buttons"
 #~ msgid "Toolbuttons"
 #~ msgstr "ബട്ടണുകള്‍"
 
@@ -582,27 +546,22 @@ msgstr ""
 #~ msgstr "പരന്ന"
 
 #, fuzzy
-#~| msgid "Left "
 #~ msgid "Up Arrow"
 #~ msgstr "ഇടത്"
 
 #, fuzzy
-#~| msgid "Left "
 #~ msgid "Down Arrow"
 #~ msgstr "ഇടത്"
 
 #, fuzzy
-#~| msgid "Left "
 #~ msgid "Left Arrow"
 #~ msgstr "ഇടത്"
 
 #, fuzzy
-#~| msgid "Right"
 #~ msgid "Right Arrow"
 #~ msgstr "വലത്ത് "
 
 #, fuzzy
-#~| msgid "Tab position:"
 #~ msgid "Text position:"
 #~ msgstr "ടാബിന്റെ സ്ഥാനം:"
 
@@ -613,12 +572,10 @@ msgstr ""
 #~ msgstr "വാചകം മാത്രം"
 
 #, fuzzy
-#~| msgid "Text and icon:"
 #~ msgid "Text Alongside Icons"
 #~ msgstr "വാചകങ്ങളും ചിഹ്നങ്ങളും:"
 
 #, fuzzy
-#~| msgid "Text and icon:"
 #~ msgid "Text Under Icons"
 #~ msgstr "വാചകങ്ങളും ചിഹ്നങ്ങളും:"
 
@@ -647,13 +604,11 @@ msgstr ""
 #~ msgstr "താഴെ നിന്നും മുകളിലേക്ക്"
 
 #, fuzzy
-#~| msgid "Flat"
 #~ msgctxt "Flat group box. No frame is actually drawn"
 #~ msgid "Flat"
 #~ msgstr "പരന്ന"
 
 #, fuzzy
-#~| msgid "Flat"
 #~ msgctxt "Flat frame. No frame is actually drawn."
 #~ msgid "Flat"
 #~ msgstr "പരന്ന"
@@ -698,12 +653,10 @@ msgstr ""
 #~ msgstr "മൂന്നാമത്തെ വിവരണം "
 
 #, fuzzy
-#~| msgid "Third item"
 #~ msgid "Third Subitem"
 #~ msgstr "മൂന്നാമത്തെ സാധനം"
 
 #, fuzzy
-#~| msgid "Third Description"
 #~ msgid "Third Subitem Description"
 #~ msgstr "മൂന്നാമത്തെ വിവരണം "
 
@@ -711,27 +664,22 @@ msgstr ""
 #~ msgstr "രണ്ടാമത്തെ വിവരണം"
 
 #, fuzzy
-#~| msgid "Second item"
 #~ msgid "Second Subitem"
 #~ msgstr "രണ്ടാമത്തെ സാധനം"
 
 #, fuzzy
-#~| msgid "Second Description"
 #~ msgid "Second Subitem Description"
 #~ msgstr "രണ്ടാമത്തെ വിവരണം"
 
 #, fuzzy
-#~| msgid "First item"
 #~ msgid "First Subitem"
 #~ msgstr "ഒന്നാമത്തെ സാധനം"
 
 #, fuzzy
-#~| msgid "Third Description"
 #~ msgid "First Subitem Description"
 #~ msgstr "മൂന്നാമത്തെ വിവരണം "
 
 #, fuzzy
-#~| msgid "Third Description"
 #~ msgid "First Description"
 #~ msgstr "മൂന്നാമത്തെ വിവരണം "
 
@@ -793,12 +741,10 @@ msgstr ""
 #~ msgstr "രണ്ടാമത്തെ പേജ്"
 
 #, fuzzy
-#~| msgid "First Tab"
 #~ msgid "First Label"
 #~ msgstr "ഒന്നാമത്തെ ടാബ് "
 
 #, fuzzy
-#~| msgid "Second Tab"
 #~ msgid "Second Label"
 #~ msgstr "രണ്ടാമത്തെ ടാബ് "
 
@@ -827,7 +773,6 @@ msgstr ""
 #~ msgstr "കിഴക്കു്"
 
 #, fuzzy
-#~| msgid "Buttons"
 #~ msgid "Show Corner Buttons"
 #~ msgstr "ബട്ടണുകള്‍"
 
@@ -846,7 +791,6 @@ msgstr ""
 #~ msgstr "ershad92@gmail.com"
 
 #, fuzzy
-#~| msgid "Draw toolbar item separators"
 #~ msgid "Draw keyboard accelerators"
 #~ msgstr "പണിയായുധപട്ടയിലെ ഇനങ്ങളെ വേര്‍ത്തിരിയ്ക്കുന്നതു് വരയ്ക്കുക"
 
@@ -866,7 +810,6 @@ msgstr ""
 #~ msgstr "പ്ളെയിന്‍"
 
 #, fuzzy
-#~| msgid "Frame"
 #~ msgid "Form"
 #~ msgstr "ഫ്രെയിം"
 

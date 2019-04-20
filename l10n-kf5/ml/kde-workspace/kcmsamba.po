@@ -308,7 +308,6 @@ msgstr "ഫയലുകള്‍ തുറക്കുക"
 
 #: ksmbstatus.cpp:169
 #, fuzzy, kde-format
-#| msgid "Error: Unable to run smbstatus"
 msgid "Error run smbstatus: %1"
 msgstr "പിശകു്: smbstatus പ്രവര്‍ത്തിക്കുവാന്‍ സാധ്യമായില്ല"
 
@@ -356,7 +355,6 @@ msgstr "kcmsamba"
 
 #: main.cpp:74
 #, fuzzy, kde-format
-#| msgid "KDE Panel System Information Control Module"
 msgid "System Information Control Module"
 msgstr "കെഡിഇ പാനല്‍ സിസ്റ്റത്തിന്റെ വിവര നിയന്ത്രണഘടകം"
 

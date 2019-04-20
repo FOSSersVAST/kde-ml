@@ -112,7 +112,6 @@ msgstr ""
 
 #: about/konq_aboutpage.cpp:105
 #, fuzzy, kde-format
-#| msgid "&Bookmarks"
 msgid "Bookmarks"
 msgstr "&ഓര്‍മ്മക്കുറിപ്പുകള്‍"
 
@@ -157,7 +156,6 @@ msgstr ""
 
 #: about/konq_aboutpage.cpp:161
 #, fuzzy, kde-format
-#| msgid "<img width='16' height='16' src=\"%1\"></img>"
 msgid ""
 "To quickly go to your Home folder press the home button <img width='16' "
 "height='16' src=\"%1\"></img>."
@@ -309,7 +307,6 @@ msgstr ""
 
 #: about/konq_aboutpage.cpp:240
 #, fuzzy, kde-format
-#| msgid "PNG<br />MNG<br />JPG<br />GIF"
 msgid "PNG<br />JPG<br />GIF"
 msgstr "PNG<br />MNG<br />JPG<br />GIF"
 
@@ -478,7 +475,6 @@ msgstr ""
 
 #: src/konqextensionmanager.cpp:53
 #, fuzzy, kde-format
-#| msgid "Configure"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "സജ്ജമാക്കുക"
@@ -537,7 +533,6 @@ msgstr "%1 കാണിക്കുക"
 
 #: src/konqhistorydialog.cpp:47
 #, fuzzy, kde-format
-#| msgid "Show History Sidebar"
 msgctxt "@title:window"
 msgid "History"
 msgstr "ചരിത്രമുള്ള വശത്തെ പട്ട കാണിയ്ക്കുക"
@@ -577,7 +572,6 @@ msgstr "പുതിയ ടാബില്‍ തുറക്കുക"
 
 #: src/konqhistoryview.cpp:73
 #, fuzzy, kde-format
-#| msgid "Copy Link Address"
 msgid "&Copy Link Address"
 msgstr "ലിങ്കിന്റെ വിലാസം പകര്‍ത്തുക"
 
@@ -608,7 +602,6 @@ msgstr "&തീയതി ഉപയോഗിച്ചു്"
 
 #: src/konqhistoryview.cpp:113
 #, fuzzy, kde-format
-#| msgid "Show History Sidebar"
 msgid "Search in history"
 msgstr "ചരിത്രമുള്ള വശത്തെ പട്ട കാണിയ്ക്കുക"
 
@@ -619,7 +612,6 @@ msgstr ""
 
 #: src/konqhistoryview.cpp:174
 #, fuzzy, kde-format
-#| msgid "Show History Sidebar"
 msgctxt "@title:window"
 msgid "Clear History?"
 msgstr "ചരിത്രമുള്ള വശത്തെ പട്ട കാണിയ്ക്കുക"
@@ -631,7 +623,6 @@ msgstr "വെബ് ബ്രൌസര്‍, ഫയലുകളുടെ ന�
 
 #: src/konqmain.cpp:164
 #, fuzzy, kde-format
-#| msgid "(C) 1999-2008, The Konqueror developers"
 msgid "(C) 1999-2016, The Konqueror developers"
 msgstr "(C) 1999-2008, കോണ്‍ക്വററിന്റെ രചയിതാക്കള്‍"
 
@@ -652,7 +643,6 @@ msgstr "ഡേവിഡ് ഫൌര്‍"
 
 #: src/konqmain.cpp:168
 #, fuzzy, kde-format
-#| msgid "Developer (framework, parts, JavaScript, I/O library) and maintainer"
 msgid ""
 "Developer (framework, parts, JavaScript, I/O library) and former maintainer"
 msgstr "രചയിതാവും (ചട്ടക്കൂടു്, ഭാഗങ്ങള്‍, ജാവാസ്ക്രിപ്റ്റ്, ഐ/ഒ ലൈബ്രറി) പരിപാലകനും"
@@ -957,7 +947,6 @@ msgstr "എഡ്വേര്‍ഡോ റോബിള്‍സ് എല്‍�
 
 #: src/konqmain.cpp:214
 #, fuzzy, kde-format
-#| msgid "Start without a default window"
 msgid "Start without a default window, when called without URLs"
 msgstr "സ്വതവേയുള്ള ജാലകമില്ലാതെ ആരംഭിക്കുക"
 
@@ -989,7 +978,6 @@ msgstr "തുറക്കേണ്ട പ്രവര്‍ത്തനവേ�
 
 #: src/konqmain.cpp:218
 #, fuzzy, kde-format
-#| msgid "Sessions"
 msgid "session"
 msgstr "പ്രവര്‍ത്തനവേളകള്‍"
 
@@ -1060,7 +1048,6 @@ msgstr ""
 #: src/konqmainwindow.cpp:2557 src/konqmainwindow.cpp:2579
 #: src/konqmainwindow.cpp:4944
 #, fuzzy, kde-format
-#| msgid "Discard Changes?"
 msgctxt "@title:window"
 msgid "Discard Changes?"
 msgstr "മാറ്റങ്ങള്‍ സൂക്ഷിക്കണമോ?"
@@ -1080,7 +1067,6 @@ msgstr "ഫയലുകളുടെ നടത്തിപ്പു്"
 
 #: src/konqmainwindow.cpp:2039 src/konqmainwindow.cpp:3521
 #, fuzzy, kde-format
-#| msgid "Home Page"
 msgid "Home"
 msgstr "പൂമുഖം"
 
@@ -1155,7 +1141,6 @@ msgstr "&മറ്റ് ടാബുകള്‍ അടയ്ക്കുക"
 
 #: src/konqmainwindow.cpp:2540
 #, fuzzy, kde-format
-#| msgid "Close Other Tabs Confirmation"
 msgctxt "@title:window"
 msgid "Close Other Tabs Confirmation"
 msgstr "മറ്റു കിളിവാതിലുകളെ അടയ്ക്കുന്നതുറപ്പാക്കുന്നു"
@@ -1180,7 +1165,6 @@ msgstr ""
 
 #: src/konqmainwindow.cpp:2620
 #, fuzzy, kde-format
-#| msgid "Enter Target"
 msgctxt "@title:window"
 msgid "Enter Target"
 msgstr "ലക്ഷ്യം നല്‍കുക"
@@ -1202,7 +1186,6 @@ msgstr "%1 ല്‍ നിന്നും തെരഞ്ഞെടുത്ത 
 
 #: src/konqmainwindow.cpp:2824
 #, fuzzy, kde-format
-#| msgid "Closed Items"
 msgctxt "This menu entry empties the closed items history"
 msgid "Empty Closed Items History"
 msgstr "അടച്ചു പൂട്ടിയ വസ്തുക്കള്‍"
@@ -1259,7 +1242,6 @@ msgstr "ഇപ്പോഴുള്ള സ്ഥാനത്തു് വച്�
 
 #: src/konqmainwindow.cpp:3471
 #, fuzzy, kde-format
-#| msgid "&View"
 msgctxt "This option links konqueror views"
 msgid "Lin&k View"
 msgstr "&കാഴ്ച"
@@ -1293,7 +1275,6 @@ msgstr "അടുത്തിടെ സന്ദര്‍ശിച്ചതു�
 
 #: src/konqmainwindow.cpp:3539
 #, fuzzy, kde-format
-#| msgid "Show History Sidebar"
 msgctxt "@action:inmenu Go"
 msgid "Show History"
 msgstr "ചരിത്രമുള്ള വശത്തെ പട്ട കാണിയ്ക്കുക"
@@ -1620,7 +1601,6 @@ msgstr ""
 
 #: src/konqmainwindow.cpp:4350
 #, fuzzy, kde-format
-#| msgid "Open Folder in Tabs"
 msgctxt "@title:window"
 msgid "Open bookmarks folder in new tabs"
 msgstr "ഫോള്‍ഡര്‍ ടാബുകളില്‍ തുറക്കുക"
@@ -1705,7 +1685,6 @@ msgstr ""
 
 #: src/konqmainwindow.cpp:5105 src/konqmainwindow.cpp:5112
 #, fuzzy, kde-format
-#| msgid "Close View"
 msgctxt "@title:window"
 msgid "Web Sidebar"
 msgstr "കാഴ്ച അടയ്ക്കുക"
@@ -1747,20 +1726,17 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QRadioButton, m_pCurrentWindow)
 #: src/konqnewsessiondlg_base.ui:44
 #, fuzzy, kde-format
-#| msgid "Open tabs inside current window"
 msgid "Onl&y current window"
 msgstr "നിലവിലുള്ള ജാലകത്തില്‍ കിളിവാതിലുകള്‍ തുറക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, lblSessionName)
 #: src/konqnewsessiondlg_base.ui:56
 #, fuzzy, kde-format
-#| msgid "&Session name:"
 msgid "Session n&ame:"
 msgstr "&സെഷന്റെ പേര്:"
 
 #: src/konqsessiondlg.cpp:77
 #, fuzzy, kde-format
-#| msgid "Restore Session"
 msgctxt "@title:window"
 msgid "Manage Sessions"
 msgstr "പ്രവര്‍ത്തനവേള വീണ്ടെടുക്കുക"
@@ -1772,14 +1748,12 @@ msgstr "&തുറക്കുക"
 
 #: src/konqsessiondlg.cpp:180
 #, fuzzy, kde-format
-#| msgid "Restore Session"
 msgctxt "@title:window"
 msgid "Rename Session"
 msgstr "പ്രവര്‍ത്തനവേള വീണ്ടെടുക്കുക"
 
 #: src/konqsessiondlg.cpp:230
 #, fuzzy, kde-format
-#| msgid "Restore Session"
 msgctxt "@title:window"
 msgid "Save Session"
 msgstr "പ്രവര്‍ത്തനവേള വീണ്ടെടുക്കുക"
@@ -1792,7 +1766,6 @@ msgstr ""
 
 #: src/konqsessiondlg.cpp:259
 #, fuzzy, kde-format
-#| msgid "Session exists. Overwrite?"
 msgctxt "@title:window"
 msgid "Session exists. Overwrite?"
 msgstr "സെഷന്‍ നിലവിലുണ്ടു്. മാറ്റി എഴുതണമോ?"
@@ -1807,8 +1780,6 @@ msgstr "പുതിയ..."
 #. i18n: ectx: property (text), widget (QPushButton, m_pSaveCurrentButton)
 #: src/konqsessiondlg_base.ui:33
 #, fuzzy, kde-format
-#| msgctxt "@action:button Save current session"
-#| msgid "Save Current"
 msgctxt "@action:button Save current session"
 msgid "Save Current..."
 msgstr "നിലവിലുള്ളതു് സൂക്ഷിക്കുക"
@@ -1836,35 +1807,30 @@ msgstr "നിലവിലുള്ള ജാലകത്തില്‍ കി�
 
 #: src/konqsessionmanager.cpp:99
 #, fuzzy, kde-format
-#| msgid "Restore Session?"
 msgctxt "@title:window"
 msgid "Restore Session?"
 msgstr "പ്രവര്‍ത്തനവേള വീണ്ടെടുക്കണമോ?"
 
 #: src/konqsessionmanager.cpp:102
 #, fuzzy, kde-format
-#| msgid "Restore Session"
 msgctxt "@action:button yes"
 msgid "Restore Session"
 msgstr "പ്രവര്‍ത്തനവേള വീണ്ടെടുക്കുക"
 
 #: src/konqsessionmanager.cpp:103
 #, fuzzy, kde-format
-#| msgid "Do Not Restore"
 msgctxt "@action:button no"
 msgid "Do Not Restore"
 msgstr "വീണ്ടെടുക്കേണ്ട"
 
 #: src/konqsessionmanager.cpp:104
 #, fuzzy, kde-format
-#| msgid "Ask Me Later"
 msgctxt "@action:button ask later"
 msgid "Ask Me Later"
 msgstr "പിന്നീടു് ചോദിക്കുക"
 
 #: src/konqsessionmanager.cpp:132
 #, fuzzy, kde-format
-#| msgid "Konqueror didn't close correctly. Would you like to restore session?"
 msgid ""
 "Konqueror did not close correctly. Would you like to restore these previous "
 "sessions?"
@@ -1878,7 +1844,6 @@ msgstr ""
 
 #: src/konqsessionmanager.cpp:178
 #, fuzzy, kde-format
-#| msgid "&Window"
 msgctxt "@item:treewidget"
 msgid "Window %1"
 msgstr "&ജാലകം"
@@ -1890,14 +1855,12 @@ msgstr ""
 
 #: src/konqstatusbarmessagelabel.cpp:82
 #, fuzzy, kde-format
-#| msgid "Close View"
 msgctxt "@info"
 msgid "Close"
 msgstr "കാഴ്ച അടയ്ക്കുക"
 
 #: src/konqstatusbarmessagelabel.cpp:83
 #, fuzzy, kde-format
-#| msgid "Close View"
 msgid "Close"
 msgstr "കാഴ്ച അടയ്ക്കുക"
 
@@ -1993,7 +1956,6 @@ msgstr ""
 #. i18n: ectx: label, entry, group (FMSettings)
 #: src/konqueror.kcfg:36
 #, fuzzy, kde-format
-#| msgid "Open tabs inside current window"
 msgid "Open folders in separate windows"
 msgstr "നിലവിലുള്ള ജാലകത്തില്‍ കിളിവാതിലുകള്‍ തുറക്കുക"
 
@@ -2202,7 +2164,6 @@ msgstr ""
 
 #: src/konqview.cpp:1252
 #, fuzzy, kde-format
-#| msgid "Warning"
 msgctxt "@title:window"
 msgid "Warning"
 msgstr "മുന്നറിയിപ്പ്"
@@ -2219,14 +2180,11 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr "ലിപി തിരഞ്ഞെടുക്കുക..."
 
 #, fuzzy
-#~| msgctxt "@action:inmenu Go"
-#~| msgid "Show History in Sidebar"
 #~ msgctxt "@action:inmenu Add"
 #~ msgid "History Sidebar Module"
 #~ msgstr "വശത്തുള്ള പട്ടയില്‍ ചരിത്രം കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Show History Sidebar"
 #~ msgctxt "@title:tab"
 #~ msgid "History"
 #~ msgstr "ചരിത്രമുള്ള വശത്തെ പട്ട കാണിയ്ക്കുക"
@@ -2242,8 +2200,6 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr[1] "ദിവസങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "@action:inmenu Go"
-#~| msgid "Show History in Sidebar"
 #~ msgctxt "@action:inmenu Add"
 #~ msgid "Places Sidebar Module"
 #~ msgstr "വശത്തുള്ള പട്ടയില്‍ ചരിത്രം കാണിയ്ക്കുക"
@@ -2255,7 +2211,6 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr "ക്രമികരണങ്ങള്‍ക്കുള്ള ബട്ടണ്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Close View"
 #~ msgid "Close Sidebar"
 #~ msgstr "കാഴ്ച അടയ്ക്കുക"
 
@@ -2263,7 +2218,6 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr "ഇതു് നിലവിലുണ്ടു്."
 
 #, fuzzy
-#~| msgid "Set Name"
 #~ msgctxt "@title:window"
 #~ msgid "Set Name"
 #~ msgstr "പേരു് സജ്ജമാക്കുക"
@@ -2305,30 +2259,25 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr "ലിങ്കിന്റെ വിലാസം പകര്‍ത്തുക"
 
 #, fuzzy
-#~| msgid "Create New Folder"
 #~ msgctxt "@title:window"
 #~ msgid "Create New Bookmark Folder"
 #~ msgstr "പുതിയ ഫോള്‍ഡര്‍ ഉണ്ടാക്കുക"
 
 #, fuzzy
-#~| msgid "New Folder"
 #~ msgid "New folder:"
 #~ msgstr "പുതിയ ഫോള്‍ഡര്‍"
 
 #, fuzzy
-#~| msgid "Bookmark This Location"
 #~ msgctxt "@title:window"
 #~ msgid "Bookmark Folder Deletion"
 #~ msgstr "ഈ സ്ഥാനം ഓര്‍മ്മക്കുറിപ്പിലേയ്ക്കു് ചേര്‍ക്കുക"
 
 #, fuzzy
-#~| msgid "Bookmark This Location"
 #~ msgctxt "@title:window"
 #~ msgid "Bookmark Deletion"
 #~ msgstr "ഈ സ്ഥാനം ഓര്‍മ്മക്കുറിപ്പിലേയ്ക്കു് ചേര്‍ക്കുക"
 
 #, fuzzy
-#~| msgid "Properties"
 #~ msgctxt "@title:window"
 #~ msgid "Bookmark Properties"
 #~ msgstr "ഗുണഗണങ്ങള്‍"
@@ -2343,7 +2292,6 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "&Bookmarks"
 #~ msgctxt "@title:window"
 #~ msgid "Add Bookmark"
 #~ msgstr "&ഓര്‍മ്മക്കുറിപ്പുകള്‍"
@@ -2361,7 +2309,6 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr "പുതിയ ഫോള്‍ഡര്‍"
 
 #, fuzzy
-#~| msgid "Create New Folder"
 #~ msgctxt "@title:window"
 #~ msgid "Create New Folder"
 #~ msgstr "പുതിയ ഫോള്‍ഡര്‍ ഉണ്ടാക്കുക"
@@ -2370,21 +2317,17 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr "ഫോള്‍ഡറിന്റെ പേരു് നല്‍കുക:"
 
 #, fuzzy
-#~| msgid "Name:"
 #~ msgctxt "@label"
 #~ msgid "Name:"
 #~ msgstr "പേര്:"
 
 #, fuzzy
-#~| msgid "Minute"
-#~| msgid_plural "Minutes"
 #~ msgid " minute"
 #~ msgid_plural " minutes"
 #~ msgstr[0] "മിനിറ്റ്"
 #~ msgstr[1] "മിനിറ്റുകള്‍"
 
 #, fuzzy
-#~| msgid "Resend"
 #~ msgid " second"
 #~ msgid_plural " seconds"
 #~ msgstr[0] "വീണ്ടും അയയ്ക്കുക"
@@ -2406,7 +2349,6 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr "തുറക്കേണ്ട പ്രൊഫൈല്‍"
 
 #, fuzzy
-#~| msgid "&Save View Profile..."
 #~ msgid "&Save View Profile As..."
 #~ msgstr "കാഴ്ചാ പ്രൊഫൈല്‍ &സൂക്ഷിയ്ക്കുക..."
 
@@ -2417,7 +2359,6 @@ msgstr "വീണ്ടും അയയ്ക്കുക"
 #~ msgstr "കാഴ്ചാ പ്രൊഫൈല്‍ &എടുക്കുക"
 
 #, fuzzy
-#~| msgid "File Management"
 #~ msgctxt "@title:window"
 #~ msgid "Profile Management"
 #~ msgstr "ഫയലുകളുടെ നടത്തിപ്പു്"

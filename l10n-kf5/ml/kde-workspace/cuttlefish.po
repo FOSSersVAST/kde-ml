@@ -1,0 +1,107 @@
+# Malayalam translations for plasma-sdk package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the plasma-sdk package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-sdk\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-10-31 04:05+0100\n"
+"PO-Revision-Date: 2018-10-31 04:05+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: package/contents/ui/Preview.qml:134
+#, kde-format
+msgid "Name:"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:141
+#, kde-format
+msgid "Filename:"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:149
+#, kde-format
+msgid "Category:"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:156
+#, kde-format
+msgid "Scalable:"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:159
+#, kde-format
+msgid "yes"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:159
+#, kde-format
+msgid "no"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:162
+#, kde-format
+msgid "Sizes:"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:172
+#, kde-format
+msgid "Insert icon name"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:172
+#, kde-format
+msgid "Copy icon name to clipboard"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:178
+#, kde-format
+msgid "Insert QtQuick code"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:178
+#, kde-format
+msgid "Copy QtQuick code to clipboard"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:195
+#, kde-format
+msgid "Update preview on hover"
+msgstr ""
+
+#: package/contents/ui/Tools.qml:122
+#, kde-format
+msgid "Inverted"
+msgstr ""
+
+#: package/contents/ui/Tools.qml:128
+#, kde-format
+msgid "Monochrome"
+msgstr ""
+
+#: src/main.cpp:45
+#, kde-format
+msgid "Start with category"
+msgstr ""
+
+#: src/main.cpp:45
+#, kde-format
+msgid "category"
+msgstr ""
+
+#: src/main.cpp:49
+#, kde-format
+msgid "Start full-screen"
+msgstr ""
+
+#: src/main.cpp:53
+#, kde-format
+msgid "Run in icon-picker mode"
+msgstr ""

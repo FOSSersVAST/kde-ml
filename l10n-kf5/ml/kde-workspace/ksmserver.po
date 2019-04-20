@@ -110,9 +110,6 @@ msgstr "ഉപയോക്താവിന്റെ സൂക്ഷിച്ച�
 
 #: main.cpp:272
 #, fuzzy, kde-format
-#| msgid ""
-#| "Starts 'wm' in case no other window manager is \n"
-#| "participating in the session. Default is 'kwin'"
 msgid ""
 "Starts <wm> in case no other window manager is \n"
 "participating in the session. Default is 'kwin'"
@@ -144,7 +141,6 @@ msgstr ""
 
 #: server.cpp:1040
 #, fuzzy, kde-format
-#| msgid "&Logout"
 msgid "Log Out"
 msgstr "&പുറത്തിറങ്ങുക"
 
@@ -164,13 +160,10 @@ msgid "Reboot Without Confirmation"
 msgstr ""
 
 #, fuzzy
-#~| msgid "&Logout"
 #~ msgid "Logout"
 #~ msgstr "&പുറത്തിറങ്ങുക"
 
 #, fuzzy
-#~| msgid "Logging out in 1 second."
-#~| msgid_plural "Logging out in %1 seconds."
 #~ msgid "Sleeping in 1 second"
 #~ msgid_plural "Sleeping in %1 seconds"
 #~ msgstr[0] "പുറത്തിറങ്ങുന്നു 1 സെകന്റില്‍"
@@ -192,17 +185,14 @@ msgstr ""
 #~ msgstr[1] "കമ്പ്യൂടര്‍ വീണ്ടും തുടങ്ങുന്നു %1 സെകന്റില്‍"
 
 #, fuzzy
-#~| msgid "&Turn Off Computer"
 #~ msgid "Turn Off Computer"
 #~ msgstr "&കമ്പ്യൂടര്‍ നിര്‍ത്തി വെക്കുക"
 
 #, fuzzy
-#~| msgid "&Restart Computer"
 #~ msgid "Restart Computer"
 #~ msgstr "&കമ്പ്യൂടര്‍ വീണ്ടും തുടങ്ങുക"
 
 #, fuzzy
-#~| msgid "&Cancel"
 #~ msgid "Cancel"
 #~ msgstr "&റദ്ദാക്കുക"
 

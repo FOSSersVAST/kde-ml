@@ -71,7 +71,6 @@ msgstr ""
 
 #: ../base/info_hpux.cpp:128
 #, fuzzy, kde-format
-#| msgid "Processor(s)"
 msgid "PA-RISC Processor"
 msgstr "പ്രോസസ്സര്‍"
 
@@ -102,7 +101,6 @@ msgstr ""
 
 #: ../base/info_netbsd.cpp:120 ../base/info_openbsd.cpp:131
 #, fuzzy, kde-format
-#| msgid "Devices"
 msgid "Device"
 msgstr "ഉപകരണങ്ങള്‍"
 
@@ -557,7 +555,6 @@ msgstr ""
 
 #: info.cpp:36
 #, fuzzy, kde-format
-#| msgid "KDE Panel System Information Control Module"
 msgid "System Information Control Module"
 msgstr "കെ.ഡി.ഇ പാനല്‍ സിസ്റ്റം വിവര നിയന്ത്രണ മോഡ്യൂള്‍"
 
@@ -587,7 +584,6 @@ msgstr "തെരഞ്ഞെടുത്ത വിഭാഗങ്ങളെ ക�
 
 #: info.cpp:78
 #, fuzzy, kde-format
-#| msgid "No information available about %1."
 msgctxt "%1 is one of the modules of the kinfocenter, cpu info, os info, etc"
 msgid "No information available about %1."
 msgstr "%1-നെ കുറിച്ച് വിവരങ്ങള്‍ ലഭ്യമല്ല"

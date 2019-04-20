@@ -135,7 +135,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, labelShowIcons)
 #: styleconfig.ui:61
 #, fuzzy, kde-format
-#| msgid "Sho&w icons on buttons"
 msgid "Show icons:"
 msgstr "ബട്ടണുകളില്‍ ചിത്രം കാ&ണിക്കുക"
 
@@ -156,7 +155,6 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, comboSecondaryToolbarIcons)
 #: styleconfig.ui:84 styleconfig.ui:118
 #, fuzzy, kde-format
-#| msgid "Text Only"
 msgid "Text only"
 msgstr "വാചകം മാത്രം"
 
@@ -164,7 +162,6 @@ msgstr "വാചകം മാത്രം"
 #. i18n: ectx: property (text), item, widget (QComboBox, comboSecondaryToolbarIcons)
 #: styleconfig.ui:89 styleconfig.ui:123
 #, fuzzy, kde-format
-#| msgid "Text Alongside Icons"
 msgid "Beside icons"
 msgstr "വാചകത്തിനൊപ്പമുള്ള ചിത്രങ്ങള്‍"
 
@@ -172,7 +169,6 @@ msgstr "വാചകത്തിനൊപ്പമുള്ള ചിത്ര�
 #. i18n: ectx: property (text), item, widget (QComboBox, comboSecondaryToolbarIcons)
 #: styleconfig.ui:94 styleconfig.ui:128
 #, fuzzy, kde-format
-#| msgid "Text Under Icons"
 msgid "Below icons"
 msgstr "ചിത്രങ്ങളുടെ കീഴിലുള്ള വാചകം"
 
@@ -185,7 +181,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, cbIconsOnButtons)
 #: styleconfig.ui:136
 #, fuzzy, kde-format
-#| msgid "Radio button"
 msgid "On buttons"
 msgstr "റേഡിയോ ബട്ടണ്‍"
 
@@ -204,14 +199,12 @@ msgstr "ടാബ് 1"
 #. i18n: ectx: property (text), widget (QPushButton, pushButton)
 #: stylepreview.ui:65
 #, fuzzy, kde-format
-#| msgid "Button"
 msgid "Push Button"
 msgstr "ബട്ടണ്‍"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboBox)
 #: stylepreview.ui:86
 #, fuzzy, kde-format
-#| msgid "Combobox"
 msgid "Combo box"
 msgstr "കോമ്പോബോക്സ്"
 
@@ -235,17 +228,14 @@ msgid "Tab 2"
 msgstr "ടാബ് 2"
 
 #, fuzzy
-#~| msgid "Sho&w icons on buttons"
 #~ msgid "Show icons in b&uttons:"
 #~ msgstr "ബട്ടണുകളില്‍ ചിത്രം കാ&ണിക്കുക"
 
 #, fuzzy
-#~| msgid "Widget Style"
 #~ msgid "Widget Style"
 #~ msgstr "വിഡ്ജന്റിന്റെ രീതി"
 
 #, fuzzy
-#~| msgid "Widget Style"
 #~ msgid "Widget style:"
 #~ msgstr "വിഡ്ജന്റിന്റെ രീതി"
 
@@ -265,7 +255,6 @@ msgstr "ടാബ് 2"
 #~ msgstr "റാല്‍ഫ് നോള്‍ഡന്‍"
 
 #, fuzzy
-#~| msgid "Graphical User Interface:"
 #~ msgid "Graphical effects:"
 #~ msgstr "ഗ്രാഫിക്കല്‍ യൂസര്‍ ഇന്റര്‍ഫെയിസ്: "
 
@@ -294,19 +283,16 @@ msgstr "ടാബ് 2"
 #~ msgstr "ചിത്രങ്ങള്‍ മാത്രം"
 
 #, fuzzy
-#~| msgid "Text pos&ition:"
 #~ msgctxt "@label:listbox"
 #~ msgid "Text pos&ition of toolbar elements:"
 #~ msgstr "വാചകത്തിനുള്ള സ്ഥാ&നം:"
 
 #, fuzzy
-#~| msgid "&Style"
 #~ msgctxt "@title:tab"
 #~ msgid "&Style"
 #~ msgstr "&രീതി"
 
 #, fuzzy
-#~| msgid "E&nable tooltips"
 #~ msgctxt "@option:check"
 #~ msgid "E&nable tooltips"
 #~ msgstr "ഉപകരണസൂചനകള്‍ സ&ജ്ജമാക്കുക"

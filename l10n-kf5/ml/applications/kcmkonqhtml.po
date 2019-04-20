@@ -758,8 +758,8 @@ msgid ""
 "<b>Background</b><p>Behind this door lays the ability to choose a custom "
 "default background.</p>"
 msgstr ""
-"<b>പശ്ചാത്തലം</b><p>ഡിഫോള്‍ട്ട് ആയുള്ള പശ്ചാത്തലചിത്രം തിരഞ്ഞെടുക്കാനുള്ള കഴിവ്ഇതാ ഈ "
-"വാതിലുകള്‍ക്കുള്ളിലാണ് </p>"
+"<b>പശ്ചാത്തലം</b><p>ഡിഫോള്‍ട്ട് ആയുള്ള പശ്ചാത്തലചിത്രം തിരഞ്ഞെടുക്കാനുള്ള കഴിവ്ഇതാ ഈ വാതിലുകള്‍"
+"ക്കുള്ളിലാണ് </p>"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, sameColor)
 #: css/csscustom.ui:248
@@ -859,18 +859,6 @@ msgstr ""
 
 #: css/kcmcss.cpp:338
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html>\n"
-#| "\n"
-#| "<h1>Heading 1</h1>\n"
-#| "<h2>Heading 2</h2>\n"
-#| "<h3>Heading 3</h3>\n"
-#| "\n"
-#| "<p>User defined stylesheets allow increased\n"
-#| "accessibility for visually handicapped\n"
-#| "people.</p>\n"
-#| "\n"
-#| "</html>\n"
 msgid ""
 "<html>\n"
 "<head>\n"
@@ -1001,7 +989,6 @@ msgstr "ഫില്‍‌റ്റര്‍ ചെയ്ത ചിത്രങ�
 
 #: filteropts.cpp:74
 #, fuzzy, kde-format
-#| msgid "Enable filters"
 msgid "Manual Filter"
 msgstr "ഫില്‍‌റ്ററുകള്‍ സജ്ജമാക്കുക"
 
@@ -1170,7 +1157,6 @@ msgstr "പ്രധാന താള്‍ കാണിക്കുക"
 
 #: generalopts.cpp:97
 #, fuzzy, kde-format
-#| msgid "Select Home Page"
 msgctxt "@title:window"
 msgid "Select Start Page"
 msgstr "പ്രധാന താള്‍ തിരഞ്ഞെടുക്കുക"
@@ -1187,7 +1173,6 @@ msgstr "പ്രധാന താള്‍:"
 
 #: generalopts.cpp:114
 #, fuzzy, kde-format
-#| msgid "Select Home Page"
 msgctxt "@title:window"
 msgid "Select Home Page"
 msgstr "പ്രധാന താള്‍ തിരഞ്ഞെടുക്കുക"
@@ -1383,7 +1368,6 @@ msgstr "നിര്‍ജ്ജീവമാകുമ്പോള്‍ ആപ�
 
 #: javaopts.cpp:115
 #, fuzzy, kde-format
-#| msgid " sec"
 msgid " second"
 msgid_plural " seconds"
 msgstr[0] " sec"
@@ -1496,14 +1480,12 @@ msgstr "മണ്ഡലാതിഷ്ഠിതം"
 
 #: javaopts.cpp:321
 #, fuzzy, kde-format
-#| msgid "New Java Policy"
 msgctxt "@title:window"
 msgid "New Java Policy"
 msgstr "പുതിയ ജാവാ പോളിസി"
 
 #: javaopts.cpp:324
 #, fuzzy, kde-format
-#| msgid "Change Java Policy"
 msgctxt "@title:window"
 msgid "Change Java Policy"
 msgstr "ജാവാ പോളിസി മാറ്റുക"
@@ -1596,9 +1578,8 @@ msgid ""
 "named <b>javascript_policy.tgz</b>, will be saved to a location of your "
 "choice."
 msgstr ""
-"ജാവാസ്ക്രിപ്റ്റ് പോളിസി ഒരു സിപ്ഡ് ഫയലായി സൂക്ഷിക്കുന്നതിനു് ഈ ബട്ടണ്‍ ക്ലിക്കു് ചെയ്യുക. "
-"നിങ്ങള്‍ക്കിഷ്ടമുള്ള സ്ഥലത്തു് <b>javascript_policy.tgz</b> എന്ന പേരുള്ള ഈ ഫയല്‍ "
-"സൂക്ഷിക്കപ്പെടുന്നതാണു്."
+"ജാവാസ്ക്രിപ്റ്റ് പോളിസി ഒരു സിപ്ഡ് ഫയലായി സൂക്ഷിക്കുന്നതിനു് ഈ ബട്ടണ്‍ ക്ലിക്കു് ചെയ്യുക. നിങ്ങള്‍"
+"ക്കിഷ്ടമുള്ള സ്ഥലത്തു് <b>javascript_policy.tgz</b> എന്ന പേരുള്ള ഈ ഫയല്‍ സൂക്ഷിക്കപ്പെടുന്നതാണു്."
 
 #: jsopts.cpp:105
 #, kde-format
@@ -1613,14 +1594,12 @@ msgstr "മണ്ഡലാതിഷ്ഠിതം"
 
 #: jsopts.cpp:212
 #, fuzzy, kde-format
-#| msgid "New JavaScript Policy"
 msgctxt "@title:window"
 msgid "New JavaScript Policy"
 msgstr "പുതിയ ജാവാസ്ക്രിപ്റ്റ് പോളിസി"
 
 #: jsopts.cpp:215
 #, fuzzy, kde-format
-#| msgid "Change JavaScript Policy"
 msgctxt "@title:window"
 msgid "Change JavaScript Policy"
 msgstr "ജാവാസ്ക്രിപ്റ്റ് പോളിസി മാറ്റുക"
@@ -2006,7 +1985,6 @@ msgstr ""
 
 #: pluginopts.cpp:126 pluginopts.cpp:629
 #, fuzzy, kde-format
-#| msgid "Domain-Specific JavaScript Policies"
 msgctxt "@title:window"
 msgid "Domain-Specific Policies"
 msgstr "മണ്ഡലമതിഷ്ഠിത ജാവാസ്ക്രിപ്റ്റ് പോളിസികള്‍"
@@ -2119,7 +2097,6 @@ msgstr "പ്ലഗിനുകള്‍ക്കായി പരിശോധ�
 
 #: pluginopts.cpp:392
 #, fuzzy, kde-format
-#| msgid "Select Plugin Scan Folder"
 msgctxt "@title:window"
 msgid "Select Plugin Scan Folder"
 msgstr "പ്ലഗിന്‍ പരിശോധിക്കുന്നതിനുള്ള അറ തിരഞ്ഞെടുക്കുക"
@@ -2156,14 +2133,12 @@ msgstr ""
 
 #: pluginopts.cpp:676
 #, fuzzy, kde-format
-#| msgid "New Plugin Policy"
 msgctxt "@title:window"
 msgid "New Plugin Policy"
 msgstr "പുതിയ പ്ലഗിന്‍ പോളിസി"
 
 #: pluginopts.cpp:679
 #, fuzzy, kde-format
-#| msgid "Change Plugin Policy"
 msgctxt "@title:window"
 msgid "Change Plugin Policy"
 msgstr "പ്ലഗിന്‍ പോളിസി മാറ്റുക"
@@ -2198,12 +2173,10 @@ msgid "You must first enter a domain name."
 msgstr "ആദ്യം മണ്ഡലത്തിനു് ഒരു പേരു് നല്‍കുക."
 
 #, fuzzy
-#~| msgid "Sa&ns serif font:"
 #~ msgid "Sans Serif"
 #~ msgstr "സാന്‍സ്&സെറിഫ് അക്ഷരസഞ്ചയം:"
 
 #, fuzzy
-#~| msgid "S&tandard font:"
 #~ msgid "Standard Symbols L"
 #~ msgstr "പൊ&തുവായ അക്ഷരസഞ്ചയം:"
 

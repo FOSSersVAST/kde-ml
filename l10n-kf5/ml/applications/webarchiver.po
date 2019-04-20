@@ -19,7 +19,6 @@ msgstr ""
 
 #: archivedialog.cpp:161
 #, fuzzy, kde-format
-#| msgid "Web Archiver"
 msgctxt "@title:window"
 msgid "Web Archiver"
 msgstr "വെബ് ശേഖരണം"
@@ -36,7 +35,6 @@ msgstr "യുആര്‍എല്‍"
 
 #: archivedialog.cpp:241
 #, fuzzy, kde-format
-#| msgid "Unable to Open Web-Archive"
 msgctxt "@title:window"
 msgid "Unable to Open Web-Archive"
 msgstr "വെബ് ശേഖരണം തുറക്കാന്‍ കഴിയുന്നില്ല"
@@ -136,7 +134,6 @@ msgstr "ഈ താള്‍ വെബ് ശേഖരമായി സൂക്�
 
 #: plugin_webarchiver.cpp:106
 #, fuzzy, kde-format
-#| msgid "Invalid URL"
 msgctxt "@title:window"
 msgid "Invalid URL"
 msgstr "അസാധുവായ യുആര്‍എല്‍"
@@ -154,7 +151,6 @@ msgstr ""
 
 #: plugin_webarchiver.cpp:120
 #, fuzzy, kde-format
-#| msgid "File Exists"
 msgctxt "@title:window"
 msgid "File Exists"
 msgstr "ഫയല്‍ നിലവിലുണ്ടു്"

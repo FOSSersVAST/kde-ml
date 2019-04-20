@@ -43,33 +43,26 @@ msgstr ""
 
 #: package/contents/ui/batterymonitor.qml:60
 #, fuzzy, kde-format
-#| msgid "Screen Brightness"
 msgid "Battery and Brightness"
 msgstr "തിരശ്ശീലയുടെ വെളിച്ചം"
 
 #: package/contents/ui/batterymonitor.qml:62 package/contents/ui/logic.js:26
 #, fuzzy, kde-format
-#| msgid "<b>Battery:</b> %1% (fully charged)<br />"
 msgid "Fully Charged"
 msgstr "<b>ബാറ്ററി:</b> %1% (മുഴുവനും ചാര്‍ജ്ജ് ചെയ്തിരിയ്ക്കുന്നു)<br />"
 
 #: package/contents/ui/batterymonitor.qml:67
 #, fuzzy, kde-format
-#| msgctxt "Shown when a time estimate is not available"
-#| msgid "<b>Battery:</b> %1% (discharging)<br />"
 msgid "%1% Charging"
 msgstr "<b>ബാറ്ററി:</b> %1% (ചാര്‍ജ്ജ് ഉപയോഗിച്ചുകൊണ്ടിരിയ്ക്കുന്നു)<br />"
 
 #: package/contents/ui/batterymonitor.qml:69
 #, fuzzy, kde-format
-#| msgctxt "Shown when a time estimate is not available"
-#| msgid "<b>Battery:</b> %1% (discharging)<br />"
 msgid "%1% Plugged in, not Charging"
 msgstr "<b>ബാറ്ററി:</b> %1% (ചാര്‍ജ്ജ് ഉപയോഗിച്ചുകൊണ്ടിരിയ്ക്കുന്നു)<br />"
 
 #: package/contents/ui/batterymonitor.qml:71
 #, fuzzy, kde-format
-#| msgid "Plugged in"
 msgid "%1% Plugged in"
 msgstr "കുത്തിവച്ചിരിയ്ക്കുന്നു"
 
@@ -86,13 +79,11 @@ msgstr ""
 
 #: package/contents/ui/batterymonitor.qml:83
 #, fuzzy, kde-format
-#| msgid "Power Management"
 msgid "Power management is disabled"
 msgstr "വൈദ്യുതി നടത്തിപ്പു്"
 
 #: package/contents/ui/batterymonitor.qml:136
 #, fuzzy, kde-format
-#| msgid "More..."
 msgid "&Configure Power Saving..."
 msgstr "കൂടുതല്‍..."
 
@@ -120,28 +111,21 @@ msgstr ""
 
 #: package/contents/ui/logic.js:25
 #, fuzzy, kde-format
-#| msgctxt "Shown when a time estimate is not available"
-#| msgid "<b>Battery:</b> %1% (discharging)<br />"
 msgid "Discharging"
 msgstr "<b>ബാറ്ററി:</b> %1% (ചാര്‍ജ്ജ് ഉപയോഗിച്ചുകൊണ്ടിരിയ്ക്കുന്നു)<br />"
 
 #: package/contents/ui/logic.js:27
 #, fuzzy, kde-format
-#| msgctxt "Shown when a time estimate is not available"
-#| msgid "<b>Battery:</b> %1% (discharging)<br />"
 msgid "Charging"
 msgstr "<b>ബാറ്ററി:</b> %1% (ചാര്‍ജ്ജ് ഉപയോഗിച്ചുകൊണ്ടിരിയ്ക്കുന്നു)<br />"
 
 #: package/contents/ui/logic.js:29
 #, fuzzy, kde-format
-#| msgctxt "Shown when a time estimate is not available"
-#| msgid "<b>Battery:</b> %1% (discharging)<br />"
 msgid "Not Charging"
 msgstr "<b>ബാറ്ററി:</b> %1% (ചാര്‍ജ്ജ് ഉപയോഗിച്ചുകൊണ്ടിരിയ്ക്കുന്നു)<br />"
 
 #: package/contents/ui/logic.js:32
 #, fuzzy, kde-format
-#| msgid "Plugged in"
 msgctxt "Battery is currently not present in the bay"
 msgid "Not present"
 msgstr "കുത്തിവച്ചിരിയ്ക്കുന്നു"
@@ -185,13 +169,11 @@ msgstr ""
 
 #: package/contents/ui/PopupDialog.qml:79
 #, fuzzy, kde-format
-#| msgid "Screen Brightness"
 msgid "Display Brightness"
 msgstr "തിരശ്ശീലയുടെ വെളിച്ചം"
 
 #: package/contents/ui/PopupDialog.qml:98
 #, fuzzy, kde-format
-#| msgid "Screen Brightness"
 msgid "Keyboard Brightness"
 msgstr "തിരശ്ശീലയുടെ വെളിച്ചം"
 
@@ -207,13 +189,11 @@ msgstr ""
 
 #: package/contents/ui/PowerManagementItem.qml:71
 #, fuzzy, kde-format
-#| msgid "Power Management"
 msgid "Enable Power Management"
 msgstr "വൈദ്യുതി നടത്തിപ്പു്"
 
 #: package/contents/ui/PowerManagementItem.qml:79
 #, fuzzy, kde-format
-#| msgid "More..."
 msgid "Configure Power Saving..."
 msgstr "കൂടുതല്‍..."
 
@@ -246,49 +226,40 @@ msgid "%1 is currently suppressing power management: %2"
 msgstr ""
 
 #, fuzzy
-#~| msgid "AC Adapter"
 #~ msgid "AC Adapter"
 #~ msgstr "വൈദ്യുതി അഡാപ്റ്റര്‍"
 
 #, fuzzy
-#~| msgid "Plugged in"
 #~ msgid "Plugged In"
 #~ msgstr "കുത്തിവച്ചിരിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Plugged in"
 #~ msgid "Not Plugged In"
 #~ msgstr "കുത്തിവച്ചിരിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Time remaining: <b>%1</b><br />"
 #~ msgid "Time remaining until full: %1"
 #~ msgstr "ബാക്കിയുള്ള സമയം: <b>%1</b><br />"
 
 #, fuzzy
-#~| msgid "Time remaining: <b>%1</b><br />"
 #~ msgid "Time remaining until empty: %1"
 #~ msgstr "ബാക്കിയുള്ള സമയം: <b>%1</b><br />"
 
 #, fuzzy
-#~| msgid "<b>Battery:</b> %1% (fully charged)<br />"
 #~ msgid "%1% (charged)"
 #~ msgstr "<b>ബാറ്ററി:</b> %1% (മുഴുവനും ചാര്‍ജ്ജ് ചെയ്തിരിയ്ക്കുന്നു)<br />"
 
 #, fuzzy
-#~| msgid "AC Adapter"
 #~ msgctxt "tooltip"
 #~ msgid "AC Adapter:"
 #~ msgstr "വൈദ്യുതി അഡാപ്റ്റര്‍"
 
 #, fuzzy
-#~| msgid "Plugged in"
 #~ msgctxt "tooltip"
 #~ msgid "<b>Plugged in</b>"
 #~ msgstr "കുത്തിവച്ചിരിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Plugged in"
 #~ msgctxt "tooltip"
 #~ msgid "<b>Not plugged in</b>"
 #~ msgstr "കുത്തിവച്ചിരിയ്ക്കുന്നു"
@@ -297,46 +268,36 @@ msgstr ""
 #~ msgstr "ബാറ്ററി നിരീക്ഷിണി ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Screen Brightness"
 #~ msgid "Screen Brightness:"
 #~ msgstr "തിരശ്ശീലയുടെ വെളിച്ചം"
 
 #, fuzzy
-#~| msgid "Sleep"
 #~ msgctxt "Suspend the computer to RAM; translation should be short"
 #~ msgid "Sleep"
 #~ msgstr "ഉറക്കം"
 
 #, fuzzy
-#~| msgid "Hibernate"
 #~ msgctxt "Suspend the computer to disk; translation should be short"
 #~ msgid "Hibernate"
 #~ msgstr "ശിശിരനിദ്ര"
 
 #, fuzzy
-#~| msgid "<b>Battery:</b> %1% (fully charged)<br />"
 #~ msgid "<b>%1% (charged)</b>"
 #~ msgstr "<b>ബാറ്ററി:</b> %1% (മുഴുവനും ചാര്‍ജ്ജ് ചെയ്തിരിയ്ക്കുന്നു)<br />"
 
 #, fuzzy
-#~| msgctxt "Shown when a time estimate is not available"
-#~| msgid "<b>Battery:</b> %1% (discharging)<br />"
 #~ msgid "<b>%1% (discharging)</b>"
 #~ msgstr "<b>ബാറ്ററി:</b> %1% (ചാര്‍ജ്ജ് ഉപയോഗിച്ചുകൊണ്ടിരിയ്ക്കുന്നു)<br />"
 
 #, fuzzy
-#~| msgctxt "Shown when a time estimate is not available"
-#~| msgid "<b>Battery:</b> %1% (discharging)<br />"
 #~ msgid "<b>%1% (charging)</b>"
 #~ msgstr "<b>ബാറ്ററി:</b> %1% (ചാര്‍ജ്ജ് ഉപയോഗിച്ചുകൊണ്ടിരിയ്ക്കുന്നു)<br />"
 
 #, fuzzy
-#~| msgid "Battery"
 #~ msgid "Battery:"
 #~ msgstr "ബാറ്ററി"
 
 #, fuzzy
-#~| msgid "Battery"
 #~ msgctxt "tooltip: placeholder is the battery ID"
 #~ msgid "Battery %1:"
 #~ msgstr "ബാറ്ററി"
@@ -345,58 +306,46 @@ msgstr ""
 #~ msgstr "ഉള്ള &ഓരോ ബാറ്ററിയുടേയും അവസ്ഥ കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Battery"
 #~ msgctxt "Placeholder is the battery ID"
 #~ msgid "Battery %1:"
 #~ msgstr "ബാറ്ററി"
 
 #, fuzzy
-#~| msgid "Battery"
 #~ msgid "<b>Battery:</b>"
 #~ msgstr "ബാറ്ററി"
 
 #, fuzzy
-#~| msgid "<b>AC Adapter:</b> Plugged in"
 #~ msgctxt "tooltip"
 #~ msgid "<b>AC Adapter:</b>"
 #~ msgstr "<b>വൈദ്യുതി അഡാപ്റ്റര്‍:</b> കുത്തിയിരിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Plugged in"
 #~ msgctxt "tooltip"
 #~ msgid "Not plugged in"
 #~ msgstr "കുത്തിവച്ചിരിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Show the percentage of &charge on the battery"
 #~ msgid "Show remaining time for the battery"
 #~ msgstr "ബാറ്ററിയിലെ &ചാര്‍ജ്ജിന്റെ ശതമാനം കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "<b>Battery %1:</b> %2% (charging)<br />"
 #~ msgctxt "tooltip: placeholder is the battery ID"
 #~ msgid "<b>Battery %1:</b>"
 #~ msgstr "<b>ബാറ്ററി %1:</b> %2% (ചാര്‍ജ്ജ് ചെയ്തു് കൊണ്ടിരിയ്ക്കുന്നു)<br />"
 
 #, fuzzy
-#~| msgid "Power Profile"
 #~ msgid "Power Profile:"
 #~ msgstr "വൈദ്യുതി പ്രൊഫൈല്‍"
 
 #, fuzzy
-#~| msgid "AC Adapter"
 #~ msgid "AC Adapter: "
 #~ msgstr "വൈദ്യുതി അഡാപ്റ്റര്‍"
 
 #, fuzzy
-#~| msgctxt "Battery is not plugged in"
-#~| msgid "<b>Battery:</b> not present<br />"
 #~ msgid "<b>Battery:</b> "
 #~ msgstr "<b>ബാറ്ററി:</b> ഇല്ല<br />"
 
 #, fuzzy
-#~| msgctxt "Shown when a time estimate is not available"
-#~| msgid "<b>Battery:</b> %1% (discharging)<br />"
 #~ msgctxt "state of battery"
 #~ msgid "%1% (discharging)"
 #~ msgstr "<b>ബാറ്ററി:</b> %1% (ചാര്‍ജ്ജ് ഉപയോഗിച്ചുകൊണ്ടിരിയ്ക്കുന്നു)<br />"
@@ -455,7 +404,6 @@ msgstr ""
 #~ msgstr "ബാധകമല്ല"
 
 #, fuzzy
-#~| msgid "Battery"
 #~ msgid ""
 #~ "Battery:\n"
 #~ "CPU:"

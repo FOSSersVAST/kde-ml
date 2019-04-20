@@ -25,7 +25,6 @@ msgstr "പൊതുവായ"
 
 #: package/contents/ui/configGeneral.qml:89
 #, fuzzy, kde-format
-#| msgid "Display text:"
 msgid "Display:"
 msgstr "പദാവലി പ്രദര്‍ശിപ്പിയ്ക്കുക:"
 
@@ -107,8 +106,6 @@ msgstr ""
 
 #: package/contents/ui/main.qml:329
 #, fuzzy, kde-format
-#| msgid "and 1 other"
-#| msgid_plural "and %1 others"
 msgid "...and %1 other window"
 msgid_plural "...and %1 other windows"
 msgstr[0] "1 കൂടി"
@@ -116,8 +113,6 @@ msgstr[1] "1 കൂടി"
 
 #: package/contents/ui/main.qml:353
 #, fuzzy, kde-format
-#| msgid "One window:"
-#| msgid_plural "%1 windows:"
 msgid "%1 Window:"
 msgid_plural "%1 Windows:"
 msgstr[0] "ഒരു ജാലകം:"
@@ -137,24 +132,20 @@ msgstr ""
 
 #: package/contents/ui/main.qml:540
 #, fuzzy, kde-format
-#| msgid "&Configure Desktops..."
 msgid "Add Virtual Desktop"
 msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക്കുക..."
 
 #: package/contents/ui/main.qml:541
 #, fuzzy, kde-format
-#| msgid "&Configure Desktops..."
 msgid "Remove Virtual Desktop"
 msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക്കുക..."
 
 #: package/contents/ui/main.qml:546
 #, fuzzy, kde-format
-#| msgid "&Configure Desktops..."
 msgid "Configure Virtual Desktops..."
 msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക്കുക..."
 
 #, fuzzy
-#~| msgid "Configure Desktops..."
 #~ msgid "Configure Desktops..."
 #~ msgstr "പണിയിടങ്ങള്‍ ക്രമീകരിയ്ക്കുക..."
 
@@ -162,7 +153,6 @@ msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക�
 #~ msgstr "ചിഹ്നങ്ങള്‍ പ്രദര്‍ശിപ്പിയ്ക്കുക:"
 
 #, fuzzy
-#~| msgid "&Configure Desktops..."
 #~ msgid "&Remove Last Virtual Desktop"
 #~ msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക്കുക..."
 
@@ -170,7 +160,6 @@ msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക�
 #~ msgstr "പേജര്‍ ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Number of rows:"
 #~ msgid "Number of columns:"
 #~ msgstr "നിരകളുടെ എണ്ണം:"
 

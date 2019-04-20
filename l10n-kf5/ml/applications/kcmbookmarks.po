@@ -126,7 +126,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lbMaxCacheSize)
 #: bookmarks.ui:150
 #, fuzzy, kde-format
-#| msgid "Disk cache &size:"
 msgid "Disk cache size:"
 msgstr "ഡിസ്ക്ക് കാഷ് &വലിപ്പം:"
 
@@ -145,7 +144,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, clearCacheButton)
 #: bookmarks.ui:176
 #, fuzzy, kde-format
-#| msgid "C&lear Cache"
 msgid "&Clear Cache"
 msgstr "കാഷ് &വൃത്തിയാക്കുക"
 
@@ -158,9 +156,8 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr ""
 #~ "<h1>കാഷ്</h1><p>ഈ മോഡ്യൂള്‍ നിങ്ങളെ കാഷ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കാന്‍ അനുവദിക്കും.</"
 #~ "p><p>അടുത്തയിടെ വായിച്ച വെബ്ബ് പേജുകള്‍ സൂക്ഷിക്കുന്ന കോണ്‍കററിലെ ഒരു ആന്തരിക മെമ്മറിയാണ് "
-#~ "കാഷ്. അടുത്തയിടെ വായിച്ച ഒരു വെബ്ബ് പേജ് നിങ്ങള്‍ക്ക് തിരിച്ചെടുക്കണമെന്നുണ്ടെങ്കില്‍, അത് "
-#~ "ഇന്റര്‍നെറ്റില്‍ നിന്നു ഡൌണ്‍ലോഡ് ചെയ്യുന്നതിനുപകരം വളരെ വേഗത്തില്‍ കാഷില്‍ നിന്നു തിരിച്ചെടുക്കുന്നു."
-#~ "</p>"
+#~ "കാഷ്. അടുത്തയിടെ വായിച്ച ഒരു വെബ്ബ് പേജ് നിങ്ങള്‍ക്ക് തിരിച്ചെടുക്കണമെന്നുണ്ടെങ്കില്‍, അത് ഇന്റര്‍"
+#~ "നെറ്റില്‍ നിന്നു ഡൌണ്‍ലോഡ് ചെയ്യുന്നതിനുപകരം വളരെ വേഗത്തില്‍ കാഷില്‍ നിന്നു തിരിച്ചെടുക്കുന്നു.</p>"
 
 #~ msgid "&Use cache"
 #~ msgstr "കാഷ് &ഉപയോഗിക്കുക"
@@ -214,7 +211,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "ആവശ്യപ്പെട്ടതുപോലെ കുക്കികള്‍ നീക്കം ചെയ്യാന്‍ കഴിഞ്ഞില്ല."
 
 #, fuzzy
-#~| msgid "<h1>Cookies Management Quick Help</h1>"
 #~ msgid "<h1>Cookie Management Quick Help</h1>"
 #~ msgstr "<h1>കുക്കികളുടെ പാലനത്തിനായുള്ള ദ്രുതസഹായം</h1>"
 
@@ -239,12 +235,10 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "ഡൊമെയ്നുകള്‍ക്കും ഹോസ്റ്റുകള്‍ക്കുമായി ഇന്ററാക്ടീവായി തെരയുക."
 
 #, fuzzy
-#~| msgid "Site Name"
 #~ msgid "Site"
 #~ msgstr "സൈറ്റിന്റെ പേരു്"
 
 #, fuzzy
-#~| msgid "Site Name"
 #~ msgid "Cookie Name"
 #~ msgstr "സൈറ്റിന്റെ പേരു്"
 
@@ -255,7 +249,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "എ&ല്ലാം നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Change &Policy..."
 #~ msgid "Configure &Policy..."
 #~ msgstr "നയം മാറ്റുക..."
 
@@ -281,13 +274,11 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "സുരക്ഷിതമായ:"
 
 #, fuzzy
-#~| msgid "Change Cookie Policy"
 #~ msgctxt "@title:window"
 #~ msgid "Change Cookie Policy"
 #~ msgstr "കുക്കി നയം മാറ്റുക"
 
 #, fuzzy
-#~| msgid "New Cookie Policy"
 #~ msgctxt "@title:window"
 #~ msgid "New Cookie Policy"
 #~ msgstr "പുതിയ കുക്കി നയം"
@@ -300,7 +291,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ "മാറ്റണോ?</qt>"
 
 #, fuzzy
-#~| msgid "Duplicate Policy"
 #~ msgctxt "@title:window"
 #~ msgid "Duplicate Policy"
 #~ msgstr "ഡ്യൂപ്ളിക്കേറ്റ് നയം"
@@ -328,7 +318,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "കുക്കികളെല്ലാം സ്വീകരിക്കുക"
 
 #, fuzzy
-#~| msgid "End of session"
 #~ msgid "Accept &until end of session"
 #~ msgstr "സെഷനിന്റെ അന്ത്യം"
 
@@ -354,12 +343,10 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "&മാറ്റുക..."
 
 #, fuzzy
-#~| msgid "Site Name"
 #~ msgid "Site name:"
 #~ msgstr "സൈറ്റിന്റെ പേരു്"
 
 #, fuzzy
-#~| msgid "&Policy:"
 #~ msgid "Policy:"
 #~ msgstr "&നയം:"
 
@@ -367,7 +354,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "അംഗീകരിക്കുക"
 
 #, fuzzy
-#~| msgid "End of session"
 #~ msgid "Accept until end of session"
 #~ msgstr "സെഷനിന്റെ അന്ത്യം"
 
@@ -387,7 +373,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "ഇന്റര്‍നെറ്റിലേക്ക് നേരിട്ട് ബന്ധപ്പെടുക."
 
 #, fuzzy
-#~| msgid "&Proxy"
 #~ msgid "No Proxy"
 #~ msgstr "&പ്രോക്സി"
 
@@ -405,24 +390,20 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ "തനിയെ പ്രോക്സി സജ്ജീകരണങ്ങള്‍ കണ്ടുപിടിക്കുകയും ക്രമീകരിക്കുകയും ചെയ്യുക.<p>\n"
 #~ "തനിയെ കണ്ടുപിടിത്തം <b>വെബ്ബ് പ്രോക്സി ഓട്ടോ-ഡിസ്കവറി പ്രോട്ടോക്കോള്‍ (WPAD)</b> "
 #~ "ഉപയോഗിച്ച് നിര്‍വഹിക്കുന്നു.<p>\n"
-#~ "<b>കുറിപ്പ്:</b> ഈ ഐച്ഛികം ചില യൂണിക്സ്/ലിനക്സ് വിതരണങ്ങളില്‍ ശരിയായി "
-#~ "പ്രവര്‍ത്തിക്കാതിരിക്കുകയോ ഒട്ടും പ്രവര്‍ത്തിക്കാതിരിക്കുകയോ ചെയ്തേക്കാം. ഈ ഐച്ഛികം "
-#~ "ഉപയോഗിക്കുമ്പോള്‍ പ്രശ്നം നേരിടുകയാണെങ്കില്‍ http://konqueror.kde.org എന്നയിടത്തെ FAQ "
-#~ "ഭാഗം നോക്കുക.\n"
+#~ "<b>കുറിപ്പ്:</b> ഈ ഐച്ഛികം ചില യൂണിക്സ്/ലിനക്സ് വിതരണങ്ങളില്‍ ശരിയായി പ്രവര്‍"
+#~ "ത്തിക്കാതിരിക്കുകയോ ഒട്ടും പ്രവര്‍ത്തിക്കാതിരിക്കുകയോ ചെയ്തേക്കാം. ഈ ഐച്ഛികം ഉപയോഗിക്കുമ്പോള്‍ "
+#~ "പ്രശ്നം നേരിടുകയാണെങ്കില്‍ http://konqueror.kde.org എന്നയിടത്തെ FAQ ഭാഗം നോക്കുക.\n"
 #~ "</qt>"
 
 #, fuzzy
-#~| msgid "U&se the following proxy configuration URL"
 #~ msgid "Detect proxy configuration automatically"
 #~ msgstr "ഇനി പറയുന്ന പ്രോക്സി ക്രമീകരണ യുആര്‍എല്‍ ഉപയോഗിക്കുക"
 
 #, fuzzy
-#~| msgid "A&utomatically detect proxy configuration"
 #~ msgid "Use the specified proxy script to configure the proxy settings."
 #~ msgstr "&തനിയെ പ്രോക്സി ക്രമീകരണം കണ്ടുപിടിക്കുക"
 
 #, fuzzy
-#~| msgid "U&se the following proxy configuration URL"
 #~ msgid "Use proxy auto configuration URL:"
 #~ msgstr "ഇനി പറയുന്ന പ്രോക്സി ക്രമീകരണ യുആര്‍എല്‍ ഉപയോഗിക്കുക"
 
@@ -430,37 +411,30 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "പ്രോക്സി ക്രമീകരണ സ്ക്രിപ്റ്റിന്റെ വിലാസം നല്‍കുക."
 
 #, fuzzy
-#~| msgid "U&se the following proxy configuration URL"
 #~ msgid "Use system proxy configuration:"
 #~ msgstr "ഇനി പറയുന്ന പ്രോക്സി ക്രമീകരണ യുആര്‍എല്‍ ഉപയോഗിക്കുക"
 
 #, fuzzy
-#~| msgid "Auto &Detect"
 #~ msgid "Auto D&etect"
 #~ msgstr "തനിയെ &കണ്ടുപിടിക്കുക"
 
 #, fuzzy
-#~| msgid "&Proxy"
 #~ msgid "HTTP Proxy:"
 #~ msgstr "&പ്രോക്സി"
 
 #, fuzzy
-#~| msgid "&Proxy"
 #~ msgid "SSL Proxy:"
 #~ msgstr "&പ്രോക്സി"
 
 #, fuzzy
-#~| msgid "&Proxy"
 #~ msgid "FTP Proxy:"
 #~ msgstr "&പ്രോക്സി"
 
 #, fuzzy
-#~| msgid "&Proxy"
 #~ msgid "SOCKS Proxy:"
 #~ msgstr "&പ്രോക്സി"
 
 #, fuzzy
-#~| msgid "E&xceptions"
 #~ msgid "Exceptions:"
 #~ msgstr "എ&ക്സപ്ഷനുകള്‍"
 
@@ -471,7 +445,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "സ്വയം പ്രോക്സി ക്രമീകരണ വിവരം നല്‍കുക."
 
 #, fuzzy
-#~| msgid "A&utomatically detect proxy configuration"
 #~ msgid "Use manually specified proxy configuration:"
 #~ msgstr "&തനിയെ പ്രോക്സി ക്രമീകരണം കണ്ടുപിടിക്കുക"
 
@@ -479,12 +452,10 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "എച്ച്ടിടിപി പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #, fuzzy
-#~| msgid "Enter the address of the HTTP proxy server."
 #~ msgid "Enter the port number of the HTTP proxy server."
 #~ msgstr "എച്ച്ടിടിപി പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #, fuzzy
-#~| msgid "&Use the same proxy server for all protocols"
 #~ msgid "Use this proxy server for a&ll protocols"
 #~ msgstr "എല്ലാ നിയമാവലികള്‍ക്കും ഒരേ പ്രോക്സി സെര്‍വര്‍ &ഉപയോഗിക്കുക"
 
@@ -492,7 +463,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "എച്ച്ടിടിപിഎസ് പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #, fuzzy
-#~| msgid "Enter the address of the HTTPS proxy server."
 #~ msgid "Enter the port number of the HTTPS proxy server."
 #~ msgstr "എച്ച്ടിടിപിഎസ് പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
@@ -500,22 +470,18 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "എഫ്‌ടിപി പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #, fuzzy
-#~| msgid "Enter the address of the FTP proxy server."
 #~ msgid "Enter the port number of the FTP proxy server."
 #~ msgstr "എഫ്‌ടിപി പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #, fuzzy
-#~| msgid "Enter the address of the HTTPS proxy server."
 #~ msgid "Enter the address of the SOCKS proxy server."
 #~ msgstr "എച്ച്ടിടിപിഎസ് പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #, fuzzy
-#~| msgid "Enter the address of the HTTPS proxy server."
 #~ msgid "Enter the port number of the SOCKS proxy server."
 #~ msgstr "എച്ച്ടിടിപിഎസ് പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #, fuzzy
-#~| msgid "Use proxy only for entries in this list"
 #~ msgid ""
 #~ "<qt>\n"
 #~ "Check this box if you want the above proxy settings to apply only to the "
@@ -523,7 +489,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "പട്ടികയിലുള്ളവയ്ക്ക് പ്രോക്സി മാത്രം ഉപയോഗിക്കുക"
 
 #, fuzzy
-#~| msgid "Use proxy only for entries in this list"
 #~ msgid "Use proxy settings only for addresses in the Exceptions list"
 #~ msgstr "പട്ടികയിലുള്ളവയ്ക്ക് പ്രോക്സി മാത്രം ഉപയോഗിക്കുക"
 
@@ -545,7 +510,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "ടൈമൌട്ട് മൂല്യങ്ങള്‍"
 
 #, fuzzy
-#~| msgid " sec"
 #~ msgid " second"
 #~ msgid_plural " seconds"
 #~ msgstr[0] " sec"
@@ -574,8 +538,8 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ "Enables FTP's \"passive\" mode. This is required to allow FTP to work "
 #~ "from behind firewalls."
 #~ msgstr ""
-#~ "എഫ്‌ടിപിയുടെ \"നിര്‍ജ്ജീവം\" (\"passive\") എന്ന അവസ്ഥ പ്രാവര്‍ത്തികമാക്കുന്നു. എഫ്‌ടിപി "
-#~ "ഫയര്‍വാളുകളുടെ പിറകില്‍നിന്നു പ്രവര്‍ത്തിക്കാന്‍ ഇതാവശ്യമാണ്."
+#~ "എഫ്‌ടിപിയുടെ \"നിര്‍ജ്ജീവം\" (\"passive\") എന്ന അവസ്ഥ പ്രാവര്‍ത്തികമാക്കുന്നു. എഫ്‌ടിപി ഫയര്‍"
+#~ "വാളുകളുടെ പിറകില്‍നിന്നു പ്രവര്‍ത്തിക്കാന്‍ ഇതാവശ്യമാണ്."
 
 #~ msgid "Mark &partially uploaded files"
 #~ msgstr "&ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ അടയാളപ്പെടുത്തുക"
@@ -585,9 +549,9 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ "partially uploaded files will have a \".part\" extension. This extension "
 #~ "will be removed once the transfer is complete.</p>"
 #~ msgstr ""
-#~ "ഭാഗികമായി അപ്ലോഡ് ചെയ്ത എഫ്‌ടിപി ഫയലുകള്‍ അടയാളപ്പെടുത്തുക. ഈ ഐച്ഛികം "
-#~ "പ്രാവര്‍ത്തികമാക്കുമ്പോള്‍ ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" "
-#~ "എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ എക്സ്റ്റന്‍ഷന്‍ മാറ്റം പൂര്‍ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
+#~ "ഭാഗികമായി അപ്ലോഡ് ചെയ്ത എഫ്‌ടിപി ഫയലുകള്‍ അടയാളപ്പെടുത്തുക. ഈ ഐച്ഛികം പ്രാവര്‍"
+#~ "ത്തികമാക്കുമ്പോള്‍ ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ "
+#~ "എക്സ്റ്റന്‍ഷന്‍ മാറ്റം പൂര്‍ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
 
 #~ msgid "These settings apply to network browsing only."
 #~ msgstr "ഈ സജ്ജീകരണങ്ങള്‍ ശൃംഖലാ തിരച്ചിലിനേ ബാധകമാവൂ."
@@ -599,13 +563,11 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "സഹജമായ അടയാളവാക്കു്:"
 
 #, fuzzy
-#~| msgid "Add Identification"
 #~ msgctxt "@title:window"
 #~ msgid "Add Identification"
 #~ msgstr "തിരിച്ചറിയല്‍ കൂട്ടിച്ചേര്‍ക്കുക"
 
 #, fuzzy
-#~| msgid "Modify Identification"
 #~ msgctxt "@title:window"
 #~ msgid "Modify Identification"
 #~ msgstr "തിരിച്ചറിയല്‍ മാറ്റം വരുത്തുക"
@@ -618,7 +580,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ "നിങ്ങള്‍ക്കിത് മാറ്റണമെന്നുണ്ടോ?</center></qt>"
 
 #, fuzzy
-#~| msgid "Duplicate Identification"
 #~ msgctxt "@title:window"
 #~ msgid "Duplicate Identification"
 #~ msgstr "ഡ്യൂപ്ളിക്കേറ്റ് തിരിച്ചറിയല്‍"
@@ -637,9 +598,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "സഹജമായ തിരിച്ചറിയല്‍"
 
 #, fuzzy
-#~| msgid ""
-#~| "The browser identification text sent to the sites you visit. Use the "
-#~| "provided options to customize it."
 #~ msgid ""
 #~ "The browser identification text sent to the sites you visit. You can "
 #~ "customize it using the options provided below."
@@ -648,9 +606,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ "ഐച്ഛികങ്ങളുപയോഗിച്ച് അത് ഇഷ്ടപ്രകാരമാക്കിയെടുക്കുക."
 
 #, fuzzy
-#~| msgid ""
-#~| "Includes your operating system's version number in the browser "
-#~| "identification text."
 #~ msgid ""
 #~ "Includes your operating system's name in the browser identification text."
 #~ msgstr ""
@@ -735,7 +690,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ "മൂല്യം 3128 ആണു്."
 
 #, fuzzy
-#~| msgid "Variable Proxy Configuration"
 #~ msgctxt "@title:window"
 #~ msgid "Variable Proxy Configuration"
 #~ msgstr "പ്രോക്സിയുടെ മാറ്റാവുന്ന ക്രമീകരണം"
@@ -756,7 +710,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ "എന്നതിനുപകരം <b>HTTP_PROXY</b> എന്നാണ് നല്‍കേണ്ടത്."
 
 #, fuzzy
-#~| msgid "Invalid Proxy Setup"
 #~ msgctxt "@title:window"
 #~ msgid "Invalid Proxy Setup"
 #~ msgstr "അസാധുവായ പ്രോക്സി സജ്ജീകരണം"
@@ -765,7 +718,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "വിജയകരമായി ഉറപ്പാക്കിയിരിയ്ക്കുന്നു."
 
 #, fuzzy
-#~| msgid "Proxy Setup"
 #~ msgctxt "@title:window"
 #~ msgid "Proxy Setup"
 #~ msgstr "പ്രോക്സി സജ്ജീകരണം"
@@ -778,19 +730,16 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ "വേരിയബിളുകളൊന്നും കണ്ടുപിടിക്കാനായില്ല."
 
 #, fuzzy
-#~| msgid "Automatic Proxy Variable Detection"
 #~ msgctxt "@title:window"
 #~ msgid "Automatic Proxy Variable Detection"
 #~ msgstr "തനിയെയുള്ള പ്രോക്സി വേരിയബിള്‍ കണ്ടുപിടിത്തം"
 
 #, fuzzy
-#~| msgid "Manual Proxy Configuration"
 #~ msgctxt "@title:window"
 #~ msgid "Manual Proxy Configuration"
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
 
 #, fuzzy
-#~| msgid "Invalid Proxy Setting"
 #~ msgctxt "@title:window"
 #~ msgid "Invalid Proxy Setting"
 #~ msgstr "അസാധുവായ പ്രോക്സി സജ്ജീകരണം"
@@ -809,25 +758,21 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "<qt><center><b>%1</b></center> ഇപ്പോഴേ പട്ടികയിലുണ്ട്.</qt>"
 
 #, fuzzy
-#~| msgid "Duplicate Entry"
 #~ msgctxt "@title:window"
 #~ msgid "Duplicate Entry"
 #~ msgstr "ഡ്യൂപ്ളിക്കേറ്റ് എന്‍ട്രി"
 
 #, fuzzy
-#~| msgid "New Exception"
 #~ msgctxt "@title:window"
 #~ msgid "New Exception"
 #~ msgstr "പുതിയ എക്സപ്ഷന്‍"
 
 #, fuzzy
-#~| msgid "Change Exception"
 #~ msgctxt "@title:window"
 #~ msgid "Change Exception"
 #~ msgstr "എക്സപ്ഷന്‍ മാറ്റുക"
 
 #, fuzzy
-#~| msgid "Invalid Entry"
 #~ msgctxt "@title:window"
 #~ msgid "Invalid Entry"
 #~ msgstr "അസാധുവായ എന്‍ട്രി"
@@ -888,12 +833,10 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "&ആവശ്യമുണ്ടാകുമ്പോള്‍ ചോദിക്കുക"
 
 #, fuzzy
-#~| msgid "Use the following lo&gin information."
 #~ msgid "Use this login information."
 #~ msgstr "ഇനിപ്പറയുന്ന ലോ&ഗിന്‍ വിവരം ഉപയോഗിക്കുക."
 
 #, fuzzy
-#~| msgid "Use the information below to login into proxy servers as needed."
 #~ msgid ""
 #~ "Use information specified here to login into proxy servers as needed."
 #~ msgstr ""
@@ -964,7 +907,6 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "lan:/ Iosla&ve"
 
 #, fuzzy
-#~| msgid "KSqueezedTextLabel"
 #~ msgctxt "just a placeholder; do not translate"
 #~ msgid "KSqueezedTextLabel"
 #~ msgstr "KSqueezedTextLabel"
@@ -1030,13 +972,11 @@ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 #~ msgstr "കൂടുതലായുള്ള ലൈബ്രറി തിരച്ചില്‍ വഴികള്‍"
 
 #, fuzzy
-#~| msgid "Your names"
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
 #~ msgstr "Manu S Madhav | മനു എസ് മാധവ്"
 
 #, fuzzy
-#~| msgid "Your emails"
 #~ msgctxt "EMAIL OF TRANSLATORS"
 #~ msgid "Your emails"
 #~ msgstr "manusmad@gmail.com"

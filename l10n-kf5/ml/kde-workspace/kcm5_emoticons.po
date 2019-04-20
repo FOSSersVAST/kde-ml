@@ -83,7 +83,6 @@ msgstr "പുതിയ വികാരചിഹ്ന പ്രമേയം"
 
 #: emoticonslist.cpp:364
 #, fuzzy, kde-format
-#| msgid "Design a new emoticon theme"
 msgid "Name of new emoticon theme:"
 msgstr "ഒരു പുതിയ വികാരചിഹ്ന പ്രമേയം രൂപകല്പന ചെയ്യുക"
 
@@ -117,29 +116,24 @@ msgid ""
 "If you already have an emoticon theme archive locally, this button will "
 "unpack it and make it available for KDE applications"
 msgstr ""
-"പ്രാദേശികമായി വികാരചിഹ്ന പ്രമേയത്തിന്റെ ഒരു ശേഖരം ഉണ്ടെങ്കില്‍, ഈ ബട്ടണ്‍ അതിനെ "
-"വേര്‍തിരിച്ചെടുത്ത്‌ കെ.ഡി.ഇ പ്രയോഗങ്ങള്‍ക്കു ലഭ്യമാക്കും"
+"പ്രാദേശികമായി വികാരചിഹ്ന പ്രമേയത്തിന്റെ ഒരു ശേഖരം ഉണ്ടെങ്കില്‍, ഈ ബട്ടണ്‍ അതിനെ വേര്‍"
+"തിരിച്ചെടുത്ത്‌ കെ.ഡി.ഇ പ്രയോഗങ്ങള്‍ക്കു ലഭ്യമാക്കും"
 
 #. i18n: ectx: property (text), widget (QPushButton, btInstall)
 #: emoticonslist.ui:32
 #, fuzzy, kde-format
-#| msgid "Install Theme File..."
 msgid "Install from File..."
 msgstr "പ്രമേയം അടങ്ങിയ ഫയല്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, btNew)
 #: emoticonslist.ui:45
 #, fuzzy, kde-format
-#| msgid "Get New Themes..."
 msgid "Create New Theme..."
 msgstr "പുതിയ പ്രമേയങ്ങള്‍ നേടുക..."
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, btNew)
 #: emoticonslist.ui:48
 #, fuzzy, kde-format
-#| msgid ""
-#| "Start a new theme by assigning it a name. Then use the Add button on the "
-#| "right to add emoticons to this theme."
 msgid ""
 "Create a new theme by assigning it a name. Then use the Add button on the "
 "right to add emoticons to this theme."
@@ -162,18 +156,12 @@ msgstr "ഇതു നിങ്ങളുടെ ഡിസ്കില്‍ നി
 #. i18n: ectx: property (toolTip), widget (QPushButton, btGetNew)
 #: emoticonslist.ui:115
 #, fuzzy, kde-format
-#| msgid "Get new themes from the Internet"
 msgid "Get new emoticon icon themes from the Internet"
 msgstr "ഇന്റര്‍നെറ്റില്‍ നിന്നും പുതിയ പ്രമേയങ്ങള്‍ നേടുക"
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, btGetNew)
 #: emoticonslist.ui:118
 #, fuzzy, kde-format
-#| msgid ""
-#| "You need to be connected to the Internet to use this action. A dialog "
-#| "will display a list of emoticon themes from the http://www.kde.org "
-#| "website. Clicking the Install button associated with a theme will install "
-#| "this theme locally."
 msgid ""
 "You need to be connected to the Internet to use this action. A dialog will "
 "display a list of emoticon themes from the https://store.kde.org website. "
@@ -182,13 +170,12 @@ msgid ""
 msgstr ""
 "ഈ നീക്കം പ്രയോഗത്തില്‍ വരുത്തണമെങ്കില്‍ താങ്കള്‍ ഇന്റര്‍നെറ്റ് ഉപയോഗിക്കാന്‍ കഴിയുന്ന "
 "അവസ്ഥയിലായിരിക്കണം. ഒരു ജാലകം http://www.kde.org എന്ന വെബ്സൈറ്റില്‍ നിന്നും വികാരചിഹ്നം "
-"പേരമേയങ്ങളുടെ ഒരു പട്ടിക നിങ്ങള്‍ക്കു കാണിച്ചു തരും. എതെങ്കിലും പ്രമേയത്തിനോട് അനുബന്ധിച്ച "
-"ഇന്‍സ്റ്റോള്‍ ബട്ടണ്‍ അമര്‍ത്തുമ്പോല്‍ ആ പ്രമേയം പ്രാദേശികമായി ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെടും."
+"പേരമേയങ്ങളുടെ ഒരു പട്ടിക നിങ്ങള്‍ക്കു കാണിച്ചു തരും. എതെങ്കിലും പ്രമേയത്തിനോട് അനുബന്ധിച്ച ഇന്‍"
+"സ്റ്റോള്‍ ബട്ടണ്‍ അമര്‍ത്തുമ്പോല്‍ ആ പ്രമേയം പ്രാദേശികമായി ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെടും."
 
 #. i18n: ectx: property (text), widget (QPushButton, btGetNew)
 #: emoticonslist.ui:121
 #, fuzzy, kde-format
-#| msgid "Create a new emoticon"
 msgid "Get New Emoticons..."
 msgstr "പുതിയ ഒരു വികാരചിഹ്നം സൃഷ്ടിക്കുക"
 
@@ -201,7 +188,6 @@ msgstr "വികാരചിഹ്നങ്ങള്‍ക്കു് ചു�
 #. i18n: ectx: property (toolTip), widget (QPushButton, btAdd)
 #: emoticonslist.ui:161
 #, fuzzy, kde-format
-#| msgid "Create a new emoticon"
 msgid "Create New Emoticon..."
 msgstr "പുതിയ ഒരു വികാരചിഹ്നം സൃഷ്ടിക്കുക"
 
@@ -214,7 +200,6 @@ msgstr "ഒരു ചിഹ്നവും ഉചിതമായ പദാവല
 #. i18n: ectx: property (toolTip), widget (QPushButton, btRemoveEmoticon)
 #: emoticonslist.ui:177
 #, fuzzy, kde-format
-#| msgid "Add Emoticon"
 msgid "Remove Emoticon"
 msgstr "വികാരചിഹ്നം ചേര്‍ക്കുക"
 
@@ -227,7 +212,6 @@ msgstr "നിങ്ങളുടെ ഡിസ്കില്‍ നിന്ന�
 #. i18n: ectx: property (toolTip), widget (QPushButton, btEdit)
 #: emoticonslist.ui:193
 #, fuzzy, kde-format
-#| msgid "Edit Emoticon"
 msgid "Edit Emoticon..."
 msgstr "വികാരചിഹ്നം ചിട്ടപ്പെടുത്തുക"
 
@@ -241,7 +225,6 @@ msgstr "ചിഹ്നമോ പദാവലിയോ മാറ്റാനാ�
 #~ msgstr "പുതിയ വികാരചിഹ്ന പ്രമേയത്തിന്റെ പേരു നല്‍കുക:"
 
 #, fuzzy
-#~| msgid "New Theme..."
 #~ msgid "New Theme"
 #~ msgstr "പുതിയ പ്രമേയം..."
 

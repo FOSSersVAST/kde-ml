@@ -71,7 +71,6 @@ msgstr "കെസിഎംഇന്‍ഫോ"
 
 #: nic.cpp:107
 #, fuzzy, kde-format
-#| msgid "KDE Panel System Information Control Module"
 msgid "System Information Control Module"
 msgstr "കെഡിഇയിലെ പാനല്‍ സിസ്റ്റത്തിലെ വിവര നിയന്ത്രണ ഭാഗം"
 

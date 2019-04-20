@@ -167,13 +167,11 @@ msgstr "ഇന്‍പുട്ട് ചതുരത്തിനുള്ള �
 
 #: kdialog.cpp:296
 #, fuzzy, kde-format
-#| msgid "Message Box dialog"
 msgid "Image Box dialog"
 msgstr "സന്ദേശ ചതുരത്തിനുള്ള ഡയലോഗ്"
 
 #: kdialog.cpp:297
 #, fuzzy, kde-format
-#| msgid "Message Box dialog"
 msgid "Image Box Input dialog"
 msgstr "സന്ദേശ ചതുരത്തിനുള്ള ഡയലോഗ്"
 
@@ -184,7 +182,6 @@ msgstr "അടയാളവാക്കിനുള്ള ഡയലോഗ്"
 
 #: kdialog.cpp:299
 #, fuzzy, kde-format
-#| msgid "Password dialog"
 msgid "New Password dialog"
 msgstr "അടയാളവാക്കിനുള്ള ഡയലോഗ്"
 
@@ -225,37 +222,31 @@ msgstr "പാസ്സിവ് പോപ്പ് അപ്പ്"
 
 #: kdialog.cpp:307
 #, fuzzy, kde-format
-#| msgid "Passive Popup"
 msgid "Popup icon"
 msgstr "പാസ്സിവ് പോപ്പ് അപ്പ്"
 
 #: kdialog.cpp:308
 #, fuzzy, kde-format
-#| msgid "File dialog to open an existing file"
 msgid "File dialog to open an existing file (arguments [startDir] [filter])"
 msgstr "നിലവിലുള്ള ഫയല്‍ തുറക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
 #: kdialog.cpp:309
 #, fuzzy, kde-format
-#| msgid "File dialog to save a file"
 msgid "File dialog to save a file (arguments [startDir] [filter])"
 msgstr "ഫയല്‍ സൂക്ഷിക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
 #: kdialog.cpp:310
 #, fuzzy, kde-format
-#| msgid "File dialog to select an existing directory"
 msgid "File dialog to select an existing directory (arguments [startDir])"
 msgstr "നിലവിലുള്ള തട്ടു് തെരഞ്ഞെടുക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
 #: kdialog.cpp:311
 #, fuzzy, kde-format
-#| msgid "File dialog to open an existing file"
 msgid "File dialog to open an existing URL (arguments [startDir] [filter])"
 msgstr "നിലവിലുള്ള ഫയല്‍ തുറക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
 #: kdialog.cpp:312
 #, fuzzy, kde-format
-#| msgid "File dialog to save a file"
 msgid "File dialog to save a URL (arguments [startDir] [filter])"
 msgstr "ഫയല്‍ സൂക്ഷിക്കുവാനുള്ള ഫയല്‍ ഡയലോഗ്"
 
@@ -324,13 +315,11 @@ msgstr ""
 
 #: kdialog.cpp:324
 #, fuzzy, kde-format
-#| msgid "Color dialog to select a color"
 msgid "Slider dialog box, returns selected value"
 msgstr "ഒരു നിറം തെരഞ്ഞെടുക്കുവാനുള്ള നിറത്തിനുള്ള ഡയലോഗ്"
 
 #: kdialog.cpp:325
 #, fuzzy, kde-format
-#| msgid "Color dialog to select a color"
 msgid "Calendar dialog box, returns selected date"
 msgstr "ഒരു നിറം തെരഞ്ഞെടുക്കുവാനുള്ള നിറത്തിനുള്ള ഡയലോഗ്"
 
@@ -376,14 +365,12 @@ msgstr ""
 
 #: kdialog.cpp:748
 #, fuzzy, kde-format
-#| msgid "Open"
 msgctxt "@title:window"
 msgid "Open"
 msgstr "തുറക്കുക"
 
 #: kdialog.cpp:801
 #, fuzzy, kde-format
-#| msgid "Save As"
 msgctxt "@title:window"
 msgid "Save As"
 msgstr "പേരു് മാറ്റി സൂക്ഷിയ്ക്കുക"
@@ -396,7 +383,6 @@ msgstr ""
 
 #: kdialog.cpp:949
 #, fuzzy, kde-format
-#| msgid "Choose Color"
 msgctxt "@title:window"
 msgid "Choose Color"
 msgstr "നിറം തെരഞ്ഞെടുക്കുക"

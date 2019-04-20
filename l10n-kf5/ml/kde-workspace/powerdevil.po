@@ -32,7 +32,6 @@ msgstr "pravi.a@gmail.com"
 #: actions/bundled/handlebuttonevents.cpp:57
 #: actions/bundled/keyboardbrightnesscontrol.cpp:57
 #, fuzzy, kde-format
-#| msgid "Profile Management"
 msgctxt "Name for powerdevil shortcuts category"
 msgid "Power Management"
 msgstr "പ്രൊഫൈലുകളുടെ നടത്തിപ്പു്"
@@ -73,7 +72,6 @@ msgstr ""
 
 #: actions/bundled/handlebuttonevents.cpp:62
 #, fuzzy, kde-format
-#| msgid "Suspend to RAM"
 msgctxt "@action:inmenu Global shortcut"
 msgid "Suspend"
 msgstr "റാമിലാക്കുക"
@@ -123,26 +121,22 @@ msgstr ""
 #: actions/bundled/handlebuttoneventsconfig.cpp:107
 #: actions/bundled/suspendsessionconfig.cpp:90
 #, fuzzy, kde-format
-#| msgid "Shutdown"
 msgid "Shut down"
 msgstr "നിര്‍ത്തി വയ്ക്കുക"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:108
 #: actions/bundled/suspendsessionconfig.cpp:91
 #, fuzzy, kde-format
-#| msgid "Lock Screen"
 msgid "Lock screen"
 msgstr "തിരശ്ശീല പൂട്ടുക"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:110
 #, fuzzy, kde-format
-#| msgid "Prompt Log Out dialog"
 msgid "Prompt log out dialog"
 msgstr "പുറത്തിറങ്ങുന്നതിനുള്ള സംഭാഷണം കാണിയ്ക്കുക"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:112
 #, fuzzy, kde-format
-#| msgid "Turn Off Screen"
 msgid "Turn off screen"
 msgstr "സ്ക്രീന്‍ കെടുത്തുക"
 
@@ -187,7 +181,6 @@ msgstr ""
 
 #: actions/bundled/runscriptconfig.cpp:84
 #, fuzzy, kde-format
-#| msgid "New Profile"
 msgid "On Profile Load"
 msgstr "പുതിയ പ്രൊഫൈല്‍"
 
@@ -212,7 +205,6 @@ msgstr ""
 #: actions/bundled/wirelesspowersavingconfig.cpp:81
 #: actions/bundled/wirelesspowersavingconfig.cpp:86
 #, fuzzy, kde-format
-#| msgid "Turn Off Screen"
 msgid "Turn off"
 msgstr "സ്ക്രീന്‍ കെടുത്തുക"
 
@@ -220,7 +212,6 @@ msgstr "സ്ക്രീന്‍ കെടുത്തുക"
 #: actions/bundled/wirelesspowersavingconfig.cpp:82
 #: actions/bundled/wirelesspowersavingconfig.cpp:87
 #, fuzzy, kde-format
-#| msgid "Turn Off Screen"
 msgid "Turn on"
 msgstr "സ്ക്രീന്‍ കെടുത്തുക"
 
@@ -241,7 +232,6 @@ msgstr ""
 
 #: actions/dpms/powerdevildpmsactionconfig.cpp:61
 #, fuzzy, kde-format
-#| msgid "&Power off after"
 msgid "Switch off after"
 msgstr "എത്ര സമയത്തിനു് ശേഷം &നിര്‍ത്തി വയ്ക്കാം"
 
@@ -253,13 +243,11 @@ msgstr ""
 #: backends/upower/login1suspendjob.cpp:76
 #: backends/upower/upowersuspendjob.cpp:69
 #, fuzzy, kde-format
-#| msgid "Supported suspend methods"
 msgid "Unsupported suspend method"
 msgstr "പിന്തുണയുള്ള മയങ്ങുന്നതിനുള്ള രീതികള്‍"
 
 #: powerdevilapp.cpp:65
 #, fuzzy, kde-format
-#| msgid "A Power Management tool for KDE4"
 msgid "KDE Power Management System"
 msgstr "കെഡിഇ4 നു് വേണ്ടിയുള്ള വൈദ്യുതി നടത്തിപ്പിനുള്ള പണിയായുധം"
 
@@ -284,21 +272,18 @@ msgstr ""
 
 #: powerdevilapp.cpp:70
 #, fuzzy, kde-format
-#| msgid "Maintainer"
 msgctxt "@info:credit"
 msgid "Maintainer"
 msgstr "പരിപാലകന്‍"
 
 #: powerdevilapp.cpp:72
 #, fuzzy, kde-format
-#| msgid "Dario Freddi"
 msgctxt "@info:credit"
 msgid "Dario Freddi"
 msgstr "ഡാരിയോ ഫ്രെഡ്ഡി"
 
 #: powerdevilapp.cpp:73
 #, fuzzy, kde-format
-#| msgid "Maintainer"
 msgctxt "@info:credit"
 msgid "Previous maintainer"
 msgstr "പരിപാലകന്‍"
@@ -320,14 +305,11 @@ msgstr ""
 
 #: powerdevilcore.cpp:453
 #, fuzzy, kde-format
-#| msgid "Critical battery level"
 msgid "Extra Battery Added"
 msgstr "ഗുരുതരമായ ബാറ്ററി നില"
 
 #: powerdevilcore.cpp:454 powerdevilcore.cpp:630
 #, fuzzy, kde-format
-#| msgid "The computer will be halted in 1 second."
-#| msgid_plural "The computer will be halted in %1 seconds."
 msgid "The computer will no longer go to sleep."
 msgstr "കമ്പ്യൂട്ടര്‍ %1 സെക്കന്റിനുള്ളില്‍ നില്‍ക്കുന്നതായിരിയ്ക്കും."
 
@@ -380,8 +362,6 @@ msgstr ""
 
 #: powerdevilcore.cpp:582
 #, fuzzy, kde-format
-#| msgctxt "Interrupts the suspension/shutdown process"
-#| msgid "Cancel"
 msgctxt ""
 "Cancel timeout that will automatically put system to sleep because of low "
 "battery"
@@ -390,19 +370,11 @@ msgstr "റദ്ദാക്കുക"
 
 #: powerdevilcore.cpp:591
 #, fuzzy, kde-format
-#| msgid ""
-#| "Your battery level is critical, the computer will be halted in 1 second."
-#| msgid_plural ""
-#| "Your battery level is critical, the computer will be halted in %1 seconds."
 msgid "Battery level critical. Your computer will shut down in 60 seconds."
 msgstr "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ നില്‍ക്കുന്നതായിരിയ്ക്കും."
 
 #: powerdevilcore.cpp:596
 #, fuzzy, kde-format
-#| msgid ""
-#| "Your battery level is critical, the computer will be halted in 1 second."
-#| msgid_plural ""
-#| "Your battery level is critical, the computer will be halted in %1 seconds."
 msgid ""
 "Battery level critical. Your computer will enter hibernation mode in 60 "
 "seconds."
@@ -410,22 +382,16 @@ msgstr "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാ�
 
 #: powerdevilcore.cpp:601
 #, fuzzy, kde-format
-#| msgid ""
-#| "Your battery level is critical, the computer will be halted in 1 second."
-#| msgid_plural ""
-#| "Your battery level is critical, the computer will be halted in %1 seconds."
 msgid "Battery level critical. Your computer will go to sleep in 60 seconds."
 msgstr "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ നില്‍ക്കുന്നതായിരിയ്ക്കും."
 
 #: powerdevilcore.cpp:606
 #, fuzzy, kde-format
-#| msgid "Your battery level is critical: save your work as soon as possible."
 msgid "Battery level critical. Please save your work."
 msgstr "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്: നിങ്ങളുടെ ജോലി എത്രയും പെട്ടെന്നു് സൂക്ഷിയ്ക്കുക."
 
 #: powerdevilcore.cpp:629
 #, fuzzy, kde-format
-#| msgid "When AC Adaptor is plugged in"
 msgid "AC Adapter Plugged In"
 msgstr "എസി അഡാപ്റ്റര്‍ കുത്തിയിരിയ്ക്കുമ്പോള്‍"
 
@@ -436,19 +402,16 @@ msgstr ""
 
 #: powerdevilcore.cpp:632
 #, fuzzy, kde-format
-#| msgid "The power adaptor has been plugged in."
 msgid "The power adapter has been plugged in."
 msgstr "വൈദ്യുതി അഡാപ്റ്റര്‍ കുത്തിയിരിയ്ക്കുന്നു."
 
 #: powerdevilcore.cpp:635
 #, fuzzy, kde-format
-#| msgid "When on battery power"
 msgid "Running on Battery Power"
 msgstr "ബാറ്ററി വൈദ്യുതിയിലായിരിയ്ക്കുമ്പോള്‍"
 
 #: powerdevilcore.cpp:635
 #, fuzzy, kde-format
-#| msgid "The power adaptor has been unplugged."
 msgid "The power adapter has been unplugged."
 msgstr "വൈദ്യുതി അഡാപ്റ്റര്‍ നീക്കം ചെയ്തിരിയ്ക്കുന്നു."
 
@@ -463,9 +426,6 @@ msgid "Battery now fully charged."
 msgstr ""
 
 #, fuzzy
-#~| msgid ""
-#~| "The profile \"%1\" has been selected, but it does not exist.\n"
-#~| "Please check your PowerDevil configuration."
 #~ msgid ""
 #~ "Profile \"%1\" has been selected but does not exist.\n"
 #~ "Please check your PowerDevil configuration."
@@ -481,35 +441,24 @@ msgstr ""
 #~ "ദയവായി നിങ്ങളുടെ സിസ്റ്റത്തിന്റെ ക്രമീകരണം പരിശോധിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "The power adaptor has been plugged in. Any pending suspend actions have "
-#~| "been canceled."
 #~ msgid "All pending suspend actions have been canceled."
 #~ msgstr ""
 #~ "വൈദ്യുതി അഡാപ്റ്റര്‍ കുത്തിയിരിയ്ക്കുന്നു. മയങ്ങുന്നതിനു് മുമ്പു് ചെയ്യാന്‍ ബാക്കിയുള്ള നടപടികള്‍ "
 #~ "റദ്ദാക്കിയിരിയ്ക്കുന്നു."
 
 #, fuzzy
-#~| msgid ""
-#~| "Your battery level is critical, the computer will be suspended to RAM in "
-#~| "1 second."
-#~| msgid_plural ""
-#~| "Your battery level is critical, the computer will be suspended to RAM in "
-#~| "%1 seconds."
 #~ msgid ""
 #~ "Your battery level is critical, the computer will be suspended in 60 "
 #~ "seconds."
 #~ msgstr ""
-#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ റാമിലാക്കി തത്കാലം "
-#~ "നിര്‍ത്തുന്നതായിരിയ്ക്കും."
+#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ റാമിലാക്കി തത്കാലം നിര്‍"
+#~ "ത്തുന്നതായിരിയ്ക്കും."
 
 #, fuzzy
-#~| msgid "Suspend to RAM"
 #~ msgid "Suspend"
 #~ msgstr "റാമിലാക്കുക"
 
 #, fuzzy
-#~| msgid "Lock Screen"
 #~ msgid "Locking Screen"
 #~ msgstr "തിരശ്ശീല പൂട്ടുക"
 
@@ -517,9 +466,6 @@ msgstr ""
 #~ msgstr "തിരശ്ശീല പൂട്ടിക്കൊണ്ടിരിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgid ""
-#~| "The power adaptor has been plugged in. Any pending suspend actions have "
-#~| "been canceled."
 #~ msgid ""
 #~ "The power adaptor has been plugged in – all pending suspend actions have "
 #~ "been canceled."
@@ -531,13 +477,11 @@ msgstr ""
 #~ msgstr "നിങ്ങളുടെ ബാറ്ററി താഴ്ന്നൊരു നിലയിലെത്തിയിരിയ്ക്കുന്നു."
 
 #, fuzzy
-#~| msgid "Performance"
 #~ msgctxt "Name of a power profile"
 #~ msgid "Performance"
 #~ msgstr "പ്രകടനം"
 
 #, fuzzy
-#~| msgid "Powersave"
 #~ msgctxt "Name of a power profile"
 #~ msgid "Powersave"
 #~ msgstr "വൈദ്യതി മിതവ്യയം"
@@ -546,7 +490,6 @@ msgstr ""
 #~ msgstr "നിങ്ങളുടെ ബാറ്ററി മുന്നറിയിപ്പു് തരാനുള്ള സ്ഥിതിയിലായിരിയ്ക്കുന്നു."
 
 #, fuzzy
-#~| msgid "Disable desktop effects, if active"
 #~ msgid "Disable effects"
 #~ msgstr "പണിയിട പ്രഭാവങ്ങള്‍ ഉപയോഗത്തിലുണ്ടെങ്കില്‍ നിര്‍ത്തുക"
 
@@ -554,7 +497,6 @@ msgstr ""
 #~ msgstr "ഉറങ്ങാനുള്ള ബട്ടണ്‍ അമര്‍ത്തിയാല്‍"
 
 #, fuzzy
-#~| msgid "Main Developer"
 #~ msgid "Developer"
 #~ msgstr "പ്രധാന രചയിതാവു്"
 
@@ -569,12 +511,10 @@ msgstr ""
 #~ msgstr "പവര്‍ഡെവിള്‍"
 
 #, fuzzy
-#~| msgid "A Power Management tool for KDE4"
 #~ msgid "A Power Management tool for KDE4"
 #~ msgstr "കെഡിഇ4 നു് വേണ്ടിയുള്ള വൈദ്യുതി നടത്തിപ്പിനുള്ള പണിയായുധം"
 
 #, fuzzy
-#~| msgid "(c), 2008 Dario Freddi"
 #~ msgid "(c) 2008 Dario Freddi"
 #~ msgstr "(c), 2008 ഡാരിയോ ഫ്രെഡ്ഡി"
 
@@ -594,11 +534,11 @@ msgstr ""
 #~ "Your battery level is critical, the computer will be suspended to disk in "
 #~ "%1 seconds."
 #~ msgstr[0] ""
-#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ ഡിസ്കിലാക്കി തത്കാലം "
-#~ "നിര്‍ത്തുന്നതായിരിയ്ക്കും."
+#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ ഡിസ്കിലാക്കി തത്കാലം നിര്‍"
+#~ "ത്തുന്നതായിരിയ്ക്കും."
 #~ msgstr[1] ""
-#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ ഡിസ്കിലാക്കി തത്കാലം "
-#~ "നിര്‍ത്തുന്നതായിരിയ്ക്കും."
+#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ ഡിസ്കിലാക്കി തത്കാലം നിര്‍"
+#~ "ത്തുന്നതായിരിയ്ക്കും."
 
 #~ msgid ""
 #~ "Your battery level is critical, the computer will be suspended to RAM in "
@@ -607,11 +547,11 @@ msgstr ""
 #~ "Your battery level is critical, the computer will be suspended to RAM in "
 #~ "%1 seconds."
 #~ msgstr[0] ""
-#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ റാമിലാക്കി തത്കാലം "
-#~ "നിര്‍ത്തുന്നതായിരിയ്ക്കും."
+#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ റാമിലാക്കി തത്കാലം നിര്‍"
+#~ "ത്തുന്നതായിരിയ്ക്കും."
 #~ msgstr[1] ""
-#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ റാമിലാക്കി തത്കാലം "
-#~ "നിര്‍ത്തുന്നതായിരിയ്ക്കും."
+#~ "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ റാമിലാക്കി തത്കാലം നിര്‍"
+#~ "ത്തുന്നതായിരിയ്ക്കും."
 
 #~ msgid ""
 #~ "Your battery level is critical, the computer will be put into standby in "
@@ -672,9 +612,6 @@ msgstr ""
 #~ msgstr "(c), 2008 ഡാരിയോ ഫ്രെഡ്ഡി"
 
 #, fuzzy
-#~| msgid ""
-#~| "From this module, you can configure the Daemon, create and edit "
-#~| "powersaving profiles, and see your system's capabilities."
 #~ msgid ""
 #~ "From this module, you can configure the Daemon, create and edit "
 #~ "powersaving profiles, and see your system's capabilities."
@@ -713,17 +650,14 @@ msgstr ""
 #~ "പ്രശ്നമുണ്ടാകാം."
 
 #, fuzzy
-#~| msgid "PowerDevil Configuration"
 #~ msgid "Power Profiles Configuration"
 #~ msgstr "പവര്‍ഡെവിളിന്റെ ക്രമീകരണം"
 
 #, fuzzy
-#~| msgid "A configurator for PowerDevil"
 #~ msgid "A profile configurator for KDE Power Management System"
 #~ msgstr "പവര്‍ഡെവിളിനെ ക്രമീകരിയ്ക്കാന്‍"
 
 #, fuzzy
-#~| msgid "(c), 2008 Dario Freddi"
 #~ msgid "(c), 2010 Dario Freddi"
 #~ msgstr "(c), 2008 ഡാരിയോ ഫ്രെഡ്ഡി"
 
@@ -775,7 +709,6 @@ msgstr ""
 #~ msgstr "പ്രൊഫൈലുകള്‍ പുറത്തുവയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Settings and Profiles"
 #~ msgid "Settings and Profile"
 #~ msgstr "സജ്ജീകരണങ്ങളും പ്രൊഫൈലുകളും"
 
@@ -792,7 +725,6 @@ msgstr ""
 #~ msgstr "അറിയിപ്പുകള്‍ ക്രമീകരിയ്ക്കുക..."
 
 #, fuzzy
-#~| msgid "When AC Adaptor is plugged in"
 #~ msgid "When AC Adaptor is unplugged"
 #~ msgstr "എസി അഡാപ്റ്റര്‍ കുത്തിയിരിയ്ക്കുമ്പോള്‍"
 
@@ -892,7 +824,6 @@ msgstr ""
 #~ "സാധിച്ചില്ല. കൂടുതല്‍ വിവരങ്ങള്‍ക്കു് താഴെയുള്ളതു് വായിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Edit Profiles"
 #~ msgid "Editing Profile"
 #~ msgstr "പ്രൊഫൈലുകള്‍ ചിട്ടപ്പെടുത്തുക"
 
@@ -913,8 +844,6 @@ msgstr ""
 #~ msgstr "മയങ്ങുന്നതിനു് മുമ്പു് എത്ര സമയം കാത്തിരിയ്ക്കണം"
 
 #, fuzzy
-#~| msgctxt "As in \"seconds\""
-#~| msgid " sec"
 #~ msgid " sec"
 #~ msgstr "സെക്കന്റുകള്‍"
 
@@ -992,7 +921,6 @@ msgstr ""
 #~ msgstr "സിപിയുവും സിസ്റ്റവും"
 
 #, fuzzy
-#~| msgid "&Enable display power management"
 #~ msgid "Enable system power saving"
 #~ msgstr "&പ്രദര്‍ശനത്തിന്റെ വൈദ്യുതി നടത്തിപ്പു് പ്രാവര്‍ത്തികമാക്കുക"
 
@@ -1000,7 +928,6 @@ msgstr ""
 #~ msgstr "പ്രൊഫൈല്‍ എടുക്കുമ്പോള്‍, പ്രവര്‍ത്തിപ്പിയ്ക്കുവാനുള്ളതു്:"
 
 #, fuzzy
-#~| msgid "(c) 2008 Dario Freddi"
 #~ msgid "Copyright © 2008–2011 Dario Freddi"
 #~ msgstr "(c) 2008 ഡാരിയോ ഫ്രെഡ്ഡി"
 
@@ -1126,9 +1053,8 @@ msgstr ""
 #~ "XSync is an extension that allows high efficiency query of the system. If "
 #~ "it is available, PowerDevil will be much more reliable and efficient"
 #~ msgstr ""
-#~ "എക്സ്‌സിങ്ക് വളരെ ഉയര്‍ന്ന പ്രാപ്തിയോടെ സിസ്റ്റം പരിശോധിയ്ക്കാന്‍ അനുവദിയ്ക്കുന്നൊരു "
-#~ "എക്സ്റ്റന്‍ഷനാണു്. ഇതു് ലഭ്യമാണെങ്കില്‍ പവര്‍ഡെവിള്‍ വളരെയധികം വിശ്വാസ്യതയുള്ളതും "
-#~ "പ്രാപ്തിയുള്ളതുമായിരിയ്ക്കും"
+#~ "എക്സ്‌സിങ്ക് വളരെ ഉയര്‍ന്ന പ്രാപ്തിയോടെ സിസ്റ്റം പരിശോധിയ്ക്കാന്‍ അനുവദിയ്ക്കുന്നൊരു എക്സ്റ്റന്‍"
+#~ "ഷനാണു്. ഇതു് ലഭ്യമാണെങ്കില്‍ പവര്‍ഡെവിള്‍ വളരെയധികം വിശ്വാസ്യതയുള്ളതും പ്രാപ്തിയുള്ളതുമായിരിയ്ക്കും"
 
 #~ msgid "XSync Support"
 #~ msgstr "എക്സ്‌സിങ്ക് പിന്തുണ"

@@ -51,7 +51,6 @@ msgstr "മുദ്രകള്‍"
 #: soliddeviceengine.cpp:136 soliddeviceengine.cpp:498
 #: soliddeviceengine.cpp:504 soliddeviceengine.cpp:517
 #, fuzzy, kde-format
-#| msgid "Has State"
 msgid "State"
 msgstr "സ്ഥിതിയുണ്ട്"
 
@@ -622,13 +621,11 @@ msgstr "ക്യമറ ബാറ്ററി"
 
 #: soliddeviceengine.cpp:406
 #, fuzzy, kde-format
-#| msgid "Mouse Battery"
 msgid "Phone Battery"
 msgstr "മൌസ് ബാറ്ററി"
 
 #: soliddeviceengine.cpp:407
 #, fuzzy, kde-format
-#| msgid "Mouse Battery"
 msgid "Monitor Battery"
 msgstr "മൌസ് ബാറ്ററി"
 
@@ -639,13 +636,11 @@ msgstr ""
 
 #: soliddeviceengine.cpp:407
 #, fuzzy, kde-format
-#| msgid "Mouse Battery"
 msgid "Bluetooth Battery"
 msgstr "മൌസ് ബാറ്ററി"
 
 #: soliddeviceengine.cpp:410
 #, fuzzy, kde-format
-#| msgid "Charging"
 msgid "Not Charging"
 msgstr "ചാര്‍ജ്ജ് ചെയ്തു് കൊണ്ടിരിയ്ക്കുന്നു"
 
@@ -721,7 +716,6 @@ msgstr "സ്വതന്ത്രമായ സ്ഥലം"
 
 #: soliddeviceengine.cpp:576
 #, fuzzy, kde-format
-#| msgid "Free Space"
 msgid "Free Space Text"
 msgstr "സ്വതന്ത്രമായ സ്ഥലം"
 

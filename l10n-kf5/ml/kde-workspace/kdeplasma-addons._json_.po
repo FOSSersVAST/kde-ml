@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-04-13 03:47+0000\n"
+"PO-Revision-Date: 2018-04-13 03:47+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: dataengines/potd/bingprovider.json
+msgctxt "Name"
+msgid "Bing's Picture of the Day"
+msgstr ""
+
+#: dataengines/potd/wcpotdprovider.json
+msgctxt "Name"
+msgid "Wikimedia Picture of the Day"
+msgstr ""
+
+#: dataengines/potd/flickrprovider.json
+msgctxt "Name"
+msgid "Flickr Picture of the Day"
+msgstr ""
+
+#: dataengines/potd/epodprovider.json
+msgctxt "Name"
+msgid "Earth Science Picture of the Day"
+msgstr ""
+
+#: dataengines/potd/noaaprovider.json
+msgctxt "Name"
+msgid "NOAA Environmental Visualization Laboratory Picture of the Day"
+msgstr ""
+
+#: dataengines/potd/apodprovider.json
+msgctxt "Name"
+msgid "Astronomy Picture of the Day"
+msgstr ""
+
+#: dataengines/potd/natgeoprovider.json
+msgctxt "Name"
+msgid "National Geographic"
+msgstr ""
+
+#: dataengines/potd/bingprovider.json
+msgctxt "Description"
+msgid "Bing Provider"
+msgstr ""
+
+#: dataengines/potd/wcpotdprovider.json
+msgctxt "Description"
+msgid "Wcpotd Provider"
+msgstr ""
+
+#: dataengines/potd/flickrprovider.json
+msgctxt "Description"
+msgid "Flickr Provider"
+msgstr ""
+
+#: dataengines/potd/epodprovider.json
+msgctxt "Description"
+msgid "Epod Provider"
+msgstr ""
+
+#: dataengines/potd/noaaprovider.json
+msgctxt "Description"
+msgid "NOAA Provider"
+msgstr ""
+
+#: dataengines/potd/apodprovider.json
+msgctxt "Description"
+msgid "Apod Provider"
+msgstr ""

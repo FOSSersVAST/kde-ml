@@ -54,8 +54,6 @@ msgstr ""
 
 #: applets/batterymonitor/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Display Settings"
 msgctxt "Name"
 msgid "Battery and Brightness"
 msgstr "പ്രദര്‍ശനത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
@@ -67,8 +65,6 @@ msgstr "നിങ്ങളുടെ ബാറ്ററിയുടെ വൈദ�
 
 #: applets/batterymonitor/package/metadata.desktop:116
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Power Management"
 msgctxt "Keywords"
 msgid "Power Management;Battery;System;Energy;"
 msgstr "വൈദ്യുതി നടത്തിപ്പു്"
@@ -86,8 +82,6 @@ msgstr ""
 #: applets/clipboard/metadata.desktop:2
 #: klipper/plasma-dataengine-clipboard.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Clipboard Tool"
 msgctxt "Name"
 msgid "Clipboard"
 msgstr "ക്ലിപ്ബോര്‍ഡ് ഉപകരണം"
@@ -149,16 +143,12 @@ msgstr ""
 
 #: applets/mediacontroller/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Multimedia Player"
 msgctxt "Name"
 msgid "Media Player"
 msgstr "മള്‍ട്ടിമീഡിയ പ്ലെയര്‍"
 
 #: applets/mediacontroller/metadata.desktop:48
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Multimedia Player"
 msgctxt "Comment"
 msgid "Media Player Controls"
 msgstr "മള്‍ട്ടിമീഡിയ പ്ലെയര്‍"
@@ -170,8 +160,6 @@ msgstr "അറിയിപ്പുകള്‍"
 
 #: applets/notifications/package/metadata.desktop:87
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "KDE Notification Daemon"
 msgctxt "Comment"
 msgid "Display notifications and jobs"
 msgstr "കെഡിഇയിലെ അറിയിപ്പുകള്‍ക്കുള്ള നിരന്തര പ്രവൃത്തി"
@@ -188,8 +176,6 @@ msgstr "പാനലിലെ ഒഴിഞ്ഞ ഇടങ്ങള്‍ കര
 
 #: applets/systemmonitor/cpu/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "A CPU usage monitor"
 msgctxt "Name"
 msgid "CPU Load Monitor"
 msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
@@ -201,8 +187,6 @@ msgstr ""
 
 #: applets/systemmonitor/diskactivity/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "A hard disk usage monitor"
 msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
 msgstr "ഹാര്‍ഡ് ഡിസ്ക് ഉപയോഗം നിരീക്ഷകന്‍"
@@ -214,8 +198,6 @@ msgstr ""
 
 #: applets/systemmonitor/diskusage/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Has State"
 msgctxt "Name"
 msgid "Hard Disk Space Usage"
 msgstr "സ്ഥിതിയുണ്ട്"
@@ -227,8 +209,6 @@ msgstr ""
 
 #: applets/systemmonitor/memory/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Samba Status"
 msgctxt "Name"
 msgid "Memory Status"
 msgstr "സാംബാ സ്ഥിതിവിവരം"
@@ -240,8 +220,6 @@ msgstr "റാം ഉപയോഗ നിരീക്ഷകന്‍"
 
 #: applets/systemmonitor/net/metadata.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Network Tool"
 msgctxt "Name"
 msgid "Network Monitor"
 msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
@@ -264,8 +242,6 @@ msgstr "സിസ്റ്റം ട്രേയില്‍ മിനിമൈ�
 
 #: appmenu/appmenu.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Application Manuals"
 msgctxt "Name"
 msgid "Application menus daemon"
 msgstr "പ്രയോഗ സഹായകഗ്രന്ഥങ്ങള്‍"
@@ -282,8 +258,6 @@ msgstr ""
 
 #: components/shellprivate/widgetexplorer/plasmoids.knsrc:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Plasma Desktop Shell"
 msgctxt "Name"
 msgid "Plasma Widgets"
 msgstr "പ്ലാസ്മ പണിയിട ആവരണം"
@@ -350,16 +324,12 @@ msgstr "മാറാവുന്ന ജാലകങ്ങളടെ പട്ട�
 
 #: dataengines/activities/plasma-dataengine-activities.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Activity Manager"
 msgctxt "Name"
 msgid "Activities Engine"
 msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
 
 #: dataengines/activities/plasma-dataengine-activities.desktop:61
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Information about files and directories."
 msgctxt "Comment"
 msgid "Information on Plasma Activities"
 msgstr "ഫയലുകളുടേയും തട്ടുകളുടേയും വിവരങ്ങള്‍."
@@ -386,16 +356,12 @@ msgstr "ആപ്പ് മെനുവിലെ പ്രയോഗങ്ങള�
 
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Notifications"
 msgctxt "Name"
 msgid "Device Notifications"
 msgstr "അറിയിപ്പുകള്‍"
 
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:65
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Passive visual notifications for the user."
 msgctxt "Comment"
 msgid "Passive device notifications for the user."
 msgstr "ഉപയോക്താവിനുള്ള നടപടി വേണ്ടാത്ത ദൃശ്യ സൂചനകള്‍"
@@ -534,8 +500,6 @@ msgstr ""
 
 #: dataengines/packagekit/plasma-dataengine-packagekit.desktop:50
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "JavaScript DataEngine"
 msgctxt "Comment"
 msgid "PackageKit Data Engine"
 msgstr "ജാവാസ്ക്രിപ്റ്റ് ഡാറ്റാഎഞ്ചിന്‍"
@@ -583,8 +547,6 @@ msgstr ""
 
 #: dataengines/share/backends/imgur/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Image"
 msgctxt "Name"
 msgid "Imgur"
 msgstr "ചിത്രം"
@@ -676,8 +638,6 @@ msgstr ""
 
 #: dataengines/share/packagestructure/plasma-packagestructure-share.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
 msgctxt "Name"
 msgid "ShareProvider"
 msgstr "സേവനങ്ങള്‍"
@@ -689,8 +649,6 @@ msgstr ""
 
 #: dataengines/share/plasma-dataengine-share.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
 msgctxt "Name"
 msgid "Share Services"
 msgstr "സേവനങ്ങള്‍"
@@ -712,18 +670,12 @@ msgstr "സോളിഡ് നല്‍കുന്ന ഉപകരണങ്ങ�
 
 #: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:2
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "System Process Information"
 msgctxt "Name"
 msgid "Status Notifier Information"
 msgstr "സിസ്റ്റത്തിലെ പ്രൊസസ്സ് വിവരങ്ങള്‍"
 
 #: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:60
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid ""
-#| "Keep track of applications that want to use the D-Bus based status "
-#| "notifier protocol."
 msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
@@ -755,8 +707,6 @@ msgstr "തീയതിയും സമയവും സമയമേഖലയന�
 
 #: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Weather"
 msgctxt "Name"
 msgid "BBC Weather"
 msgstr "കാലാവസ്ഥ "
@@ -854,8 +804,6 @@ msgstr ""
 #: kcms/translations/kcm_translations.desktop:14
 #: kcms/translations/package/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Languages"
 msgctxt "Name"
 msgid "Language"
 msgstr "ഭാഷകള്‍"
@@ -989,8 +937,6 @@ msgstr "എഫ്‌ടിപി യുആര്‍എല്‍"
 
 #: klipper/plasma-dataengine-clipboard.desktop:47
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Clipboard Tool"
 msgctxt "Comment"
 msgid "Clipboard Tool."
 msgstr "ക്ലിപ്ബോര്‍ഡ് ഉപകരണം"
@@ -1032,8 +978,6 @@ msgstr ""
 
 #: lookandfeel/metadata.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Sessions"
 msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr "പണിയിടത്തിന്റെ പ്രവര്‍ത്തനവേളകള്‍"
@@ -1052,8 +996,6 @@ msgstr ""
 
 #: menu/desktop/hidden.directory:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
 msgctxt "Name"
 msgid "Internal Services"
 msgstr "സേവനങ്ങള്‍"
@@ -1080,8 +1022,6 @@ msgstr "എഴുത്തിടങ്ങള്‍"
 
 #: menu/desktop/kf5-education.directory:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Locations"
 msgctxt "Name"
 msgid "Education"
 msgstr "സ്ഥാനങ്ങള്‍"
@@ -1164,8 +1104,6 @@ msgstr "ഇന്റര്‍നെറ്റ്"
 #: menu/desktop/kf5-internet-terminal.directory:3
 #: menu/desktop/kf5-system-terminal.directory:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Terminate Applications"
 msgctxt "Name"
 msgid "Terminal Applications"
 msgstr "പ്രയോഗങ്ങളെ ഇല്ലാതാക്കുക"
@@ -1177,8 +1115,6 @@ msgstr "കെഡിഇയിലെ മെനു"
 
 #: menu/desktop/kf5-more.directory:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Applications"
 msgctxt "Name"
 msgid "More Applications"
 msgstr "പ്രയോഗങ്ങള്‍"
@@ -1205,8 +1141,6 @@ msgstr "സജ്ജീകരണങ്ങള്‍"
 
 #: menu/desktop/kf5-system.directory:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "System Tray"
 msgctxt "Name"
 msgid "System"
 msgstr "സിസ്റ്റം ട്രേ"
@@ -1233,48 +1167,36 @@ msgstr "സാമീപ്യത"
 
 #: menu/desktop/kf5-utilities-desktop.directory:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Switch Desktop"
 msgctxt "Name"
 msgid "Desktop"
 msgstr "പണിയിടം മാറുക"
 
 #: menu/desktop/kf5-utilities-desktop.directory:52
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Switch Desktop"
 msgctxt "Comment"
 msgid "Desktop"
 msgstr "പണിയിടം മാറുക"
 
 #: menu/desktop/kf5-utilities.directory:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Activity Manager"
 msgctxt "Name"
 msgid "Utilities"
 msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
 
 #: menu/desktop/kf5-utilities.directory:53
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Activity Manager"
 msgctxt "Comment"
 msgid "Utilities"
 msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
 
 #: menu/desktop/kf5-utilities-file.directory:3
 #, fuzzy
-#| msgctxt "Description"
-#| msgid "Text File"
 msgctxt "Name"
 msgid "File"
 msgstr "പദാവലി ഫയല്‍"
 
 #: menu/desktop/kf5-utilities-file.directory:54
 #, fuzzy
-#| msgctxt "Description"
-#| msgid "Text File"
 msgctxt "Comment"
 msgid "File"
 msgstr "പദാവലി ഫയല്‍"
@@ -1301,8 +1223,6 @@ msgstr "പിഐഎം"
 
 #: menu/desktop/kf5-utilities-xutils.directory:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Activity Manager"
 msgctxt "Name"
 msgid "X-Utilities"
 msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
@@ -1324,8 +1244,6 @@ msgstr "മള്‍ട്ടിമീഡിയ സംവിധാനം"
 
 #: phonon/platform_kde/phonon.notifyrc:72
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Applications"
 msgctxt "Name"
 msgid "Application"
 msgstr "പ്രയോഗങ്ങള്‍"
@@ -1352,8 +1270,6 @@ msgstr ""
 
 #: plasma-windowed/plasma-windowed.desktop:2
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Plasma Desktop Shell"
 msgctxt "Name"
 msgid "Plasma Windowed"
 msgstr "പ്ലാസ്മ പണിയിട ആവരണം"
@@ -1365,16 +1281,12 @@ msgstr ""
 
 #: runners/activities/plasma-runner-activityrunner.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Activity Manager"
 msgctxt "Name"
 msgid "Activities"
 msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
 
 #: runners/activities/plasma-runner-activityrunner.desktop:60
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Switch between virtual desktops"
 msgctxt "Comment"
 msgid "List and switch between desktop activities"
 msgstr "വര്‍ച്ചുവല്‍ പണിയിടങ്ങള്‍ തമ്മില്‍ മാറുക"
@@ -1391,8 +1303,6 @@ msgstr ""
 
 #: runners/baloo/plasma-runner-baloosearch.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop Sessions"
 msgctxt "Name"
 msgid "Desktop Search"
 msgstr "പണിയിടത്തിന്റെ പ്രവര്‍ത്തനവേളകള്‍"
@@ -1449,8 +1359,6 @@ msgstr "ഫയല്‍, യുആര്‍എല്‍ തുറക്കുന
 
 #: runners/places/plasma-runner-places.desktop:80
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Open Devices and Folder Bookmarks"
 msgctxt "Comment"
 msgid "Open devices and folder bookmarks"
 msgstr "ഓര്‍മ്മക്കുറിപ്പിലുള്ള അറകളും ഉപകരണങ്ങളും തുറക്കുക"
@@ -1462,8 +1370,6 @@ msgstr "അടിസ്ഥാനപരമായ പവര്‍ മാനേജ�
 
 #: runners/powerdevil/plasma-runner-powerdevil.desktop:75
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "PowerDevil"
 msgctxt "Name"
 msgid "Power"
 msgstr "പവര്‍ഡെവിള്‍"
@@ -1520,16 +1426,12 @@ msgstr "വെബിലെ കുറക്കുവഴികള്‍"
 
 #: runners/webshortcuts/plasma-runner-webshortcuts.desktop:72
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Allows user to use Konqueror's Web shortcuts"
 msgctxt "Comment"
 msgid "Allows user to use Konqueror's web shortcuts"
 msgstr "കോണ്‍ക്വററിനുള്ള വെബ് കുറുക്കുവഴികള്‍ ഉപയോഗിക്കുവാന്‍ അനുവദിക്കുന്നു"
 
 #: runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Window List"
 msgctxt "Name"
 msgid "Windowed widgets"
 msgstr "ജാലകങ്ങളുടെ പട്ടിക"
@@ -1556,8 +1458,6 @@ msgstr ""
 
 #: shell/org.kde.plasmashell.desktop:4
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Plasma Desktop Shell"
 msgctxt "Name"
 msgid "Plasma Desktop Workspace"
 msgstr "പ്ലാസ്മ പണിയിട ആവരണം"
@@ -1569,8 +1469,6 @@ msgstr ""
 
 #: shell/packageplugins/lookandfeel/plasma-packagestructure-lookandfeel.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Look & Feel"
 msgctxt "Name"
 msgid "Look and Feel"
 msgstr "ചമയം"
@@ -1602,8 +1500,6 @@ msgstr "പുറത്തെടുക്കുവാനുള്ള ബട്�
 
 #: soliduiserver/soliduiserver.desktop:7
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Hardware"
 msgctxt "Name"
 msgid "Hardware Detection"
 msgstr "ഹാര്‍ഡ്‌വെയര്‍"
@@ -1615,8 +1511,6 @@ msgstr ""
 
 #: statusnotifierwatcher/statusnotifierwatcher.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "KDED Status Notifier watcher"
 msgctxt "Name"
 msgid "Status Notifier Manager"
 msgstr "കെഡിഇഡി അവസ്ഥ അറിയിപ്പുകളുടെ നിരീക്ഷകന്‍"
@@ -1740,24 +1634,18 @@ msgstr "വിന്‍ഡോസ് എക്സ്‌പി ശൈലി എഞ
 
 #: wallpapers/color/metadata.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Color"
 msgctxt "Name"
 msgid "Plain Color"
 msgstr "നിറം"
 
 #: wallpapers/color/metadata.desktop:52
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Color"
 msgctxt "Comment"
 msgid "Plain color wallpaper"
 msgstr "നിറം"
 
 #: wallpapers/color/plasma-wallpaper-color.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Colors"
 msgctxt "Name"
 msgid "Color"
 msgstr "നിറങ്ങള്‍"
@@ -1784,8 +1672,6 @@ msgstr "മാറുന്ന ചിത്രങ്ങള്‍"
 
 #: wallpapers/image/slideshowpackage/metadata.desktop:79
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Slideshow"
 msgctxt "Comment"
 msgid "Slideshow wallpaper"
 msgstr "മാറുന്ന ചിത്രങ്ങള്‍"
@@ -1925,8 +1811,6 @@ msgstr ""
 #~ msgstr "സഹജമായ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasma Desktop Shell"
 #~ msgctxt "Comment"
 #~ msgid "Default Plasma Desktop theme"
 #~ msgstr "പ്ലാസ്മ പണിയിട ആവരണം"
@@ -1940,36 +1824,26 @@ msgstr ""
 #~ msgstr "കെഡിബിജി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "gdb"
 #~ msgctxt "Name"
 #~ msgid "dbx"
 #~ msgstr "ജിഡിബി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "kdbg"
 #~ msgctxt "Name"
 #~ msgid "kdbgwin"
 #~ msgstr "കെഡിബിജി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Free Space Notifier"
 #~ msgctxt "Name"
 #~ msgid "Remote URL Change Notifier"
 #~ msgstr "ലഭ്യമായ സ്ഥലം അറിയിക്കുന്നതിനുള്ള സംവിധാനം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Passive visual notifications for the user."
 #~ msgctxt "Comment"
 #~ msgid "Provides change notification for network folders"
 #~ msgstr "ഉപയോക്താവിനുള്ള നടപടി വേണ്ടാത്ത ദൃശ്യ സൂചനകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Applications"
 #~ msgctxt "Name"
 #~ msgid "Application Menu"
 #~ msgstr "പ്രയോഗങ്ങള്‍"
@@ -1983,50 +1857,36 @@ msgstr ""
 #~ msgstr "ലഭ്യമായ ജാലകങ്ങള്‍ക്കുള്ള വിവരണങ്ങളും നേതൃത്വ സേവനങ്ങളും. "
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "System Tray"
 #~ msgctxt "Name"
 #~ msgid "System tray"
 #~ msgstr "സിസ്റ്റം ട്രേ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "NOAA's National Weather Service"
 #~ msgctxt "Name"
 #~ msgid "Debian Weather Service"
 #~ msgstr "നോആ-യുടെ ദേശീയ കാലവസ്ഥാ സേവനം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Password Caching"
 #~ msgctxt "Name"
 #~ msgid "Password dialog"
 #~ msgstr "അടയാളവാക്കു് ഓര്‍ത്തുവയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen locked"
 #~ msgctxt "Name"
 #~ msgid "Screen Locking"
 #~ msgstr "സ്ക്രീന്‍ പൂട്ടി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen locked"
 #~ msgctxt "Comment"
 #~ msgid "Screen Locking Themes"
 #~ msgstr "സ്ക്രീന്‍ പൂട്ടി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen locked"
 #~ msgctxt "Comment"
 #~ msgid "Screen Locking Timeouts"
 #~ msgstr "സ്ക്രീന്‍ പൂട്ടി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen Saver"
 #~ msgctxt "Comment"
 #~ msgid "Screen Saver"
 #~ msgstr "സ്ക്രീന്‍ സേവര്‍"
@@ -2056,8 +1916,6 @@ msgstr ""
 #~ msgstr "നിങ്ങളുടെ പ്രിയപ്പെട്ട പ്രയോഗങ്ങള്‍ ആരംഭിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A CPU usage monitor"
 #~ msgctxt "Name"
 #~ msgid "CPU Monitor"
 #~ msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
@@ -2067,8 +1925,6 @@ msgstr ""
 #~ msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Hardware"
 #~ msgctxt "Name"
 #~ msgid "Hardware Info"
 #~ msgstr "ഹാര്‍ഡ്‌വെയര്‍"
@@ -2090,36 +1946,26 @@ msgstr ""
 #~ msgstr "കെഡിഇഡി ആഗോള കുറക്കുവഴികള്‍ സെര്‍വര്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasma Desktop Shell"
 #~ msgctxt "Comment"
 #~ msgid "Plasma Workspace"
 #~ msgstr "പ്ലാസ്മ പണിയിട ആവരണം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "The screen has been locked"
 #~ msgctxt "Comment"
 #~ msgid "The trash has been emptied"
 #~ msgstr "സ്ക്രീന്‍ പൂട്ടിയിരിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Notifications"
 #~ msgctxt "Name"
 #~ msgid "Notification"
 #~ msgstr "അറിയിപ്പുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Lock/Logout"
 #~ msgctxt "Name"
 #~ msgid "Logout"
 #~ msgstr "പൂട്ടുക/പുറത്തിറങ്ങുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Warning"
 #~ msgctxt "Name"
 #~ msgid "Warning Message"
 #~ msgstr "മുന്നറിയിപ്പു്"
@@ -2161,22 +2007,16 @@ msgstr ""
 #~ msgstr "മുഖചിത്രം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Splash Screen"
 #~ msgctxt "Comment"
 #~ msgid "Splash Screen Theme"
 #~ msgstr "മുഖചിത്രം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "System Tray"
 #~ msgctxt "Name"
 #~ msgid "System Tray Plasmoid Test"
 #~ msgstr "സിസ്റ്റം ട്രേ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Session Manager"
 #~ msgctxt "Name"
 #~ msgid "Session Management"
 #~ msgstr "സെഷന്‍ പാലകന്‍"
@@ -2190,8 +2030,6 @@ msgstr ""
 #~ msgstr "മുഖചിത്രത്തിനുള്ള ആശയങ്ങളുടെ കാര്യസ്ഥന്‍"
 
 #, fuzzy
-#~| msgctxt "Name|plasma runner"
-#~| msgid "Web Shortcuts"
 #~ msgctxt "Comment"
 #~ msgid "Global Keyboard Shortcuts"
 #~ msgstr "വെബിലെ കുറക്കുവഴികള്‍"
@@ -2201,8 +2039,6 @@ msgstr ""
 #~ msgstr "കെആഗൊളആക്സല്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Simple application launcher"
 #~ msgctxt "Comment"
 #~ msgid "The application name"
 #~ msgstr "ലളിതമായ പ്രയോഗവിക്ഷേപിണി"

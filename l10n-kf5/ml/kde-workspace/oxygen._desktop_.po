@@ -34,8 +34,6 @@ msgstr ""
 
 #: cursors/Oxygen_Black/index.theme:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Black"
 msgstr "ഓക്സിജന്‍"
@@ -49,32 +47,24 @@ msgstr ""
 
 #: cursors/Oxygen_Blue/index.theme:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Blue"
 msgstr "ഓക്സിജന്‍"
 
 #: cursors/Oxygen_White/index.theme:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen White"
 msgstr "ഓക്സിജന്‍"
 
 #: cursors/Oxygen_Yellow/index.theme:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Yellow"
 msgstr "ഓക്സിജന്‍"
 
 #: cursors/Oxygen_Zion/index.theme:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Zion"
 msgstr "ഓക്സിജന്‍"
@@ -96,8 +86,6 @@ msgstr ""
 
 #: kstyle/config/oxygenstyleconfig.desktop:12
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Oxygen"
 msgctxt "Name"
 msgid "Oxygen Widget Style"
 msgstr "ഓക്സിജന്‍"

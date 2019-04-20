@@ -34,22 +34,16 @@ msgid "KHangMan"
 msgstr "കെ-ഹാങ്ങ്മാന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KHangMan"
 #~ msgctxt "GenericName"
 #~ msgid "KHangMan Launcher"
 #~ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KHangMan"
 #~ msgctxt "Name"
 #~ msgid "KHangMan Active"
 #~ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KHangMan"
 #~ msgctxt "GenericName"
 #~ msgid "KHangMan Active"
 #~ msgstr "കെ-ഹാങ്ങ്മാന്‍"
@@ -59,8 +53,6 @@ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 #~ msgstr "ബ്ലിങ്കന്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A memory enhancement game"
 #~ msgctxt "GenericName"
 #~ msgid "Memory Enhancement Game"
 #~ msgstr "ഒരു ഓര്‍മ്മ വര്‍ദ്ധിപ്പിക്കല്‍ കളി"
@@ -70,15 +62,11 @@ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 #~ msgstr "ഒരു ഓര്‍മ്മ വര്‍ദ്ധിപ്പിക്കല്‍ കളി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KmPlot"
 #~ msgctxt "Name"
 #~ msgid "Plot2d"
 #~ msgstr "കെഎംപ്ലോട്ട്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KmPlot"
 #~ msgctxt "Name"
 #~ msgid "Plot3d"
 #~ msgstr "കെഎംപ്ലോട്ട്"
@@ -88,43 +76,31 @@ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 #~ msgstr "കെ-ആള്‍ജിബ്ര"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KAlgebra"
 #~ msgctxt "Name"
 #~ msgid "KAlgebra Mobile"
 #~ msgstr "കെ-ആള്‍ജിബ്ര"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Graph Calculator"
 #~ msgctxt "GenericName"
 #~ msgid "Pocket Graph Calculator"
 #~ msgstr "ഗ്രാഫ് ഗണനി"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Math Expression Solver and Plotter"
 #~ msgctxt "Comment"
 #~ msgid "Pocket Math Expression Solver and Plotter"
 #~ msgstr "ഗണിതസൂത്ര പരിഹാരകനും പ്ലോട്ടറും"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KAlgebra"
 #~ msgctxt "Name"
 #~ msgid "KAlgebra Script"
 #~ msgstr "കെ-ആള്‍ജിബ്ര"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KGeography"
 #~ msgctxt "Name"
 #~ msgid "Graph 2D"
 #~ msgstr "കെ-ജ്യോഗ്രഫി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Marble"
 #~ msgctxt "Name"
 #~ msgid "Variables"
 #~ msgstr "മാര്‍ബിള്‍"
@@ -150,22 +126,16 @@ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 #~ msgstr "OpenGL അടിസ്ഥാനമാക്കി തന്മാത്രകള്‍ക്കുള്ള ഒരു ത്രിമാന റെണ്‍ഡറര്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A Calculator"
 #~ msgctxt "Name"
 #~ msgid "Kalzium gas Calculator"
 #~ msgstr "ഗണനി"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A Calculator"
 #~ msgctxt "Comment"
 #~ msgid "Kalzium gas Calculator"
 #~ msgstr "ഗണനി"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A Calculator"
 #~ msgctxt "Name"
 #~ msgid "Molar mass calculator"
 #~ msgstr "ഗണനി"
@@ -367,8 +337,6 @@ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 #~ msgstr "ലോകഘടികാരം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasmoid to show you the time in different parts of the world"
 #~ msgctxt "Comment"
 #~ msgid "Shows the time in different parts of the world"
 #~ msgstr "ലോകത്തിലെ വിവിധഭാഗങ്ങളിലെ സമയം കാണിക്കുവാനുള്ള പ്ലാസ്മോയിഡ്"
@@ -390,8 +358,6 @@ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 #~ msgstr "വാക്പട്ടിക പഠനസഹായി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KGeography"
 #~ msgctxt "Name"
 #~ msgid "Graph"
 #~ msgstr "കെ-ജ്യോഗ്രഫി"
@@ -401,8 +367,6 @@ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 #~ msgstr "സ്റ്റെപ്പ്"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Interactive physical simulator"
 #~ msgctxt "GenericName"
 #~ msgid "Interactive Physical Simulator"
 #~ msgstr "ഇന്ററാക്ടീവ് ഫിസിക്കല്‍ സിമുലേറ്റര്‍"
@@ -420,22 +384,16 @@ msgstr "കെ-ഹാങ്ങ്മാന്‍"
 #~ msgstr "ശതമാനങ്ങള്‍ അഭ്യസിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Parley Data Engine"
 #~ msgctxt "Name"
 #~ msgid "Parley Practice"
 #~ msgstr "പാര്‍ലി ഡാറ്റ എന്‍ജിന്‍"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Vocabulary Trainer"
 #~ msgctxt "GenericName"
 #~ msgid "Vocabulary Practice"
 #~ msgstr "വാക്പട്ടിക പഠനസഹായി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Parley Data Engine"
 #~ msgctxt "Name"
 #~ msgid "Kalzium Data Engine"
 #~ msgstr "പാര്‍ലി ഡാറ്റ എന്‍ജിന്‍"

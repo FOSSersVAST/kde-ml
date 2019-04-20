@@ -46,7 +46,6 @@ msgstr ""
 
 #: package/contents/ui/main.qml:30
 #, fuzzy, kde-format
-#| msgid "Desktop %1"
 msgid "Virtual Desktops"
 msgstr "പണിയിടം %1"
 
@@ -82,7 +81,6 @@ msgstr ""
 
 #: package/contents/ui/main.qml:143
 #, fuzzy, kde-format
-#| msgid "Desktop %1"
 msgid "New Desktop"
 msgstr "പണിയിടം %1"
 
@@ -143,14 +141,10 @@ msgstr ""
 #~ "അവ ലേബല്‍ ചെയ്യുന്നതിനും ഈ ഘടകം സഹായിക്കുന്നു."
 
 #, fuzzy
-#~| msgid "Desktop %1"
 #~ msgid "Switch to Desktop %1"
 #~ msgstr "പണിയിടം %1"
 
 #, fuzzy
-#~| msgid ""
-#~| "Here you can set how many virtual desktops you want on your KDE desktop. "
-#~| "Move the slider to change the value."
 #~ msgid ""
 #~ "Here you can set how many virtual desktops you want on your KDE desktop."
 #~ msgstr ""
@@ -158,17 +152,14 @@ msgstr ""
 #~ "ക്രമീകരിക്കാം. മൂല്യം മാറ്റുന്നതിനായി സ്ലൈഡര്‍ നീക്കുക."
 
 #, fuzzy
-#~| msgid "N&umber of desktops: "
 #~ msgid "&Number of desktops:"
 #~ msgstr "&എത്ര പണിയിടങ്ങള്‍: "
 
 #, fuzzy
-#~| msgid "N&umber of desktops: "
 #~ msgid "N&umber of rows:"
 #~ msgstr "&എത്ര പണിയിടങ്ങള്‍: "
 
 #, fuzzy
-#~| msgid "Desktop &Names"
 #~ msgid "Desktop Names"
 #~ msgstr "പണിയിടത്തിനുള്ള &പേരുകള്‍"
 

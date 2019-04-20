@@ -36,7 +36,6 @@ msgstr ""
 
 #: src/core/profiledataaccess.cpp:628
 #, fuzzy, kde-format
-#| msgid "&Start New Session"
 msgid "Custom Lessons"
 msgstr "പുതിയ സെഷന്‍ &ആരംഭിക്കുക"
 
@@ -52,37 +51,31 @@ msgstr ""
 
 #: src/core/userdataaccess.cpp:338
 #, fuzzy, kde-format
-#| msgid "&Keyboard Layouts"
 msgid "No keyboard layout with ID %1"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
 #: src/editor/charactersviewdelegate.cpp:84 src/models/charactersmodel.cpp:316
 #, fuzzy, kde-format
-#| msgid "Hidden key"
 msgid "Hidden"
 msgstr "അദൃശ്യമായ കീ"
 
 #: src/editor/charactersviewdelegate.cpp:85 src/models/charactersmodel.cpp:308
 #, fuzzy, kde-format
-#| msgid "Top left:"
 msgid "Top left"
 msgstr "മുകളില്‍ ഇടതു്:"
 
 #: src/editor/charactersviewdelegate.cpp:86 src/models/charactersmodel.cpp:310
 #, fuzzy, kde-format
-#| msgid "Top right:"
 msgid "Top right"
 msgstr "മുകളില്‍ വലതു്:"
 
 #: src/editor/charactersviewdelegate.cpp:87 src/models/charactersmodel.cpp:312
 #, fuzzy, kde-format
-#| msgid "Bottom left:"
 msgid "Bottom left"
 msgstr "താഴെ ഇടതു്:"
 
 #: src/editor/charactersviewdelegate.cpp:88 src/models/charactersmodel.cpp:314
 #, fuzzy, kde-format
-#| msgid "Bottom right:"
 msgid "Bottom right"
 msgstr "താഴെ വലതു്:"
 
@@ -100,7 +93,6 @@ msgstr ""
 #: src/editor/keyboardlayouteditor.cpp:99 src/editor/resourceeditor.cpp:199
 #: src/editor/resourceeditor.cpp:287
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Error while opening keyboard layout"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
@@ -116,7 +108,6 @@ msgstr ""
 
 #: src/editor/lessontexteditor.cpp:74
 #, fuzzy, kde-format
-#| msgid "Character"
 msgid "%1 Character"
 msgid_plural "%1 Characters"
 msgstr[0] "അക്ഷരം"
@@ -149,13 +140,11 @@ msgstr ""
 
 #: src/editor/newresourceassistant.cpp:46
 #, fuzzy, kde-format
-#| msgid "New color scheme"
 msgid "New course"
 msgstr "പുതിയ നിറക്കൂട്ടു്"
 
 #: src/editor/newresourceassistant.cpp:50
 #, fuzzy, kde-format
-#| msgid "&Keyboard Layouts"
 msgid "New keyboard layout"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
@@ -171,7 +160,6 @@ msgstr ""
 #: src/qml/homescreen/ProfileDetailsItem.qml:215
 #: src/ui/keyboardlayouteditor.ui:70
 #, fuzzy, kde-format
-#| msgid "Delete Key"
 msgid "Delete"
 msgstr "കീ വെട്ടിമാറ്റുക"
 
@@ -187,31 +175,26 @@ msgstr ""
 
 #: src/editor/resourceeditor.cpp:74
 #, fuzzy, kde-format
-#| msgid "Keyboard Layout Editor"
 msgid "Course and Keyboard Layout Editor"
 msgstr "കീബോര്‍ഡ് മാതൃകാ എഡിറ്റര്‍"
 
 #: src/editor/resourceeditor.cpp:76
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Create a new course or keyboard layout"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
 #: src/editor/resourceeditor.cpp:78
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Delete the current selected course or keyboard layout"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
 #: src/editor/resourceeditor.cpp:88
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Import a course or keyboard layout from a file"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
 #: src/editor/resourceeditor.cpp:90
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Export the current selected course or keyboard layout to a file"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
@@ -222,7 +205,6 @@ msgstr ""
 
 #: src/editor/resourceeditor.cpp:204
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Error while deleting keyboard layout"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
@@ -244,7 +226,6 @@ msgstr ""
 
 #: src/editor/resourceeditor.cpp:299
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Error while saving keyboard layout"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
@@ -255,7 +236,6 @@ msgstr ""
 
 #: src/editor/resourceeditor.cpp:390
 #, fuzzy, kde-format
-#| msgid "&Keyboard Layouts"
 msgid "Keyboard layout <b>%1</b> deleted"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
@@ -266,7 +246,6 @@ msgstr ""
 
 #: src/editor/resourceeditor.cpp:458
 #, fuzzy, kde-format
-#| msgid "Keyboard Layout Editor"
 msgid "Error while saving keyboard layout to disk."
 msgstr "കീബോര്‍ഡ് മാതൃകാ എഡിറ്റര്‍"
 
@@ -294,7 +273,6 @@ msgstr ""
 
 #: src/editor/resourceeditor.cpp:596 src/editor/resourceeditor.cpp:611
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Import as new keyboard layout"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
@@ -322,7 +300,6 @@ msgstr ""
 
 #: src/editor/resourcetemplatewidget.cpp:59
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Use another keyboard layout as template"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
@@ -333,13 +310,11 @@ msgstr ""
 
 #: src/editor/resourcetypeswidget.cpp:36
 #, fuzzy, kde-format
-#| msgid "&Keyboard Layouts"
 msgid "Keyboard layout"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
 #: src/keyboardlayoutmenu.cpp:31
 #, fuzzy, kde-format
-#| msgid "Save Keyboard Layout"
 msgid "Choose Keyboard Layout"
 msgstr "കീബോര്‍ഡ് മാതൃക സൂക്ഷിക്കുക"
 
@@ -407,50 +382,41 @@ msgstr ""
 
 #: src/ktouchcontext.cpp:135
 #, fuzzy, kde-format
-#| msgid "T&raining"
 msgid "Training"
 msgstr "&പരിശീലനം"
 
 #: src/ktouchcontext.cpp:135
 #, fuzzy, kde-format
-#| msgid "Training Statistics"
 msgid "Training Settings"
 msgstr "പരിശീലന സ്ഥിതിവിവരം"
 
 #: src/ktouchcontext.cpp:136
 #, fuzzy, kde-format
-#| msgid "Color Settings"
 msgid "Colors"
 msgstr "വര്‍ണ്ണ സജ്ജീകരണങ്ങള്‍"
 
 #: src/ktouchcontext.cpp:136
 #, fuzzy, kde-format
-#| msgid "Sound Settings"
 msgid "Color Settings"
 msgstr "ശബ്ദ സജ്ജീകരണങ്ങള്‍"
 
 #: src/ktouchcontext.cpp:149
 #, fuzzy, kde-format
-#| msgctxt "Keyboard Layout Name"
-#| msgid "Swedish Keyboard"
 msgid "Configure Keyboard"
 msgstr "സ്വീഡിഷ് കീബോര്‍ഡ്"
 
 #: src/ktouchcontext.cpp:166
 #, fuzzy, kde-format
-#| msgid "Keyboard Layout Editor"
 msgid "Course and Keyboard Layout Editor..."
 msgstr "കീബോര്‍ഡ് മാതൃകാ എഡിറ്റര്‍"
 
 #: src/ktouchcontext.cpp:178
 #, fuzzy, kde-format
-#| msgid "Open Keyboard..."
 msgid "Configure Keyboard..."
 msgstr "കീബോര്‍ഡ് തുറക്കുക..."
 
 #: src/main.cpp:34
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Typewriting Trainer"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
@@ -461,7 +427,6 @@ msgstr ""
 
 #: src/main.cpp:39
 #, fuzzy, kde-format
-#| msgid "Copyright (C) 2000-2007 by Håvard Frøiland and Andreas Nicolai"
 msgid ""
 "Copyright (C) 2011-2015 by Sebastian Gottfried\n"
 "Copyright (C) 2000-2007 by Håvard Frøiland and Andreas Nicolai"
@@ -474,7 +439,6 @@ msgstr ""
 
 #: src/main.cpp:46
 #, fuzzy, kde-format
-#| msgid "Current maintainer and programmer"
 msgid "Current maintainer"
 msgstr "നിലവിലുള്ള പാലകനും പ്രോഗ്രാമറും"
 
@@ -485,7 +449,6 @@ msgstr "ആന്‍ഡ്രിയാസ് നിക്കോളായി"
 
 #: src/main.cpp:47
 #, fuzzy, kde-format
-#| msgid "Current maintainer and programmer"
 msgid "Former maintainer and programmer"
 msgstr "നിലവിലുള്ള പാലകനും പ്രോഗ്രാമറും"
 
@@ -496,7 +459,6 @@ msgstr "ഹാവര്‍ഡ് ഫ്രോയിലാന്‍ഡ്"
 
 #: src/main.cpp:48
 #, fuzzy, kde-format
-#| msgid "Original author, project admin"
 msgid "Original author"
 msgstr "യഥാര്‍ത്ഥ രചയിതാവു്, പ്രൊജക്ട് അഡ്മിന്‍"
 
@@ -527,7 +489,6 @@ msgstr "പരിശീലനത്തിനുള്ളതും കീബോ�
 
 #: src/main.cpp:69
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Launch the course and keyboard layout editor"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
@@ -543,13 +504,11 @@ msgstr ""
 
 #: src/models/charactersmodel.cpp:210
 #, fuzzy, kde-format
-#| msgid "Character"
 msgid "Character"
 msgstr "അക്ഷരം"
 
 #: src/models/charactersmodel.cpp:212
 #, fuzzy, kde-format
-#| msgid "Modifier/other keys:"
 msgid "Modifier ID"
 msgstr "മോഡിഫയര്‍/മറ്റ് കീകള്‍:"
 
@@ -565,13 +524,11 @@ msgstr ""
 
 #: src/models/lessonmodel.cpp:84
 #, fuzzy, kde-format
-#| msgid "new characters"
 msgid "<p>New characters: %1</p><p>%2</p>"
 msgstr "പുതിയ അക്ഷരങ്ങള്‍"
 
 #: src/models/lessonmodel.cpp:138 src/models/resourcemodel.cpp:110
 #, fuzzy, kde-format
-#| msgid "Title:"
 msgid "Title"
 msgstr "തലക്കെട്ട്:"
 
@@ -582,7 +539,6 @@ msgstr ""
 
 #: src/models/resourcemodel.cpp:225
 #, fuzzy, kde-format
-#| msgid "&Keyboard Layouts"
 msgid "Keyboard Layouts"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
@@ -600,13 +556,11 @@ msgstr "കൃത്യത"
 #: src/qml/common/LearningProgressChart.qml:60
 #: src/qml/meters/CharactersPerMinuteMeter.qml:31
 #, fuzzy, kde-format
-#| msgid "Characters per minute"
 msgid "Characters per Minute"
 msgstr "ഒരു മിനിറ്റില്‍ എത്ര അക്ഷരങ്ങള്‍"
 
 #: src/qml/homescreen/CustomLessonSelector.qml:154
 #, fuzzy, kde-format
-#| msgid "Create new keyboard"
 msgid "Create New Custom Lesson"
 msgstr "പുതിയ കീബോര്‍ഡ് ഉണ്ടാക്കുക"
 
@@ -628,14 +582,12 @@ msgstr ""
 
 #: src/qml/homescreen/InitialProfileForm.qml:38
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Welcome to Typewriting Trainer"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
 #: src/qml/homescreen/InitialProfileForm.qml:51
 #: src/qml/homescreen/LessonSelectorBase.qml:74
 #, fuzzy, kde-format
-#| msgid "T&raining"
 msgid "Start Training"
 msgstr "&പരിശീലനം"
 
@@ -651,7 +603,6 @@ msgstr ""
 
 #: src/qml/homescreen/ProfileDetailsItem.qml:130
 #, fuzzy, kde-format
-#| msgid "Training Options"
 msgid "Total training time:"
 msgstr "പരിശീലനത്തിനുള്ള ഉപാധികള്‍"
 
@@ -672,7 +623,6 @@ msgstr ""
 
 #: src/qml/homescreen/ProfileDetailsItem.qml:219
 #, fuzzy, kde-format
-#| msgid "&Cancel"
 msgid "Cancel"
 msgstr "&റദ്ദാക്കുക"
 
@@ -713,7 +663,6 @@ msgstr ""
 
 #: src/qml/homescreen/ProfileSelector.qml:69
 #, fuzzy, kde-format
-#| msgid "Create new keyboard"
 msgid "Create New Profile"
 msgstr "പുതിയ കീബോര്‍ഡ് ഉണ്ടാക്കുക"
 
@@ -730,7 +679,6 @@ msgstr ""
 #: src/qml/scorescreen/ScoreScreen.qml:135
 #: src/qml/scorescreen/ScoreScreen.qml:467
 #, fuzzy, kde-format
-#| msgid "Monitor Progress"
 msgid "Progress"
 msgstr "പുരോഗതി നിരീക്ഷിക്കുക"
 
@@ -764,19 +712,16 @@ msgstr ""
 
 #: src/qml/scorescreen/ScoreScreen.qml:207
 #, fuzzy, kde-format
-#| msgid "Accuracy"
 msgid "Accuracy:"
 msgstr "കൃത്യത"
 
 #: src/qml/scorescreen/ScoreScreen.qml:211
 #, fuzzy, kde-format
-#| msgid "Characters per minute:"
 msgid "Characters per Minute:"
 msgstr "ഒരു മിനിറ്റില്‍ എത്ര അക്ഷരങ്ങള്‍:"
 
 #: src/qml/scorescreen/ScoreScreen.qml:228
 #, fuzzy, kde-format
-#| msgid "Character"
 msgid "Character:"
 msgstr "അക്ഷരം"
 
@@ -793,7 +738,6 @@ msgstr ""
 
 #: src/qml/scorescreen/ScoreScreen.qml:273
 #, fuzzy, kde-format
-#| msgid "Remove"
 msgid "Repeat Lesson"
 msgstr "നീക്കം ചെയ്യുക"
 
@@ -836,25 +780,21 @@ msgstr ""
 
 #: src/qml/trainingscreen/KeyboardUnavailableNotice.qml:49
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "No visualization available for your keyboard layout."
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
 #: src/qml/trainingscreen/TrainingScreenMenuOverlay.qml:122
 #, fuzzy, kde-format
-#| msgid "T&raining"
 msgid "Resume Training"
 msgstr "&പരിശീലനം"
 
 #: src/qml/trainingscreen/TrainingScreenMenuOverlay.qml:133
 #, fuzzy, kde-format
-#| msgid "&Start New Session"
 msgid "Restart Lesson"
 msgstr "പുതിയ സെഷന്‍ &ആരംഭിക്കുക"
 
 #: src/qml/trainingscreen/TrainingScreenToolbar.qml:37
 #, fuzzy, kde-format
-#| msgid "Training session! The time is running..."
 msgid "Training session started. Time begins running with the first keystroke."
 msgstr "പരിശീലന സെഷന്‍! സമയം കടന്നുപോകുന്നു..."
 
@@ -880,7 +820,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, fingerLabel4)
 #: src/ui/colorsconfigwidget.ui:72 src/ui/colorsconfigwidget.ui:218
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Index finger:"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
@@ -888,7 +827,6 @@ msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 #. i18n: ectx: property (text), widget (QLabel, fingerLabel5)
 #: src/ui/colorsconfigwidget.ui:88 src/ui/colorsconfigwidget.ui:234
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Middle finger:"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
@@ -896,7 +834,6 @@ msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 #. i18n: ectx: property (text), widget (QLabel, fingerLabel6)
 #: src/ui/colorsconfigwidget.ui:104 src/ui/colorsconfigwidget.ui:250
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Ring finger:"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
@@ -904,7 +841,6 @@ msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 #. i18n: ectx: property (text), widget (QLabel, fingerLabel7)
 #: src/ui/colorsconfigwidget.ui:120 src/ui/colorsconfigwidget.ui:266
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Little finger:"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
@@ -928,7 +864,6 @@ msgstr "തലക്കെട്ട്:"
 #. i18n: ectx: property (text), widget (QLabel, m_keyboardLayoutLabel)
 #: src/ui/courseeditor.ui:53 src/ui/newcoursewidget.ui:38
 #, fuzzy, kde-format
-#| msgid "&Keyboard Layouts"
 msgid "Keyboard layout:"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
@@ -947,35 +882,30 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_addLessonButton)
 #: src/ui/courseeditor.ui:182
 #, fuzzy, kde-format
-#| msgid "Remove"
 msgid "Add new lesson"
 msgstr "നീക്കം ചെയ്യുക"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_removeLessonButton)
 #: src/ui/courseeditor.ui:197 src/undocommands/coursecommands.cpp:178
 #, fuzzy, kde-format
-#| msgid "Remove"
 msgid "Remove lesson"
 msgstr "നീക്കം ചെയ്യുക"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_moveLessonUpButton)
 #: src/ui/courseeditor.ui:228
 #, fuzzy, kde-format
-#| msgid "Remove"
 msgid "Move lesson up"
 msgstr "നീക്കം ചെയ്യുക"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_moveLessonDownButton)
 #: src/ui/courseeditor.ui:243
 #, fuzzy, kde-format
-#| msgid "Remove"
 msgid "Move lesson down"
 msgstr "നീക്കം ചെയ്യുക"
 
 #. i18n: ectx: property (text), widget (QLabel, m_newCharactersLabel)
 #: src/ui/courseeditor.ui:320
 #, fuzzy, kde-format
-#| msgid "new characters"
 msgid "New characters:"
 msgstr "പുതിയ അക്ഷരങ്ങള്‍"
 
@@ -988,35 +918,30 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_newKeyToolButton)
 #: src/ui/keyboardlayouteditor.ui:22
 #, fuzzy, kde-format
-#| msgid "Create new keyboard"
 msgid "Create new normal key"
 msgstr "പുതിയ കീബോര്‍ഡ് ഉണ്ടാക്കുക"
 
 #. i18n: ectx: property (text), widget (QToolButton, m_newKeyToolButton)
 #: src/ui/keyboardlayouteditor.ui:25
 #, fuzzy, kde-format
-#| msgid "Normal key"
 msgid "Normal Key"
 msgstr "സാധാരണ കീ"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_newSpecialKeyToolButton)
 #: src/ui/keyboardlayouteditor.ui:43
 #, fuzzy, kde-format
-#| msgid "Create new keyboard"
 msgid "Create new special key"
 msgstr "പുതിയ കീബോര്‍ഡ് ഉണ്ടാക്കുക"
 
 #. i18n: ectx: property (text), widget (QToolButton, m_newSpecialKeyToolButton)
 #: src/ui/keyboardlayouteditor.ui:46
 #, fuzzy, kde-format
-#| msgid "Create new keyboard"
 msgid "Special Key"
 msgstr "പുതിയ കീബോര്‍ഡ് ഉണ്ടാക്കുക"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_deleteKeyToolButton)
 #: src/ui/keyboardlayouteditor.ui:67
 #, fuzzy, kde-format
-#| msgid "Delete Key"
 msgid "Delete selected key"
 msgstr "കീ വെട്ടിമാറ്റുക"
 
@@ -1029,7 +954,6 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, m_keyboardGroupBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:36
 #, fuzzy, kde-format
-#| msgid "Save Keyboard"
 msgid "Keyboard"
 msgstr "കീബോര്‍ഡ് സൂക്ഷിക്കുക"
 
@@ -1086,7 +1010,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, m_keyFingerLabel)
 #: src/ui/keyboardlayoutpropertieswidget.ui:379
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Finger:"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
@@ -1099,7 +1022,6 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, m_keyFingerComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:401
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Left ring finger"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
@@ -1112,35 +1034,30 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, m_keyFingerComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:411
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Left index finger"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, m_keyFingerComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:416
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Right index finger"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, m_keyFingerComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:421
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Right middle finger"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, m_keyFingerComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:426
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Right ring finger"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, m_keyFingerComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:431
 #, fuzzy, kde-format
-#| msgid "Typing line"
 msgid "Right little finger"
 msgstr "ടൈപ്പ് ചെയ്യാനുള്ള വരി"
 
@@ -1153,21 +1070,18 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_4)
 #: src/ui/keyboardlayoutpropertieswidget.ui:465
 #, fuzzy, kde-format
-#| msgid "Character"
 msgid "Characters"
 msgstr "അക്ഷരം"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_addCharacterButton)
 #: src/ui/keyboardlayoutpropertieswidget.ui:501
 #, fuzzy, kde-format
-#| msgid "new characters"
 msgid "Add new character"
 msgstr "പുതിയ അക്ഷരങ്ങള്‍"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_removeCharacterButton)
 #: src/ui/keyboardlayoutpropertieswidget.ui:513
 #, fuzzy, kde-format
-#| msgid "Key characters"
 msgid "Remove character"
 msgstr "കീയിലുള്ള അക്ഷരങ്ങള്‍"
 
@@ -1222,21 +1136,18 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, m_specialKeyLabelLabel)
 #: src/ui/keyboardlayoutpropertieswidget.ui:617
 #, fuzzy, kde-format
-#| msgid "TextLabel"
 msgid "Label:"
 msgstr "ടെക്സ്റ്റ്ലേബല്‍"
 
 #. i18n: ectx: property (text), widget (QLabel, m_specialKeyModifierIdLabel)
 #: src/ui/keyboardlayoutpropertieswidget.ui:630
 #, fuzzy, kde-format
-#| msgid "Modifier/other keys:"
 msgid "Modifier ID:"
 msgstr "മോഡിഫയര്‍/മറ്റ് കീകള്‍:"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_openTextFileButton)
 #: src/ui/lessontexteditor.ui:31
 #, fuzzy, kde-format
-#| msgid "Open a keyboard file:"
 msgid "Open a text file..."
 msgstr "കീബോര്‍ഡ് ഫയല്‍ തുറക്കുക:"
 
@@ -1249,21 +1160,18 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, m_characterCountLabel)
 #: src/ui/lessontexteditor.ui:74
 #, fuzzy, kde-format
-#| msgid "Character"
 msgid "0 Characters"
 msgstr "അക്ഷരം"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, m_pasteCurrentNameButton)
 #: src/ui/newkeyboardlayoutwidget.ui:37
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Paste current system keyboard layout name"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
 #. i18n: ectx: property (text), widget (QLabel, trainingLabel)
 #: src/ui/trainingconfigwidget.ui:25
 #, fuzzy, kde-format
-#| msgid "T&raining"
 msgid "During training:"
 msgstr "&പരിശീലനം"
 
@@ -1282,7 +1190,6 @@ msgstr "കീബോര്‍ഡ് കാണിക്കുക"
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowStatistics)
 #: src/ui/trainingconfigwidget.ui:52
 #, fuzzy, kde-format
-#| msgid "General Statistics"
 msgid "Show real-time statistics"
 msgstr "സാധാരണയുള്ള സ്ഥിതിവിവരക്കണക്കുകള്‍"
 
@@ -1313,21 +1220,18 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, requiredStrokesPerMinuteLabel)
 #: src/ui/trainingconfigwidget.ui:126
 #, fuzzy, kde-format
-#| msgid "Words per minute:"
 msgid "Minimum strokes &per minute:"
 msgstr "ഒരു മിനിറ്റില്‍ എത്ര വാക്കുകള്‍:"
 
 #. i18n: ectx: property (text), widget (QLabel, requiredAccuracyLabel)
 #: src/ui/trainingconfigwidget.ui:149
 #, fuzzy, kde-format
-#| msgid "Accuracy"
 msgid "Minimum accuracy:"
 msgstr "കൃത്യത"
 
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, kcfg_RequiredAccuracy)
 #: src/ui/trainingconfigwidget.ui:162
 #, fuzzy, no-c-format, kde-format
-#| msgid "%"
 msgid " %"
 msgstr "%"
 
@@ -1338,7 +1242,6 @@ msgstr ""
 
 #: src/undocommands/coursecommands.cpp:67
 #, fuzzy, kde-format
-#| msgid "&Keyboard Layouts"
 msgid "Set keyboard layout"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
@@ -1349,13 +1252,11 @@ msgstr ""
 
 #: src/undocommands/coursecommands.cpp:137
 #, fuzzy, kde-format
-#| msgid "Remove"
 msgid "Add lesson"
 msgstr "നീക്കം ചെയ്യുക"
 
 #: src/undocommands/coursecommands.cpp:229
 #, fuzzy, kde-format
-#| msgid "Remove"
 msgid "Move lesson"
 msgstr "നീക്കം ചെയ്യുക"
 
@@ -1366,31 +1267,26 @@ msgstr ""
 
 #: src/undocommands/coursecommands.cpp:332
 #, fuzzy, kde-format
-#| msgid "new characters"
 msgid "Set new characters for lesson"
 msgstr "പുതിയ അക്ഷരങ്ങള്‍"
 
 #: src/undocommands/coursecommands.cpp:371
 #, fuzzy, kde-format
-#| msgid "Student text:"
 msgid "Set lesson text"
 msgstr "വിദ്യാര്‍ത്ഥിയുടെ വാചകം:"
 
 #: src/undocommands/keyboardlayoutcommands.cpp:32
 #, fuzzy, kde-format
-#| msgid "&Keyboard Layouts"
 msgid "Set keyboard layout title"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
 #: src/undocommands/keyboardlayoutcommands.cpp:67
 #, fuzzy, kde-format
-#| msgid "untitled keyboard layout"
 msgid "Set keyboard layout name"
 msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
 #: src/undocommands/keyboardlayoutcommands.cpp:102
 #, fuzzy, kde-format
-#| msgid "&Keyboard Layouts"
 msgid "Set keyboard layout size"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
@@ -1401,7 +1297,6 @@ msgstr "കീ ചേര്‍ക്കുക"
 
 #: src/undocommands/keyboardlayoutcommands.cpp:209
 #, fuzzy, kde-format
-#| msgid "&Remove"
 msgid "Remove key"
 msgstr "&നീക്കം ചെയ്യുക"
 
@@ -1422,19 +1317,16 @@ msgstr ""
 
 #: src/undocommands/keyboardlayoutcommands.cpp:400
 #, fuzzy, kde-format
-#| msgid "new characters"
 msgid "Add key character"
 msgstr "പുതിയ അക്ഷരങ്ങള്‍"
 
 #: src/undocommands/keyboardlayoutcommands.cpp:441
 #, fuzzy, kde-format
-#| msgid "Key characters"
 msgid "Remove key character"
 msgstr "കീയിലുള്ള അക്ഷരങ്ങള്‍"
 
 #: src/undocommands/keyboardlayoutcommands.cpp:498
 #, fuzzy, kde-format
-#| msgid "Key characters"
 msgid "Set key character value"
 msgstr "കീയിലുള്ള അക്ഷരങ്ങള്‍"
 
@@ -1450,13 +1342,11 @@ msgstr ""
 
 #: src/undocommands/keyboardlayoutcommands.cpp:638
 #, fuzzy, kde-format
-#| msgid "Create new keyboard"
 msgid "Set special key type"
 msgstr "പുതിയ കീബോര്‍ഡ് ഉണ്ടാക്കുക"
 
 #: src/undocommands/keyboardlayoutcommands.cpp:681
 #, fuzzy, kde-format
-#| msgid "Create new keyboard"
 msgid "Set special key label"
 msgstr "പുതിയ കീബോര്‍ഡ് ഉണ്ടാക്കുക"
 
@@ -1466,39 +1356,29 @@ msgid "Set special key modifier ID"
 msgstr ""
 
 #, fuzzy
-#~| msgid "<no keyboard files available>"
 #~ msgid "No Courses Available"
 #~ msgstr "<no keyboard files available>"
 
 #, fuzzy
-#~| msgid "Level Editor"
 #~ msgid "Launch Editor"
 #~ msgstr "നിലയുടെ എഡിറ്റര്‍"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "Ukrainian"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "Brazilian"
 #~ msgstr "യുക്രേനിയന്‍"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "Hungarian (auto-generated)"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "Bulgarian"
 #~ msgstr "ഹംഗേറിയന്‍ (സ്വയമുണ്ടായതു്)"
 
 #, fuzzy
-#~| msgctxt "Keyboard Layout Name"
-#~| msgid "English"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "Danish"
 #~ msgstr "ഇംഗ്ലീഷ്"
 
 #, fuzzy
-#~| msgctxt "Keyboard Layout Name"
-#~| msgid "English Dvorak"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "English Colemak"
 #~ msgstr "ഇംഗ്ലീഷ് ദ്വോരക്"
@@ -1512,8 +1392,6 @@ msgstr ""
 #~ msgstr "ഇംഗ്ലീഷ്"
 
 #, fuzzy
-#~| msgctxt "Keyboard Layout Name"
-#~| msgid "English Dvorak"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "English Dvorak (United Kingdom)"
 #~ msgstr "ഇംഗ്ലീഷ് ദ്വോരക്"
@@ -1531,22 +1409,16 @@ msgstr ""
 #~ msgstr "ജര്‍മന്‍"
 
 #, fuzzy
-#~| msgctxt "Keyboard Layout Name"
-#~| msgid "German"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "German Neo 2"
 #~ msgstr "ജര്‍മന്‍"
 
 #, fuzzy
-#~| msgctxt "Keyboard Layout Name"
-#~| msgid "English"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "Greek (English)"
 #~ msgstr "ഇംഗ്ലീഷ്"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "Hungarian (auto-generated)"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "Hungarian"
 #~ msgstr "ഹംഗേറിയന്‍ (സ്വയമുണ്ടായതു്)"
@@ -1564,15 +1436,11 @@ msgstr ""
 #~ msgstr "സ്ലോവേനിയന്‍"
 
 #, fuzzy
-#~| msgctxt "Keyboard Layout Name"
-#~| msgid "English Dvorak"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "Spanish Dvorak"
 #~ msgstr "ഇംഗ്ലീഷ് ദ്വോരക്"
 
 #, fuzzy
-#~| msgctxt "Keyboard Layout Name"
-#~| msgid "English"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "Spanish"
 #~ msgstr "ഇംഗ്ലീഷ്"
@@ -1582,22 +1450,16 @@ msgstr ""
 #~ msgstr "സ്വീഡിഷ് കീബോര്‍ഡ്"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "German (in 9 levels)"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "German (Swiss)"
 #~ msgstr "ജര്‍മന്‍ (9 നിലകള്‍)"
 
 #, fuzzy
-#~| msgctxt "Keyboard Layout Name"
-#~| msgid "French"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "French Swiss"
 #~ msgstr "ഫ്രെഞ്ച്"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "Ukrainian"
 #~ msgctxt "Keyboard Layout Name"
 #~ msgid "Ukrainian (winkeys)"
 #~ msgstr "യുക്രേനിയന്‍"
@@ -1606,9 +1468,6 @@ msgstr ""
 #~ msgstr "സഹജമായ ഉപയോക്താവു്"
 
 #, fuzzy
-#~| msgid ""
-#~| "*.txt|Text files\n"
-#~| "*.*|All files"
 #~ msgid ""
 #~ "*.txt *ktouch.xml|Text files\n"
 #~ "*|All files"
@@ -1665,37 +1524,30 @@ msgstr ""
 #~ msgstr "&നിലവിലുള്ള ഉപയോക്താവു്"
 
 #, fuzzy
-#~| msgid "Name of color scheme:"
 #~ msgid "The number of the current color scheme."
 #~ msgstr "നിറക്കൂട്ടിന്റെ പേരു്:"
 
 #, fuzzy
-#~| msgid "The background for the teacher's line"
 #~ msgid "The background color for the teacher's line."
 #~ msgstr "അദ്ധ്യാപകന്റെ വരിയുടെ പശ്ചാത്തലനിറം"
 
 #, fuzzy
-#~| msgid "The color for the teacher's line"
 #~ msgid "The text color for the teacher's line"
 #~ msgstr "അദ്ധ്യാപകന്റെ വരിയ്ക്കുള്ള നിറം"
 
 #, fuzzy
-#~| msgid "The background for the teacher's line"
 #~ msgid "The background color for the student's line."
 #~ msgstr "അദ്ധ്യാപകന്റെ വരിയുടെ പശ്ചാത്തലനിറം"
 
 #, fuzzy
-#~| msgid "Change the text color for the student line"
 #~ msgid "The text color for the student's line"
 #~ msgstr "വിദ്യാര്‍ത്ഥിയുടെ വരിയുടെ വാചകത്തിനുള്ള നിറം മാറ്റുക"
 
 #, fuzzy
-#~| msgid "The background for the teacher's line"
 #~ msgid "The background color for wrong text (students line)."
 #~ msgstr "അദ്ധ്യാപകന്റെ വരിയുടെ പശ്ചാത്തലനിറം"
 
 #, fuzzy
-#~| msgid "Change the text color for the student line"
 #~ msgid "The text color for wrong text (students line)."
 #~ msgstr "വിദ്യാര്‍ത്ഥിയുടെ വരിയുടെ വാചകത്തിനുള്ള നിറം മാറ്റുക"
 
@@ -1703,67 +1555,54 @@ msgstr ""
 #~ msgstr "ടൈപ്പിങില്‍ ഓരോ പിശകുണ്ടാകുമ്പോഴും ഒരു ബീപ്പ് ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "&Sound on automatic level change"
 #~ msgid "Play a sound on automatic level change"
 #~ msgstr "സ്വയം നില മാറ്റുമ്പോള്‍ ശബ്ദമുണ്ടാക്കുക"
 
 #, fuzzy
-#~| msgid "Typing speed:"
 #~ msgid "The sliding speed"
 #~ msgstr "ടൈപിങ് വേഗത:"
 
 #, fuzzy
-#~| msgid "The color for the teacher's line"
 #~ msgid "The font for the student and teacher lines"
 #~ msgstr "അദ്ധ്യാപകന്റെ വരിയ്ക്കുള്ള നിറം"
 
 #, fuzzy
-#~| msgid "<new unnamed lecture file>"
 #~ msgid "The currently loaded lecture file"
 #~ msgstr "<new unnamed lecture file>"
 
 #, fuzzy
-#~| msgid "Font for keys on keyboard:"
 #~ msgid "The font for the keys on the keyboard"
 #~ msgstr "കീബോര്‍ഡിലുള്ള കീകള്‍ക്കുള്ള അക്ഷരസഞ്ചയം:"
 
 #, fuzzy
-#~| msgid "<unnamed keyboard file>"
 #~ msgid "The currently loaded keyboard file"
 #~ msgstr "<പേരില്ലാത്ത കീബോര്‍ഡ് ഫയല്‍>"
 
 #, fuzzy
-#~| msgid "A&utomatic level adjustment"
 #~ msgid "Allow automatic level adjustments"
 #~ msgstr "നിലകള്‍ സ്വയം സജ്ജീകരിയ്ക്കല്‍"
 
 #, fuzzy
-#~| msgid "&Remember level for next program start"
 #~ msgid "Remember the current level for the next KTouch start"
 #~ msgstr "അടുത്ത തവണ പ്രോഗ്രാം ആരംഭിക്കുമ്പോള്‍ നില &ലഭ്യമാക്കുക"
 
 #, fuzzy
-#~| msgid "Keep current level"
 #~ msgid "The current training level"
 #~ msgstr "ഈ നില സൂക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgid "Limits to increase a level"
 #~ msgid "Number of chars per minute to increase a level"
 #~ msgstr "ഒരു നില കൂട്ടുന്നതിനുള്ള പരിധികള്‍"
 
 #, fuzzy
-#~| msgid "Limits to increase a level"
 #~ msgid "Percentage of correctness to increase a level"
 #~ msgstr "ഒരു നില കൂട്ടുന്നതിനുള്ള പരിധികള്‍"
 
 #, fuzzy
-#~| msgid "Limits to decrease a level"
 #~ msgid "Number of chars per minute to decrease a level"
 #~ msgstr "ഒരു നില കുറയ്ക്കുന്നതിനുള്ള പരിധികള്‍"
 
 #, fuzzy
-#~| msgid "Limits to decrease a level"
 #~ msgid "Percentage of correctness to decrease a level"
 #~ msgstr "ഒരു നില കുറയ്ക്കുന്നതിനുള്ള പരിധികള്‍"
 
@@ -1774,7 +1613,6 @@ msgstr ""
 #~ msgstr "തലക്കെട്ടില്ലാത്ത നിറക്കൂട്ട്"
 
 #, fuzzy
-#~| msgid "Black & White"
 #~ msgid "Black && White"
 #~ msgstr "കറുപ്പും വെളുപ്പും"
 
@@ -1792,9 +1630,6 @@ msgstr ""
 #~ msgstr "Num"
 
 #, fuzzy
-#~| msgid ""
-#~| "*.keyboard.xml|KTouch Keyboard Files (*.keyboard.xml)\n"
-#~| "*.*|All Files"
 #~ msgid ""
 #~ "*.keyboard.xml|KTouch Keyboard Files (*.keyboard.xml)\n"
 #~ "*|All Files"
@@ -1812,11 +1647,10 @@ msgstr ""
 #~ "This is not a valid unicode number. Please correct the number or enter a "
 #~ "character."
 #~ msgstr ""
-#~ "ഇതു് ശരിയായൊരു യൂണിക്കോഡ് നമ്പര്‍ അല്ല. ദയവായി നമ്പര്‍ തിരുത്തുക അല്ലെങ്കില്‍ ഉചിതമായ അക്ഷരം "
-#~ "നല്‍കുക."
+#~ "ഇതു് ശരിയായൊരു യൂണിക്കോഡ് നമ്പര്‍ അല്ല. ദയവായി നമ്പര്‍ തിരുത്തുക അല്ലെങ്കില്‍ ഉചിതമായ അക്ഷരം നല്‍"
+#~ "കുക."
 
 #, fuzzy
-#~| msgid "Please enter either a character or a unicode number!"
 #~ msgid "Please enter either a character or a unicode number."
 #~ msgstr "ദയവായി യൂണിക്കോഡ് നമ്പര്‍ അല്ലെങ്കില്‍ ഉചിതമായ അക്ഷരം നല്‍കുക!"
 
@@ -1907,7 +1741,6 @@ msgstr ""
 #~ msgstr "നിങ്ങള്‍ കൊള്ളാലോ!"
 
 #, fuzzy
-#~| msgid "General Statistics"
 #~ msgid "S&tatistics"
 #~ msgstr "സാധാരണയുള്ള സ്ഥിതിവിവരക്കണക്കുകള്‍"
 
@@ -2103,12 +1936,10 @@ msgstr ""
 #~ msgstr "പരതുക..."
 
 #, fuzzy
-#~| msgid "&Ok"
 #~ msgid "&OK"
 #~ msgstr "&ശരി"
 
 #, fuzzy
-#~| msgid "Use Custom color for typing line"
 #~ msgid "Use custom color for typing line"
 #~ msgstr "വരിയ്ക്കായി നിങ്ങള്‍ക്കിഷ്ടമുള്ള നിറമുപയോഗിക്കുക"
 
@@ -2133,9 +1964,6 @@ msgstr ""
 #~ msgstr "അദ്ധ്യാപകന്റെ വരിയുടെ പശ്ചാത്തലനിറം"
 
 #, fuzzy
-#~| msgid ""
-#~| "You can change here the background color for the teacher's line (the "
-#~| "line of letters you have to type.)"
 #~ msgid ""
 #~ "Here you can change the background color for the teacher's line (the line "
 #~ "of letters you have to type.)"
@@ -2144,7 +1972,6 @@ msgstr ""
 #~ "മാറ്റാം"
 
 #, fuzzy
-#~| msgid "Use different color on miss typing"
 #~ msgid "Use different color on missed typing"
 #~ msgstr "തെറ്റിയടിച്ചാല്‍ വേറെ നിറം ഉപയോഗിയ്ക്കുക"
 
@@ -2389,8 +2216,6 @@ msgstr ""
 #~ msgstr "ബള്‍ഗേരിയന്‍ (സ്വയമുണ്ടായതു്)"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "Bulgarian (auto-generated)"
 #~ msgctxt "Lesson Name"
 #~ msgid "Bulgarian (auto-generated-long)"
 #~ msgstr "ബള്‍ഗേരിയന്‍ (സ്വയമുണ്ടായതു്)"
@@ -2416,8 +2241,6 @@ msgstr ""
 #~ msgstr "നെദര്‍ലാന്‍ഡ്സ് (സ്വയമുണ്ടായതു്)"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "Dvorak (auto-generated)"
 #~ msgctxt "Lesson Name"
 #~ msgid "Colemak (auto-generated)"
 #~ msgstr "ദ്വോരക് (സ്വയമുണ്ടായതു്)"
@@ -2467,14 +2290,11 @@ msgstr ""
 #~ msgstr "ജര്‍മന്‍ (സ്വയമുണ്ടായതു്)"
 
 #, fuzzy
-#~| msgid "untitled keyboard layout"
 #~ msgctxt "Lesson Name"
 #~ msgid "German (Dvorak keyboard layout)"
 #~ msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്‍ഡ് മാതൃക"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "German (auto-generated)"
 #~ msgctxt "Lesson Name"
 #~ msgid "German (Number Pad)"
 #~ msgstr "ജര്‍മന്‍ (സ്വയമുണ്ടായതു്)"
@@ -2484,8 +2304,6 @@ msgstr ""
 #~ msgstr "ഹെല്ലനിക്"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "Hungarian (auto-generated)"
 #~ msgctxt "Lesson Name"
 #~ msgid "Hungarian Expert++"
 #~ msgstr "ഹംഗേറിയന്‍ (സ്വയമുണ്ടായതു്)"
@@ -2515,8 +2333,6 @@ msgstr ""
 #~ msgstr "റഷ്യന്‍ (സ്വയമുണ്ടായതു്)"
 
 #, fuzzy
-#~| msgctxt "Lesson Name"
-#~| msgid "Dvorak (auto-generated)"
 #~ msgctxt "Lesson Name"
 #~ msgid "Slovak (auto-generated)"
 #~ msgstr "ദ്വോരക് (സ്വയമുണ്ടായതു്)"

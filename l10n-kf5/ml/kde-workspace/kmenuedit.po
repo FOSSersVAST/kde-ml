@@ -135,9 +135,6 @@ msgstr "സങ്കീര്‍ണ്ണമായ"
 
 #: khotkeys.cpp:53
 #, fuzzy, kde-format
-#| msgid ""
-#| "Unable to contact khotkeys. Your changes are saved but i failed to "
-#| "activate them"
 msgid ""
 "Unable to contact khotkeys. Your changes are saved, but they could not be "
 "activated."
@@ -167,13 +164,11 @@ msgstr ""
 
 #: kmenuedit.cpp:84
 #, fuzzy, kde-format
-#| msgid "&Description:"
 msgid "&Sort selection by Name"
 msgstr "വിവരണം"
 
 #: kmenuedit.cpp:87
 #, fuzzy, kde-format
-#| msgid "&Description:"
 msgid "&Sort selection by Description"
 msgstr "വിവരണം"
 
@@ -184,7 +179,6 @@ msgstr ""
 
 #: kmenuedit.cpp:94
 #, fuzzy, kde-format
-#| msgid "&Description:"
 msgid "&Sort all by Description"
 msgstr "വിവരണം"
 
@@ -315,7 +309,6 @@ msgstr "%1 ലേക്ക് എഴുതാന്‍ പറ്റുന്ന�
 
 #: preferencesdlg.cpp:38
 #, fuzzy, kde-format
-#| msgid "Terminal &options:"
 msgid "General options"
 msgstr "ടെര്‍മിനല്‍ ഐച്ഛികങ്ങള്‍"
 
@@ -381,7 +374,6 @@ msgstr ""
 #~ msgstr "സിസ്റ്റം ട്രേയില്‍ വയ്ക്കൂ"
 
 #, fuzzy
-#~| msgid "&Name:"
 #~ msgid "&Name"
 #~ msgstr "പേരു്"
 

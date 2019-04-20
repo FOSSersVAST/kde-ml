@@ -155,7 +155,6 @@ msgstr "The minimum range value must be lower than the maximum range value"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: editcoords.ui:20
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Horizontal axis Range"
 msgstr "X-അക്ഷം Range"
 
@@ -206,14 +205,12 @@ msgstr "Min:"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: editcoords.ui:81
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Vertical axis Range"
 msgstr "X-അക്ഷം Range"
 
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_XScalingMode)
 #: editcoords.ui:142
 #, fuzzy, kde-format
-#| msgid "X-axis Grid Spacing"
 msgid "Horizontal axis Grid Spacing"
 msgstr "X-axis Grid Spacing"
 
@@ -245,7 +242,6 @@ msgstr "Custom:"
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_YScalingMode)
 #: editcoords.ui:178
 #, fuzzy, kde-format
-#| msgid "X-axis Grid Spacing"
 msgid "Vertical axis Grid Spacing"
 msgstr "X-axis Grid Spacing"
 
@@ -492,7 +488,6 @@ msgstr "Customize the maximum plot range"
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cartesianCustomMin)
 #: functioneditorwidget.ui:132 functioneditorwidget.ui:145
 #, fuzzy, kde-format
-#| msgid "Check this button and enter the plot range boundarys below."
 msgid "Check this button and enter the plot range boundaries below."
 msgstr "Check this button and enter the plot range boundarys below."
 
@@ -633,7 +628,6 @@ msgstr "Show integral"
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, showIntegral)
 #: functioneditorwidget.ui:270
 #, fuzzy, kde-format
-#| msgid "If this box is checked, the first derivative will be plotted, too."
 msgid "If this box is checked, the integral will be plotted, too."
 msgstr "If this box is checked, the first derivative will be plotted, too."
 
@@ -802,10 +796,6 @@ msgstr "ഒരു സമവാക്യം നല്‍കുക"
 #. i18n: ectx: property (whatsThis), widget (EquationEdit, polarEquation)
 #: functioneditorwidget.ui:575
 #, fuzzy, kde-format
-#| msgid ""
-#| "Enter an expression for the function.\n"
-#| "The dummy variable is t.\n"
-#| "Example: cos(t)"
 msgid ""
 "Enter an expression for the function. \n"
 "Example: loop(a)=ln(a)"
@@ -853,10 +843,6 @@ msgstr "പേരു്:"
 #. i18n: ectx: property (whatsThis), widget (EquationEdit, implicitEquation)
 #: functioneditorwidget.ui:704
 #, fuzzy, kde-format
-#| msgid ""
-#| "Enter an expression for the function.\n"
-#| "The dummy variable is t.\n"
-#| "Example: x^2 + y^2 = 25."
 msgid ""
 "Enter an expression for the function.\n"
 "Example: x^2 + y^2 = 25."
@@ -868,10 +854,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (EquationEdit, differentialEquation)
 #: functioneditorwidget.ui:755
 #, fuzzy, kde-format
-#| msgid ""
-#| "Enter an expression for the function.\n"
-#| "The dummy variable is t.\n"
-#| "Example: f''(x) = -f"
 msgid ""
 "Enter an expression for the function.\n"
 "Example: f''(x) = -f"
@@ -1004,9 +986,6 @@ msgstr "Could not find KmPlot's part."
 
 #: kmplot.cpp:198 maindlg.cpp:537
 #, fuzzy, kde-format
-#| msgid ""
-#| "*.fkt|KmPlot Files (*.fkt)\n"
-#| "*|All Files"
 msgid "KmPlot Files (*.fkt);;All Files (*)"
 msgstr ""
 "*.fkt|KmPlot Files (*.fkt)\n"
@@ -1111,7 +1090,6 @@ msgstr "Tic വീതി"
 #. i18n: ectx: whatsthis, entry (TicWidth), group (Coordinate System)
 #: kmplot.kcfg:48
 #, fuzzy, kde-format
-#| msgid "Enter the width of the axis lines."
 msgid "Enter the width of the tic lines."
 msgstr "അക്ഷ-രേഖകളുടെ വീതി നല്‍കുക"
 
@@ -1166,28 +1144,24 @@ msgstr "Plotting സ്ഥലത്തിന്റെ മേലതിരു് �
 #. i18n: ectx: label, entry (LabelHorizontalAxis), group (Coordinate System)
 #: kmplot.kcfg:72
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Label to Horizontal Axis"
 msgstr "X-അക്ഷം Range"
 
 #. i18n: ectx: whatsthis, entry (LabelHorizontalAxis), group (Coordinate System)
 #: kmplot.kcfg:73
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Label to Horizontal Axis."
 msgstr "X-അക്ഷം Range"
 
 #. i18n: ectx: label, entry (LabelVerticalAxis), group (Coordinate System)
 #: kmplot.kcfg:77
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Label to Vertical Axis"
 msgstr "X-അക്ഷം Range"
 
 #. i18n: ectx: whatsthis, entry (LabelVerticalAxis), group (Coordinate System)
 #: kmplot.kcfg:78
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Label to Vertical Axis."
 msgstr "X-അക്ഷം Range"
 
@@ -1552,19 +1526,16 @@ msgstr "Parameter Editor"
 
 #: kparametereditor.cpp:225
 #, fuzzy, kde-format
-#| msgid "Parameter Editor"
 msgid "Open Parameter File"
 msgstr "Parameter Editor"
 
 #: kparametereditor.cpp:225 kparametereditor.cpp:300
 #, fuzzy, kde-format
-#| msgid "*.txt|Plain Text File "
 msgid "Plain Text File (*.txt)"
 msgstr "*.txt|Plain Text File"
 
 #: kparametereditor.cpp:242
 #, fuzzy, kde-format
-#| msgid "An error appeared when opening this file (%1)"
 msgid "An error appeared when opening this file: %1"
 msgstr "ഈ ഫയല്‍ (%1) തുറക്കുന്നതിനിടെ ഒരു പിഴവ് പറ്റിയിരിക്കുന്നു"
 
@@ -1598,7 +1569,6 @@ msgstr "ഫയല്‍ തുറക്കുന്നതിനിടെ ഒര�
 
 #: kparametereditor.cpp:300
 #, fuzzy, kde-format
-#| msgid "Save As"
 msgid "Save File"
 msgstr "Save As"
 
@@ -1702,7 +1672,6 @@ msgstr "കെ‌-എംപ്ലോട്ട്"
 
 #: main.cpp:53
 #, fuzzy, kde-format
-#| msgid "Mathematical function plotter for KDE"
 msgid "Mathematical function plotter by KDE"
 msgstr "കെഡിഈ-യ്ക്കുള്ള ഗണിത ഫങ്ഷന്‍ plotter"
 
@@ -1778,13 +1747,11 @@ msgstr "Initial functions to plot"
 
 #: main.cpp:72
 #, fuzzy, kde-format
-#| msgid "Document"
 msgid "argument"
 msgstr "രേഖ"
 
 #: main.cpp:73
 #, fuzzy, kde-format
-#| msgid "File to open"
 msgid "URLs to open"
 msgstr "തുറക്കുവാനുള്ള ഫയല്‍"
 
@@ -1976,9 +1943,6 @@ msgstr "ഫയല്‍ സൂക്ഷിക്കുവാനായില്�
 
 #: maindlg.cpp:577
 #, fuzzy, kde-format
-#| msgid ""
-#| "\n"
-#| "*.svg|Scalable Vector Graphics"
 msgid "Scalable Vector Graphics (*.svg)"
 msgstr ""
 "\n"
@@ -1986,7 +1950,6 @@ msgstr ""
 
 #: maindlg.cpp:579
 #, fuzzy, kde-format
-#| msgid "Export as Image"
 msgctxt "@title:window"
 msgid "Export as Image"
 msgstr "ചിത്രമായിട്ട് export ചെയ്യുക"
@@ -2004,7 +1967,6 @@ msgstr "പ്ലോട്ട് അച്ചടിക്കുക"
 
 #: maindlg.cpp:725 maindlg.cpp:730
 #, fuzzy, kde-format
-#| msgid "&Settings"
 msgid "Print Settings"
 msgstr "&സജ്ജീകരണങ്ങള്‍"
 
@@ -2803,21 +2765,18 @@ msgstr "Polar"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: settingspagediagram.ui:75
 #, fuzzy, kde-format
-#| msgid "Axes labels:"
 msgid "Axis Labels"
 msgstr "അക്ഷക്കുറിപ്പുകള്‍"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, label)
 #: settingspagediagram.ui:81
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Label on horizontal axis."
 msgstr "X-അക്ഷം Range"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: settingspagediagram.ui:84
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Horizontal Axis Label: "
 msgstr "X-അക്ഷം Range"
 
@@ -2830,14 +2789,12 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QLabel, label_2)
 #: settingspagediagram.ui:101
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Label on vertical axis."
 msgstr "X-അക്ഷം Range"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: settingspagediagram.ui:104
 #, fuzzy, kde-format
-#| msgid "X-axis Range"
 msgid "Vertical Axis Label:"
 msgstr "X-അക്ഷം Range"
 
@@ -2850,7 +2807,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel7)
 #: settingspagediagram.ui:124
 #, fuzzy, kde-format
-#| msgid "Axis width:"
 msgid "Axis widths:"
 msgstr "അക്ഷത്തിന്റെ വീതി:"
 
@@ -3003,21 +2959,18 @@ msgstr "Zoom"
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
 #: settingspagegeneral.ui:73
 #, fuzzy, kde-format
-#| msgid "Zoom in by:"
 msgid "Zoom In by:"
 msgstr "Zoom in by:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
 #: settingspagegeneral.ui:86
 #, fuzzy, kde-format
-#| msgid "Zoom out by:"
 msgid "Zoom Out by:"
 msgstr "Zoom out by:"
 
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, kcfg_zoomOutStep)
 #: settingspagegeneral.ui:99
 #, fuzzy, kde-format
-#| msgid "The value the zoom-out tool should use."
 msgid "The value the Zoom Out tool should use."
 msgstr "Zoom-out ഉപകരണം ഉപയോഗിക്കേണ്ട വില."
 
@@ -3031,7 +2984,6 @@ msgstr "%"
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, kcfg_zoomInStep)
 #: settingspagegeneral.ui:118
 #, fuzzy, kde-format
-#| msgid "The value the zoom-in tool should use."
 msgid "The value the Zoom In tool should use."
 msgstr "Zoom-in ഉപകരണം ഉപയോഗിക്കേണ്ട വില"
 

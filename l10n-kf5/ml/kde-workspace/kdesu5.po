@@ -67,13 +67,11 @@ msgstr "ആദ്യ കര്‍ത്താവു്"
 
 #: kdesu.cpp:118
 #, fuzzy, kde-format
-#| msgid "Specifies the command to run"
 msgid "Specifies the command to run as separate arguments"
 msgstr "പ്രവര്‍ത്തിക്കാനുള്ള ആജ്ഞ നിര്‍ദേശിക്കുന്നു"
 
 #: kdesu.cpp:119
 #, fuzzy, kde-format
-#| msgid "Specifies the command to run"
 msgid "Specifies the command to run as one string"
 msgstr "പ്രവര്‍ത്തിക്കാനുള്ള ആജ്ഞ നിര്‍ദേശിക്കുന്നു"
 

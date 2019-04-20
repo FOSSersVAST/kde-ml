@@ -51,7 +51,6 @@ msgstr ""
 #: keduvocdocument/keduvocdocument.cpp:182
 #: keduvocdocument/keduvocdocument.cpp:189
 #, fuzzy, kde-format
-#| msgid "Cannot write to file %1"
 msgid "Cannot lock file %1"
 msgstr "%1 ഫയലിലേക്കു് സൂക്ഷിക്കുവാനായില്ല"
 
@@ -62,13 +61,11 @@ msgstr "<qt><b>%1</b> ഫയല്‍ തുറക്കുവാനായില
 
 #: keduvocdocument/keduvocdocument.cpp:250
 #, fuzzy, kde-format
-#| msgid "Cannot write to file %1"
 msgid "Cannot open tempfile %1"
 msgstr "%1 ഫയലിലേക്കു് സൂക്ഷിക്കുവാനായില്ല"
 
 #: keduvocdocument/keduvocdocument.cpp:255
 #, fuzzy, kde-format
-#| msgid "Cannot write to file %1"
 msgid "Cannot download %1: %2"
 msgstr "%1 ഫയലിലേക്കു് സൂക്ഷിക്കുവാനായില്ല"
 
@@ -179,7 +176,6 @@ msgstr "ഫയല്‍ നിലവിലില്ല."
 
 #: keduvocdocument/keduvocdocument.cpp:897
 #, fuzzy, kde-format
-#| msgid "The file does not exist."
 msgid "The file is locked by another process."
 msgstr "ഫയല്‍ നിലവിലില്ല."
 
@@ -558,10 +554,6 @@ msgstr "നില 7"
 #~ msgstr "'%1'-ലേക്കു് പോകുക"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "The name of the second, third ... language/column of vocabulary, if we "
-#~| "have to guess it."
-#~| msgid "Translation %1"
 #~ msgid "Transition Elements"
 #~ msgstr "തര്‍ജ്ജമ %1"
 
@@ -902,7 +894,6 @@ msgstr "നില 7"
 #~ msgstr "റോയെന്റ്ജീനിയം"
 
 #, fuzzy
-#~| msgid "Cerium"
 #~ msgid "Copernicium"
 #~ msgstr "സിറിയം"
 
@@ -925,7 +916,6 @@ msgstr "നില 7"
 #~ msgstr "ഉന്‍ഉന്‍ഒക്ടിയം"
 
 #, fuzzy
-#~| msgid "Greek 'xenos' for 'foreigner'"
 #~ msgid "Greek 'hydro' and 'gennao' for 'forms water'"
 #~ msgstr "വിദേശിയ്ക്കു് ഗ്രീക്കില്‍ 'ക്സെനസ്'"
 
@@ -942,12 +932,10 @@ msgstr "നില 7"
 #~ msgstr "കാര്‍ബണിനു് ലാറ്റിനില്‍ 'കാര്‍ബോണിയം' എന്നു് പറയുന്നു"
 
 #, fuzzy
-#~| msgid "Latin 'argentum' for silver"
 #~ msgid "Latin 'nitrogenium' ('forms saltpeter')"
 #~ msgstr "വെള്ളിയ്ക്കു് ലാറ്റിനില്‍ 'അര്‍ജെന്റം' "
 
 #, fuzzy
-#~| msgid "Latin 'argentum' for silver"
 #~ msgid "Latin 'oxygenium' (forms acids)"
 #~ msgstr "വെള്ളിയ്ക്കു് ലാറ്റിനില്‍ 'അര്‍ജെന്റം' "
 
@@ -958,7 +946,6 @@ msgstr "നില 7"
 #~ msgstr "'സോഡാ'യ്ക്കു് അറബിക്കില്‍ 'നാട്രുണ്‍' എന്നു് പറയുന്നു"
 
 #, fuzzy
-#~| msgid "Named after the scientist Enrico Fermi."
 #~ msgid "Named after the city of Magnesia"
 #~ msgstr "എര്‍ണികോ ഫെര്‍മി എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
@@ -969,7 +956,6 @@ msgstr "നില 7"
 #~ msgstr "ലാറ്റിനില്‍ 'സിലെക്സ്'"
 
 #, fuzzy
-#~| msgid "Greek 'xenos' for 'foreigner'"
 #~ msgid "Greek 'phosphoros' for 'carries light'"
 #~ msgstr "വിദേശിയ്ക്കു് ഗ്രീക്കില്‍ 'ക്സെനസ്'"
 
@@ -977,7 +963,6 @@ msgstr "നില 7"
 #~ msgstr "സംസ്കൃതത്തില്‍ 'സ്വെബ്' എന്നതിനര്‍ത്ഥം 'ഉറങ്ങുക'"
 
 #, fuzzy
-#~| msgid "Greek 'beryllos' for 'light-green stone'"
 #~ msgid "Greek 'chloros' for 'yellow-green'"
 #~ msgstr "'ഇളം പച്ച കല്ലിനു്' ഗ്രീക്കില്‍ 'ബെറില്ലോസ്' എന്നു് പറയുന്നു"
 
@@ -1003,7 +988,6 @@ msgstr "നില 7"
 #~ msgstr "ലാറ്റിനില്‍ 'ഫെറം'"
 
 #, fuzzy
-#~| msgid "Greek 'barys' for 'heavy'"
 #~ msgid "Greek 'cuprum' for Cypres"
 #~ msgstr "'ഭാരം' എന്നതിനു് ഗ്രീക്കില്‍ 'ബാരിസ്' എന്നു് പറയുന്നു"
 
@@ -1011,12 +995,10 @@ msgstr "നില 7"
 #~ msgstr "ഫ്രാന്‍സിന്റെ പഴയ പേരാണു് 'ഗല്ലിയാ'"
 
 #, fuzzy
-#~| msgid "'Gallia' is an old name for France"
 #~ msgid "Latin 'germania' is an old name for Germany"
 #~ msgstr "ഫ്രാന്‍സിന്റെ പഴയ പേരാണു് 'ഗല്ലിയാ'"
 
 #, fuzzy
-#~| msgid "Greek 'selena' for 'moon'"
 #~ msgid "Greek 'arsenikos' for 'male' or 'bold'"
 #~ msgstr "'ചന്ദ്രനു്' ഗ്രീക്കില്‍ 'സെലെനാ'"
 
@@ -1024,12 +1006,10 @@ msgstr "നില 7"
 #~ msgstr "'ചന്ദ്രനു്' ഗ്രീക്കില്‍ 'സെലെനാ'"
 
 #, fuzzy
-#~| msgid "Greek 'barys' for 'heavy'"
 #~ msgid "Greek 'bromos' for 'smells badly'"
 #~ msgstr "'ഭാരം' എന്നതിനു് ഗ്രീക്കില്‍ 'ബാരിസ്' എന്നു് പറയുന്നു"
 
 #, fuzzy
-#~| msgid "Greek 'barys' for 'heavy'"
 #~ msgid "Greek 'kryptos' for 'hidden'"
 #~ msgstr "'ഭാരം' എന്നതിനു് ഗ്രീക്കില്‍ 'ബാരിസ്' എന്നു് പറയുന്നു"
 
@@ -1037,17 +1017,14 @@ msgstr "നില 7"
 #~ msgstr "'കടും ചുവപ്പിനു്' ലാറ്റിനില്‍ 'റൂബിഡസ്'"
 
 #, fuzzy
-#~| msgid "Named after the scientist Albert Einstein."
 #~ msgid "Named after the mineral Strontianit"
 #~ msgstr "ആല്‍ബേര്‍ട്ട് എയിന്‍സ്റ്റീന്‍ എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after the scientist Niels Bohr."
 #~ msgid "Named after the mineral zircon"
 #~ msgstr "നീല്‍സ് ബോര്‍ എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Greek 'xenos' for 'foreigner'"
 #~ msgid "Greek 'technetos' for artificial"
 #~ msgstr "വിദേശിയ്ക്കു് ഗ്രീക്കില്‍ 'ക്സെനസ്'"
 
@@ -1055,12 +1032,10 @@ msgstr "നില 7"
 #~ msgstr "റഷ്യയുടെ പഴയ പേരാണു് റുഥേന്യാ."
 
 #, fuzzy
-#~| msgid "Greek 'lithos' means 'stone'"
 #~ msgid "Greek 'rhodeos' means 'red like a rose'"
 #~ msgstr "'കല്ലിനു്' ഗ്രീക്കില്‍ 'ലിഥോസ്' എന്നു് പറയുന്നു"
 
 #, fuzzy
-#~| msgid "Named after the scientist Niels Bohr."
 #~ msgid "Named after the asteroid Pallas"
 #~ msgstr "നീല്‍സ് ബോര്‍ എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
@@ -1074,7 +1049,6 @@ msgstr "നില 7"
 #~ msgstr "ടിനിനു് ലാറ്റിനില്‍ 'സ്റ്റാനം' എന്നു് പറയുന്നു"
 
 #, fuzzy
-#~| msgid "Greek 'ioeides' for 'violett'"
 #~ msgid "Greek 'ioeides' for 'violet'."
 #~ msgstr "'വയലറ്റിനു്' ഗ്രീക്കില്‍ 'അയോഡിസ്'"
 
@@ -1082,7 +1056,6 @@ msgstr "നില 7"
 #~ msgstr "വിദേശിയ്ക്കു് ഗ്രീക്കില്‍ 'ക്സെനസ്'"
 
 #, fuzzy
-#~| msgid "Latin 'calx' for 'lime'"
 #~ msgid "Latin 'caesius' for 'heaven blue'."
 #~ msgstr "'നാരങ്ങ' ലാറ്റിനില്‍ 'കാള്‍ക്സ്'"
 
@@ -1090,59 +1063,48 @@ msgstr "നില 7"
 #~ msgstr "'ഭാരം' എന്നതിനു് ഗ്രീക്കില്‍ 'ബാരിസ്' എന്നു് പറയുന്നു"
 
 #, fuzzy
-#~| msgid "Named after Marie Curie."
 #~ msgid "Named after the planetoid Ceres"
 #~ msgstr "മേരീ ക്യൂറിയുടെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Greek 'beryllos' for 'light-green stone'"
 #~ msgid "Greek 'prasinos didymos' for 'green twin'"
 #~ msgstr "'ഇളം പച്ച കല്ലിനു്' ഗ്രീക്കില്‍ 'ബെറില്ലോസ്' എന്നു് പറയുന്നു"
 
 #, fuzzy
-#~| msgid "Greek 'ioeides' for 'violett'"
 #~ msgid "Greek 'neos didymos' for 'new twin'"
 #~ msgstr "'വയലറ്റിനു്' ഗ്രീക്കില്‍ 'അയോഡിസ്'"
 
 #, fuzzy
-#~| msgid "Named after the scientist Niels Bohr."
 #~ msgid "Named after the mineral Samarskit"
 #~ msgstr "നീല്‍സ് ബോര്‍ എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after Marie Curie."
 #~ msgid "Named after Europe"
 #~ msgstr "മേരീ ക്യൂറിയുടെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after the scientist Niels Bohr."
 #~ msgid "Named after the Finnish chemist Johan Gadolin"
 #~ msgstr "നീല്‍സ് ബോര്‍ എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after the scientist Enrico Fermi."
 #~ msgid "Named after the Swedish town of Ytterby"
 #~ msgstr "എര്‍ണികോ ഫെര്‍മി എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named because it was found in Scandinavia"
 #~ msgid "Named after the old name of Scandinavia, 'Thule'."
 #~ msgstr "സ്കാന്‍ഡിനേവിയയില്‍ കണ്ടുപിടിച്ചതിനാല്‍ പേരു് അങ്ങനെയിട്ടിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Named after the scientist Enrico Fermi."
 #~ msgid ""
 #~ "Like Terbium and Gadolinium, this is named after the Swedish town of "
 #~ "Ytterby."
 #~ msgstr "എര്‍ണികോ ഫെര്‍മി എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after the scientist Ernest Rutherford"
 #~ msgid "Named after the Roman name 'Lutetia' for Paris"
 #~ msgstr "ഏര്‍ണെസ്റ്റ് റൂഥര്‍ഫോര്‍ഡ് എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after the scientist Ernest Rutherford"
 #~ msgid "Named after the German river Rhine (latin 'Rhenium')."
 #~ msgstr "ഏര്‍ണെസ്റ്റ് റൂഥര്‍ഫോര്‍ഡ് എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
@@ -1150,12 +1112,10 @@ msgstr "നില 7"
 #~ msgstr "'മഴവില്ലിനു്' ഗ്രീക്കില്‍ 'ഐറിസ്'"
 
 #, fuzzy
-#~| msgid "Latin 'argentum' for silver"
 #~ msgid "Graeco-Latin 'hydrargyrum' for 'liquid silver'"
 #~ msgstr "വെള്ളിയ്ക്കു് ലാറ്റിനില്‍ 'അര്‍ജെന്റം' "
 
 #, fuzzy
-#~| msgid "Greek 'aergon' for 'inactive'"
 #~ msgid "Greek 'tallos' for 'young twig'"
 #~ msgstr "'നിര്‍ജീവം' എന്നതിനു് ഗ്രീക്കില്‍ 'എയിര്‍ഗണ്‍'"
 
@@ -1163,32 +1123,26 @@ msgstr "നില 7"
 #~ msgstr "ലെഡിനു് ലാറ്റിനില്‍ 'പ്ലംബം'"
 
 #, fuzzy
-#~| msgid "Named after Marie Curie."
 #~ msgid "Named after Poland to honor Marie Curie"
 #~ msgstr "മേരീ ക്യൂറിയുടെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Greek 'barys' for 'heavy'"
 #~ msgid "Greek 'astator' for 'changing'"
 #~ msgstr "'ഭാരം' എന്നതിനു് ഗ്രീക്കില്‍ 'ബാരിസ്' എന്നു് പറയുന്നു"
 
 #, fuzzy
-#~| msgid "Named after the scientist Ernest Rutherford"
 #~ msgid "Named after the German god of thunder: Thor"
 #~ msgstr "ഏര്‍ണെസ്റ്റ് റൂഥര്‍ഫോര്‍ഡ് എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after the scientist Lise Meitner."
 #~ msgid "Named after the planet Neptune."
 #~ msgstr "ലിസ് മെയിറ്റ്നര്‍ എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after the scientist Niels Bohr."
 #~ msgid "Named after the planet Pluto."
 #~ msgstr "നീല്‍സ് ബോര്‍ എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after Marie Curie."
 #~ msgid "Named after America."
 #~ msgstr "മേരീ ക്യൂറിയുടെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
@@ -1196,7 +1150,6 @@ msgstr "നില 7"
 #~ msgstr "മേരീ ക്യൂറിയുടെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after the scientist Enrico Fermi."
 #~ msgid "Named after the US-State of California."
 #~ msgstr "എര്‍ണികോ ഫെര്‍മി എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
@@ -1219,7 +1172,6 @@ msgstr "നില 7"
 #~ msgstr "ഏര്‍ണെസ്റ്റ് റൂഥര്‍ഫോര്‍ഡ് എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 
 #, fuzzy
-#~| msgid "Named after the scientist Albert Einstein."
 #~ msgid "Named after the science-town Dubna in Russia"
 #~ msgstr "ആല്‍ബേര്‍ട്ട് എയിന്‍സ്റ്റീന്‍ എന്ന ശാസ്ത്രജ്ഞന്റെ ഓര്‍മ്മയ്ക്കായിട്ടിരിക്കുന്ന പേരു്."
 

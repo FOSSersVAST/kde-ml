@@ -47,7 +47,6 @@ msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്�
 
 #: app/main.cpp:48
 #, fuzzy, kde-format
-#| msgid "Central configuration center for KDE."
 msgid "Central configuration center by KDE."
 msgstr "കെഡിഇയ്ക്കു് വേണ്ടിയുള്ള കേന്ദ്രീയ ക്രമീകരണ കേന്ദ്രം."
 
@@ -169,8 +168,6 @@ msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്�
 
 #: app/ToolTips/tooltipmanager.cpp:201
 #, fuzzy, kde-format
-#| msgid "<i>Contains 1 item</i>"
-#| msgid_plural "<i>Contains %1 items</i>"
 msgid "Contains 1 item"
 msgid_plural "Contains %1 items"
 msgstr[0] "<i>1 ഇനം ഉള്‍ക്കൊള്ളുന്നു</i>"
@@ -259,7 +256,6 @@ msgstr "നിയന്ത്രണ മൊഡ്യൂളുകളുടെ ച�
 
 #: icons/IconMode.cpp:66
 #, fuzzy, kde-format
-#| msgid "Apply Settings"
 msgid "All Settings"
 msgstr "സജ്ജീകരണങ്ങള്‍ നടപ്പിലാക്കുക"
 
@@ -270,8 +266,6 @@ msgstr "കീബോര്‍ഡ് കുറുക്കുവഴി: %1"
 
 #: sidebar/package/contents/ui/CategoriesPage.qml:61
 #, fuzzy, kde-format
-#| msgctxt "Search through a list of control modules"
-#| msgid "Search"
 msgid "Search..."
 msgstr "തെരയുക"
 
@@ -303,7 +297,6 @@ msgstr ""
 
 #: sidebar/SidebarMode.cpp:263
 #, fuzzy, kde-format
-#| msgid "Provides a categorized icons view of control modules."
 msgid "Provides a categorized sidebar for control modules."
 msgstr "നിയന്ത്രണ മൊഡ്യൂളുകളുടെ ചിഹ്നങ്ങള്‍ തരംതിരിച്ചു് കാണിയ്ക്കന്നു. "
 
@@ -335,12 +328,10 @@ msgstr[0] "<i>1 ഇനം ഉള്‍ക്കൊള്ളുന്നു</i>"
 msgstr[1] "<i>%1 ഇനങ്ങള്‍ ഉള്‍ക്കൊള്ളുന്നു</i>"
 
 #, fuzzy
-#~| msgid "System Settings"
 #~ msgid "System Settings Handbook"
 #~ msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "About %1"
 #~ msgid "About KDE"
 #~ msgstr "%1 ന്റെ അണിയറ വിശേഷം"
 

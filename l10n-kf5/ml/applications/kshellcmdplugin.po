@@ -282,7 +282,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "%1 കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show History Sidebar"
 #~ msgctxt "@title:window"
 #~ msgid "History"
 #~ msgstr "ചരിത്രമുള്ള വശത്തെ പട്ട കാണിയ്ക്കുക"
@@ -301,7 +300,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "പുതിയ ടാബില്‍ തുറക്കുക"
 
 #, fuzzy
-#~| msgid "Copy Link Address"
 #~ msgid "&Copy Link Address"
 #~ msgstr "ലിങ്കിന്റെ വിലാസം പകര്‍ത്തുക"
 
@@ -318,12 +316,10 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "&തീയതി ഉപയോഗിച്ചു്"
 
 #, fuzzy
-#~| msgid "Show History Sidebar"
 #~ msgid "Search in history"
 #~ msgstr "ചരിത്രമുള്ള വശത്തെ പട്ട കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Start without a default window"
 #~ msgid "Start without a default window, when called without URLs"
 #~ msgstr "സ്വതവേയുള്ള ജാലകമില്ലാതെ ആരംഭിക്കുക"
 
@@ -366,7 +362,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "ഹോം ഫോള്‍ഡര്‍"
 
 #, fuzzy
-#~| msgid "Home Page"
 #~ msgid "Home"
 #~ msgstr "പൂമുഖം"
 
@@ -448,7 +443,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "%1 ല്‍ നിന്നും തെരഞ്ഞെടുത്ത ഫയലുകളെ നീക്കേണ്ടതു്:"
 
 #, fuzzy
-#~| msgid "Closed Items"
 #~ msgctxt "This menu entry empties the closed items history"
 #~ msgid "Empty Closed Items History"
 #~ msgstr "അടച്ചു പൂട്ടിയ വസ്തുക്കള്‍"
@@ -487,7 +481,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "ഇപ്പോഴുള്ള സ്ഥാനത്തു് വച്ചു് പൂട്ടുക"
 
 #, fuzzy
-#~| msgid "&View"
 #~ msgctxt "This option links konqueror views"
 #~ msgid "Lin&k View"
 #~ msgstr "&കാഴ്ച"
@@ -510,13 +503,11 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "അടുത്തിടെ സന്ദര്‍ശിച്ചതു്"
 
 #, fuzzy
-#~| msgid "Show History Sidebar"
 #~ msgctxt "@action:inmenu Go"
 #~ msgid "Show History"
 #~ msgstr "ചരിത്രമുള്ള വശത്തെ പട്ട കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "&Save View Profile..."
 #~ msgid "&Save View Profile As..."
 #~ msgstr "കാഴ്ചാ പ്രൊഫൈല്‍ &സൂക്ഷിയ്ക്കുക..."
 
@@ -668,7 +659,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "ഫയലുകള്‍ &നീക്കുക..."
 
 #, fuzzy
-#~| msgid "Open Folder in Tabs"
 #~ msgid "Open bookmarks folder in new tabs"
 #~ msgstr "ഫോള്‍ഡര്‍ ടാബുകളില്‍ തുറക്കുക"
 
@@ -709,7 +699,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "&തുറക്കുക"
 
 #, fuzzy
-#~| msgid "Restore Session"
 #~ msgid "Rename Session"
 #~ msgstr "പ്രവര്‍ത്തനവേള വീണ്ടെടുക്കുക"
 
@@ -717,8 +706,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "സെഷന്‍ നിലവിലുണ്ടു്. മാറ്റി എഴുതണമോ?"
 
 #, fuzzy
-#~| msgid ""
-#~| "Konqueror didn't close correctly. Would you like to restore session?"
 #~ msgid ""
 #~ "Konqueror did not close correctly. Would you like to restore the previous "
 #~ "session?"
@@ -744,8 +731,8 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ "to fit the tab width."
 #~ msgstr ""
 #~ "ഈ പട്ടയില്‍ ഇപ്പോള്‍ തുറന്നിരിയ്ക്കുന്ന കിളിവാതിലുകളുടെ പട്ടികയുള്‍ക്കൊള്ളുന്നു. ഒരു കിളിവാതില്‍ "
-#~ "സജീവമാക്കാന്‍ ആ കിളിവാതിലില്‍ ഞെക്കുക. കിളിവാതിലുകളിലൂടെ സഞ്ചരിയ്ക്കാന്‍ നിങ്ങള്‍ക്കു് "
-#~ "കീബോര്‍ഡിലെ കുറുക്കുവഴികളും ഉപയോഗിയ്ക്കാം. കിളിവാതിലിനു് മുകളിലെഴുതിയിരിയ്ക്കുന്ന പദാവലി ആ "
+#~ "സജീവമാക്കാന്‍ ആ കിളിവാതിലില്‍ ഞെക്കുക. കിളിവാതിലുകളിലൂടെ സഞ്ചരിയ്ക്കാന്‍ നിങ്ങള്‍ക്കു് കീബോര്‍"
+#~ "ഡിലെ കുറുക്കുവഴികളും ഉപയോഗിയ്ക്കാം. കിളിവാതിലിനു് മുകളിലെഴുതിയിരിയ്ക്കുന്ന പദാവലി ആ "
 #~ "കിളിവാതിലില്‍ ഇപ്പോള്‍ തുറന്നിരിയ്ക്കുന്ന ഉള്ളടക്കങ്ങള്‍ കാണിയ്ക്കുന്നു; കിളിവാതിലിന്റെ "
 #~ "വീതിയിലൊതുങ്ങാനായി തലക്കെട്ടു് ചുരുക്കിയിട്ടുണ്ടെങ്കില്‍ നിങ്ങളുടെ മൌസ് കിളിവാതിലിനു് മുകളില്‍ "
 #~ "കൊണ്ടുവന്നാല്‍ മതി."
@@ -778,14 +765,11 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "വീണ്ടും അയയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "@action:inmenu Go"
-#~| msgid "Show History in Sidebar"
 #~ msgctxt "@action:inmenu Add"
 #~ msgid "History Sidebar Module"
 #~ msgstr "വശത്തുള്ള പട്ടയില്‍ ചരിത്രം കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Show History Sidebar"
 #~ msgctxt "@title:tab"
 #~ msgid "History"
 #~ msgstr "ചരിത്രമുള്ള വശത്തെ പട്ട കാണിയ്ക്കുക"
@@ -806,8 +790,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr[1] "ദിവസങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "@action:inmenu Go"
-#~| msgid "Show History in Sidebar"
 #~ msgctxt "@action:inmenu Add"
 #~ msgid "Places Sidebar Module"
 #~ msgstr "വശത്തുള്ള പട്ടയില്‍ ചരിത്രം കാണിയ്ക്കുക"
@@ -819,7 +801,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "ക്രമികരണങ്ങള്‍ക്കുള്ള ബട്ടണ്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Close View"
 #~ msgid "Close Sidebar"
 #~ msgstr "കാഴ്ച അടയ്ക്കുക"
 
@@ -893,7 +874,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "ഫോള്‍ഡറിന്റെ പേരു് നല്‍കുക:"
 
 #, fuzzy
-#~| msgid "Name:"
 #~ msgctxt "@label"
 #~ msgid "Name:"
 #~ msgstr "പേര്:"
@@ -917,7 +897,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "നെറ്റ്‌വര്‍ക്ക് ഫോള്‍ഡറുകള്‍"
 
 #, fuzzy
-#~| msgid "&Bookmarks"
 #~ msgid "Bookmarks"
 #~ msgstr "&ഓര്‍മ്മക്കുറിപ്പുകള്‍"
 
@@ -937,7 +916,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "വിശദാംശങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "PNG<br />MNG<br />JPG<br />GIF"
 #~ msgid "PNG<br />JPG<br />GIF"
 #~ msgstr "PNG<br />MNG<br />JPG<br />GIF"
 
@@ -1017,7 +995,6 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #~ msgstr "ലിപി തിരഞ്ഞെടുക്കുക..."
 
 #, fuzzy
-#~| msgid "Open tabs inside current window"
 #~ msgid "Open folders in separate windows"
 #~ msgstr "നിലവിലുള്ള ജാലകത്തില്‍ കിളിവാതിലുകള്‍ തുറക്കുക"
 

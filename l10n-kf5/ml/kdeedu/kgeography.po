@@ -1011,16 +1011,12 @@ msgstr "ഖാര്‍ട്ടോം"
 
 #: africa.kgm:298
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Not Sudan"
 msgctxt "africa.kgm"
 msgid "South Sudan"
 msgstr "സുഡാന്‍ അല്ല"
 
 #: africa.kgm:299
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Juba"
 msgctxt "africa.kgm"
 msgid "Juba"
 msgstr "ജൂബ"
@@ -1141,8 +1137,6 @@ msgstr "കാനറി ദ്വീപുകള്‍ (സ്പെയിന്
 
 #: africa.kgm:359
 #, fuzzy, kde-format
-#| msgctxt "spain.kgm"
-#| msgid "Las Palmas de Gran Canaria and Santa Cruz de Tenerife"
 msgctxt "africa.kgm"
 msgid "Las Palmas de Gran Canaria and Santa Cruz de Tenerife"
 msgstr "ലാസ് പല്‍മാസ് ഡി ഗ്രാന്‍ കനേറിയയും സാന്റാ ക്രൂസ് ഡി ടെനെറൈഫും"
@@ -1167,8 +1161,6 @@ msgstr "റീയൂണിയന്‍ (ഫ്രാന്‍സ്)"
 
 #: africa.kgm:371
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Saint Denis"
 msgctxt "africa.kgm"
 msgid "Saint-Denis"
 msgstr "സെയിന്റ് ഡെനിസ്"
@@ -1415,8 +1407,6 @@ msgstr "ടെപെലേനെ"
 
 #: albania_districts.kgm:193
 #, fuzzy, kde-format
-#| msgctxt "albania_prefectures.kgm"
-#| msgid "Tirana"
 msgctxt "albania_districts.kgm"
 msgid "Tirana"
 msgstr "ടിറാന"
@@ -1681,8 +1671,6 @@ msgstr "എല്‍ ഊദ്"
 
 #: algeria.kgm:113
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "El Tarf"
 msgctxt "algeria.kgm"
 msgid "El Taref"
 msgstr "എല്‍ ടര്‍ഫ്"
@@ -1863,232 +1851,174 @@ msgstr "ത്ലെംചെന്‍"
 
 #: andhrapradesh.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Andhra Pradesh"
 msgctxt "andhrapradesh.kgm"
 msgid "Andhra Pradesh"
 msgstr "ആന്ധ്ര പ്രദേശ്"
 
 #: andhrapradesh.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "andhrapradesh.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: andhrapradesh.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Andhra Pradesh"
 msgctxt "andhrapradesh.kgm"
 msgid "Not Andhra Pradesh"
 msgstr "ആന്ധ്ര പ്രദേശ്"
 
 #: andhrapradesh.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "andhrapradesh.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: andhrapradesh.kgm:18 andhrapradesh.kgm:19
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Asadabad"
 msgctxt "andhrapradesh.kgm"
 msgid "Adilabad"
 msgstr "അസാദാബാദ്"
 
 #: andhrapradesh.kgm:23 andhrapradesh.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Islamabad"
 msgctxt "andhrapradesh.kgm"
 msgid "Nizamabad"
 msgstr "ഇസ്ലാമബാദ്"
 
 #: andhrapradesh.kgm:28 andhrapradesh.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Krishnagar"
 msgctxt "andhrapradesh.kgm"
 msgid "Karimnagar"
 msgstr "കൃഷ്​ണഗര്‍"
 
 #: andhrapradesh.kgm:33
 #, fuzzy, kde-format
-#| msgctxt "indonesia.kgm"
-#| msgid "Medan"
 msgctxt "andhrapradesh.kgm"
 msgid "Medak"
 msgstr "മേദന്‍"
 
 #: andhrapradesh.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "estonia.kgm"
-#| msgid "Saare"
 msgctxt "andhrapradesh.kgm"
 msgid "Sangareddy"
 msgstr "സാരെ"
 
 #: andhrapradesh.kgm:38 andhrapradesh.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Parana"
 msgctxt "andhrapradesh.kgm"
 msgid "Warangal"
 msgstr "പരാന"
 
 #: andhrapradesh.kgm:43
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Bangalore"
 msgctxt "andhrapradesh.kgm"
 msgid "Rangareddy"
 msgstr "ബാംഗ്ലൂര്‍"
 
 #: andhrapradesh.kgm:44 andhrapradesh.kgm:48 andhrapradesh.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Hyderabad"
 msgctxt "andhrapradesh.kgm"
 msgid "Hyderabad"
 msgstr "ഹൈദരാബാദ്"
 
 #: andhrapradesh.kgm:53 andhrapradesh.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Khachmaz"
 msgctxt "andhrapradesh.kgm"
 msgid "Khammam"
 msgstr "ഖാഷ്മസ്"
 
 #: andhrapradesh.kgm:58 andhrapradesh.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "japan.kgm"
-#| msgid "Nagano"
 msgctxt "andhrapradesh.kgm"
 msgid "Nalgonda"
 msgstr "നഗാനോ"
 
 #: andhrapradesh.kgm:63 andhrapradesh.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "ncamerica.kgm"
-#| msgid "Managua"
 msgctxt "andhrapradesh.kgm"
 msgid "Mahbubnagar"
 msgstr "മനാഗ്വ"
 
 #: andhrapradesh.kgm:68 andhrapradesh.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "albania_districts.kgm"
-#| msgid "Kurbin"
 msgctxt "andhrapradesh.kgm"
 msgid "Kurnool"
 msgstr "കര്‍ബിന്‍"
 
 #: andhrapradesh.kgm:73 andhrapradesh.kgm:74
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Janakpur"
 msgctxt "andhrapradesh.kgm"
 msgid "Anantapur"
 msgstr "ജനക്പുര്‍"
 
 #: andhrapradesh.kgm:78 andhrapradesh.kgm:79
 #, fuzzy, kde-format
-#| msgctxt "bangladesh.kgm"
-#| msgid "Chittagong"
 msgctxt "andhrapradesh.kgm"
 msgid "Chittoor"
 msgstr "ചിറ്റഗോങ്ങ്"
 
 #: andhrapradesh.kgm:83 andhrapradesh.kgm:84
 #, fuzzy, kde-format
-#| msgctxt "guatemala.kgm"
-#| msgid "Cuilapa"
 msgctxt "andhrapradesh.kgm"
 msgid "Cuddapah"
 msgstr "കുയിലാപ്പ"
 
 #: andhrapradesh.kgm:88 andhrapradesh.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "portugal_regions.kgm"
-#| msgid "Norte"
 msgctxt "andhrapradesh.kgm"
 msgid "Nellore"
 msgstr "നോര്‍ട്ടെ"
 
 #: andhrapradesh.kgm:93
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Pakistan"
 msgctxt "andhrapradesh.kgm"
 msgid "Prakasam"
 msgstr "പാകിസ്ഥാന്‍"
 
 #: andhrapradesh.kgm:94
 #, fuzzy, kde-format
-#| msgctxt "poland.kgm"
-#| msgid "Opole"
 msgctxt "andhrapradesh.kgm"
 msgid "Ongole"
 msgstr "ഒപൊള്‍"
 
 #: andhrapradesh.kgm:98 andhrapradesh.kgm:99
 #, fuzzy, kde-format
-#| msgctxt "zimbabwe_districts.kgm"
-#| msgid "Gutu"
 msgctxt "andhrapradesh.kgm"
 msgid "Guntur"
 msgstr "ഗുതു"
 
 #: andhrapradesh.kgm:103
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Krishna"
 msgctxt "andhrapradesh.kgm"
 msgid "Krishna"
 msgstr "ക്രിഷ്ണ"
 
 #: andhrapradesh.kgm:104
 #, fuzzy, kde-format
-#| msgctxt "italy.kgm"
-#| msgid "Basilicata"
 msgctxt "andhrapradesh.kgm"
 msgid "Machilipatnam"
 msgstr "ബസിലിക്കാറ്റ"
 
 #: andhrapradesh.kgm:108
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Godavari"
 msgctxt "andhrapradesh.kgm"
 msgid "West Godavari"
 msgstr "ഗോദാവരി"
 
 #: andhrapradesh.kgm:109
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Eure"
 msgctxt "andhrapradesh.kgm"
 msgid "Eluru"
 msgstr "യൂറെ"
 
 #: andhrapradesh.kgm:113
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Godavari"
 msgctxt "andhrapradesh.kgm"
 msgid "East Godavari"
 msgstr "ഗോദാവരി"
 
 #: andhrapradesh.kgm:114
 #, fuzzy, kde-format
-#| msgctxt "zaire2006.kgm"
-#| msgid "Kabinda"
 msgctxt "andhrapradesh.kgm"
 msgid "Kakinada"
 msgstr "കബിന്‍ഡ"
@@ -2101,16 +2031,12 @@ msgstr ""
 
 #: andhrapradesh.kgm:123 andhrapradesh.kgm:124
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Itanagar"
 msgctxt "andhrapradesh.kgm"
 msgid "Vizianagaram"
 msgstr "ഇറ്റാനഗര്‍"
 
 #: andhrapradesh.kgm:128 andhrapradesh.kgm:129
 #, fuzzy, kde-format
-#| msgctxt "greece_prefectures.kgm"
-#| msgid "Trikala"
 msgctxt "andhrapradesh.kgm"
 msgid "Srikakulam"
 msgstr "ത്രികല"
@@ -2273,8 +2199,6 @@ msgstr "കുവാന്‍സ നോര്‍ട്ടെ"
 
 #: angola_provinces.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "angola_provinces.kgm"
-#| msgid "Ndalatando"
 msgctxt "angola_provinces.kgm"
 msgid "N'dalatando"
 msgstr "ഡലാടാന്‍ഡൊ"
@@ -2840,64 +2764,48 @@ msgstr "യെറേവന്‍"
 
 #: arunachalpradesh.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Arunachal Pradesh"
 msgctxt "arunachalpradesh.kgm"
 msgid "Arunachal Pradesh"
 msgstr "അരുണാചല്‍ പ്രദേശ്"
 
 #: arunachalpradesh.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "arunachalpradesh.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: arunachalpradesh.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Arunachal Pradesh"
 msgctxt "arunachalpradesh.kgm"
 msgid "Not Arunachal Pradesh"
 msgstr "അരുണാചല്‍ പ്രദേശ്"
 
 #: arunachalpradesh.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "arunachalpradesh.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: arunachalpradesh.kgm:18
 #, fuzzy, kde-format
-#| msgctxt "albania_prefectures.kgm"
-#| msgid "Tirana"
 msgctxt "arunachalpradesh.kgm"
 msgid "Tirap"
 msgstr "ടിറാന"
 
 #: arunachalpradesh.kgm:19
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Khost"
 msgctxt "arunachalpradesh.kgm"
 msgid "Khonsa"
 msgstr "ഘോസ്ത്"
 
 #: arunachalpradesh.kgm:23 arunachalpradesh.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "north_korea.kgm"
-#| msgid "Chagang"
 msgctxt "arunachalpradesh.kgm"
 msgid "Changlang"
 msgstr "ചഗാങ്ങ്"
 
 #: arunachalpradesh.kgm:28
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Lot"
 msgctxt "arunachalpradesh.kgm"
 msgid "Lohit"
 msgstr "ലോട്ട്"
@@ -2910,168 +2818,126 @@ msgstr ""
 
 #: arunachalpradesh.kgm:33
 #, fuzzy, kde-format
-#| msgctxt "iraq.kgm"
-#| msgid "An Najaf"
 msgctxt "arunachalpradesh.kgm"
 msgid "Anjaw"
 msgstr "അന്‍ നജാഫ്"
 
 #: arunachalpradesh.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "usa.kgm"
-#| msgid "Hawaii"
 msgctxt "arunachalpradesh.kgm"
 msgid "Hawai"
 msgstr "ഹവായി"
 
 #: arunachalpradesh.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "Dingwall"
 msgctxt "arunachalpradesh.kgm"
 msgid "Lower Dibang Valley"
 msgstr "ഡിങ്‌വാള്‍"
 
 #: arunachalpradesh.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "italyprovince.kgm"
-#| msgid "Rovigo"
 msgctxt "arunachalpradesh.kgm"
 msgid "Roing"
 msgstr "റൊവീഗോ"
 
 #: arunachalpradesh.kgm:43
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "Dingwall"
 msgctxt "arunachalpradesh.kgm"
 msgid "Dibang Valley"
 msgstr "ഡിങ്‌വാള്‍"
 
 #: arunachalpradesh.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Ain"
 msgctxt "arunachalpradesh.kgm"
 msgid "Anini"
 msgstr "അയിന്‍"
 
 #: arunachalpradesh.kgm:48
 #, fuzzy, kde-format
-#| msgctxt "austria.kgm"
-#| msgid "Upper Austria"
 msgctxt "arunachalpradesh.kgm"
 msgid "Upper Siang"
 msgstr "മേലെ ഓസ്ട്രിയ"
 
 #: arunachalpradesh.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "burma.kgm"
-#| msgid "Yangon"
 msgctxt "arunachalpradesh.kgm"
 msgid "Yingkiong"
 msgstr "യാന്‍ഗോണ്‍"
 
 #: arunachalpradesh.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "East Lothian"
 msgctxt "arunachalpradesh.kgm"
 msgid "East Siang"
 msgstr "കിഴക്കന്‍ ലോതിയന്‍"
 
 #: arunachalpradesh.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "Laghouat"
 msgctxt "arunachalpradesh.kgm"
 msgid "Pasighat"
 msgstr "ലാഘുവാത്"
 
 #: arunachalpradesh.kgm:58
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "West Bank"
 msgctxt "arunachalpradesh.kgm"
 msgid "West Siang"
 msgstr "വെസ്റ്റ് ബാങ്ക്"
 
 #: arunachalpradesh.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "belgium.kgm"
-#| msgid "Arlon"
 msgctxt "arunachalpradesh.kgm"
 msgid "Along"
 msgstr "ആര്‍ലണ്‍"
 
 #: arunachalpradesh.kgm:63 arunachalpradesh.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Taiwan"
 msgctxt "arunachalpradesh.kgm"
 msgid "Tawang"
 msgstr "തായ്‌വാന്‍"
 
 #: arunachalpradesh.kgm:68
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "West Bengal"
 msgctxt "arunachalpradesh.kgm"
 msgid "West Kameng"
 msgstr "വെസ്റ്റ് ബംഗാള്‍"
 
 #: arunachalpradesh.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "Bouira"
 msgctxt "arunachalpradesh.kgm"
 msgid "Bomdila"
 msgstr "ബൂയ്റ"
 
 #: arunachalpradesh.kgm:73
 #, fuzzy, kde-format
-#| msgctxt "new-zealand.kgm"
-#| msgid "East Cape"
 msgctxt "arunachalpradesh.kgm"
 msgid "East Kameng"
 msgstr "കിഴക്കന്‍ കേപ്പ്"
 
 #: arunachalpradesh.kgm:74
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "Senapati"
 msgctxt "arunachalpradesh.kgm"
 msgid "Seppa"
 msgstr "സേനാപതി"
 
 #: arunachalpradesh.kgm:78
 #, fuzzy, kde-format
-#| msgctxt "indonesia.kgm"
-#| msgid "Papua"
 msgctxt "arunachalpradesh.kgm"
 msgid "Papum Pare"
 msgstr "പപ്വാ"
 
 #: arunachalpradesh.kgm:79
 #, fuzzy, kde-format
-#| msgctxt "oceania.kgm"
-#| msgid "Apia"
 msgctxt "arunachalpradesh.kgm"
 msgid "Yupia"
 msgstr "ആപിയ"
 
 #: arunachalpradesh.kgm:83
 #, fuzzy, kde-format
-#| msgctxt "austria.kgm"
-#| msgid "Lower Austria"
 msgctxt "arunachalpradesh.kgm"
 msgid "Lower Subansiri"
 msgstr "താഴേ ഓസ്ട്രിയ"
 
 #: arunachalpradesh.kgm:84
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Cairo"
 msgctxt "arunachalpradesh.kgm"
 msgid "Ziro"
 msgstr "കെയ്റോ"
@@ -3084,24 +2950,18 @@ msgstr ""
 
 #: arunachalpradesh.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "greece_prefectures.kgm"
-#| msgid "Florina"
 msgctxt "arunachalpradesh.kgm"
 msgid "Koloriang"
 msgstr "ഫ്ളോറീന"
 
 #: arunachalpradesh.kgm:93
 #, fuzzy, kde-format
-#| msgctxt "austria.kgm"
-#| msgid "Upper Austria"
 msgctxt "arunachalpradesh.kgm"
 msgid "Upper Subansiri"
 msgstr "മേലെ ഓസ്ട്രിയ"
 
 #: arunachalpradesh.kgm:94
 #, fuzzy, kde-format
-#| msgctxt "japan.kgm"
-#| msgid "Sapporo"
 msgctxt "arunachalpradesh.kgm"
 msgid "Daporijo"
 msgstr "സപ്പോറോ"
@@ -3162,8 +3022,6 @@ msgstr "ഈജിപ്ത്"
 
 #: asia.kgm:48
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Cairo"
 msgctxt "asia.kgm"
 msgid "Cairo"
 msgstr "കെയ്റോ"
@@ -3182,8 +3040,6 @@ msgstr "എറിട്രിയ"
 
 #: asia.kgm:68
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Asmara"
 msgctxt "asia.kgm"
 msgid "Asmara"
 msgstr "അസ്മാര"
@@ -3196,8 +3052,6 @@ msgstr "എത്യോപ്യ"
 
 #: asia.kgm:78
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Addis Ababa"
 msgctxt "asia.kgm"
 msgid "Addis Ababa"
 msgstr "അഡിസ് അബാബ"
@@ -3258,8 +3112,6 @@ msgstr "കെനിയ"
 
 #: asia.kgm:128
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Nairobi"
 msgctxt "asia.kgm"
 msgid "Nairobi"
 msgstr "നെയ്റോബി"
@@ -3320,8 +3172,6 @@ msgstr "സോമാലിയ"
 
 #: asia.kgm:178
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Mogadishu"
 msgctxt "asia.kgm"
 msgid "Mogadishu"
 msgstr "മൊഗാദിഷു"
@@ -3334,24 +3184,18 @@ msgstr "സുഡാന്‍"
 
 #: asia.kgm:188
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Khartoum"
 msgctxt "asia.kgm"
 msgid "Khartoum"
 msgstr "ഖാര്‍ട്ടോം"
 
 #: asia.kgm:196
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Not Sudan"
 msgctxt "asia.kgm"
 msgid "South Sudan"
 msgstr "സുഡാന്‍ അല്ല"
 
 #: asia.kgm:198
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Juba"
 msgctxt "asia.kgm"
 msgid "Juba"
 msgstr "ജൂബ"
@@ -3376,8 +3220,6 @@ msgstr "ഉഗാണ്ട"
 
 #: asia.kgm:218
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Kampala"
 msgctxt "asia.kgm"
 msgid "Kampala"
 msgstr "കാംപാല"
@@ -3432,8 +3274,6 @@ msgstr "ഉക്രൈന്‍"
 
 #: asia.kgm:267
 #, fuzzy, kde-format
-#| msgctxt "europe.kgm"
-#| msgid "Kiev"
 msgctxt "asia.kgm"
 msgid "Kiev"
 msgstr "കീവ്"
@@ -3883,264 +3723,198 @@ msgstr "ശരിയായ ഉത്തരങ്ങള്‍: %1/%2"
 
 #: assam.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Assam"
 msgctxt "assam.kgm"
 msgid "Assam"
 msgstr "ആസ്സാം"
 
 #: assam.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "assam.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: assam.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Assam"
 msgctxt "assam.kgm"
 msgid "Not Assam"
 msgstr "ആസ്സാം"
 
 #: assam.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "assam.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: assam.kgm:18 assam.kgm:19
 #, fuzzy, kde-format
-#| msgctxt "albania_districts.kgm"
-#| msgid "Skrapar"
 msgctxt "assam.kgm"
 msgid "Kokrajhar"
 msgstr "സ്ക്രാപര്‍"
 
 #: assam.kgm:23 assam.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "argentina.kgm"
-#| msgid "Chubut"
 msgctxt "assam.kgm"
 msgid "Dhuburi"
 msgstr "ചുബുത്"
 
 #: assam.kgm:28 assam.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "chile.kgm"
-#| msgid "Valparaiso"
 msgctxt "assam.kgm"
 msgid "Goalpara"
 msgstr "വാല്പറൈസൊ"
 
 #: assam.kgm:33 assam.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "dominican_republic.kgm"
-#| msgid "Bonao"
 msgctxt "assam.kgm"
 msgid "Bongaigaon"
 msgstr "ബൊണോ"
 
 #: assam.kgm:38 assam.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "greece_prefectures.kgm"
-#| msgid "arta"
 msgctxt "assam.kgm"
 msgid "Barpeta"
 msgstr "ആര്‍ട്ട"
 
 #: assam.kgm:43 assam.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "mexico_states.kgm"
-#| msgid "Nayarit"
 msgctxt "assam.kgm"
 msgid "Nalbari"
 msgstr "നയാരിത്"
 
 #: assam.kgm:48 assam.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Dispur"
 msgctxt "assam.kgm"
 msgid "Dispur"
 msgstr "ദിസ്‌പുര്‍"
 
 #: assam.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "sweden.kgm"
-#| msgid "Kalmar"
 msgctxt "assam.kgm"
 msgid "Kamrup"
 msgstr "കല്‍മാര്‍"
 
 #: assam.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Gujarat"
 msgctxt "assam.kgm"
 msgid "Guwahati"
 msgstr "ഗുജറാത്ത്"
 
 #: assam.kgm:58 assam.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "mongolia.kgm"
-#| msgid "Darhan"
 msgctxt "assam.kgm"
 msgid "Darrang"
 msgstr "ദര്‍ഹന്‍"
 
 #: assam.kgm:63 assam.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "caribbean.kgm"
-#| msgid "Marigot"
 msgctxt "assam.kgm"
 msgid "Marigaon"
 msgstr "മാരിഗട്ട്"
 
 #: assam.kgm:68
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "Tamenglong"
 msgctxt "assam.kgm"
 msgid "Karbi Anglong"
 msgstr "താമെങ്‌ലോങ്"
 
 #: assam.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Dispur"
 msgctxt "assam.kgm"
 msgid "Diphu"
 msgstr "ദിസ്‌പുര്‍"
 
 #: assam.kgm:73
 #, fuzzy, kde-format
-#| msgctxt "finland_regions.kgm"
-#| msgid "North Carelia"
 msgctxt "assam.kgm"
 msgid "North Cachar Hills"
 msgstr "വടക്കന്‍ കരേല്യ"
 
 #: assam.kgm:74
 #, fuzzy, kde-format
-#| msgctxt "vietnam.kgm"
-#| msgid "Ha Dong"
 msgctxt "assam.kgm"
 msgid "Haflong"
 msgstr "ഹ ഡോങ്"
 
 #: assam.kgm:78
 #, fuzzy, kde-format
-#| msgctxt "colombia.kgm"
-#| msgid "Cauca"
 msgctxt "assam.kgm"
 msgid "Cachar"
 msgstr "കോക്ക"
 
 #: assam.kgm:79
 #, fuzzy, kde-format
-#| msgctxt "china.kgm"
-#| msgid "Sichuan"
 msgctxt "assam.kgm"
 msgid "Silchar"
 msgstr "സിചുവാന്‍"
 
 #: assam.kgm:83 assam.kgm:84
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Balakan"
 msgctxt "assam.kgm"
 msgid "Hailakandi"
 msgstr "ബലാകന്‍"
 
 #: assam.kgm:88 assam.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Raiganj"
 msgctxt "assam.kgm"
 msgid "Karimganj"
 msgstr "റായിഗഞ്ച്"
 
 #: assam.kgm:93 assam.kgm:94
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "Laghouat"
 msgctxt "assam.kgm"
 msgid "Golaghat"
 msgstr "ലാഘുവാത്"
 
 #: assam.kgm:98 assam.kgm:99
 #, fuzzy, kde-format
-#| msgctxt "japan.kgm"
-#| msgid "Nagano"
 msgctxt "assam.kgm"
 msgid "Nagaon"
 msgstr "നഗാനോ"
 
 #: assam.kgm:103 assam.kgm:104
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Manipur"
 msgctxt "assam.kgm"
 msgid "Sonitpur"
 msgstr "മ​ണിപ്പൂര്‍"
 
 #: assam.kgm:108
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Raipur"
 msgctxt "assam.kgm"
 msgid "Lakhimpur"
 msgstr "റായ്‌പുര്‍"
 
 #: assam.kgm:109
 #, fuzzy, kde-format
-#| msgctxt "tripura.kgm"
-#| msgid "North Tripura"
 msgctxt "assam.kgm"
 msgid "North Lakhimpur"
 msgstr "വടക്കന്‍ ത്രിപുര"
 
 #: assam.kgm:113 assam.kgm:114
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Jordan"
 msgctxt "assam.kgm"
 msgid "Jorhat"
 msgstr "ജോര്‍ദാന്‍"
 
 #: assam.kgm:118 assam.kgm:119
 #, fuzzy, kde-format
-#| msgctxt "tripura.kgm"
-#| msgid "Dhalai"
 msgctxt "assam.kgm"
 msgid "Dhemaji"
 msgstr "ധലായി"
 
 #: assam.kgm:123 assam.kgm:124
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Srinagar"
 msgctxt "assam.kgm"
 msgid "Sibsagar"
 msgstr "ശ്രീനഗര്‍"
 
 #: assam.kgm:128 assam.kgm:129
 #, fuzzy, kde-format
-#| msgctxt "europe.kgm"
-#| msgid "Riga"
 msgctxt "assam.kgm"
 msgid "Dibrugarh"
 msgstr "റിഗാ"
 
 #: assam.kgm:133 assam.kgm:134
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Tunisia"
 msgctxt "assam.kgm"
 msgid "Tinsukia"
 msgstr "ടുണീഷ്യ"
@@ -4459,8 +4233,6 @@ msgstr "അഗ്സു"
 
 #: azerbaijan.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Shaki city"
 msgctxt "azerbaijan.kgm"
 msgid "Shirvan city"
 msgstr "ഷാകി സിറ്റി"
@@ -4521,8 +4293,6 @@ msgstr "ദാഷ്കസന്‍"
 
 #: azerbaijan.kgm:103
 #, fuzzy, kde-format
-#| msgctxt "yemen.kgm"
-#| msgid "Shabwah"
 msgctxt "azerbaijan.kgm"
 msgid "Shabran"
 msgstr "ഷബ്‌വാഹ്"
@@ -4787,8 +4557,6 @@ msgstr "ഖാങ്കെണ്ടി സിറ്റി"
 
 #: azerbaijan.kgm:323
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Dongola"
 msgctxt "azerbaijan.kgm"
 msgid "Goygol"
 msgstr "ഡൊങ്കോള"
@@ -4981,24 +4749,18 @@ msgstr "അതിര്"
 
 #: belarus.kgm:18
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Belarus"
 msgctxt "belarus.kgm"
 msgid "Not Belarus"
 msgstr "ബെലാറസ്"
 
 #: belarus.kgm:23 belarus.kgm:58
 #, fuzzy, kde-format
-#| msgctxt "europe.kgm"
-#| msgid "Minsk"
 msgctxt "belarus.kgm"
 msgid "Minsk"
 msgstr "മിന്‍സ്ക്"
 
 #: belarus.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "new-zealand.kgm"
-#| msgid "West Coast"
 msgctxt "belarus.kgm"
 msgid "Brest Voblast"
 msgstr "പടിഞ്ഞാറന്‍ തീരം"
@@ -5011,8 +4773,6 @@ msgstr "ബ്രെസ്റ്റ്"
 
 #: belarus.kgm:36
 #, fuzzy, kde-format
-#| msgctxt "ukraine.kgm"
-#| msgid "Oblasts"
 msgctxt "belarus.kgm"
 msgid "Homyel Voblast"
 msgstr "ഒബ്ലാസ്റ്റുകള്‍"
@@ -5025,8 +4785,6 @@ msgstr "ഹോമ്യല്‍"
 
 #: belarus.kgm:43
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Vologda"
 msgctxt "belarus.kgm"
 msgid "Hrodna Voblast"
 msgstr "വൊലോഗ്ഡ"
@@ -5039,32 +4797,24 @@ msgstr "ഹ്രോഡ്ന"
 
 #: belarus.kgm:50
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Mahilyow"
 msgctxt "belarus.kgm"
 msgid "Mahilyow Voblast"
 msgstr "മാഹില്യോ"
 
 #: belarus.kgm:51
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Mahilyow"
 msgctxt "belarus.kgm"
 msgid "Mahilyow"
 msgstr "മാഹില്യോ"
 
 #: belarus.kgm:57
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "belarus.kgm"
 msgid "Minsk Voblast"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
 
 #: belarus.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Lipetsk"
 msgctxt "belarus.kgm"
 msgid "Vitebsk Voblast"
 msgstr "ലിപെറ്റ്സ്ക്"
@@ -5191,8 +4941,6 @@ msgstr "മോണ്‍സ്"
 
 #: belgium.kgm:115
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Ariège"
 msgctxt "belgium.kgm"
 msgid "Liège"
 msgstr "ആരിയെജ്"
@@ -5469,16 +5217,12 @@ msgstr "ഷെംഗാങ്ങ്"
 
 #: bihar.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Bihar"
 msgctxt "bihar.kgm"
 msgid "Bihar"
 msgstr "ബീഹാര്‍"
 
 #: bihar.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "bihar.kgm"
 msgid "District"
 msgstr "ജില്ല"
@@ -5491,16 +5235,12 @@ msgstr ""
 
 #: bihar.kgm:7
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Federal District"
 msgctxt "@title"
 msgid "Headquarters of Districts"
 msgstr "ഫെഡറല്‍ ജില്ല"
 
 #: bihar.kgm:8
 #, fuzzy, no-c-format, kde-format
-#| msgctxt "@title:group"
-#| msgid "%1 is the capital of..."
 msgctxt "@title:group"
 msgid "%1 is the district headquarters of..."
 msgstr "%1 ഏതിന്റെ തലസ്ഥാനമാണു്..."
@@ -5513,16 +5253,12 @@ msgstr ""
 
 #: bihar.kgm:12
 #, fuzzy, kde-format
-#| msgctxt "bhutan.kgm"
-#| msgid "Not Bhutan"
 msgctxt "bihar.kgm"
 msgid "Not Bihar"
 msgstr "ഭൂട്ടാന്‍ അല്ല"
 
 #: bihar.kgm:17
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "bihar.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
@@ -5547,8 +5283,6 @@ msgstr ""
 
 #: bihar.kgm:28
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Bihar"
 msgctxt "bihar.kgm"
 msgid "Motihari"
 msgstr "ബീഹാര്‍"
@@ -5561,16 +5295,12 @@ msgstr ""
 
 #: bihar.kgm:37 bihar.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "japan.kgm"
-#| msgid "Saitama"
 msgctxt "bihar.kgm"
 msgid "Sitamarhi"
 msgstr "സൈതാമ"
 
 #: bihar.kgm:42 bihar.kgm:43
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Montauban"
 msgctxt "bihar.kgm"
 msgid "Madhubani"
 msgstr "മൌണ്ടോബാന്‍"
@@ -5583,80 +5313,60 @@ msgstr ""
 
 #: bihar.kgm:52 bihar.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "armenia.kgm"
-#| msgid "Ararat"
 msgctxt "bihar.kgm"
 msgid "Araria"
 msgstr "അരാരത്"
 
 #: bihar.kgm:57 bihar.kgm:58
 #, fuzzy, kde-format
-#| msgctxt "zaire2006.kgm"
-#| msgid "Kisangani"
 msgctxt "bihar.kgm"
 msgid "Kishanganj"
 msgstr "കിസങ്കനി"
 
 #: bihar.kgm:62 bihar.kgm:63
 #, fuzzy, kde-format
-#| msgctxt "italyprovince.kgm"
-#| msgid "Isernia"
 msgctxt "bihar.kgm"
 msgid "Purnia"
 msgstr "ഇസേര്‍നിയ"
 
 #: bihar.kgm:67 bihar.kgm:68
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Janakpur"
 msgctxt "bihar.kgm"
 msgid "Madhepura"
 msgstr "ജനക്പുര്‍"
 
 #: bihar.kgm:72 bihar.kgm:73
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Maharashtra"
 msgctxt "bihar.kgm"
 msgid "Saharsa"
 msgstr "മഹാരാഷ്ട്ര"
 
 #: bihar.kgm:77 bihar.kgm:78
 #, fuzzy, kde-format
-#| msgctxt "mongolia.kgm"
-#| msgid "Arhangay"
 msgctxt "bihar.kgm"
 msgid "Darbhanga"
 msgstr "അര്‍ഹാങ്കായ്"
 
 #: bihar.kgm:82 bihar.kgm:83
 #, fuzzy, kde-format
-#| msgctxt "pakistan.kgm"
-#| msgid "Muzaffarabad"
 msgctxt "bihar.kgm"
 msgid "Muzaffarpur"
 msgstr "മുസാഫറാബാദ്"
 
 #: bihar.kgm:87 bihar.kgm:88
 #, fuzzy, kde-format
-#| msgctxt "bhutan.kgm"
-#| msgid "Dagana"
 msgctxt "bihar.kgm"
 msgid "Gopalganj"
 msgstr "ഡഗാന"
 
 #: bihar.kgm:92 bihar.kgm:93
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Taiwan"
 msgctxt "bihar.kgm"
 msgid "Siwan"
 msgstr "തായ്‌വാന്‍"
 
 #: bihar.kgm:97
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Sharan"
 msgctxt "bihar.kgm"
 msgid "Saran"
 msgstr "ഷരണ്‍"
@@ -5675,16 +5385,12 @@ msgstr ""
 
 #: bihar.kgm:103
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Raipur"
 msgctxt "bihar.kgm"
 msgid "Hajipur"
 msgstr "റായ്‌പുര്‍"
 
 #: bihar.kgm:107 bihar.kgm:108
 #, fuzzy, kde-format
-#| msgctxt "philippines.kgm"
-#| msgid "Samar"
 msgctxt "bihar.kgm"
 msgid "Samastipur"
 msgstr "സമര്‍"
@@ -5697,72 +5403,54 @@ msgstr ""
 
 #: bihar.kgm:117 bihar.kgm:118
 #, fuzzy, kde-format
-#| msgctxt "germany.kgm"
-#| msgid "Bavaria"
 msgctxt "bihar.kgm"
 msgid "Khagaria"
 msgstr "ബവേറിയ"
 
 #: bihar.kgm:122 bihar.kgm:123
 #, fuzzy, kde-format
-#| msgctxt "indonesia.kgm"
-#| msgid "Jayapura"
 msgctxt "bihar.kgm"
 msgid "Bhagalpur"
 msgstr "ജയാപുര"
 
 #: bihar.kgm:127 bihar.kgm:128
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Bihar"
 msgctxt "bihar.kgm"
 msgid "Katihar"
 msgstr "ബീഹാര്‍"
 
 #: bihar.kgm:132 bihar.kgm:133
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Angers"
 msgctxt "bihar.kgm"
 msgid "Munger"
 msgstr "ആങ്കേര്‍സ്"
 
 #: bihar.kgm:137 bihar.kgm:138
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Raipur"
 msgctxt "bihar.kgm"
 msgid "Lakhisarai"
 msgstr "റായ്‌പുര്‍"
 
 #: bihar.kgm:142 bihar.kgm:143
 #, fuzzy, kde-format
-#| msgctxt "tripura.kgm"
-#| msgid "South Tripura"
 msgctxt "bihar.kgm"
 msgid "Sheikhpura"
 msgstr "തെക്കന്‍ ത്രിപുര"
 
 #: bihar.kgm:147
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Nagaland"
 msgctxt "bihar.kgm"
 msgid "Nalanda"
 msgstr "നാഗാലാന്‍ഡ്"
 
 #: bihar.kgm:148
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Mazari Sharif"
 msgctxt "bihar.kgm"
 msgid "Bihar Sharif"
 msgstr "മസരി ഷറിഫ്"
 
 #: bihar.kgm:152 bihar.kgm:153
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Patna"
 msgctxt "bihar.kgm"
 msgid "Patna"
 msgstr "പാറ്റ്ന"
@@ -5775,8 +5463,6 @@ msgstr ""
 
 #: bihar.kgm:158
 #, fuzzy, kde-format
-#| msgctxt "greece_prefectures.kgm"
-#| msgid "Arta"
 msgctxt "bihar.kgm"
 msgid "Ara"
 msgstr "ആര്‍ട്ട"
@@ -5801,24 +5487,18 @@ msgstr ""
 
 #: bihar.kgm:172
 #, fuzzy, kde-format
-#| msgctxt "armenia.kgm"
-#| msgid "Kotayk"
 msgctxt "bihar.kgm"
 msgid "Rohtas"
 msgstr "കൊടൈക്ക്"
 
 #: bihar.kgm:173
 #, fuzzy, kde-format
-#| msgctxt "indonesia.kgm"
-#| msgid "Mataram"
 msgctxt "bihar.kgm"
 msgid "Sasaram"
 msgstr "മാതരം"
 
 #: bihar.kgm:177 bihar.kgm:178
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Asadabad"
 msgctxt "bihar.kgm"
 msgid "Aurangabad"
 msgstr "അസാദാബാദ്"
@@ -5831,8 +5511,6 @@ msgstr ""
 
 #: bihar.kgm:187 bihar.kgm:188
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Jalalabad"
 msgctxt "bihar.kgm"
 msgid "Jehanabad"
 msgstr "ജലാലബാദ്"
@@ -5845,8 +5523,6 @@ msgstr ""
 
 #: bihar.kgm:197 bihar.kgm:198
 #, fuzzy, kde-format
-#| msgctxt "canada.kgm"
-#| msgid "Canada"
 msgctxt "bihar.kgm"
 msgid "Nawada"
 msgstr "കാനഡ"
@@ -5859,8 +5535,6 @@ msgstr ""
 
 #: bihar.kgm:207 bihar.kgm:208
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Bankura"
 msgctxt "bihar.kgm"
 msgid "Banka"
 msgstr "ബാങ്കുര"
@@ -5963,8 +5637,6 @@ msgstr "സാന്റ ക്രൂസ്"
 
 #: bolivia.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "dominican_republic.kgm"
-#| msgid "Santa Cruz del Seibo"
 msgctxt "bolivia.kgm"
 msgid "Santa Cruz de la Sierra"
 msgstr "സാന്റാ ക്രൂസ് ഡെല്‍ സീബോ"
@@ -6282,8 +5954,6 @@ msgstr ""
 
 #: brazil.kgm:20
 #, fuzzy, kde-format
-#| msgctxt "switzerland.kgm"
-#| msgid "Delémont"
 msgctxt "brazil.kgm"
 msgid "Belém"
 msgstr "ഡെലിമോണ്ട്"
@@ -6320,8 +5990,6 @@ msgstr "ഫെഡറല്‍ ജില്ല"
 
 #: brazil.kgm:50
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Brasilia"
 msgctxt "brazil.kgm"
 msgid "Brasília"
 msgstr "ബ്രസീലിയ"
@@ -6346,16 +6014,12 @@ msgstr "മാടൊ ഗ്രോസ്സൊ"
 
 #: brazil.kgm:70
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Cuiaba"
 msgctxt "brazil.kgm"
 msgid "Cuiabá"
 msgstr "കുയാബ"
 
 #: brazil.kgm:78
 #, fuzzy, kde-format
-#| msgctxt "argentina.kgm"
-#| msgid "Paraná"
 msgctxt "brazil.kgm"
 msgid "Paraná"
 msgstr "പരാന"
@@ -6374,16 +6038,12 @@ msgstr "സാന്റ കാറ്ററീന"
 
 #: brazil.kgm:90
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Florianopolis"
 msgctxt "brazil.kgm"
 msgid "Florianópolis"
 msgstr "ഫ്ലോറിയാനോപ്പോളിസ്"
 
 #: brazil.kgm:98
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Ceara"
 msgctxt "brazil.kgm"
 msgid "Ceará"
 msgstr "സീറ"
@@ -6408,32 +6068,24 @@ msgstr "ഗോയാനിയ"
 
 #: brazil.kgm:118
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Paraiba"
 msgctxt "brazil.kgm"
 msgid "Paraíba"
 msgstr "പരൈബ"
 
 #: brazil.kgm:120
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Joao Pessoa"
 msgctxt "brazil.kgm"
 msgid "João Pessoa"
 msgstr "ജോ പെസ്സോവ"
 
 #: brazil.kgm:128
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Amapa"
 msgctxt "brazil.kgm"
 msgid "Amapá"
 msgstr "അമാപ"
 
 #: brazil.kgm:130
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Macapa"
 msgctxt "brazil.kgm"
 msgid "Macapá"
 msgstr "മക്കാപ"
@@ -6446,8 +6098,6 @@ msgstr "അലഗോസ്"
 
 #: brazil.kgm:140
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Maceio"
 msgctxt "brazil.kgm"
 msgid "Maceió"
 msgstr "മാസ്യൂ"
@@ -6502,8 +6152,6 @@ msgstr "പോര്‍ട്ടോ അലഗ്രെ"
 
 #: brazil.kgm:188
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Rondonia"
 msgctxt "brazil.kgm"
 msgid "Rondônia"
 msgstr "റോണ്ടോണിയ"
@@ -6564,40 +6212,30 @@ msgstr "സാല്‍വഡോര്‍"
 
 #: brazil.kgm:238
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Maranhao"
 msgctxt "brazil.kgm"
 msgid "Maranhão"
 msgstr "മരാണ്‍ഹാവൊ"
 
 #: brazil.kgm:240
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Sao Luis"
 msgctxt "brazil.kgm"
 msgid "São Luís"
 msgstr "സാവൌ ലൂയി"
 
 #: brazil.kgm:248
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Sao Paulo State"
 msgctxt "brazil.kgm"
 msgid "São Paulo State"
 msgstr "സാവോ പോളോ സംസ്ഥാനം"
 
 #: brazil.kgm:250
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Sao Paulo (city)"
 msgctxt "brazil.kgm"
 msgid "São Paulo (city)"
 msgstr "സാവോ പോളോ (നഗരം)"
 
 #: brazil.kgm:258
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Piaui"
 msgctxt "brazil.kgm"
 msgid "Piauí"
 msgstr "പിയൊവി"
@@ -6610,8 +6248,6 @@ msgstr "തെരേസീന"
 
 #: brazil.kgm:268
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Espirito Santo"
 msgctxt "brazil.kgm"
 msgid "Espírito Santo"
 msgstr "എസ്പിരിറ്റോ സാന്റോ"
@@ -6834,40 +6470,30 @@ msgstr "യാംബോല്‍"
 
 #: burkina_provinces.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "spain_provinces.kgm"
-#| msgid "Spain (Provinces)"
 msgctxt "burkina_provinces.kgm"
 msgid "Burkina Faso (Provinces)"
 msgstr "സ്പെയിന്‍ (പ്രവിശ്യകള്‍)"
 
 #: burkina_provinces.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Provinces"
 msgctxt "burkina_provinces.kgm"
 msgid "Provinces"
 msgstr "പ്രവിശ്യകള്‍"
 
 #: burkina_provinces.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "burkina_provinces.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: burkina_provinces.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Burkina Faso"
 msgctxt "burkina_provinces.kgm"
 msgid "Not Burkina Faso"
 msgstr "ബുര്‍ക്കിന ഫാസോ"
 
 #: burkina_provinces.kgm:18
 #, fuzzy, kde-format
-#| msgctxt "norway.kgm"
-#| msgid "Hordaland"
 msgctxt "burkina_provinces.kgm"
 msgid "Oudalan"
 msgstr "ഹോര്‍ദലാന്റ്"
@@ -6886,8 +6512,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Djibouti"
 msgctxt "burkina_provinces.kgm"
 msgid "Djibo"
 msgstr "ജിബൂട്ടി"
@@ -6906,8 +6530,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:33
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "Laghouat"
 msgctxt "burkina_provinces.kgm"
 msgid "Yagha"
 msgstr "ലാഘുവാത്"
@@ -6920,8 +6542,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "greece.kgm"
-#| msgid "Komotini"
 msgctxt "burkina_provinces.kgm"
 msgid "Komondjari"
 msgstr "കൊമോടിനി"
@@ -6964,8 +6584,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Pamaiba"
 msgctxt "burkina_provinces.kgm"
 msgid "Pama"
 msgstr "പമൈബ"
@@ -6978,8 +6596,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "Ouargla"
 msgctxt "burkina_provinces.kgm"
 msgid "Ouargaye"
 msgstr "ഊര്‍ഗ്ല"
@@ -7010,8 +6626,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:73
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "N'Djamena"
 msgctxt "burkina_provinces.kgm"
 msgid "Namentenga"
 msgstr "എന്‍ഡ്യമേന"
@@ -7048,24 +6662,18 @@ msgstr ""
 
 #: burkina_provinces.kgm:88
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Yaoundé"
 msgctxt "burkina_provinces.kgm"
 msgid "Zoundwéogo"
 msgstr "യാഊണ്‍ടെ"
 
 #: burkina_provinces.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "sikkim.kgm"
-#| msgid "Mangan"
 msgctxt "burkina_provinces.kgm"
 msgid "Manga"
 msgstr "മങ്കന്‍"
 
 #: burkina_provinces.kgm:93
 #, fuzzy, kde-format
-#| msgctxt "cameroon_departments.kgm"
-#| msgid "Batouri"
 msgctxt "burkina_provinces.kgm"
 msgid "Nahouri"
 msgstr "ബതൂരി"
@@ -7084,16 +6692,12 @@ msgstr ""
 
 #: burkina_provinces.kgm:99
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Lomé"
 msgctxt "burkina_provinces.kgm"
 msgid "Léo"
 msgstr "ലോമെ"
 
 #: burkina_provinces.kgm:103
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Cairo"
 msgctxt "burkina_provinces.kgm"
 msgid "Ziro"
 msgstr "കെയ്റോ"
@@ -7124,8 +6728,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:114
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Ouagadougou"
 msgctxt "burkina_provinces.kgm"
 msgid "Ouagadougou"
 msgstr "വാഗദുഗു"
@@ -7138,8 +6740,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:119
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Ouagadougou"
 msgctxt "burkina_provinces.kgm"
 msgid "Koudougou"
 msgstr "വാഗദുഗു"
@@ -7164,8 +6764,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:129
 #, fuzzy, kde-format
-#| msgctxt "cameroon_departments.kgm"
-#| msgid "Kousséri"
 msgctxt "burkina_provinces.kgm"
 msgid "Boussé"
 msgstr "കൗസ്സെറി"
@@ -7178,24 +6776,18 @@ msgstr ""
 
 #: burkina_provinces.kgm:134
 #, fuzzy, kde-format
-#| msgctxt "burma.kgm"
-#| msgid "Kayah"
 msgctxt "burkina_provinces.kgm"
 msgid "Kaya"
 msgstr "കയാ"
 
 #: burkina_provinces.kgm:138
 #, fuzzy, kde-format
-#| msgctxt "cameroon_departments.kgm"
-#| msgid "Baham"
 msgctxt "burkina_provinces.kgm"
 msgid "Bam"
 msgstr "ബഹാം"
 
 #: burkina_provinces.kgm:139
 #, fuzzy, kde-format
-#| msgctxt "cameroon_departments.kgm"
-#| msgid "Kousséri"
 msgctxt "burkina_provinces.kgm"
 msgid "Kongoussi"
 msgstr "കൗസ്സെറി"
@@ -7214,8 +6806,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:148
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Dodoma"
 msgctxt "burkina_provinces.kgm"
 msgid "Zondoma"
 msgstr "ഡൊഡോമ"
@@ -7228,8 +6818,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:153
 #, fuzzy, kde-format
-#| msgctxt "south_africa.kgm"
-#| msgid "Gauteng"
 msgctxt "burkina_provinces.kgm"
 msgid "Yatenga"
 msgstr "ഗോട്ടെങ്ങ്"
@@ -7242,8 +6830,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:158
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Bangui"
 msgctxt "burkina_provinces.kgm"
 msgid "Sanguié"
 msgstr "ബങുയി"
@@ -7268,8 +6854,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:168
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Douro"
 msgctxt "burkina_provinces.kgm"
 msgid "Sourou"
 msgstr "ഡൌറോ"
@@ -7282,8 +6866,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:173
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Nyala"
 msgctxt "burkina_provinces.kgm"
 msgid "Nayala"
 msgstr "നിയാള"
@@ -7302,8 +6884,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:179
 #, fuzzy, kde-format
-#| msgctxt "zimbabwe_districts.kgm"
-#| msgid "Goromonzi"
 msgctxt "burkina_provinces.kgm"
 msgid "Boromo"
 msgstr "ഗോരോമോണ്‍സി"
@@ -7316,8 +6896,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:184
 #, fuzzy, kde-format
-#| msgctxt "cameroon_departments.kgm"
-#| msgid "Noun"
 msgctxt "burkina_provinces.kgm"
 msgid "Nouna"
 msgstr "നവൂന്‍"
@@ -7330,8 +6908,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:189
 #, fuzzy, kde-format
-#| msgctxt "puertorico.kgm"
-#| msgid "San Lorenzo"
 msgctxt "burkina_provinces.kgm"
 msgid "Solenzo"
 msgstr "സാന്‍ ലോറെന്‍സൊ"
@@ -7350,16 +6926,12 @@ msgstr ""
 
 #: burkina_provinces.kgm:198
 #, fuzzy, kde-format
-#| msgctxt "japan.kgm"
-#| msgid "Tsu"
 msgctxt "burkina_provinces.kgm"
 msgid "Tuy"
 msgstr "ത്സു"
 
 #: burkina_provinces.kgm:199
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Yaoundé"
 msgctxt "burkina_provinces.kgm"
 msgid "Houndé"
 msgstr "യാഊണ്‍ടെ"
@@ -7372,8 +6944,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:204
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Sadarak"
 msgctxt "burkina_provinces.kgm"
 msgid "Orodara"
 msgstr "സദാരക്"
@@ -7386,24 +6956,18 @@ msgstr ""
 
 #: burkina_provinces.kgm:209
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "Tindouf"
 msgctxt "burkina_provinces.kgm"
 msgid "Sindou"
 msgstr "ടിന്‍ഡൂഫ്"
 
 #: burkina_provinces.kgm:213
 #, fuzzy, kde-format
-#| msgctxt "italyprovince.kgm"
-#| msgid "Como"
 msgctxt "burkina_provinces.kgm"
 msgid "Comoé"
 msgstr "കോമോ"
 
 #: burkina_provinces.kgm:214
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "Banff"
 msgctxt "burkina_provinces.kgm"
 msgid "Banfora"
 msgstr "ബാന്‍ഫ്"
@@ -7458,8 +7022,6 @@ msgstr ""
 
 #: burkina_provinces.kgm:238
 #, fuzzy, kde-format
-#| msgctxt "oceania.kgm"
-#| msgid "Noumea"
 msgctxt "burkina_provinces.kgm"
 msgid "Noumbiel"
 msgstr "നാവുമിയാ"
@@ -7472,39 +7034,30 @@ msgstr ""
 
 #: burkina_regions.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Burkina Faso"
 msgctxt "burkina_regions.kgm"
 msgid "Burkina Faso (Regions)"
 msgstr "ബുര്‍ക്കിന ഫാസോ"
 
 #: burkina_regions.kgm:5
 #, fuzzy, kde-format
-#| msgid "Regions"
 msgctxt "burkina_regions.kgm"
 msgid "Regions"
 msgstr "പ്രദേശങ്ങള്‍"
 
 #: burkina_regions.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "burkina_regions.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: burkina_regions.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Burkina Faso"
 msgctxt "burkina_regions.kgm"
 msgid "Not Burkina Faso"
 msgstr "ബുര്‍ക്കിന ഫാസോ"
 
 #: burkina_regions.kgm:18
 #, fuzzy, kde-format
-#| msgctxt "cameroon_provinces.kgm"
-#| msgid "East"
 msgctxt "burkina_regions.kgm"
 msgid "Est"
 msgstr "കിഴക്ക്"
@@ -7529,24 +7082,18 @@ msgstr ""
 
 #: burkina_regions.kgm:28
 #, fuzzy, kde-format
-#| msgctxt "cameroon_provinces.kgm"
-#| msgid "Centre"
 msgctxt "burkina_regions.kgm"
 msgid "Centre-Nord"
 msgstr "കേന്ദ്രം"
 
 #: burkina_regions.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "burma.kgm"
-#| msgid "Kayah"
 msgctxt "burkina_regions.kgm"
 msgid "Kaya"
 msgstr "കയാ"
 
 #: burkina_regions.kgm:33
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Nord"
 msgctxt "burkina_regions.kgm"
 msgid "Nord"
 msgstr "നോര്‍ഡ്"
@@ -7571,8 +7118,6 @@ msgstr ""
 
 #: burkina_regions.kgm:43
 #, fuzzy, kde-format
-#| msgctxt "cameroon_provinces.kgm"
-#| msgid "Centre"
 msgctxt "burkina_regions.kgm"
 msgid "Centre-Est"
 msgstr "കേന്ദ്രം"
@@ -7585,48 +7130,36 @@ msgstr ""
 
 #: burkina_regions.kgm:48
 #, fuzzy, kde-format
-#| msgctxt "cameroon_provinces.kgm"
-#| msgid "Centre"
 msgctxt "burkina_regions.kgm"
 msgid "Centre-Sud"
 msgstr "കേന്ദ്രം"
 
 #: burkina_regions.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "sikkim.kgm"
-#| msgid "Mangan"
 msgctxt "burkina_regions.kgm"
 msgid "Manga"
 msgstr "മങ്കന്‍"
 
 #: burkina_regions.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "cameroon_provinces.kgm"
-#| msgid "Centre"
 msgctxt "burkina_regions.kgm"
 msgid "Centre"
 msgstr "കേന്ദ്രം"
 
 #: burkina_regions.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Ouagadougou"
 msgctxt "burkina_regions.kgm"
 msgid "Ouagadougou"
 msgstr "വാഗദുഗു"
 
 #: burkina_regions.kgm:58
 #, fuzzy, kde-format
-#| msgctxt "cameroon_provinces.kgm"
-#| msgid "Centre"
 msgctxt "burkina_regions.kgm"
 msgid "Centre-Ouest"
 msgstr "കേന്ദ്രം"
 
 #: burkina_regions.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Ouagadougou"
 msgctxt "burkina_regions.kgm"
 msgid "Koudougou"
 msgstr "വാഗദുഗു"
@@ -7645,8 +7178,6 @@ msgstr ""
 
 #: burkina_regions.kgm:68
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Haut-Rhin"
 msgctxt "burkina_regions.kgm"
 msgid "Hauts-bassins"
 msgstr "ഹോട്ട്-റിന്‍"
@@ -7659,24 +7190,18 @@ msgstr ""
 
 #: burkina_regions.kgm:73
 #, fuzzy, kde-format
-#| msgctxt "greece_prefectures.kgm"
-#| msgid "Cyclades"
 msgctxt "burkina_regions.kgm"
 msgid "Cascades"
 msgstr "സൈക്ലേഡ്സ്"
 
 #: burkina_regions.kgm:74
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "Banff"
 msgctxt "burkina_regions.kgm"
 msgid "Banfora"
 msgstr "ബാന്‍ഫ്"
 
 #: burkina_regions.kgm:78
 #, fuzzy, kde-format
-#| msgctxt "haiti.kgm"
-#| msgid "Sud-Est"
 msgctxt "burkina_regions.kgm"
 msgid "Sud-Ouest"
 msgstr "സുഡ്-എസ്റ്റ്"
@@ -8589,8 +8114,6 @@ msgstr "ന്ഡിയന്‍"
 
 #: cameroon_departments.kgm:309
 #, fuzzy, kde-format
-#| msgctxt "cameroon_departments.kgm"
-#| msgid "Mudemba"
 msgctxt "cameroon_departments.kgm"
 msgid "Mundemba"
 msgstr "മുഡെംബ"
@@ -9360,8 +8883,6 @@ msgstr "ആല്‍ട റിബാഗോര്‍സ"
 
 #: catalonia_comarques.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "catalonia_comarques.kgm"
-#| msgid "Pont de Suert"
 msgctxt "catalonia_comarques.kgm"
 msgid "El Pont de Suert"
 msgstr "പോണ്ട് ഡി സുയര്‍ട്ട്"
@@ -9800,192 +9321,144 @@ msgstr "ഗ്രാനൊലെര്‍സ്"
 
 #: chhattisgarh.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Chhatisgarh"
 msgctxt "chhattisgarh.kgm"
 msgid "Chhattisgarh"
 msgstr "ഛത്തീസ്ഗര്‍ഹ്"
 
 #: chhattisgarh.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "chhattisgarh.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: chhattisgarh.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Chhatisgarh"
 msgctxt "chhattisgarh.kgm"
 msgid "Not Chhattisgarh"
 msgstr "ഛത്തീസ്ഗര്‍ഹ്"
 
 #: chhattisgarh.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "chhattisgarh.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: chhattisgarh.kgm:18
 #, fuzzy, kde-format
-#| msgctxt "bulgaria.kgm"
-#| msgid "Burgas"
 msgctxt "chhattisgarh.kgm"
 msgid "Surguja"
 msgstr "ബുര്‍ഗാസ്"
 
 #: chhattisgarh.kgm:19
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Alipur"
 msgctxt "chhattisgarh.kgm"
 msgid "Ambikapur"
 msgstr "അലിപുര്‍"
 
 #: chhattisgarh.kgm:23 chhattisgarh.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "spain_provinces.kgm"
-#| msgid "Soria"
 msgctxt "chhattisgarh.kgm"
 msgid "Koriya"
 msgstr "സോറിയ"
 
 #: chhattisgarh.kgm:28 chhattisgarh.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Jaipur"
 msgctxt "chhattisgarh.kgm"
 msgid "Jashpur"
 msgstr "ജയ്പ്പുര്‍"
 
 #: chhattisgarh.kgm:33 chhattisgarh.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "zimbabwe_districts.kgm"
-#| msgid "Kariba"
 msgctxt "chhattisgarh.kgm"
 msgid "Korba"
 msgstr "കരീബ"
 
 #: chhattisgarh.kgm:38 chhattisgarh.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Bilasuvar"
 msgctxt "chhattisgarh.kgm"
 msgid "Bilaspur"
 msgstr "ബിലസുവര്‍"
 
 #: chhattisgarh.kgm:43 chhattisgarh.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "europe.kgm"
-#| msgid "Riga"
 msgctxt "chhattisgarh.kgm"
 msgid "Raigarh"
 msgstr "റിഗാ"
 
 #: chhattisgarh.kgm:48
 #, fuzzy, kde-format
-#| msgctxt "zaire2006.kgm"
-#| msgid "Kabinda"
 msgctxt "chhattisgarh.kgm"
 msgid "Kabirdham"
 msgstr "കബിന്‍ഡ"
 
 #: chhattisgarh.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "bulgaria.kgm"
-#| msgid "Kardzhali"
 msgctxt "chhattisgarh.kgm"
 msgid "Kawardha"
 msgstr "കര്‍ദ്ഷാലി"
 
 #: chhattisgarh.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "china.kgm"
-#| msgid "Jiangxi"
 msgctxt "chhattisgarh.kgm"
 msgid "Janjgir-Champa"
 msgstr "ജിയാങ്സി"
 
 #: chhattisgarh.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "china.kgm"
-#| msgid "Jiangxi"
 msgctxt "chhattisgarh.kgm"
 msgid "Janjgir"
 msgstr "ജിയാങ്സി"
 
 #: chhattisgarh.kgm:58 chhattisgarh.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "mexico_states.kgm"
-#| msgid "Durango"
 msgctxt "chhattisgarh.kgm"
 msgid "Durg"
 msgstr "ദുരാങ്കോ"
 
 #: chhattisgarh.kgm:63 chhattisgarh.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Raipur"
 msgctxt "chhattisgarh.kgm"
 msgid "Raipur"
 msgstr "റായ്‌പുര്‍"
 
 #: chhattisgarh.kgm:68 chhattisgarh.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "zaire2006.kgm"
-#| msgid "Kananga"
 msgctxt "chhattisgarh.kgm"
 msgid "Rajnandgaon"
 msgstr "കനാങ്ഗ"
 
 #: chhattisgarh.kgm:73 chhattisgarh.kgm:74
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Mahakam"
 msgctxt "chhattisgarh.kgm"
 msgid "Mahasamund"
 msgstr "മഹാകം"
 
 #: chhattisgarh.kgm:78 chhattisgarh.kgm:79
 #, fuzzy, kde-format
-#| msgctxt "botswana.kgm"
-#| msgid "Kanye"
 msgctxt "chhattisgarh.kgm"
 msgid "Kanker"
 msgstr "കാന്യെ"
 
 #: chhattisgarh.kgm:83
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Bastia"
 msgctxt "chhattisgarh.kgm"
 msgid "Bastar"
 msgstr "ബാസ്റ്റിയ"
 
 #: chhattisgarh.kgm:84
 #, fuzzy, kde-format
-#| msgctxt "indonesia.kgm"
-#| msgid "Jayapura"
 msgctxt "chhattisgarh.kgm"
 msgid "Jagdalpur"
 msgstr "ജയാപുര"
 
 #: chhattisgarh.kgm:88 chhattisgarh.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "canada.kgm"
-#| msgid "Canada"
 msgctxt "chhattisgarh.kgm"
 msgid "Dantewada"
 msgstr "കാനഡ"
 
 #: chhattisgarh.kgm:93 chhattisgarh.kgm:94
 #, fuzzy, kde-format
-#| msgctxt "iran.kgm"
-#| msgid "Sari"
 msgctxt "chhattisgarh.kgm"
 msgid "Dhamtari"
 msgstr "ശരി"
@@ -10166,32 +9639,24 @@ msgstr "സാന്റിയാഗോ"
 
 #: chile.kgm:88
 #, fuzzy, kde-format
-#| msgctxt "ecuador.kgm"
-#| msgid "Los Ríos"
 msgctxt "chile.kgm"
 msgid "Los Rios"
 msgstr "ലോസ് റിയോസ്"
 
 #: chile.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "spain.kgm"
-#| msgid "Galicia"
 msgctxt "chile.kgm"
 msgid "Valdivia"
 msgstr "ഗലീസ്യ"
 
 #: chile.kgm:93
 #, fuzzy, kde-format
-#| msgctxt "poland.kgm"
-#| msgid "Warmia and Masuria"
 msgctxt "chile.kgm"
 msgid "Arica and Parinacota"
 msgstr "വാര്‍മിയ ആന്‍ഡ് മസൂരിയ"
 
 #: chile.kgm:94
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Africa"
 msgctxt "chile.kgm"
 msgid "Arica"
 msgstr "ആഫ്രിക്ക‌"
@@ -10888,8 +10353,6 @@ msgstr "ഗ്വെയ്നിയ"
 
 #: colombia.kgm:160
 #, fuzzy, kde-format
-#| msgctxt "mexico_states.kgm"
-#| msgid "Mérida"
 msgctxt "colombia.kgm"
 msgid "Inírida"
 msgstr "മെറിഡ"
@@ -10902,8 +10365,6 @@ msgstr "ഗ്വാവിയാറെ"
 
 #: colombia.kgm:170
 #, fuzzy, kde-format
-#| msgctxt "paraguay.kgm"
-#| msgid "Salto del Guairá"
 msgctxt "colombia.kgm"
 msgid "San Jose del Guaviare"
 msgstr "സാല്‍ട്ടോ ഡെല്‍ ഗുവൈര"
@@ -11192,8 +10653,6 @@ msgstr "ലിമൊണ്‍"
 
 #: costa_rica.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "honduras.kgm"
-#| msgid "Puerto Lempira"
 msgctxt "costa_rica.kgm"
 msgid "Puerto Limón"
 msgstr "പ്യൂര്‍ട്ടോ ലെമ്പിര"
@@ -11260,16 +10719,12 @@ msgstr ""
 
 #: cuba.kgm:40
 #, fuzzy, kde-format
-#| msgctxt "peru.kgm"
-#| msgid "Lambayeque"
 msgctxt "cuba.kgm"
 msgid "Mayabeque"
 msgstr "ലമ്പായേക്"
 
 #: cuba.kgm:41
 #, fuzzy, kde-format
-#| msgctxt "dominican_republic.kgm"
-#| msgid "San José de Ocoa"
 msgctxt "cuba.kgm"
 msgid "San José de las Lajas"
 msgstr "സാന്‍ ഹോസെ ഡി ഒകോവ"
@@ -11426,8 +10881,6 @@ msgstr "നിക്കോഷ്യ"
 
 #: czech.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Mechi"
 msgctxt "czech.kgm"
 msgid "Czechia"
 msgstr "മേച്ചി"
@@ -11560,8 +11013,6 @@ msgstr "ജിഹ്ലാവ"
 
 #: denmark_counties.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "denmark_counties.kgm"
-#| msgid "Denmark (Counties)"
 msgctxt "denmark_counties.kgm"
 msgid "Denmark (Counties) (1970-2006)"
 msgstr "ഡന്‍മാര്‍ക്ക് (കൌണ്ടികള്‍)"
@@ -12332,24 +11783,18 @@ msgstr "മകാസ്"
 
 #: ecuador.kgm:103 ecuador.kgm:104
 #, fuzzy, kde-format
-#| msgctxt "el_salvador.kgm"
-#| msgid "Santa Ana"
 msgctxt "ecuador.kgm"
 msgid "Santa Elena"
 msgstr "സാന്റാ അനാ"
 
 #: ecuador.kgm:108
 #, fuzzy, kde-format
-#| msgctxt "dominican_republic.kgm"
-#| msgid "Santo Domingo de Guzmán"
 msgctxt "ecuador.kgm"
 msgid "Santo Domingo de los Tsáchilas"
 msgstr "സാന്റോ ഡൊമിങ്കോ ഡി ഗുസ്മാന്‍"
 
 #: ecuador.kgm:109
 #, fuzzy, kde-format
-#| msgctxt "dominican_republic.kgm"
-#| msgid "Santiago de los Caballeros"
 msgctxt "ecuador.kgm"
 msgid "Santo Domingo de Los Colorados"
 msgstr "സാന്റിയാഗോ ഡി ലോസ് കബാലെറോസ്"
@@ -12656,8 +12101,6 @@ msgstr "ഹര്‍ഗാദ"
 
 #: egypt.kgm:133
 #, fuzzy, kde-format
-#| msgctxt "egypt.kgm"
-#| msgid "Sharqia"
 msgctxt "egypt.kgm"
 msgid "Al Sharqia"
 msgstr "ഷര്‍ക്കിയ"
@@ -13210,8 +12653,6 @@ msgstr "സാഗ്രെബ്"
 
 #: europe.kgm:124
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Mechi"
 msgctxt "europe.kgm"
 msgid "Czechia"
 msgstr "മേച്ചി"
@@ -13260,8 +12701,6 @@ msgstr "ഹെത്സിങ്കി"
 
 #: europe.kgm:164
 #, fuzzy, kde-format
-#| msgctxt "greece.kgm"
-#| msgid "West Macedonia"
 msgctxt "europe.kgm"
 msgid "North Macedonia"
 msgstr "പടിഞ്ഞാറന്‍ മാസിഡോണിയ"
@@ -13640,16 +13079,12 @@ msgstr "വത്തിക്കാന്‍ സിറ്റി"
 
 #: europe.kgm:511
 #, fuzzy, kde-format
-#| msgctxt "argentina.kgm"
-#| msgid "Salta"
 msgctxt "europe.kgm"
 msgid "Malta"
 msgstr "സാള്‍ട്ട"
 
 #: europe.kgm:513
 #, fuzzy, kde-format
-#| msgctxt "honduras.kgm"
-#| msgid "Valle"
 msgctxt "europe.kgm"
 msgid "Valletta"
 msgstr "വാലെ"
@@ -13698,8 +13133,6 @@ msgstr "മരിയേഹാം"
 
 #: finland_regions.kgm:28
 #, fuzzy, kde-format
-#| msgctxt "finland_regions.kgm"
-#| msgid "North Carelia"
 msgctxt "finland_regions.kgm"
 msgid "North Karelia"
 msgstr "വടക്കന്‍ കരേല്യ"
@@ -13712,8 +13145,6 @@ msgstr "ജൊവെന്‍സൂ"
 
 #: finland_regions.kgm:33
 #, fuzzy, kde-format
-#| msgctxt "finland_regions.kgm"
-#| msgid "South Carelia"
 msgctxt "finland_regions.kgm"
 msgid "South Karelia"
 msgstr "തെക്കന്‍ കരേല്യ"
@@ -14578,8 +14009,6 @@ msgstr "മാര്‍ണി"
 
 #: france.kgm:495
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Châlon en Champagne"
 msgctxt "france.kgm"
 msgid "Châlons-en-Champagne"
 msgstr "ഷാലോന്‍ എന്‍ ഷാമ്പെയിന്‍"
@@ -15276,8 +14705,6 @@ msgstr "ഷാമ്പെയിന്‍-ആര്‍ഡെന്‍സ്"
 
 #: france_regions.kgm:90
 #, fuzzy, kde-format
-#| msgctxt "france_regions.kgm"
-#| msgid "Châlon en Champagne"
 msgctxt "france_regions.kgm"
 msgid "Châlons-en-Champagne"
 msgstr "ഷലോണ്‍ എന്‍ ഷാമ്പെയിന്‍"
@@ -15662,8 +15089,6 @@ msgstr "വീസ്ബാഡന്‍"
 
 #: germany.kgm:96
 #, fuzzy, kde-format
-#| msgctxt "germany.kgm"
-#| msgid "Mecklenburg-Western Pomerania"
 msgctxt "germany.kgm"
 msgid "Mecklenburg-Vorpommern"
 msgstr "മെക്ക്ളന്‍ബര്‍ഗ്-പടിഞ്ഞാറന്‍ പോമെറേനിയ"
@@ -15772,143 +15197,108 @@ msgstr "എര്‍ഫര്‍ട്ട്"
 
 #: ghana.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Ghana"
 msgctxt "ghana.kgm"
 msgid "Ghana"
 msgstr "ഘാന"
 
 #: ghana.kgm:6
 #, fuzzy, kde-format
-#| msgid "Regions"
 msgctxt "ghana.kgm"
 msgid "Regions"
 msgstr "പ്രദേശങ്ങള്‍"
 
 #: ghana.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "ghana.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: ghana.kgm:17
 #, fuzzy, kde-format
-#| msgctxt "iran.kgm"
-#| msgid "Gulf of Oman"
 msgctxt "ghana.kgm"
 msgid "Gulf of Guinea"
 msgstr "ഗള്‍ഫ് ഓഫ് ഒമാന്‍"
 
 #: ghana.kgm:26
 #, fuzzy, kde-format
-#| msgctxt "australia.kgm"
-#| msgid "Coast"
 msgctxt "ghana.kgm"
 msgid "Ivory Coast"
 msgstr "കടല്‍ത്തീരം"
 
 #: ghana.kgm:35
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Burkina Faso"
 msgctxt "ghana.kgm"
 msgid "Burkina Faso"
 msgstr "ബുര്‍ക്കിന ഫാസോ"
 
 #: ghana.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Togo"
 msgctxt "ghana.kgm"
 msgid "Togo"
 msgstr "ടോഗോ"
 
 #: ghana.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Upper Nile"
 msgctxt "ghana.kgm"
 msgid "Upper West"
 msgstr "മേലേ നൈല്‍"
 
 #: ghana.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Wau"
 msgctxt "ghana.kgm"
 msgid "Wa"
 msgstr "വാവു"
 
 #: ghana.kgm:62
 #, fuzzy, kde-format
-#| msgctxt "austria.kgm"
-#| msgid "Upper Austria"
 msgctxt "ghana.kgm"
 msgid "Upper East"
 msgstr "മേലെ ഓസ്ട്രിയ"
 
 #: ghana.kgm:63
 #, fuzzy, kde-format
-#| msgctxt "philippines.kgm"
-#| msgid "Batangas"
 msgctxt "ghana.kgm"
 msgid "Bolgatanga"
 msgstr "ബതാങ്കാസ്"
 
 #: ghana.kgm:71
 #, fuzzy, kde-format
-#| msgctxt "israel.kgm"
-#| msgid "Northern"
 msgctxt "ghana.kgm"
 msgid "Northern"
 msgstr "വടക്കന്‍"
 
 #: ghana.kgm:72
 #, fuzzy, kde-format
-#| msgctxt "mexico_states.kgm"
-#| msgid "Tamaulipas"
 msgctxt "ghana.kgm"
 msgid "Tamale"
 msgstr "താമോലിപ്പസ്"
 
 #: ghana.kgm:80
 #, fuzzy, kde-format
-#| msgctxt "philippines.kgm"
-#| msgid "Borongan"
 msgctxt "ghana.kgm"
 msgid "Brong-Ahafo"
 msgstr "ബൊറോങ്കാന്‍"
 
 #: ghana.kgm:81
 #, fuzzy, kde-format
-#| msgctxt "china.kgm"
-#| msgid "Shenyang"
 msgctxt "ghana.kgm"
 msgid "Sunyani"
 msgstr "ഷെന്‍യാങ്ങ്"
 
 #: ghana.kgm:90
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Volta"
 msgctxt "ghana.kgm"
 msgid "Volta"
 msgstr "വോള്‍ട്ട"
 
 #: ghana.kgm:91
 #, fuzzy, kde-format
-#| msgctxt "mongolia.kgm"
-#| msgid "Hovd"
 msgctxt "ghana.kgm"
 msgid "Ho"
 msgstr "ഹോവ്ഡ്"
 
 #: ghana.kgm:100
 #, fuzzy, kde-format
-#| msgctxt "colombia.kgm"
-#| msgid "Atlantico"
 msgctxt "ghana.kgm"
 msgid "Ashanti"
 msgstr "അറ്റ്‌ലാന്റിക്കോ"
@@ -15921,128 +15311,96 @@ msgstr ""
 
 #: ghana.kgm:110
 #, fuzzy, kde-format
-#| msgctxt "zambia_provinces.kgm"
-#| msgid "Eastern"
 msgctxt "ghana.kgm"
 msgid "Eastern"
 msgstr "കിഴക്കന്‍"
 
 #: ghana.kgm:111
 #, fuzzy, kde-format
-#| msgctxt "puertorico.kgm"
-#| msgid "Florida"
 msgctxt "ghana.kgm"
 msgid "Koforidua"
 msgstr "ഫ്ലോറിഡ"
 
 #: ghana.kgm:120
 #, fuzzy, kde-format
-#| msgctxt "zambia_provinces.kgm"
-#| msgid "Western"
 msgctxt "ghana.kgm"
 msgid "Western"
 msgstr "പടിഞ്ഞാറന്‍"
 
 #: ghana.kgm:121
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Mekong"
 msgctxt "ghana.kgm"
 msgid "Sekondi"
 msgstr "മെക്കോങ്"
 
 #: ghana.kgm:130
 #, fuzzy, kde-format
-#| msgctxt "botswana.kgm"
-#| msgid "Central"
 msgctxt "ghana.kgm"
 msgid "Central"
 msgstr "മദ്ധ്യ"
 
 #: ghana.kgm:131
 #, fuzzy, kde-format
-#| msgctxt "new-zealand.kgm"
-#| msgid "West Coast"
 msgctxt "ghana.kgm"
 msgid "Cape Coast"
 msgstr "പടിഞ്ഞാറന്‍ തീരം"
 
 #: ghana.kgm:140
 #, fuzzy, kde-format
-#| msgctxt "poland.kgm"
-#| msgid "Greater Poland"
 msgctxt "ghana.kgm"
 msgid "Greater Accra"
 msgstr "ഗ്രേറ്റര്‍ പോളണ്ട്"
 
 #: ghana.kgm:141
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Accra"
 msgctxt "ghana.kgm"
 msgid "Accra"
 msgstr "ആക്ക്ര"
 
 #: goa.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Goa"
 msgctxt "goa.kgm"
 msgid "Goa"
 msgstr "ഗോവ"
 
 #: goa.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "goa.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: goa.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "georgia.kgm"
-#| msgid "Not Georgia"
 msgctxt "goa.kgm"
 msgid "Not Goa"
 msgstr "ജോര്‍ജ്ജിയ അല്ല"
 
 #: goa.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "goa.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: goa.kgm:18
 #, fuzzy, kde-format
-#| msgctxt "canada.kgm"
-#| msgid "Canada"
 msgctxt "goa.kgm"
 msgid "Canacona"
 msgstr "കാനഡ"
 
 #: goa.kgm:19
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Chad"
 msgctxt "goa.kgm"
 msgid "Chaudi"
 msgstr "ചാഡ്"
 
 #: goa.kgm:23 goa.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "canada.kgm"
-#| msgid "Quebec"
 msgctxt "goa.kgm"
 msgid "Quepem"
 msgstr "ക്വിബെക്ക്"
 
 #: goa.kgm:28
 #, fuzzy, kde-format
-#| msgctxt "cameroon_departments.kgm"
-#| msgid "Moungo"
 msgctxt "goa.kgm"
 msgid "Mormugao"
 msgstr "മൂങ്ഗോ"
@@ -16055,96 +15413,72 @@ msgstr ""
 
 #: goa.kgm:33 goa.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "cameroon_departments.kgm"
-#| msgid "Bangem"
 msgctxt "goa.kgm"
 msgid "Sanguem"
 msgstr "ബംഗെം"
 
 #: goa.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "dominican_republic.kgm"
-#| msgid "Salcedo"
 msgctxt "goa.kgm"
 msgid "Salcette"
 msgstr "സല്‍സേഡൊ"
 
 #: goa.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "caribbean.kgm"
-#| msgid "Marigot"
 msgctxt "goa.kgm"
 msgid "Margao"
 msgstr "മാരിഗട്ട്"
 
 #: goa.kgm:43 goa.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "europe.kgm"
-#| msgid "Poland"
 msgctxt "goa.kgm"
 msgid "Ponda"
 msgstr "പോളണ്ട്"
 
 #: goa.kgm:48 goa.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Perm"
 msgctxt "goa.kgm"
 msgid "Pernem"
 msgstr "പേം"
 
 #: goa.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Gardez"
 msgctxt "goa.kgm"
 msgid "Bardez"
 msgstr "ഗര്‍ഡെസ്"
 
 #: goa.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "indonesia.kgm"
-#| msgid "Papua"
 msgctxt "goa.kgm"
 msgid "Mapusa"
 msgstr "പപ്വാ"
 
 #: goa.kgm:58 goa.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "denmark_counties.kgm"
-#| msgid "Bornholm"
 msgctxt "goa.kgm"
 msgid "Bicholim"
 msgstr "ബോണ്‍ഹോം"
 
 #: goa.kgm:63
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "Tipasa"
 msgctxt "goa.kgm"
 msgid "Tiswadi"
 msgstr "ടിപാസ"
 
 #: goa.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Panaji"
 msgctxt "goa.kgm"
 msgid "Panjim"
 msgstr "പനാജി"
 
 #: goa.kgm:68
 #, fuzzy, kde-format
-#| msgctxt "iran.kgm"
-#| msgid "Sari"
 msgctxt "goa.kgm"
 msgid "Satari"
 msgstr "ശരി"
 
 #: goa.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "romania.kgm"
-#| msgid "Vaslui"
 msgctxt "goa.kgm"
 msgid "Valpoi"
 msgstr "വസ്ലുയി"
@@ -16979,8 +16313,6 @@ msgstr "ടോണ്‍ടണ്‍"
 
 #: great-britain_counties.kgm:358
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "Whiltshire"
 msgctxt "great-britain_counties.kgm"
 msgid "Wiltshire"
 msgstr "വില്‍റ്റ്ഷയര്‍"
@@ -17017,8 +16349,6 @@ msgstr "വാര്‍വിക്ക്"
 
 #: great-britain_counties.kgm:373
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "Gloucestershire"
 msgctxt "great-britain_counties.kgm"
 msgid "Worcestershire"
 msgstr "ഗ്ലൌസെസ്റ്റര്‍ഷയര്‍"
@@ -17067,8 +16397,6 @@ msgstr "കാര്‍ഡിഫ്"
 
 #: great-britain_counties.kgm:393
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "Carmathenshire"
 msgctxt "great-britain_counties.kgm"
 msgid "Carmarthenshire"
 msgstr "കാര്‍മാതന്‍ഷയര്‍"
@@ -17147,8 +16475,6 @@ msgstr "മെറിയൊണെത്ത്ഷയര്‍"
 
 #: great-britain_counties.kgm:424
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "Dolgeliau"
 msgctxt "great-britain_counties.kgm"
 msgid "Dolgellau"
 msgstr "ഡോള്‍ഗീലിയാവു"
@@ -17521,8 +16847,6 @@ msgstr "പടിഞ്ഞാറന്‍ ഗ്രീസ്"
 
 #: greece_peripheries.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "greece.kgm"
-#| msgid "Patras"
 msgctxt "greece_peripheries.kgm"
 msgid "Patras"
 msgstr "പത്രാസ്"
@@ -17535,8 +16859,6 @@ msgstr "തെസ്സലി"
 
 #: greece_peripheries.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "greece.kgm"
-#| msgid "Larissa"
 msgctxt "greece_peripheries.kgm"
 msgid "Larissa"
 msgstr "ലാരിസ്സ"
@@ -17609,8 +16931,6 @@ msgstr "ക്രീറ്റ്"
 
 #: greece_peripheries.kgm:84
 #, fuzzy, kde-format
-#| msgctxt "greece.kgm"
-#| msgid "Heraklion"
 msgctxt "greece_peripheries.kgm"
 msgid "Heraklion"
 msgstr "ഹെരാക്ലിയോണ്‍"
@@ -17683,8 +17003,6 @@ msgstr "കവാല"
 
 #: greece_prefectures.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "greece_prefectures.kgm"
-#| msgid "Rodopi"
 msgctxt "greece_prefectures.kgm"
 msgid "Rhodope"
 msgstr "റൊഡോപി"
@@ -17829,8 +17147,6 @@ msgstr "കാര്‍ഡിറ്റ്സ"
 
 #: greece_prefectures.kgm:128 greece_prefectures.kgm:129
 #, fuzzy, kde-format
-#| msgctxt "greece.kgm"
-#| msgid "Larissa"
 msgctxt "greece_prefectures.kgm"
 msgid "Larissa"
 msgstr "ലാരിസ്സ"
@@ -17861,8 +17177,6 @@ msgstr "കോര്‍ഫു"
 
 #: greece_prefectures.kgm:148
 #, fuzzy, kde-format
-#| msgctxt "greece_prefectures.kgm"
-#| msgid "Kefallinia"
 msgctxt "greece_prefectures.kgm"
 msgid "Kefalonia"
 msgstr "കെഫല്ലീനിയ"
@@ -17911,8 +17225,6 @@ msgstr "മിസ്സൊലോങ്ഹി"
 
 #: greece_prefectures.kgm:173
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Elista"
 msgctxt "greece_prefectures.kgm"
 msgid "Elis"
 msgstr "എലിസ്റ്റ"
@@ -18399,32 +17711,24 @@ msgstr "സക്കാപ്പ"
 
 #: gujarat.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Gujarat"
 msgctxt "gujarat.kgm"
 msgid "Gujarat"
 msgstr "ഗുജറാത്ത്"
 
 #: gujarat.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "gujarat.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: gujarat.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Gujarat"
 msgctxt "gujarat.kgm"
 msgid "Not Gujarat"
 msgstr "ഗുജറാത്ത്"
 
 #: gujarat.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "gujarat.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
@@ -18443,80 +17747,60 @@ msgstr ""
 
 #: gujarat.kgm:23
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Balakan"
 msgctxt "gujarat.kgm"
 msgid "Banaskantha"
 msgstr "ബലാകന്‍"
 
 #: gujarat.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "oceania.kgm"
-#| msgid "Palau"
 msgctxt "gujarat.kgm"
 msgid "Palanpur"
 msgstr "പോളൌ"
 
 #: gujarat.kgm:28 gujarat.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "thailand.kgm"
-#| msgid "Pattani"
 msgctxt "gujarat.kgm"
 msgid "Patan"
 msgstr "പട്ടാണി"
 
 #: gujarat.kgm:33 gujarat.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "italyprovince.kgm"
-#| msgid "Messina"
 msgctxt "gujarat.kgm"
 msgid "Mehsana"
 msgstr "മെസ്സിന"
 
 #: gujarat.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Sagarmatha"
 msgctxt "gujarat.kgm"
 msgid "Sabarkantha"
 msgstr "സാഗര്‍മാത"
 
 #: gujarat.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Itanagar"
 msgctxt "gujarat.kgm"
 msgid "Himmatnagar"
 msgstr "ഇറ്റാനഗര്‍"
 
 #: gujarat.kgm:43 gujarat.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Gandhinagar"
 msgctxt "gujarat.kgm"
 msgid "Gandhinagar"
 msgstr "ഗാന്ധിനഗര്‍"
 
 #: gujarat.kgm:48 gujarat.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Srinagar"
 msgctxt "gujarat.kgm"
 msgid "Surendranagar"
 msgstr "ശ്രീനഗര്‍"
 
 #: gujarat.kgm:53 gujarat.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Asadabad"
 msgctxt "gujarat.kgm"
 msgid "Ahmedabad"
 msgstr "അസാദാബാദ്"
 
 #: gujarat.kgm:58 gujarat.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "malaysia.kgm"
-#| msgid "Kedah"
 msgctxt "gujarat.kgm"
 msgid "Kheda"
 msgstr "കേദാ"
@@ -18529,8 +17813,6 @@ msgstr ""
 
 #: gujarat.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Goa"
 msgctxt "gujarat.kgm"
 msgid "Godhra"
 msgstr "ഗോവ"
@@ -18543,8 +17825,6 @@ msgstr ""
 
 #: gujarat.kgm:73 gujarat.kgm:74
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Itanagar"
 msgctxt "gujarat.kgm"
 msgid "Jamnagar"
 msgstr "ഇറ്റാനഗര്‍"
@@ -18557,88 +17837,66 @@ msgstr ""
 
 #: gujarat.kgm:83 gujarat.kgm:84
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Al-Junaynah"
 msgctxt "gujarat.kgm"
 msgid "Junagadh"
 msgstr "അല്‍-ജുനൈന"
 
 #: gujarat.kgm:88 gujarat.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "spain_provinces.kgm"
-#| msgid "Argelia"
 msgctxt "gujarat.kgm"
 msgid "Amreli"
 msgstr "ആര്‍ഗേലിയ"
 
 #: gujarat.kgm:93 gujarat.kgm:94
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Itanagar"
 msgctxt "gujarat.kgm"
 msgid "Bhavnagar"
 msgstr "ഇറ്റാനഗര്‍"
 
 #: gujarat.kgm:98 gujarat.kgm:99
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Anadyr"
 msgctxt "gujarat.kgm"
 msgid "Anand"
 msgstr "അനാഡിര്‍"
 
 #: gujarat.kgm:103 gujarat.kgm:104
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Sadarak"
 msgctxt "gujarat.kgm"
 msgid "Vadodara"
 msgstr "സദാരക്"
 
 #: gujarat.kgm:108 gujarat.kgm:109
 #, fuzzy, kde-format
-#| msgctxt "dominican_republic.kgm"
-#| msgid "Baoruco"
 msgctxt "gujarat.kgm"
 msgid "Bharuch"
 msgstr "ബവോറൂകോ"
 
 #: gujarat.kgm:113
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Narmada"
 msgctxt "gujarat.kgm"
 msgid "Narmada"
 msgstr "നര്‍മദ"
 
 #: gujarat.kgm:114
 #, fuzzy, kde-format
-#| msgctxt "estonia.kgm"
-#| msgid "Rapla"
 msgctxt "gujarat.kgm"
 msgid "Rajpipla"
 msgstr "റാപ്ല"
 
 #: gujarat.kgm:118 gujarat.kgm:119
 #, fuzzy, kde-format
-#| msgctxt "catalonia_comarques.kgm"
-#| msgid "Sort"
 msgctxt "gujarat.kgm"
 msgid "Surat"
 msgstr "സോര്‍ട്ട്"
 
 #: gujarat.kgm:123
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Taipei"
 msgctxt "gujarat.kgm"
 msgid "Tapi"
 msgstr "തായ്‌പേയ്"
 
 #: gujarat.kgm:124
 #, fuzzy, kde-format
-#| msgctxt "bulgaria.kgm"
-#| msgid "Varna"
 msgctxt "gujarat.kgm"
 msgid "Vyara"
 msgstr "വാര്‍ന"
@@ -18651,32 +17909,24 @@ msgstr ""
 
 #: gujarat.kgm:129
 #, fuzzy, kde-format
-#| msgctxt "egypt.kgm"
-#| msgid "Aswan"
 msgctxt "gujarat.kgm"
 msgid "Ahwa"
 msgstr "അസ്വാന്‍"
 
 #: gujarat.kgm:133 gujarat.kgm:134
 #, fuzzy, kde-format
-#| msgctxt "mexico_states.kgm"
-#| msgid "Nayarit"
 msgctxt "gujarat.kgm"
 msgid "Navsari"
 msgstr "നയാരിത്"
 
 #: gujarat.kgm:138 gujarat.kgm:139
 #, fuzzy, kde-format
-#| msgctxt "catalonia_comarques.kgm"
-#| msgid "Valls"
 msgctxt "gujarat.kgm"
 msgid "Valsad"
 msgstr "വാല്‍സ്"
 
 #: gujarat.kgm:143 gujarat.kgm:144
 #, fuzzy, kde-format
-#| msgctxt "europe.kgm"
-#| msgid "Poland"
 msgctxt "gujarat.kgm"
 msgid "Porbandar"
 msgstr "പോളണ്ട്"
@@ -18749,8 +17999,6 @@ msgstr "വ്രീഡ് എന്‍ ഹൂപ്പ്"
 
 #: guyana.kgm:43
 #, fuzzy, kde-format
-#| msgctxt "guyana.kgm"
-#| msgid "Dememara-Mahaica"
 msgctxt "guyana.kgm"
 msgid "Demerara-Mahaica"
 msgstr "ദെമമാറ-മഹായിക"
@@ -18775,8 +18023,6 @@ msgstr "വെല്ലിങ്ടണ്‍ കോട്ട"
 
 #: guyana.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "guyana.kgm"
-#| msgid "Upper Dememara-Berbice"
 msgctxt "guyana.kgm"
 msgid "Upper Demerara-Berbice"
 msgstr "മുകളിലെ ദമാമെറ-ബെര്‍ബൈസ്"
@@ -18987,128 +18233,96 @@ msgstr "ജാക്മല്‍"
 
 #: haryana.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Haryana"
 msgctxt "haryana.kgm"
 msgid "Haryana"
 msgstr "ഹര്യാന"
 
 #: haryana.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "haryana.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: haryana.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Haryana"
 msgctxt "haryana.kgm"
 msgid "Not Haryana"
 msgstr "ഹര്യാന"
 
 #: haryana.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "haryana.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: haryana.kgm:18 haryana.kgm:19
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Chandigarh"
 msgctxt "haryana.kgm"
 msgid "Chandigarh"
 msgstr "ചണ്ഡീഗഢ്"
 
 #: haryana.kgm:23 haryana.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "mexico_states.kgm"
-#| msgid "Pachuca"
 msgctxt "haryana.kgm"
 msgid "Panchkula"
 msgstr "പച്ചൂക്ക"
 
 #: haryana.kgm:28 haryana.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "tripura.kgm"
-#| msgid "Ambassa"
 msgctxt "haryana.kgm"
 msgid "Ambala"
 msgstr "അമ്പാസ"
 
 #: haryana.kgm:33 haryana.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "zaire2006.kgm"
-#| msgid "Kananga"
 msgctxt "haryana.kgm"
 msgid "Yamuna Nagar"
 msgstr "കനാങ്ഗ"
 
 #: haryana.kgm:38 haryana.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "kazakhstan.kgm"
-#| msgid "Koksetau"
 msgctxt "haryana.kgm"
 msgid "Kurukshetra"
 msgstr "കൊക്സേതാവു"
 
 #: haryana.kgm:43 haryana.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Karnali"
 msgctxt "haryana.kgm"
 msgid "Karnal"
 msgstr "കര്‍ണാലി"
 
 #: haryana.kgm:48 haryana.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Kapoita"
 msgctxt "haryana.kgm"
 msgid "Kaithal"
 msgstr "കപ്പോയിട്ട"
 
 #: haryana.kgm:53 haryana.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "china.kgm"
-#| msgid "Jilin"
 msgctxt "haryana.kgm"
 msgid "Jind"
 msgstr "ജിലിന്‍"
 
 #: haryana.kgm:58 haryana.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Praia"
 msgctxt "haryana.kgm"
 msgid "Panipat"
 msgstr "പ്രയ്യ"
 
 #: haryana.kgm:63 haryana.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Manipur"
 msgctxt "haryana.kgm"
 msgid "Sonipat"
 msgstr "മ​ണിപ്പൂര്‍"
 
 #: haryana.kgm:68 haryana.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Fayzabad"
 msgctxt "haryana.kgm"
 msgid "Faridabad"
 msgstr "ഫൈസാബാദ്"
 
 #: haryana.kgm:73
 #, fuzzy, kde-format
-#| msgctxt "republic_of_ireland.kgm"
-#| msgid "Meath"
 msgctxt "haryana.kgm"
 msgid "Mewat"
 msgstr "മീത്ത്"
@@ -19121,32 +18335,24 @@ msgstr ""
 
 #: haryana.kgm:78 haryana.kgm:79
 #, fuzzy, kde-format
-#| msgctxt "iran.kgm"
-#| msgid "Gorgan"
 msgctxt "haryana.kgm"
 msgid "Gurgaon"
 msgstr "ഗോര്‍ഗന്‍"
 
 #: haryana.kgm:83 haryana.kgm:84
 #, fuzzy, kde-format
-#| msgctxt "great-britain_counties.kgm"
-#| msgid "Reading"
 msgctxt "haryana.kgm"
 msgid "Rewari"
 msgstr "റീഡിങ്"
 
 #: haryana.kgm:88
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Madagascar"
 msgctxt "haryana.kgm"
 msgid "Mahendragarh"
 msgstr "മഡഗാസ്ക്കര്‍"
 
 #: haryana.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Barnaul"
 msgctxt "haryana.kgm"
 msgid "Narnaul"
 msgstr "ബര്‍ണോല്‍"
@@ -19159,160 +18365,120 @@ msgstr ""
 
 #: haryana.kgm:98 haryana.kgm:99
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Bahia"
 msgctxt "haryana.kgm"
 msgid "Bhiwani"
 msgstr "ബഹിയ"
 
 #: haryana.kgm:103 haryana.kgm:104
 #, fuzzy, kde-format
-#| msgctxt "armenia.kgm"
-#| msgid "Kotayk"
 msgctxt "haryana.kgm"
 msgid "Rohtak"
 msgstr "കൊടൈക്ക്"
 
 #: haryana.kgm:108 haryana.kgm:109
 #, fuzzy, kde-format
-#| msgctxt "italyprovince.kgm"
-#| msgid "Pisa"
 msgctxt "haryana.kgm"
 msgid "Hisar"
 msgstr "പിസ"
 
 #: haryana.kgm:113 haryana.kgm:114
 #, fuzzy, kde-format
-#| msgctxt "armenia.kgm"
-#| msgid "Shirak"
 msgctxt "haryana.kgm"
 msgid "Sirsa"
 msgstr "ഷിരാക്"
 
 #: haryana.kgm:118 haryana.kgm:119
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Fayzabad"
 msgctxt "haryana.kgm"
 msgid "Fatehabad"
 msgstr "ഫൈസാബാദ്"
 
 #: haryana.kgm:123 haryana.kgm:124
 #, fuzzy, kde-format
-#| msgctxt "philippines.kgm"
-#| msgid "Palawan"
 msgctxt "haryana.kgm"
 msgid "Palwal"
 msgstr "പലാവന്‍"
 
 #: himachal_pradesh.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Himachal Pradesh"
 msgctxt "himachal_pradesh.kgm"
 msgid "Himachal Pradesh"
 msgstr "ഹിമാചല്‍ പ്രദേശ്"
 
 #: himachal_pradesh.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "himachal_pradesh.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: himachal_pradesh.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Water"
 msgctxt "himachal_pradesh.kgm"
 msgid "Water"
 msgstr "വെള്ളം"
 
 #: himachal_pradesh.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "colombia.kgm"
-#| msgid "Border"
 msgctxt "himachal_pradesh.kgm"
 msgid "Border"
 msgstr "അരിക്"
 
 #: himachal_pradesh.kgm:18 himachal_pradesh.kgm:19
 #, fuzzy, kde-format
-#| msgctxt "zambia_districts.kgm"
-#| msgid "Chama"
 msgctxt "himachal_pradesh.kgm"
 msgid "Chamba"
 msgstr "ചാമ"
 
 #: himachal_pradesh.kgm:23
 #, fuzzy, kde-format
-#| msgctxt "malaysia.kgm"
-#| msgid "Kangar"
 msgctxt "himachal_pradesh.kgm"
 msgid "Kangra"
 msgstr "കങ്കാര്‍"
 
 #: himachal_pradesh.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "greece_prefectures.kgm"
-#| msgid "Drama"
 msgctxt "himachal_pradesh.kgm"
 msgid "Dharamsala"
 msgstr "ഡ്രാമ"
 
 #: himachal_pradesh.kgm:28 himachal_pradesh.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "lithuania_municipalities.kgm"
-#| msgid "Utena"
 msgctxt "himachal_pradesh.kgm"
 msgid "Una"
 msgstr "ഉതേന"
 
 #: himachal_pradesh.kgm:33 himachal_pradesh.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Raipur"
 msgctxt "himachal_pradesh.kgm"
 msgid "Hamirpur"
 msgstr "റായ്‌പുര്‍"
 
 #: himachal_pradesh.kgm:38 himachal_pradesh.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Bilasuvar"
 msgctxt "himachal_pradesh.kgm"
 msgid "Bilaspur"
 msgstr "ബിലസുവര്‍"
 
 #: himachal_pradesh.kgm:43 himachal_pradesh.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "bulgaria.kgm"
-#| msgid "Smolyan"
 msgctxt "himachal_pradesh.kgm"
 msgid "Solan"
 msgstr "സ്മോള്യാന്‍"
 
 #: himachal_pradesh.kgm:48 himachal_pradesh.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Shimla"
 msgctxt "himachal_pradesh.kgm"
 msgid "Shimla"
 msgstr "ഷിംല"
 
 #: himachal_pradesh.kgm:53 himachal_pradesh.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Mania"
 msgctxt "himachal_pradesh.kgm"
 msgid "Mandi"
 msgstr "മനിയ"
 
 #: himachal_pradesh.kgm:58 himachal_pradesh.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "finland_regions.kgm"
-#| msgid "Oulu"
 msgctxt "himachal_pradesh.kgm"
 msgid "Kullu"
 msgstr "ഔലു"
@@ -19325,24 +18491,18 @@ msgstr ""
 
 #: himachal_pradesh.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "malaysia.kgm"
-#| msgid "Kelantan"
 msgctxt "himachal_pradesh.kgm"
 msgid "Kyelang"
 msgstr "കെലാന്ദന്‍"
 
 #: himachal_pradesh.kgm:68 himachal_pradesh.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "philippines.kgm"
-#| msgid "Samar"
 msgctxt "himachal_pradesh.kgm"
 msgid "Sirmaur"
 msgstr "സമര്‍"
 
 #: himachal_pradesh.kgm:73
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Kunar"
 msgctxt "himachal_pradesh.kgm"
 msgid "Kinnaur"
 msgstr "കുനാര്‍"
@@ -20927,16 +20087,12 @@ msgstr "ടെഹ്റാന്‍"
 
 #: iran.kgm:35
 #, fuzzy, kde-format
-#| msgctxt "denmark_counties.kgm"
-#| msgid "Ålborg"
 msgctxt "iran.kgm"
 msgid "Alborz"
 msgstr "അല്‍ബോര്‍ഗ്"
 
 #: iran.kgm:36
 #, fuzzy, kde-format
-#| msgctxt "pakistan.kgm"
-#| msgid "Karachi"
 msgctxt "iran.kgm"
 msgid "Karaj"
 msgstr "കറാച്ചി"
@@ -23109,136 +22265,102 @@ msgstr "നാഹ"
 
 #: jharkhand.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Jharkhand"
 msgctxt "jharkhand.kgm"
 msgid "Jharkhand"
 msgstr "ഝാര്‍ക്കണ്ട്"
 
 #: jharkhand.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "jharkhand.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: jharkhand.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Jharkhand"
 msgctxt "jharkhand.kgm"
 msgid "Not Jharkhand"
 msgstr "ഝാര്‍ക്കണ്ട്"
 
 #: jharkhand.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "jharkhand.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: jharkhand.kgm:18 jharkhand.kgm:19
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Parwan"
 msgctxt "jharkhand.kgm"
 msgid "Garhwa"
 msgstr "പര്‍വന്‍"
 
 #: jharkhand.kgm:23 jharkhand.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Water"
 msgctxt "jharkhand.kgm"
 msgid "Latehar"
 msgstr "വെള്ളം"
 
 #: jharkhand.kgm:28 jharkhand.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "japan.kgm"
-#| msgid "Gunma"
 msgctxt "jharkhand.kgm"
 msgid "Gumla"
 msgstr "ഗുണ്‍മ"
 
 #: jharkhand.kgm:33 jharkhand.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "Ghardaïa"
 msgctxt "jharkhand.kgm"
 msgid "Lohardaga"
 msgstr "ഘര്‍ഡയ്യ"
 
 #: jharkhand.kgm:38 jharkhand.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "algeria.kgm"
-#| msgid "Saida"
 msgctxt "jharkhand.kgm"
 msgid "Simdega"
 msgstr "സൈദ"
 
 #: jharkhand.kgm:43
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Paschim Medinipur"
 msgctxt "jharkhand.kgm"
 msgid "Paschim Singhbhum"
 msgstr "പാഷിം മേധിനിപ്പൂര്‍"
 
 #: jharkhand.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "japan.kgm"
-#| msgid "Chiba"
 msgctxt "jharkhand.kgm"
 msgid "Chaibasa"
 msgstr "ചിബ"
 
 #: jharkhand.kgm:48 jharkhand.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Ranchi"
 msgctxt "jharkhand.kgm"
 msgid "Ranchi"
 msgstr "റാഞ്ചി"
 
 #: jharkhand.kgm:53 jharkhand.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "europe.kgm"
-#| msgid "Serbia"
 msgctxt "jharkhand.kgm"
 msgid "Seraikela"
 msgstr "സെര്‍ബിയ"
 
 #: jharkhand.kgm:58
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Paschim Medinipur"
 msgctxt "jharkhand.kgm"
 msgid "Purba Singhbhum"
 msgstr "പാഷിം മേധിനിപ്പൂര്‍"
 
 #: jharkhand.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Jaipur"
 msgctxt "jharkhand.kgm"
 msgid "Jamshedpur"
 msgstr "ജയ്പ്പുര്‍"
 
 #: jharkhand.kgm:63 jharkhand.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "zimbabwe_districts.kgm"
-#| msgid "Kariba"
 msgctxt "jharkhand.kgm"
 msgid "Hazaribag"
 msgstr "കരീബ"
 
 #: jharkhand.kgm:68 jharkhand.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "iran.kgm"
-#| msgid "Kerman"
 msgctxt "jharkhand.kgm"
 msgid "Koderma"
 msgstr "കെര്‍മാന്‍"
@@ -23251,40 +22373,30 @@ msgstr ""
 
 #: jharkhand.kgm:78 jharkhand.kgm:79
 #, fuzzy, kde-format
-#| msgctxt "dominican_republic.kgm"
-#| msgid "Bonao"
 msgctxt "jharkhand.kgm"
 msgid "Bokaro"
 msgstr "ബൊണോ"
 
 #: jharkhand.kgm:83 jharkhand.kgm:84
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Ghana"
 msgctxt "jharkhand.kgm"
 msgid "Dhanbad"
 msgstr "ഘാന"
 
 #: jharkhand.kgm:88 jharkhand.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Samara"
 msgctxt "jharkhand.kgm"
 msgid "Jamtara"
 msgstr "സമാറ"
 
 #: jharkhand.kgm:93 jharkhand.kgm:94
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Doha"
 msgctxt "jharkhand.kgm"
 msgid "Deoghar"
 msgstr "ദോഹ"
 
 #: jharkhand.kgm:98
 #, fuzzy, kde-format
-#| msgctxt "colombia.kgm"
-#| msgid "Santa Marta"
 msgctxt "jharkhand.kgm"
 msgid "Santhal Pargana"
 msgstr "സാന്റ മാര്‍ട"
@@ -23297,48 +22409,36 @@ msgstr ""
 
 #: jharkhand.kgm:103 jharkhand.kgm:104
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Pau"
 msgctxt "jharkhand.kgm"
 msgid "Pakur"
 msgstr "പാവു"
 
 #: jharkhand.kgm:108 jharkhand.kgm:109
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Raiganj"
 msgctxt "jharkhand.kgm"
 msgid "Sahibganj"
 msgstr "റായിഗഞ്ച്"
 
 #: jharkhand.kgm:113 jharkhand.kgm:114
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Goa"
 msgctxt "jharkhand.kgm"
 msgid "Godda"
 msgstr "ഗോവ"
 
 #: jharkhand.kgm:118
 #, fuzzy, kde-format
-#| msgctxt "oceania.kgm"
-#| msgid "Palau"
 msgctxt "jharkhand.kgm"
 msgid "Palamu"
 msgstr "പോളൌ"
 
 #: jharkhand.kgm:119
 #, fuzzy, kde-format
-#| msgctxt "bhutan.kgm"
-#| msgid "Dagana"
 msgctxt "jharkhand.kgm"
 msgid "Daltonganj"
 msgstr "ഡഗാന"
 
 #: jharkhand.kgm:123 jharkhand.kgm:124
 #, fuzzy, kde-format
-#| msgctxt "zambia_districts.kgm"
-#| msgid "Chipata"
 msgctxt "jharkhand.kgm"
 msgid "Chatra"
 msgstr "ചിപാത"
@@ -23653,8 +22753,6 @@ msgstr "ഭൂപടത്തിന്റെ രചയിതാവു്"
 
 #: kgeography.cpp:170
 #, fuzzy, kde-format
-#| msgctxt "switzerland.kgm"
-#| msgid "Geneva"
 msgid "General"
 msgstr "ജനീവ"
 
@@ -23786,8 +22884,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QRadioButton, centerRadio)
 #: kgeographyoptions.ui:51
 #, fuzzy, kde-format
-#| msgctxt "israel.kgm"
-#| msgid "Center"
 msgid "&Center"
 msgstr "മദ്ധ്യത്തില്‍"
 
@@ -23952,16 +23048,12 @@ msgstr "ഓഷ് സിറ്റി"
 
 #: latvia.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "zambia_districts.kgm"
-#| msgid "Zambia (Districts)"
 msgctxt "latvia.kgm"
 msgid "Latvia Districts (Pre 2009)"
 msgstr "സാംബിയ (പ്രവിശ്യകള്‍)"
 
 #: latvia.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "albania_districts.kgm"
-#| msgid "Districts"
 msgctxt "latvia.kgm"
 msgid "Districts"
 msgstr "ജില്ലകള്‍"
@@ -24807,7 +23899,6 @@ msgstr "ഭൂമിശാസ്ത്ര പഠനസഹായി"
 
 #: main.cpp:29
 #, fuzzy, kde-format
-#| msgid "A geography learning program"
 msgid "A Geography learning program"
 msgstr "ഭൂമിശാസ്ത്രം പഠിയ്ക്കുവാനുള്ളൊരു പ്രോഗ്രാം"
 
@@ -25044,8 +24135,6 @@ msgstr "സേനാപതി"
 
 #: manipur.kgm:47
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "Imphal"
 msgctxt "manipur.kgm"
 msgid "Imphal West"
 msgstr "ഇംഫാല്‍"
@@ -25076,8 +24165,6 @@ msgstr "ഉക്രുള്‍"
 
 #: manipur.kgm:87
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "Imphal"
 msgctxt "manipur.kgm"
 msgid "Imphal East"
 msgstr "ഇംഫാല്‍"
@@ -25139,8 +24226,6 @@ msgstr "%1"
 
 #: mapasker.cpp:193
 #, fuzzy, kde-format
-#| msgctxt "@info:status"
-#| msgid "Please click on:<nl/>%1"
 msgctxt "@info:status"
 msgid "Please click on:<br/><b>%1</b>"
 msgstr "ദയവായി താഴെക്കൊടുത്തതില്‍ ഞെക്കുക:<nl/>%1"
@@ -25183,7 +24268,6 @@ msgstr "%1 തലസ്ഥാനം അനുസരിച്ചു്"
 
 #: mapparser.cpp:95
 #, fuzzy, kde-format
-#| msgid "&Capitals of %1"
 msgid "Capitals of %1"
 msgstr "%1 ന്റെ/ളുടെ &തലസ്ഥാനങ്ങള്‍|/|$[get-case possesion %1] &തലസ്ഥാനങ്ങള്‍"
 
@@ -26756,8 +25840,6 @@ msgstr "അറ്റ്‌ലാന്റിക്കോ നോര്‍ട്�
 
 #: nicaragua.kgm:104
 #, fuzzy, kde-format
-#| msgctxt "dominican_republic.kgm"
-#| msgid "Puerto Plata"
 msgctxt "nicaragua.kgm"
 msgid "Puerto Cabezas"
 msgstr "പ്യൂര്‍ട്ടോ പ്ലാറ്റ"
@@ -27034,8 +26116,6 @@ msgstr "ബോഡോ"
 
 #: norway.kgm:56
 #, fuzzy, kde-format
-#| msgctxt "norway.kgm"
-#| msgid "Nord-Trøndelag"
 msgctxt "norway.kgm"
 msgid "Trøndelag"
 msgstr "നോര്‍ഡ്-ട്രോണ്ടെലാഗ്"
@@ -27048,8 +26128,6 @@ msgstr "സ്റ്റൈങ്ക്യര്‍"
 
 #: norway.kgm:66
 #, fuzzy, kde-format
-#| msgctxt "norway.kgm"
-#| msgid "Møre Og Romsdal"
 msgctxt "norway.kgm"
 msgid "Møre og Romsdal"
 msgstr "മോര്‍ ഓഗ് റോമ്സദാല്‍"
@@ -27086,16 +26164,12 @@ msgstr "ഹമര്‍"
 
 #: norway.kgm:96
 #, fuzzy, kde-format
-#| msgctxt "norway.kgm"
-#| msgid "Sogn Og Fjordane"
 msgctxt "norway.kgm"
 msgid "Sogn og Fjordane"
 msgstr "സോഗന്‍ ഓഗ് ഫിയോര്‍ദാനെ"
 
 #: norway.kgm:97
 #, fuzzy, kde-format
-#| msgctxt "luxembourg_cantons.kgm"
-#| msgid "Redange"
 msgctxt "norway.kgm"
 msgid "Leikanger"
 msgstr "റെഡാങ്കെ"
@@ -27666,8 +26740,6 @@ msgstr "ദോഫര്‍"
 
 #: oman.kgm:63
 #, fuzzy, kde-format
-#| msgctxt "iraq.kgm"
-#| msgid "Al Basrah"
 msgctxt "oman.kgm"
 msgid "Al Buraymi"
 msgstr "അല്‍ ബസ്ര"
@@ -28310,8 +27382,6 @@ msgstr "ജുനിന്‍"
 
 #: peru.kgm:173
 #, fuzzy, kde-format
-#| msgctxt "peru.kgm"
-#| msgid "Huanuco"
 msgctxt "peru.kgm"
 msgid "Huancayo"
 msgstr "ഹുവാനുക്കോ"
@@ -28906,8 +27976,6 @@ msgstr "ഇലോഇലോ സിറ്റി"
 
 #: philippines.kgm:203
 #, fuzzy, kde-format
-#| msgctxt "puertorico.kgm"
-#| msgid "Isabela"
 msgctxt "philippines.kgm"
 msgid "Isabela"
 msgstr "ഇസബെല്ല"
@@ -29418,8 +28486,6 @@ msgstr "മാനില"
 
 #: placeasker.cpp:190
 #, fuzzy, kde-format
-#| msgctxt "@info:status"
-#| msgid "Please place in the map:<nl/>%1"
 msgctxt "@info:status"
 msgid "Please place in the map:<br/><b>%1</b>"
 msgstr "ദയവായി മാപ്പില്‍ വയ്ക്കുക:<nl/>%1"
@@ -29822,8 +28888,6 @@ msgstr "അതിര്‍ത്തി"
 
 #: portugal_provinces.kgm:26
 #, fuzzy, kde-format
-#| msgctxt "andorra.kgm"
-#| msgid "Spain"
 msgctxt "portugal_provinces.kgm"
 msgid "Spain"
 msgstr "സ്പെയിന്‍"
@@ -31720,8 +30784,6 @@ msgstr "ബര്‍ണോല്‍"
 
 #: russia_subjects.kgm:155
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Krasnodar"
 msgctxt "russia_subjects.kgm"
 msgid "Krasnodar Krai"
 msgstr "ക്രസ്നോഡര്‍"
@@ -31734,8 +30796,6 @@ msgstr "ക്രസ്നോഡര്‍"
 
 #: russia_subjects.kgm:161
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Krasnoyarsk"
 msgctxt "russia_subjects.kgm"
 msgid "Krasnoyarsk Krai"
 msgstr "ക്രാസ്നോയാര്‍സ്ക്"
@@ -31748,8 +30808,6 @@ msgstr "ക്രാസ്നോയാര്‍സ്ക്"
 
 #: russia_subjects.kgm:167
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Primorsky"
 msgctxt "russia_subjects.kgm"
 msgid "Primorsky Krai"
 msgstr "പ്രിമോര്‍സ്കി"
@@ -31762,8 +30820,6 @@ msgstr "ലാഡിവോസ്ടോക്"
 
 #: russia_subjects.kgm:173
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Stavropol"
 msgctxt "russia_subjects.kgm"
 msgid "Stavropol Krai"
 msgstr "സ്റ്റാവ്റൊപോള്‍"
@@ -31776,8 +30832,6 @@ msgstr "സ്റ്റാവ്റൊപോള്‍"
 
 #: russia_subjects.kgm:179
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Khabarovsk"
 msgctxt "russia_subjects.kgm"
 msgid "Khabarovsk Krai"
 msgstr "ഖബറോവ്സ്ക്"
@@ -31790,8 +30844,6 @@ msgstr "ഖബറോവ്സ്ക്"
 
 #: russia_subjects.kgm:185
 #, fuzzy, kde-format
-#| msgctxt "colombia.kgm"
-#| msgid "Pereira"
 msgctxt "russia_subjects.kgm"
 msgid "Perm Krai"
 msgstr "പെരേര"
@@ -31804,8 +30856,6 @@ msgstr "പേം"
 
 #: russia_subjects.kgm:191
 #, fuzzy, kde-format
-#| msgctxt "ukraine.kgm"
-#| msgid "Oblasts"
 msgctxt "russia_subjects.kgm"
 msgid "Amur Oblast"
 msgstr "ഒബ്ലാസ്റ്റുകള്‍"
@@ -31818,8 +30868,6 @@ msgstr "ബ്ലാഗോവേഷ്ചെന്‍സ്ക്"
 
 #: russia_subjects.kgm:197
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Arkhangelsk"
 msgctxt "russia_subjects.kgm"
 msgid "Arkhangelsk Oblast"
 msgstr "അര്‍ഖാന്‍ഗെല്‍സ്ക്"
@@ -31832,8 +30880,6 @@ msgstr "അര്‍ഖാന്‍ഗെല്‍സ്ക്"
 
 #: russia_subjects.kgm:203
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Astrakhan"
 msgctxt "russia_subjects.kgm"
 msgid "Astrakhan Oblast"
 msgstr "അസ്ട്രഖാന്‍"
@@ -31846,8 +30892,6 @@ msgstr "അസ്ട്രഖാന്‍"
 
 #: russia_subjects.kgm:209
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Belgorod"
 msgctxt "russia_subjects.kgm"
 msgid "Belgorod Oblast"
 msgstr "ബെല്‍ഗൊറൊദ്"
@@ -31860,8 +30904,6 @@ msgstr "ബെല്‍ഗൊറൊദ്"
 
 #: russia_subjects.kgm:215
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Bryansk"
 msgctxt "russia_subjects.kgm"
 msgid "Bryansk Oblast"
 msgstr "ബ്രിയാന്‍സ്ക്"
@@ -31874,8 +30916,6 @@ msgstr "ബ്രിയാന്‍സ്ക്"
 
 #: russia_subjects.kgm:221
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Vladimir"
 msgctxt "russia_subjects.kgm"
 msgid "Vladimir Oblast"
 msgstr "വ്ലാഡിമിര്‍"
@@ -31888,8 +30928,6 @@ msgstr "വ്ലാഡിമിര്‍"
 
 #: russia_subjects.kgm:227
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Volgograd"
 msgctxt "russia_subjects.kgm"
 msgid "Volgograd Oblast"
 msgstr "വോള്‍ഗോഗ്രാഡ്"
@@ -31902,8 +30940,6 @@ msgstr "വോള്‍ഗോഗ്രാഡ്"
 
 #: russia_subjects.kgm:233
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Vologda"
 msgctxt "russia_subjects.kgm"
 msgid "Vologda Oblast"
 msgstr "വൊലോഗ്ഡ"
@@ -31916,8 +30952,6 @@ msgstr "വൊലോഗ്ഡ"
 
 #: russia_subjects.kgm:239
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Voronezh"
 msgctxt "russia_subjects.kgm"
 msgid "Voronezh Oblast"
 msgstr "വൊറോണേഷ്"
@@ -31930,8 +30964,6 @@ msgstr "വൊറോണേഷ്"
 
 #: russia_subjects.kgm:245
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Ivanovo"
 msgctxt "russia_subjects.kgm"
 msgid "Ivanovo Oblast"
 msgstr "ഇവാനോവോ"
@@ -31944,8 +30976,6 @@ msgstr "ഇവാനോവോ"
 
 #: russia_subjects.kgm:251
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Irkutsk"
 msgctxt "russia_subjects.kgm"
 msgid "Irkutsk Oblast"
 msgstr "ഇര്‍ക്കുട്ടസ്ക്"
@@ -31958,8 +30988,6 @@ msgstr "ഇര്‍ക്കുട്ടസ്ക്"
 
 #: russia_subjects.kgm:257
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Kaliningrad"
 msgctxt "russia_subjects.kgm"
 msgid "Kaliningrad Oblast"
 msgstr "കലിനിന്‍ഗ്രാഡ്"
@@ -31972,8 +31000,6 @@ msgstr "കലിനിന്‍ഗ്രാഡ്"
 
 #: russia_subjects.kgm:263
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Kaluga"
 msgctxt "russia_subjects.kgm"
 msgid "Kaluga Oblast"
 msgstr "കലൂഗ"
@@ -31986,8 +31012,6 @@ msgstr "കലൂഗ"
 
 #: russia_subjects.kgm:269
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Kamchatka"
 msgctxt "russia_subjects.kgm"
 msgid "Kamchatka Krai"
 msgstr "കാംചട്ക്കാ"
@@ -32000,8 +31024,6 @@ msgstr "പെട്രോപാവ്ലോവ്സ്ക്-കാംചാ�
 
 #: russia_subjects.kgm:275
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Kemerovo"
 msgctxt "russia_subjects.kgm"
 msgid "Kemerovo Oblast"
 msgstr "കെമെറോവോ"
@@ -32014,8 +31036,6 @@ msgstr "കെമെറോവോ"
 
 #: russia_subjects.kgm:281
 #, fuzzy, kde-format
-#| msgctxt "ukraine.kgm"
-#| msgid "Oblasts"
 msgctxt "russia_subjects.kgm"
 msgid "Kirov Oblast"
 msgstr "ഒബ്ലാസ്റ്റുകള്‍"
@@ -32028,8 +31048,6 @@ msgstr "കിറോവ്"
 
 #: russia_subjects.kgm:287
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Kostroma"
 msgctxt "russia_subjects.kgm"
 msgid "Kostroma Oblast"
 msgstr "കൊസ്ട്രോമ"
@@ -32042,8 +31060,6 @@ msgstr "കൊസ്ട്രോമ"
 
 #: russia_subjects.kgm:293
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Kurgan"
 msgctxt "russia_subjects.kgm"
 msgid "Kurgan Oblast"
 msgstr "കുര്‍ഗന്‍"
@@ -32056,8 +31072,6 @@ msgstr "കുര്‍ഗന്‍"
 
 #: russia_subjects.kgm:299
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "russia_subjects.kgm"
 msgid "Kursk Oblast"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -32070,8 +31084,6 @@ msgstr "കുര്‍സ്ക്"
 
 #: russia_subjects.kgm:305
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Leningrad"
 msgctxt "russia_subjects.kgm"
 msgid "Leningrad Oblast"
 msgstr "ലെനിന്‍ഗ്രാഡ്"
@@ -32084,8 +31096,6 @@ msgstr "സെയിന്റ് പീറ്റേഴ്സ്ബര്‍ഗ�
 
 #: russia_subjects.kgm:311
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Lipetsk"
 msgctxt "russia_subjects.kgm"
 msgid "Lipetsk Oblast"
 msgstr "ലിപെറ്റ്സ്ക്"
@@ -32098,8 +31108,6 @@ msgstr "ലിപെറ്റ്സ്ക്"
 
 #: russia_subjects.kgm:317
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Magadan"
 msgctxt "russia_subjects.kgm"
 msgid "Magadan Oblast"
 msgstr "മാഗാഡാന്‍"
@@ -32112,8 +31120,6 @@ msgstr "മാഗാഡാന്‍"
 
 #: russia_subjects.kgm:323
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Moscow (MOS)"
 msgctxt "russia_subjects.kgm"
 msgid "Moscow Oblast"
 msgstr "മോസ്കോ (MOS)"
@@ -32126,8 +31132,6 @@ msgstr "മോസ്കോ"
 
 #: russia_subjects.kgm:329
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "russia_subjects.kgm"
 msgid "Murmansk Oblast"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -32140,8 +31144,6 @@ msgstr "മുര്‍മന്‍സ്ക്"
 
 #: russia_subjects.kgm:335
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Nizhny Novgorod"
 msgctxt "russia_subjects.kgm"
 msgid "Nizhny Novgorod Oblast"
 msgstr "നിഷ്നി നൊവ്ഗൊറൊഡ്"
@@ -32154,8 +31156,6 @@ msgstr "നിഷ്നി നൊവ്ഗൊറൊഡ്"
 
 #: russia_subjects.kgm:341
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Novgorod"
 msgctxt "russia_subjects.kgm"
 msgid "Novgorod Oblast"
 msgstr "നൊവ്ഗൊറൊഡ്"
@@ -32168,8 +31168,6 @@ msgstr "നൊവ്ഗൊറൊഡ്"
 
 #: russia_subjects.kgm:347
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Novosibirsk"
 msgctxt "russia_subjects.kgm"
 msgid "Novosibirsk Oblast"
 msgstr "നോവോസിബിര്‍സ്ക്"
@@ -32182,8 +31180,6 @@ msgstr "നോവോസിബിര്‍സ്ക്"
 
 #: russia_subjects.kgm:353
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "russia_subjects.kgm"
 msgid "Omsk Oblast"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -32196,8 +31192,6 @@ msgstr "ഓമ്സ്ക്"
 
 #: russia_subjects.kgm:359
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Orenburg"
 msgctxt "russia_subjects.kgm"
 msgid "Orenburg Oblast"
 msgstr "ഓറന്‍ബര്‍ഗ്"
@@ -32210,8 +31204,6 @@ msgstr "ഓറന്‍ബര്‍ഗ്"
 
 #: russia_subjects.kgm:365
 #, fuzzy, kde-format
-#| msgctxt "ukraine.kgm"
-#| msgid "Oblasts"
 msgctxt "russia_subjects.kgm"
 msgid "Oryol Oblast"
 msgstr "ഒബ്ലാസ്റ്റുകള്‍"
@@ -32224,8 +31216,6 @@ msgstr "ഓറിയോള്‍"
 
 #: russia_subjects.kgm:371
 #, fuzzy, kde-format
-#| msgctxt "ukraine.kgm"
-#| msgid "Oblasts"
 msgctxt "russia_subjects.kgm"
 msgid "Penza Oblast"
 msgstr "ഒബ്ലാസ്റ്റുകള്‍"
@@ -32238,8 +31228,6 @@ msgstr "പെന്‍സ"
 
 #: russia_subjects.kgm:377
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "russia_subjects.kgm"
 msgid "Pskov Oblast"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -32252,8 +31240,6 @@ msgstr "പ്സ്കോവ്"
 
 #: russia_subjects.kgm:382
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Rostov"
 msgctxt "russia_subjects.kgm"
 msgid "Rostov Oblast"
 msgstr "റോസ്തോവ്"
@@ -32266,8 +31252,6 @@ msgstr "റൊസ്റ്റൊവ്-ന-ഡൊനു"
 
 #: russia_subjects.kgm:388
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Ryazan"
 msgctxt "russia_subjects.kgm"
 msgid "Ryazan Oblast"
 msgstr "റ്യാസന്‍"
@@ -32280,8 +31264,6 @@ msgstr "റ്യാസന്‍"
 
 #: russia_subjects.kgm:394
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Samara"
 msgctxt "russia_subjects.kgm"
 msgid "Samara Oblast"
 msgstr "സമാറ"
@@ -32294,8 +31276,6 @@ msgstr "സമാറ"
 
 #: russia_subjects.kgm:400
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Saratov"
 msgctxt "russia_subjects.kgm"
 msgid "Saratov Oblast"
 msgstr "സരാട്ടോവ്"
@@ -32308,8 +31288,6 @@ msgstr "സരാട്ടോവ്"
 
 #: russia_subjects.kgm:406
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Sakhalin"
 msgctxt "russia_subjects.kgm"
 msgid "Sakhalin Oblast"
 msgstr "സഖലിന്‍"
@@ -32322,8 +31300,6 @@ msgstr "യുഷ്നോ-സഖലിന്‍സ്ക്"
 
 #: russia_subjects.kgm:412
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Sverdlovsk"
 msgctxt "russia_subjects.kgm"
 msgid "Sverdlovsk Oblast"
 msgstr "സ്വെര്‍ഡ്ലോവ്സ്ക്"
@@ -32336,8 +31312,6 @@ msgstr "യെക്കത്തറിന്‍ബര്‍ഗ്"
 
 #: russia_subjects.kgm:418
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Smolensk"
 msgctxt "russia_subjects.kgm"
 msgid "Smolensk Oblast"
 msgstr "സ്മോളെന്‍സ്ക്"
@@ -32350,8 +31324,6 @@ msgstr "സ്മോളെന്‍സ്ക്"
 
 #: russia_subjects.kgm:424
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Tambov"
 msgctxt "russia_subjects.kgm"
 msgid "Tambov Oblast"
 msgstr "ടാംബോവ്"
@@ -32364,8 +31336,6 @@ msgstr "ടാംബോവ്"
 
 #: russia_subjects.kgm:430
 #, fuzzy, kde-format
-#| msgctxt "ukraine.kgm"
-#| msgid "Oblasts"
 msgctxt "russia_subjects.kgm"
 msgid "Tver Oblast"
 msgstr "ഒബ്ലാസ്റ്റുകള്‍"
@@ -32378,8 +31348,6 @@ msgstr "ട്വെര്‍"
 
 #: russia_subjects.kgm:436
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "russia_subjects.kgm"
 msgid "Tomsk Oblast"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -32392,8 +31360,6 @@ msgstr "ടോംസ്ക്"
 
 #: russia_subjects.kgm:442
 #, fuzzy, kde-format
-#| msgctxt "ukraine.kgm"
-#| msgid "Oblasts"
 msgctxt "russia_subjects.kgm"
 msgid "Tula Oblast"
 msgstr "ഒബ്ലാസ്റ്റുകള്‍"
@@ -32406,8 +31372,6 @@ msgstr "ടുല"
 
 #: russia_subjects.kgm:448
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Tyumen"
 msgctxt "russia_subjects.kgm"
 msgid "Tyumen Oblast"
 msgstr "ട്യുമെന്‍"
@@ -32420,8 +31384,6 @@ msgstr "ട്യുമെന്‍"
 
 #: russia_subjects.kgm:454
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Ulyanovsk"
 msgctxt "russia_subjects.kgm"
 msgid "Ulyanovsk Oblast"
 msgstr "ഉല്യനോവ്സ്ക്"
@@ -32434,8 +31396,6 @@ msgstr "ഉല്യനോവ്സ്ക്"
 
 #: russia_subjects.kgm:460
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Chelyabinsk"
 msgctxt "russia_subjects.kgm"
 msgid "Chelyabinsk Oblast"
 msgstr "ചെല്യാബിന്‍സ്ക്"
@@ -32460,8 +31420,6 @@ msgstr "ചിറ്റാ"
 
 #: russia_subjects.kgm:472
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Yaroslavl"
 msgctxt "russia_subjects.kgm"
 msgid "Yaroslavl Oblast"
 msgstr "യാരോസ്ലാവ്"
@@ -32534,8 +31492,6 @@ msgstr "സലേഖാര്‍ഡ്"
 
 #: san-marino.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "europe.kgm"
-#| msgid "San Marino"
 msgctxt "san-marino.kgm"
 msgid "San Marino"
 msgstr "സാന്‍ മാരിനോ"
@@ -32608,8 +31564,6 @@ msgstr "സെറവല്ലെ"
 
 #: san-marino.kgm:58
 #, fuzzy, kde-format
-#| msgctxt "san-marino.kgm"
-#| msgid "Borgo Marggiore"
 msgctxt "san-marino.kgm"
 msgid "Borgo Maggiore"
 msgstr "ബോര്‍ഗോ മര്‍ഗ്ഗിയോര്‍"
@@ -33366,8 +32320,6 @@ msgstr "ചുങ്ചോങ്നാം-ഡോ"
 
 #: southkorea.kgm:36
 #, fuzzy, kde-format
-#| msgctxt "china.kgm"
-#| msgid "Hong Kong"
 msgctxt "southkorea.kgm"
 msgid "Hongseong"
 msgstr "ഹോംകോംഗ്"
@@ -33758,8 +32710,6 @@ msgstr "മൊറോക്കോ"
 
 #: spain_provinces.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Algeria"
 msgctxt "spain_provinces.kgm"
 msgid "Algeria"
 msgstr "അള്‍ജീറിയ"
@@ -34138,80 +33088,60 @@ msgstr "സരഗോസ"
 
 #: sri-lanka.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Sri Lanka"
 msgctxt "sri-lanka.kgm"
 msgid "Sri-Lanka"
 msgstr "ശ്രീലങ്ക"
 
 #: sri-lanka.kgm:6
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Provinces"
 msgctxt "sri-lanka.kgm"
 msgid "Provinces"
 msgstr "പ്രവിശ്യകള്‍"
 
 #: sri-lanka.kgm:8
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "sri-lanka.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: sri-lanka.kgm:13
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Water"
 msgctxt "sri-lanka.kgm"
 msgid "Water"
 msgstr "വെള്ളം"
 
 #: sri-lanka.kgm:18
 #, fuzzy, kde-format
-#| msgctxt "suriname.kgm"
-#| msgid "Not Surinam"
 msgctxt "sri-lanka.kgm"
 msgid "Not Sri-Lanka"
 msgstr "സുരിനാം അല്ല"
 
 #: sri-lanka.kgm:23
 #, fuzzy, kde-format
-#| msgctxt "botswana.kgm"
-#| msgid "Central"
 msgctxt "sri-lanka.kgm"
 msgid "Central"
 msgstr "മദ്ധ്യ"
 
 #: sri-lanka.kgm:24
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Kandahar"
 msgctxt "sri-lanka.kgm"
 msgid "Kandy"
 msgstr "കാന്ദഹാര്‍"
 
 #: sri-lanka.kgm:28
 #, fuzzy, kde-format
-#| msgctxt "botswana.kgm"
-#| msgid "Central"
 msgctxt "sri-lanka.kgm"
 msgid "North Central"
 msgstr "മദ്ധ്യ"
 
 #: sri-lanka.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Janakpur"
 msgctxt "sri-lanka.kgm"
 msgid "Anuradhapura"
 msgstr "ജനക്പുര്‍"
 
 #: sri-lanka.kgm:33
 #, fuzzy, kde-format
-#| msgctxt "cameroon_provinces.kgm"
-#| msgid "North"
 msgctxt "sri-lanka.kgm"
 msgid "North"
 msgstr "വടക്ക്"
@@ -34224,24 +33154,18 @@ msgstr ""
 
 #: sri-lanka.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "zambia_provinces.kgm"
-#| msgid "Eastern"
 msgctxt "sri-lanka.kgm"
 msgid "Eastern"
 msgstr "കിഴക്കന്‍"
 
 #: sri-lanka.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "republic_of_ireland.kgm"
-#| msgid "Tralee"
 msgctxt "sri-lanka.kgm"
 msgid "Trincomalee"
 msgstr "ട്രാലീ"
 
 #: sri-lanka.kgm:43
 #, fuzzy, kde-format
-#| msgctxt "zambia_provinces.kgm"
-#| msgid "North-Western"
 msgctxt "sri-lanka.kgm"
 msgid "North Western"
 msgstr "വടക്കുപടിഞ്ഞാറന്‍"
@@ -34254,24 +33178,18 @@ msgstr ""
 
 #: sri-lanka.kgm:48
 #, fuzzy, kde-format
-#| msgctxt "botswana.kgm"
-#| msgid "Southern"
 msgctxt "sri-lanka.kgm"
 msgid "Southern"
 msgstr "തെക്കന്‍"
 
 #: sri-lanka.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "honduras.kgm"
-#| msgid "Valle"
 msgctxt "sri-lanka.kgm"
 msgid "Galle"
 msgstr "വാലെ"
 
 #: sri-lanka.kgm:53
 #, fuzzy, kde-format
-#| msgctxt "lithuania_municipalities.kgm"
-#| msgid "Utena"
 msgctxt "sri-lanka.kgm"
 msgid "Uva"
 msgstr "ഉതേന"
@@ -34284,32 +33202,24 @@ msgstr ""
 
 #: sri-lanka.kgm:58
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Sagarmatha"
 msgctxt "sri-lanka.kgm"
 msgid "Sabaragamuwa"
 msgstr "സാഗര്‍മാത"
 
 #: sri-lanka.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "indonesia.kgm"
-#| msgid "Jayapura"
 msgctxt "sri-lanka.kgm"
 msgid "Ratnapura"
 msgstr "ജയാപുര"
 
 #: sri-lanka.kgm:63
 #, fuzzy, kde-format
-#| msgctxt "zambia_provinces.kgm"
-#| msgid "Western"
 msgctxt "sri-lanka.kgm"
 msgid "Western"
 msgstr "പടിഞ്ഞാറന്‍"
 
 #: sri-lanka.kgm:64
 #, fuzzy, kde-format
-#| msgctxt "colombia.kgm"
-#| msgid "Colombia"
 msgctxt "sri-lanka.kgm"
 msgid "Colombo"
 msgstr "കൊളംബിയ‌"
@@ -34796,8 +33706,6 @@ msgstr "ബ്ലെക്കിങ്ങ് കൌണ്ടി"
 
 #: sweden.kgm:135
 #, fuzzy, kde-format
-#| msgctxt "sweden.kgm"
-#| msgid "Karlstad"
 msgctxt "sweden.kgm"
 msgid "Karlskrona"
 msgstr "കാള്‍സ്റ്റാഡ്"
@@ -35260,8 +34168,6 @@ msgstr ""
 
 #: tajikistan.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Dushanbe"
 msgctxt "tajikistan.kgm"
 msgid "Dushanbe"
 msgstr "ദുഷാന്‍ബേ"
@@ -35280,8 +34186,6 @@ msgstr ""
 
 #: tajikistan.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Badakhshan"
 msgctxt "tajikistan.kgm"
 msgid "Kuhistani Badakhshan"
 msgstr "ബദാക്ക്ഷാന്‍"
@@ -35294,32 +34198,24 @@ msgstr ""
 
 #: tamilnadu.kgm:4
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Tamil Nadu"
 msgctxt "tamilnadu.kgm"
 msgid "Tamil Nadu"
 msgstr "തമിഴ്നാട്"
 
 #: tamilnadu.kgm:5
 #, fuzzy, kde-format
-#| msgctxt "manipur.kgm"
-#| msgid "District"
 msgctxt "tamilnadu.kgm"
 msgid "District"
 msgstr "ജില്ല"
 
 #: tamilnadu.kgm:9
 #, fuzzy, kde-format
-#| msgctxt "afghanistan.kgm"
-#| msgid "Frontier"
 msgctxt "tamilnadu.kgm"
 msgid "Frontier"
 msgstr "അതിര്"
 
 #: tamilnadu.kgm:14
 #, fuzzy, kde-format
-#| msgctxt "portugal_districts.kgm"
-#| msgid "Coimbra"
 msgctxt "tamilnadu.kgm"
 msgid "Coimbatore"
 msgstr "കൊയിംബ്ര"
@@ -35338,8 +34234,6 @@ msgstr ""
 
 #: tamilnadu.kgm:23
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Uganda"
 msgctxt "tamilnadu.kgm"
 msgid "Udagamandalam"
 msgstr "ഉഗാണ്ട"
@@ -35364,16 +34258,12 @@ msgstr ""
 
 #: tamilnadu.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Sharur"
 msgctxt "tamilnadu.kgm"
 msgid "Karur"
 msgstr "ഷരൂര്‍"
 
 #: tamilnadu.kgm:43
 #, fuzzy, kde-format
-#| msgctxt "uzbekistan.kgm"
-#| msgid "Namangan"
 msgctxt "tamilnadu.kgm"
 msgid "Namakkal"
 msgstr "നമാങ്കന്‍"
@@ -35386,8 +34276,6 @@ msgstr ""
 
 #: tamilnadu.kgm:51
 #, fuzzy, kde-format
-#| msgctxt "usa.kgm"
-#| msgid "Salem"
 msgctxt "tamilnadu.kgm"
 msgid "Salem"
 msgstr "സേലം"
@@ -35400,8 +34288,6 @@ msgstr ""
 
 #: tamilnadu.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Tripura"
 msgctxt "tamilnadu.kgm"
 msgid "Vilupuram"
 msgstr "ത്രിപുര"
@@ -35426,8 +34312,6 @@ msgstr ""
 
 #: tamilnadu.kgm:75
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Thiruvananthapuram"
 msgctxt "tamilnadu.kgm"
 msgid "Thiruvarur"
 msgstr "തിരുവനന്തപുരം"
@@ -35446,8 +34330,6 @@ msgstr ""
 
 #: tamilnadu.kgm:87
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Chennai"
 msgctxt "tamilnadu.kgm"
 msgid "Chennai"
 msgstr "ചെന്നൈ"
@@ -35484,16 +34366,12 @@ msgstr ""
 
 #: tamilnadu.kgm:108
 #, fuzzy, kde-format
-#| msgctxt "indonesia.kgm"
-#| msgid "Jayapura"
 msgctxt "tamilnadu.kgm"
 msgid "Ramanathapuram"
 msgstr "ജയാപുര"
 
 #: tamilnadu.kgm:112
 #, fuzzy, kde-format
-#| msgctxt "ncamerica.kgm"
-#| msgid "Managua"
 msgctxt "tamilnadu.kgm"
 msgid "Virudhunagar"
 msgstr "മനാഗ്വ"
@@ -35506,104 +34384,78 @@ msgstr ""
 
 #: tamilnadu.kgm:120
 #, fuzzy, kde-format
-#| msgctxt "philippines.kgm"
-#| msgid "Sarangani"
 msgctxt "tamilnadu.kgm"
 msgid "Sivagangai"
 msgstr "സാരാംഗനി"
 
 #: tamilnadu.kgm:124
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Thiruvananthapuram"
 msgctxt "tamilnadu.kgm"
 msgid "Tiruvannamalai"
 msgstr "തിരുവനന്തപുരം"
 
 #: tamilnadu.kgm:128
 #, fuzzy, kde-format
-#| msgctxt "portugal_regions.kgm"
-#| msgid "Norte"
 msgctxt "tamilnadu.kgm"
 msgid "Vellore"
 msgstr "നോര്‍ട്ടെ"
 
 #: tamilnadu.kgm:132
 #, fuzzy, kde-format
-#| msgctxt "oceania.kgm"
-#| msgid "Tuvalu"
 msgctxt "tamilnadu.kgm"
 msgid "Thiruvallur"
 msgstr "ടുവാലു"
 
 #: tamilnadu.kgm:136
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Krishnagar"
 msgctxt "tamilnadu.kgm"
 msgid "Krishnagiri"
 msgstr "കൃഷ്​ണഗര്‍"
 
 #: tamilnadu.kgm:140
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Manipur"
 msgctxt "tamilnadu.kgm"
 msgid "Kanchipuram"
 msgstr "മ​ണിപ്പൂര്‍"
 
 #: tamilnadu.kgm:144
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Sri Lanka"
 msgctxt "tamilnadu.kgm"
 msgid "Sri Lanka"
 msgstr "ശ്രീലങ്ക"
 
 #: tamilnadu.kgm:149
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Kerala"
 msgctxt "tamilnadu.kgm"
 msgid "Kerala"
 msgstr "കേരളം"
 
 #: tamilnadu.kgm:154
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Andhra Pradesh"
 msgctxt "tamilnadu.kgm"
 msgid "Andhra Pradesh"
 msgstr "ആന്ധ്ര പ്രദേശ്"
 
 #: tamilnadu.kgm:159
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Karnataka"
 msgctxt "tamilnadu.kgm"
 msgid "Karnataka"
 msgstr "കര്‍​ണാടക"
 
 #: tamilnadu.kgm:164
 #, fuzzy, kde-format
-#| msgctxt "brazil.kgm"
-#| msgid "Paraiba"
 msgctxt "tamilnadu.kgm"
 msgid "Karaikal"
 msgstr "പരൈബ"
 
 #: tamilnadu.kgm:169
 #, fuzzy, kde-format
-#| msgctxt "india.kgm"
-#| msgid "Pondicherry"
 msgctxt "tamilnadu.kgm"
 msgid "Pondicherry"
 msgstr "പോണ്ടിച്ചേരി"
 
 #: tamilnadu.kgm:174
 #, fuzzy, kde-format
-#| msgctxt "africa.kgm"
-#| msgid "Water"
 msgctxt "tamilnadu.kgm"
 msgid "Water"
 msgstr "വെള്ളം"
@@ -36210,8 +35062,6 @@ msgstr "ആദ്‌ല്യമാന്‍"
 
 #: turkey.kgm:33
 #, fuzzy, kde-format
-#| msgctxt "turkey.kgm"
-#| msgid "Ankara"
 msgctxt "turkey.kgm"
 msgid "Afyonkarahisar"
 msgstr "അങ്കാര"
@@ -36242,8 +35092,6 @@ msgstr "അങ്കാര"
 
 #: turkey.kgm:53 turkey.kgm:54
 #, fuzzy, kde-format
-#| msgctxt "europe.kgm"
-#| msgid "Italy"
 msgctxt "turkey.kgm"
 msgid "Antalya"
 msgstr "ഇറ്റലി‌"
@@ -36274,8 +35122,6 @@ msgstr ""
 
 #: turkey.kgm:78 turkey.kgm:79
 #, fuzzy, kde-format
-#| msgctxt "zimbabwe_districts.kgm"
-#| msgid "Binga"
 msgctxt "turkey.kgm"
 msgid "Bingöl"
 msgstr "ബിങ്ക"
@@ -36294,8 +35140,6 @@ msgstr ""
 
 #: turkey.kgm:93 turkey.kgm:94
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Burdwan"
 msgctxt "turkey.kgm"
 msgid "Burdur"
 msgstr "ബുര്‍ദ്വന്‍"
@@ -36386,8 +35230,6 @@ msgstr ""
 
 #: turkey.kgm:168 turkey.kgm:169
 #, fuzzy, kde-format
-#| msgctxt "saudi_arabia.kgm"
-#| msgid "Makkah"
 msgctxt "turkey.kgm"
 msgid "Hakkari"
 msgstr "മക്ക"
@@ -36406,16 +35248,12 @@ msgstr ""
 
 #: turkey.kgm:178 turkey.kgm:179
 #, fuzzy, kde-format
-#| msgctxt "greece_prefectures.kgm"
-#| msgid "arta"
 msgctxt "turkey.kgm"
 msgid "Isparta"
 msgstr "ആര്‍ട്ട"
 
 #: turkey.kgm:183 turkey.kgm:184
 #, fuzzy, kde-format
-#| msgctxt "luxembourg_cantons.kgm"
-#| msgid "Mersch"
 msgctxt "turkey.kgm"
 msgid "Mersin"
 msgstr "മെര്‍ഷ്"
@@ -36452,8 +35290,6 @@ msgstr ""
 
 #: turkey.kgm:213 turkey.kgm:214
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Karelia"
 msgctxt "turkey.kgm"
 msgid "Kırklareli"
 msgstr "കരേലിയ"
@@ -36490,16 +35326,12 @@ msgstr ""
 
 #: turkey.kgm:238 turkey.kgm:239
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Malaysia"
 msgctxt "turkey.kgm"
 msgid "Malatya"
 msgstr "മലേഷ്യ"
 
 #: turkey.kgm:243 turkey.kgm:244
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Mania"
 msgctxt "turkey.kgm"
 msgid "Manisa"
 msgstr "മനിയ"
@@ -36512,8 +35344,6 @@ msgstr ""
 
 #: turkey.kgm:253 turkey.kgm:254
 #, fuzzy, kde-format
-#| msgctxt "italy.kgm"
-#| msgid "Sardinia"
 msgctxt "turkey.kgm"
 msgid "Mardin"
 msgstr "സാര്‍ഡീനിയ"
@@ -36526,8 +35356,6 @@ msgstr ""
 
 #: turkey.kgm:263 turkey.kgm:264
 #, fuzzy, kde-format
-#| msgctxt "romania.kgm"
-#| msgid "Mureş"
 msgctxt "turkey.kgm"
 msgid "Muş"
 msgstr "മുറെസ്"
@@ -36546,8 +35374,6 @@ msgstr ""
 
 #: turkey.kgm:278 turkey.kgm:279
 #, fuzzy, kde-format
-#| msgctxt "azerbaijan.kgm"
-#| msgid "Ordubad"
 msgctxt "turkey.kgm"
 msgid "Ordu"
 msgstr "ഓര്‍ദുബാദ്"
@@ -36560,8 +35386,6 @@ msgstr ""
 
 #: turkey.kgm:288
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Jakarta"
 msgctxt "turkey.kgm"
 msgid "Sakarya"
 msgstr "ജക്കാര്‍ത്ത"
@@ -36592,8 +35416,6 @@ msgstr ""
 
 #: turkey.kgm:308 turkey.kgm:309
 #, fuzzy, kde-format
-#| msgctxt "nicaragua.kgm"
-#| msgid "Rivas"
 msgctxt "turkey.kgm"
 msgid "Sivas"
 msgstr "റിവാസ്"
@@ -36666,8 +35488,6 @@ msgstr ""
 
 #: turkey.kgm:368 turkey.kgm:369
 #, fuzzy, kde-format
-#| msgctxt "kazakhstan.kgm"
-#| msgid "Karaganda"
 msgctxt "turkey.kgm"
 msgid "Karaman"
 msgstr "കരഗാണ്ട"
@@ -36698,8 +35518,6 @@ msgstr ""
 
 #: turkey.kgm:393 turkey.kgm:394
 #, fuzzy, kde-format
-#| msgctxt "thailand.kgm"
-#| msgid "Mukdahan"
 msgctxt "turkey.kgm"
 msgid "Ardahan"
 msgstr "മുക്താഹന്‍"
@@ -36718,24 +35536,18 @@ msgstr ""
 
 #: turkey.kgm:408 turkey.kgm:409
 #, fuzzy, kde-format
-#| msgctxt "pakistan.kgm"
-#| msgid "Karachi"
 msgctxt "turkey.kgm"
 msgid "Karabük"
 msgstr "കറാച്ചി"
 
 #: turkey.kgm:413 turkey.kgm:414
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Tbilisi"
 msgctxt "turkey.kgm"
 msgid "Kilis"
 msgstr "ബിലിസി"
 
 #: turkey.kgm:418 turkey.kgm:419
 #, fuzzy, kde-format
-#| msgctxt "australia.kgm"
-#| msgid "Tasmania"
 msgctxt "turkey.kgm"
 msgid "Osmaniye"
 msgstr "ടാസ്മേനിയ"
@@ -36790,16 +35602,12 @@ msgstr ""
 
 #: turkmenistan.kgm:28
 #, fuzzy, kde-format
-#| msgctxt "greece.kgm"
-#| msgid "Balkans"
 msgctxt "turkmenistan.kgm"
 msgid "Balkan"
 msgstr "ബാള്‍ക്കനുകള്‍"
 
 #: turkmenistan.kgm:29
 #, fuzzy, kde-format
-#| msgctxt "greece.kgm"
-#| msgid "Balkans"
 msgctxt "turkmenistan.kgm"
 msgid "Balkanabat"
 msgstr "ബാള്‍ക്കനുകള്‍"
@@ -36812,8 +35620,6 @@ msgstr ""
 
 #: turkmenistan.kgm:38
 #, fuzzy, kde-format
-#| msgctxt "asia.kgm"
-#| msgid "Lebanon"
 msgctxt "turkmenistan.kgm"
 msgid "Lebap"
 msgstr "ലെബനണ്‍"
@@ -36844,8 +35650,6 @@ msgstr "ഒബ്ലാസ്റ്റുകള്‍"
 
 #: ukraine.kgm:9
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Smolensk"
 msgctxt "ukraine.kgm"
 msgid "Volyns'ka oblast'"
 msgstr "സ്മോളെന്‍സ്ക്"
@@ -36858,8 +35662,6 @@ msgstr ""
 
 #: ukraine.kgm:15
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "L'vivs'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -36872,8 +35674,6 @@ msgstr ""
 
 #: ukraine.kgm:21
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Samara"
 msgctxt "ukraine.kgm"
 msgid "Zakarpats'ka oblast'"
 msgstr "സമാറ"
@@ -36886,8 +35686,6 @@ msgstr ""
 
 #: ukraine.kgm:27
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Rivnens'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -36900,24 +35698,18 @@ msgstr ""
 
 #: ukraine.kgm:33
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Ternopil's'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
 
 #: ukraine.kgm:34
 #, fuzzy, kde-format
-#| msgctxt "italyprovince.kgm"
-#| msgid "Terni"
 msgctxt "ukraine.kgm"
 msgid "Ternopil'"
 msgstr "ടെര്‍ണി"
 
 #: ukraine.kgm:39
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Chelyabinsk"
 msgctxt "ukraine.kgm"
 msgid "Khmel'nyts'ka oblast'"
 msgstr "ചെല്യാബിന്‍സ്ക്"
@@ -36930,8 +35722,6 @@ msgstr ""
 
 #: ukraine.kgm:45
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Ivanovo"
 msgctxt "ukraine.kgm"
 msgid "Ivano-Frankivs'ka oblast'"
 msgstr "ഇവാനോവോ"
@@ -36944,8 +35734,6 @@ msgstr ""
 
 #: ukraine.kgm:51
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Lipetsk"
 msgctxt "ukraine.kgm"
 msgid "Chernivets'ka oblast'"
 msgstr "ലിപെറ്റ്സ്ക്"
@@ -36958,8 +35746,6 @@ msgstr ""
 
 #: ukraine.kgm:57
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Zhytomyrs'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -36972,8 +35758,6 @@ msgstr ""
 
 #: ukraine.kgm:63
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Lipetsk"
 msgctxt "ukraine.kgm"
 msgid "Vinnyts'ka oblast'"
 msgstr "ലിപെറ്റ്സ്ക്"
@@ -36986,8 +35770,6 @@ msgstr ""
 
 #: ukraine.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Kyivs'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -37000,24 +35782,18 @@ msgstr "കീവ്"
 
 #: ukraine.kgm:75
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Chelyabinsk"
 msgctxt "ukraine.kgm"
 msgid "Cherkas'ka oblast'"
 msgstr "ചെല്യാബിന്‍സ്ക്"
 
 #: ukraine.kgm:76
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Cherkessk"
 msgctxt "ukraine.kgm"
 msgid "Cherkasy"
 msgstr "ചെര്‍ക്കേസ്ക്ക്"
 
 #: ukraine.kgm:81
 #, fuzzy, kde-format
-#| msgctxt "ukraine.kgm"
-#| msgid "Oblasts"
 msgctxt "ukraine.kgm"
 msgid "Kirovohrads'ka oblast'"
 msgstr "ഒബ്ലാസ്റ്റുകള്‍"
@@ -37030,8 +35806,6 @@ msgstr ""
 
 #: ukraine.kgm:87
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Mykolayivs'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -37044,8 +35818,6 @@ msgstr ""
 
 #: ukraine.kgm:93
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Odes'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -37058,24 +35830,18 @@ msgstr "ഒഡെസ"
 
 #: ukraine.kgm:99
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Chelyabinsk"
 msgctxt "ukraine.kgm"
 msgid "Chernihivs'ka oblast'"
 msgstr "ചെല്യാബിന്‍സ്ക്"
 
 #: ukraine.kgm:100
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Cher"
 msgctxt "ukraine.kgm"
 msgid "Chernihiv"
 msgstr "ചെര്‍"
 
 #: ukraine.kgm:105
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Sums'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -37088,40 +35854,30 @@ msgstr "സുമി"
 
 #: ukraine.kgm:111
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Ulyanovsk"
 msgctxt "ukraine.kgm"
 msgid "Poltavs'ka oblast'"
 msgstr "ഉല്യനോവ്സ്ക്"
 
 #: ukraine.kgm:112
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Volta"
 msgctxt "ukraine.kgm"
 msgid "Poltava"
 msgstr "വോള്‍ട്ട"
 
 #: ukraine.kgm:117
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Kharkivs'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
 
 #: ukraine.kgm:118
 #, fuzzy, kde-format
-#| msgctxt "egypt.kgm"
-#| msgid "Kharga"
 msgctxt "ukraine.kgm"
 msgid "Kharkiv"
 msgstr "ഖര്‍ഗ"
 
 #: ukraine.kgm:123
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Lipetsk"
 msgctxt "ukraine.kgm"
 msgid "Dnipropetrovs'ka oblast'"
 msgstr "ലിപെറ്റ്സ്ക്"
@@ -37134,8 +35890,6 @@ msgstr "ദനിപ്രോ"
 
 #: ukraine.kgm:129
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Donets'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
@@ -37154,16 +35908,12 @@ msgstr ""
 
 #: ukraine.kgm:136
 #, fuzzy, kde-format
-#| msgctxt "italyprovince.kgm"
-#| msgid "Gorizia"
 msgctxt "ukraine.kgm"
 msgid "Zaporizhzhia"
 msgstr "ഗൊറീസിയ"
 
 #: ukraine.kgm:141
 #, fuzzy, kde-format
-#| msgctxt "russia_subjects.kgm"
-#| msgid "Vologda"
 msgctxt "ukraine.kgm"
 msgid "Khersons'ka oblast'"
 msgstr "വൊലോഗ്ഡ"
@@ -37176,16 +35926,12 @@ msgstr ""
 
 #: ukraine.kgm:147
 #, fuzzy, kde-format
-#| msgctxt "belarus.kgm"
-#| msgid "Minsk(Oblast)"
 msgctxt "ukraine.kgm"
 msgid "Luhans'ka oblast'"
 msgstr "മിന്‍സ്ക് (ഒബ്ലാസ്റ്റ്)"
 
 #: ukraine.kgm:148
 #, fuzzy, kde-format
-#| msgctxt "china.kgm"
-#| msgid "Wuhan"
 msgctxt "ukraine.kgm"
 msgid "Luhans'k"
 msgstr "വൂഹാന്‍"
@@ -37300,16 +36046,12 @@ msgstr "മെലോ"
 
 #: uruguay.kgm:43 uruguay.kgm:44
 #, fuzzy, kde-format
-#| msgctxt "colombia.kgm"
-#| msgid "Colombia"
 msgctxt "uruguay.kgm"
 msgid "Colonia"
 msgstr "കൊളംബിയ‌"
 
 #: uruguay.kgm:48 uruguay.kgm:49
 #, fuzzy, kde-format
-#| msgctxt "mexico_states.kgm"
-#| msgid "Durango"
 msgctxt "uruguay.kgm"
 msgid "Durazno"
 msgstr "ദുരാങ്കോ"
@@ -37334,8 +36076,6 @@ msgstr "ഫ്ലോറിഡ"
 
 #: uruguay.kgm:63
 #, fuzzy, kde-format
-#| msgctxt "france.kgm"
-#| msgid "Laval"
 msgctxt "uruguay.kgm"
 msgid "Lavalleja"
 msgstr "ലാവല്‍"
@@ -37348,8 +36088,6 @@ msgstr "മിനാസ്"
 
 #: uruguay.kgm:68 uruguay.kgm:69
 #, fuzzy, kde-format
-#| msgctxt "indonesia.kgm"
-#| msgid "Manado"
 msgctxt "uruguay.kgm"
 msgid "Maldonado"
 msgstr "മനാഡോ"
@@ -37362,8 +36100,6 @@ msgstr "മോണ്ടിവീഡിയോ"
 
 #: uruguay.kgm:78 uruguay.kgm:79
 #, fuzzy, kde-format
-#| msgctxt "iraq.kgm"
-#| msgid "Maysan"
 msgctxt "uruguay.kgm"
 msgid "Paysandú"
 msgstr "മയ്സാന്‍"
@@ -37382,8 +36118,6 @@ msgstr ""
 
 #: uruguay.kgm:88 uruguay.kgm:89
 #, fuzzy, kde-format
-#| msgctxt "ukraine.kgm"
-#| msgid "River"
 msgctxt "uruguay.kgm"
 msgid "Rivera"
 msgstr "നദി"
@@ -38776,24 +37510,18 @@ msgstr ""
 
 #: vietnam.kgm:103
 #, fuzzy, kde-format
-#| msgctxt "vietnam.kgm"
-#| msgid "Ha Nam"
 msgctxt "vietnam.kgm"
 msgid "Da Nang"
 msgstr "ഹാ നാം"
 
 #: vietnam.kgm:108
 #, fuzzy, kde-format
-#| msgctxt "vietnam.kgm"
-#| msgid "Kien Giang"
 msgctxt "vietnam.kgm"
 msgid "Dien Bien"
 msgstr "കിയെന്‍ ജിയാങ്"
 
 #: vietnam.kgm:109
 #, fuzzy, kde-format
-#| msgctxt "vietnam.kgm"
-#| msgid "Binh Phuoc"
 msgctxt "vietnam.kgm"
 msgid "Dien Bien Phu"
 msgstr "ബിന്‍ ഫുവോക്"
@@ -38824,8 +37552,6 @@ msgstr ""
 
 #: vietnam.kgm:123
 #, fuzzy, kde-format
-#| msgctxt "vietnam.kgm"
-#| msgid "Da Lat"
 msgctxt "vietnam.kgm"
 msgid "Gia Lai"
 msgstr "ഡ ലറ്റ്"
@@ -38850,8 +37576,6 @@ msgstr "ഹയ് ഡുവോങ്"
 
 #: vietnam.kgm:138
 #, fuzzy, kde-format
-#| msgctxt "vietnam.kgm"
-#| msgid "Hai Duong"
 msgctxt "vietnam.kgm"
 msgid "Hai Phong"
 msgstr "ഹയ് ഡുവോങ്"
@@ -38942,8 +37666,6 @@ msgstr "കിയെന്‍ ജിയാങ്"
 
 #: vietnam.kgm:189
 #, fuzzy, kde-format
-#| msgctxt "vietnam.kgm"
-#| msgid "Bac Giang"
 msgctxt "vietnam.kgm"
 msgid "Rach Gia"
 msgstr "ബാക് ജിയാങ്"
@@ -38956,8 +37678,6 @@ msgstr "കൊന്‍ ടം"
 
 #: vietnam.kgm:198 vietnam.kgm:199
 #, fuzzy, kde-format
-#| msgctxt "waters_world-class.kgm"
-#| msgid "Lake Chad"
 msgctxt "vietnam.kgm"
 msgid "Lai Chau"
 msgstr "ഛാഡ് തടാകം"
@@ -39696,48 +38416,36 @@ msgstr ""
 
 #: waters_world-class.kgm:403
 #, fuzzy, kde-format
-#| msgctxt "jamaica.kgm"
-#| msgid "Port Maria"
 msgctxt "waters_world-class.kgm"
 msgid "Syr Daria"
 msgstr "മരിയ തുറമുഖം"
 
 #: waters_world-class.kgm:408
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Rapti"
 msgctxt "waters_world-class.kgm"
 msgid "Tapti"
 msgstr "റാപ്തി"
 
 #: waters_world-class.kgm:413
 #, fuzzy, kde-format
-#| msgctxt "bolivia.kgm"
-#| msgid "Tarija"
 msgctxt "waters_world-class.kgm"
 msgid "Tarim"
 msgstr "തരീജ"
 
 #: waters_world-class.kgm:418
 #, fuzzy, kde-format
-#| msgctxt "china.kgm"
-#| msgid "Jiangsu"
 msgctxt "waters_world-class.kgm"
 msgid "Xi Jiang"
 msgstr "ജിയാങ്സു"
 
 #: waters_world-class.kgm:423
 #, fuzzy, kde-format
-#| msgctxt "vietnam.kgm"
-#| msgid "Hau Giang"
 msgctxt "waters_world-class.kgm"
 msgid "Yalu Jiang"
 msgstr "ബാക് ജിയാങ്ഹൗ ജിയാങ്"
 
 #: waters_world-class.kgm:428
 #, fuzzy, kde-format
-#| msgctxt "burma.kgm"
-#| msgid "Yangon"
 msgctxt "waters_world-class.kgm"
 msgid "Yangtze"
 msgstr "യാന്‍ഗോണ്‍"
@@ -39978,8 +38686,6 @@ msgstr "ജില്ല"
 
 #: westbengal.kgm:9
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "West Bengal"
 msgctxt "westbengal.kgm"
 msgid "Not West Bengal"
 msgstr "വെസ്റ്റ് ബംഗാള്‍"
@@ -40088,8 +38794,6 @@ msgstr "നദിയ"
 
 #: westbengal.kgm:128
 #, fuzzy, kde-format
-#| msgctxt "westbengal.kgm"
-#| msgid "Krishnagar"
 msgctxt "westbengal.kgm"
 msgid "Krishnanagar"
 msgstr "കൃഷ്​ണഗര്‍"
@@ -40780,16 +39484,12 @@ msgstr "ഖാര്‍ട്ടോം"
 
 #: world.kgm:516
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Not Sudan"
 msgctxt "world.kgm"
 msgid "South Sudan"
 msgstr "സുഡാന്‍ അല്ല"
 
 #: world.kgm:518
 #, fuzzy, kde-format
-#| msgctxt "sudan.kgm"
-#| msgid "Juba"
 msgctxt "world.kgm"
 msgid "Juba"
 msgstr "ജൂബ"
@@ -41042,8 +39742,6 @@ msgstr "സാഗ്രെബ്"
 
 #: world.kgm:735
 #, fuzzy, kde-format
-#| msgctxt "nepal_zones.kgm"
-#| msgid "Mechi"
 msgctxt "world.kgm"
 msgid "Czechia"
 msgstr "മേച്ചി"
@@ -41092,8 +39790,6 @@ msgstr "ഹെത്സിങ്കി"
 
 #: world.kgm:775
 #, fuzzy, kde-format
-#| msgctxt "greece.kgm"
-#| msgid "West Macedonia"
 msgctxt "world.kgm"
 msgid "North Macedonia"
 msgstr "പടിഞ്ഞാറന്‍ മാസിഡോണിയ"
@@ -42396,16 +41092,12 @@ msgstr "തെക്കേ അമേരിക്ക"
 
 #: world_continents.kgm:33
 #, fuzzy, kde-format
-#| msgctxt "chile.kgm"
-#| msgid "Rancagua"
 msgctxt "world_continents.kgm"
 msgid "Aconcagua"
 msgstr "റാങ്കാഗുവ"
 
 #: world_continents.kgm:37
 #, fuzzy, kde-format
-#| msgctxt "world_continents.kgm"
-#| msgid "Antartica"
 msgctxt "world_continents.kgm"
 msgid "Antarctica"
 msgstr "അന്റാര്‍ട്ടിക്ക"
@@ -42496,8 +41188,6 @@ msgstr ""
 
 #: yemen.kgm:28
 #, fuzzy, kde-format
-#| msgctxt "turkey.kgm"
-#| msgid "Adana"
 msgctxt "yemen.kgm"
 msgid "'Adan"
 msgstr "അദാന"
@@ -42540,8 +41230,6 @@ msgstr "അല്‍ മാഹ്വിത്"
 
 #: yemen.kgm:59
 #, fuzzy, kde-format
-#| msgctxt "yemen.kgm"
-#| msgid "Al Hudaydah"
 msgctxt "yemen.kgm"
 msgid "Al Ghaydah"
 msgstr "അല്‍ ഹുദായ്ദ"
@@ -42554,8 +41242,6 @@ msgstr ""
 
 #: yemen.kgm:68
 #, fuzzy, kde-format
-#| msgctxt "iran.kgm"
-#| msgid "Sari"
 msgctxt "yemen.kgm"
 msgid "Dhamar"
 msgstr "ശരി"
@@ -42568,8 +41254,6 @@ msgstr ""
 
 #: yemen.kgm:74
 #, fuzzy, kde-format
-#| msgctxt "iraq.kgm"
-#| msgid "Al Muthanna"
 msgctxt "yemen.kgm"
 msgid "Al Mukalla"
 msgstr "അല്‍ മുതന്ന"
@@ -42582,8 +41266,6 @@ msgstr ""
 
 #: yemen.kgm:83
 #, fuzzy, kde-format
-#| msgctxt "philippines.kgm"
-#| msgid "Iba"
 msgctxt "yemen.kgm"
 msgid "Ibb"
 msgstr "ഇബ"
@@ -44125,8 +42807,6 @@ msgstr "സ്വിഷവേന്‍"
 #~ msgstr "ഹെര്‍മാന്‍സ്വര്‍ക്"
 
 #, fuzzy
-#~| msgctxt "russia_subjects.kgm"
-#~| msgid "Kirov"
 #~ msgctxt "ukraine.kgm"
 #~ msgid "Kirovohrad"
 #~ msgstr "കിറോവ്"
@@ -44260,8 +42940,6 @@ msgstr "സ്വിഷവേന്‍"
 #~ msgstr "ഇലിയ"
 
 #, fuzzy
-#~| msgctxt "usa.kgm"
-#~| msgid "Sacramento"
 #~ msgid "Scramble"
 #~ msgstr "സാക്രമെന്റോ"
 
@@ -44370,8 +43048,6 @@ msgstr "സ്വിഷവേന്‍"
 #~ msgstr "മലാക്കള്‍"
 
 #, fuzzy
-#~| msgctxt "kazakhstan.kgm"
-#~| msgid "Baikonur"
 #~ msgctxt "chhattisgarh.kgm"
 #~ msgid "Baikunthpur"
 #~ msgstr "ബൈക്കനൂര്‍"
@@ -44425,36 +43101,26 @@ msgstr "സ്വിഷവേന്‍"
 #~ msgstr "കഫോര്‍ണിഹോന്‍"
 
 #, fuzzy
-#~| msgctxt "colombia.kgm"
-#~| msgid "Border"
 #~ msgctxt "andhrapradesh.kgm"
 #~ msgid "Border"
 #~ msgstr "അരിക്"
 
 #, fuzzy
-#~| msgctxt "colombia.kgm"
-#~| msgid "Border"
 #~ msgctxt "arunachalpradesh.kgm"
 #~ msgid "Border"
 #~ msgstr "അരിക്"
 
 #, fuzzy
-#~| msgctxt "colombia.kgm"
-#~| msgid "Border"
 #~ msgctxt "chhattisgarh.kgm"
 #~ msgid "Border"
 #~ msgstr "അരിക്"
 
 #, fuzzy
-#~| msgctxt "colombia.kgm"
-#~| msgid "Border"
 #~ msgctxt "gujarat.kgm"
 #~ msgid "Border"
 #~ msgstr "അരിക്"
 
 #, fuzzy
-#~| msgctxt "colombia.kgm"
-#~| msgid "Border"
 #~ msgctxt "haryana.kgm"
 #~ msgid "Border"
 #~ msgstr "അരിക്"
@@ -44472,8 +43138,6 @@ msgstr "സ്വിഷവേന്‍"
 #~ msgstr "ഖാന്‍ലര്‍"
 
 #, fuzzy
-#~| msgctxt "india.kgm"
-#~| msgid "Arunachal Pradesh"
 #~ msgctxt "arunachalpradesh.kgm"
 #~ msgid "Arunchal Pradesh"
 #~ msgstr "അരുണാചല്‍ പ്രദേശ്"
@@ -44487,15 +43151,11 @@ msgstr "സ്വിഷവേന്‍"
 #~ msgstr "മിന്‍സ്ക് (സിറ്റി)"
 
 #, fuzzy
-#~| msgctxt "westbengal.kgm"
-#~| msgid "Raiganj"
 #~ msgctxt "jharkhand.kgm"
 #~ msgid "Sahibhganj"
 #~ msgstr "റായിഗഞ്ച്"
 
 #, fuzzy
-#~| msgctxt "brazil.kgm"
-#~| msgid "Paraiba"
 #~ msgctxt "jharkhand.kgm"
 #~ msgid "Harzaribag"
 #~ msgstr "പരൈബ"

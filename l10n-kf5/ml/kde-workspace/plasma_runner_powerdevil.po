@@ -55,7 +55,6 @@ msgstr "തിരശ്ശീല വെളിച്ചം"
 
 #: PowerDevilRunner.cpp:61 PowerDevilRunner.cpp:97 PowerDevilRunner.cpp:151
 #, fuzzy, kde-format
-#| msgid "Dim screen totally"
 msgctxt "Note this is a KRunner keyword"
 msgid "dim screen"
 msgstr "തിരശ്ശീലയുടെ വെളിച്ചം മുഴുവനും കുറയ്ക്കുക"
@@ -86,15 +85,12 @@ msgstr ""
 
 #: PowerDevilRunner.cpp:148
 #, fuzzy, kde-format
-#| msgctxt "Note this is a KRunner keyword"
-#| msgid "screen brightness"
 msgctxt "Note this is a KRunner keyword; %1 is a parameter"
 msgid "screen brightness %1"
 msgstr "തിരശ്ശീല വെളിച്ചം"
 
 #: PowerDevilRunner.cpp:150
 #, fuzzy, kde-format
-#| msgid "Dim screen totally"
 msgctxt "Note this is a KRunner keyword; %1 is a parameter"
 msgid "dim screen %1"
 msgstr "തിരശ്ശീലയുടെ വെളിച്ചം മുഴുവനും കുറയ്ക്കുക"
@@ -122,8 +118,6 @@ msgstr ""
 
 #: PowerDevilRunner.cpp:217
 #, fuzzy, kde-format
-#| msgctxt "Note this is a KRunner keyword"
-#| msgid "suspend"
 msgid "Suspend to RAM"
 msgstr "മയങ്ങുക"
 
@@ -135,8 +129,6 @@ msgstr ""
 
 #: PowerDevilRunner.cpp:223
 #, fuzzy, kde-format
-#| msgctxt "Note this is a KRunner keyword"
-#| msgid "suspend"
 msgid "Suspend to disk"
 msgstr "മയങ്ങുക"
 
@@ -145,8 +137,6 @@ msgstr "മയങ്ങുക"
 #~ msgstr "ഊര്‍ജ്ജ പ്രൊഫൈല്‍"
 
 #, fuzzy
-#~| msgctxt "Note this is a KRunner keyword"
-#~| msgid "power profile"
 #~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
 #~ msgid "power profile %1"
 #~ msgstr "ഊര്‍ജ്ജ പ്രൊഫൈല്‍"
@@ -162,20 +152,15 @@ msgstr "മയങ്ങുക"
 #~ msgstr "ഊര്‍ജ്ജ ഗവര്‍ണര്‍"
 
 #, fuzzy
-#~| msgctxt "Note this is a KRunner keyword"
-#~| msgid "power governor"
 #~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
 #~ msgid "power governor %1"
 #~ msgstr "ഊര്‍ജ്ജ ഗവര്‍ണര്‍"
 
 #, fuzzy
-#~| msgid "Set Powersaving Scheme to '%1'"
 #~ msgid "Set CPU frequency scaling policy to '%1'"
 #~ msgstr "ഊര്‍ജ്ജ-സംരക്ഷണ പദ്ധതി '%1' ആക്കുക"
 
 #, fuzzy
-#~| msgctxt "Note this is a KRunner keyword"
-#~| msgid "power scheme"
 #~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
 #~ msgid "power scheme %1"
 #~ msgstr "ഊര്‍ജ്ജ പദ്ധതി "

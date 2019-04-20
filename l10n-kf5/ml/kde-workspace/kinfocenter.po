@@ -80,7 +80,6 @@ msgstr "പ്രധാന ഉപകരണപ്പട്ട"
 
 #: main.cpp:43
 #, fuzzy, kde-format
-#| msgid "KDE Info Center"
 msgid "Info Center"
 msgstr "കെഡിഇ വിവരകേന്ദ്രം"
 

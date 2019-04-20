@@ -23,21 +23,18 @@ msgstr ""
 
 #: body.cc:26
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "ObjectClass|"
 msgid "Body"
 msgstr "&തടിച്ച "
 
 #: body.cc:26
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "ObjectDescription|"
 msgid "Body"
 msgstr "&തടിച്ച "
 
 #: collisionsolver.cc:32
 #, fuzzy
-#| msgid "Unknown constraintSolver type \"%1\""
 msgctxt "ObjectClass|"
 msgid "CollisionSolver"
 msgstr "അറിയപ്പെടാത്ത \"%1\"സമ്മര്‍ദ്ദ പരിഹാര ഇനം"
@@ -64,21 +61,18 @@ msgstr ""
 
 #: collisionsolver.cc:36
 #, fuzzy
-#| msgid "Unknown constraintSolver type \"%1\""
 msgctxt "ObjectClass|"
 msgid "GJKCollisionSolver"
 msgstr "അറിയപ്പെടാത്ത \"%1\"സമ്മര്‍ദ്ദ പരിഹാര ഇനം"
 
 #: constraintsolver.cc:31
 #, fuzzy
-#| msgid "Unknown constraintSolver type \"%1\""
 msgctxt "ObjectClass|"
 msgid "ConstraintSolver"
 msgstr "അറിയപ്പെടാത്ത \"%1\"സമ്മര്‍ദ്ദ പരിഹാര ഇനം"
 
 #: constraintsolver.cc:35
 #, fuzzy
-#| msgid "Unknown constraintSolver type \"%1\""
 msgctxt "ObjectClass|"
 msgid "CGConstraintSolver"
 msgstr "അറിയപ്പെടാത്ത \"%1\"സമ്മര്‍ദ്ദ പരിഹാര ഇനം"
@@ -115,7 +109,6 @@ msgstr ""
 
 #: coulombforce.cc:32
 #, fuzzy
-#| msgid "The mass of one particle"
 msgctxt "ObjectDescription|"
 msgid "Errors class for CoulombForce"
 msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
@@ -127,7 +120,6 @@ msgstr ""
 
 #: coulombforce.cc:35
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Coulomb constant variance"
 msgstr "സ്ഥാനം:"
@@ -169,21 +161,18 @@ msgstr ""
 
 #: force.cc:27
 #, fuzzy
-#| msgid "Value"
 msgctxt "ObjectDescription|"
 msgid "Force"
 msgstr "മൂല്യം"
 
 #: gas.cc:28
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "GasParticle"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: gas.cc:28
 #, fuzzy
-#| msgid "Create gas particles"
 msgctxt "ObjectDescription|"
 msgid "Gas particle"
 msgstr "വാതകകണങ്ങള്‍ സൃഷ്ടിക്കുക"
@@ -221,7 +210,6 @@ msgstr ""
 
 #: gas.cc:33
 #, fuzzy
-#| msgid "min:"
 msgctxt "PropertyName|"
 msgid "rmin"
 msgstr "ചുരുങ്ങിയ:"
@@ -246,35 +234,30 @@ msgstr ""
 
 #: gas.cc:34
 #, fuzzy
-#| msgid "auto"
 msgctxt "PropertyName|"
 msgid "cutoff"
 msgstr "യാന്ത്രികം"
 
 #: gas.cc:36
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "GasLJForceErrors"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: gas.cc:36
 #, fuzzy
-#| msgid "The mass of one particle"
 msgctxt "ObjectDescription|"
 msgid "Errors class for GasLJForce"
 msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
 
 #: gas.cc:38
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyName|"
 msgid "depthVariance"
 msgstr "താപം:"
 
 #: gas.cc:39
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyDescription|"
 msgid "Potential depth variance"
 msgstr "താപം:"
@@ -296,7 +279,6 @@ msgstr ""
 
 #: gas.cc:45
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectDescription|"
 msgid "Particle gas"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
@@ -318,7 +300,6 @@ msgstr ""
 
 #: gas.cc:49
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Size of the rect for measurements"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
@@ -335,28 +316,24 @@ msgstr ""
 
 #: gas.cc:51
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Volume of the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:52
 #, fuzzy
-#| msgid "Particles count:"
 msgctxt "PropertyName|"
 msgid "rectParticleCount"
 msgstr "അണുക്കളുടെ എണ്ണം:"
 
 #: gas.cc:53
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Count of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:54
 #, fuzzy
-#| msgid "Concentration:"
 msgctxt "PropertyName|"
 msgid "rectConcentration"
 msgstr "ഏകാഗ്രത:"
@@ -368,7 +345,6 @@ msgstr ""
 
 #: gas.cc:55
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Concentration of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
@@ -385,14 +361,12 @@ msgstr ""
 
 #: gas.cc:57
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Pressure of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:58
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyName|"
 msgid "rectTemperature"
 msgstr "താപം:"
@@ -404,7 +378,6 @@ msgstr ""
 
 #: gas.cc:59
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Temperature of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
@@ -416,14 +389,12 @@ msgstr ""
 
 #: gas.cc:61
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Mean kinetic energy of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:62
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyName|"
 msgid "rectMeanVelocity"
 msgstr "ശരാശരി ശീഘ്രത:"
@@ -436,14 +407,12 @@ msgstr ""
 
 #: gas.cc:63
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Mean velocity of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:64
 #, fuzzy
-#| msgid "Create gas particles"
 msgctxt "PropertyName|"
 msgid "rectMeanParticleMass"
 msgstr "വാതകകണങ്ങള്‍ സൃഷ്ടിക്കുക"
@@ -456,7 +425,6 @@ msgstr ""
 
 #: gas.cc:65
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Mean mass of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
@@ -468,105 +436,90 @@ msgstr ""
 
 #: gas.cc:67
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Total mass of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:70
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "GasErrors"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: gas.cc:70
 #, fuzzy
-#| msgid "The mass of one particle"
 msgctxt "ObjectDescription|"
 msgid "Errors class for Gas"
 msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
 
 #: gas.cc:71
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyName|"
 msgid "rectPressureVariance"
 msgstr "താപം:"
 
 #: gas.cc:72
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Variance of pressure of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:73
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyName|"
 msgid "rectTemperatureVariance"
 msgstr "താപം:"
 
 #: gas.cc:74
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Variance of temperature of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:75
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyName|"
 msgid "rectMeanKineticEnergyVariance"
 msgstr "താപം:"
 
 #: gas.cc:76
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Variance of mean kinetic energy of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:77
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyName|"
 msgid "rectMeanVelocityVariance"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: gas.cc:78
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Variance of mean velocity of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:79
 #, fuzzy
-#| msgid "Create gas particles"
 msgctxt "PropertyName|"
 msgid "rectMeanParticleMassVariance"
 msgstr "വാതകകണങ്ങള്‍ സൃഷ്ടിക്കുക"
 
 #: gas.cc:80
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Variance of mean mass of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
 
 #: gas.cc:81
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyName|"
 msgid "rectMassVariance"
 msgstr "താപം:"
 
 #: gas.cc:82
 #, fuzzy
-#| msgid "The number of partcles of this gas."
 msgctxt "PropertyDescription|"
 msgid "Variance of total mass of particles in the measureRect"
 msgstr "ഈ വാതകത്തിലെ അണുക്കളുടെ എണ്ണം"
@@ -578,7 +531,6 @@ msgstr ""
 
 #: gravitation.cc:28
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectDescription|"
 msgid "Gravitation force"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
@@ -595,21 +547,18 @@ msgstr ""
 
 #: gravitation.cc:31
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "PropertyDescription|"
 msgid "Gravitation constant"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: gravitation.cc:33
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "GravitationForceErrors"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: gravitation.cc:33
 #, fuzzy
-#| msgid "The mass of one particle"
 msgctxt "ObjectDescription|"
 msgid "Errors class for GravitationForce"
 msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
@@ -621,7 +570,6 @@ msgstr ""
 
 #: gravitation.cc:36
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Gravitation constant variance"
 msgstr "സ്ഥാനം:"
@@ -659,7 +607,6 @@ msgstr ""
 
 #: gravitation.cc:43
 #, fuzzy
-#| msgid "The mass of one particle"
 msgctxt "ObjectDescription|"
 msgid "Errors class for WeightForce"
 msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
@@ -671,7 +618,6 @@ msgstr ""
 
 #: gravitation.cc:46
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Weight constant variance"
 msgstr "സ്ഥാനം:"
@@ -688,7 +634,6 @@ msgstr ""
 
 #: gslsolver.cc:33
 #, fuzzy
-#| msgid "Change solver type"
 msgctxt "ObjectClass|"
 msgid "GslSolver"
 msgstr "സോള്‍വര്‍ ഇനങ്ങള്‍ മാറ്റുക"
@@ -860,14 +805,12 @@ msgstr ""
 
 #: item.cc:30
 #, fuzzy
-#| msgid "&Color"
 msgctxt "PropertyName|"
 msgid "color"
 msgstr "&വര്‍ണ്ണം"
 
 #: item.cc:31
 #, fuzzy
-#| msgid "&Color"
 msgctxt "PropertyDescription|"
 msgid "Item color"
 msgstr "&വര്‍ണ്ണം"
@@ -884,14 +827,12 @@ msgstr ""
 
 #: joint.cc:26
 #, fuzzy
-#| msgid "Pointer"
 msgctxt "ObjectClass|"
 msgid "Joint"
 msgstr "സൂചിക "
 
 #: joint.cc:26
 #, fuzzy
-#| msgid "Pointer"
 msgctxt "ObjectDescription|"
 msgid "Joint"
 msgstr "സൂചിക "
@@ -903,14 +844,12 @@ msgstr ""
 
 #: joints.cc:27
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "ObjectDescription|"
 msgid "Anchor: fixes position of the body"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: joints.cc:29 joints.cc:35 motor.cc:30 motor.cc:36
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "PropertyDescription|"
 msgid "Body"
 msgstr "&തടിച്ച "
@@ -922,7 +861,6 @@ msgstr ""
 
 #: joints.cc:30 tool.cc:100
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Position"
 msgstr "സ്ഥാനം:"
@@ -930,35 +868,30 @@ msgstr "സ്ഥാനം:"
 #: joints.cc:30 joints.cc:37 particle.cc:30 rigidbody.cc:28 softbody.cc:36
 #: tool.cc:38 tool.cc:45 tool.cc:67 tool.cc:79 tool.cc:100
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "position"
 msgstr "സ്ഥാനം:"
 
 #: joints.cc:31
 #, fuzzy
-#| msgid "Range"
 msgctxt "PropertyDescription|"
 msgid "Angle"
 msgstr "പരിധി"
 
 #: joints.cc:31 rigidbody.cc:29
 #, fuzzy
-#| msgid "Range"
 msgctxt "PropertyName|"
 msgid "angle"
 msgstr "പരിധി"
 
 #: joints.cc:31 rigidbody.cc:29 rigidbody.cc:55
 #, fuzzy
-#| msgid "Forward"
 msgctxt "Units|"
 msgid "rad"
 msgstr "മുന്നോട്ട്"
 
 #: joints.cc:33
 #, fuzzy
-#| msgid "Pointer"
 msgctxt "ObjectClass|"
 msgid "Pin"
 msgstr "സൂചിക "
@@ -975,14 +908,12 @@ msgstr ""
 
 #: joints.cc:36 motor.cc:31 motor.cc:37 tool.cc:98
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "localPosition"
 msgstr "സ്ഥാനം:"
 
 #: joints.cc:37
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Position in the world"
 msgstr "സ്ഥാനം:"
@@ -1009,84 +940,72 @@ msgstr ""
 
 #: joints.cc:42 spring.cc:34
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "PropertyDescription|"
 msgid "Body1"
 msgstr "&തടിച്ച "
 
 #: joints.cc:42 spring.cc:34
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "PropertyName|"
 msgid "body1"
 msgstr "&തടിച്ച "
 
 #: joints.cc:43 spring.cc:35
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "PropertyDescription|"
 msgid "Body2"
 msgstr "&തടിച്ച "
 
 #: joints.cc:43 spring.cc:35
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "PropertyName|"
 msgid "body2"
 msgstr "&തടിച്ച "
 
 #: joints.cc:44 spring.cc:36
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "localPosition1"
 msgstr "സ്ഥാനം:"
 
 #: joints.cc:45 spring.cc:37
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Local position 1"
 msgstr "സ്ഥാനം:"
 
 #: joints.cc:46 spring.cc:38
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "localPosition2"
 msgstr "സ്ഥാനം:"
 
 #: joints.cc:47 spring.cc:39
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Local position 2"
 msgstr "സ്ഥാനം:"
 
 #: joints.cc:48 spring.cc:40
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Position1"
 msgstr "സ്ഥാനം:"
 
 #: joints.cc:48 spring.cc:40
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "position1"
 msgstr "സ്ഥാനം:"
 
 #: joints.cc:49 spring.cc:41
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Position2"
 msgstr "സ്ഥാനം:"
 
 #: joints.cc:49 spring.cc:41
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "position2"
 msgstr "സ്ഥാനം:"
@@ -1123,7 +1042,6 @@ msgstr ""
 
 #: motor.cc:32
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyName|"
 msgid "forceValue"
 msgstr "മൂല്യം"
@@ -1151,7 +1069,6 @@ msgstr ""
 
 #: motor.cc:38
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyName|"
 msgid "torqueValue"
 msgstr "മൂല്യം"
@@ -1163,105 +1080,90 @@ msgstr ""
 
 #: object.cc:26
 #, fuzzy
-#| msgid "Objects under mouse:"
 msgctxt "ObjectClass|"
 msgid "Object"
 msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #: object.cc:26
 #, fuzzy
-#| msgid "Objects under mouse:"
 msgctxt "ObjectDescription|"
 msgid "Object"
 msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #: object.cc:27
 #, fuzzy
-#| msgid "Objects under mouse:"
 msgctxt "PropertyDescription|"
 msgid "Object name"
 msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #: object.cc:27
 #, fuzzy
-#| msgid "<unnamed>"
 msgctxt "PropertyName|"
 msgid "name"
 msgstr "<unnamed>"
 
 #: objecterrors.cc:26
 #, fuzzy
-#| msgid "Objects under mouse:"
 msgctxt "ObjectClass|"
 msgid "ObjectErrors"
 msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #: objecterrors.cc:26
 #, fuzzy
-#| msgid "Objects under mouse:"
 msgctxt "ObjectDescription|"
 msgid "ObjectErrors"
 msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #: particle.cc:28
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "Particle"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: particle.cc:28
 #, fuzzy
-#| msgid "Create gas particles"
 msgctxt "ObjectDescription|"
 msgid "Simple zero-size particle"
 msgstr "വാതകകണങ്ങള്‍ സൃഷ്ടിക്കുക"
 
 #: particle.cc:30
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "position"
 msgstr "സ്ഥാനം:"
 
 #: particle.cc:31
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyDescription|"
 msgid "velocity"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: particle.cc:31 rigidbody.cc:31 softbody.cc:38
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyName|"
 msgid "velocity"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: particle.cc:32 rigidbody.cc:34 softbody.cc:43
 #, fuzzy
-#| msgid "Concentration:"
 msgctxt "PropertyName|"
 msgid "acceleration"
 msgstr "ഏകാഗ്രത:"
 
 #: particle.cc:33
 #, fuzzy
-#| msgid "Concentration:"
 msgctxt "PropertyDescription|"
 msgid "acceleration"
 msgstr "ഏകാഗ്രത:"
 
 #: particle.cc:34
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyDescription|"
 msgid "force"
 msgstr "മൂല്യം"
 
 #: particle.cc:34 rigidbody.cc:39 softbody.cc:48 spring.cc:42
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyName|"
 msgid "force"
 msgstr "മൂല്യം"
@@ -1278,7 +1180,6 @@ msgstr ""
 
 #: particle.cc:36 rigidbody.cc:45
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyDescription|"
 msgid "momentum"
 msgstr "താപം:"
@@ -1305,70 +1206,60 @@ msgstr ""
 
 #: particle.cc:41
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "ParticleErrors"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: particle.cc:41
 #, fuzzy
-#| msgid "The mass of one particle"
 msgctxt "ObjectDescription|"
 msgid "Errors class for Particle"
 msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
 
 #: particle.cc:42 rigidbody.cc:53
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "positionVariance"
 msgstr "സ്ഥാനം:"
 
 #: particle.cc:43 rigidbody.cc:54
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "position variance"
 msgstr "സ്ഥാനം:"
 
 #: particle.cc:44 rigidbody.cc:58
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyName|"
 msgid "velocityVariance"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: particle.cc:45 rigidbody.cc:59
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyDescription|"
 msgid "velocity variance"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: particle.cc:46 rigidbody.cc:63
 #, fuzzy
-#| msgid "Concentration:"
 msgctxt "PropertyName|"
 msgid "accelerationVariance"
 msgstr "ഏകാഗ്രത:"
 
 #: particle.cc:47 rigidbody.cc:64
 #, fuzzy
-#| msgid "Concentration:"
 msgctxt "PropertyDescription|"
 msgid "acceleration variance"
 msgstr "ഏകാഗ്രത:"
 
 #: particle.cc:48 rigidbody.cc:68 spring.cc:63
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyName|"
 msgid "forceVariance"
 msgstr "മൂല്യം"
 
 #: particle.cc:49 rigidbody.cc:68
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyDescription|"
 msgid "force variance"
 msgstr "മൂല്യം"
@@ -1380,21 +1271,18 @@ msgstr ""
 
 #: particle.cc:51 rigidbody.cc:72
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "PropertyDescription|"
 msgid "mass variance"
 msgstr "ശരീര ആര്ദ്രത"
 
 #: particle.cc:52 rigidbody.cc:75
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyName|"
 msgid "momentumVariance"
 msgstr "താപം:"
 
 #: particle.cc:53 rigidbody.cc:76
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyDescription|"
 msgid "momentum variance"
 msgstr "താപം:"
@@ -1406,21 +1294,18 @@ msgstr ""
 
 #: particle.cc:55 rigidbody.cc:81
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyDescription|"
 msgid "kinetic energy variance"
 msgstr "താപം:"
 
 #: particle.cc:57
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "ChargedParticle"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: particle.cc:57
 #, fuzzy
-#| msgid "Create gas particles"
 msgctxt "ObjectDescription|"
 msgid "Charged zero-size particle"
 msgstr "വാതകകണങ്ങള്‍ സൃഷ്ടിക്കുക"
@@ -1442,35 +1327,30 @@ msgstr ""
 
 #: particle.cc:60
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "ChargedParticleErrors"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: particle.cc:60
 #, fuzzy
-#| msgid "The mass of one particle"
 msgctxt "ObjectDescription|"
 msgid "Errors class for ChargedParticle"
 msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
 
 #: particle.cc:62
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyName|"
 msgid "chargeVariance"
 msgstr "താപം:"
 
 #: particle.cc:63
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyDescription|"
 msgid "charge variance"
 msgstr "താപം:"
 
 #: rigidbody.cc:27
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "ObjectClass|"
 msgid "RigidBody"
 msgstr "&തടിച്ച "
@@ -1497,14 +1377,12 @@ msgstr ""
 
 #: rigidbody.cc:32 softbody.cc:39
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyDescription|"
 msgid "Angular velocity of the body"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: rigidbody.cc:32 softbody.cc:39
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyName|"
 msgid "angularVelocity"
 msgstr "ശരാശരി ശീഘ്രത:"
@@ -1521,7 +1399,6 @@ msgstr ""
 
 #: rigidbody.cc:36 softbody.cc:45
 #, fuzzy
-#| msgid "Concentration:"
 msgctxt "PropertyName|"
 msgid "angularAcceleration"
 msgstr "ഏകാഗ്രത:"
@@ -1533,7 +1410,6 @@ msgstr ""
 
 #: rigidbody.cc:37 softbody.cc:46
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyDescription|"
 msgid "Angular acceleration of the body"
 msgstr "ശരാശരി ശീഘ്രത:"
@@ -1550,7 +1426,6 @@ msgstr ""
 
 #: rigidbody.cc:40 softbody.cc:49
 #, fuzzy
-#| msgid "true"
 msgctxt "PropertyName|"
 msgid "torque"
 msgstr "സുബദ്ധം"
@@ -1572,7 +1447,6 @@ msgstr ""
 
 #: rigidbody.cc:44 softbody.cc:52
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyDescription|"
 msgid "Inertia \"tensor\" of the body"
 msgstr "ശരാശരി ശീഘ്രത:"
@@ -1599,7 +1473,6 @@ msgstr ""
 
 #: rigidbody.cc:52
 #, fuzzy
-#| msgid "The mass of one particle"
 msgctxt "ObjectDescription|"
 msgid "Errors class for RigidBody"
 msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
@@ -1611,49 +1484,42 @@ msgstr ""
 
 #: rigidbody.cc:56
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "PropertyDescription|"
 msgid "angle variance"
 msgstr "ശരീര ആര്ദ്രത"
 
 #: rigidbody.cc:60
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyName|"
 msgid "angularVelocityVariance"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: rigidbody.cc:61
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyDescription|"
 msgid "angularVelocity variance"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: rigidbody.cc:65
 #, fuzzy
-#| msgid "Concentration:"
 msgctxt "PropertyName|"
 msgid "angularAccelerationVariance"
 msgstr "ഏകാഗ്രത:"
 
 #: rigidbody.cc:66
 #, fuzzy
-#| msgid "Concentration:"
 msgctxt "PropertyDescription|"
 msgid "angularAcceleration variance"
 msgstr "ഏകാഗ്രത:"
 
 #: rigidbody.cc:69
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyDescription|"
 msgid "torque variance"
 msgstr "മൂല്യം"
 
 #: rigidbody.cc:69
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyName|"
 msgid "torqueVariance"
 msgstr "മൂല്യം"
@@ -1665,7 +1531,6 @@ msgstr ""
 
 #: rigidbody.cc:74
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "inertia variance"
 msgstr "സ്ഥാനം:"
@@ -1677,7 +1542,6 @@ msgstr ""
 
 #: rigidbody.cc:78
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyDescription|"
 msgid "angular momentum variance"
 msgstr "ശരാശരി ശീഘ്രത:"
@@ -1689,7 +1553,6 @@ msgstr ""
 
 #: rigidbody.cc:83
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "ObjectDescription|"
 msgid "Rigid disk"
 msgstr "&തടിച്ച "
@@ -1721,7 +1584,6 @@ msgstr ""
 
 #: rigidbody.cc:88
 #, fuzzy
-#| msgid "&Bold"
 msgctxt "ObjectDescription|"
 msgid "Rigid box"
 msgstr "&തടിച്ച "
@@ -1733,7 +1595,6 @@ msgstr ""
 
 #: rigidbody.cc:89 tool.cc:39 tool.cc:46 tool.cc:68 tool.cc:80
 #, fuzzy
-#| msgid "Step"
 msgctxt "PropertyName|"
 msgid "size"
 msgstr "പടി"
@@ -1755,42 +1616,36 @@ msgstr ""
 
 #: rigidbody.cc:92
 #, fuzzy
-#| msgid "Properties"
 msgctxt "PropertyName|"
 msgid "vertices"
 msgstr "ഗുണവിശേഷങ്ങള്‍"
 
 #: softbody.cc:31
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "SoftBodyParticle"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: softbody.cc:31
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "ObjectDescription|"
 msgid "SoftBody particle"
 msgstr "ശരീര ആര്ദ്രത"
 
 #: softbody.cc:32
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "ObjectClass|"
 msgid "SoftBodySpring"
 msgstr "ശരീര ആര്ദ്രത"
 
 #: softbody.cc:32
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "ObjectDescription|"
 msgid "SoftBody spring"
 msgstr "ശരീര ആര്ദ്രത"
 
 #: softbody.cc:33
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "ObjectClass|"
 msgid "SoftBody"
 msgstr "ശരീര ആര്ദ്രത"
@@ -1802,14 +1657,12 @@ msgstr ""
 
 #: softbody.cc:34
 #, fuzzy
-#| msgid "Show lines"
 msgctxt "PropertyDescription|"
 msgid "Show internal items"
 msgstr "വരകള്‍ കാണിക്കുക "
 
 #: softbody.cc:34
 #, fuzzy
-#| msgid "Show lines"
 msgctxt "PropertyName|"
 msgid "showInternalItems"
 msgstr "വരകള്‍ കാണിക്കുക "
@@ -1821,14 +1674,12 @@ msgstr ""
 
 #: softbody.cc:41
 #, fuzzy
-#| msgid "Mean velocity:"
 msgctxt "PropertyDescription|"
 msgid "Angular momentum of the body"
 msgstr "ശരാശരി ശീഘ്രത:"
 
 #: softbody.cc:53
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "PropertyName|"
 msgid "borderParticleNames"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
@@ -1840,35 +1691,30 @@ msgstr ""
 
 #: solver.cc:25
 #, fuzzy
-#| msgid "Change solver type"
 msgctxt "ObjectClass|"
 msgid "Solver"
 msgstr "സോള്‍വര്‍ ഇനങ്ങള്‍ മാറ്റുക"
 
 #: solver.cc:25
 #, fuzzy
-#| msgid "Change solver type"
 msgctxt "ObjectDescription|"
 msgid "Solver"
 msgstr "സോള്‍വര്‍ ഇനങ്ങള്‍ മാറ്റുക"
 
 #: solver.cc:26
 #, fuzzy
-#| msgid "Change solver type"
 msgctxt "PropertyDescription|"
 msgid "Solver type"
 msgstr "സോള്‍വര്‍ ഇനങ്ങള്‍ മാറ്റുക"
 
 #: solver.cc:26
 #, fuzzy
-#| msgid "Change solver type"
 msgctxt "PropertyName|"
 msgid "solverType"
 msgstr "സോള്‍വര്‍ ഇനങ്ങള്‍ മാറ്റുക"
 
 #: solver.cc:27
 #, fuzzy
-#| msgid "Step"
 msgctxt "PropertyDescription|"
 msgid "Step size"
 msgstr "പടി"
@@ -1910,7 +1756,6 @@ msgstr ""
 
 #: solver.cc:32
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "localErrorRatio"
 msgstr "സ്ഥാനം:"
@@ -1932,7 +1777,6 @@ msgstr ""
 
 #: spring.cc:31
 #, fuzzy
-#| msgid "Increase value"
 msgctxt "PropertyDescription|"
 msgid "Current length"
 msgstr "മൂല ്യം കൂട്ടുക"
@@ -1959,14 +1803,12 @@ msgstr ""
 
 #: spring.cc:33
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "PropertyDescription|"
 msgid "Damping"
 msgstr "ശരീര ആര്ദ്രത"
 
 #: spring.cc:33
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "PropertyName|"
 msgid "damping"
 msgstr "ശരീര ആര്ദ്രത"
@@ -1983,28 +1825,24 @@ msgstr ""
 
 #: spring.cc:45
 #, fuzzy
-#| msgid "Particles mass:"
 msgctxt "ObjectClass|"
 msgid "SpringErrors"
 msgstr "അണുക്കളുടെ പിണ്ഡം"
 
 #: spring.cc:45
 #, fuzzy
-#| msgid "The mass of one particle"
 msgctxt "ObjectDescription|"
 msgid "Errors class for Spring"
 msgstr "ഒരു അണുവിന്റെ പിണ്ഡം"
 
 #: spring.cc:47
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyName|"
 msgid "restLengthVariance"
 msgstr "താപം:"
 
 #: spring.cc:48
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyDescription|"
 msgid "Rest length variance"
 msgstr "താപം:"
@@ -2016,7 +1854,6 @@ msgstr ""
 
 #: spring.cc:50
 #, fuzzy
-#| msgid "Temperature:"
 msgctxt "PropertyDescription|"
 msgid "Current length variance"
 msgstr "താപം:"
@@ -2028,84 +1865,72 @@ msgstr ""
 
 #: spring.cc:52
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Stiffness variance"
 msgstr "സ്ഥാനം:"
 
 #: spring.cc:53
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "PropertyName|"
 msgid "dampingVariance"
 msgstr "ശരീര ആര്ദ്രത"
 
 #: spring.cc:54
 #, fuzzy
-#| msgid "Body damping:"
 msgctxt "PropertyDescription|"
 msgid "Damping variance"
 msgstr "ശരീര ആര്ദ്രത"
 
 #: spring.cc:55
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "localPosition1Variance"
 msgstr "സ്ഥാനം:"
 
 #: spring.cc:56
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Local position 1 variance"
 msgstr "സ്ഥാനം:"
 
 #: spring.cc:57
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "localPosition2Variance"
 msgstr "സ്ഥാനം:"
 
 #: spring.cc:58
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Local position 2 variance"
 msgstr "സ്ഥാനം:"
 
 #: spring.cc:59
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "position1Variance"
 msgstr "സ്ഥാനം:"
 
 #: spring.cc:60
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Position1 variance"
 msgstr "സ്ഥാനം:"
 
 #: spring.cc:61
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyName|"
 msgid "position2Variance"
 msgstr "സ്ഥാനം:"
 
 #: spring.cc:62
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Position2 variance"
 msgstr "സ്ഥാനം:"
 
 #: spring.cc:64
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Spring tension force variance"
 msgstr "സ്ഥാനം:"
@@ -2127,14 +1952,12 @@ msgstr ""
 
 #: tool.cc:28
 #, fuzzy
-#| msgid "Range"
 msgctxt "PropertyName|"
 msgid "image"
 msgstr "പരിധി"
 
 #: tool.cc:31
 #, fuzzy
-#| msgid "Insert &Formula"
 msgctxt "ObjectClass|"
 msgid "NoteFormula"
 msgstr "&ഗണിതസൂത്രം തിരുകിക്കയറ്റുക"
@@ -2146,7 +1969,6 @@ msgstr ""
 
 #: tool.cc:33
 #, fuzzy
-#| msgid "Insert &Formula"
 msgctxt "PropertyDescription|"
 msgid "Formula code"
 msgstr "&ഗണിതസൂത്രം തിരുകിക്കയറ്റുക"
@@ -2183,7 +2005,6 @@ msgstr ""
 
 #: tool.cc:40
 #, fuzzy
-#| msgid "Show text"
 msgctxt "PropertyName|"
 msgid "text"
 msgstr "പാഠം കാണിക്കുക"
@@ -2210,28 +2031,24 @@ msgstr ""
 
 #: tool.cc:47
 #, fuzzy
-#| msgid "Property"
 msgctxt "PropertyDescription|"
 msgid "X axis: object"
 msgstr "ഗുണവിശേഷം"
 
 #: tool.cc:47
 #, fuzzy
-#| msgid "<no object>"
 msgctxt "PropertyName|"
 msgid "objectX"
 msgstr "<വിഷയം ഇല്ല>"
 
 #: tool.cc:48
 #, fuzzy
-#| msgid "Property"
 msgctxt "PropertyDescription|"
 msgid "X axis: object property"
 msgstr "ഗുണവിശേഷം"
 
 #: tool.cc:48
 #, fuzzy
-#| msgid "Property"
 msgctxt "PropertyName|"
 msgid "propertyX"
 msgstr "ഗുണവിശേഷം"
@@ -2248,28 +2065,24 @@ msgstr ""
 
 #: tool.cc:50
 #, fuzzy
-#| msgid "Property"
 msgctxt "PropertyDescription|"
 msgid "Y axis: object"
 msgstr "ഗുണവിശേഷം"
 
 #: tool.cc:50
 #, fuzzy
-#| msgid "<no object>"
 msgctxt "PropertyName|"
 msgid "objectY"
 msgstr "<വിഷയം ഇല്ല>"
 
 #: tool.cc:51
 #, fuzzy
-#| msgid "Property"
 msgctxt "PropertyDescription|"
 msgid "Y axis: property"
 msgstr "ഗുണവിശേഷം"
 
 #: tool.cc:51
 #, fuzzy
-#| msgid "Property"
 msgctxt "PropertyName|"
 msgid "propertyY"
 msgstr "ഗുണവിശേഷം"
@@ -2326,56 +2139,48 @@ msgstr ""
 
 #: tool.cc:57
 #, fuzzy
-#| msgid "Show points"
 msgctxt "PropertyDescription|"
 msgid "Show points on the graph"
 msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
 
 #: tool.cc:57
 #, fuzzy
-#| msgid "Show points"
 msgctxt "PropertyName|"
 msgid "showPoints"
 msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
 
 #: tool.cc:58
 #, fuzzy
-#| msgid "Show lines"
 msgctxt "PropertyDescription|"
 msgid "Show lines on the graph"
 msgstr "വരകള്‍ കാണിക്കുക "
 
 #: tool.cc:58
 #, fuzzy
-#| msgid "Show lines"
 msgctxt "PropertyName|"
 msgid "showLines"
 msgstr "വരകള്‍ കാണിക്കുക "
 
 #: tool.cc:59
 #, fuzzy
-#| msgid "Increase value"
 msgctxt "PropertyDescription|"
 msgid "Current value"
 msgstr "മൂല ്യം കൂട്ടുക"
 
 #: tool.cc:59
 #, fuzzy
-#| msgid "Increase value"
 msgctxt "PropertyName|"
 msgid "currentValue"
 msgstr "മൂല ്യം കൂട്ടുക"
 
 #: tool.cc:60 tool.cc:101
 #, fuzzy
-#| msgid "Show points"
 msgctxt "PropertyDescription|"
 msgid "points"
 msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
 
 #: tool.cc:60 tool.cc:101
 #, fuzzy
-#| msgid "Show points"
 msgctxt "PropertyName|"
 msgid "points"
 msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
@@ -2422,28 +2227,24 @@ msgstr ""
 
 #: tool.cc:69
 #, fuzzy
-#| msgid "several objects"
 msgctxt "PropertyDescription|"
 msgid "Observed object"
 msgstr "പല വസ്തുക്കള്‍"
 
 #: tool.cc:69 tool.cc:81
 #, fuzzy
-#| msgid "<no object>"
 msgctxt "PropertyName|"
 msgid "object"
 msgstr "<വിഷയം ഇല്ല>"
 
 #: tool.cc:70
 #, fuzzy
-#| msgid "several objects"
 msgctxt "PropertyDescription|"
 msgid "Observed property"
 msgstr "പല വസ്തുക്കള്‍"
 
 #: tool.cc:70 tool.cc:82
 #, fuzzy
-#| msgid "Property"
 msgctxt "PropertyName|"
 msgid "property"
 msgstr "ഗുണവിശേഷം"
@@ -2460,35 +2261,30 @@ msgstr ""
 
 #: tool.cc:72
 #, fuzzy
-#| msgid "Display precision:"
 msgctxt "PropertyDescription|"
 msgid "Display digits"
 msgstr "കൃത്യത പ്രദര്‍ശിപ്പിക്കുക:"
 
 #: tool.cc:72
 #, fuzzy
-#| msgid "Display precision:"
 msgctxt "PropertyName|"
 msgid "digits"
 msgstr "കൃത്യത പ്രദര്‍ശിപ്പിക്കുക:"
 
 #: tool.cc:73 tool.cc:90
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyDescription|"
 msgid "Value"
 msgstr "മൂല്യം"
 
 #: tool.cc:73 tool.cc:90
 #, fuzzy
-#| msgid "Value"
 msgctxt "PropertyName|"
 msgid "value"
 msgstr "മൂല്യം"
 
 #: tool.cc:74
 #, fuzzy
-#| msgid "<no object>"
 msgctxt "PropertyDescription|"
 msgid "Units of measured property"
 msgstr "<വിഷയം ഇല്ല>"
@@ -2500,7 +2296,6 @@ msgstr ""
 
 #: tool.cc:77
 #, fuzzy
-#| msgid "Change controller %1"
 msgctxt "ObjectClass|"
 msgid "Controller"
 msgstr "%1 നിയാമകനെ മാറ്റുക"
@@ -2522,14 +2317,12 @@ msgstr ""
 
 #: tool.cc:81
 #, fuzzy
-#| msgid "<no object>"
 msgctxt "PropertyDescription|"
 msgid "Controlled object"
 msgstr "<വിഷയം ഇല്ല>"
 
 #: tool.cc:82
 #, fuzzy
-#| msgid "<no object>"
 msgctxt "PropertyDescription|"
 msgid "Controlled property"
 msgstr "<വിഷയം ഇല്ല>"
@@ -2546,7 +2339,6 @@ msgstr ""
 
 #: tool.cc:85
 #, fuzzy
-#| msgid "Shortcuts"
 msgctxt "PropertyName|"
 msgid "increaseShortcut"
 msgstr "കുറുക്കുവഴി "
@@ -2558,7 +2350,6 @@ msgstr ""
 
 #: tool.cc:87
 #, fuzzy
-#| msgid "Shortcuts"
 msgctxt "PropertyName|"
 msgid "decreaseShortcut"
 msgstr "കുറുക്കുവഴി "
@@ -2570,21 +2361,18 @@ msgstr ""
 
 #: tool.cc:89
 #, fuzzy
-#| msgid "Increase value"
 msgctxt "PropertyDescription|"
 msgid "Increment value"
 msgstr "മൂല ്യം കൂട്ടുക"
 
 #: tool.cc:89
 #, fuzzy
-#| msgid "Increment:"
 msgctxt "PropertyName|"
 msgid "increment"
 msgstr "വര്‍ദ്ധനവു്:"
 
 #: tool.cc:92
 #, fuzzy
-#| msgid "<no object>"
 msgctxt "PropertyDescription|"
 msgid "Units of controlled property"
 msgstr "<വിഷയം ഇല്ല>"
@@ -2606,7 +2394,6 @@ msgstr ""
 
 #: tool.cc:99
 #, fuzzy
-#| msgid "Position:"
 msgctxt "PropertyDescription|"
 msgid "Local position"
 msgstr "സ്ഥാനം:"
@@ -2623,23 +2410,18 @@ msgstr ""
 
 #: world.cc:34
 #, fuzzy
-#| msgctxt "Object list"
-#| msgid "World"
 msgctxt "ObjectClass|"
 msgid "World"
 msgstr "ലോകം"
 
 #: world.cc:34
 #, fuzzy
-#| msgctxt "Object list"
-#| msgid "World"
 msgctxt "ObjectDescription|"
 msgid "World"
 msgstr "ലോകം"
 
 #: world.cc:35
 #, fuzzy
-#| msgid "Increase value"
 msgctxt "PropertyDescription|"
 msgid "Current time"
 msgstr "മൂല ്യം കൂട്ടുക"
@@ -2651,7 +2433,6 @@ msgstr ""
 
 #: world.cc:36
 #, fuzzy
-#| msgid "&Simulation"
 msgctxt "PropertyDescription|"
 msgid "Simulation speed scale"
 msgstr "&പരീക്ഷണം"
@@ -2673,209 +2454,174 @@ msgstr ""
 
 #: xmlfile.cc:201
 #, fuzzy
-#| msgid "The file is not a StepCoreXML file."
 msgctxt "QObject|"
 msgid "The file is not a StepCoreXML file."
 msgstr "ഇത് ഒരു സ്റ്റെപ്പ്കോര്‍ XML ഫയലല്ല."
 
 #: xmlfile.cc:247
 #, fuzzy, qt-format
-#| msgid "Unknown item type \"%1\""
 msgctxt "QObject|"
 msgid "Unknown item type \"%1\""
 msgstr "അറിയപ്പെടാത്ത  \"%1\" ഇനം"
 
 #: xmlfile.cc:268
 #, fuzzy, qt-format
-#| msgid "Unknown solver type \"%1\""
 msgctxt "QObject|"
 msgid "Unknown solver type \"%1\""
 msgstr "അറിയപ്പെടാത്ത  \"%1\" പരിഹാരഇനം"
 
 #: xmlfile.cc:282
 #, fuzzy, qt-format
-#| msgid "Unknown collisionSolver type \"%1\""
 msgctxt "QObject|"
 msgid "Unknown collisionSolver type \"%1\""
 msgstr "അറിയപ്പെടാത്ത \"%1\"കൂട്ടിഇടി പരിഹാര ഇനം"
 
 #: xmlfile.cc:296
 #, fuzzy, qt-format
-#| msgid "Unknown constraintSolver type \"%1\""
 msgctxt "QObject|"
 msgid "Unknown constraint solver type \"%1\""
 msgstr "അറിയപ്പെടാത്ത \"%1\"സമ്മര്‍ദ്ദ പരിഹാര ഇനം"
 
 #: xmlfile.cc:324
 #, fuzzy, qt-format
-#| msgid "Wrong ID attribute value for %1"
 msgctxt "QObject|"
 msgid "Wrong ID attribute value for %1"
 msgstr "%1ന്റെ തിരച്ചറിവിനു് തെറ്റായ ധാര്മ്മികമൂല്യം"
 
 #: xmlfile.cc:329
 #, fuzzy, qt-format
-#| msgid "Non-unique ID attribute value for %1"
 msgctxt "QObject|"
 msgid "Non-unique ID attribute value for %1"
 msgstr "%1-നു് പ്രത്യേക തിരിച്ചറിയല്‍ ധാര്മ്മികമൂല്യമില്ല"
 
 #: xmlfile.cc:357 xmlfile.cc:371
 #, fuzzy, qt-format
-#| msgid "Property \"%1\" of \"%2\" has illegal value"
 msgctxt "QObject|"
 msgid "Property \"%1\" of \"%2\" has illegal value"
 msgstr "\"%1\"ന്റെ \"%2\"ഗുണവിശേഷങ്ങള്‍ക്കു് നിയമാനുസൃതമൂല്യമില്ല"
 
 #: xmlfile.cc:384
 #, fuzzy
-#| msgid "File is not writeble."
 msgctxt "QObject|"
 msgid "File is not writable."
 msgstr "ഫയലിലേക്കു് സൂക്ഷിക്കുവാന്‍ സാധ്യമല്ല."
 
 #, fuzzy
-#~| msgid "&Bold"
 #~ msgctxt "StepCore|"
 #~ msgid "Body"
 #~ msgstr "&തടിച്ച "
 
 #, fuzzy
-#~| msgid "Pointer"
 #~ msgctxt "StepCore|"
 #~ msgid "Joint"
 #~ msgstr "സൂചിക "
 
 #, fuzzy
-#~| msgid "Objects under mouse:"
 #~ msgctxt "StepCore|"
 #~ msgid "Object"
 #~ msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #, fuzzy
-#~| msgid "Objects under mouse:"
 #~ msgctxt "StepCore|"
 #~ msgid "ObjectErrors"
 #~ msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgctxt "StepCore|"
 #~ msgid "position"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Mean velocity:"
 #~ msgctxt "StepCore|"
 #~ msgid "velocity"
 #~ msgstr "ശരാശരി ശീഘ്രത:"
 
 #, fuzzy
-#~| msgid "Concentration:"
 #~ msgctxt "StepCore|"
 #~ msgid "acceleration"
 #~ msgstr "ഏകാഗ്രത:"
 
 #, fuzzy
-#~| msgid "Value"
 #~ msgctxt "StepCore|"
 #~ msgid "force"
 #~ msgstr "മൂല്യം"
 
 #, fuzzy
-#~| msgid "&Panels"
 #~ msgctxt "ObjectClass|"
 #~ msgid "Plane"
 #~ msgstr "&പട്ടികകള്‍"
 
 #, fuzzy
-#~| msgid "Pointer"
 #~ msgctxt "PropertyName|"
 #~ msgid "point1"
 #~ msgstr "സൂചിക "
 
 #, fuzzy
-#~| msgid "Pointer"
 #~ msgctxt "PropertyName|"
 #~ msgid "point2"
 #~ msgstr "സൂചിക "
 
 #, fuzzy
-#~| msgid "Change solver type"
 #~ msgctxt "StepCore|"
 #~ msgid "Solver"
 #~ msgstr "സോള്‍വര്‍ ഇനങ്ങള്‍ മാറ്റുക"
 
 #, fuzzy
-#~| msgid "Show points"
 #~ msgctxt "StepCore|"
 #~ msgid "points"
 #~ msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Value"
 #~ msgctxt "StepCore|"
 #~ msgid "value"
 #~ msgstr "മൂല്യം"
 
 #, fuzzy
-#~| msgctxt "Object list"
-#~| msgid "World"
 #~ msgctxt "StepCore|"
 #~ msgid "World"
 #~ msgstr "ലോകം"
 
 #, fuzzy
-#~| msgid "&Bold"
 #~ msgctxt "ObjectClass"
 #~ msgid "Body"
 #~ msgstr "&തടിച്ച "
 
 #, fuzzy
-#~| msgid "Pointer"
 #~ msgctxt "ObjectClass"
 #~ msgid "Joint"
 #~ msgstr "സൂചിക "
 
 #, fuzzy
-#~| msgid "Position:"
 #~ msgctxt "PropertyName"
 #~ msgid "position"
 #~ msgstr "സ്ഥാനം:"
 
 #, fuzzy
-#~| msgid "Objects under mouse:"
 #~ msgctxt "ObjectClass"
 #~ msgid "Object"
 #~ msgstr "മൌസിനു് താഴെയുള്ള വസ്തുക്കള്‍:"
 
 #, fuzzy
-#~| msgid "Mean velocity:"
 #~ msgctxt "PropertyName"
 #~ msgid "velocity"
 #~ msgstr "ശരാശരി ശീഘ്രത:"
 
 #, fuzzy
-#~| msgid "Concentration:"
 #~ msgctxt "PropertyName"
 #~ msgid "acceleration"
 #~ msgstr "ഏകാഗ്രത:"
 
 #, fuzzy
-#~| msgid "Show points"
 #~ msgctxt "PropertyName"
 #~ msgid "points"
 #~ msgstr "ബിന്ദുക്കള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Value"
 #~ msgctxt "PropertyName"
 #~ msgid "value"
 #~ msgstr "മൂല്യം"
 
 #, fuzzy
-#~| msgctxt "Object list"
-#~| msgid "World"
 #~ msgctxt "ObjectClass"
 #~ msgid "World"
 #~ msgstr "ലോകം"
@@ -3311,10 +3057,6 @@ msgstr "ഫയലിലേക്കു് സൂക്ഷിക്കുവാ�
 #~ "ദയവായി സോള് വര് വിതാനങ്ങള് പരിശോധിക്കൂ"
 
 #, fuzzy
-#~| msgid ""
-#~| "Cannot finish this step because there are collisions which cannot be "
-#~| "resolved automatically.\n"
-#~| "Please move colliding objects appart and try again."
 #~ msgid ""
 #~ "Cannot finish this step because there are collisions which cannot be "
 #~ "resolved automatically.\n"
@@ -3421,9 +3163,6 @@ msgstr "ഫയലിലേക്കു് സൂക്ഷിക്കുവാ�
 #~ msgstr "%1 ശേഖരം വ്യാകരിക്കാന്‍ കഴിയുന്നില്ല"
 
 #, fuzzy
-#~| msgid ""
-#~| "Can not find latex installation. You need 'latex', 'dvips' and 'gs' "
-#~| "executables installed and accessible from $PATH"
 #~ msgid ""
 #~ "Cannot find latex installation. You need 'latex', 'dvips' and 'gs' "
 #~ "executables installed and accessible from $PATH"
@@ -3444,7 +3183,6 @@ msgstr "ഫയലിലേക്കു് സൂക്ഷിക്കുവാ�
 #~ msgstr "തല്‍ഫലമായ ഛായ വ്യാഖ്യാനിക്കാന്‍ കഴിയില്ല"
 
 #, fuzzy
-#~| msgid "Property"
 #~ msgid "Property name"
 #~ msgstr "ഗുണവിശേഷം"
 
@@ -3536,8 +3274,6 @@ msgstr "ഫയലിലേക്കു് സൂക്ഷിക്കുവാ�
 #~ msgstr "%1-നുള്ള വിവരണക്കുറിപ്പു് ലഭ്യമല്ല."
 
 #, fuzzy
-#~| msgid ""
-#~| "You can help <a href=\"http://edu.kde.org/step\">Step</a> by writting it!"
 #~ msgid ""
 #~ "You can help <a href=\"http://edu.kde.org/step\">Step</a> by writing it!"
 #~ msgstr ""
@@ -3548,7 +3284,6 @@ msgstr "ഫയലിലേക്കു് സൂക്ഷിക്കുവാ�
 #~ msgstr "വികിപീഡിയ"
 
 #, fuzzy
-#~| msgid "Fetching Wikipedia Information ..."
 #~ msgid "Fetching Wikipedia Information..."
 #~ msgstr "വികിപീഡിയ വിവരണങ്ങളില്‍ കണ്ടെത്താം..."
 

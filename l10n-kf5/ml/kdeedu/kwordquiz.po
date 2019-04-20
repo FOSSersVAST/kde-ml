@@ -32,15 +32,12 @@ msgstr "manusmad@gmail.com"
 #. i18n: ectx: property (title), widget (QGroupBox, clearButtonGroup)
 #: cleardialogbase.ui:21
 #, fuzzy, kde-format
-#| msgctxt "@action:button select"
-#| msgid "&Select"
 msgid "Selection"
 msgstr "&തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, clearAllCheckBox)
 #: cleardialogbase.ui:30
 #, fuzzy, kde-format
-#| msgid "Clears the content of the selected cells"
 msgid "Delete all information in selected entries"
 msgstr "തെരഞ്ഞെടുത്ത കളങ്ങളുടെ ഉള്ളടക്കങ്ങള്‍ വൃത്തിയാക്കുന്നു"
 
@@ -53,22 +50,18 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, clearAllCheckBox)
 #: cleardialogbase.ui:36
 #, fuzzy, kde-format
-#| msgctxt "@item:inmenu undo clear"
-#| msgid "Clear"
 msgid "Clear &All"
 msgstr "വൃത്തിയാക്കുക"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, clearTextCheckBox)
 #: cleardialogbase.ui:59
 #, fuzzy, kde-format
-#| msgid "Deletes the selected row(s)"
 msgid "Delete the text from selected entries"
 msgstr "തെരഞ്ഞെടുത്ത വരി(കള്‍) നീക്കം ചെയ്യുന്നു"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, clearTextCheckBox)
 #: cleardialogbase.ui:62
 #, fuzzy, kde-format
-#| msgid "Deletes the selected row(s)"
 msgid "When checked the text will be deleted from selected entries"
 msgstr "തെരഞ്ഞെടുത്ത വരി(കള്‍) നീക്കം ചെയ്യുന്നു"
 
@@ -81,14 +74,12 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QCheckBox, clearImageCheckBox)
 #: cleardialogbase.ui:72
 #, fuzzy, kde-format
-#| msgid "Deletes the selected row(s)"
 msgid "Delete the image link from selected entries"
 msgstr "തെരഞ്ഞെടുത്ത വരി(കള്‍) നീക്കം ചെയ്യുന്നു"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, clearImageCheckBox)
 #: cleardialogbase.ui:75
 #, fuzzy, kde-format
-#| msgid "Deletes the selected row(s)"
 msgid "When checked the image link will be deleted from selected entries"
 msgstr "തെരഞ്ഞെടുത്ത വരി(കള്‍) നീക്കം ചെയ്യുന്നു"
 
@@ -101,14 +92,12 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QCheckBox, clearSoundCheckBox)
 #: cleardialogbase.ui:85
 #, fuzzy, kde-format
-#| msgid "Deletes the selected row(s)"
 msgid "Delete the sound link from selected entries"
 msgstr "തെരഞ്ഞെടുത്ത വരി(കള്‍) നീക്കം ചെയ്യുന്നു"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, clearSoundCheckBox)
 #: cleardialogbase.ui:88
 #, fuzzy, kde-format
-#| msgid "Deletes the selected row(s)"
 msgid "When checked the sound link will be deleted from selected entries"
 msgstr "തെരഞ്ഞെടുത്ത വരി(കള്‍) നീക്കം ചെയ്യുന്നു"
 
@@ -149,7 +138,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, column1LayoutLabel)
 #: columndialogbase.ui:112
 #, fuzzy, kde-format
-#| msgid "Changing the keyboard layout..."
 msgid "&Keyboard Layout:"
 msgstr "കീബോര്‍ഡ് വിന്യാസം മാറ്റുന്നു..."
 
@@ -162,28 +150,24 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QComboBox, column1LayoutComboBox)
 #: columndialogbase.ui:158
 #, fuzzy, kde-format
-#| msgid "Title for the left column"
 msgid "Keyboard layout for the left column"
 msgstr "ഇടത്തേ നിരയുടെ തലക്കെട്ടു്"
 
 #. i18n: ectx: property (whatsThis), widget (QComboBox, column1LayoutComboBox)
 #: columndialogbase.ui:161
 #, fuzzy, kde-format
-#| msgid "Title for the left column"
 msgid "Select a keyboard layout for the left column"
 msgstr "ഇടത്തേ നിരയുടെ തലക്കെട്ടു്"
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, column1WidthSpinBox)
 #: columndialogbase.ui:168
 #, fuzzy, kde-format
-#| msgid "Width of selected column"
 msgid "Width of the left column"
 msgstr "തെരഞ്ഞെടുത്ത നിരയുടെ വീതി"
 
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, column1WidthSpinBox)
 #: columndialogbase.ui:171
 #, fuzzy, kde-format
-#| msgid "Enter the width (in pixels) for the selected column(s)"
 msgid "Enter the width (in pixels) for the left column"
 msgstr "തെരഞ്ഞെടുത്ത നിര(കള്‍)ക്കായി വീതി (പിക്സലുകളില്‍) നല്‍കുക"
 
@@ -202,7 +186,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, column2LayoutLabel)
 #: columndialogbase.ui:281
 #, fuzzy, kde-format
-#| msgid "Changing the keyboard layout..."
 msgid "Keyboard &Layout:"
 msgstr "കീബോര്‍ഡ് വിന്യാസം മാറ്റുന്നു..."
 
@@ -227,21 +210,17 @@ msgstr "വലത്തേ നിരയ്ക്കായി ഒരു തലക
 #. i18n: ectx: property (toolTip), widget (QSpinBox, column2WidthSpinBox)
 #: columndialogbase.ui:330
 #, fuzzy, kde-format
-#| msgid "Title for the right column"
 msgid "Width of the right column"
 msgstr "വലത്തേ നിരയുടെ തലക്കെട്ടു്"
 
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, column2WidthSpinBox)
 #: columndialogbase.ui:333
 #, fuzzy, kde-format
-#| msgid "Enter the width (in pixels) for the selected column(s)"
 msgid "Enter the width (in pixels) for the right column"
 msgstr "തെരഞ്ഞെടുത്ത നിര(കള്‍)ക്കായി വീതി (പിക്സലുകളില്‍) നല്‍കുക"
 
 #: dlglanguage.cpp:34
 #, fuzzy, kde-format
-#| msgctxt "@title:group quiz settings"
-#| msgid "Quiz Settings"
 msgid "Column Settings"
 msgstr "ക്വിസ് സജ്ജീകരണങ്ങള്‍"
 
@@ -253,16 +232,12 @@ msgstr "ക്യാരക്ടര്‍ തെരഞ്ഞെടുക്ക�
 
 #: dlgspecchar.cpp:53
 #, fuzzy, kde-format
-#| msgctxt "@action:button select"
-#| msgid "&Select"
 msgctxt "@action:button"
 msgid "&Select"
 msgstr "&തെരഞ്ഞെടുക്കുക"
 
 #: dlgspecchar.cpp:54
 #, fuzzy, kde-format
-#| msgctxt "@info:tooltip select this character"
-#| msgid "Select this character"
 msgctxt "@info:tooltip"
 msgid "Select this character"
 msgstr "ഈ ക്യാരക്ടര്‍ തെരഞ്ഞെടുക്കുക"
@@ -270,21 +245,17 @@ msgstr "ഈ ക്യാരക്ടര്‍ തെരഞ്ഞെടുക്�
 #. i18n: ectx: label, entry (SizeHintColumn$(Section)), group (Document $(fileurl))
 #: documentsettings.kcfg:12
 #, fuzzy, kde-format
-#| msgid "Column &width:"
 msgid "Column widths"
 msgstr "നിരയുടെ &വീതി:"
 
 #. i18n: ectx: label, entry (KeyboardLayoutColumn$(Section)), group (Document $(fileurl))
 #: documentsettings.kcfg:18
 #, fuzzy, kde-format
-#| msgid "Changing the keyboard layout..."
 msgid "Keyboard layouts"
 msgstr "കീബോര്‍ഡ് വിന്യാസം മാറ്റുന്നു..."
 
 #: filterproxysearchline.cpp:36
 #, fuzzy, kde-format
-#| msgctxt "@label:textbox search"
-#| msgid "S&earch:"
 msgid "Search"
 msgstr "&തെരയുക:"
 
@@ -305,8 +276,8 @@ msgid ""
 "<html>There are too few entries in your vocabulary.<br />You need at least "
 "one entry for a flashcard quiz.</html>"
 msgstr ""
-"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />ഫ്ലാഷ്‌കാര്‍ഡ് ക്വിസിനായി ഒരു "
-"എന്‍ട്രിയെങ്കിലും വേണം.</html>"
+"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />ഫ്ലാഷ്‌കാര്‍ഡ് ക്വിസിനായി ഒരു എന്‍"
+"ട്രിയെങ്കിലും വേണം.</html>"
 
 #: kwordquiz.cpp:114
 #, kde-format
@@ -350,7 +321,6 @@ msgstr "സജീവ പദസഞ്ചയ രചന പ്രിന്റ് �
 
 #: kwordquiz.cpp:151
 #, fuzzy, kde-format
-#| msgid "Saves the active vocabulary document"
 msgid "Shows a preview of the active vocabulary document"
 msgstr "സജീവ പദസഞ്ചയ രചന സൂക്ഷിക്കുന്നു"
 
@@ -425,13 +395,11 @@ msgstr "ഇപ്പോഴത്തെയോ തെരഞ്ഞെടുത്�
 
 #: kwordquiz.cpp:225
 #, fuzzy, kde-format
-#| msgid "&Column Titles..."
 msgid "&Column Settings..."
 msgstr "&നിര തലക്കെട്ടുകള്‍..."
 
 #: kwordquiz.cpp:227
 #, fuzzy, kde-format
-#| msgid "Defines the column titles for the active vocabulary"
 msgid "Defines the column settings for the active vocabulary"
 msgstr "പ്രാവര്‍ത്തിക പദസഞ്ചയത്തിനായുള്ള നിര തലക്കെട്ടുകള്‍ വ്യക്തമാക്കുന്നു"
 
@@ -492,7 +460,6 @@ msgstr ""
 
 #: kwordquiz.cpp:274
 #, fuzzy, kde-format
-#| msgid "Changing the keyboard layout..."
 msgid "Shows available keyboard layouts"
 msgstr "കീബോര്‍ഡ് വിന്യാസം മാറ്റുന്നു..."
 
@@ -624,7 +591,6 @@ msgstr ""
 
 #: kwordquiz.cpp:392
 #, fuzzy, kde-format
-#| msgid "Your answer was correct!"
 msgid "Marks last answer as correct"
 msgstr "നിങ്ങളുടെ ഉത്തരം ശരിയായിരുന്നു!"
 
@@ -723,7 +689,6 @@ msgstr "അനവധി ചോയ്സ്"
 
 #: kwordquiz.cpp:552
 #, fuzzy, kde-format
-#| msgid "Question && Answer"
 msgid "Question & Answer"
 msgstr "ചോദ്യം && ഉത്തരം"
 
@@ -800,7 +765,6 @@ msgstr "പ്രിന്റ് ചെയ്യുന്നു..."
 
 #: kwordquiz.cpp:960
 #, fuzzy, kde-format
-#| msgid "Saving file..."
 msgid "Showing Preview..."
 msgstr "ഫയല്‍ സൂക്ഷിക്കുന്നു..."
 
@@ -942,7 +906,6 @@ msgstr "&4 %1 -> %2 എങ്ങിനെയെങ്കിലും"
 
 #: kwordquiz.cpp:1365
 #, fuzzy, kde-format
-#| msgid "&3 %1 -> %2 Randomly"
 msgid "&5 %1 <-> %2 Randomly"
 msgstr "&3 %1 -> %2 എങ്ങിനെയെങ്കിലും"
 
@@ -1024,28 +987,24 @@ msgstr "പ്രത്യേക ക്യാരക്ടര്‍ ഉപകര�
 #. i18n: ectx: label, entry (ClearAll), group (Editor)
 #: kwordquiz.kcfg:63
 #, fuzzy, kde-format
-#| msgid "Clears the content of the selected cells"
 msgid "Clear all data in selected entries"
 msgstr "തെരഞ്ഞെടുത്ത കളങ്ങളുടെ ഉള്ളടക്കങ്ങള്‍ വൃത്തിയാക്കുന്നു"
 
 #. i18n: ectx: label, entry (ClearText), group (Editor)
 #: kwordquiz.kcfg:67
 #, fuzzy, kde-format
-#| msgid "Clears the content of the selected cells"
 msgid "Clear the text in selected entries"
 msgstr "തെരഞ്ഞെടുത്ത കളങ്ങളുടെ ഉള്ളടക്കങ്ങള്‍ വൃത്തിയാക്കുന്നു"
 
 #. i18n: ectx: label, entry (ClearImageLink), group (Editor)
 #: kwordquiz.kcfg:71
 #, fuzzy, kde-format
-#| msgid "Clears the content of the selected cells"
 msgid "Clear the image link in selected entries"
 msgstr "തെരഞ്ഞെടുത്ത കളങ്ങളുടെ ഉള്ളടക്കങ്ങള്‍ വൃത്തിയാക്കുന്നു"
 
 #. i18n: ectx: label, entry (ClearSoundLink), group (Editor)
 #: kwordquiz.kcfg:75
 #, fuzzy, kde-format
-#| msgid "Clears the content of the selected cells"
 msgid "Clear the sound link in selected entries"
 msgstr "തെരഞ്ഞെടുത്ത കളങ്ങളുടെ ഉള്ളടക്കങ്ങള്‍ വൃത്തിയാക്കുന്നു"
 
@@ -1247,10 +1206,6 @@ msgstr "ക്വിസ് സജ്ജീകരണങ്ങള്‍"
 
 #: kwordquizprefs.cpp:45
 #, fuzzy, kde-format
-#| msgctxt "@title:group flash appearance settings"
-#| msgid ""
-#| "Flashcard\n"
-#| "Appearance"
 msgctxt "@title:group flash appearance settings"
 msgid "Flashcard Appearance"
 msgstr ""
@@ -1355,8 +1310,6 @@ msgstr "ഒഴിഞ്ഞതിലെ അടയാളം മായ്ക്ക�
 
 #: kwqcommands.cpp:370
 #, fuzzy, kde-format
-#| msgctxt "@title:group quiz settings"
-#| msgid "Quiz Settings"
 msgctxt "@item:inmenu undo column titles"
 msgid "Column Settings"
 msgstr "ക്വിസ് സജ്ജീകരണങ്ങള്‍"
@@ -1474,16 +1427,12 @@ msgstr "ഒഴിഞ്ഞതു്-നിറയ്ക്കുക ബ്രാ�
 
 #: kwqtableview.cpp:732
 #, fuzzy, kde-format
-#| msgctxt "@title:window select character dialog"
-#| msgid "Select Character"
 msgctxt "@title:window"
 msgid "Select Image"
 msgstr "ക്യാരക്ടര്‍ തെരഞ്ഞെടുക്കുക"
 
 #: kwqtableview.cpp:752
 #, fuzzy, kde-format
-#| msgctxt "@action:button select"
-#| msgid "&Select"
 msgid "Select Sound"
 msgstr "&തെരഞ്ഞെടുക്കുക"
 
@@ -1520,13 +1469,11 @@ msgstr ""
 
 #: kwqtutor.cpp:75
 #, fuzzy, kde-format
-#| msgid "Flashcard"
 msgid "Close Flash Card"
 msgstr "ഫ്ലാഷ്‌കാര്‍ഡ്"
 
 #: kwqtutor.cpp:80
 #, fuzzy, kde-format
-#| msgid "&Flip Card"
 msgid "Flip Flash Card"
 msgstr "&കാര്‍ഡ് തിരിക്കുക"
 
@@ -1543,23 +1490,18 @@ msgstr ""
 
 #: kwqtutorprefs.cpp:36
 #, fuzzy, kde-format
-#| msgctxt "@title:group editor settings"
-#| msgid "Editor Settings"
 msgctxt "@title:group tutor settings"
 msgid "Tutor Settings"
 msgstr "ചിട്ടപ്പെടുത്തല്‍ സജ്ജീകരണങ്ങള്‍"
 
 #: kwqtutorprefs.cpp:39
 #, fuzzy, kde-format
-#| msgid "Shortcut"
 msgctxt "Shortcuts Config"
 msgid "Shortcuts"
 msgstr "കുറുക്കുവഴി"
 
 #: kwqtutorprefs.cpp:39
 #, fuzzy, kde-format
-#| msgctxt "@title:group quiz settings"
-#| msgid "Quiz Settings"
 msgid "Shortcuts Settings"
 msgstr "ക്വിസ് സജ്ജീകരണങ്ങള്‍"
 
@@ -1580,7 +1522,6 @@ msgstr "കെവേര്‍ഡ്ക്വിസ്"
 
 #: main.cpp:48
 #, fuzzy, kde-format
-#| msgid "(c) 2003-2007, Peter Hedlund"
 msgid "(c) 2003-2010, Peter Hedlund"
 msgstr "(c) 2003-2007, പീറ്റര്‍ ഹെഡ്ലണ്ട്"
 
@@ -1620,11 +1561,6 @@ msgstr ""
 
 #: main.cpp:66
 #, fuzzy, kde-format
-#| msgid ""
-#| "Type of session to start with: \n"
-#| "'flash' for flashcard, \n"
-#| "'mc' for multiple choice, \n"
-#| "'qa' for question and answer"
 msgid ""
 "Type of session to start with: \n"
 "'flash' for flashcard, \n"
@@ -1822,8 +1758,8 @@ msgid ""
 "<html>There are too few entries in your vocabulary.<br />You need at least "
 "three entries for a multiple choice quiz.</html>"
 msgstr ""
-"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി മൂന്നു് "
-"എന്‍ട്രികളെങ്കിലും വേണം.</html>"
+"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി മൂന്നു് എന്‍"
+"ട്രികളെങ്കിലും വേണം.</html>"
 
 #: prefcardappearance.cpp:78
 #, kde-format
@@ -2384,8 +2320,6 @@ msgstr "&ശേഷം കാര്‍ഡ് സ്വയം തിരിക്�
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_TutorTiming)
 #: preftutorbase.ui:17
 #, fuzzy, kde-format
-#| msgctxt "@title:group editor settings"
-#| msgid "Editor Settings"
 msgid "Tutor Timing"
 msgstr "ചിട്ടപ്പെടുത്തല്‍ സജ്ജീകരണങ്ങള്‍"
 
@@ -2398,14 +2332,12 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, labelMinutesPeriodic)
 #: preftutorbase.ui:60
 #, fuzzy, kde-format
-#| msgid "&Hint"
 msgid "&minutes"
 msgstr "&സൂചന"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioButtonRandomly)
 #: preftutorbase.ui:72
 #, fuzzy, kde-format
-#| msgid "&3 %1 -> %2 Randomly"
 msgid "&Randomly"
 msgstr "&3 %1 -> %2 എങ്ങിനെയെങ്കിലും"
 
@@ -2418,24 +2350,18 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, labelMinutesMax)
 #: preftutorbase.ui:120
 #, fuzzy, kde-format
-#| msgid "&Hint"
 msgid "m&inutes and"
 msgstr "&സൂചന"
 
 #. i18n: ectx: property (text), widget (QLabel, labelMinutesMin)
 #: preftutorbase.ui:146
 #, fuzzy, kde-format
-#| msgid "&Hint"
 msgid "mi&nutes"
 msgstr "&സൂചന"
 
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_TutorCardAppearance)
 #: preftutorbase.ui:161
 #, fuzzy, kde-format
-#| msgctxt "@title:group flash appearance settings"
-#| msgid ""
-#| "Flashcard\n"
-#| "Appearance"
 msgid "Flashcard Appearance"
 msgstr ""
 "ഫ്ലാഷ്‌കാര്‍ഡ്\n"
@@ -2499,8 +2425,8 @@ msgid ""
 "<html>There are too few entries in your vocabulary.<br />You need at least "
 "one entry for a question and answer quiz.</html>"
 msgstr ""
-"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി ഒരു "
-"എന്‍ട്രിയെങ്കിലും വേണം.</html>"
+"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി ഒരു എന്‍"
+"ട്രിയെങ്കിലും വേണം.</html>"
 
 #: wqprintdialogpage.cpp:31
 #, kde-format

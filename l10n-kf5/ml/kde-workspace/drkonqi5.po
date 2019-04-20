@@ -31,7 +31,6 @@ msgstr "peter.ani@gmail.com"
 
 #: aboutbugreportingdialog.cpp:40
 #, fuzzy, kde-format
-#| msgid "&Bug Report"
 msgctxt "@title title of the dialog"
 msgid "About Bug Reporting - Help"
 msgstr "&ബഗ് റിപ്പോര്‍ട്ടു്"
@@ -499,7 +498,6 @@ msgstr ""
 #: backtracewidget.cpp:129
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:623
 #, fuzzy, kde-format
-#| msgid "Loading symbols..."
 msgctxt "@info:status"
 msgid "Loading..."
 msgstr "ചിഹ്നങ്ങള്‍ ലഭ്യമാക്കുന്നു..."
@@ -859,7 +857,6 @@ msgstr ""
 
 #: bugzillaintegration/reportassistantpages_base.cpp:334
 #, fuzzy, kde-kuit-format
-#| msgid "The program was started by kdeinit"
 msgctxt "@info"
 msgid "Your problem has already been reported as bug %1."
 msgstr "പ്രോഗ്രാം ആരംഭിച്ചതു് kdeinit ആണു്"
@@ -1342,14 +1339,12 @@ msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:846 drkonqi.cpp:172
 #, fuzzy, kde-format
-#| msgid "Select Filename"
 msgctxt "@title:window"
 msgid "Select Filename"
 msgstr "ഫയല്‍നാമം തിരഞ്ഞെടുക്കുക"
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:869 drkonqi.cpp:198
 #, fuzzy, kde-kuit-format
-#| msgid "Cannot open file <filename>%1</filename> for writing."
 msgctxt "@info"
 msgid "Cannot open file <filename>%1</filename> for writing."
 msgstr "<filename>%1</filename> തുറക്കുവാന്‍ സാധ്യമല്ല."
@@ -1974,7 +1969,6 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, m_reproducibleBox)
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:135
 #, fuzzy, kde-format
-#| msgid "Name of the program"
 msgctxt "@item:inlistbox the bug can be reproduced sometimes"
 msgid "Sometimes"
 msgstr "പ്രോഗ്രാമിന്റെ പേരു്"
@@ -2158,7 +2152,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QRadioButton, attachToBugReportCheck)
 #: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:219
 #, fuzzy, kde-format
-#| msgid "Please attach the following information to your bug report:"
 msgid "Completely sure: attach my &information to this report"
 msgstr "ദയവായി നിങ്ങളുടെ ബഗ് റിപ്പോര്‍ട്ടിലേക്കു് താഴെ പറയുന്ന വിവരങ്ങളും ചേര്‍ക്കുക:"
 
@@ -2330,21 +2323,18 @@ msgstr ""
 
 #: drkonqi.cpp:162
 #, fuzzy, kde-kuit-format
-#| msgid "Backtrace saved to <filename>%1</filename>."
 msgctxt "@info"
 msgid "Report saved to <filename>%1</filename>."
 msgstr "ബാക്ക്ട്രെയിസ് <filename>%1</filename>-ല്‍ സൂക്ഷിച്ചിരിക്കുന്നു."
 
 #: drkonqi.cpp:165
 #, fuzzy, kde-format
-#| msgid "Cannot create a file to save the backtrace in"
 msgctxt "@info"
 msgid "Could not create a file in which to save the report."
 msgstr "ബാക്ക്ട്രെയിസ് സൂക്ഷിക്കുന്നതിനായി ഒരു ഫയല്‍ ഉണ്ടാക്കുവാന്‍ സാധ്യമായില്ല"
 
 #: drkonqidialog.cpp:74
 #, fuzzy, kde-format
-#| msgid "Generate"
 msgctxt "@title:tab general information"
 msgid "&General"
 msgstr "ഉണ്ടാക്കുക"
@@ -2401,7 +2391,6 @@ msgstr ""
 
 #: drkonqidialog.cpp:149
 #, fuzzy, kde-format
-#| msgid "Show details"
 msgctxt "@label"
 msgid "Details:"
 msgstr "വിശദാംശങ്ങള്‍ കാണിക്കുക"
@@ -2428,7 +2417,6 @@ msgstr ""
 
 #: drkonqidialog.cpp:197
 #, fuzzy, kde-format
-#| msgid "&Debugger"
 msgctxt ""
 "@action:button this is the debug menu button label which contains the "
 "debugging applications"
@@ -2472,7 +2460,6 @@ msgstr ""
 
 #: main.cpp:52
 #, fuzzy, kde-format
-#| msgid "KDE crash handler gives the user feedback if a program crashed"
 msgid "The KDE Crash Handler gives the user feedback if a program has crashed."
 msgstr ""
 "ഒരു പ്രോഗ്രാമിന്റെ പ്രവര്‍ത്തനം അപ്രതീക്ഷിതമായി നില്‍ക്കുന്നതിനുള്ള കാരണം കെഡിഇ തകരാറുകള്‍ "
@@ -2490,7 +2477,6 @@ msgstr ""
 
 #: main.cpp:81
 #, fuzzy, kde-format
-#| msgid "Hans Petter Bieker"
 msgctxt "@info:credit"
 msgid "Hans Petter Bieker"
 msgstr "ഹാന്‍സ് പെറ്റര്‍ ബെയിക്കര്‍"
@@ -2515,77 +2501,66 @@ msgstr ""
 
 #: main.cpp:95
 #, fuzzy, kde-format
-#| msgid "The signal number that was caught"
 msgctxt "@info:shell"
 msgid "The signal <number> that was caught"
 msgstr "ലഭ്യമായ സിഗ്നലിന്റെ നംബര്‍"
 
 #: main.cpp:96
 #, fuzzy, kde-format
-#| msgid "Name of the program"
 msgctxt "@info:shell"
 msgid "<Name> of the program"
 msgstr "പ്രോഗ്രാമിന്റെ പേരു്"
 
 #: main.cpp:97
 #, fuzzy, kde-format
-#| msgid "Path to the executable"
 msgctxt "@info:shell"
 msgid "<Path> to the executable"
 msgstr "എക്സിക്യൂട്ടബിളിലേക്കുള്ള പാഥ്"
 
 #: main.cpp:98
 #, fuzzy, kde-format
-#| msgid "The version of the program"
 msgctxt "@info:shell"
 msgid "The <version> of the program"
 msgstr "പ്രോഗ്രാമിന്റെ പതിപ്പു്"
 
 #: main.cpp:99
 #, fuzzy, kde-format
-#| msgid "The bug address to use"
 msgctxt "@info:shell"
 msgid "The bug <address> to use"
 msgstr "ഉപയോഗിക്കേണ്ട ബഗിന്റെ വിലാസം"
 
 #: main.cpp:100
 #, fuzzy, kde-format
-#| msgid "Translated name of the program"
 msgctxt "@info:shell"
 msgid "Translated <name> of the program"
 msgstr "പ്രോഗ്രാമിന്റെ തര്‍ജ്ജമചെയ്ത പേരു്"
 
 #: main.cpp:101
 #, fuzzy, kde-format
-#| msgid "The PID of the program"
 msgctxt "@info:shell"
 msgid "The <PID> of the program"
 msgstr "പ്രോഗ്രാമിന്റെ PID"
 
 #: main.cpp:102
 #, fuzzy, kde-format
-#| msgid "Startup ID of the program"
 msgctxt "@info:shell"
 msgid "Startup <ID> of the program"
 msgstr "പ്രോഗ്രാമിനുള്ള സ്റ്റാര്‍ട്ടപ്പു് ID"
 
 #: main.cpp:103
 #, fuzzy, kde-format
-#| msgid "The program was started by kdeinit"
 msgctxt "@info:shell"
 msgid "The program was started by kdeinit"
 msgstr "പ്രോഗ്രാം ആരംഭിച്ചതു് kdeinit ആണു്"
 
 #: main.cpp:104
 #, fuzzy, kde-format
-#| msgid "Disable arbitrary disk access"
 msgctxt "@info:shell"
 msgid "Disable arbitrary disk access"
 msgstr "ഡിസ്കിലേക്കുള്ള അനിയന്ത്രിതമായ പ്രവേശനം നിര്‍ജ്ജീവമാക്കുക"
 
 #: main.cpp:105
 #, fuzzy, kde-format
-#| msgid "The program was started by kdeinit"
 msgctxt "@info:shell"
 msgid "The program has already been restarted"
 msgstr "പ്രോഗ്രാം ആരംഭിച്ചതു് kdeinit ആണു്"
@@ -2654,37 +2629,30 @@ msgid "Show backtrace content (advanced)"
 msgstr ""
 
 #, fuzzy
-#~| msgid "<application>%1</application>"
 #~ msgctxt "@action:inmenu 1 is the debugger name"
 #~ msgid "Debug in <application>%1</application>"
 #~ msgstr "<application>%1</application>"
 
 #, fuzzy
-#~| msgid "Loading backtrace..."
 #~ msgid "Show backtrace"
 #~ msgstr "ബാക്ക്ട്രെയിസ് ലഭ്യമാക്കുന്നു..."
 
 #, fuzzy
-#~| msgctxt "unknown application"
-#~| msgid "unknown"
 #~ msgctxt "@info unknown application"
 #~ msgid "unknown"
 #~ msgstr "അപരിചിതം"
 
 #, fuzzy
-#~| msgid "<application>%1</application>"
 #~ msgctxt "@info/rich"
 #~ msgid "<application>%1</application>"
 #~ msgstr "<application>%1</application>"
 
 #, fuzzy
-#~| msgid "<command>%1</command>"
 #~ msgctxt "@info/rich"
 #~ msgid "<command>%1</command>"
 #~ msgstr "<command>%1</command>"
 
 #, fuzzy
-#~| msgid "<filename>%1</filename>"
 #~ msgctxt "@info/rich"
 #~ msgid "<filename>%1</filename>"
 #~ msgstr "<filename>%1</filename>"
@@ -2695,7 +2663,6 @@ msgstr ""
 # ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>, 2008.
 #
 #, fuzzy
-#~| msgid ""
 #~ msgctxt "@action:button"
 #~ msgid ""
 #~ msgstr ""
@@ -2713,13 +2680,11 @@ msgstr ""
 #~ "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #, fuzzy
-#~| msgid "C&opy"
 #~ msgctxt "@action:button"
 #~ msgid "&Copy"
 #~ msgstr "പ&കര്‍ത്തുക"
 
 #, fuzzy
-#~| msgid "&Bug Report"
 #~ msgctxt "@title"
 #~ msgid "Bug Report Keywords"
 #~ msgstr "&ബഗ് റിപ്പോര്‍ട്ടു്"
@@ -2803,8 +2768,8 @@ msgstr ""
 #~ "<p style=\"margin-bottom: 6px;\"><b>Application crashed</b></p><p>The "
 #~ "program %appname crashed.</p>"
 #~ msgstr ""
-#~ "<p style=\"margin-bottom: 6px;\"><b>പ്രയോഗം അപ്രതീക്ഷിതമായി പ്രവര്‍ത്തനം "
-#~ "നിര്‍ത്തിയിരിക്കുന്നു</b></p><p> %appname എന്ന പ്രോഗ്രാം നിന്നുപോയി.</p>"
+#~ "<p style=\"margin-bottom: 6px;\"><b>പ്രയോഗം അപ്രതീക്ഷിതമായി പ്രവര്‍ത്തനം നിര്‍"
+#~ "ത്തിയിരിക്കുന്നു</b></p><p> %appname എന്ന പ്രോഗ്രാം നിന്നുപോയി.</p>"
 
 #~ msgid ""
 #~ "<p>Do you want to generate a backtrace? This will help the developers to "

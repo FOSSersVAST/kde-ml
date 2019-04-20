@@ -124,19 +124,16 @@ msgstr ""
 
 #: kfmclient.cpp:223
 #, fuzzy, kde-format
-#| msgid "Syntax Error: Not enough arguments\n"
 msgid "Syntax error, not enough arguments\n"
 msgstr "വ്യാകരണ തെറ്റു്: ആവശ്യത്തിനു് ആര്‍ഗ്യുമെന്റുകള്‍ ഇല്ല\n"
 
 #: kfmclient.cpp:227
 #, fuzzy, kde-format
-#| msgid "Syntax Error: Too many arguments\n"
 msgid "Syntax error, too many arguments\n"
 msgstr "വ്യാകരണ തെറ്റു്: ആവശ്യത്തിലധികും ആര്‍ഗ്യുമെന്റുകള്‍\n"
 
 #: kfmclient.cpp:276
 #, fuzzy, kde-format
-#| msgid "Syntax Error: Unknown command '%1'\n"
 msgid "Syntax error, unknown command '%1'\n"
 msgstr "വ്യാകരണ തെറ്റു്: അറിയാത്ത ആജ്ഞ '%1'\n"
 
@@ -156,6 +153,5 @@ msgstr "വ്യാകരണ തെറ്റു്: അറിയാത്ത �
 #~ "\n"
 
 #, fuzzy
-#~| msgid "Profile %1 not found\n"
 #~ msgid "Profile '%1' not found\n"
 #~ msgstr "പ്രൊഫൈല്‍ %1 കാണുന്നില്ല\n"

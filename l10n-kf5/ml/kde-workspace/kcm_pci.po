@@ -36,7 +36,6 @@ msgstr "kcm_pci"
 
 #: kcm_pci.cpp:43
 #, fuzzy, kde-format
-#| msgid "Device"
 msgid "PCI Devices"
 msgstr "ഉപകരണം"
 
@@ -361,14 +360,12 @@ msgstr "വിലാസം"
 
 #: kpci.cpp:294 kpci.cpp:310 kpci.cpp:436
 #, fuzzy, kde-format
-#| msgid "Unassigned"
 msgctxt "unassigned address"
 msgid "Unassigned"
 msgstr "നല്‍കിയിട്ടില്ലാത്തവ"
 
 #: kpci.cpp:295 kpci.cpp:311 kpci.cpp:437
 #, fuzzy, kde-format
-#| msgid "Unassigned"
 msgctxt "unassigned size"
 msgid "Unassigned"
 msgstr "നല്‍കിയിട്ടില്ലാത്തവ"
@@ -834,7 +831,6 @@ msgstr "നീളം"
 
 #: kpci.cpp:658
 #, fuzzy, kde-format
-#| msgid "None"
 msgctxt "no data"
 msgid "None"
 msgstr "ഒന്നുമല്ല"
@@ -889,7 +885,6 @@ msgstr ""
 
 #: kpci_private.h:30
 #, fuzzy, kde-format
-#| msgid "None"
 msgctxt "state of PCI item"
 msgid "No"
 msgstr "ഒന്നുമല്ല"
@@ -907,7 +902,6 @@ msgstr ""
 
 #: kpci_private.h:440 kpci_private.h:474
 #, fuzzy, kde-format
-#| msgid "Message control"
 msgid "Mass storage controller"
 msgstr "സന്ദേശ നിയന്ത്രണം"
 
@@ -918,25 +912,21 @@ msgstr ""
 
 #: kpci_private.h:442 kpci_private.h:490
 #, fuzzy, kde-format
-#| msgid "Message control"
 msgid "Display controller"
 msgstr "സന്ദേശ നിയന്ത്രണം"
 
 #: kpci_private.h:443 kpci_private.h:496
 #, fuzzy, kde-format
-#| msgid "Message control"
 msgid "Multimedia controller"
 msgstr "സന്ദേശ നിയന്ത്രണം"
 
 #: kpci_private.h:444 kpci_private.h:501
 #, fuzzy, kde-format
-#| msgid "Message control"
 msgid "Memory controller"
 msgstr "സന്ദേശ നിയന്ത്രണം"
 
 #: kpci_private.h:445 kpci_private.h:515 kpci_private.h:718
 #, fuzzy, kde-format
-#| msgid "Bridge status"
 msgid "Bridge"
 msgstr "ബ്രിഡ്ജ് നിലവാരം"
 
@@ -967,19 +957,16 @@ msgstr ""
 
 #: kpci_private.h:451
 #, fuzzy, kde-format
-#| msgid "CardBus control"
 msgid "Serial bus controller"
 msgstr "കാര്‍ഡ്ബസ് നിയന്ത്രണം"
 
 #: kpci_private.h:452 kpci_private.h:575
 #, fuzzy, kde-format
-#| msgid "Message control"
 msgid "Wireless controller"
 msgstr "സന്ദേശ നിയന്ത്രണം"
 
 #: kpci_private.h:453
 #, fuzzy, kde-format
-#| msgid "Bridge control"
 msgid "Intelligent controller"
 msgstr "ബ്രിഡ്ജ് നിയന്ത്രണം"
 
@@ -1000,7 +987,6 @@ msgstr ""
 
 #: kpci_private.h:457
 #, fuzzy, kde-format
-#| msgid "Device Subclass"
 msgid "Unknown device class"
 msgstr "ഉപകരണം സബ്ക്ലാസ്സ്"
 
@@ -1021,7 +1007,6 @@ msgstr ""
 
 #: kpci_private.h:467
 #, fuzzy, kde-format
-#| msgid "Message control"
 msgid "SCSI storage controller"
 msgstr "സന്ദേശ നിയന്ത്രണം"
 
@@ -1037,7 +1022,6 @@ msgstr ""
 
 #: kpci_private.h:470
 #, fuzzy, kde-format
-#| msgid "CardBus control"
 msgid "IPI bus controller"
 msgstr "കാര്‍ഡ്ബസ് നിയന്ത്രണം"
 
@@ -1063,7 +1047,6 @@ msgstr ""
 
 #: kpci_private.h:477
 #, fuzzy, kde-format
-#| msgid "Bridge control"
 msgid "Ethernet controller"
 msgstr "ബ്രിഡ്ജ് നിയന്ത്രണം"
 
@@ -1089,7 +1072,6 @@ msgstr ""
 
 #: kpci_private.h:482
 #, fuzzy, kde-format
-#| msgid "Bridge control"
 msgid "WorldFip controller"
 msgstr "ബ്രിഡ്ജ് നിയന്ത്രണം"
 
@@ -1115,7 +1097,6 @@ msgstr ""
 
 #: kpci_private.h:489
 #, fuzzy, kde-format
-#| msgid "Control"
 msgid "3D controller"
 msgstr "നിയന്ത്രണം"
 
@@ -1146,7 +1127,6 @@ msgstr ""
 
 #: kpci_private.h:499
 #, fuzzy, kde-format
-#| msgid "Memory"
 msgid "RAM memory"
 msgstr "മെമ്മറി"
 
@@ -1197,7 +1177,6 @@ msgstr ""
 
 #: kpci_private.h:511
 #, fuzzy, kde-format
-#| msgid "CardBus number"
 msgid "CardBus bridge"
 msgstr "കാര്‍ഡ്ബസ് നംബര്‍"
 
@@ -1223,13 +1202,11 @@ msgstr ""
 
 #: kpci_private.h:518
 #, fuzzy, kde-format
-#| msgid "Bridge control"
 msgid "Serial controller"
 msgstr "ബ്രിഡ്ജ് നിയന്ത്രണം"
 
 #: kpci_private.h:519
 #, fuzzy, kde-format
-#| msgid "Bridge control"
 msgid "Parallel controller"
 msgstr "ബ്രിഡ്ജ് നിയന്ത്രണം"
 
@@ -1265,7 +1242,6 @@ msgstr ""
 
 #: kpci_private.h:528
 #, fuzzy, kde-format
-#| msgid "Message control"
 msgid "DMA controller"
 msgstr "സന്ദേശ നിയന്ത്രണം"
 
@@ -1286,7 +1262,6 @@ msgstr ""
 
 #: kpci_private.h:532
 #, fuzzy, kde-format
-#| msgid "System error"
 msgid "System peripheral"
 msgstr "സിസ്റ്റം പിശകു്"
 
@@ -1297,7 +1272,6 @@ msgstr ""
 
 #: kpci_private.h:535
 #, fuzzy, kde-format
-#| msgid "CardBus control"
 msgid "Keyboard controller"
 msgstr "കാര്‍ഡ്ബസ് നിയന്ത്രണം"
 
@@ -1308,13 +1282,11 @@ msgstr ""
 
 #: kpci_private.h:537
 #, fuzzy, kde-format
-#| msgid "Message control"
 msgid "Mouse controller"
 msgstr "സന്ദേശ നിയന്ത്രണം"
 
 #: kpci_private.h:538
 #, fuzzy, kde-format
-#| msgid "CardBus control"
 msgid "Scanner controller"
 msgstr "കാര്‍ഡ്ബസ് നിയന്ത്രണം"
 
@@ -1360,7 +1332,6 @@ msgstr ""
 
 #: kpci_private.h:551
 #, fuzzy, kde-format
-#| msgid "Power state"
 msgid "Power PC"
 msgstr "പവറിന്റെ അവസ്ഥ"
 
@@ -1396,7 +1367,6 @@ msgstr ""
 
 #: kpci_private.h:559
 #, fuzzy, kde-format
-#| msgid "Bridge control"
 msgid "USB controller"
 msgstr "ബ്രിഡ്ജ് നിയന്ത്രണം"
 
@@ -1407,7 +1377,6 @@ msgstr ""
 
 #: kpci_private.h:561
 #, fuzzy, kde-format
-#| msgid "Bus"
 msgid "SMBus"
 msgstr "ബസ്"
 
@@ -1448,7 +1417,6 @@ msgstr ""
 
 #: kpci_private.h:570
 #, fuzzy, kde-format
-#| msgid "Control"
 msgid "RF controller"
 msgstr "നിയന്ത്രണം"
 
@@ -1479,7 +1447,6 @@ msgstr ""
 
 #: kpci_private.h:578
 #, fuzzy, kde-format
-#| msgid "I/O"
 msgid "I2O"
 msgstr "I/O"
 
@@ -1605,7 +1572,6 @@ msgstr ""
 
 #: kpci_private.h:619
 #, fuzzy, kde-format
-#| msgid "Secondary bus reset"
 msgid "Secondary bus towards host CPU"
 msgstr "സെക്കന്‍ഡറി ബസ് വീണ്ടും സജ്ജമാക്കുക"
 
@@ -1781,7 +1747,6 @@ msgstr ""
 
 #: kpci_private.h:668
 #, fuzzy, kde-format
-#| msgid "Device"
 msgid "USB Device"
 msgstr "ഉപകരണം"
 
@@ -1832,7 +1797,6 @@ msgstr ""
 
 #: kpci_private.h:689
 #, fuzzy, kde-format
-#| msgid "D1 support"
 msgid "Debug port"
 msgstr "D1 പിന്തുണ"
 
@@ -1848,13 +1812,11 @@ msgstr ""
 
 #: kpci_private.h:692
 #, fuzzy, kde-format
-#| msgid "AGP"
 msgid "AGP x8"
 msgstr "AGP"
 
 #: kpci_private.h:693
 #, fuzzy, kde-format
-#| msgid " - device:"
 msgid "Secure device"
 msgstr " - device:"
 
@@ -1885,7 +1847,6 @@ msgstr ""
 
 #: kpci_private.h:709
 #, fuzzy, kde-format
-#| msgid "32-bit"
 msgid "32 bit"
 msgstr "32-ബിറ്റ്"
 
@@ -1896,7 +1857,6 @@ msgstr ""
 
 #: kpci_private.h:711
 #, fuzzy, kde-format
-#| msgid "64-bit"
 msgid "64 bit"
 msgstr "64-ബിറ്റ്"
 
@@ -1907,7 +1867,6 @@ msgstr ""
 
 #: kpci_private.h:719
 #, fuzzy, kde-format
-#| msgid "CardBus number"
 msgid "CardBus"
 msgstr "കാര്‍ഡ്ബസ് നംബര്‍"
 

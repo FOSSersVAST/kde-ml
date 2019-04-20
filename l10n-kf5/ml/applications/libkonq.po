@@ -52,7 +52,6 @@ msgstr "ചവറ്റുകുട്ട &കാലിയാക്കുക"
 
 #: src/konq_popupmenu.cpp:335
 #, fuzzy, kde-format
-#| msgid "&Empty Trash Bin"
 msgid "&Configure Trash Bin"
 msgstr "ചവറ്റുകുട്ട &കാലിയാക്കുക"
 
@@ -141,43 +140,36 @@ msgstr "&ഗുണഗണങ്ങള്‍"
 #~ msgstr "റ&ദ്ദാക്കുക"
 
 #, fuzzy
-#~| msgid "Create New"
 #~ msgctxt "@action:button"
 #~ msgid "Create directory"
 #~ msgstr "പുതിയതുണ്ടാക്കുക"
 
 #, fuzzy
-#~| msgid "Enter folder name:"
 #~ msgctxt "@action:button"
 #~ msgid "Enter a different name"
 #~ msgstr "അറയുടെ പേരു് നല്‍കുക:"
 
 #, fuzzy
-#~| msgid "Create New"
 #~ msgctxt "@title:window"
 #~ msgid "Create hidden directory?"
 #~ msgstr "പുതിയതുണ്ടാക്കുക"
 
 #, fuzzy
-#~| msgid "New Folder"
 #~ msgctxt "@label Default name when creating a folder"
 #~ msgid "New Folder"
 #~ msgstr "പുതിയ അറ"
 
 #, fuzzy
-#~| msgid "New Folder"
 #~ msgctxt "@title:window"
 #~ msgid "New Folder"
 #~ msgstr "പുതിയ അറ"
 
 #, fuzzy
-#~| msgid "Enter folder name:"
 #~ msgctxt "@label:textbox"
 #~ msgid "Enter folder name:"
 #~ msgstr "അറയുടെ പേരു് നല്‍കുക:"
 
 #, fuzzy
-#~| msgid "New Folder"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Paste One Folder"
 #~ msgstr "പുതിയ അറ"
@@ -202,19 +194,16 @@ msgstr "&ഗുണഗണങ്ങള്‍"
 #~ msgstr "&പ്രവൃത്തികള്‍"
 
 #, fuzzy
-#~| msgid "&Open With"
 #~ msgctxt "@title:menu"
 #~ msgid "&Open With"
 #~ msgstr "ഫയല്‍ &തുറക്കേണ്ട പ്രയോഗം"
 
 #, fuzzy
-#~| msgid "&Other..."
 #~ msgctxt "@action:inmenu Open With"
 #~ msgid "&Other..."
 #~ msgstr "&മറ്റുള്ളവ..."
 
 #, fuzzy
-#~| msgid "&Open With..."
 #~ msgctxt "@title:menu"
 #~ msgid "&Open With..."
 #~ msgstr "ഫയല്‍ &തുറക്കേണ്ട പ്രയോഗം..."

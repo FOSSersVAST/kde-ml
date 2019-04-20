@@ -31,7 +31,6 @@ msgstr "apeter@redhat.com"
 
 #: kdemain.cpp:96
 #, fuzzy, kde-format
-#| msgid "Marble Desktop Globe"
 msgid "Marble Virtual Globe"
 msgstr "മാര്‍ബിള്‍ ഡസ്ക്ടോപ്പ് ഗ്ലോബ്"
 
@@ -102,7 +101,6 @@ msgstr ""
 
 #: kdemain.cpp:121
 #, fuzzy, kde-format
-#| msgid "Plugins"
 msgid "APRS Plugin"
 msgstr "പ്ലഗിനുകള്‍"
 
@@ -123,7 +121,6 @@ msgstr ""
 
 #: kdemain.cpp:127
 #, fuzzy, kde-format
-#| msgid "Satellites"
 msgid "Satellites"
 msgstr "ഉപഗ്രഹങ്ങള്‍"
 
@@ -134,7 +131,6 @@ msgstr ""
 
 #: kdemain.cpp:130
 #, fuzzy, kde-format
-#| msgid "Satellites"
 msgid "Satellites, Eclipses"
 msgstr "ഉപഗ്രഹങ്ങള്‍"
 
@@ -155,7 +151,6 @@ msgstr ""
 
 #: kdemain.cpp:136
 #, fuzzy, kde-format
-#| msgid "not available"
 msgid "Routing, Navigation, Mobile"
 msgstr "ലഭ്യമല്ല"
 
@@ -166,7 +161,6 @@ msgstr ""
 
 #: kdemain.cpp:139
 #, fuzzy, kde-format
-#| msgid "not available"
 msgid "Routing, Elevation Profile"
 msgstr "ലഭ്യമല്ല"
 
@@ -197,7 +191,6 @@ msgstr "ഇഞ്ച് വാലിന്‍"
 
 #: kdemain.cpp:151
 #, fuzzy, kde-format
-#| msgid "Original Author, Developer and Maintainer"
 msgid "Core Developer and Co-Maintainer"
 msgstr "യഥാര്‍ത്ഥ രചയിതാവു്, ഡവലപ്പര്‍, പാലകന്‍"
 
@@ -218,7 +211,6 @@ msgstr ""
 
 #: kdemain.cpp:157
 #, fuzzy, kde-format
-#| msgid "Test Plugin"
 msgid "Network plugins"
 msgstr "പ്ലഗിന്‍ പരീക്ഷിക്കുക"
 
@@ -239,7 +231,6 @@ msgstr ""
 
 #: kdemain.cpp:163
 #, fuzzy, kde-format
-#| msgid "Marble Cache Settings"
 msgid "Marble Python Bindings"
 msgstr "മാര്‍ബിള്‍ കാഷ് സജ്ജീകരണങ്ങള്‍"
 
@@ -584,7 +575,6 @@ msgstr ""
 
 #: kdemain.cpp:305
 #, fuzzy, kde-format
-#| msgid "Main Toolbar"
 msgid "Martin Konold"
 msgstr "പ്രധാന ഉപകരണപട്ട"
 
@@ -642,7 +632,6 @@ msgstr ""
 
 #: kdemain.cpp:342
 #, fuzzy, kde-format
-#| msgid "Show places"
 msgid "Show tile IDs"
 msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
@@ -806,14 +795,12 @@ msgstr ""
 #. i18n: ectx: label, entry (proxyUser), group (Cache)
 #: marble.kcfg:230
 #, fuzzy, kde-format
-#| msgid "Alternative name of the location."
 msgid "Username for authorization."
 msgstr "സ്ഥലത്തിനു് മറ്റൊരു പേരു്."
 
 #. i18n: ectx: label, entry (proxyPass), group (Cache)
 #: marble.kcfg:233
 #, fuzzy, kde-format
-#| msgid "Alternative name of the location."
 msgid "Password for authorization."
 msgstr "സ്ഥലത്തിനു് മറ്റൊരു പേരു്."
 
@@ -832,7 +819,6 @@ msgstr ""
 #. i18n: ectx: label, entry (proxyAuth), group (Cache)
 #: marble.kcfg:251
 #, fuzzy, kde-format
-#| msgid "Quit the Application"
 msgid "Proxy requires Authentication"
 msgstr "പ്രയോഗത്തില്‍ നിന്നും പുറത്തു് കടക്കുക"
 
@@ -859,7 +845,6 @@ msgstr ""
 
 #: marble_part.cpp:111
 #, fuzzy, kde-format
-#| msgid "&Time"
 msgid "Time: %1"
 msgstr "&സമയം"
 
@@ -870,7 +855,6 @@ msgstr "marble_part"
 
 #: marble_part.cpp:217
 #, fuzzy, kde-format
-#| msgid "A Desktop Globe"
 msgid "A Virtual Globe"
 msgstr "ഡസ്ക്ടോപ്പ് ഗ്ലോബ്"
 
@@ -901,7 +885,6 @@ msgstr ""
 
 #: marble_part.cpp:277
 #, fuzzy, kde-format
-#| msgid "Images (*.jpg *.png)"
 msgid "Images *.jpg *.png"
 msgstr "ചിത്രങ്ങള്‍ (*.jpg *.png)"
 
@@ -918,20 +901,17 @@ msgstr "ഫയല്‍ സൂക്ഷിക്കുമ്പോള്‍ ഒ�
 
 #: marble_part.cpp:483
 #, fuzzy, kde-format
-#| msgid "&Place names:"
 msgid "Unnamed"
 msgstr "&സ്ഥലപേരുകള്‍:"
 
 #: marble_part.cpp:714
 #, fuzzy, kde-format
-#| msgid "Downloading data..."
 msgctxt "Action for downloading an entire region of a map"
 msgid "Download Region..."
 msgstr "ഡേറ്റാ ഡൌണ്‍ലോട് ചെയ്യുന്നു..."
 
 #: marble_part.cpp:728
 #, fuzzy, kde-format
-#| msgid "&Open Map..."
 msgctxt "Action for saving the map to a file"
 msgid "&Export Map..."
 msgstr "ഭൂപടം &തുറക്കുക..."
@@ -944,7 +924,6 @@ msgstr ""
 
 #: marble_part.cpp:747
 #, fuzzy, kde-format
-#| msgid "&Copy Map"
 msgctxt "Action for copying the map to the clipboard"
 msgid "&Copy Map"
 msgstr "ഭൂപടം &പകര്‍ത്തുക"
@@ -957,21 +936,18 @@ msgstr ""
 
 #: marble_part.cpp:762
 #, fuzzy, kde-format
-#| msgid "&Open Map..."
 msgctxt "Action for opening a file"
 msgid "&Open..."
 msgstr "ഭൂപടം &തുറക്കുക..."
 
 #: marble_part.cpp:770
 #, fuzzy, kde-format
-#| msgid "Downloading data..."
 msgctxt "Action for downloading maps (GHNS)"
 msgid "Download Maps..."
 msgstr "ഡേറ്റാ ഡൌണ്‍ലോട് ചെയ്യുന്നു..."
 
 #: marble_part.cpp:774
 #, fuzzy, kde-format
-#| msgid "&Download new maps"
 msgctxt "Status tip"
 msgid "Download new maps"
 msgstr "പുതിയ ഭൂപടങ്ങള്‍ &ഡൌണ്‍ലോട് ചെയ്യുക"
@@ -990,7 +966,6 @@ msgstr ""
 
 #: marble_part.cpp:811
 #, fuzzy, kde-format
-#| msgid "&Clouds"
 msgctxt "Action for toggling clouds"
 msgid "&Clouds"
 msgstr "&മേഘങ്ങള്‍"
@@ -1009,20 +984,17 @@ msgstr ""
 
 #: marble_part.cpp:837
 #, fuzzy, kde-format
-#| msgid "Position: %1"
 msgctxt "Action for locking float items on the map"
 msgid "Lock Position"
 msgstr "സ്ഥാനം: %1"
 
 #: marble_part.cpp:848
 #, fuzzy, kde-format
-#| msgid "Shadow"
 msgid "Show Shadow"
 msgstr "നിഴല്‍"
 
 #: marble_part.cpp:851
 #, fuzzy, kde-format
-#| msgid "Shadow"
 msgid "Hide Shadow"
 msgstr "നിഴല്‍"
 
@@ -1069,7 +1041,6 @@ msgstr ""
 
 #: marble_part.cpp:890
 #, fuzzy, kde-format
-#| msgid "&Stars"
 msgctxt "Show Bookmarks"
 msgid "Show &Bookmarks"
 msgstr "&നക്ഷത്രങ്ങള്‍"
@@ -1081,20 +1052,17 @@ msgstr ""
 
 #: marble_part.cpp:899
 #, fuzzy, kde-format
-#| msgid "Show Home Location"
 msgid "&Set Home Location"
 msgstr "ആസ്ഥാനം കാണിക്കുക"
 
 #: marble_part.cpp:906
 #, fuzzy, kde-format
-#| msgid "&Stars"
 msgctxt "Manage Bookmarks"
 msgid "&Manage Bookmarks"
 msgstr "&നക്ഷത്രങ്ങള്‍"
 
 #: marble_part.cpp:918
 #, fuzzy, kde-format
-#| msgid "&Edit"
 msgctxt "Edit the map in an external application"
 msgid "&Edit Map"
 msgstr "&ചിട്ടപ്പെടുത്തുക"
@@ -1121,7 +1089,6 @@ msgstr ""
 
 #: marble_part.cpp:1288
 #, fuzzy, kde-format
-#| msgid "Position: %1"
 msgctxt "Action for toggling"
 msgid "Show Position"
 msgstr "സ്ഥാനം: %1"
@@ -1134,7 +1101,6 @@ msgstr ""
 
 #: marble_part.cpp:1292
 #, fuzzy, kde-format
-#| msgid "Altitude: %1"
 msgctxt "Action for toggling"
 msgid "Show Altitude"
 msgstr "ആള്‍ട്ടിട്യൂഡ്: %1"
@@ -1168,7 +1134,6 @@ msgstr "കാഷും പ്രോക്സിയും"
 
 #: marble_part.cpp:1440
 #, fuzzy, kde-format
-#| msgid "&Time"
 msgid "Date & Time"
 msgstr "&സമയം"
 
@@ -1179,7 +1144,6 @@ msgstr ""
 
 #: marble_part.cpp:1461
 #, fuzzy, kde-format
-#| msgid "Bridge"
 msgid "Routing"
 msgstr "പാലം"
 
@@ -1233,14 +1197,12 @@ msgstr ""
 #. i18n: ectx: Menu (viewSize)
 #: marble_part.rc:65
 #, fuzzy, kde-format
-#| msgid "&View"
 msgid "&View Size"
 msgstr "&കാഴ്ച"
 
 #. i18n: ectx: Menu (bookmarks)
 #: marble_part.rc:73 marbleui.rc:29
 #, fuzzy, kde-format
-#| msgid "&Stars"
 msgid "&Bookmarks"
 msgstr "&നക്ഷത്രങ്ങള്‍"
 
@@ -1253,17 +1215,14 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #. i18n: ectx: ToolBar (pluginToolBar)
 #: marble_part.rc:97
 #, fuzzy, kde-format
-#| msgid "Main Toolbar"
 msgid "Edit Toolbar"
 msgstr "പ്രധാന ഉപകരണപട്ട"
 
 #, fuzzy
-#~| msgid "Nation"
 #~ msgid "Native"
 #~ msgstr "രാജ്യം"
 
 #, fuzzy
-#~| msgid "Nation"
 #~ msgid "Native (X11)"
 #~ msgstr "രാജ്യം"
 
@@ -1277,22 +1236,18 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "വിമാനത്താവളം"
 
 #, fuzzy
-#~| msgid "Water"
 #~ msgid "Craters"
 #~ msgstr "ജലം"
 
 #, fuzzy
-#~| msgid "Other Place"
 #~ msgid "Other features"
 #~ msgstr "മറ്റു് സ്ഥലം"
 
 #, fuzzy
-#~| msgid "Mountain"
 #~ msgid "Mons, mountain"
 #~ msgstr "പര്‍വതം"
 
 #, fuzzy
-#~| msgid "Areas"
 #~ msgid "Urban Areas"
 #~ msgstr "സ്ഥലങ്ങള്‍"
 
@@ -1318,27 +1273,22 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "താപനല (‍ജൂലൈ)"
 
 #, fuzzy
-#~| msgid "<![CDATA[-10&deg;C]]>"
 #~ msgid "-10&deg;C"
 #~ msgstr "<![CDATA[-10&deg;C]]>"
 
 #, fuzzy
-#~| msgid "<![CDATA[-21&deg;C]]>"
 #~ msgid "-21&deg;C"
 #~ msgstr "<![CDATA[-21&deg;C]]>"
 
 #, fuzzy
-#~| msgid "<![CDATA[-32&deg;C]]>"
 #~ msgid "-32&deg;C"
 #~ msgstr "<![CDATA[-32&deg;C]]>"
 
 #, fuzzy
-#~| msgid "<![CDATA[-41&deg;C]]>"
 #~ msgid "-41&deg;C"
 #~ msgstr "<![CDATA[-41&deg;C]]>"
 
 #, fuzzy
-#~| msgid "<![CDATA[-69&deg;C]]>"
 #~ msgid "-69&deg;C"
 #~ msgstr "<![CDATA[-69&deg;C]]>"
 
@@ -1400,12 +1350,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "താപനില (ഡിസംബര്‍)"
 
 #, fuzzy
-#~| msgid "Capitals:"
 #~ msgid "OSM Bitmap Tiles"
 #~ msgstr "തലസ്ഥാനങ്ങള്‍:"
 
 #, fuzzy
-#~| msgid "The Earth"
 #~ msgid "Explore the Earth"
 #~ msgstr "ഭൂമി"
 
@@ -1416,12 +1364,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "സ്ഥലങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Location"
 #~ msgid "Education"
 #~ msgstr "സ്ഥലം"
 
 #, fuzzy
-#~| msgid "International"
 #~ msgid "Entertainment"
 #~ msgstr "അന്താരാഷ്ട്ര"
 
@@ -1462,37 +1408,30 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "സ്കൂള്‍, സര്‍വകലാശാല"
 
 #, fuzzy
-#~| msgid "School, university"
 #~ msgid "University"
 #~ msgstr "സ്കൂള്‍, സര്‍വകലാശാല"
 
 #, fuzzy
-#~| msgid "Capital"
 #~ msgid "Hospital"
 #~ msgstr "തലസ്ഥാനം"
 
 #, fuzzy
-#~| msgid "Railway station"
 #~ msgid "Fire station"
 #~ msgstr "റയില്‍‌വേ സ്റ്റേഷന്‍"
 
 #, fuzzy
-#~| msgid "Continent"
 #~ msgid "Monument"
 #~ msgstr "ഭൂഖണ്ഡം"
 
 #, fuzzy
-#~| msgid "&Stars"
 #~ msgid "Bar"
 #~ msgstr "&നക്ഷത്രങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "&Stars"
 #~ msgid "Books"
 #~ msgstr "&നക്ഷത്രങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "C&lear"
 #~ msgid "Car"
 #~ msgstr "&വെടിപ്പാക്കുക"
 
@@ -1536,7 +1475,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മരുഭൂമി"
 
 #, fuzzy
-#~| msgid "River"
 #~ msgid "Rivers"
 #~ msgstr "നദി"
 
@@ -1544,7 +1482,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മഴ (ഡിസംബര്‍)"
 
 #, fuzzy
-#~| msgid "Down"
 #~ msgid "Town"
 #~ msgstr "താഴേക്കു്"
 
@@ -1555,7 +1492,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മേഘങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Marble"
 #~ msgid "Marble: Legend"
 #~ msgstr "മാര്‍ബിള്‍"
 
@@ -1593,7 +1529,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "<!-- ##customLegendEntries:all## -->"
 
 #, fuzzy
-#~| msgid "Marble"
 #~ msgid "Marble - Game"
 #~ msgstr "മാര്‍ബിള്‍"
 
@@ -1604,7 +1539,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മാര്‍ബിള്‍ വിഡ്ജറ്റ് വിര്‍ച്ച്വല്‍ ഗ്ലോബ് ലഭ്യമാക്കുന്നു."
 
 #, fuzzy
-#~| msgid "Nation"
 #~ msgid "Navigation Control"
 #~ msgstr "രാജ്യം"
 
@@ -1612,12 +1546,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show grid"
 #~ msgid "Show relief"
 #~ msgstr "ഗ്രിഡ് കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show date"
 #~ msgid "Show scale bar"
 #~ msgstr "തീയതി കാണിക്കുക"
 
@@ -1637,62 +1569,50 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "നദികള്‍ / കായലുകള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Nation"
 #~ msgid "Show elevation model"
 #~ msgstr "രാജ്യം"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgid "Name:"
 #~ msgstr "പേരു്"
 
 #, fuzzy
-#~| msgid "&Open Map..."
 #~ msgid "Import Bookmarks..."
 #~ msgstr "ഭൂപടം &തുറക്കുക..."
 
 #, fuzzy
-#~| msgid "&Open Map..."
 #~ msgid "Export Bookmarks..."
 #~ msgstr "ഭൂപടം &തുറക്കുക..."
 
 #, fuzzy
-#~| msgid "&File"
 #~ msgid "Folders"
 #~ msgstr "&ഫയല്‍"
 
 #, fuzzy
-#~| msgid "Now"
 #~ msgid "New"
 #~ msgstr "ഉടന്‍"
 
 #, fuzzy
-#~| msgid "&File"
 #~ msgid "Rename"
 #~ msgstr "&ഫയല്‍"
 
 #, fuzzy
-#~| msgid "Desert"
 #~ msgid "Delete"
 #~ msgstr "മരുഭൂമി"
 
 #, fuzzy
-#~| msgid "&Stars"
 #~ msgid "Bookmarks"
 #~ msgstr "&നക്ഷത്രങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "&Edit"
 #~ msgid "Edit"
 #~ msgstr "&ചിട്ടപ്പെടുത്തുക"
 
 #, fuzzy
-#~| msgid "Clouds"
 #~ msgid "Cloud Routes"
 #~ msgstr "മേഘങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "not available"
 #~ msgid "No route available."
 #~ msgstr "ലഭ്യമല്ല"
 
@@ -1700,17 +1620,14 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ഇപ്പോളെവിടെ"
 
 #, fuzzy
-#~| msgid "Position: %1"
 #~ msgid "Position Tracking"
 #~ msgstr "സ്ഥാനം: %1"
 
 #, fuzzy
-#~| msgid "Track"
 #~ msgid "Show Track"
 #~ msgstr "ട്രാക്ക്"
 
 #, fuzzy
-#~| msgid "Track"
 #~ msgid "Clear Track"
 #~ msgstr "ട്രാക്ക്"
 
@@ -1718,35 +1635,22 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "..."
 
 #, fuzzy
-#~| msgid "not available"
 #~ msgid "No position available."
 #~ msgstr "ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Zoom In"
 #~ msgid "Auto Zoom"
 #~ msgstr "വലുതായിക്കാണുക"
 
 #, fuzzy
-#~| msgid "Precipitation"
 #~ msgid "Data Migration"
 #~ msgstr "മഴ"
 
 #, fuzzy
-#~| msgid "Description"
 #~ msgid "&Description"
 #~ msgstr "വിവരണം"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -1779,17 +1683,14 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "weight:600;\">മാര്‍ബിള്‍ ഡസ്ക്ടോപ്പ് ഗ്ലോബ്</span></p></body></html>"
 
 #, fuzzy
-#~| msgid "&File"
 #~ msgid "&Folder"
 #~ msgstr "&ഫയല്‍"
 
 #, fuzzy
-#~| msgid "&Add Place"
 #~ msgid "&Add Folder"
 #~ msgstr "സ്ഥലം &ചേര്‍ക്കുക"
 
 #, fuzzy
-#~| msgid "Main Toolbar"
 #~ msgid "Edit placemark"
 #~ msgstr "പ്രധാന ഉപകരണപട്ട"
 
@@ -1797,39 +1698,30 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "വിവരണം"
 
 #, fuzzy
-#~| msgid "Clouds"
 #~ msgid "Color:"
 #~ msgstr "മേഘങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Show places"
 #~ msgid "Show placemark"
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Population:"
 #~ msgid "Elevation:"
 #~ msgstr "ജനപ്പെരുപ്പം:"
 
 #, fuzzy
-#~| msgid "0 m"
 #~ msgid " m"
 #~ msgstr "0 മി"
 
 #, fuzzy
-#~| msgctxt "EMAIL OF TRANSLATORS"
-#~| msgid "Your emails"
 #~ msgid "Editor Details"
 #~ msgstr "apeter@redhat.com"
 
 #, fuzzy
-#~| msgctxt "EMAIL OF TRANSLATORS"
-#~| msgid "Your emails"
 #~ msgid "Editor Preview"
 #~ msgstr "apeter@redhat.com"
 
 #, fuzzy
-#~| msgid "Show places"
 #~ msgid "File View"
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
@@ -1840,82 +1732,66 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&അടയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "F9"
 #~ msgid "9"
 #~ msgstr "F9"
 
 #, fuzzy
-#~| msgid "Clouds"
 #~ msgid "Color"
 #~ msgstr "മേഘങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Go To"
 #~ msgid "Go To..."
 #~ msgstr "എങ്ങോട്ടു് പോകണം"
 
 #, fuzzy
-#~| msgid "&Stars"
 #~ msgid "Browse"
 #~ msgstr "&നക്ഷത്രങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "&Search"
 #~ msgid "Search"
 #~ msgstr "&തെരയുക"
 
 #, fuzzy
-#~| msgid "&Latitude"
 #~ msgid "Northern Latitude"
 #~ msgstr "&ലാറ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "N"
 #~ msgid "&N"
 #~ msgstr "N"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Western Longitude"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "W"
 #~ msgid "&W"
 #~ msgstr "W"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Eastern Longitude"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "E"
 #~ msgid "&E"
 #~ msgstr "E"
 
 #, fuzzy
-#~| msgid "&Latitude"
 #~ msgid "Southern Latitude"
 #~ msgstr "&ലാറ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "S"
 #~ msgid "&S"
 #~ msgstr "S"
 
 #, fuzzy
-#~| msgid "Marble"
 #~ msgid "Legend"
 #~ msgstr "മാര്‍ബിള്‍"
 
 #, fuzzy
-#~| msgid "View"
 #~ msgid "Map View"
 #~ msgstr "കാഴ്ച"
 
 #, fuzzy
-#~| msgid "Precipitation"
 #~ msgid "&Projection"
 #~ msgstr "മഴ"
 
@@ -1923,7 +1799,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ഗ്ലോബ്"
 
 #, fuzzy
-#~| msgid "Creating Map"
 #~ msgid "Flat Map"
 #~ msgstr "ഭൂപടം ഉണ്ടാക്കുന്നു"
 
@@ -1931,24 +1806,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&പ്രമേയം"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-#~| "\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">(c) 2007, The Marble "
-#~| "Project</p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-style:italic;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">http://edu.kde.org/"
-#~| "marble</p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -1993,15 +1850,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "marble</p></body></html>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -2032,29 +1880,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "http://"
 
 #, fuzzy
-#~| msgid "Creating Map"
 #~ msgid "Available Maps:"
 #~ msgstr "ഭൂപടം ഉണ്ടാക്കുന്നു"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-#~| "\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">(c) 2007, The Marble "
-#~| "Project</p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-style:italic;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">http://edu.kde.org/"
-#~| "marble</p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -2099,24 +1928,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "marble</p></body></html>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-#~| "\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">(c) 2007, The Marble "
-#~| "Project</p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-style:italic;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">http://edu.kde.org/"
-#~| "marble</p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -2159,24 +1970,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "marble</p></body></html>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-#~| "\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">(c) 2007, The Marble "
-#~| "Project</p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-style:italic;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">http://edu.kde.org/"
-#~| "marble</p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -2213,27 +2006,22 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "marble</p></body></html>"
 
 #, fuzzy
-#~| msgid "Capitals:"
 #~ msgid "Map Title:"
 #~ msgstr "തലസ്ഥാനങ്ങള്‍:"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgid "Map Name:"
 #~ msgstr "പേരു്"
 
 #, fuzzy
-#~| msgid "Description"
 #~ msgid "Description:"
 #~ msgstr "വിവരണം"
 
 #, fuzzy
-#~| msgid "Creating Map"
 #~ msgid "Preview Image:"
 #~ msgstr "ഭൂപടം ഉണ്ടാക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Creating Map"
 #~ msgid "preview image"
 #~ msgstr "ഭൂപടം ഉണ്ടാക്കുന്നു"
 
@@ -2241,29 +2029,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ജനപ്പെരുപ്പമുള്ള സ്ഥലങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Boundaries"
 #~ msgid "Border Lines"
 #~ msgstr "അതിര്‍ഥികള്‍"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-#~| "\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">(c) 2007, The Marble "
-#~| "Project</p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-style:italic;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">http://edu.kde.org/"
-#~| "marble</p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -2307,27 +2076,22 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "marble</p></body></html>"
 
 #, fuzzy
-#~| msgid "Show places"
 #~ msgid "Map name goes here."
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "&Theme"
 #~ msgid "Map Theme:"
 #~ msgstr "&പ്രമേയം"
 
 #, fuzzy
-#~| msgid "Show places"
 #~ msgid "Map theme goes here."
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show places"
 #~ msgid "Thumbnail image goes here."
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Creating Map"
 #~ msgid "Preview Map"
 #~ msgstr "ഭൂപടം ഉണ്ടാക്കുന്നു"
 
@@ -2335,15 +2099,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മാര്‍ബിളിനെ സംബന്ധിച്ചുള്ളതു്"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -2370,24 +2125,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&സംബന്ധിച്ചുള്ളതു്"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-#~| "\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">(c) 2007, The Marble "
-#~| "Project</p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-style:italic;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">http://edu.kde.org/"
-#~| "marble</p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -2431,15 +2168,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&രചയിതാക്കള്‍"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -2468,15 +2196,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&ലൈസന്‍സ് എഗ്രിമെന്റ്"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -2499,16 +2218,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "weight:600;\">മാര്‍ബിള്‍ ഡസ്ക്ടോപ്പ് ഗ്ലോബ്</span></p></body></html>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">Proxy settings for "
-#~| "your local intranet. Please leave empty if there is no proxy.</p></"
-#~| "body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -2541,7 +2250,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&ഫിസിക്കല്‍ മെമ്മറി:"
 
 #, fuzzy
-#~| msgid "MB"
 #~ msgid " MB"
 #~ msgstr "MB"
 
@@ -2578,7 +2286,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&പ്രോക്സി"
 
 #, fuzzy
-#~| msgid "&Proxy"
 #~ msgid "&Proxy:"
 #~ msgstr "&പ്രോക്സി"
 
@@ -2586,27 +2293,22 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&പോര്‍ട്ട്:"
 
 #, fuzzy
-#~| msgid "&Proxy"
 #~ msgid "Proxy type:"
 #~ msgstr "&പ്രോക്സി"
 
 #, fuzzy
-#~| msgid "Quit the Application"
 #~ msgid "Requires authentication"
 #~ msgstr "പ്രയോഗത്തില്‍ നിന്നും പുറത്തു് കടക്കുക"
 
 #, fuzzy
-#~| msgid "&Place names:"
 #~ msgid "U&sername:"
 #~ msgstr "&സ്ഥലപേരുകള്‍:"
 
 #, fuzzy
-#~| msgid "&Place names:"
 #~ msgid "Username:"
 #~ msgstr "&സ്ഥലപേരുകള്‍:"
 
 #, fuzzy
-#~| msgid "&Test Plugin"
 #~ msgid "Test Login"
 #~ msgstr "&പ്ലഗിന്‍ പരീക്ഷിക്കുക"
 
@@ -2614,20 +2316,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മാര്‍ബിള്‍ കാഷ് സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Precipitation"
 #~ msgid "&Drag location:"
 #~ msgstr "മഴ"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -2656,26 +2348,14 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "weight:600;\">മാര്‍ബിള്‍ ഡസ്ക്ടോപ്പ് ഗ്ലോബ്</span></p></body></html>"
 
 #, fuzzy
-#~| msgid "Follow mouse pointer"
 #~ msgid "Follow Mouse Pointer"
 #~ msgstr "മൌസു് പോയിന്ററനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "&Set Home Location"
 #~ msgid "&Inertial Globe Rotation"
 #~ msgstr "ആസ്ഥാനം &സജ്ജമാക്കുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">Proxy settings for "
-#~| "your local intranet. Please leave empty if there is no proxy.</p></"
-#~| "body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -2699,20 +2379,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "html>"
 
 #, fuzzy
-#~| msgid "&On Startup:"
 #~ msgid "&On startup:"
 #~ msgstr "&തുടക്കത്തില്‍:"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -2738,7 +2408,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ആസ്ഥാനം കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Return to last location visited"
 #~ msgid "Return to Last Location Visited"
 #~ msgstr "ഏറ്റവും ഒടുവില്‍ സന്ദര്‍ശിച്ചിടത്തേക്കു് മടങ്ങുക"
 
@@ -2761,7 +2430,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "വലുതായിക്കാണുക"
 
 #, fuzzy
-#~| msgid "Zoom in by pressing this button to see more details."
 #~ msgid "Zoom in by pressing this button to see more detail."
 #~ msgstr "കൂടുതല്‍ വിവരങ്ങള്‍ കാണുന്നതിനായി ഈ ബട്ടണ്‍ ഉപയോഗിച്ചിതു് വലുതായിക്കാണുക."
 
@@ -2772,7 +2440,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ചെറുതായിക്കാണുക"
 
 #, fuzzy
-#~| msgid "Zoom out by pressing this button to see less details."
 #~ msgid "Zoom out by pressing this button to see less detail."
 #~ msgstr "കുറച്ചു് വിവരങ്ങള്‍ കാണുന്നതിനായി ഈ ബട്ടണ്‍ ഉപയോഗിച്ചിതു് ചെറുതായിക്കാണുക"
 
@@ -2780,24 +2447,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "-"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-#~| "\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">(c) 2007, The Marble "
-#~| "Project</p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-style:italic;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">http://edu.kde.org/"
-#~| "marble</p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -2842,37 +2491,30 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&പ്ലഗിനുകള്‍"
 
 #, fuzzy
-#~| msgid "&Speed"
 #~ msgid "Time Zone"
 #~ msgstr "&വേഗത"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "European Central Time"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Eastern European Time"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Eastern African Time"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Eastern Standard Time"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Indiana Eastern Standard Time"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Brazil Eastern Time"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
@@ -2880,15 +2522,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&ദൂരം:"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -2916,15 +2549,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മൈലുകള്‍, അടി"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -2953,20 +2577,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ഡിഗ്രീ (ഡെസിമല്‍)"
 
 #, fuzzy
-#~| msgid "Low Quality"
 #~ msgid "Map &Quality"
 #~ msgstr "കുറഞ്ഞ നിലവാരം"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -2988,7 +2602,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "ഉപയോഗിക്കുന്ന അക്ഷരസഞ്ചയം.</p></body></html>"
 
 #, fuzzy
-#~| msgid "Print Quality"
 #~ msgid "Outline Quality"
 #~ msgstr "പ്രിന്റ് നിലവാരം"
 
@@ -3005,20 +2618,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "പ്രിന്റ് നിലവാരം"
 
 #, fuzzy
-#~| msgid "International"
 #~ msgid "During &animations:"
 #~ msgstr "അന്താരാഷ്ട്ര"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -3044,7 +2647,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "weight:600;\">മാര്‍ബിള്‍ ഡസ്ക്ടോപ്പ് ഗ്ലോബ്</span></p></body></html>"
 
 #, fuzzy
-#~| msgid "&Open Map..."
 #~ msgid "OpenGL"
 #~ msgstr "ഭൂപടം &തുറക്കുക..."
 
@@ -3052,16 +2654,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&സ്ഥലപേരുകള്‍:"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">Proxy settings for "
-#~| "your local intranet. Please leave empty if there is no proxy.</p></"
-#~| "body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\n"
@@ -3085,22 +2677,18 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "html>"
 
 #, fuzzy
-#~| msgid "Native language"
 #~ msgid "Custom & Native Language"
 #~ msgstr "സ്വന്തം ഭാഷ"
 
 #, fuzzy
-#~| msgid "Native language"
 #~ msgid "Custom Language"
 #~ msgstr "സ്വന്തം ഭാഷ"
 
 #, fuzzy
-#~| msgid "Native language"
 #~ msgid "Native Language"
 #~ msgstr "സ്വന്തം ഭാഷ"
 
 #, fuzzy
-#~| msgid "Default Map &Font:"
 #~ msgid "Default map &font:"
 #~ msgstr "ഭൂപ്പടത്തിനു് സ്വതവേയുള്ള &അക്ഷരസഞ്ചയം:"
 
@@ -3124,57 +2712,46 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "ഉപയോഗിക്കുന്ന അക്ഷരസഞ്ചയം.</p></body></html>"
 
 #, fuzzy
-#~| msgid "&Open Map..."
 #~ msgid "Open..."
 #~ msgstr "ഭൂപടം &തുറക്കുക..."
 
 #, fuzzy
-#~| msgid "Kilometer, Meter"
 #~ msgid "FPS (frames per second)"
 #~ msgstr "കിലോമീറ്റര്‍, മീറ്റര്‍"
 
 #, fuzzy
-#~| msgid "&Cancel"
 #~ msgid "Cancel"
 #~ msgstr "&റദ്ദാക്കുക"
 
 #, fuzzy
-#~| msgid "State"
 #~ msgid "Start"
 #~ msgstr "സംസ്ഥാനം"
 
 #, fuzzy
-#~| msgid "&File"
 #~ msgid "&Folder Name"
 #~ msgstr "&ഫയല്‍"
 
 #, fuzzy
-#~| msgid "Current Location"
 #~ msgid "Current Relations"
 #~ msgstr "ഇപ്പോളെവിടെ"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgid "Name"
 #~ msgstr "പേരു്"
 
 #, fuzzy
-#~| msgid "&Add Place"
 #~ msgid "Add Relation"
 #~ msgstr "സ്ഥലം &ചേര്‍ക്കുക"
 
 #, fuzzy
-#~| msgid "Current Location"
 #~ msgid "Current Tags"
 #~ msgstr "ഇപ്പോളെവിടെ"
 
 #, fuzzy
-#~| msgid "&Stars"
 #~ msgid "Browse..."
 #~ msgstr "&നക്ഷത്രങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Position: %1"
 #~ msgid "Position:"
 #~ msgstr "സ്ഥാനം: %1"
 
@@ -3182,62 +2759,50 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മാര്‍ബിള്‍"
 
 #, fuzzy
-#~| msgid "Maps..."
 #~ msgid "Map"
 #~ msgstr "ഭൂപടങ്ങള്‍..."
 
 #, fuzzy
-#~| msgid "Other Place"
 #~ msgid "Outer Space"
 #~ msgstr "മറ്റു് സ്ഥലം"
 
 #, fuzzy
-#~| msgid "Bridge"
 #~ msgid "Route"
 #~ msgstr "പാലം"
 
 #, fuzzy
-#~| msgid "&File"
 #~ msgid "Footer"
 #~ msgstr "&ഫയല്‍"
 
 #, fuzzy
-#~| msgid "Marble Cache Settings"
 #~ msgid "Service Settings"
 #~ msgstr "മാര്‍ബിള്‍ കാഷ് സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "not available"
 #~ msgid "No configuration available"
 #~ msgstr "ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Configure"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "&Configure"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "&Theme"
 #~ msgid "&Remove"
 #~ msgstr "&പ്രമേയം"
 
 #, fuzzy
-#~| msgid "Water"
 #~ msgid "Car (fastest)"
 #~ msgstr "ജലം"
 
 #, fuzzy
-#~| msgid "Water"
 #~ msgid "Car (shortest)"
 #~ msgstr "ജലം"
 
 #, fuzzy
-#~| msgid "Position: %1"
 #~ msgid "Show Details"
 #~ msgstr "സ്ഥാനം: %1"
 
@@ -3245,20 +2810,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "നിഴല്‍"
 
 #, fuzzy
-#~| msgid "&Edit"
 #~ msgid "Night Map"
 #~ msgstr "&ചിട്ടപ്പെടുത്തുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -3288,15 +2843,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ഭൂപടം ഉണ്ടാക്കുന്നു"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style="
 #~ "\" white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
@@ -3329,27 +2875,22 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&റദ്ദാക്കുക"
 
 #, fuzzy
-#~| msgid "Zoom In"
 #~ msgid "Zoom"
 #~ msgstr "വലുതായിക്കാണുക"
 
 #, fuzzy
-#~| msgid "&Speed"
 #~ msgid "&Tile Level Range:"
 #~ msgstr "&വേഗത"
 
 #, fuzzy
-#~| msgid "Zoom In"
 #~ msgid "to"
 #~ msgstr "വലുതായിക്കാണുക"
 
 #, fuzzy
-#~| msgid "&Time"
 #~ msgid "Time"
 #~ msgstr "&സമയം"
 
 #, fuzzy
-#~| msgid "Current Location"
 #~ msgid "New Date Time      :"
 #~ msgstr "ഇപ്പോളെവിടെ"
 
@@ -3357,32 +2898,26 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ഉടന്‍"
 
 #, fuzzy
-#~| msgid "Current Location"
 #~ msgid "Current Date Time :"
 #~ msgstr "ഇപ്പോളെവിടെ"
 
 #, fuzzy
-#~| msgid "&Speed"
 #~ msgid "Time Speed"
 #~ msgstr "&വേഗത"
 
 #, fuzzy
-#~| msgid "&Close"
 #~ msgid "Close"
 #~ msgstr "&അടയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Track"
 #~ msgid "Save Tour"
 #~ msgstr "ട്രാക്ക്"
 
 #, fuzzy
-#~| msgid "Track"
 #~ msgid "Save Tour As"
 #~ msgstr "ട്രാക്ക്"
 
 #, fuzzy
-#~| msgid "Track"
 #~ msgid "Open Tour"
 #~ msgstr "ട്രാക്ക്"
 
@@ -3390,17 +2925,14 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "വേള്‍ഡ്ക്ലോക്ക് ആപ്ലെറ്റ് ക്രമീകരണം"
 
 #, fuzzy
-#~| msgid "Time Display"
 #~ msgid "Map Display"
 #~ msgstr "സമയം "
 
 #, fuzzy
-#~| msgid "Precipitation"
 #~ msgid "Projection:"
 #~ msgstr "മഴ"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Center map on longitude:"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
@@ -3408,191 +2940,150 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "തീയതി കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "&Speed"
 #~ msgid "Time Zones"
 #~ msgstr "&വേഗത"
 
 #, fuzzy
-#~| msgctxt "North, the direction"
-#~| msgid "N"
 #~ msgid "N"
 #~ msgstr "N"
 
 #, fuzzy
-#~| msgctxt "West, the direction"
-#~| msgid "W"
 #~ msgid "W"
 #~ msgstr "W"
 
 #, fuzzy
-#~| msgctxt "East, the direction"
-#~| msgid "E"
 #~ msgid "E"
 #~ msgstr "E"
 
 #, fuzzy
-#~| msgctxt "South, the direction"
-#~| msgid "S"
 #~ msgid "S"
 #~ msgstr "S"
 
 #, fuzzy
-#~| msgid "Transportation"
 #~ msgid "Rotation"
 #~ msgstr "ഗതാഗതം"
 
 #, fuzzy
-#~| msgid "&Add Place"
 #~ msgid "Add polygon"
 #~ msgstr "സ്ഥലം &ചേര്‍ക്കുക"
 
 #, fuzzy
-#~| msgid "Areas"
 #~ msgid "Area"
 #~ msgstr "സ്ഥലങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Time Display"
 #~ msgid "Display"
 #~ msgstr "സമയം "
 
 #, fuzzy
-#~| msgid "International"
 #~ msgid "Internet"
 #~ msgstr "അന്താരാഷ്ട്ര"
 
 #, fuzzy
-#~| msgid "Data Sheet"
 #~ msgid "APRS Data Sources"
 #~ msgstr "ഡേറ്റാ ഷീറ്റ്"
 
 #, fuzzy
-#~| msgid "P&ort:"
 #~ msgid "Port"
 #~ msgstr "&പോര്‍ട്ട്:"
 
 #, fuzzy
-#~| msgid "&File"
 #~ msgid "File"
 #~ msgstr "&ഫയല്‍"
 
 #, fuzzy
-#~| msgid "&Theme"
 #~ msgid "Theme"
 #~ msgstr "&പ്രമേയം"
 
 #, fuzzy
-#~| msgid "&Stars"
 #~ msgid "Arrows"
 #~ msgstr "&നക്ഷത്രങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Zoom In"
 #~ msgid "Atom"
 #~ msgstr "വലുതായിക്കാണുക"
 
 #, fuzzy
-#~| msgid "&File"
 #~ msgid "Filter"
 #~ msgstr "&ഫയല്‍"
 
 #, fuzzy
-#~| msgid "&Speed"
 #~ msgid "Time Range"
 #~ msgstr "&വേഗത"
 
 #, fuzzy
-#~| msgid "&Settings"
 #~ msgid "&Settings..."
 #~ msgstr "&സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Satellites"
 #~ msgid "&Go To Selected Eclipse"
 #~ msgstr "ഉപഗ്രഹങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "not available"
 #~ msgid "Eclipses Configuration"
 #~ msgstr "ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "&Theme"
 #~ msgid "&Reminder"
 #~ msgstr "&പ്രമേയം"
 
 #, fuzzy
-#~| msgid "not available"
 #~ msgid "Configure Elevation Profile Plugin"
 #~ msgstr "ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "&Speed"
 #~ msgid "Speed"
 #~ msgstr "&വേഗത"
 
 #, fuzzy
-#~| msgid "Precipitation"
 #~ msgid "Direction"
 #~ msgstr "മഴ"
 
 #, fuzzy
-#~| msgid "Altitude: %1"
 #~ msgid "Altitude"
 #~ msgstr "ആള്‍ട്ടിട്യൂഡ്: %1"
 
 #, fuzzy
-#~| msgid "Precipitation"
 #~ msgid "Precision"
 #~ msgstr "മഴ"
 
 #, fuzzy
-#~| msgid "Clouds"
 #~ msgid "C&olors"
 #~ msgstr "മേഘങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Show places"
 #~ msgid "&Numerical Labels"
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show places"
 #~ msgid "Show numerical Labels."
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Nation"
 #~ msgid "Show Ratio Scale"
 #~ msgstr "രാജ്യം"
 
 #, fuzzy
-#~| msgid "Marble - Desktop Globe"
 #~ msgid "Marble - Measure Tool Configuration"
 #~ msgstr "മാര്‍ബിള്‍ - ഡസ്ക്ടോപ്പ് ഗ്ലോബ്"
 
 #, fuzzy
-#~| msgid "&Distance:"
 #~ msgid "Distance "
 #~ msgstr "&ദൂരം:"
 
 #, fuzzy
-#~| msgid "Cemetery"
 #~ msgid "Perimeter"
 #~ msgstr "ശവക്കോട്ട"
 
 #, fuzzy
-#~| msgid "&Place names:"
 #~ msgid "Cache name:"
 #~ msgstr "&സ്ഥലപേരുകള്‍:"
 
 #, fuzzy
-#~| msgid "&Place names:"
 #~ msgid "User name:"
 #~ msgstr "&സ്ഥലപേരുകള്‍:"
 
 #, fuzzy
-#~| msgid "State"
 #~ msgid "Status:"
 #~ msgstr "സംസ്ഥാനം"
 
@@ -3600,97 +3091,78 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "രാജ്യം:"
 
 #, fuzzy
-#~| msgid "L&ongitude"
 #~ msgid "Longitude:"
 #~ msgstr "&ലോങ്റ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "&Latitude"
 #~ msgid "Latitude:"
 #~ msgstr "&ലാറ്റിട്യൂഡ്"
 
 #, fuzzy
-#~| msgid "&Time"
 #~ msgid "Date hidden:"
 #~ msgstr "&സമയം"
 
 #, fuzzy
-#~| msgid "&Distance:"
 #~ msgid "Maximum difficulty:"
 #~ msgstr "&ദൂരം:"
 
 #, fuzzy
-#~| msgid "&Distance:"
 #~ msgid "Maximum Distance:"
 #~ msgstr "&ദൂരം:"
 
 #, fuzzy
-#~| msgid "State"
 #~ msgid "Start:"
 #~ msgstr "സംസ്ഥാനം"
 
 #, fuzzy
-#~| msgid "Marble - Desktop Globe"
 #~ msgid "Marble - OpenDesktop plugin configuration"
 #~ msgstr "മാര്‍ബിള്‍ - ഡസ്ക്ടോപ്പ് ഗ്ലോബ്"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgid "Map &Image"
 #~ msgstr "പേരു്"
 
 #, fuzzy
-#~| msgid "&Place names:"
 #~ msgid "&Planet:"
 #~ msgstr "&സ്ഥലപേരുകള്‍:"
 
 #, fuzzy
-#~| msgid "1x"
 #~ msgid "x"
 #~ msgstr "1x"
 
 #, fuzzy
-#~| msgid "Creating Map"
 #~ msgid "Preview"
 #~ msgstr "ഭൂപടം ഉണ്ടാക്കുന്നു"
 
 #, fuzzy
-#~| msgid "&File"
 #~ msgid "Filename"
 #~ msgstr "&ഫയല്‍"
 
 #, fuzzy
-#~| msgid "Track"
 #~ msgid "Trail"
 #~ msgstr "ട്രാക്ക്"
 
 #, fuzzy
-#~| msgid "Track"
 #~ msgid "Trail:"
 #~ msgstr "ട്രാക്ക്"
 
 #, fuzzy
-#~| msgid "not available"
 #~ msgid "Routing Configuration - Marble"
 #~ msgstr "ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Zoom Out"
 #~ msgid "zoom out"
 #~ msgstr "ചെറുതായിക്കാണുക"
 
 #, fuzzy
-#~| msgid "Zoom In"
 #~ msgid "zoom in"
 #~ msgstr "വലുതായിക്കാണുക"
 
 #, fuzzy
-#~| msgid "Total Distance: %1 m"
 #~ msgid "total time remaining"
 #~ msgstr "മൊത്ത ദൂരം: %1 മി"
 
 #, fuzzy
-#~| msgid "not available"
 #~ msgid "Satellites Configuration - Marble"
 #~ msgstr "ലഭ്യമല്ല"
 
@@ -3698,85 +3170,62 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&ഉപഗ്രഹങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Data Sheet"
 #~ msgid "&Data Sources"
 #~ msgstr "ഡേറ്റാ ഷീറ്റ്"
 
 #, fuzzy
-#~| msgid "Data Sheet"
 #~ msgid "&Reload All Data Sources"
 #~ msgstr "ഡേറ്റാ ഷീറ്റ്"
 
 #, fuzzy
-#~| msgid "Data Sheet"
 #~ msgid "Satellite Data Sources:"
 #~ msgstr "ഡേറ്റാ ഷീറ്റ്"
 
 #, fuzzy
-#~| msgid "&Test Plugin"
 #~ msgid "&Activate Plugin"
 #~ msgstr "&പ്ലഗിന്‍ പരീക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgid "S&un"
 #~ msgid "Sun"
 #~ msgstr "&സൂര്യന്‍"
 
 #, fuzzy
-#~| msgid "&Earth"
 #~ msgid "Earth"
 #~ msgstr "&ഭൂമി"
 
 #, fuzzy
-#~| msgid "&Place names:"
 #~ msgid "Use name labels"
 #~ msgstr "&സ്ഥലപേരുകള്‍:"
 
 #, fuzzy
-#~| msgid "Other Place"
 #~ msgid "Other"
 #~ msgstr "മറ്റു് സ്ഥലം"
 
 #, fuzzy
-#~| msgid "International"
 #~ msgid "Constellations"
 #~ msgstr "അന്താരാഷ്ട്ര"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgid "Names"
 #~ msgstr "പേരു്"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgid "Latin Name"
 #~ msgstr "പേരു്"
 
 #, fuzzy
-#~| msgid "Transportation"
 #~ msgid "Native Translation"
 #~ msgstr "ഗതാഗതം"
 
 #, fuzzy
-#~| msgid "Precipitation"
 #~ msgid "Abbreviation"
 #~ msgstr "മഴ"
 
 #, fuzzy
-#~| msgid "International"
 #~ msgid "Information"
 #~ msgstr "അന്താരാഷ്ട്ര"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
@@ -3797,20 +3246,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "ഉപയോഗിക്കുന്ന അക്ഷരസഞ്ചയം.</p></body></html>"
 
 #, fuzzy
-#~| msgid "Water Bodies"
 #~ msgid "Weather condition"
 #~ msgstr "ജലാശയങ്ങള്‍"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
@@ -3833,15 +3272,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "താപനില"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
@@ -3861,20 +3291,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "ഉപയോഗിക്കുന്ന അക്ഷരസഞ്ചയം.</p></body></html>"
 
 #, fuzzy
-#~| msgid "Precipitation"
 #~ msgid "Wind direction"
 #~ msgstr "മഴ"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
@@ -3894,20 +3314,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "ഉപയോഗിക്കുന്ന അക്ഷരസഞ്ചയം.</p></body></html>"
 
 #, fuzzy
-#~| msgid "&Speed"
 #~ msgid "Wind speed"
 #~ msgstr "&വേഗത"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
@@ -3926,20 +3336,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "ഉപയോഗിക്കുന്ന അക്ഷരസഞ്ചയം.</p></body></html>"
 
 #, fuzzy
-#~| msgid "Clouds"
 #~ msgid "Celsius"
 #~ msgstr "മേഘങ്ങള്‍"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
@@ -3958,30 +3358,18 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "ഉപയോഗിക്കുന്ന അക്ഷരസഞ്ചയം.</p></body></html>"
 
 #, fuzzy
-#~| msgid "Kilometer, Meter"
 #~ msgid "Kilometers per hour"
 #~ msgstr "കിലോമീറ്റര്‍, മീറ്റര്‍"
 
 #, fuzzy
-#~| msgid "Kilometer, Meter"
 #~ msgid "Miles per hour"
 #~ msgstr "കിലോമീറ്റര്‍, മീറ്റര്‍"
 
 #, fuzzy
-#~| msgid "Kilometer, Meter"
 #~ msgid "Meters per second"
 #~ msgstr "കിലോമീറ്റര്‍, മീറ്റര്‍"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">The default font that "
-#~| "gets used on the map.</p></body></html>"
 #~ msgid ""
 #~ "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
 #~ "css\">\\np, li { white-space: pre-wrap; }\\n</style></head><body style=\" "
@@ -4000,62 +3388,50 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "ഉപയോഗിക്കുന്ന അക്ഷരസഞ്ചയം.</p></body></html>"
 
 #, fuzzy
-#~| msgid "&Stars"
 #~ msgid "Bars"
 #~ msgstr "&നക്ഷത്രങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Kilometer, Meter"
 #~ msgid "Millimeters of Mercury"
 #~ msgstr "കിലോമീറ്റര്‍, മീറ്റര്‍"
 
 #, fuzzy
-#~| msgid "Kilometer, Meter"
 #~ msgid "Inches of Mercury"
 #~ msgstr "കിലോമീറ്റര്‍, മീറ്റര്‍"
 
 #, fuzzy
-#~| msgid "Water Bodies"
 #~ msgid "Weather update interval"
 #~ msgstr "ജലാശയങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Show places"
 #~ msgid "Show thumbnail images"
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "&Proxy"
 #~ msgid "Route type:"
 #~ msgstr "&പ്രോക്സി"
 
 #, fuzzy
-#~| msgid "&Speed"
 #~ msgid "Speed:"
 #~ msgstr "&വേഗത"
 
 #, fuzzy
-#~| msgid "Motorway"
 #~ msgid "Avoid motorways"
 #~ msgstr "റോഡ് ഗതാഗതം"
 
 #, fuzzy
-#~| msgid "Motorway"
 #~ msgid "Avoid tollways"
 #~ msgstr "റോഡ് ഗതാഗതം"
 
 #, fuzzy
-#~| msgid "not available"
 #~ msgid "Monav Configuration"
 #~ msgstr "ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Transportation"
 #~ msgid "Transport Type:"
 #~ msgstr "ഗതാഗതം"
 
 #, fuzzy
-#~| msgid "Creating Map"
 #~ msgid "Manage Maps"
 #~ msgstr "ഭൂപടം ഉണ്ടാക്കുന്നു"
 
@@ -4066,52 +3442,42 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "രാജ്യം"
 
 #, fuzzy
-#~| msgid "Download finished."
 #~ msgid "Download Variant"
 #~ msgstr "ഡൌണ്‍ലോട് പൂര്‍ത്തിയായിരിക്കുന്നു."
 
 #, fuzzy
-#~| msgid "&About"
 #~ msgid "Abort"
 #~ msgstr "&സംബന്ധിച്ചുള്ളതു്"
 
 #, fuzzy
-#~| msgid "Transportation"
 #~ msgid "Transport:"
 #~ msgstr "ഗതാഗതം"
 
 #, fuzzy
-#~| msgid "Forest"
 #~ msgid "Fastest"
 #~ msgstr "കാട്"
 
 #, fuzzy
-#~| msgid "Forest"
 #~ msgid "Shortest"
 #~ msgstr "കാട്"
 
 #, fuzzy
-#~| msgid "Show Home Location"
 #~ msgid "Navigate to your 'Home Location'"
 #~ msgstr "ആസ്ഥാനം കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Forest"
 #~ msgid "Form"
 #~ msgstr "കാട്"
 
 #, fuzzy
-#~| msgid "&Url:"
 #~ msgid "Url:"
 #~ msgstr "&യുആര്‍എല്‍:"
 
 #, fuzzy
-#~| msgid "&Add Place"
 #~ msgid "Add SoundCue"
 #~ msgstr "സ്ഥലം &ചേര്‍ക്കുക"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgid "&Name"
 #~ msgstr "പേരു്"
 
@@ -4119,82 +3485,67 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ഭൂമി"
 
 #, fuzzy
-#~| msgid "Area:"
 #~ msgid "Ara"
 #~ msgstr "സ്ഥലം:"
 
 #, fuzzy
-#~| msgid "&Cancel"
 #~ msgid "Cancer"
 #~ msgstr "&റദ്ദാക്കുക"
 
 #, fuzzy
-#~| msgid "&Center"
 #~ msgid "Centaurus"
 #~ msgstr "&മധ്യഭാഗം"
 
 #, fuzzy
-#~| msgid "Water"
 #~ msgid "Crater"
 #~ msgstr "ജലം"
 
 #, fuzzy
-#~| msgid "Normal"
 #~ msgid "Norma"
 #~ msgstr "സാധാരണ"
 
 #, fuzzy
-#~| msgid "International"
 #~ msgid "Constellation Labels"
 #~ msgstr "അന്താരാഷ്ട്ര"
 
 #, fuzzy
-#~| msgid "International"
 #~ msgid "Constellation Names"
 #~ msgstr "അന്താരാഷ്ട്ര"
 
 #, fuzzy
-#~| msgid "&Open Map..."
 #~ msgid "Open"
 #~ msgstr "ഭൂപടം &തുറക്കുക..."
 
 #, fuzzy
-#~| msgid "&Atmosphere"
 #~ msgctxt "Action for toggling the atmosphere"
 #~ msgid "&Atmosphere"
 #~ msgstr "&അന്തരീക്ഷം"
 
 #, fuzzy
-#~| msgid "Current Location"
 #~ msgctxt "Action for toggling the 'current location' box"
 #~ msgid "Current Location"
 #~ msgstr "ഇപ്പോളെവിടെ"
 
 #, fuzzy
-#~| msgid "Nation"
 #~ msgctxt "Action for toggling the navigation panel"
 #~ msgid "Show &Navigation Panel"
 #~ msgstr "രാജ്യം"
 
 #, fuzzy
-#~| msgid "Nation"
 #~ msgctxt "Status tip"
 #~ msgid "Show Navigation Panel"
 #~ msgstr "രാജ്യം"
 
 #, fuzzy
-#~| msgid "Show places"
 #~ msgctxt "Action for showing the File View"
 #~ msgid "&Show File View"
 #~ msgstr "സ്ഥലങ്ങള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "&Hide"
 #~ msgid "Guides"
 #~ msgstr "&അദൃശ്യമാക്കുക"
 
 #, fuzzy
-#~| msgid "Test Plugin"
 #~ msgid "Name Ids of plugins."
 #~ msgstr "പ്ലഗിന്‍ പരീക്ഷിക്കുക"
 
@@ -4236,29 +3587,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മറ്റൊരു പേരു്"
 
 #, fuzzy
-#~| msgid "Short Description:"
 #~ msgid "Short description:"
 #~ msgstr "ലഘുവിവരണം:"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-#~| "\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">(c) 2007, The Marble "
-#~| "Project</p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-style:italic;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">http://edu.kde.org/"
-#~| "marble</p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -4316,7 +3648,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "0.0 sq കിമി"
 
 #, fuzzy
-#~| msgid "State"
 #~ msgid "State:"
 #~ msgstr "സംസ്ഥാനം"
 
@@ -4330,30 +3661,22 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "താള്‍ പ്രിന്റ് ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Sh&ow"
 #~ msgid "Show"
 #~ msgstr "&കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "&Hide"
 #~ msgid "Hide"
 #~ msgstr "&അദൃശ്യമാക്കുക"
 
 #, fuzzy
-#~| msgid "Show date"
 #~ msgid "Show Zenith"
 #~ msgstr "തീയതി കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show a detailed explanation of the action."
 #~ msgid "Shows and hides the zenith location of the sun"
 #~ msgstr "ചെയ്ത പ്രവര്‍ത്തിയുടെ വിശദീകരണം കാണിക്കുക."
 
 #, fuzzy
-#~| msgid ""
-#~| "*.gpx *.kml|All Supported Files\n"
-#~| "*.gpx|GPS Data\n"
-#~| "*.kml|Google Earth KML"
 #~ msgid ""
 #~ "*.gpx *.kml *.log *.osm *.pnt|All Supported Files\n"
 #~ "*.gpx|GPS Data\n"
@@ -4376,49 +3699,26 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "നിലവിലെവിടെന്നു് കാണിക്കുന്നതിനായി ടാബ് സജ്ജമാക്കുക"
 
 #, fuzzy
-#~| msgid "Short Description:"
 #~ msgid "Show or hide routing options"
 #~ msgstr "ലഘുവിവരണം:"
 
 #, fuzzy
-#~| msgid "&Search"
 #~ msgid "Search..."
 #~ msgstr "&തെരയുക"
 
 #, fuzzy
-#~| msgid "(c) 2007"
 #~ msgid "(c) 2007, 2008, 2009, 2010"
 #~ msgstr "(c) 2007"
 
 #, fuzzy
-#~| msgid "The format to display the time in"
 #~ msgid "Image format of the tiles."
 #~ msgstr "സമയം കാണിക്കേണ്ട രീതി"
 
 #, fuzzy
-#~| msgid "&Center"
 #~ msgid "Re-center"
 #~ msgstr "&മധ്യഭാഗം"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-#~| "\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">(c) 2007, The Marble "
-#~| "Project</p>\n"
-#~| "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-#~| "margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
-#~| "font-style:italic;\"></p>\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\">http://edu.kde.org/"
-#~| "marble</p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -4470,25 +3770,14 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "marble</p></body></html>"
 
 #, fuzzy
-#~| msgid "Open File"
 #~ msgid "Open File..."
 #~ msgstr "ഫയല്‍ തുറക്കുക"
 
 #, fuzzy
-#~| msgid "Bridge"
 #~ msgid "RoutingWidget"
 #~ msgstr "പാലം"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -4511,20 +3800,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "weight:600;\">മാര്‍ബിള്‍ ഡസ്ക്ടോപ്പ് ഗ്ലോബ്</span></p></body></html>"
 
 #, fuzzy
-#~| msgid "Bridge"
 #~ msgid "Routing Widget"
 #~ msgstr "പാലം"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -4552,15 +3831,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "weight:600;\">മാര്‍ബിള്‍ ഡസ്ക്ടോപ്പ് ഗ്ലോബ്</span></p></body></html>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -4585,20 +3855,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "weight:600;\">മാര്‍ബിള്‍ ഡസ്ക്ടോപ്പ് ഗ്ലോബ്</span></p></body></html>"
 
 #, fuzzy
-#~| msgid "High Quality"
 #~ msgid "Highways"
 #~ msgstr "ഉയര്‍ന്ന നിലവാരം"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/"
-#~| "css\">\n"
-#~| "p, li { white-space: pre-wrap; }\n"
-#~| "</style></head><body style=\" font-family:'Sans Serif'; font-size:9pt; "
-#~| "font-weight:400; font-style:normal; text-decoration:none;\">\n"
-#~| "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-#~| "right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-#~| "weight:600;\">Marble Desktop Globe</span></p></body></html>"
 #~ msgid ""
 #~ "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
 #~ "REC-html40/strict.dtd\">\n"
@@ -4626,12 +3886,10 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "weight:600;\">മാര്‍ബിള്‍ ഡസ്ക്ടോപ്പ് ഗ്ലോബ്</span></p></body></html>"
 
 #, fuzzy
-#~| msgid "Water"
 #~ msgid "Meters"
 #~ msgstr "ജലം"
 
 #, fuzzy
-#~| msgid "&Distance:"
 #~ msgid "Distance Covered"
 #~ msgstr "&ദൂരം:"
 
@@ -4677,27 +3935,22 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ "p></body></html>"
 
 #, fuzzy
-#~| msgid "Current Location"
 #~ msgid "Your current position"
 #~ msgstr "ഇപ്പോളെവിടെ"
 
 #, fuzzy
-#~| msgid "1000000"
 #~ msgid "+00°00'00\" E"
 #~ msgstr "1000000"
 
 #, fuzzy
-#~| msgid "1000000"
 #~ msgid "+00°00'00\" N"
 #~ msgstr "1000000"
 
 #, fuzzy
-#~| msgid "7000 m"
 #~ msgid "000 m"
 #~ msgstr "7000 മി"
 
 #, fuzzy
-#~| msgid "Up"
 #~ msgid "p"
 #~ msgstr "മുകളിലേക്കു്"
 
@@ -4774,13 +4027,11 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മൊത്ത ദൂരം: %1 കിമി"
 
 #, fuzzy
-#~| msgid "&Earth"
 #~ msgctxt "The compass direction"
 #~ msgid "East"
 #~ msgstr "&ഭൂമി"
 
 #, fuzzy
-#~| msgid "Forest"
 #~ msgctxt "The compass direction"
 #~ msgid "West"
 #~ msgstr "കാട്"
@@ -4798,7 +4049,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ഇതൊരു GPX 1.0 / 1.1 ഫയലല്ല"
 
 #, fuzzy
-#~| msgid "The file is not a valid KML 2.0 / 2.1 file"
 #~ msgid "The file is not a valid KML 2.0 / 2.1 / 2.2 file"
 #~ msgstr "ഇതൊരു KML 2.0 / 2.1 ഫയലല്ല"
 
@@ -4806,9 +4056,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "പതിപ്പു് %1"
 
 #, fuzzy
-#~| msgid ""
-#~| "<br />(c) 2007, 2008, The Marble Project<br /><br /><a href=\"http://edu."
-#~| "kde.org/marble\">http://edu.kde.org/marble</a>"
 #~ msgid ""
 #~ "<br />(c) 2007, 2008, The Marble Project<br /><br /><a href=\"http://edu."
 #~ "kde.org/marble\">http://edu.kde.org/marble</a>"
@@ -4929,7 +4176,6 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "&കോംപസ്"
 
 #, fuzzy
-#~| msgid "Test Plugin"
 #~ msgid "DataView Plugin"
 #~ msgstr "പ്ലഗിന്‍ പരീക്ഷിക്കുക"
 
@@ -4937,27 +4183,22 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "മി"
 
 #, fuzzy
-#~| msgid "Test Plugin"
 #~ msgid "GeoData Plugin"
 #~ msgstr "പ്ലഗിന്‍ പരീക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgid "&Test Plugin"
 #~ msgid "&GeoData Plugin"
 #~ msgstr "&പ്ലഗിന്‍ പരീക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgid "Temperature"
 #~ msgid "FITemplate"
 #~ msgstr "താപനില"
 
 #, fuzzy
-#~| msgid "Test Plugin"
 #~ msgid "Placemarks Plugin"
 #~ msgstr "പ്ലഗിന്‍ പരീക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgid "&Test Plugin"
 #~ msgid "&Placemarks Plugin"
 #~ msgstr "&പ്ലഗിന്‍ പരീക്ഷിക്കുക"
 
@@ -4994,25 +4235,21 @@ msgstr "പ്രധാന ഉപകരണപട്ട"
 #~ msgstr "ഭൂപടത്തിന്റെ മധ്യമാകുന്ന ലോങ്റ്റിട്യൂഡ് നിങ്ങള്‍ക്കിവിടെ തിരഞ്ഞെടുക്കാം."
 
 #, fuzzy
-#~| msgid "N"
 #~ msgctxt "one-letter uppercase abbreviation for North"
 #~ msgid "N"
 #~ msgstr "N"
 
 #, fuzzy
-#~| msgid "E"
 #~ msgctxt "one-letter uppercase abbreviation for East"
 #~ msgid "E"
 #~ msgstr "E"
 
 #, fuzzy
-#~| msgid "S"
 #~ msgctxt "one-letter uppercase abbreviation for South"
 #~ msgid "S"
 #~ msgstr "S"
 
 #, fuzzy
-#~| msgid "W"
 #~ msgctxt "one-letter uppercase abbreviation for West"
 #~ msgid "W"
 #~ msgstr "W"
