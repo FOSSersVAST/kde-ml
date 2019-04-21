@@ -1,0 +1,811 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the spectacle package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: spectacle\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2019-04-13 03:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: src/ExportManager.cpp:297
+#, kde-format
+msgid "QImageWriter cannot write image: %1"
+msgstr ""
+
+#: src/ExportManager.cpp:312
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Cannot save screenshot because creating the directory failed:<nl/><filename>"
+"%1</filename>"
+msgstr ""
+
+#: src/ExportManager.cpp:322
+#, kde-format
+msgid "Cannot save screenshot. Error while writing file."
+msgstr ""
+
+#: src/ExportManager.cpp:343
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"Cannot save screenshot because creating the remote directory failed:<nl/"
+"><filename>%1</filename>"
+msgstr ""
+
+#: src/ExportManager.cpp:354 src/ExportManager.cpp:403
+#, kde-format
+msgid "Cannot save screenshot. Error while writing temporary local file."
+msgstr ""
+
+#: src/ExportManager.cpp:362
+#, kde-format
+msgid "Unable to save image. Could not upload file to remote location."
+msgstr ""
+
+#: src/ExportManager.cpp:410
+#, kde-format
+msgid "Cannot save screenshot. The save filename is invalid."
+msgstr ""
+
+#: src/ExportManager.cpp:443
+#, kde-format
+msgid "Cannot save an empty screenshot image."
+msgstr ""
+
+#: src/ExportManager.cpp:519
+#, kde-format
+msgid "Printing failed. The printer failed to initialize."
+msgstr ""
+
+#: src/ExportManager.cpp:539
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Year (4 digit)"
+msgstr ""
+
+#: src/ExportManager.cpp:542
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Year (2 digit)"
+msgstr ""
+
+#: src/ExportManager.cpp:545
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Month"
+msgstr ""
+
+#: src/ExportManager.cpp:548
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Day"
+msgstr ""
+
+#: src/ExportManager.cpp:551
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Hour"
+msgstr ""
+
+#: src/ExportManager.cpp:554
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Minute"
+msgstr ""
+
+#: src/ExportManager.cpp:557
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Second"
+msgstr ""
+
+#: src/ExportManager.cpp:560
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Window Title"
+msgstr ""
+
+#: src/ExportManager.cpp:563
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Sequential numbering"
+msgstr ""
+
+#: src/ExportManager.cpp:566
+#, kde-format
+msgctxt ""
+"A placeholder in the user configurable filename will replaced by the "
+"specified value"
+msgid "Sequential numbering, padded out to N digits"
+msgstr ""
+
+#: src/Gui/ExportMenu.cpp:54
+#, kde-format
+msgid "More Online Services"
+msgstr ""
+
+#: src/Gui/ExportMenu.cpp:55
+#, kde-format
+msgid "Please wait..."
+msgstr ""
+
+#: src/Gui/ExportMenu.cpp:102
+#, kde-format
+msgid "Other Application"
+msgstr ""
+
+#: src/Gui/ExportMenu.cpp:143
+#, kde-format
+msgid "KIPI plugin from library %1 failed to load"
+msgstr ""
+
+#: src/Gui/ExportMenu.cpp:168
+#, kde-format
+msgid "No KIPI plugins available"
+msgstr ""
+
+#: src/Gui/ExportMenu.cpp:178
+#, kde-format
+msgid "Share"
+msgstr ""
+
+#: src/Gui/KSImageWidget.cpp:41
+#, kde-format
+msgid "Image Size: %1x%2 pixels"
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:138
+#, kde-format
+msgid "Configure..."
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:139
+#, kde-format
+msgid "Change Spectacle's settings."
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:143
+#, kde-format
+msgid "Tools"
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:149
+#, kde-format
+msgid "Export"
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:154
+#, kde-format
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:155
+#, kde-format
+msgid "Copy the current screenshot image to the clipboard."
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:170
+#, kde-format
+msgid "Open Screenshots Folder"
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:173
+#, kde-format
+msgid "Record Screen"
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:247
+#, kde-format
+msgid "Save As..."
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:282
+#, kde-format
+msgctxt "@title:window Unsaved Screenshot"
+msgid "Unsaved[*]"
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:377
+#, kde-format
+msgid "There was a problem sharing the image: %1"
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:381
+#, kde-format
+msgid "Image shared"
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:383
+#, kde-format
+msgid ""
+"The shared image link (<a href=\"%1\">%1</a>) has been copied to the "
+"clipboard."
+msgstr ""
+
+#: src/Gui/KSMainWindow.cpp:397
+#, kde-format
+msgid "The screenshot has been copied to the clipboard."
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:54
+#, kde-format
+msgid "<b>Capture Mode</b>"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:58
+#, kde-format
+msgid "Full Screen"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:59
+#, kde-format
+msgid "Full Screen (All Monitors)"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:64
+#, kde-format
+msgid "Current Screen"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:66
+#, kde-format
+msgid "Active Window"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:68
+#, kde-format
+msgid "Window Under Cursor"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:70 src/Gui/SettingsDialog/GeneralOptionsPage.cpp:62
+#, kde-format
+msgid "Rectangular Region"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:79
+#, kde-format
+msgid "No Delay"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:84
+#, kde-format
+msgid "On Click"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:85
+#, kde-format
+msgid "Wait for a mouse click before capturing the screenshot image"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:94
+#, kde-format
+msgid "Area:"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:95
+#, kde-format
+msgid "Delay:"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:101
+#, kde-format
+msgid "<b>Options</b>"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:103
+#, kde-format
+msgid "Include mouse pointer"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:104
+#, kde-format
+msgid "Show the mouse cursor in the screenshot image"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:107
+#, kde-format
+msgid "Include window titlebar and borders"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:108
+#, kde-format
+msgid ""
+"Show the window title bar, the minimize/maximize/close buttons, and the "
+"window border"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:112
+#, kde-format
+msgid "Capture the current pop-up only"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:113
+#, kde-format
+msgid ""
+"Capture only the current pop-up window (like a menu, tooltip etc).\n"
+"If disabled, the pop-up is captured along with the parent window"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:118
+#, kde-format
+msgid "Quit after Save or Copy"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:119
+#, kde-format
+msgid "Quit Spectacle after saving or copying the image"
+msgstr ""
+
+#: src/Gui/KSWidget.cpp:131
+#, kde-format
+msgid "Take a New Screenshot"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:41
+#, kde-format
+msgid "When Spectacle is Running"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:44
+#, kde-format
+msgid "Take a new screenshot"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:45
+#, kde-format
+msgid "Open a new Spectacle window"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:51
+#, kde-format
+msgid "Press screenshot key to:"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:55
+#, kde-format
+msgid "Return focus to Spectacle"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:67
+#, kde-format
+msgid "Use light background"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:69
+#, kde-format
+msgid "General:"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:72
+#, kde-format
+msgid "Show magnifier"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:77
+#, kde-format
+msgid "Accept on click-and-release"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:86
+#, kde-format
+msgid "Never"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:87
+#, kde-format
+msgid "Always"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:88
+#, kde-format
+msgid "Until Spectacle is closed"
+msgstr ""
+
+#: src/Gui/SettingsDialog/GeneralOptionsPage.cpp:94
+#, kde-format
+msgid "Remember selected area:"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SaveOptionsPage.cpp:47
+#, kde-format
+msgid "Save Location:"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SaveOptionsPage.cpp:50
+#, kde-format
+msgid "Copy file location to clipboard after saving"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SaveOptionsPage.cpp:84
+#, kde-format
+msgid "Choose the image quality when saving with lossy image formats like JPEG"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SaveOptionsPage.cpp:88
+#, kde-format
+msgid "Compression Quality:"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SaveOptionsPage.cpp:123
+#, kde-format
+msgid "Filename:"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SaveOptionsPage.cpp:126
+#, kde-format
+msgctxt "Preview of the user configured filename"
+msgid "Preview:"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SaveOptionsPage.cpp:129
+#, kde-format
+msgid ""
+"You can use the following placeholders in the filename, which will be "
+"replaced with actual text when the file is saved:<blockquote>"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SaveOptionsPage.cpp:137
+#, kde-format
+msgid "To save to a sub-folder"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SaveOptionsPage.cpp:217
+#, kde-kuit-format
+msgctxt "@info"
+msgid "<filename>%1.%2</filename>"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:34
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:44
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:45
+#, kde-format
+msgid "General"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:50
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:51
+#, kde-format
+msgid "Save"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:77
+#, kde-format
+msgid "Apply Unsaved Changes"
+msgstr ""
+
+#: src/Gui/SettingsDialog/SettingsDialog.cpp:78
+#, kde-format
+msgid ""
+"You have made changes to the settings in this tab. Do you want to apply "
+"those changes?"
+msgstr ""
+
+#: src/Gui/SmartSpinBox.cpp:44
+#, kde-format
+msgctxt "Integer number of seconds"
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/Gui/SmartSpinBox.cpp:46
+#, kde-format
+msgctxt "Decimal number of seconds"
+msgid " seconds"
+msgstr ""
+
+#: src/KipiInterface/KSGKipiImageCollectionSelector.cpp:35
+#, kde-format
+msgctxt "%1 is collection name, %2 is image count in collection"
+msgid "%1 (%2 image)"
+msgid_plural "%1 (%2 images)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/KipiInterface/KSGKipiInfoShared.cpp:39
+#, kde-format
+msgid "Taken with Spectacle"
+msgstr ""
+
+#: src/Main.cpp:43
+#, kde-format
+msgid "Spectacle"
+msgstr ""
+
+#: src/Main.cpp:45
+#, kde-format
+msgid "KDE Screenshot Utility"
+msgstr ""
+
+#: src/Main.cpp:47
+#, kde-format
+msgid "(C) 2015 Boudhayan Gupta"
+msgstr ""
+
+#: src/Main.cpp:49
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: src/Main.cpp:49
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: src/Main.cpp:59
+#, kde-format
+msgid "Capture the entire desktop (default)"
+msgstr ""
+
+#: src/Main.cpp:60
+#, kde-format
+msgid "Capture the current monitor"
+msgstr ""
+
+#: src/Main.cpp:61
+#, kde-format
+msgid "Capture the active window"
+msgstr ""
+
+#: src/Main.cpp:62
+#, kde-format
+msgid ""
+"Capture the window currently under the cursor, including parents of pop-up "
+"menus"
+msgstr ""
+
+#: src/Main.cpp:63
+#, kde-format
+msgid ""
+"Capture the window currently under the cursor, excluding parents of pop-up "
+"menus"
+msgstr ""
+
+#: src/Main.cpp:64
+#, kde-format
+msgid "Capture a rectangular region of the screen"
+msgstr ""
+
+#: src/Main.cpp:65
+#, kde-format
+msgid "Start in GUI mode (default)"
+msgstr ""
+
+#: src/Main.cpp:66
+#, kde-format
+msgid "Take a screenshot and exit without showing the GUI"
+msgstr ""
+
+#: src/Main.cpp:67
+#, kde-format
+msgid "Start in DBus-Activation mode"
+msgstr ""
+
+#: src/Main.cpp:68
+#, kde-format
+msgid ""
+"In background mode, do not pop up a notification when the screenshot is taken"
+msgstr ""
+
+#: src/Main.cpp:69
+#, kde-format
+msgid "In background mode, save image to specified file"
+msgstr ""
+
+#: src/Main.cpp:70
+#, kde-format
+msgid "In background mode, delay before taking the shot (in milliseconds)"
+msgstr ""
+
+#: src/Main.cpp:71
+#, kde-format
+msgid "In background mode, copy screenshot to clipboard"
+msgstr ""
+
+#: src/Main.cpp:72
+#, kde-format
+msgid "Wait for a click before taking screenshot. Invalidates delay"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:59
+#, kde-format
+msgid ""
+"Click and drag to draw a selection rectangle,\n"
+"or press Esc to quit"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:525
+#, kde-format
+msgctxt "Mouse action"
+msgid "Click and drag,"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:525
+#, kde-format
+msgid " "
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:526 src/QuickEditor/QuickEditor.cpp:554
+#, kde-format
+msgctxt "Keyboard/mouse action"
+msgid "Enter, double-click:"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:527 src/QuickEditor/QuickEditor.cpp:555
+#, kde-format
+msgid "Take screenshot"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:528 src/QuickEditor/QuickEditor.cpp:545
+#: src/QuickEditor/QuickEditor.cpp:556
+#, kde-format
+msgctxt "Keyboard action"
+msgid "Shift:"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:529 src/QuickEditor/QuickEditor.cpp:546
+#: src/QuickEditor/QuickEditor.cpp:557
+#, kde-format
+msgctxt "Shift key action first half"
+msgid "Hold to toggle magnifier"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:530 src/QuickEditor/QuickEditor.cpp:558
+#, kde-format
+msgctxt "Shift key action second half"
+msgid "while dragging selection handles"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:532 src/QuickEditor/QuickEditor.cpp:560
+#, kde-format
+msgctxt "Keyboard action"
+msgid "Arrow keys:"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:533 src/QuickEditor/QuickEditor.cpp:561
+#, kde-format
+msgctxt "Shift key action first line"
+msgid "Move selection rectangle"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:534 src/QuickEditor/QuickEditor.cpp:562
+#, kde-format
+msgctxt "Shift key action second line"
+msgid "Hold Alt to resize, Shift to fine‑tune"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:536 src/QuickEditor/QuickEditor.cpp:547
+#: src/QuickEditor/QuickEditor.cpp:564
+#, kde-format
+msgctxt "Mouse action"
+msgid "Right-click:"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:537 src/QuickEditor/QuickEditor.cpp:548
+#: src/QuickEditor/QuickEditor.cpp:565
+#, kde-format
+msgid "Reset selection"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:538 src/QuickEditor/QuickEditor.cpp:549
+#: src/QuickEditor/QuickEditor.cpp:566
+#, kde-format
+msgctxt "Keyboard action"
+msgid "Esc:"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:538 src/QuickEditor/QuickEditor.cpp:549
+#: src/QuickEditor/QuickEditor.cpp:566
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:543
+#, kde-format
+msgctxt "Keyboard/mouse action"
+msgid "Release left-click, Enter:"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:544
+#, kde-format
+msgid "Take Screenshot"
+msgstr ""
+
+#: src/QuickEditor/QuickEditor.cpp:740
+#, kde-format
+msgid "%1×%2"
+msgstr ""
+
+#: src/SpectacleCore.cpp:245
+#, kde-format
+msgid "Screenshot capture canceled or failed"
+msgstr ""
+
+#: src/SpectacleCore.cpp:264
+#, kde-format
+msgctxt "The entire screen area was captured, heading"
+msgid "Full Screen Captured"
+msgstr ""
+
+#: src/SpectacleCore.cpp:267
+#, kde-format
+msgctxt "The current screen was captured, heading"
+msgid "Current Screen Captured"
+msgstr ""
+
+#: src/SpectacleCore.cpp:270
+#, kde-format
+msgctxt "The active window was captured, heading"
+msgid "Active Window Captured"
+msgstr ""
+
+#: src/SpectacleCore.cpp:274
+#, kde-format
+msgctxt "The window under the mouse was captured, heading"
+msgid "Window Under Cursor Captured"
+msgstr ""
+
+#: src/SpectacleCore.cpp:277
+#, kde-format
+msgctxt "A rectangular region was captured, heading"
+msgid "Rectangular Region Captured"
+msgstr ""
+
+#: src/SpectacleCore.cpp:288
+#, kde-format
+msgid "A screenshot was saved to your clipboard."
+msgstr ""
+
+#: src/SpectacleCore.cpp:290
+#, kde-format
+msgctxt "Placeholder is filename"
+msgid "A screenshot was saved as '%1' to your Pictures folder."
+msgstr ""
+
+#: src/SpectacleCore.cpp:292
+#, kde-format
+msgid "A screenshot was saved as '%1' to '%2'."
+msgstr ""
+
+#: src/SpectacleCore.cpp:298
+#, kde-format
+msgctxt "Open the screenshot we just saved"
+msgid "Open"
+msgstr ""
