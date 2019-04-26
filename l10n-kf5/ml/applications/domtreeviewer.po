@@ -31,17 +31,17 @@ msgstr ""
 #: domtreecommands.cpp:33
 #, kde-format
 msgid "No error"
-msgstr ""
+msgstr "തെറ്റ് ഇല്ല"
 
 #: domtreecommands.cpp:34
 #, kde-format
 msgid "Index size exceeded"
-msgstr ""
+msgstr "സൂചികയുടെ വലുപ്പം കടന്നു"
 
 #: domtreecommands.cpp:35
 #, kde-format
 msgid "DOMString size exceeded"
-msgstr ""
+msgstr "ഡൊം സ്ട്രിങ്ങിന്റെ വലുപ്പം കടന്നു"
 
 #: domtreecommands.cpp:36
 #, kde-format
@@ -51,7 +51,7 @@ msgstr ""
 #: domtreecommands.cpp:37
 #, kde-format
 msgid "Wrong document"
-msgstr ""
+msgstr "തെറ്റായ രെഖ"
 
 #: domtreecommands.cpp:38
 #, kde-format

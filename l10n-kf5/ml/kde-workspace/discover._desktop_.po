@@ -63,7 +63,7 @@ msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ് "
 #: libdiscover/resources/discoverabstractnotifier.notifyrc:84
 msgctxt "Comment"
 msgid "Updates Available"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ്"
 
 #: notifier/plasmoid/metadata.desktop:43
 msgctxt "Comment"

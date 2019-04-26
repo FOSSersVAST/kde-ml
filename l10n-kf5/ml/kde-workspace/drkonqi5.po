@@ -856,10 +856,10 @@ msgid ""
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_base.cpp:334
-#, fuzzy, kde-kuit-format
+#, kde-kuit-format
 msgctxt "@info"
 msgid "Your problem has already been reported as bug %1."
-msgstr "പ്രോഗ്രാം ആരംഭിച്ചതു് kdeinit ആണു്"
+msgstr "നിങ്ങളുടെ പ്രശ്നം ബഗ് %1 ആയി അറിയച്ചതാണ്"
 
 #: bugzillaintegration/reportassistantpages_base.cpp:346
 #, kde-format
@@ -2500,28 +2500,28 @@ msgid "A. L. Spehr"
 msgstr ""
 
 #: main.cpp:95
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:shell"
 msgid "The signal <number> that was caught"
-msgstr "ലഭ്യമായ സിഗ്നലിന്റെ നംബര്‍"
+msgstr "ലഭ്യമായ സിഗ്നലിന്റെ <number>"
 
 #: main.cpp:96
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:shell"
 msgid "<Name> of the program"
-msgstr "പ്രോഗ്രാമിന്റെ പേരു്"
+msgstr "പ്രോഗ്രാമിന്റെ പേര്"
 
 #: main.cpp:97
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:shell"
 msgid "<Path> to the executable"
-msgstr "എക്സിക്യൂട്ടബിളിലേക്കുള്ള പാഥ്"
+msgstr "എക്സിക്യൂട്ടബിളിലേക്കുള്ള <പാത>"
 
 #: main.cpp:98
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:shell"
 msgid "The <version> of the program"
-msgstr "പ്രോഗ്രാമിന്റെ പതിപ്പു്"
+msgstr "പ്രോഗ്രാമിന്റെ <പതിപ്പ്>"
 
 #: main.cpp:99
 #, fuzzy, kde-format
@@ -2530,10 +2530,10 @@ msgid "The bug <address> to use"
 msgstr "ഉപയോഗിക്കേണ്ട ബഗിന്റെ വിലാസം"
 
 #: main.cpp:100
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:shell"
 msgid "Translated <name> of the program"
-msgstr "പ്രോഗ്രാമിന്റെ തര്‍ജ്ജമചെയ്ത പേരു്"
+msgstr "പ്രോഗ്രാമിന്റെ തര്‍ജ്ജമ ചെയ്ത പേര്"
 
 #: main.cpp:101
 #, fuzzy, kde-format
@@ -2542,10 +2542,10 @@ msgid "The <PID> of the program"
 msgstr "പ്രോഗ്രാമിന്റെ PID"
 
 #: main.cpp:102
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:shell"
 msgid "Startup <ID> of the program"
-msgstr "പ്രോഗ്രാമിനുള്ള സ്റ്റാര്‍ട്ടപ്പു് ID"
+msgstr "പ്രോഗ്രാമിനുള്ള സ്റ്റാര്‍ട്ടപ്പ് ID"
 
 #: main.cpp:103
 #, fuzzy, kde-format

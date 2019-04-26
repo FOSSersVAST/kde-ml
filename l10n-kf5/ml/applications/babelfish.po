@@ -19,57 +19,57 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "നിങ്ങളുടെ പേരുകൾ"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "നിങ്ങളുടെ ഈമെയിൽ വിലാസങ്ങൾ"
 
 #: plugin_babelfish.cpp:44
 #, kde-format
 msgid "Translate Web Page"
-msgstr ""
+msgstr "വെബ് പേജ് വിവർത്തനം ചെയ്യുക"
 
 #: plugin_babelfish.cpp:52
 #, kde-format
 msgid "Translate Web &Page"
-msgstr ""
+msgstr "വെബ് പേജ് വിവർത്തനം ചെയ്യുക"
 
 #: plugin_babelfish.cpp:89
 #, kde-format
 msgid "&English To"
-msgstr ""
+msgstr "&ഇംഗ്ലീഷിൽ നിന്നും"
 
 #: plugin_babelfish.cpp:92
 #, kde-format
 msgid "&French To"
-msgstr ""
+msgstr "&ഫ്രഞ്ചിൽ നിന്നും"
 
 #: plugin_babelfish.cpp:95
 #, kde-format
 msgid "&German To"
-msgstr ""
+msgstr "ജർമ്മനിൽ നിന്ന്"
 
 #: plugin_babelfish.cpp:98
 #, kde-format
 msgid "&Greek To"
-msgstr ""
+msgstr "&ഗ്രീക്കിൽ നിന്നും"
 
 #: plugin_babelfish.cpp:101
 #, kde-format
 msgid "&Spanish To"
-msgstr ""
+msgstr "&സ്പാനിഷിൽ നിന്നും "
 
 #: plugin_babelfish.cpp:104
 #, kde-format
 msgid "&Portuguese To"
-msgstr ""
+msgstr "&പോർച്ചുഗീസിൽ നിന്നും"
 
 #: plugin_babelfish.cpp:107
 #, kde-format
 msgid "&Italian To"
-msgstr ""
+msgstr "&ഇറ്റാലിയനിൽ നിന്നും"
 
 #: plugin_babelfish.cpp:110
 #, kde-format
@@ -106,47 +106,47 @@ msgstr ""
 #: plugin_babelfish.cpp:133 plugin_babelfish.cpp:146
 #, kde-format
 msgid "&German"
-msgstr ""
+msgstr "&ജർമൻ"
 
 #: plugin_babelfish.cpp:134 plugin_babelfish.cpp:147
 #, kde-format
 msgid "&Greek"
-msgstr ""
+msgstr "&ഗ്രീക്ക്"
 
 #: plugin_babelfish.cpp:135 plugin_babelfish.cpp:148
 #, kde-format
 msgid "&Italian"
-msgstr ""
+msgstr "ഇറ്റാലിയന്‍"
 
 #: plugin_babelfish.cpp:136
 #, kde-format
 msgid "&Japanese"
-msgstr ""
+msgstr "ജാപനീസ്"
 
 #: plugin_babelfish.cpp:137
 #, kde-format
 msgid "&Korean"
-msgstr ""
+msgstr "കൊറിയൻ"
 
 #: plugin_babelfish.cpp:138
 #, kde-format
 msgid "&Norwegian"
-msgstr ""
+msgstr "നോര്‍വേജിയന്‍"
 
 #: plugin_babelfish.cpp:139 plugin_babelfish.cpp:149
 #, kde-format
 msgid "&Portuguese"
-msgstr ""
+msgstr "പോർച്ചുഗീസ്"
 
 #: plugin_babelfish.cpp:140 plugin_babelfish.cpp:151
 #, kde-format
 msgid "&Russian"
-msgstr ""
+msgstr "റഷ്യൻ"
 
 #: plugin_babelfish.cpp:141 plugin_babelfish.cpp:150
 #, kde-format
 msgid "&Spanish"
-msgstr ""
+msgstr "സ്പാനിഷ്"
 
 #: plugin_babelfish.cpp:142
 #, kde-format
@@ -156,19 +156,19 @@ msgstr ""
 #: plugin_babelfish.cpp:143
 #, kde-format
 msgid "&Arabic"
-msgstr ""
+msgstr "അറബിക്"
 
 #: plugin_babelfish.cpp:145 plugin_babelfish.cpp:152 plugin_babelfish.cpp:154
 #: plugin_babelfish.cpp:156 plugin_babelfish.cpp:158 plugin_babelfish.cpp:160
 #: plugin_babelfish.cpp:162 plugin_babelfish.cpp:164
 #, kde-format
 msgid "&English"
-msgstr ""
+msgstr "ഇംഗ്ലീഷ്"
 
 #: plugin_babelfish.cpp:187
 #, kde-format
 msgid "&Chinese (Simplified) to English"
-msgstr ""
+msgstr "&ചൈനീസ് (വ്യഖാനിച്ചത്) ഇംഗ്ലീഷിലേയ്ക്കു്"
 
 #: plugin_babelfish.cpp:188
 #, kde-format
@@ -189,12 +189,13 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Malformed URL"
-msgstr ""
+msgstr "തെറ്റായ യുആര്‍എല്‍"
 
 #: plugin_babelfish.cpp:267
 #, kde-format
 msgid "The URL you entered is not valid, please correct it and try again."
 msgstr ""
+"നിങ്ങൾ നൽകിയ യു ആർ എൽ അസാധുവാണ്, ദയവായി അത് ശരിയാക്കി വീണ്ടും ശ്രമിക്കുക."
 
 #: plugin_babelfish.cpp:277
 #, kde-kuit-format
@@ -204,21 +205,24 @@ msgid ""
 "page will sent to the online translation service, which may fetch the "
 "insecure version of the page."
 msgstr ""
+"നിങ്ങൾ ഈ പേജ് ഒരു സുരക്ഷിത കണക്ഷനിലൂടെ കാണുന്നു. .<nl/><nl/> പേജിന്റെ യു ആർ "
+"എൽ, ഓൺലൈൻ വിവർത്തന സേവനത്തിലേക്ക് അയച്ചു, അത് ഒരുപക്ഷേ പേജിന്റെ "
+"സുരക്ഷിതമല്ലാത്ത പതിപ്പ് ലഭ്യമാക്കും."
 
 #: plugin_babelfish.cpp:281
 #, kde-format
 msgctxt "@title:window"
 msgid "Security Warning"
-msgstr ""
+msgstr "സുരക്ഷാ മുന്നറിയിപ്പ്"
 
 #. i18n: ectx: Menu (tools)
 #: plugin_babelfish.rc:4
 #, kde-format
 msgid "&Tools"
-msgstr ""
+msgstr "ഉപകരണങ്ങള്‍"
 
 #. i18n: ectx: ToolBar (extraToolBar)
 #: plugin_babelfish.rc:8
 #, kde-format
 msgid "Extra Toolbar"
-msgstr ""
+msgstr "കൂടുതല്‍ ഉപകരണനിര"

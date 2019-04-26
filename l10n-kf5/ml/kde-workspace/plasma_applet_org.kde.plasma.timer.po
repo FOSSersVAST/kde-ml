@@ -120,7 +120,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action"
 msgid "&Start"
-msgstr ""
+msgstr "തുടങ്ങുക"
 
 #: package/contents/ui/main.qml:124
 #, kde-format

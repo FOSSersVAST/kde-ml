@@ -114,12 +114,12 @@ msgstr "പഠന ലക്ഷ്യം"
 #: liblearnerprofile/src/profilemanager.cpp:161
 #, kde-format
 msgid "Open Image"
-msgstr ""
+msgstr "ചിത്രം തുറക്കുക "
 
 #: liblearnerprofile/src/profilemanager.cpp:163
 #, kde-format
 msgid "Image Files (*.png *.jpg *.bmp)"
-msgstr ""
+msgstr "ചിത്രം അടങ്ങുന്ന ഫയലുകൾ "
 
 #: liblearnerprofile/src/storage.cpp:584
 #, kde-format
@@ -173,7 +173,7 @@ msgstr ""
 #: src/artikulate.kcfg:31
 #, kde-format
 msgid "Font"
-msgstr ""
+msgstr "അക്ഷരസഞ്ചയം:"
 
 #. i18n: ectx: label, entry (RecordingBackend), group (artikulate)
 #: src/artikulate.kcfg:38
@@ -186,7 +186,7 @@ msgstr ""
 #: src/core/course.cpp:194 src/qml/Editor.qml:245
 #, kde-format
 msgid "New Unit"
-msgstr ""
+msgstr "പുതിയ യൂണിറ്റ് "
 
 #: src/main.cpp:36
 #, kde-format
@@ -222,7 +222,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:credit Role"
 msgid "Original Author"
-msgstr ""
+msgstr "യഥാർത്ഥ രചയിതാവ്"
 
 #: src/main.cpp:48
 #, kde-format
@@ -258,7 +258,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "നിങ്ങളുടെ പേര് "
 
 #: src/main.cpp:58
 #, kde-format
@@ -311,7 +311,7 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Sound Devices"
-msgstr ""
+msgstr "ശബ്ദ ഉപകരണങ്ങൾ"
 
 #: src/mainwindow.cpp:167 src/mainwindow_editor.cpp:157
 #, kde-format
@@ -323,7 +323,7 @@ msgstr ""
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Fonts"
-msgstr ""
+msgstr "അക്ഷരസഞ്ചയങ്ങള്‍"
 
 #: src/mainwindow.cpp:168 src/mainwindow_editor.cpp:158
 #, kde-format
@@ -371,17 +371,17 @@ msgstr ""
 #, kde-format
 msgctxt "@title:column"
 msgid "Language"
-msgstr ""
+msgstr "ഭാഷ"
 
 #: src/models/learningprogressmodel.cpp:150
 #, kde-format
 msgid "Words"
-msgstr ""
+msgstr "വാക്കുകള്‍"
 
 #: src/models/learningprogressmodel.cpp:152
 #, kde-format
 msgid "Sentences"
-msgstr ""
+msgstr "വരികൾ "
 
 #: src/models/learningprogressmodel.cpp:154
 #, kde-format
@@ -391,7 +391,7 @@ msgstr ""
 #: src/models/learningprogressmodel.cpp:156
 #, kde-format
 msgid "Paragraphs"
-msgstr ""
+msgstr "ഖണ്ഡിക"
 
 #: src/models/phonemegroupmodel.cpp:163
 #, kde-format
@@ -403,7 +403,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:column"
 msgid "Phoneme"
-msgstr ""
+msgstr "ശബ്ദമിശ്രണം"
 
 #: src/models/phonemeunitmodel.cpp:192
 #, kde-format
@@ -421,7 +421,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:column"
 msgid "Profile"
-msgstr ""
+msgstr "പ്രൊഫൈൽ"
 
 #: src/models/skeletonmodel.cpp:166
 #, kde-format
@@ -433,7 +433,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:column"
 msgid "Unit"
-msgstr ""
+msgstr "യൂണിറ്റ്"
 
 #: src/qml/Editor.qml:75
 #, kde-format
@@ -468,7 +468,7 @@ msgstr ""
 #: src/qml/Editor.qml:124
 #, kde-format
 msgid "Language:"
-msgstr ""
+msgstr "ഭാഷ:"
 
 #: src/qml/Editor.qml:156
 #, kde-format
@@ -493,12 +493,12 @@ msgstr ""
 #: src/qml/Main.qml:85
 #, kde-format
 msgid "Categories"
-msgstr ""
+msgstr "വിഭാഗം"
 
 #: src/qml/MainMenuBar.qml:27
 #, kde-format
 msgid "File"
-msgstr ""
+msgstr "ഫയല്‍"
 
 #: src/qml/MainMenuBar.qml:29 src/qml/MainToolBar.qml:105
 #, kde-format
@@ -513,7 +513,7 @@ msgstr ""
 #: src/qml/MainMenuBar.qml:42
 #, kde-format
 msgid "Settings"
-msgstr ""
+msgstr "ക്രമീകരണങ്ങൾ"
 
 #: src/qml/MainMenuBar.qml:44 src/qml/MainToolBar.qml:99
 #: src/qml/NewUserWelcome.qml:48
@@ -534,7 +534,7 @@ msgstr ""
 #: src/qml/MainMenuBar.qml:72 src/qml/MainToolBar.qml:123
 #, kde-format
 msgid "Help"
-msgstr ""
+msgstr "സഹായം"
 
 #: src/qml/MainMenuBar.qml:74 src/qml/MainToolBar.qml:125
 #, kde-format
@@ -589,12 +589,12 @@ msgstr ""
 #: src/qml/PhraseEditorEditStateComponent.qml:76
 #, kde-format
 msgid "Translated"
-msgstr ""
+msgstr "വിവർത്തനം ചെയ്തു"
 
 #: src/qml/PhraseEditorEditStateComponent.qml:85
 #, kde-format
 msgid "Completed"
-msgstr ""
+msgstr "പൂർത്തിയാക്കി "
 
 #: src/qml/PhraseEditorSoundComponent.qml:38
 #, kde-format
@@ -604,32 +604,32 @@ msgstr ""
 #: src/qml/PhraseEditorSoundComponent.qml:48
 #, kde-format
 msgid "Existing Recording:"
-msgstr ""
+msgstr "നിലവിലുള്ള റെക്കോർഡിംഗ്"
 
 #: src/qml/PhraseEditorSoundComponent.qml:58
 #, kde-format
 msgid "Create New Recording:"
-msgstr ""
+msgstr "പുതിയ റെക്കോർഡിംഗ് സൃഷ്ടിക്കുക"
 
 #: src/qml/PhraseEditorSoundComponent.qml:74
 #, kde-format
 msgid "Replace existing recording"
-msgstr ""
+msgstr "നിലവിലെ റെക്കോർഡിംഗ് മാറ്റിസ്ഥാപിക്കുക"
 
 #: src/qml/PhraseEditorSoundComponent.qml:82
 #, kde-format
 msgid "Dismiss"
-msgstr ""
+msgstr "നിരസിക്കുക"
 
 #: src/qml/PhraseEditorTypeComponent.qml:65
 #, kde-format
 msgid "Difficulty:"
-msgstr ""
+msgstr "ബുദ്ധിമുട്ട്"
 
 #: src/qml/PhraseEditorTypeComponent.qml:71
 #, kde-format
 msgid "Word"
-msgstr ""
+msgstr "വാക്ക്"
 
 #: src/qml/PhraseEditorTypeComponent.qml:79
 #, kde-format
@@ -649,12 +649,12 @@ msgstr ""
 #: src/qml/ProfileDetailsItem.qml:52 src/qml/ProfileSettingsItem.qml:36
 #, kde-format
 msgid "Learner"
-msgstr ""
+msgstr "വിദ്യാർത്ഥി "
 
 #: src/qml/ProfileDetailsItem.qml:65
 #, kde-format
 msgid "Favorite Languages"
-msgstr ""
+msgstr "പ്രിയപ്പെട്ട ഭാഷകൾ"
 
 #: src/qml/ProfileSelector.qml:84
 #, kde-format
@@ -679,32 +679,32 @@ msgstr ""
 #: src/qml/ProfileUserItem.qml:82
 #, kde-format
 msgid "Edit"
-msgstr ""
+msgstr "എഡിറ്റ് ചെയ്യുക"
 
 #: src/qml/ProfileUserItem.qml:87 src/qml/ProfileUserItem.qml:184
 #, kde-format
 msgid "Delete"
-msgstr ""
+msgstr "നീക്കം ചെയ്യുക"
 
 #: src/qml/ProfileUserItem.qml:93
 #, kde-format
 msgid "Change Image"
-msgstr ""
+msgstr "ചിത്രം മാറ്റുക"
 
 #: src/qml/ProfileUserItem.qml:98
 #, kde-format
 msgid "Clear Image"
-msgstr ""
+msgstr "ചിത്രം  നീക്കം ചെയ്യുക "
 
 #: src/qml/ProfileUserItem.qml:131
 #, kde-format
 msgid "Name"
-msgstr ""
+msgstr "പേരു്"
 
 #: src/qml/ProfileUserItem.qml:137
 #, kde-format
 msgid "Done"
-msgstr ""
+msgstr "ചെയ്തു"
 
 #: src/qml/ProfileUserItem.qml:175
 #, kde-format
@@ -719,22 +719,22 @@ msgstr ""
 #: src/qml/SheetDialog.qml:83
 #, kde-format
 msgid "Close"
-msgstr ""
+msgstr "അടയ്ക്കുക"
 
 #: src/qml/SoundPlayer.qml:30
 #, kde-format
 msgid "Play"
-msgstr ""
+msgstr "പ്രവര്‍ത്തിപ്പിക്കുക"
 
 #: src/qml/SoundRecorder.qml:31
 #, kde-format
 msgid "Record"
-msgstr ""
+msgstr "രേഖ "
 
 #: src/qml/TrainerCourseStatistics.qml:59
 #, kde-format
 msgid "Attempts"
-msgstr ""
+msgstr "ശ്രമങ്ങൾ"
 
 #: src/qml/TrainerSessionScreen.qml:42
 #, kde-format
@@ -749,17 +749,17 @@ msgstr ""
 #: src/qml/TrainerSessionScreen.qml:94
 #, kde-format
 msgid "Listen"
-msgstr ""
+msgstr "കേൾക്കുക"
 
 #: src/qml/TrainerSessionScreen.qml:139
 #, kde-format
 msgid "Skip"
-msgstr ""
+msgstr "ഒഴിവാക്കുക"
 
 #: src/qml/TrainerSessionScreen.qml:150
 #, kde-format
 msgid "Next"
-msgstr ""
+msgstr "അടുത്തത്"
 
 #: src/qml/UnitEditor.qml:40
 #, kde-format
@@ -846,13 +846,13 @@ msgstr ""
 #: src/ui/sounddevicedialogpage.ui:51
 #, kde-format
 msgid "Play Test Sound"
-msgstr ""
+msgstr "ടെസ്റ്റ് ശബ്ദം പ്ലേ ചെയ്യുക"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, buttonPlayTestSound)
 #: src/ui/sounddevicedialogpage.ui:58
 #, kde-format
 msgid "Play test sound."
-msgstr ""
+msgstr "ടെസ്റ്റ് ശബ്ദം പ്ലേ ചെയ്യുക"
 
 #. i18n: ectx: property (text), widget (QLabel, labelRecordTestSound)
 #: src/ui/sounddevicedialogpage.ui:68
@@ -888,4 +888,4 @@ msgstr ""
 #: src/ui/sounddevicedialogpage.ui:135
 #, kde-format
 msgid "Volume"
-msgstr ""
+msgstr "ഒച്ച"

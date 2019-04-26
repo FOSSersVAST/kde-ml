@@ -73,9 +73,9 @@ msgid "Unable to download the icon theme archive: %1"
 msgstr "%1 എന്ന കര്‍സര്‍ പ്രമേയം കണ്ടെത്താന്‍ കഴിഞ്ഞില്ല."
 
 #: kcmcursortheme.cpp:554
-#, fuzzy, kde-format
+#, kde-format
 msgid "The file is not a valid icon theme archive."
-msgstr "%1 എന്ന പ്രമാണം സാധുവായ ഒരു കര്‍സര്‍ പ്രമേയം ആണെന്നു തോന്നുന്നില്ല."
+msgstr "ഫയല്‍ സാധുതയുള്ള ഒരു ചിഹ്ന പ്രമേയ ആര്‍ക്കൈവ് അല്ല."
 
 #: kcmcursortheme.cpp:561
 #, kde-format

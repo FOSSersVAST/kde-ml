@@ -55,35 +55,35 @@ msgid "No keyboard layout with ID %1"
 msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
 
 #: src/editor/charactersviewdelegate.cpp:84 src/models/charactersmodel.cpp:316
-#, fuzzy, kde-format
+#, kde-format
 msgid "Hidden"
-msgstr "അദൃശ്യമായ കീ"
+msgstr "അദൃശ്യമായ"
 
 #: src/editor/charactersviewdelegate.cpp:85 src/models/charactersmodel.cpp:308
-#, fuzzy, kde-format
+#, kde-format
 msgid "Top left"
-msgstr "മുകളില്‍ ഇടതു്:"
+msgstr "മുകള്‍-ഇടതു്"
 
 #: src/editor/charactersviewdelegate.cpp:86 src/models/charactersmodel.cpp:310
-#, fuzzy, kde-format
+#, kde-format
 msgid "Top right"
-msgstr "മുകളില്‍ വലതു്:"
+msgstr "മുകളില്‍ വലതു്"
 
 #: src/editor/charactersviewdelegate.cpp:87 src/models/charactersmodel.cpp:312
-#, fuzzy, kde-format
+#, kde-format
 msgid "Bottom left"
-msgstr "താഴെ ഇടതു്:"
+msgstr "താഴെ ഇടത് "
 
 #: src/editor/charactersviewdelegate.cpp:88 src/models/charactersmodel.cpp:314
-#, fuzzy, kde-format
+#, kde-format
 msgid "Bottom right"
-msgstr "താഴെ വലതു്:"
+msgstr "താഴെ വലത് "
 
 #: src/editor/courseeditor.cpp:92 src/editor/resourceeditor.cpp:176
 #: src/editor/resourceeditor.cpp:256
 #, kde-format
 msgid "Error while opening course"
-msgstr ""
+msgstr "കോഴ്സ് തുറക്കുന്നതിൽ സാങ്കേതിക തടസം "
 
 #: src/editor/courseeditor.cpp:99
 #, kde-format
@@ -121,37 +121,37 @@ msgstr ""
 #: src/editor/lessontexteditor.cpp:88
 #, kde-format
 msgid "The selected file could not be opened"
-msgstr ""
+msgstr "തിരഞ്ഞെടുത്ത ഫയൽ തുറക്കാനായില്ല "
 
 #: src/editor/newkeyboardlayoutwidget.cpp:94
 #, kde-format
 msgid "There is already a keyboard layout with the same name."
-msgstr ""
+msgstr "ഇതേ പേരിൽ ഒരു കീബോര്ഡ് മാതൃക നിലവിൽ ഉണ്ട് "
 
 #: src/editor/newresourceassistant.cpp:41
 #, kde-format
 msgid "New"
-msgstr ""
+msgstr "പുതിയത് "
 
 #: src/editor/newresourceassistant.cpp:43
 #, kde-format
 msgid "New..."
-msgstr ""
+msgstr "പുതിയ..."
 
 #: src/editor/newresourceassistant.cpp:46
-#, fuzzy, kde-format
+#, kde-format
 msgid "New course"
-msgstr "പുതിയ നിറക്കൂട്ടു്"
+msgstr "പുതിയ പാഠ്യക്രമം "
 
 #: src/editor/newresourceassistant.cpp:50
-#, fuzzy, kde-format
+#, kde-format
 msgid "New keyboard layout"
-msgstr "&കീബോര്‍ഡ് മാതൃകകള്‍"
+msgstr "പുതിയ കീബോര്‍ഡ് മാതൃകകള്‍"
 
 #: src/editor/newresourceassistant.cpp:54
 #, kde-format
 msgid "Template"
-msgstr ""
+msgstr "രൂപമാതൃകകള്‍"
 
 #. i18n: ectx: property (text), widget (QToolButton, m_deleteKeyToolButton)
 #: src/editor/resourceeditor.cpp:60
@@ -159,9 +159,9 @@ msgstr ""
 #: src/qml/homescreen/ProfileDetailsItem.qml:157
 #: src/qml/homescreen/ProfileDetailsItem.qml:215
 #: src/ui/keyboardlayouteditor.ui:70
-#, fuzzy, kde-format
+#, kde-format
 msgid "Delete"
-msgstr "കീ വെട്ടിമാറ്റുക"
+msgstr "നീക്കം ചെയ്യുക"
 
 #: src/editor/resourceeditor.cpp:63
 #, kde-format

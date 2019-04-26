@@ -15,14 +15,14 @@ msgstr ""
 #: src/tagsfileitemactionplugin/tagsfileitemaction.json
 msgctxt "Authors Name"
 msgid "Nicolas Fella"
-msgstr ""
+msgstr "നിക്കോളാസ് ഫെല്ല"
 
 #: src/tagsfileitemactionplugin/tagsfileitemaction.json
 msgctxt "Name"
 msgid "Tags"
-msgstr ""
+msgstr "മുദ്രകള്‍"
 
 #: src/tagsfileitemactionplugin/tagsfileitemaction.json
 msgctxt "Description"
 msgid "Change file tags"
-msgstr ""
+msgstr "രെഖാ മുദ്രകൾ മാറ്റുക"

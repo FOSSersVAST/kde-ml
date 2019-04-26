@@ -35,23 +35,23 @@ msgstr ""
 #: generator_djvu.cpp:142
 #, kde-format
 msgid "Publisher"
-msgstr ""
+msgstr "പ്രസാധകൻ"
 
 #: generator_djvu.cpp:143
 #, kde-format
 msgid "Volume"
-msgstr ""
+msgstr "ഒച്ച "
 
 #: generator_djvu.cpp:144
 #, kde-format
 msgid "Type of document"
-msgstr ""
+msgstr "രേഖയുടെ തരം"
 
 #: generator_djvu.cpp:146
 #, kde-format
 msgctxt "Unknown number of component files"
 msgid "Unknown"
-msgstr ""
+msgstr "അജ്ഞാതം"
 
 #: generator_djvu.cpp:146
 #, kde-format
@@ -68,19 +68,19 @@ msgstr ""
 #, kde-format
 msgctxt "Type of DjVu document"
 msgid "Single Page"
-msgstr ""
+msgstr "ഒറ്റ പേജ് "
 
 #: kdjvu.cpp:703
 #, kde-format
 msgctxt "Type of DjVu document"
 msgid "Bundled"
-msgstr ""
+msgstr "കെട്ടു "
 
 #: kdjvu.cpp:706
 #, kde-format
 msgctxt "Type of DjVu document"
 msgid "Indirect"
-msgstr ""
+msgstr "പരോക്ഷമായ"
 
 #: kdjvu.cpp:709
 #, kde-format

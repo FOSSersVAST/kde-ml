@@ -42,12 +42,12 @@ msgstr "പറഞ്ഞ ഫയല്‍ തുറക്കുവാനായി�
 #: compoundviewer/iowrapper.cpp:53
 #, kde-format
 msgid "Sorry"
-msgstr ""
+msgstr "ക്ഷമിക്കുക "
 
 #: compoundviewer/iowrapper.cpp:53
 #, kde-format
 msgid "Cannot save to the specified file."
-msgstr ""
+msgstr "മേല്പറഞ്ഞ ഫയൽ സൂക്ഷിക്കുക സാധ്യമല്ല "
 
 #: compoundviewer/kalziumglpart.cpp:24
 #, fuzzy, kde-format
@@ -70,9 +70,9 @@ msgid "Carsten Niehaus"
 msgstr "കാര്‍സ്റ്റെന്‍ നീഹോസ്"
 
 #: compoundviewer/kalziumglpart.cpp:31
-#, fuzzy, kde-format
+#, kde-format
 msgid "Marcus D. Hanwell"
-msgstr "മാര്‍ക്കസ് ഡി. ഹാന്‍വെല്‍"
+msgstr "മാര്‍ക്കസ് ഡി. ഹാന്‍വെല്"
 
 #: data/knowledge.xml:4 src/kalziumgradienttype.cpp:455
 #, kde-format
@@ -293,7 +293,7 @@ msgstr ""
 #: data/knowledge.xml:82
 #, kde-format
 msgid "Correctness"
-msgstr ""
+msgstr "കൃത്യത"
 
 #: data/knowledge.xml:83
 #, kde-format

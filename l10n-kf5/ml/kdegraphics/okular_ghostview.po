@@ -45,7 +45,7 @@ msgstr ""
 #: conf/gssettingswidget.ui:28
 #, kde-format
 msgid "General Settings"
-msgstr ""
+msgstr "പൊതുവായ ക്രമീകരണങ്ങൾ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_PlatformFonts)
 #: conf/gssettingswidget.ui:37

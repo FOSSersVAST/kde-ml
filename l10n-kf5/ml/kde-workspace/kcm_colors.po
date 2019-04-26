@@ -50,9 +50,9 @@ msgid "Unable to create a temporary file."
 msgstr ""
 
 #: colors.cpp:180
-#, fuzzy, kde-format
+#, kde-format
 msgid "Unable to download the color scheme: %1"
-msgstr "നിറങ്ങളുടെ കൂട്ടിനു് ഒരു പേരു് &നല്‍കുക:"
+msgstr "നിറങ്ങളെ ഡൗണ്‍ലോഡ് ചെയ്യാന്‍ കഴിഞില്ല: %1"
 
 #: colors.cpp:198
 #, fuzzy, kde-format

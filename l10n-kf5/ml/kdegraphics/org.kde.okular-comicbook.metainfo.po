@@ -14,7 +14,7 @@ msgstr ""
 #. (itstool) path: component/name
 #: org.kde.okular-comicbook.metainfo.xml:7
 msgid "Comic Books"
-msgstr ""
+msgstr "കോമിക് പുസ്തകങ്ങള്‍"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-comicbook.metainfo.xml:8

@@ -14,7 +14,7 @@ msgstr ""
 #. (itstool) path: component/name
 #: org.kde.okular-kimgio.metainfo.xml:7
 msgid "Images"
-msgstr ""
+msgstr "ചിത്രങ്ങള്‍"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-kimgio.metainfo.xml:8

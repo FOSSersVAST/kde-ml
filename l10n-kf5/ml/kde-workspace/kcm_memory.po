@@ -178,10 +178,10 @@ msgstr ""
 "ലഭ്യമാക്കുന്നു.</p> "
 
 #: memory.cpp:264
-#, fuzzy, kde-format
+#, kde-format
 msgid "1 byte ="
 msgid_plural "%1 bytes ="
-msgstr[0] "%1 ബൈറ്റുകള്‍ ="
+msgstr[0] "%1 ബൈറ്റ് ="
 msgstr[1] "%1 ബൈറ്റുകള്‍ ="
 
 #: physicalMemoryChart.cpp:50

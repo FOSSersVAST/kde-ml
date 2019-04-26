@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "അനി പീറ്റര്‍, നിസരി"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -32,7 +32,7 @@ msgstr ""
 #: app/advancedconfigpage.ui:17
 #, kde-format
 msgid "Cache:"
-msgstr ""
+msgstr "കാഷ്:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DeleteThumbnailCacheOnExit)
 #: app/advancedconfigpage.ui:29
@@ -54,13 +54,13 @@ msgstr ""
 #: app/advancedconfigpage.ui:77
 #, kde-format
 msgid "History:"
-msgstr ""
+msgstr "ചരിത്രം:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_HistoryEnabled)
 #: app/advancedconfigpage.ui:89
 #, kde-format
 msgid "Remember folders and URLs"
-msgstr ""
+msgstr "അറകളും യുആർഎൽ-കളും ഓർത്തു വയ്ക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, colorRenderingLabel)
 #: app/advancedconfigpage.ui:127
@@ -528,10 +528,10 @@ msgid "Height:"
 msgstr ""
 
 #: app/fullscreencontent.cpp:247
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "@item:intext fullscreen meta info separator"
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: app/fullscreencontent.cpp:296
 #, kde-format
@@ -2278,9 +2278,9 @@ msgstr ""
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, mHeightPercentSpinBox)
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, mWidthPercentSpinBox)
 #: lib/resize/resizeimagewidget.ui:56 lib/resize/resizeimagewidget.ui:131
-#, no-c-format, kde-format
+#, fuzzy, kde-format, no-c-format
 msgid " %"
-msgstr ""
+msgstr " %"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: lib/resize/resizeimagewidget.ui:115

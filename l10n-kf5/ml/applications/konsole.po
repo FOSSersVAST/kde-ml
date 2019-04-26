@@ -2155,10 +2155,12 @@ msgid "Close Current &Tab"
 msgstr "ഇപ്പോഴത്തെ കിളിവാതില്‍ അടയ്ക്കുക"
 
 #: MainWindow.cpp:625
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info"
 msgid "There are %1 open tabs in this window. Do you still want to quit?"
-msgstr "ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
+msgstr ""
+"ഈ ജാലകത്തില്‍ %1 കിളിവാതിലുകളുണ്ട്, പുറത്തുകടക്കണമെന്ന് "
+"നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 
 #: MainWindow.cpp:735
 #, fuzzy, kde-format
@@ -2428,7 +2430,7 @@ msgstr "'%1' എന്ന പ്രോഗ്രാം തകര്‍ന്ന�
 #: Session.cpp:960
 #, kde-format
 msgid "Program '%1' exited with status %2."
-msgstr "%2 എന്ന വിലയോടെ '%1' എന്ന പ്രോഗ്രാം പുറത്തു് വന്നു."
+msgstr "%2 എന്ന വിലയോടെ '%1' എന്ന പ്രോഗ്രാം പുറത്തു വന്നു."
 
 #: Session.cpp:1388
 #, kde-format
@@ -3235,24 +3237,24 @@ msgid "Put New Tab After Current Tab"
 msgstr ""
 
 #: TabTitleFormatButton.cpp:33
-#, fuzzy, kde-format
+#, kde-format
 msgid "Program Name: %n"
-msgstr "പ്രോഗ്രാമിന്റെ പേരു്"
+msgstr "പ്രോഗ്രാമിന്റെ പേര്: %n"
 
 #: TabTitleFormatButton.cpp:34
-#, fuzzy, kde-format
+#, kde-format
 msgid "Current Directory (Short): %d"
-msgstr "ഇരിയ്ക്കുന്ന തട്ടു് (ചെറുതു്)"
+msgstr "ഇരിക്കുന്ന തട്ട് (ചെറുത്): %d"
 
 #: TabTitleFormatButton.cpp:35
-#, fuzzy, kde-format
+#, kde-format
 msgid "Current Directory (Long): %D"
-msgstr "ഇരിയ്ക്കുന്ന തട്ടു് (വലുതു്)"
+msgstr "ഇരിക്കുന്ന തട്ട് (വലുത്): %D"
 
 #: TabTitleFormatButton.cpp:36 TabTitleFormatButton.cpp:50
-#, fuzzy, kde-format
+#, kde-format
 msgid "Window Title Set by Shell: %w"
-msgstr "ഷെല്‍ വയ്ക്കുന്ന ജാലകത്തിന്റെ തലക്കെട്ടു്"
+msgstr "ഷെല്‍ വയ്ക്കുന്ന ജാലകത്തിന്റെ തലക്കെട്ട്: %w"
 
 #: TabTitleFormatButton.cpp:37 TabTitleFormatButton.cpp:51
 #, fuzzy, kde-format
@@ -3260,9 +3262,9 @@ msgid "Session Number: %#"
 msgstr "സെഷനിന്റെ സംഖ്യ"
 
 #: TabTitleFormatButton.cpp:38 TabTitleFormatButton.cpp:45
-#, fuzzy, kde-format
+#, kde-format
 msgid "User Name: %u"
-msgstr "ഉപയോക്താവിന്റെ പേരു്"
+msgstr "ഉപയോക്താവിന്റെ പേര്: %u"
 
 #: TabTitleFormatButton.cpp:39
 #, kde-format
@@ -3270,19 +3272,19 @@ msgid "Local Host: %h"
 msgstr ""
 
 #: TabTitleFormatButton.cpp:46
-#, fuzzy, kde-format
+#, kde-format
 msgid "User Name@ (if given): %U"
-msgstr "ഉപയോക്താവിന്റെ പേരു്"
+msgstr "ഉപയോക്താവിന്റെ പേര്: %U"
 
 #: TabTitleFormatButton.cpp:47
-#, fuzzy, kde-format
+#, kde-format
 msgid "Remote Host (Short): %h"
-msgstr "വിദൂരത്തുള്ള ഹോസ്റ്റ് (ചെറുതു്)"
+msgstr "വിദൂരത്തുള്ള ഹോസ്റ്റ് (ചെറുത്): %h"
 
 #: TabTitleFormatButton.cpp:48
-#, fuzzy, kde-format
+#, kde-format
 msgid "Remote Host (Long): %H"
-msgstr "വിദൂരത്തുള്ള ഹോസ്റ്റ് (വലുതു്)"
+msgstr "വിദൂരത്തുള്ള ഹോസ്റ്റ് (വലുത്): %H"
 
 #: TabTitleFormatButton.cpp:49
 #, kde-format
@@ -3400,15 +3402,15 @@ msgid "&Cancel paste"
 msgstr ""
 
 #: TerminalDisplay.cpp:3364
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
 "Software_flow_control\">suspended</a> by pressing Ctrl+S. Press <b>Ctrl+Q</"
 "b> to resume.</qt>"
 msgstr ""
-"<qt>കണ്ട്രോള്‍+S അമര്‍ത്തിക്കൊണ്ട് ഫലം <a href=\"http://en.wikipedia.org/wiki/"
-"Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിയ്ക്കുന്നു</a> .  തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> "
-"അമര്‍ത്തുക.</qt>"
+"<qt>കണ്ട്രോള്‍+S അമര്‍ത്തിക്കൊണ്ട് ഫലം <a href=\""
+"http://en.wikipedia.org/wiki/Flow_control\">താത്കാലികമായി "
+"നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> അമര്‍ത്തുക.</qt>"
 
 #: TerminalDisplay.cpp:3402
 #, kde-format

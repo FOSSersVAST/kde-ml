@@ -14,7 +14,7 @@ msgstr ""
 #. (itstool) path: component/name
 #: org.kde.okular-txt.metainfo.xml:7
 msgid "Text"
-msgstr ""
+msgstr "വാചകം"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-txt.metainfo.xml:8

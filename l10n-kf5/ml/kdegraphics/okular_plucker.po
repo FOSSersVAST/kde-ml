@@ -30,4 +30,4 @@ msgstr ""
 #: generator_plucker.cpp:77
 #, kde-format
 msgid "Name"
-msgstr ""
+msgstr "പേരു്"

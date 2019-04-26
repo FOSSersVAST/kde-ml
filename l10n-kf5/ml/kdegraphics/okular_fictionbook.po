@@ -35,7 +35,7 @@ msgstr ""
 #: document.cpp:32
 #, kde-format
 msgid "Unable to open document: %1"
-msgstr ""
+msgstr "ഡോക്യുമെന്റ് തുറക്കാനായില്ല :%1"
 
 #: document.cpp:39
 #, kde-format
@@ -60,7 +60,7 @@ msgstr ""
 #: generator_fb.cpp:29
 #, kde-format
 msgid "FictionBook"
-msgstr ""
+msgstr "ഫിക്ഷൻ ബുക്ക്"
 
 #: generator_fb.cpp:29
 #, kde-format

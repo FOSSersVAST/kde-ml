@@ -98,7 +98,7 @@ msgstr ""
 #: src/kcmodule/devices/bluedevildevices.desktop:14
 msgctxt "Name"
 msgid "Devices"
-msgstr ""
+msgstr "ഉപകരണങ്ങൾ "
 
 #: src/kcmodule/devices/bluedevildevices.desktop:60
 msgctxt "Comment"

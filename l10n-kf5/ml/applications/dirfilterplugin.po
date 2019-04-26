@@ -20,7 +20,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Hide Filter Bar"
-msgstr ""
+msgstr "അരിപ്പയുടെ പട്ട മറയ്ക്കുക"
 
 #: dirfilterplugin.cpp:137
 #, kde-format
@@ -32,43 +32,43 @@ msgstr ""
 #, kde-format
 msgctxt "@label:button"
 msgid "Filter by t&ype"
-msgstr ""
+msgstr "മുദ്ര വെച്ച് അരിക്കുക"
 
 #: dirfilterplugin.cpp:150
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Filter items by file type."
-msgstr ""
+msgstr "ഫയലിന്റെ തരങ്ങൾ അനുസരിച്ച് ഇനങ്ങൾ വേർതിരിക്കുക"
 
 #: dirfilterplugin.cpp:241
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Show Filter Bar"
-msgstr ""
+msgstr "അരിപ്പയുടെ പട്ട കാണിയ്ക്കുക"
 
 #: dirfilterplugin.cpp:335
 #, kde-format
 msgid "Use Multiple Filters"
-msgstr ""
+msgstr "ഒന്നിലധികം അരിപ്പകൾ ഉപയോഗിക്കുക"
 
 #: dirfilterplugin.cpp:341
 #, kde-format
 msgid "Show Count"
-msgstr ""
+msgstr "എണ്ണം കാണിക്കുക"
 
 #: dirfilterplugin.cpp:346
 #, kde-format
 msgid "Reset"
-msgstr ""
+msgstr "പുനര്ക്രമീകരിക്കുക"
 
 #. i18n: ectx: Menu (tools)
 #: dirfilterplugin.rc:4
 #, kde-format
 msgid "&Tools"
-msgstr ""
+msgstr "&ഉപകരണങ്ങള്‍"
 
 #. i18n: ectx: ToolBar (extraToolBar)
 #: dirfilterplugin.rc:8
 #, kde-format
 msgid "Extra Toolbar"
-msgstr ""
+msgstr "കൂടുതല്‍ ഉപകരണനിര"

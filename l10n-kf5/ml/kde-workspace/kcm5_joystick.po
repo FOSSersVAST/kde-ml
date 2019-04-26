@@ -200,8 +200,8 @@ msgid ""
 "joystick</li><li>Saitek Cyborg 'digital' joysticks</li></ul>(For details you "
 "can check your Linux source/Documentation/input/joystick.txt)"
 msgstr ""
-"<h1>ജോയിസ്റ്റിക്ക്</h1> ഈ വിഭാഗം നിങ്ങളുടെ ജോയിസ്റ്റിക്ക് ഉപകരണം പ്രവര്‍ത്തനക്ഷമമാണോയെന്നു "
-"പരിശോധിക്കും.<br />"
+"<h1>ജോയ്സ്റ്റിക്ക്</h1> ഈ വിഭാഗം നിങ്ങളുടെ ജോയ്സ്റ്റിക്ക് ഉപകരണം "
+"പ്രവര്‍ത്തനക്ഷമമാണോയെന്നു പരിശോധിക്കും.<br />"
 
 #: joywidget.cpp:49
 #, kde-format
@@ -267,8 +267,9 @@ msgid ""
 "Please select a device from the list or\n"
 "enter a device file, like /dev/js0."
 msgstr ""
-"ഇപ്പോള്‍ കൊടുത്തിരിക്കുന്ന ഉപകരണപ്പേര് ശരിയല്ല. \n"
-" ശരിയായ പേര് പട്ടികയില്‍ നിന്നു തിരഞ്ഞെടുക്കുകയോ ഉപകരണഫയല്‍ നല്‍കുകയോ ചെയ്യുക. (/dev/js0)"
+"ഇപ്പോള്‍ കൊടുത്തിരിക്കുന്ന ഉപകരണനാമം ശരിയല്ല. \n"
+" ശരിയായ പേര് പട്ടികയില്‍ നിന്നു തിരഞ്ഞെടുക്കുകയോ\n"
+"ഉപകരണഫയല്‍ നല്‍കുകയോ ചെയ്യുക. (/dev/js0)"
 
 #: joywidget.cpp:267
 #, kde-format

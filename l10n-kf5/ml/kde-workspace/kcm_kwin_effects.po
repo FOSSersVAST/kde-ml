@@ -19,7 +19,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "അനി പീറ്റര്‍, ഹരി വിഷ്ണു, പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍,നീനു ചാക്കോ "
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -63,7 +63,7 @@ msgstr ""
 #: package/contents/ui/main.qml:45
 #, kde-format
 msgid "Search..."
-msgstr ""
+msgstr "തിരയുക"
 
 #: package/contents/ui/main.qml:52
 #, kde-format

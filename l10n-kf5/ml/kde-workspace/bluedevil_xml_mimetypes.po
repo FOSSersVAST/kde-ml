@@ -18,8 +18,8 @@ msgstr ""
 
 #: bluedevil-mime.xml.podir/bluedevil-mime.xml.in.h:1
 msgid "Device"
-msgstr ""
+msgstr "ഉപകരണം"
 
 #: bluedevil-mime.xml.podir/bluedevil-mime.xml.in.h:2
 msgid "Service"
-msgstr ""
+msgstr "സേവനം"

@@ -34,7 +34,7 @@ msgstr ""
 #. (itstool) path: description/p
 #: org.kde.spectacle.appdata.xml:12
 msgid "Features:"
-msgstr ""
+msgstr "സവിശേഷതകൾ"
 
 #. (itstool) path: ul/li
 #: org.kde.spectacle.appdata.xml:14
@@ -59,7 +59,7 @@ msgstr ""
 #. (itstool) path: ul/li
 #: org.kde.spectacle.appdata.xml:18
 msgid "Keyboard shortcuts for taking screenshots"
-msgstr ""
+msgstr "സ്ക്രീന്ഷോട് എടുക്കാനുള്ള ഷോർട്ക്കറ്റുകൾ "
 
 #. (itstool) path: screenshot/caption
 #: org.kde.spectacle.appdata.xml:23

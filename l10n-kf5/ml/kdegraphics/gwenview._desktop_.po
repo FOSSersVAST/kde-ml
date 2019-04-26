@@ -15,30 +15,30 @@ msgstr ""
 #: app/org.kde.gwenview.desktop.cmake:2
 msgctxt "Name"
 msgid "Gwenview"
-msgstr ""
+msgstr "ഗ്വെൻവ്യൂ"
 
 #: app/org.kde.gwenview.desktop.cmake:67
 msgctxt "GenericName"
 msgid "KDE Image Viewer"
-msgstr ""
+msgstr "കെഡിഇ ചിത്രദര്‍ശിനി"
 
 #: app/org.kde.gwenview.desktop.cmake:119
 msgctxt "Comment"
 msgid "A simple image viewer"
-msgstr ""
+msgstr "ഒരു ലളിതമായ ചിത്രദര്‍ശിനി"
 
 #: app/slideshow.desktop:7
 msgctxt "Name"
 msgid "Start a Slideshow"
-msgstr ""
+msgstr "സ്ലൈഡ്ഷോ തുടങ്ങുക"
 
 #: importer/gwenview_importer_camera.desktop:9
 #: importer/gwenview_importer.desktop:10
 msgctxt "Name"
 msgid "Download Photos with Gwenview"
-msgstr ""
+msgstr "ഗ്വെൻവ്യൂ ഉപയോഗിച്ച് ചിത്രങ്ങൾ ഡൗൺലോഡ് ചെയ്യുക "
 
 #: part/gvpart.desktop.cmake:3
 msgctxt "Name"
 msgid "Gwenview Image Viewer"
-msgstr ""
+msgstr "ഗ്വെൻവ്യൂ ചിത്രദര്‍ശിനി"
