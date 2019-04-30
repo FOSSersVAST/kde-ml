@@ -15,19 +15,19 @@ msgstr ""
 #: kcontrol/kamera.desktop:2
 msgctxt "Comment"
 msgid "Configure Kamera"
-msgstr ""
+msgstr "കാമറ ക്രമീകരിക്കുക"
 
 #: kcontrol/kamera.desktop:77
 msgctxt "X-KDE-Keywords"
 msgid "gphoto,camera,digicam,webcam,kamera"
-msgstr ""
+msgstr "ജിഫോട്ടോ,ക്യാമറ,ഡിജികാം,വെബ്ക്യാം,കാമറ"
 
 #: kcontrol/kamera.desktop:127
 msgctxt "Name"
 msgid "Digital Camera"
-msgstr ""
+msgstr "ഡിജിറ്റൽ ക്യാമറ"
 
 #: solid_camera.desktop:9
 msgctxt "Name"
 msgid "View Photos with File Manager"
-msgstr ""
+msgstr "ചിത്രം ഫയൽ മേനജീരിൽ കാണുക"

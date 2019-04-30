@@ -15,9 +15,9 @@ msgstr ""
 #: src/kipiplugin.desktop:5
 msgctxt "Name"
 msgid "KIPIPlugin"
-msgstr ""
+msgstr "കെ ഐ പി ഐ പ്ലഗിൻ"
 
 #: src/kipiplugin.desktop:62
 msgctxt "Comment"
 msgid "A KIPI Plugin"
-msgstr ""
+msgstr "ഒരു കെ ഐ പി ഐ പ്ലഗിന്"

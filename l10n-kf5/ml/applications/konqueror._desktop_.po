@@ -216,10 +216,9 @@ msgid "A fast way to change the KHTML settings"
 msgstr ""
 
 #: plugins/kimgalleryplugin/kimgalleryplugin.desktop:11
-#, fuzzy
 msgctxt "Name"
 msgid "Image Gallery"
-msgstr "ചിത്രം പ്രദര്‍ശിപ്പിക്കുന്നതിനുള്ള സംവിധാനം"
+msgstr "ചിത്രശാല"
 
 #: plugins/kimgalleryplugin/kimgalleryplugin.desktop:72
 msgctxt "Comment"

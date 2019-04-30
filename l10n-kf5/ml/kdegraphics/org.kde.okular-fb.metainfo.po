@@ -14,9 +14,9 @@ msgstr ""
 #. (itstool) path: component/name
 #: org.kde.okular-fb.metainfo.xml:7
 msgid "FictionBook"
-msgstr ""
+msgstr "ഫിക്ഷൻ ബുക്ക്"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-fb.metainfo.xml:8
 msgid "Adds support for reading FictionBooks"
-msgstr ""
+msgstr "ഫിക്ഷൻ പുസ്തകങ്ങൾ വായിക്കുന്നതിനുള്ള പിന്തുണ ചേർക്കുന്നു"

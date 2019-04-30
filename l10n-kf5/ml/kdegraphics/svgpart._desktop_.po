@@ -15,4 +15,4 @@ msgstr ""
 #: svgpart.desktop:3
 msgctxt "Name"
 msgid "Svg Part"
-msgstr ""
+msgstr "എസ് വി ജി ഭാഗം"

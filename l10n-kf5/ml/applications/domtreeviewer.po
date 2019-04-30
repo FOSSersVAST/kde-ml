@@ -56,27 +56,27 @@ msgstr "തെറ്റായ രെഖ"
 #: domtreecommands.cpp:38
 #, kde-format
 msgid "Invalid character"
-msgstr ""
+msgstr "അസാധുവായ അക്ഷരം"
 
 #: domtreecommands.cpp:39
 #, kde-format
 msgid "No data allowed"
-msgstr ""
+msgstr "വിവരം അനുവദനീയമല്ല"
 
 #: domtreecommands.cpp:40
 #, kde-format
 msgid "No modification allowed"
-msgstr ""
+msgstr "മാറ്റം വരുത്തല്‍ അനുവദനീയമല്ല"
 
 #: domtreecommands.cpp:41
 #, kde-format
 msgid "Not found"
-msgstr ""
+msgstr "കണ്ടെത്തിയില്ല"
 
 #: domtreecommands.cpp:42
 #, kde-format
 msgid "Not supported"
-msgstr ""
+msgstr "പിന്തുണ ലഭ്യമല്ല"
 
 #: domtreecommands.cpp:43
 #, kde-format
@@ -86,12 +86,12 @@ msgstr ""
 #: domtreecommands.cpp:44
 #, kde-format
 msgid "Invalid state"
-msgstr ""
+msgstr "അസാധുവായ സ്ഥിതി"
 
 #: domtreecommands.cpp:45
 #, kde-format
 msgid "Syntax error"
-msgstr ""
+msgstr "സിന്റാക്സ് പിശക്"
 
 #: domtreecommands.cpp:46
 #, kde-format

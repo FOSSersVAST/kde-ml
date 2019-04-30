@@ -14,9 +14,9 @@ msgstr ""
 #. (itstool) path: component/name
 #: org.kde.okular-md.metainfo.xml:7
 msgid "Markdown"
-msgstr ""
+msgstr "മാർക്ഡൗൺ"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-md.metainfo.xml:8
 msgid "Adds support for reading Markdown documents"
-msgstr ""
+msgstr "മാർക്ഡൗൺ പ്രമാണങ്ങൾ വായിക്കുന്നതിനുള്ള പിന്തുണ ചേർക്കുന്നു"

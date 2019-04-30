@@ -14,9 +14,9 @@ msgstr ""
 #. (itstool) path: component/name
 #: org.kde.okular-epub.metainfo.xml:7
 msgid "EPub"
-msgstr ""
+msgstr "ഈപബ്‌"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-epub.metainfo.xml:8
 msgid "Adds support for reading E-Books"
-msgstr ""
+msgstr "ഇ-ബുക്കുകൾ വായിക്കുന്നതിനുള്ള പിന്തുണ ചേർക്കുന്നു"

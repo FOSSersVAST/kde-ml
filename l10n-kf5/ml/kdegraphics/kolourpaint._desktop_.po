@@ -15,14 +15,14 @@ msgstr ""
 #: org.kde.kolourpaint.desktop:3
 msgctxt "Name"
 msgid "KolourPaint"
-msgstr ""
+msgstr "കളർപെയിന്റ്"
 
 #: org.kde.kolourpaint.desktop:76
 msgctxt "GenericName"
 msgid "Paint Program"
-msgstr ""
+msgstr "പെയിന്റ് പ്രോഗ്രാം"
 
 #: org.kde.kolourpaint.desktop:152
 msgctxt "Comment"
 msgid "An easy-to-use paint program"
-msgstr ""
+msgstr "ലളിതമായി ഉപയോഗിക്കാവുന്ന പെയിന്റ് പ്രോഗ്രാം"

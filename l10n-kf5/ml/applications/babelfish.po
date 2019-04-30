@@ -74,12 +74,12 @@ msgstr "&ഇറ്റാലിയനിൽ നിന്നും"
 #: plugin_babelfish.cpp:110
 #, kde-format
 msgid "&Dutch To"
-msgstr ""
+msgstr "ഡച്ചിൽ നിന്നും"
 
 #: plugin_babelfish.cpp:113
 #, kde-format
 msgid "&Russian To"
-msgstr ""
+msgstr "&റഷ്യനില്‍ നിന്നും"
 
 #: plugin_babelfish.cpp:129
 #, kde-format
@@ -101,7 +101,7 @@ msgstr ""
 #: plugin_babelfish.cpp:163 plugin_babelfish.cpp:165
 #, kde-format
 msgid "&French"
-msgstr ""
+msgstr "ഡച്ച്"
 
 #: plugin_babelfish.cpp:133 plugin_babelfish.cpp:146
 #, kde-format

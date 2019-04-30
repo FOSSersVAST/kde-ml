@@ -15,4 +15,4 @@ msgstr ""
 #: thumbnailers/mobithumbnail.desktop:3
 msgctxt "Name"
 msgid "Mobipocket Files"
-msgstr ""
+msgstr "മൊബി പോക്കറ്റ്‌ ഫയലുകൾ"

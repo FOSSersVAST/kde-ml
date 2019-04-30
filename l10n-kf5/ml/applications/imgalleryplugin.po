@@ -20,12 +20,12 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Create Image Gallery"
-msgstr ""
+msgstr "ചിത്രശാല സൃഷ്ടിക്കുക"
 
 #: imgallerydialog.cpp:54
 #, kde-format
 msgid "Create"
-msgstr ""
+msgstr "സൃഷ്ടിക്കുക"
 
 #: imgallerydialog.cpp:64 imgallerydialog.cpp:104
 #, kde-format
@@ -35,12 +35,12 @@ msgstr ""
 #: imgallerydialog.cpp:92
 #, kde-format
 msgid "Look"
-msgstr ""
+msgstr "അന്വേഷികുക്ക"
 
 #: imgallerydialog.cpp:93
 #, kde-format
 msgid "Page Look"
-msgstr ""
+msgstr "ഏട് അന്വേഷിക്കുക"
 
 #: imgallerydialog.cpp:101
 #, kde-format
@@ -122,7 +122,7 @@ msgstr ""
 #: imgallerydialog.cpp:227
 #, kde-format
 msgid "Endless"
-msgstr ""
+msgstr "അന്തമില്ലാത്ത"
 
 #: imgallerydialog.cpp:230
 #, kde-format
@@ -173,7 +173,7 @@ msgstr ""
 #: imgallerydialog.cpp:294 imgallerydialog.cpp:295
 #, kde-format
 msgid "Thumbnails"
-msgstr ""
+msgstr "ചിത്രത്തിന്റെ ചെറുരൂപം"
 
 #: imgallerydialog.cpp:314
 #, kde-format
@@ -253,7 +253,7 @@ msgstr ""
 #: imgalleryplugin.cpp:352 imgalleryplugin.cpp:447
 #, kde-format
 msgid "Could not open file: %1"
-msgstr ""
+msgstr "ഫയല്‍ തുറക്കുവാന്‍ പറ്റുന്നില്ല: %1"
 
 #. i18n: ectx: Menu (tools)
 #: kimgalleryplugin.rc:4

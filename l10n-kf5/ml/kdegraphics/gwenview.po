@@ -26,7 +26,7 @@ msgstr "അനി പീറ്റര്‍, നിസരി"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "നിങ്ങളുടെ ഇമെയിൽ"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: app/advancedconfigpage.ui:17
@@ -38,7 +38,7 @@ msgstr "കാഷ്:"
 #: app/advancedconfigpage.ui:29
 #, kde-format
 msgid "Delete thumbnail cache folder on exit"
-msgstr ""
+msgstr "പുറത്തുകടക്കുമ്പോൾ ലഘുചിത്ര കാഷ് ഫോൾഡർ ഇല്ലാതാക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, cacheHelpLabel)
 #: app/advancedconfigpage.ui:51
@@ -73,7 +73,7 @@ msgstr ""
 #, kde-format
 msgctxt "@option:Perceptual rendering intent"
 msgid "Perceptual"
-msgstr ""
+msgstr "വ്യാഖ്യാനങ്ങൾ"
 
 #. i18n: ectx: property (text), widget (QLabel, perceptualHelpLabel)
 #: app/advancedconfigpage.ui:154
@@ -103,43 +103,43 @@ msgstr ""
 #, kde-format
 msgctxt "@title actions category - means actions changing smth in interface"
 msgid "View"
-msgstr ""
+msgstr "കാണുക"
 
 #: app/browsemainpage.cpp:151
 #, kde-format
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Edit Location"
-msgstr ""
+msgstr "സ്ഥലം എഡിറ്റ് ചെയ്യുക"
 
 #: app/browsemainpage.cpp:155
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Sort By"
-msgstr ""
+msgstr "ക്രമപ്പെടുത്തൽ"
 
 #: app/browsemainpage.cpp:158
 #, kde-format
 msgctxt "@addAction:inmenu"
 msgid "Name"
-msgstr ""
+msgstr "പേര്"
 
 #: app/browsemainpage.cpp:161
 #, kde-format
 msgctxt "@addAction:inmenu"
 msgid "Date"
-msgstr ""
+msgstr "തീയതി"
 
 #: app/browsemainpage.cpp:164
 #, kde-format
 msgctxt "@addAction:inmenu"
 msgid "Size"
-msgstr ""
+msgstr "വലുപ്പം"
 
 #: app/browsemainpage.cpp:168
 #, kde-format
 msgctxt "@addAction:inmenu"
 msgid "Rating"
-msgstr ""
+msgstr "വിലയിരുത്തൽ"
 
 #: app/browsemainpage.cpp:176
 #, kde-format
@@ -151,50 +151,50 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Thumbnail Details"
-msgstr ""
+msgstr "ലഘുചിത്ര വിശദാംശങ്ങൾ"
 
 #: app/browsemainpage.cpp:190
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filename"
-msgstr ""
+msgstr "ഫയലിന്റെ പേര്"
 
 #: app/browsemainpage.cpp:191
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Date"
-msgstr ""
+msgstr "തീയതി"
 
 #: app/browsemainpage.cpp:192
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Image Size"
-msgstr ""
+msgstr "ചിത്രത്തിന്റെ വലുപ്പം"
 
 #: app/browsemainpage.cpp:193
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "File Size"
-msgstr ""
+msgstr "ഫയലിന്റെ വലുപ്പം"
 
 #: app/browsemainpage.cpp:195
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Rating"
-msgstr ""
+msgstr "വിലയിരുത്തൽ"
 
 #: app/browsemainpage.cpp:198 app/fileopscontextmanageritem.cpp:138
 #: app/mainwindow.cpp:371
 #, kde-format
 msgctxt "@title actions category"
 msgid "File"
-msgstr ""
+msgstr "ഫയൽ"
 
 #: app/browsemainpage.cpp:200
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Add Folder to Places"
-msgstr ""
+msgstr "സ്ഥലങ്ങളിലേക്ക് ഫോൾഡർ ചേർക്കുക"
 
 #: app/browsemainpage.cpp:247
 #, kde-format
@@ -202,7 +202,7 @@ msgctxt ""
 "@info:status %1 number of selected documents, %2 total number of documents, "
 "%3 total filesize of selected documents"
 msgid "Selected %1 of %2 (%3)"
-msgstr ""
+msgstr "%2 (%3) യിൽ നിന്നും %1 തിരഞ്ഞെടുത്തിരിക്കുന്നു"
 
 #: app/browsemainpage.cpp:253
 #, kde-format
@@ -235,7 +235,7 @@ msgstr ""
 #: app/configdialog.cpp:62
 #, kde-format
 msgid "General"
-msgstr ""
+msgstr "പൊതുവായത്"
 
 #: app/configdialog.cpp:98
 #, kde-format
@@ -245,87 +245,87 @@ msgstr ""
 #: app/configdialog.cpp:109
 #, kde-format
 msgid "Advanced"
-msgstr ""
+msgstr "വിപുലമായ"
 
 #: app/fileoperations.cpp:65
 #, kde-format
 msgctxt "@title:window %1 file name"
 msgid "Copy %1"
-msgstr ""
+msgstr "%1 പകർത്തുക"
 
 #: app/fileoperations.cpp:67
 #, kde-format
 msgctxt "@title:window %1 number of images"
 msgid "Copy %1 image"
 msgid_plural "Copy %1 images"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ചിത്രം പകർത്തുക"
+msgstr[1] "%1 ചിത്രങ്ങൾ പകർത്തുക"
 
 #: app/fileoperations.cpp:69
 #, kde-format
 msgctxt "@action:button"
 msgid "Copy"
-msgstr ""
+msgstr "പകർത്തുക"
 
 #: app/fileoperations.cpp:73
 #, kde-format
 msgctxt "@title:window %1 file name"
 msgid "Move %1"
-msgstr ""
+msgstr "%1 നീക്കുക"
 
 #: app/fileoperations.cpp:75
 #, kde-format
 msgctxt "@title:window %1 number of images"
 msgid "Move %1 image"
 msgid_plural "Move %1 images"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ചിത്രം നീക്കുക"
+msgstr[1] "%1 ചിത്രങ്ങൾ നീക്കുക"
 
 #: app/fileoperations.cpp:77
 #, kde-format
 msgctxt "@action:button"
 msgid "Move"
-msgstr ""
+msgstr "നീക്കുക"
 
 #: app/fileoperations.cpp:81
 #, kde-format
 msgctxt "@title:window %1 file name"
 msgid "Link %1"
-msgstr ""
+msgstr "%1 ലിങ്ക് ചെയ്യുക"
 
 #: app/fileoperations.cpp:83
 #, kde-format
 msgctxt "@title:window %1 number of images"
 msgid "Link %1 image"
 msgid_plural "Link %1 images"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ചിത്രം ലിങ്ക് ചെയ്യുക"
+msgstr[1] "%1 ചിത്രങ്ങൾ ലിങ്ക് ചെയ്യുക"
 
 #: app/fileoperations.cpp:85
 #, kde-format
 msgctxt "@action:button"
 msgid "Link"
-msgstr ""
+msgstr "ലിങ്ക് ചെയ്യുക"
 
 #: app/fileoperations.cpp:202
 #, kde-format
 msgid "Move Here"
-msgstr ""
+msgstr "ഇവിടേക്ക് നീക്കുക"
 
 #: app/fileoperations.cpp:205
 #, kde-format
 msgid "Copy Here"
-msgstr ""
+msgstr "ഇവിടേക്ക് പകർത്തുക"
 
 #: app/fileoperations.cpp:208
 #, kde-format
 msgid "Link Here"
-msgstr ""
+msgstr "ഇവിടേക്ക് ലിങ്ക് ചെയ്യുക"
 
 #: app/fileoperations.cpp:212
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "റദ്ദാക്കുക"
 
 #: app/fileopscontextmanageritem.cpp:126
 #, kde-format
@@ -337,19 +337,19 @@ msgstr ""
 #, kde-format
 msgctxt "@title actions category"
 msgid "Edit"
-msgstr ""
+msgstr "എഡിറ്റുചെയ്യുക"
 
 #: app/fileopscontextmanageritem.cpp:146
 #, kde-format
 msgctxt "Verb"
 msgid "Copy To..."
-msgstr ""
+msgstr "പകർത്തുക"
 
 #: app/fileopscontextmanageritem.cpp:151
 #, kde-format
 msgctxt "Verb"
 msgid "Move To..."
-msgstr ""
+msgstr "നീങ്ങുക"
 
 #: app/fileopscontextmanageritem.cpp:156
 #, kde-format
@@ -361,7 +361,7 @@ msgstr ""
 #, kde-format
 msgctxt "Verb"
 msgid "Rename..."
-msgstr ""
+msgstr "പേരുമാറ്റുക"
 
 #: app/fileopscontextmanageritem.cpp:166
 #, kde-format
@@ -372,42 +372,42 @@ msgstr ""
 #: app/fileopscontextmanageritem.cpp:173
 #, kde-format
 msgid "Restore"
-msgstr ""
+msgstr "പുനഃസ്ഥാപിക്കുക"
 
 #: app/fileopscontextmanageritem.cpp:177
 #, kde-format
 msgid "Properties"
-msgstr ""
+msgstr "പ്രോപ്പർട്ടികൾ"
 
 #: app/fileopscontextmanageritem.cpp:181
 #, kde-format
 msgid "Create Folder..."
-msgstr ""
+msgstr "ഫോൾഡർ സൃഷ്ടിക്കുക"
 
 #: app/fileopscontextmanageritem.cpp:185
 #, kde-format
 msgid "Open With"
-msgstr ""
+msgstr "ഇതിലൂടെ തുറക്കു"
 
 #: app/fileopscontextmanageritem.cpp:192
 #, kde-format
 msgid "Open Containing Folder"
-msgstr ""
+msgstr "അടങ്ങുന്ന ഫോൾഡർ തുറക്കുക"
 
 #: app/fileopscontextmanageritem.cpp:388
 #, kde-format
 msgid "Other Application..."
-msgstr ""
+msgstr "മറ്റ് അപ്ലിക്കേഷനുകൾ"
 
 #: app/filtercontroller.cpp:64
 #, kde-format
 msgid "Name contains"
-msgstr ""
+msgstr "പേരിൽ ഉൾപ്പെടുന്നു"
 
 #: app/filtercontroller.cpp:65
 #, kde-format
 msgid "Name does not contain"
-msgstr ""
+msgstr "പേരിൽ ഉൾപ്പെടുന്നില്ല"
 
 #: app/filtercontroller.cpp:106
 #, kde-format
