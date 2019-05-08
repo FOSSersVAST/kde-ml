@@ -21,22 +21,22 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Muhammed Rustham"
+msgstr "അതുൽ രാജ്‌, Muhammed Rustham, സുബിന്‍ സിബി"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "arpapps843@gmail.com"
 
 #: aboutdata.h:23 ui/annotationwidgets.cpp:418 ui/sidebar.cpp:766
 #, kde-format
 msgid "Okular"
-msgstr ""
+msgstr "ഒക്യുലർ"
 
 #: aboutdata.h:25
 #, kde-format
 msgid "Okular, a universal document viewer"
-msgstr ""
+msgstr "ഒക്യുലർ,ഒരു പരിപൂര്‍ണ്ണമായ ഡോക്യുമെന്റ് വ്യൂവർ "
 
 #: aboutdata.h:27
 #, kde-format
@@ -47,11 +47,16 @@ msgid ""
 "(C) 2004-2017 Albert Astals Cid\n"
 "(C) 2006-2009 Pino Toscano"
 msgstr ""
+"(C) 2002 വിൽകോ ഗ്രെവൻ,ക്രിസ്റ്റോഫ് ദിവ്യീസ്\n"
+"(C) 2004-2005 എൻറിക്ക റോസ്\n"
+"(C) 2005 പിയൂർ സീംമാൻസ്കി\n"
+"(C) 2004-2017 ആൽബർട്ട് അസ്റ്റൽസ് സിഡ്\n"
+"(C) 2006-2009 പിനോ ടോസ്കാനോ"
 
 #: aboutdata.h:36
 #, kde-format
 msgid "Former maintainer"
-msgstr ""
+msgstr "മുൻ പരിപാലകൻ"
 
 #: aboutdata.h:37
 #, kde-format
@@ -61,17 +66,17 @@ msgstr ""
 #: aboutdata.h:38
 #, kde-format
 msgid "Developer"
-msgstr ""
+msgstr "ഡെവലപ്പർ"
 
 #: aboutdata.h:39
 #, kde-format
 msgid "Created Okular from KPDF codebase"
-msgstr ""
+msgstr "ഒക്യുലർ കെ.പി.ഡി.ഫ് കോഡ് ബേസിൽ നിന്ന് നിർമിക്കപ്പെട്ടതാണ്"
 
 #: aboutdata.h:40
 #, kde-format
 msgid "KPDF developer"
-msgstr ""
+msgstr "കെ.പി.ഡി.ഫ് ഡെവലപ്പർ"
 
 #: aboutdata.h:41
 #, kde-format

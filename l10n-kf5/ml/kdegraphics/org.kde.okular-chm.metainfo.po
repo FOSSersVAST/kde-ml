@@ -14,9 +14,9 @@ msgstr ""
 #. (itstool) path: component/name
 #: org.kde.okular-chm.metainfo.xml:7
 msgid "CHM Documents"
-msgstr ""
+msgstr "സി എച് എം പ്രമാണങ്ങൾ"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-chm.metainfo.xml:8
 msgid "Adds support for reading CHM documents"
-msgstr ""
+msgstr "സി എം എച് പ്രമാണങ്ങൾ വായിക്കുവാൻ പിന്തുണ ചേർക്കുന്നു"

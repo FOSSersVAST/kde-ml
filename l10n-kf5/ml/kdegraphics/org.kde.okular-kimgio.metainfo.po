@@ -19,4 +19,4 @@ msgstr "ചിത്രങ്ങള്‍"
 #. (itstool) path: component/summary
 #: org.kde.okular-kimgio.metainfo.xml:8
 msgid "Adds support for reading many image formats"
-msgstr ""
+msgstr "നിരവധി ചിത്ര ഫോർമാറ്റുകൾ വായിക്കുന്നതിനുള്ള പിന്തുണ ചേർക്കുന്നു"

@@ -14,9 +14,9 @@ msgstr ""
 #. (itstool) path: component/name
 #: org.kde.okular-dvi.metainfo.xml:7
 msgid "DVI Documents"
-msgstr ""
+msgstr "ഡിവിഐ പ്രമാണങ്ങൾ"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-dvi.metainfo.xml:8
 msgid "Adds support for reading DVI documents"
-msgstr ""
+msgstr "ഡിവിഐ പ്രമാണങ്ങൾ വായിക്കാൻ പിന്തുണ ചേർക്കുന്നു"

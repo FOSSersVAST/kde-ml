@@ -36,9 +36,10 @@ msgid "Unknown identifier: '%1'"
 msgstr ""
 
 #: analitza/analyzer.cpp:252 analitza/analyzer.cpp:285
+#, fuzzy
 msgctxt "identifier separator in error message|"
 msgid "', '"
-msgstr ""
+msgstr "', '"
 
 #: analitza/analyzer.cpp:616
 msgctxt "Error message, no proper condition found.|"
@@ -100,7 +101,7 @@ msgstr ""
 #: analitza/commands/blockmatrixcommands.cpp:263
 msgctxt "QCoreApplication|"
 msgid "Do not want empty blocks"
-msgstr ""
+msgstr "ശൂന്യമായ ബ്ലോക്കുകളൊന്നും വേണ്ട"
 
 #: analitza/commands/blockmatrixcommands.cpp:93
 #: analitza/commands/blockmatrixcommands.cpp:130
@@ -108,19 +109,19 @@ msgstr ""
 #: analitza/commands/blockmatrixcommands.cpp:267
 msgctxt "QCoreApplication|"
 msgid "Blocks must be matrices"
-msgstr ""
+msgstr "ബ്ലോക്കുകൾ മാട്രിക്സുകൾ ആയിരിക്കണം"
 
 #: analitza/commands/blockmatrixcommands.cpp:142
 msgctxt "QCoreApplication|"
 msgid "Number of blocks must be consistent"
-msgstr ""
+msgstr "ബ്ലോക്കുകളുടെ എണ്ണം സ്ഥിരമായിരിക്കണം"
 
 #: analitza/commands/blockmatrixcommands.cpp:145
 #: analitza/commands/blockmatrixcommands.cpp:211
 #: analitza/commands/matrixcommands.cpp:147
 msgctxt "QCoreApplication|"
 msgid "Do not want empty vectors/matrixrow elements"
-msgstr ""
+msgstr "ശൂന്യമായ വെക്റ്ററുകൾ / മാട്രിക്സ് വരി ഘടകങ്ങൾ വേണ്ട"
 
 #: analitza/commands/blockmatrixcommands.cpp:150
 #: analitza/commands/blockmatrixcommands.cpp:213
@@ -128,6 +129,8 @@ msgstr ""
 msgctxt "QCoreApplication|"
 msgid "Matrix constructor needs vectors or matrixrow elements"
 msgstr ""
+"മാട്രിക്സ് കൺസ്ട്രക്റ്ററിന് വെക്റ്ററുകൾ അല്ലെങ്കിൽ മാട്രിക്സ് ഘടകങ്ങൾ "
+"ആവശ്യമാണ്"
 
 #: analitza/commands/blockmatrixcommands.cpp:244
 #: analitza/commands/matrixcommands.cpp:288
@@ -161,18 +164,18 @@ msgstr ""
 #: analitza/commands/eigencommands.cpp:193
 msgctxt "QCoreApplication|NaN means Not a Number, is an invalid float number"
 msgid "Returned eigenvalue is NaN"
-msgstr ""
+msgstr "തിരിച്ചുകിട്ടിയ എയ്ഗൻവാല്യു ഒരു സംഖ്യയല്ല"
 
 #: analitza/commands/eigencommands.cpp:132
 #: analitza/commands/eigencommands.cpp:196
 msgctxt "QCoreApplication|"
 msgid "Returned eigenvalue is too big"
-msgstr ""
+msgstr "ലഭിച്ച എയ്ഗൻവാല്യു വളരെ വലുതാണ്"
 
 #: analitza/commands/matrixcommands.cpp:31
 msgctxt "QCoreApplication|"
 msgid "Matrix dimensions must be greater than zero"
-msgstr ""
+msgstr "മാട്രിക്സ് അളവുകൾ പൂജ്യത്തേക്കാൾ വലുതായിരിക്കണം"
 
 #: analitza/commands/matrixcommands.cpp:122 analitza/expression.cpp:296
 msgctxt "QCoreApplication|"
@@ -363,9 +366,10 @@ msgid "Not supported/unknown: %1"
 msgstr ""
 
 #: analitza/expressionparser.cpp:296
+#, fuzzy
 msgctxt "QCoreApplication|"
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: analitza/expressionparser.cpp:296
 #, qt-format
@@ -1044,9 +1048,10 @@ msgid "<b>%1</b>"
 msgstr ""
 
 #: analitzagui/operatorsmodel.cpp:592
+#, fuzzy
 msgctxt "Function parameter separator|"
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: analitzagui/operatorsmodel.cpp:596
 msgctxt "Current parameter is the bounding|"

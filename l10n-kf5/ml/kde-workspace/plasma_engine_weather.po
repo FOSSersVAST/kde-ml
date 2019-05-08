@@ -3338,7 +3338,7 @@ msgstr "കനത്തു് പെയ്യുന്ന മഞ്ഞു് ക
 #, kde-format
 msgctxt "weather condition"
 msgid "Heavy Showers Snow Fog/Mist"
-msgstr ""
+msgstr "കനത്ത മഞ്ഞുവീഴ്ചയും മൂടൽമഞ്ഞും"
 
 #: noaa_i18n.dat:77
 #, kde-format
@@ -3410,7 +3410,7 @@ msgstr "കനത്ത മഞ്ഞുപാതങ്ങള്‍ കോടമ�
 #, kde-format
 msgctxt "weather condition"
 msgid "Heavy Snow Showers Fog/Mist"
-msgstr ""
+msgstr "കനത്ത മഞ്ഞുവീഴ്ചയും മൂടൽമഞ്ഞും"
 
 #: noaa_i18n.dat:90
 #, kde-format
@@ -3470,7 +3470,7 @@ msgstr "കഠിനമായ ഇടിമിന്നല്‍ മഴ മൂട
 #, kde-format
 msgctxt "weather condition"
 msgid "Heavy Thunderstorm Rain Small Hail/Snow Pellets"
-msgstr ""
+msgstr "കനത്ത ഇടിമിന്നലും മഴയും, ചെറിയ ആലിപ്പഴം/മഞ്ഞു കഷ്ണങ്ങൾ"
 
 #: noaa_i18n.dat:100
 #, kde-format
@@ -3614,7 +3614,7 @@ msgstr "ചെറിയ മഴപെയ്യല്‍"
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Rain Showers Fog/Mist"
-msgstr ""
+msgstr "നേരിയ മഴയും മൂടൽമഞ്ഞും"
 
 #: noaa_i18n.dat:130
 #, kde-format
@@ -3632,7 +3632,7 @@ msgstr "ചെറിയ മഴപെയ്യല്‍"
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Showers Rain Fog/Mist"
-msgstr ""
+msgstr "നേരിയ മഴയും മൂടൽമഞ്ഞും"
 
 #: noaa_i18n.dat:133
 #, kde-format
@@ -3650,7 +3650,7 @@ msgstr "നേര്‍ത്ത മഞ്ഞു് കോടമഞ്ഞു് 
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Showers Snow Fog/Mist"
-msgstr ""
+msgstr "നേരിയ മഞ്ഞുവീഴ്ചയും മൂടൽമഞ്ഞും"
 
 #: noaa_i18n.dat:136
 #, kde-format

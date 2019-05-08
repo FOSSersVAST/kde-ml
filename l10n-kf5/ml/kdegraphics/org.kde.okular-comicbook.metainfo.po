@@ -19,4 +19,4 @@ msgstr "കോമിക് പുസ്തകങ്ങള്‍"
 #. (itstool) path: component/summary
 #: org.kde.okular-comicbook.metainfo.xml:8
 msgid "Adds support for reading comic books"
-msgstr ""
+msgstr "കോമിക്ക് പുസ്തകങ്ങൾ വായിക്കാൻ പിന്തുണ ചേർക്കുന്നു"

@@ -14,9 +14,9 @@ msgstr ""
 #. (itstool) path: component/name
 #: org.kde.okular-xps.metainfo.xml:7
 msgid "XPS"
-msgstr ""
+msgstr "എക്സ് പി എസ്"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-xps.metainfo.xml:8
 msgid "Adds support for reading XPS documents"
-msgstr ""
+msgstr "എക്‌സ് പി എസ് പ്രമാണങ്ങൾ വായിക്കാൻ പിന്തുണാ ചേർക്കുന്നു"
