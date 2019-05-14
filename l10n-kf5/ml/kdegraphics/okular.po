@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "അതുൽ രാജ്‌, Muhammed Rustham, സുബിന്‍ സിബി"
+msgstr "അതുൽ രാജ്‌, Muhammed Rustham, സുബിന്‍ സിബി,ആദിത്യ ആർ പൈ"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -86,7 +86,7 @@ msgstr ""
 #: aboutdata.h:42
 #, kde-format
 msgid "Table selection tool"
-msgstr ""
+msgstr "ടേബിൾ സെലെക്ഷൻ ടൂൾ"
 
 #: aboutdata.h:43
 #, kde-format
@@ -133,7 +133,7 @@ msgstr ""
 #: conf/dlgaccessibilitybase.ui:94
 #, kde-format
 msgid "Change Paper Color"
-msgstr ""
+msgstr "പേപ്പർ കളർ മാറ്റുക"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RenderMode)
 #: conf/dlgaccessibilitybase.ui:99
@@ -151,7 +151,7 @@ msgstr "കറുപ്പും വെള്ളയും ആക്കുക "
 #: conf/dlgaccessibilitybase.ui:165
 #, kde-format
 msgid "Paper color:"
-msgstr ""
+msgstr "പേപ്പർ കളർ:"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
 #: conf/dlgaccessibilitybase.ui:218
@@ -196,6 +196,9 @@ msgid ""
 "<b>Note</b>: the information here is used only for comments and reviews. "
 "Information inserted here will not be transmitted without your knowledge."
 msgstr ""
+"<b>അറിയിപ്പ്</b>: ഇവിടെ കൊടുത്തിരിക്കുന്ന വിവരങ്ങൾ അഭിപ്രായപ്രകടനത്തിനും "
+"നിരൂപണത്തിനും വേണ്ടി മാത്രം ഉപയോഗപ്പെടുത്തുന്നതാണ്. ഇവിടെ കൊടുത്ത വിവരങ്ങൾ "
+"നിങ്ങളുടെ അറിവോടെ അല്ലാതെ ഉപയോഗപെടുത്തില്ല."
 
 #. i18n: ectx: property (title), widget (QGroupBox, annotToolsGroup)
 #: conf/dlgannotationsbase.ui:87
@@ -213,13 +216,13 @@ msgstr ""
 #, kde-format
 msgctxt "Text editor"
 msgid "Kate"
-msgstr ""
+msgstr "കെയ്റ്റ്"
 
 #: conf/dlgeditor.cpp:30
 #, kde-format
 msgctxt "Text editor"
 msgid "Kile"
-msgstr ""
+msgstr "കൈൽ"
 
 #: conf/dlgeditor.cpp:31
 #, kde-format
@@ -243,7 +246,7 @@ msgstr ""
 #, kde-format
 msgctxt "Text editor"
 msgid "TeXstudio"
-msgstr ""
+msgstr "ടെക്സ്സ്റ്റുഡിയോ"
 
 #: conf/dlgeditor.cpp:37
 #, kde-format
@@ -264,13 +267,13 @@ msgstr ""
 #: conf/dlgeditorbase.ui:19 conf/preferencesdialog.cpp:56
 #, kde-format
 msgid "Editor"
-msgstr ""
+msgstr "എഡിറ്റര്‍"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: conf/dlgeditorbase.ui:25
 #, kde-format
 msgid "Editor:"
-msgstr ""
+msgstr "എഡിറ്റര്‍:"
 
 #. i18n: ectx: property (whatsThis), widget (QComboBox, kcfg_ExternalEditor)
 #: conf/dlgeditorbase.ui:32
@@ -310,7 +313,7 @@ msgstr ""
 #: conf/dlggeneralbase.ui:87
 #, kde-format
 msgid "Show &hints and info messages"
-msgstr ""
+msgstr "&സൂചനകളും അറിയിപ്പുകളും കാണിക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DisplayDocumentTitle)
 #: conf/dlggeneralbase.ui:94
@@ -328,7 +331,7 @@ msgstr ""
 #: conf/dlggeneralbase.ui:126
 #, kde-format
 msgid "Display file name only"
-msgstr ""
+msgstr "ഫയലിന്റെ പേര് മാത്രം കാണിക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioFilePath)
 #: conf/dlggeneralbase.ui:136
@@ -352,7 +355,7 @@ msgstr ""
 #: conf/dlggeneralbase.ui:271
 #, kde-format
 msgid "Open new files in &tabs"
-msgstr ""
+msgstr "ഫയലുകള്‍ പുതിയ &ടാബുകളില്‍ തുറക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ObeyDRM)
 #: conf/dlggeneralbase.ui:278
