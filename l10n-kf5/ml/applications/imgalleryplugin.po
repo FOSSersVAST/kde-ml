@@ -208,7 +208,7 @@ msgstr ""
 #: imgalleryplugin.cpp:100
 #, kde-format
 msgid "Creating thumbnails"
-msgstr ""
+msgstr "ചിത്രത്തിന്റെ ചെറുരൂപം ഉണ്ടാക്കുന്നു"
 
 #: imgalleryplugin.cpp:123 imgalleryplugin.cpp:290
 #, kde-format
