@@ -49,6 +49,10 @@ msgid ""
 "filename> in your home folder, deleting all thumbnails previously generated "
 "by Gwenview and other applications."
 msgstr ""
+"താങ്കളുടെ കമ്പ്യൂട്ടറിൽ വേണ്ടുവോളം ഡിസ്ക് സ്പേസ് ഇല്ലെങ്കിൽ ഈ ഓപ്ഷൻ ഇനേബിൾ "
+"ചെയ്യുക<br/><br/><em>ജാഗ്രതാ:</em>ഈ ഓപ്ഷൻ <filename>.thumbnails</filename>എന്"
+"ന അറ ഹോം അറയിൽ നിന്നും നീക്കം ചെയ്യപ്പെടുന്നതാണ്, ഗ്വെൻവ്യൂം മറ്റ് "
+"പ്രയോഗങ്ങളിലെ ചിത്രത്തിന്റെ ചെറുരൂപങ്ങളും നീക്കം ചെയ്യപ്പെടും."
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: app/advancedconfigpage.ui:77
@@ -209,28 +213,28 @@ msgstr "%2 (%3) യിൽ നിന്നും %1 തിരഞ്ഞെടു�
 msgctxt "@info:status Image files"
 msgid "%1 image"
 msgid_plural "%1 images"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ചിത്രം"
+msgstr[1] "%1 ചിത്രങ്ങള്‍"
 
 #: app/browsemainpage.cpp:254
 #, kde-format
 msgctxt "@info:status Video files"
 msgid "%1 video"
 msgid_plural "%1 videos"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 വീഡിയോ"
+msgstr[1] "%1 വീഡിയോകള്‍"
 
 #: app/browsemainpage.cpp:261
 #, kde-format
 msgctxt "@info:status images, videos"
 msgid "%1, %2"
-msgstr ""
+msgstr "%1, %2"
 
 #. i18n: ectx: property (text), widget (Gwenview::StatusBarToolButton, mAddFilterButton)
 #: app/browsemainpage.ui:88
 #, kde-format
 msgid "Add Filter"
-msgstr ""
+msgstr "ഫിൽട്ടർ ചേർക്കുക"
 
 #: app/configdialog.cpp:62
 #, kde-format
@@ -330,7 +334,7 @@ msgstr "റദ്ദാക്കുക"
 #: app/fileopscontextmanageritem.cpp:126
 #, kde-format
 msgid "File Operations"
-msgstr ""
+msgstr "അറ പ്രക്രിയകൾ"
 
 #: app/fileopscontextmanageritem.cpp:139
 #: app/semanticinfocontextmanageritem.cpp:196
@@ -367,7 +371,7 @@ msgstr "പേരുമാറ്റുക"
 #, kde-format
 msgctxt "Verb"
 msgid "Trash"
-msgstr ""
+msgstr "ചവറ്"
 
 #: app/fileopscontextmanageritem.cpp:173
 #, kde-format
@@ -412,66 +416,66 @@ msgstr "പേരിൽ ഉൾപ്പെടുന്നില്ല"
 #: app/filtercontroller.cpp:106
 #, kde-format
 msgid "Date >="
-msgstr ""
+msgstr "തീയതി >="
 
 #: app/filtercontroller.cpp:107
 #, kde-format
 msgid "Date ="
-msgstr ""
+msgstr "തീയതി ="
 
 #: app/filtercontroller.cpp:108
 #, kde-format
 msgid "Date <="
-msgstr ""
+msgstr "തീയതി <="
 
 #: app/filtercontroller.cpp:141
 #, kde-format
 msgid "Rating >="
-msgstr ""
+msgstr "നിലവാരം >="
 
 #: app/filtercontroller.cpp:142
 #, kde-format
 msgid "Rating ="
-msgstr ""
+msgstr "നിലവാരം ="
 
 #: app/filtercontroller.cpp:143
 #, kde-format
 msgid "Rating <="
-msgstr ""
+msgstr "നിലവാരം <="
 
 #: app/filtercontroller.cpp:187
 #, kde-format
 msgid "Tagged"
-msgstr ""
+msgstr "ടാഗ് ചെയ്യപ്പെട്ടത്"
 
 #: app/filtercontroller.cpp:188
 #, kde-format
 msgid "Not Tagged"
-msgstr ""
+msgstr "ടാഗ് ചെയ്യപ്പെടാത്തത്"
 
 #: app/filtercontroller.cpp:293
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filter by Name"
-msgstr ""
+msgstr "പേരടിസ്ഥാനത്തിൽ അരിക്കുക"
 
 #: app/filtercontroller.cpp:297
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filter by Date"
-msgstr ""
+msgstr "തീയതിയുടെ അടിസ്ഥാനത്തിൽ അരിക്കുക"
 
 #: app/filtercontroller.cpp:302
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filter by Rating"
-msgstr ""
+msgstr "നിലവാരത്തിന്റെ അടിസ്ഥാനത്തിൽ അരിക്കുക"
 
 #: app/filtercontroller.cpp:306
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filter by Tag"
-msgstr ""
+msgstr "ടാഗ് അടിസ്ഥാനത്തിൽ അരിക്കുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: app/fullscreenconfigwidget.ui:20

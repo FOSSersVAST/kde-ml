@@ -27,8 +27,8 @@ msgstr "ശ്യാം കൃഷ്ണന്‍ സി.ആര്‍.,സുബ�
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
-"syamcr@gmail.com,subins2000@gmail.com,mujeebcpy@gmail.com,arpapps843@gmail.co"
-"m"
+"syamcr@gmail.com,subins2000@gmail.com,mujeebcpy@gmail.com,arpapps843@"
+"gmail.com, anoopms@disroot.org"
 
 #: dolphincontextmenu.cpp:144 panels/places/placespanel.cpp:179
 #, kde-format
@@ -2293,6 +2293,8 @@ msgid ""
 "Dolphin will create an hidden .directory file in each folder you change view "
 "properties for."
 msgstr ""
+"അവതരണ ഗുണം മാറ്റുന്ന ഓരോ അറകള്‍ക്കും ഡോൾഫിൻ മറഞ്ഞിരിക്കുന്ന .directory രേഖ "
+"ഉണ്ടാക്കുന്നതാണ് "
 
 #: settings/general/behaviorsettingspage.cpp:58
 #, fuzzy, kde-format
@@ -2483,7 +2485,7 @@ msgstr "ചിഹ്നങ്ങള്‍"
 #, kde-format
 msgctxt "@title:tab"
 msgid "Compact"
-msgstr ""
+msgstr "സംഗ്രഹം"
 
 #: settings/kcm/kcmdolphinviewmodes.cpp:61
 #: settings/viewmodes/viewsettingspage.cpp:52
@@ -2999,7 +3001,7 @@ msgctxt "@info:status"
 msgid "1 Folder selected"
 msgid_plural "%1 Folders selected"
 msgstr[0] "1 അറ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
-msgstr[1] "%1 അറകള് തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
+msgstr[1] "%1 അറകൾ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
 
 #: views/dolphinview.cpp:538
 #, kde-format

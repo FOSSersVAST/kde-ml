@@ -84,17 +84,17 @@ msgstr "&റഷ്യനില്‍ നിന്നും"
 #: plugin_babelfish.cpp:129
 #, kde-format
 msgid "&Chinese (Simplified)"
-msgstr ""
+msgstr "&ചൈനീസ് (ലളിതമാക്കിയത്)"
 
 #: plugin_babelfish.cpp:130
 #, kde-format
 msgid "Chinese (&Traditional)"
-msgstr ""
+msgstr "ചൈനീസ് (&പരമ്പരാഗതം)"
 
 #: plugin_babelfish.cpp:131 plugin_babelfish.cpp:144
 #, kde-format
 msgid "&Dutch"
-msgstr ""
+msgstr "&ഡച്ച്"
 
 #: plugin_babelfish.cpp:132 plugin_babelfish.cpp:153 plugin_babelfish.cpp:155
 #: plugin_babelfish.cpp:157 plugin_babelfish.cpp:159 plugin_babelfish.cpp:161
@@ -173,17 +173,17 @@ msgstr "&ചൈനീസ് (വ്യഖാനിച്ചത്) ഇംഗ്�
 #: plugin_babelfish.cpp:188
 #, kde-format
 msgid "Chinese (&Traditional) to English"
-msgstr ""
+msgstr "ചൈനീസ് (& പരമ്പരാഗതം)ഇൽ നിന്നും ഇംഗ്ലീഷിലേക്ക്"
 
 #: plugin_babelfish.cpp:197
 #, kde-format
 msgid "&Japanese to English"
-msgstr ""
+msgstr "&ജപ്പാനീസിൽ നിന്നും ഇംഗ്ലീഷിലേക്ക്"
 
 #: plugin_babelfish.cpp:198
 #, kde-format
 msgid "&Korean to English"
-msgstr ""
+msgstr "&കൊറിയനിൽ നിന്നും ഇംഗ്ലീഷിലേക്ക്"
 
 #: plugin_babelfish.cpp:266
 #, kde-format

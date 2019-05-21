@@ -19,7 +19,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "നിങ്ങളുടെ പേരുകൾ"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -29,7 +29,7 @@ msgstr ""
 #: mobilebroadbandsettings.cpp:40
 #, kde-format
 msgid "Configure mobile broadband"
-msgstr ""
+msgstr "മൊബൈൽ ബ്രോഡ്ബാൻഡ് കോൺഫിഗർ ചെയ്യുക"
 
 #: mobilebroadbandsettings.cpp:42
 #, kde-format
@@ -39,7 +39,7 @@ msgstr ""
 #: package/contents/ui/MobileSettings.qml:34
 #, kde-format
 msgid "Enable mobile data network"
-msgstr ""
+msgstr "മൊബൈൽ ഡാറ്റ നെറ്റ്വർക്ക് പ്രവർത്തനക്ഷമമാക്കുക"
 
 #: package/contents/ui/MobileSettings.qml:48
 #, kde-format
@@ -49,7 +49,7 @@ msgstr ""
 #: package/contents/ui/MobileSettings.qml:66
 #, kde-format
 msgid "Access point name"
-msgstr ""
+msgstr "ആക്സസ്സ് പോയിന്റിന്റെ പേര്"
 
 #: package/contents/ui/MobileSettings.qml:74
 #, kde-format
