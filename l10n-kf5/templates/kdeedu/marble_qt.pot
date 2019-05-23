@@ -3290,83 +3290,83 @@ msgctxt "BookmarkManagerDialogPrivate|"
 msgid "Remove Folder"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:412
+#: src/lib/marble/BookmarkManagerDialog.cpp:419
 msgctxt "Marble::BookmarkManagerDialog|"
 msgid "Export Bookmarks"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:413
+#: src/lib/marble/BookmarkManagerDialog.cpp:420
 msgctxt "Marble::BookmarkManagerDialog|"
 msgid "KML files (*.kml)"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:418
+#: src/lib/marble/BookmarkManagerDialog.cpp:425
 msgctxt "Marble::BookmarkManagerDialog|"
 msgid "Unable to save bookmarks. Please check that the file is writable."
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:419
+#: src/lib/marble/BookmarkManagerDialog.cpp:426
 msgctxt "Marble::BookmarkManagerDialog|"
 msgid "Bookmark Export"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:426
+#: src/lib/marble/BookmarkManagerDialog.cpp:433
 msgctxt "Marble::BookmarkManagerDialog|"
 msgid "Import Bookmarks"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:427
+#: src/lib/marble/BookmarkManagerDialog.cpp:434
 msgctxt "Marble::BookmarkManagerDialog|"
 msgid "KML Files (*.kml)"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:434
+#: src/lib/marble/BookmarkManagerDialog.cpp:441
 #, qt-format
 msgctxt "Marble::BookmarkManagerDialog|"
 msgid "The file %1 cannot be opened as a KML file."
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:435
+#: src/lib/marble/BookmarkManagerDialog.cpp:442
 msgctxt "Marble::BookmarkManagerDialog|"
 msgid "Bookmark Import"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:469
+#: src/lib/marble/BookmarkManagerDialog.cpp:476
 msgctxt "BookmarkManagerDialogPrivate|"
 msgid "The file contains a bookmark that already exists among your Bookmarks."
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:470
+#: src/lib/marble/BookmarkManagerDialog.cpp:477
 msgctxt "BookmarkManagerDialogPrivate|"
 msgid "Imported bookmark"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:471
+#: src/lib/marble/BookmarkManagerDialog.cpp:478
 msgctxt "BookmarkManagerDialogPrivate|"
 msgid "Existing bookmark"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:472
+#: src/lib/marble/BookmarkManagerDialog.cpp:479
 msgctxt "BookmarkManagerDialogPrivate|"
 msgid "Do you want to replace the existing bookmark with the imported one?"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:480
+#: src/lib/marble/BookmarkManagerDialog.cpp:487
 msgctxt "BookmarkManagerDialogPrivate|"
 msgid "Replace"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:481
+#: src/lib/marble/BookmarkManagerDialog.cpp:488
 msgctxt "BookmarkManagerDialogPrivate|"
 msgid "Replace All"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:482
+#: src/lib/marble/BookmarkManagerDialog.cpp:489
 msgctxt "BookmarkManagerDialogPrivate|"
 msgid "Skip"
 msgstr ""
 
-#: src/lib/marble/BookmarkManagerDialog.cpp:483
+#: src/lib/marble/BookmarkManagerDialog.cpp:490
 msgctxt "BookmarkManagerDialogPrivate|"
 msgid "Skip All"
 msgstr ""

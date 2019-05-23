@@ -1,39 +1,40 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-11 02:02+0000\n"
-"PO-Revision-Date: 2018-10-11 02:02+0000\n"
-"Last-Translator: Automatically generated\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 01:30+0000\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
 "org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: discover/org.kde.discover.desktop.cmake:2
 #: libdiscover/backends/FlatpakBackend/org.kde.discover-flatpak.desktop:2
 msgctxt "Name"
 msgid "Discover"
-msgstr ""
+msgstr "കണ്ടെത്തുക"
 
-#: discover/org.kde.discover.desktop.cmake:49
+#: discover/org.kde.discover.desktop.cmake:50
 msgctxt "GenericName"
 msgid "Software Center"
-msgstr ""
+msgstr "സോഫ്റ്റ്വെയർ സെന്റർ"
 
-#: discover/org.kde.discover.desktop.cmake:90
+#: discover/org.kde.discover.desktop.cmake:92
 msgctxt "Keywords"
 msgid ""
 "program;software;repository;package;install;remove;update;apps;applications;"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:131
+#: discover/org.kde.discover.desktop.cmake:133
 #: notifier/plasmoid/metadata.desktop:2
 msgctxt "Name"
 msgid "Updates"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾ"
 
 #: libdiscover/backends/KNSBackend/custom/discover_ktexteditor_codesnippets_core.knsrc:2
 msgctxt "Name"
@@ -50,22 +51,22 @@ msgctxt "Description"
 msgid "Allows snap front-ends to log in"
 msgstr ""
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:3
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:4
 msgctxt "Comment"
 msgid "Discover"
-msgstr ""
+msgstr "കണ്ടെത്തുക"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:43
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:45
 msgctxt "Name"
 msgid "Updates Are Available"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ് "
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:84
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:87
 msgctxt "Comment"
 msgid "Updates Available"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ്"
 
-#: notifier/plasmoid/metadata.desktop:43
+#: notifier/plasmoid/metadata.desktop:44
 msgctxt "Comment"
 msgid "Helps you keep your system up to date"
-msgstr ""
+msgstr "നിങ്ങളുടെ സിസ്റ്റം കാലികമായി നിലനിർത്താൻ സഹായിക്കുന്നു"

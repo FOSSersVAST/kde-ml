@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: okular\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-16 03:29+0200\n"
-"PO-Revision-Date: 2019-04-16 03:29+0200\n"
-"Last-Translator: Automatically generated\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:08+0200\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
 "org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -31,7 +32,7 @@ msgstr ""
 #: conf/pdfsettingswidget.ui:12
 #, kde-format
 msgid "Enhance thin lines:"
-msgstr ""
+msgstr "നേർത്ത വരികൾ വർദ്ധിപ്പിക്കുക"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_EnhanceThinLines)
 #: conf/pdfsettingswidget.ui:23 generator_pdf.cpp:829
@@ -49,7 +50,7 @@ msgstr ""
 #: conf/pdfsettingswidget.ui:33
 #, kde-format
 msgid "Shape"
-msgstr ""
+msgstr "ആകൃതി"
 
 #: generator_pdf.cpp:94
 #, kde-format
@@ -94,12 +95,12 @@ msgstr ""
 #: generator_pdf.cpp:109
 #, kde-format
 msgid "Fit to printable area"
-msgstr ""
+msgstr "മുഴുവൻ പേജിലേക്കും വ്യാപിപ്പിക്കുക "
 
 #: generator_pdf.cpp:110
 #, kde-format
 msgid "Fit to full page"
-msgstr ""
+msgstr "മുഴുവൻ പേജിലേക്കും വ്യാപിപ്പിക്കുക "
 
 #: generator_pdf.cpp:111
 #, kde-format
@@ -130,7 +131,7 @@ msgstr ""
 #: generator_pdf.cpp:828
 #, kde-format
 msgid "Encrypted"
-msgstr ""
+msgstr "എൻക്രിപ്റ്റ് ചെയ്തിരിക്കുന്നു"
 
 #: generator_pdf.cpp:828
 #, kde-format
@@ -140,7 +141,7 @@ msgstr ""
 #: generator_pdf.cpp:828
 #, kde-format
 msgid "Security"
-msgstr ""
+msgstr "സുരക്ഷ"
 
 #: generator_pdf.cpp:829
 #, kde-format
@@ -178,4 +179,4 @@ msgstr ""
 #: pdfsignatureutils.cpp:44 pdfsignatureutils.cpp:50
 #, kde-format
 msgid "Not Available"
-msgstr ""
+msgstr "ലഭ്യമല്ല "

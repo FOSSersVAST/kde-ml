@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:16+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,22 +17,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: HolidaysConfig.qml:60
+#: HolidaysConfig.qml:58
 #, kde-format
-msgid "Search Holiday Regions"
+msgid "Search..."
 msgstr ""
 
-#: HolidaysConfig.qml:106
+#: HolidaysConfig.qml:105
 #, kde-format
 msgid "Region"
 msgstr ""
 
-#: HolidaysConfig.qml:110
+#: HolidaysConfig.qml:109
 #, kde-format
 msgid "Name"
 msgstr ""
 
-#: HolidaysConfig.qml:114
+#: HolidaysConfig.qml:113
 #, kde-format
 msgid "Description"
 msgstr ""

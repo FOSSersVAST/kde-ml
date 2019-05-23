@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-02-13 03:37+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
 "PO-Revision-Date: 2019-02-13 03:37+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: i18n.dat:1
 #, kde-format
@@ -143,110 +144,109 @@ msgctxt "@title"
 msgid "Units"
 msgstr ""
 
-#: package/contents/ui/config/ConfigAppearance.qml:63
+#: package/contents/ui/config/ConfigAppearance.qml:60
 #, kde-format
 msgctxt "@title:group"
 msgid "Compact Mode"
 msgstr ""
 
+#: package/contents/ui/config/ConfigAppearance.qml:69
+#, kde-format
+msgctxt "@label"
+msgid "Show beside widget icon:"
+msgstr ""
+
 #: package/contents/ui/config/ConfigAppearance.qml:73
 #, kde-format
-msgctxt "@label"
-msgid "Display:"
+msgctxt "@option:check Show on widget icon: temperature"
+msgid "Temperature"
 msgstr ""
 
-#: package/contents/ui/config/ConfigAppearance.qml:83
-#: package/contents/ui/config/ConfigAppearance.qml:100
-#, kde-format
-msgctxt "@option:check"
-msgid "Show temperature"
-msgstr ""
-
-#: package/contents/ui/config/ConfigAppearance.qml:91
+#: package/contents/ui/config/ConfigAppearance.qml:86
 #, kde-format
 msgctxt "@label"
-msgid "Tooltip:"
+msgid "Show in tooltip:"
 msgstr ""
 
-#: package/contents/ui/config/ConfigAppearance.qml:110
+#: package/contents/ui/config/ConfigAppearance.qml:88
 #, kde-format
 msgctxt "@option:check"
-msgid "Show wind"
+msgid "Temperature"
 msgstr ""
 
-#: package/contents/ui/config/ConfigAppearance.qml:120
+#: package/contents/ui/config/ConfigAppearance.qml:95
 #, kde-format
-msgctxt "@option:check"
-msgid "Show pressure"
+msgctxt "@option:check Show in tooltip: wind"
+msgid "Wind"
 msgstr ""
 
-#: package/contents/ui/config/ConfigAppearance.qml:130
+#: package/contents/ui/config/ConfigAppearance.qml:102
 #, kde-format
-msgctxt "@option:check"
-msgid "Show humidity"
+msgctxt "@option:check Show in tooltip: pressure"
+msgid "Pressure"
 msgstr ""
 
-#: package/contents/ui/config/ConfigUnits.qml:67
+#: package/contents/ui/config/ConfigAppearance.qml:109
+#, kde-format
+msgctxt "@option:check Show in tooltip: humidity"
+msgid "Humidity"
+msgstr ""
+
+#: package/contents/ui/config/ConfigUnits.qml:62
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Temperature:"
 msgstr ""
 
-#: package/contents/ui/config/ConfigUnits.qml:83
+#: package/contents/ui/config/ConfigUnits.qml:72
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Pressure:"
 msgstr ""
 
-#: package/contents/ui/config/ConfigUnits.qml:99
+#: package/contents/ui/config/ConfigUnits.qml:82
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Wind speed:"
 msgstr ""
 
-#: package/contents/ui/config/ConfigUnits.qml:115
+#: package/contents/ui/config/ConfigUnits.qml:92
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Visibility:"
 msgstr ""
 
-#: package/contents/ui/config/ConfigWeatherStation.qml:73
+#: package/contents/ui/config/ConfigWeatherStation.qml:66
 #, kde-format
 msgctxt "@label"
 msgid "Location:"
 msgstr ""
 
-#: package/contents/ui/config/ConfigWeatherStation.qml:90
+#: package/contents/ui/config/ConfigWeatherStation.qml:79
 #: plugin/locationlistmodel.cpp:139
 #, kde-format
 msgctxt "A weather station location and the weather service it comes from"
 msgid "%1 (%2)"
 msgstr ""
 
-#: package/contents/ui/config/ConfigWeatherStation.qml:92
-#, kde-format
-msgctxt "no weather station"
-msgid "-"
-msgstr ""
-
-#: package/contents/ui/config/ConfigWeatherStation.qml:99
-#: package/contents/ui/config/WeatherStationPickerDialog.qml:101
+#: package/contents/ui/config/ConfigWeatherStation.qml:89
 #, kde-format
 msgctxt "@action:button"
-msgid "Select"
+msgid "Choose..."
 msgstr ""
 
-#: package/contents/ui/config/ConfigWeatherStation.qml:109
+#: package/contents/ui/config/ConfigWeatherStation.qml:97
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Update every:"
 msgstr ""
 
-#: package/contents/ui/config/ConfigWeatherStation.qml:116
+#: package/contents/ui/config/ConfigWeatherStation.qml:100
 #, kde-format
-msgctxt "@item:valuesuffix spacing to number + unit (minutes)"
-msgid " min"
-msgstr ""
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] ""
+msgstr[1] ""
 
 #: package/contents/ui/config/WeatherStationPicker.qml:53
 #, kde-format
@@ -276,6 +276,12 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Select Weather Station"
+msgstr ""
+
+#: package/contents/ui/config/WeatherStationPickerDialog.qml:101
+#, kde-format
+msgctxt "@action:button"
+msgid "Select"
 msgstr ""
 
 #: package/contents/ui/config/WeatherStationPickerDialog.qml:108

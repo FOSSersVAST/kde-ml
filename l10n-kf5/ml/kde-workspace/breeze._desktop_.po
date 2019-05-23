@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-13 01:41+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
 "PO-Revision-Date: 2019-04-13 01:41+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -11,6 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: colors/./Breeze.colors:107 cursors/Breeze/Breeze/index.theme:2
 #: cursors/Breeze/src/index.theme:2 kstyle/breeze.themerc:2
@@ -18,7 +19,7 @@ msgctxt "Name"
 msgid "Breeze"
 msgstr ""
 
-#: colors/./BreezeDark.colors:107 lookandfeel.dark/metadata.desktop:26
+#: colors/./BreezeDark.colors:107 lookandfeel.dark/metadata.desktop:27
 msgctxt "Name"
 msgid "Breeze Dark"
 msgstr ""
@@ -40,8 +41,8 @@ msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr ""
 
-#: cursors/Breeze_Snow/Breeze_Snow/index.theme:27
-#: cursors/Breeze_Snow/src/index.theme:27
+#: cursors/Breeze_Snow/Breeze_Snow/index.theme:29
+#: cursors/Breeze_Snow/src/index.theme:29
 msgctxt "Comment"
 msgid "Breeze Light by the KDE VDG"
 msgstr ""

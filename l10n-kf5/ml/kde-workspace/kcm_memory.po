@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcm_memory\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:14+0200\n"
-"PO-Revision-Date: 2008-07-04 00:42+0530\n"
-"Last-Translator: ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
 "discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -178,10 +178,10 @@ msgstr ""
 "ലഭ്യമാക്കുന്നു.</p> "
 
 #: memory.cpp:264
-#, fuzzy, kde-format
+#, kde-format
 msgid "1 byte ="
 msgid_plural "%1 bytes ="
-msgstr[0] "%1 ബൈറ്റുകള്‍ ="
+msgstr[0] "%1 ബൈറ്റ് ="
 msgstr[1] "%1 ബൈറ്റുകള്‍ ="
 
 #: physicalMemoryChart.cpp:50

@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcmcomponentchooser\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-31 04:34+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2010-01-20 10:37+0530\n"
 "Last-Translator: seshagiri prabhu <seshagiriprabhu@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -229,8 +229,8 @@ msgid ""
 "Activate this option if you want the selected email client to be executed in "
 "a terminal (e.g. <em>Konsole</em>)."
 msgstr ""
-"നിങ്ങള്‍ക്കു് തെരഞ്ഞെടുത്ത ഈമെയില്‍ ക്ലയന്റ് ടെര്‍മിനലില്‍ (ഉദാ. <em>കണ്‍സോള്‍</em>) പ്രവര്‍"
-"ത്തിപ്പിക്കണമെങ്കില്‍ ഇതു് സജീവമാക്കുക."
+"നിങ്ങള്‍ക്കു് തെരഞ്ഞെടുത്ത ഈമെയില്‍ ക്ലയന്റ് ടെര്‍മിനലില്‍ (ഉദാ. <em>കണ്‍സോള്‍</em>) "
+"പ്രവര്‍ത്തിപ്പിക്കണമെങ്കില്‍ ഇതു് സജീവമാക്കുക."
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkRunTerminal)
 #: emailclientconfig_ui.ui:102
@@ -286,10 +286,10 @@ msgid ""
 "accepted.<br/> Also note that some programs that utilize Terminal Emulator "
 "will not work if you add command line arguments (Example: konsole -ls)."
 msgstr ""
-"നിങ്ങളുടെ പ്രയപ്പെട്ട ടെര്‍മിനല്‍ തിരഞ്ഞെടുക്കാന്‍ ഈ ബട്ടന്‍ അമര്‍ത്തു. നിങ്ങള്‍ തിരഞ്ഞെടുത്ത ഫയല്‍ പ്രവര്‍"
-"ത്തിക്കാന്‍ കഴിയുന്നതാണെങ്കില്‍ മാത്രമേ സ്വീകരിക്കുകയുള്ളു.<br/> ടെര്‍മിനല്‍ എമുലേറ്റര്‍ ഉപയൊഗിച്ചു് "
-"പ്രവര്‍ത്തിക്കുന്ന പ്രോഗ്രാമില്‍ ആജ്ഞാസ്ഥാനം ആര്‍ഗ്യുമെന്റ് ചേര്‍ത്താല്‍ അതു പ്രവര്‍ത്തന രഹിതമാക്കും (ഉദാ: "
-"konsole -ls)."
+"നിങ്ങളുടെ പ്രയപ്പെട്ട ടെര്‍മിനല്‍ തിരഞ്ഞെടുക്കാന്‍ ഈ ബട്ടന്‍ അമര്‍ത്തു. നിങ്ങള്‍ തിരഞ്ഞെടുത്ത ഫയല്‍ "
+"പ്രവര്‍ത്തിക്കാന്‍ കഴിയുന്നതാണെങ്കില്‍ മാത്രമേ സ്വീകരിക്കുകയുള്ളു.<br/> ടെര്‍മിനല്‍ എമുലേറ്റര്‍ "
+"ഉപയൊഗിച്ചു് പ്രവര്‍ത്തിക്കുന്ന പ്രോഗ്രാമില്‍ ആജ്ഞാസ്ഥാനം ആര്‍ഗ്യുമെന്റ് ചേര്‍ത്താല്‍ അതു പ്രവര്‍ത്തന "
+"രഹിതമാക്കും (ഉദാ: konsole -ls)."
 
 #. i18n: ectx: property (whatsThis), widget (QToolButton, btnSelectTerminal)
 #: terminalemulatorconfig_ui.ui:57

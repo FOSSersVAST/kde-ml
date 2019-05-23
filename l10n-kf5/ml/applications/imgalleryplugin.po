@@ -6,26 +6,28 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-20 03:37+0200\n"
-"PO-Revision-Date: 2018-09-20 03:37+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: imgallerydialog.cpp:53
 #, kde-format
 msgctxt "@title:window"
 msgid "Create Image Gallery"
-msgstr ""
+msgstr "ചിത്രശാല സൃഷ്ടിക്കുക"
 
 #: imgallerydialog.cpp:54
 #, kde-format
 msgid "Create"
-msgstr ""
+msgstr "സൃഷ്ടിക്കുക"
 
 #: imgallerydialog.cpp:64 imgallerydialog.cpp:104
 #, kde-format
@@ -35,12 +37,12 @@ msgstr ""
 #: imgallerydialog.cpp:92
 #, kde-format
 msgid "Look"
-msgstr ""
+msgstr "അന്വേഷികുക്ക"
 
 #: imgallerydialog.cpp:93
 #, kde-format
 msgid "Page Look"
-msgstr ""
+msgstr "ഏട് അന്വേഷിക്കുക"
 
 #: imgallerydialog.cpp:101
 #, kde-format
@@ -122,7 +124,7 @@ msgstr ""
 #: imgallerydialog.cpp:227
 #, kde-format
 msgid "Endless"
-msgstr ""
+msgstr "അന്തമില്ലാത്ത"
 
 #: imgallerydialog.cpp:230
 #, kde-format
@@ -173,7 +175,7 @@ msgstr ""
 #: imgallerydialog.cpp:294 imgallerydialog.cpp:295
 #, kde-format
 msgid "Thumbnails"
-msgstr ""
+msgstr "ചിത്രത്തിന്റെ ചെറുരൂപം"
 
 #: imgallerydialog.cpp:314
 #, kde-format
@@ -208,7 +210,7 @@ msgstr ""
 #: imgalleryplugin.cpp:100
 #, kde-format
 msgid "Creating thumbnails"
-msgstr ""
+msgstr "ചിത്രത്തിന്റെ ചെറുരൂപം ഉണ്ടാക്കുന്നു"
 
 #: imgalleryplugin.cpp:123 imgalleryplugin.cpp:290
 #, kde-format
@@ -253,7 +255,7 @@ msgstr ""
 #: imgalleryplugin.cpp:352 imgalleryplugin.cpp:447
 #, kde-format
 msgid "Could not open file: %1"
-msgstr ""
+msgstr "ഫയല്‍ തുറക്കുവാന്‍ പറ്റുന്നില്ല: %1"
 
 #. i18n: ectx: Menu (tools)
 #: kimgalleryplugin.rc:4

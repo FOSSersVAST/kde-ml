@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcmkded\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2008-11-12 12:16+0530\n"
 "Last-Translator: മണിലാല്‍ കെ.എം|Manilal K M <libregeek@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -123,8 +123,8 @@ msgid ""
 "unknown services."
 msgstr ""
 "കെഡിഇയുടെ ആരംഭത്തില്‍ ലഭ്യമാകുന്ന എല്ലാ കെഡിഇ സേവനങ്ങളും ഇവിടെ കാണാം. ഇപ്പോള്‍ നിങ്ങള്‍ "
-"തിരഞ്ഞെടുക്കുന്നവ അടുത്ത തവണ ആരംഭിക്കുമ്പോള്‍ ലഭ്യമാകുന്നു. അപരിചിതമായ സേവനങ്ങള്‍ നിര്‍"
-"ജ്ജീവമാക്കുന്നതിനെപ്പറ്റി പ്രത്യേകം ശ്രദ്ധിക്കേണ്ടതുണ്ടു്."
+"തിരഞ്ഞെടുക്കുന്നവ അടുത്ത തവണ ആരംഭിക്കുമ്പോള്‍ ലഭ്യമാകുന്നു. അപരിചിതമായ സേവനങ്ങള്‍ "
+"നിര്‍ജ്ജീവമാക്കുന്നതിനെപ്പറ്റി പ്രത്യേകം ശ്രദ്ധിക്കേണ്ടതുണ്ടു്."
 
 #: kcmkded.cpp:130
 #, kde-format

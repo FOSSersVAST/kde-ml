@@ -6,15 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kde-gtk-config\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-18 03:38+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:23+0200\n"
 "PO-Revision-Date: 2019-03-18 03:38+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -26,67 +28,67 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: src/dialog_installer.cpp:89 src/dialog_installer.cpp:103
+#: src/dialog_installer.cpp:97 src/dialog_installer.cpp:111
 #, kde-format
 msgid "Could not install the %1 theme."
 msgstr ""
 
-#: src/dialog_installer.cpp:89 src/dialog_installer.cpp:103
+#: src/dialog_installer.cpp:97 src/dialog_installer.cpp:111
 #, kde-format
 msgid "Cannot install theme"
 msgstr ""
 
-#: src/dialog_installer.cpp:113 src/dialog_installer.cpp:139
+#: src/dialog_installer.cpp:121 src/dialog_installer.cpp:147
 #, kde-format
 msgid "Parsing theme..."
 msgstr ""
 
-#: src/dialog_installer.cpp:128
+#: src/dialog_installer.cpp:136
 #, kde-format
 msgid "This GTK theme can be installed"
 msgstr ""
 
-#: src/dialog_installer.cpp:131
+#: src/dialog_installer.cpp:139
 #, kde-format
 msgid "This GTK theme cannot be installed"
 msgstr ""
 
-#: src/dialog_installer.cpp:154
+#: src/dialog_installer.cpp:162
 #, kde-format
 msgid "This icons theme can be installed"
 msgstr ""
 
-#: src/dialog_installer.cpp:157
+#: src/dialog_installer.cpp:165
 #, kde-format
 msgid "This icons theme cannot be installed"
 msgstr ""
 
-#: src/dialog_installer.cpp:177
+#: src/dialog_installer.cpp:185
 #, kde-format
 msgid "Installing GTK theme..."
 msgstr ""
 
-#: src/dialog_installer.cpp:183
+#: src/dialog_installer.cpp:191
 #, kde-format
 msgid "Installing icons..."
 msgstr ""
 
-#: src/dialog_installer.cpp:192
+#: src/dialog_installer.cpp:200
 #, kde-format
 msgid "Icons Successfully Installed"
 msgstr ""
 
-#: src/dialog_installer.cpp:196
+#: src/dialog_installer.cpp:204
 #, kde-format
 msgid "The icons theme cannot be installed"
 msgstr ""
 
-#: src/dialog_installer.cpp:205
+#: src/dialog_installer.cpp:213
 #, kde-format
 msgid "GTK Theme Successfully Installed"
 msgstr ""
 
-#: src/dialog_installer.cpp:208
+#: src/dialog_installer.cpp:216
 #, kde-format
 msgid "The GTK theme cannot be installed"
 msgstr ""
@@ -121,77 +123,77 @@ msgstr ""
 msgid "Could not uninstall the icon theme."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:65
+#: src/gtkconfigkcmodule.cpp:67
 #, kde-format
 msgid "GTK Application Style"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:66
+#: src/gtkconfigkcmodule.cpp:68
 #, kde-format
 msgid "Copyright 2011 José Antonio Sánchez Reynaga"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:67
+#: src/gtkconfigkcmodule.cpp:69
 #, kde-format
 msgid "José Antonio Sánchez Reynaga (antonioJASR)"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:67
+#: src/gtkconfigkcmodule.cpp:69
 #, kde-format
 msgid "Main Developer"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:68
+#: src/gtkconfigkcmodule.cpp:70
 #, kde-format
 msgid "Aleix Pol i Gonzalez"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:68
+#: src/gtkconfigkcmodule.cpp:70
 #, kde-format
 msgid "Feature development. Previews, code refactoring."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:69
+#: src/gtkconfigkcmodule.cpp:71
 #, kde-format
 msgid "Manuel Tortosa (manutortosa)"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:69
+#: src/gtkconfigkcmodule.cpp:71
 #, kde-format
 msgid "Ideas, tester, internationalization"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:70
+#: src/gtkconfigkcmodule.cpp:72
 #, kde-format
 msgid "Adrián Chaves Fernández (Gallaecio)"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:70
+#: src/gtkconfigkcmodule.cpp:72
 #, kde-format
 msgid "Internationalization"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:140
+#: src/gtkconfigkcmodule.cpp:142
 #, kde-format
 msgid "Download GTK2 themes..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:141
+#: src/gtkconfigkcmodule.cpp:143
 #, kde-format
 msgid "Download GTK3 themes..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:142
+#: src/gtkconfigkcmodule.cpp:144
 #, kde-format
 msgid "Install a local theme..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:143
+#: src/gtkconfigkcmodule.cpp:145
 #, kde-format
 msgid "Uninstall a local theme..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:349
+#: src/gtkconfigkcmodule.cpp:360
 #, kde-format
 msgid "Failed to save configuration."
 msgstr ""

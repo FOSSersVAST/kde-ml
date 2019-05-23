@@ -1,22 +1,23 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: org.kde.okular-chm.metainfo\n"
 "POT-Creation-Date: 2016-11-05 07:30+0000\n"
-"PO-Revision-Date: 2016-11-05 07:30+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
 "org.in>\n"
+"Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ml\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. (itstool) path: component/name
 #: org.kde.okular-chm.metainfo.xml:7
 msgid "CHM Documents"
-msgstr ""
+msgstr "സി എച് എം പ്രമാണങ്ങൾ"
 
 #. (itstool) path: component/summary
 #: org.kde.okular-chm.metainfo.xml:8
 msgid "Adds support for reading CHM documents"
-msgstr ""
+msgstr "സി എം എച് പ്രമാണങ്ങൾ വായിക്കുവാൻ പിന്തുണ ചേർക്കുന്നു"

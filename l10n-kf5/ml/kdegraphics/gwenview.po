@@ -6,39 +6,39 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gwenview\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-05 03:25+0200\n"
-"PO-Revision-Date: 2019-04-05 03:25+0200\n"
-"Last-Translator: Automatically generated\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 03:05+0200\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
 "org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "അനി പീറ്റര്‍, നിസരി,അതുൽ രാജ്"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "aroutoftune2000@gmail.com"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: app/advancedconfigpage.ui:17
 #, kde-format
 msgid "Cache:"
-msgstr ""
+msgstr "കാഷ്:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DeleteThumbnailCacheOnExit)
 #: app/advancedconfigpage.ui:29
 #, kde-format
 msgid "Delete thumbnail cache folder on exit"
-msgstr ""
+msgstr "പുറത്തുകടക്കുമ്പോൾ ലഘുചിത്ര കാഷ് ഫോൾഡർ ഇല്ലാതാക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, cacheHelpLabel)
 #: app/advancedconfigpage.ui:51
@@ -49,18 +49,22 @@ msgid ""
 "filename> in your home folder, deleting all thumbnails previously generated "
 "by Gwenview and other applications."
 msgstr ""
+"താങ്കളുടെ കമ്പ്യൂട്ടറിൽ വേണ്ടുവോളം ഡിസ്ക് സ്പേസ് ഇല്ലെങ്കിൽ ഈ ഓപ്ഷൻ ഇനേബിൾ ചെയ്യുക<br/><br/"
+"><em>ജാഗ്രതാ:</em>ഈ ഓപ്ഷൻ <filename>.thumbnails</filename>എന്ന അറ ഹോം അറയിൽ "
+"നിന്നും നീക്കം ചെയ്യപ്പെടുന്നതാണ്, ഗ്വെൻവ്യൂം മറ്റ് പ്രയോഗങ്ങളിലെ ചിത്രത്തിന്റെ ചെറുരൂപങ്ങളും "
+"നീക്കം ചെയ്യപ്പെടും."
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: app/advancedconfigpage.ui:77
 #, kde-format
 msgid "History:"
-msgstr ""
+msgstr "ചരിത്രം:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_HistoryEnabled)
 #: app/advancedconfigpage.ui:89
 #, kde-format
 msgid "Remember folders and URLs"
-msgstr ""
+msgstr "അറകളും യുആർഎൽ-കളും ഓർത്തു വയ്ക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, colorRenderingLabel)
 #: app/advancedconfigpage.ui:127
@@ -73,7 +77,7 @@ msgstr ""
 #, kde-format
 msgctxt "@option:Perceptual rendering intent"
 msgid "Perceptual"
-msgstr ""
+msgstr "വ്യാഖ്യാനങ്ങൾ"
 
 #. i18n: ectx: property (text), widget (QLabel, perceptualHelpLabel)
 #: app/advancedconfigpage.ui:154
@@ -103,43 +107,43 @@ msgstr ""
 #, kde-format
 msgctxt "@title actions category - means actions changing smth in interface"
 msgid "View"
-msgstr ""
+msgstr "കാണുക"
 
 #: app/browsemainpage.cpp:151
 #, kde-format
 msgctxt "@action:inmenu Navigation Bar"
 msgid "Edit Location"
-msgstr ""
+msgstr "സ്ഥലം എഡിറ്റ് ചെയ്യുക"
 
 #: app/browsemainpage.cpp:155
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Sort By"
-msgstr ""
+msgstr "ക്രമപ്പെടുത്തൽ"
 
 #: app/browsemainpage.cpp:158
 #, kde-format
 msgctxt "@addAction:inmenu"
 msgid "Name"
-msgstr ""
+msgstr "പേര്"
 
 #: app/browsemainpage.cpp:161
 #, kde-format
 msgctxt "@addAction:inmenu"
 msgid "Date"
-msgstr ""
+msgstr "തീയതി"
 
 #: app/browsemainpage.cpp:164
 #, kde-format
 msgctxt "@addAction:inmenu"
 msgid "Size"
-msgstr ""
+msgstr "വലുപ്പം"
 
 #: app/browsemainpage.cpp:168
 #, kde-format
 msgctxt "@addAction:inmenu"
 msgid "Rating"
-msgstr ""
+msgstr "വിലയിരുത്തൽ"
 
 #: app/browsemainpage.cpp:176
 #, kde-format
@@ -151,50 +155,50 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Thumbnail Details"
-msgstr ""
+msgstr "ലഘുചിത്ര വിശദാംശങ്ങൾ"
 
 #: app/browsemainpage.cpp:190
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filename"
-msgstr ""
+msgstr "ഫയലിന്റെ പേര്"
 
 #: app/browsemainpage.cpp:191
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Date"
-msgstr ""
+msgstr "തീയതി"
 
 #: app/browsemainpage.cpp:192
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Image Size"
-msgstr ""
+msgstr "ചിത്രത്തിന്റെ വലുപ്പം"
 
 #: app/browsemainpage.cpp:193
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "File Size"
-msgstr ""
+msgstr "ഫയലിന്റെ വലുപ്പം"
 
 #: app/browsemainpage.cpp:195
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Rating"
-msgstr ""
+msgstr "വിലയിരുത്തൽ"
 
 #: app/browsemainpage.cpp:198 app/fileopscontextmanageritem.cpp:138
 #: app/mainwindow.cpp:371
 #, kde-format
 msgctxt "@title actions category"
 msgid "File"
-msgstr ""
+msgstr "ഫയൽ"
 
 #: app/browsemainpage.cpp:200
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Add Folder to Places"
-msgstr ""
+msgstr "സ്ഥലങ്ങളിലേക്ക് ഫോൾഡർ ചേർക്കുക"
 
 #: app/browsemainpage.cpp:247
 #, kde-format
@@ -202,40 +206,40 @@ msgctxt ""
 "@info:status %1 number of selected documents, %2 total number of documents, "
 "%3 total filesize of selected documents"
 msgid "Selected %1 of %2 (%3)"
-msgstr ""
+msgstr "%2 (%3) യിൽ നിന്നും %1 തിരഞ്ഞെടുത്തിരിക്കുന്നു"
 
 #: app/browsemainpage.cpp:253
 #, kde-format
 msgctxt "@info:status Image files"
 msgid "%1 image"
 msgid_plural "%1 images"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ചിത്രം"
+msgstr[1] "%1 ചിത്രങ്ങള്‍"
 
 #: app/browsemainpage.cpp:254
 #, kde-format
 msgctxt "@info:status Video files"
 msgid "%1 video"
 msgid_plural "%1 videos"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 വീഡിയോ"
+msgstr[1] "%1 വീഡിയോകള്‍"
 
 #: app/browsemainpage.cpp:261
 #, kde-format
 msgctxt "@info:status images, videos"
 msgid "%1, %2"
-msgstr ""
+msgstr "%1, %2"
 
 #. i18n: ectx: property (text), widget (Gwenview::StatusBarToolButton, mAddFilterButton)
 #: app/browsemainpage.ui:88
 #, kde-format
 msgid "Add Filter"
-msgstr ""
+msgstr "ഫിൽട്ടർ ചേർക്കുക"
 
 #: app/configdialog.cpp:62
 #, kde-format
 msgid "General"
-msgstr ""
+msgstr "പൊതുവായത്"
 
 #: app/configdialog.cpp:98
 #, kde-format
@@ -245,111 +249,111 @@ msgstr ""
 #: app/configdialog.cpp:109
 #, kde-format
 msgid "Advanced"
-msgstr ""
+msgstr "വിപുലമായ"
 
 #: app/fileoperations.cpp:65
 #, kde-format
 msgctxt "@title:window %1 file name"
 msgid "Copy %1"
-msgstr ""
+msgstr "%1 പകർത്തുക"
 
 #: app/fileoperations.cpp:67
 #, kde-format
 msgctxt "@title:window %1 number of images"
 msgid "Copy %1 image"
 msgid_plural "Copy %1 images"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ചിത്രം പകർത്തുക"
+msgstr[1] "%1 ചിത്രങ്ങൾ പകർത്തുക"
 
 #: app/fileoperations.cpp:69
 #, kde-format
 msgctxt "@action:button"
 msgid "Copy"
-msgstr ""
+msgstr "പകർത്തുക"
 
 #: app/fileoperations.cpp:73
 #, kde-format
 msgctxt "@title:window %1 file name"
 msgid "Move %1"
-msgstr ""
+msgstr "%1 നീക്കുക"
 
 #: app/fileoperations.cpp:75
 #, kde-format
 msgctxt "@title:window %1 number of images"
 msgid "Move %1 image"
 msgid_plural "Move %1 images"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ചിത്രം നീക്കുക"
+msgstr[1] "%1 ചിത്രങ്ങൾ നീക്കുക"
 
 #: app/fileoperations.cpp:77
 #, kde-format
 msgctxt "@action:button"
 msgid "Move"
-msgstr ""
+msgstr "നീക്കുക"
 
 #: app/fileoperations.cpp:81
 #, kde-format
 msgctxt "@title:window %1 file name"
 msgid "Link %1"
-msgstr ""
+msgstr "%1 ലിങ്ക് ചെയ്യുക"
 
 #: app/fileoperations.cpp:83
 #, kde-format
 msgctxt "@title:window %1 number of images"
 msgid "Link %1 image"
 msgid_plural "Link %1 images"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ചിത്രം ലിങ്ക് ചെയ്യുക"
+msgstr[1] "%1 ചിത്രങ്ങൾ ലിങ്ക് ചെയ്യുക"
 
 #: app/fileoperations.cpp:85
 #, kde-format
 msgctxt "@action:button"
 msgid "Link"
-msgstr ""
+msgstr "ലിങ്ക് ചെയ്യുക"
 
 #: app/fileoperations.cpp:202
 #, kde-format
 msgid "Move Here"
-msgstr ""
+msgstr "ഇവിടേക്ക് നീക്കുക"
 
 #: app/fileoperations.cpp:205
 #, kde-format
 msgid "Copy Here"
-msgstr ""
+msgstr "ഇവിടേക്ക് പകർത്തുക"
 
 #: app/fileoperations.cpp:208
 #, kde-format
 msgid "Link Here"
-msgstr ""
+msgstr "ഇവിടേക്ക് ലിങ്ക് ചെയ്യുക"
 
 #: app/fileoperations.cpp:212
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "റദ്ദാക്കുക"
 
 #: app/fileopscontextmanageritem.cpp:126
 #, kde-format
 msgid "File Operations"
-msgstr ""
+msgstr "അറ പ്രക്രിയകൾ"
 
 #: app/fileopscontextmanageritem.cpp:139
 #: app/semanticinfocontextmanageritem.cpp:196
 #, kde-format
 msgctxt "@title actions category"
 msgid "Edit"
-msgstr ""
+msgstr "എഡിറ്റുചെയ്യുക"
 
 #: app/fileopscontextmanageritem.cpp:146
 #, kde-format
 msgctxt "Verb"
 msgid "Copy To..."
-msgstr ""
+msgstr "പകർത്തുക"
 
 #: app/fileopscontextmanageritem.cpp:151
 #, kde-format
 msgctxt "Verb"
 msgid "Move To..."
-msgstr ""
+msgstr "നീങ്ങുക"
 
 #: app/fileopscontextmanageritem.cpp:156
 #, kde-format
@@ -361,117 +365,117 @@ msgstr ""
 #, kde-format
 msgctxt "Verb"
 msgid "Rename..."
-msgstr ""
+msgstr "പേരുമാറ്റുക"
 
 #: app/fileopscontextmanageritem.cpp:166
 #, kde-format
 msgctxt "Verb"
 msgid "Trash"
-msgstr ""
+msgstr "ചവറ്"
 
 #: app/fileopscontextmanageritem.cpp:173
 #, kde-format
 msgid "Restore"
-msgstr ""
+msgstr "പുനഃസ്ഥാപിക്കുക"
 
 #: app/fileopscontextmanageritem.cpp:177
 #, kde-format
 msgid "Properties"
-msgstr ""
+msgstr "പ്രോപ്പർട്ടികൾ"
 
 #: app/fileopscontextmanageritem.cpp:181
 #, kde-format
 msgid "Create Folder..."
-msgstr ""
+msgstr "ഫോൾഡർ സൃഷ്ടിക്കുക"
 
 #: app/fileopscontextmanageritem.cpp:185
 #, kde-format
 msgid "Open With"
-msgstr ""
+msgstr "ഇതിലൂടെ തുറക്കു"
 
 #: app/fileopscontextmanageritem.cpp:192
 #, kde-format
 msgid "Open Containing Folder"
-msgstr ""
+msgstr "അടങ്ങുന്ന ഫോൾഡർ തുറക്കുക"
 
 #: app/fileopscontextmanageritem.cpp:388
 #, kde-format
 msgid "Other Application..."
-msgstr ""
+msgstr "മറ്റ് അപ്ലിക്കേഷനുകൾ"
 
 #: app/filtercontroller.cpp:64
 #, kde-format
 msgid "Name contains"
-msgstr ""
+msgstr "പേരിൽ ഉൾപ്പെടുന്നു"
 
 #: app/filtercontroller.cpp:65
 #, kde-format
 msgid "Name does not contain"
-msgstr ""
+msgstr "പേരിൽ ഉൾപ്പെടുന്നില്ല"
 
 #: app/filtercontroller.cpp:106
 #, kde-format
 msgid "Date >="
-msgstr ""
+msgstr "തീയതി >="
 
 #: app/filtercontroller.cpp:107
 #, kde-format
 msgid "Date ="
-msgstr ""
+msgstr "തീയതി ="
 
 #: app/filtercontroller.cpp:108
 #, kde-format
 msgid "Date <="
-msgstr ""
+msgstr "തീയതി <="
 
 #: app/filtercontroller.cpp:141
 #, kde-format
 msgid "Rating >="
-msgstr ""
+msgstr "നിലവാരം >="
 
 #: app/filtercontroller.cpp:142
 #, kde-format
 msgid "Rating ="
-msgstr ""
+msgstr "നിലവാരം ="
 
 #: app/filtercontroller.cpp:143
 #, kde-format
 msgid "Rating <="
-msgstr ""
+msgstr "നിലവാരം <="
 
 #: app/filtercontroller.cpp:187
 #, kde-format
 msgid "Tagged"
-msgstr ""
+msgstr "ടാഗ് ചെയ്യപ്പെട്ടത്"
 
 #: app/filtercontroller.cpp:188
 #, kde-format
 msgid "Not Tagged"
-msgstr ""
+msgstr "ടാഗ് ചെയ്യപ്പെടാത്തത്"
 
 #: app/filtercontroller.cpp:293
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filter by Name"
-msgstr ""
+msgstr "പേരടിസ്ഥാനത്തിൽ അരിക്കുക"
 
 #: app/filtercontroller.cpp:297
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filter by Date"
-msgstr ""
+msgstr "തീയതിയുടെ അടിസ്ഥാനത്തിൽ അരിക്കുക"
 
 #: app/filtercontroller.cpp:302
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filter by Rating"
-msgstr ""
+msgstr "നിലവാരത്തിന്റെ അടിസ്ഥാനത്തിൽ അരിക്കുക"
 
 #: app/filtercontroller.cpp:306
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Filter by Tag"
-msgstr ""
+msgstr "ടാഗ് അടിസ്ഥാനത്തിൽ അരിക്കുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: app/fullscreenconfigwidget.ui:20
@@ -528,10 +532,10 @@ msgid "Height:"
 msgstr ""
 
 #: app/fullscreencontent.cpp:247
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "@item:intext fullscreen meta info separator"
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: app/fullscreencontent.cpp:296
 #, kde-format
@@ -1772,7 +1776,7 @@ msgstr ""
 
 #: lib/about.cpp:39
 #, kde-format
-msgid "Copyright 2000-2018 Gwenview authors"
+msgid "Copyright 2000-2019 Gwenview authors"
 msgstr ""
 
 #: lib/about.cpp:43
@@ -1933,7 +1937,7 @@ msgstr ""
 msgid "Gwenview does not know how to display this kind of document"
 msgstr ""
 
-#: lib/documentview/documentview.cpp:626
+#: lib/documentview/documentview.cpp:630
 #, kde-kuit-format
 msgid "Loading <filename>%1</filename> failed"
 msgstr ""
@@ -2093,73 +2097,73 @@ msgctxt "@info:tooltip"
 msgid "Close"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:254
+#: lib/imagemetainfomodel.cpp:252
 #, kde-format
 msgctxt "@item:intable Image file name"
 msgid "Name"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:255
+#: lib/imagemetainfomodel.cpp:253
 #, kde-format
 msgctxt "@item:intable"
 msgid "File Size"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:256
+#: lib/imagemetainfomodel.cpp:254
 #, kde-format
 msgctxt "@item:intable"
 msgid "File Time"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:257
+#: lib/imagemetainfomodel.cpp:255
 #, kde-format
 msgctxt "@item:intable"
 msgid "Image Size"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:258
+#: lib/imagemetainfomodel.cpp:256
 #, kde-format
 msgctxt "@item:intable"
 msgid "Comment"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:318
+#: lib/imagemetainfomodel.cpp:316
 #, kde-format
 msgctxt "@title:group General info about the image"
 msgid "General"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:408
+#: lib/imagemetainfomodel.cpp:406
 #, kde-format
 msgctxt "@item:intable %1 is image width, %2 is image height"
 msgid "%1x%2"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:416
+#: lib/imagemetainfomodel.cpp:414
 #, kde-format
 msgctxt "@item:intable %1 is number of millions of pixels in image"
 msgid "(%1MP)"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:567
+#: lib/imagemetainfomodel.cpp:565
 #, kde-format
 msgctxt "@title:column"
 msgid "Property"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:569
+#: lib/imagemetainfomodel.cpp:567
 #, kde-format
 msgctxt "@title:column"
 msgid "Value"
 msgstr ""
 
-#: lib/jpegcontent.cpp:580
+#: lib/jpegcontent.cpp:617
 #, kde-format
 msgctxt "@info"
 msgid "Could not open file for writing."
 msgstr ""
 
-#: lib/jpegcontent.cpp:596
+#: lib/jpegcontent.cpp:633
 #, kde-format
 msgctxt "@info"
 msgid "No data to store."
@@ -2278,9 +2282,9 @@ msgstr ""
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, mHeightPercentSpinBox)
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, mWidthPercentSpinBox)
 #: lib/resize/resizeimagewidget.ui:56 lib/resize/resizeimagewidget.ui:131
-#, no-c-format, kde-format
+#, fuzzy, no-c-format, kde-format
 msgid " %"
-msgstr ""
+msgstr " %"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: lib/resize/resizeimagewidget.ui:115

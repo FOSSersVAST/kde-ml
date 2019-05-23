@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcmkwm\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2008-07-22 23:41+0530\n"
 "Last-Translator: Manu S Madhav <manusmad@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -44,8 +44,8 @@ msgid ""
 "In this row you can customize middle click behavior when clicking into the "
 "titlebar or the frame."
 msgstr ""
-"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മധ്യ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മധ്യ ക്ലിക്ക് സ്വഭാവം ഈ വരിയില്‍ നിങ്ങള്‍"
-"ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മധ്യ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മധ്യ ക്ലിക്ക് സ്വഭാവം ഈ വരിയില്‍ "
+"നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #. i18n: ectx: property (text), item, widget (KComboBox, coAll2)
 #. i18n: ectx: property (text), item, widget (KComboBox, coAll3)
@@ -197,8 +197,8 @@ msgid ""
 "In this row you can customize right click behavior when clicking into the "
 "titlebar or the frame."
 msgstr ""
-"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ വലത് ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന വലത് ക്ലിക്ക് സ്വഭാവം ഈ വരിയില്‍ നിങ്ങള്‍"
-"ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ വലത് ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന വലത് ക്ലിക്ക് സ്വഭാവം ഈ വരിയില്‍ "
+"നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: actions.ui:210
@@ -304,8 +304,8 @@ msgid ""
 "In this row you can customize left click behavior when clicking into the "
 "titlebar or the frame."
 msgstr ""
-"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ ഇടത് ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന ഇടത് ക്ലിക്ക് സ്വഭാവം ഈ വരിയില്‍ നിങ്ങള്‍"
-"ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ ഇടത് ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന ഇടത് ക്ലിക്ക് സ്വഭാവം ഈ വരിയില്‍ "
+"നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, coAllW)
 #: actions.ui:379
@@ -1059,8 +1059,8 @@ msgid ""
 "In this column you can customize mouse clicks into the titlebar or the frame "
 "of an active window."
 msgstr ""
-"ഒരു സജീവ ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മൌസ് ക്ലിക്ക് ചെയ്യുന്നതിനെ ഈ വരിയില്‍ നിങ്ങള്‍"
-"ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+"ഒരു സജീവ ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മൌസ് ക്ലിക്ക് ചെയ്യുന്നതിനെ ഈ വരിയില്‍ "
+"നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #: mouse.ui:185

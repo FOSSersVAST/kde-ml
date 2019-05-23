@@ -1,16 +1,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-18 02:47+0000\n"
-"PO-Revision-Date: 2019-03-18 02:47+0000\n"
-"Last-Translator: Automatically generated\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 01:30+0000\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
 "org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/applet/package/metadata.desktop:2
 #: src/kio/bluetooth/bluetooth-network.desktop:3
@@ -21,76 +22,76 @@ msgstr ""
 #: src/applet/package/metadata.desktop:48
 msgctxt "Comment"
 msgid "Bluetooth status and control"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് സ്റ്റാറ്റസും നിയന്ത്രണവും"
 
 #: src/bluedevil.notifyrc:3
 msgctxt "Comment"
 msgid "Bluetooth system"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് സിസ്റ്റം"
 
-#: src/bluedevil.notifyrc:50
+#: src/bluedevil.notifyrc:51
 msgctxt "Name"
 msgid "Authorization Requested"
 msgstr ""
 
-#: src/bluedevil.notifyrc:95
+#: src/bluedevil.notifyrc:96
 msgctxt "Comment"
 msgid "A device wants to connect"
 msgstr ""
 
-#: src/bluedevil.notifyrc:144
+#: src/bluedevil.notifyrc:145
 msgctxt "Name"
 msgid "Confirm PIN"
-msgstr ""
+msgstr "പിൻ ഉറപ്പാക്കുക"
 
-#: src/bluedevil.notifyrc:189
+#: src/bluedevil.notifyrc:191
 msgctxt "Comment"
 msgid "Confirm a device request using matching PINs"
 msgstr ""
 
-#: src/bluedevil.notifyrc:238
+#: src/bluedevil.notifyrc:240
 msgctxt "Name"
 msgid "Request PIN"
 msgstr ""
 
-#: src/bluedevil.notifyrc:283
+#: src/bluedevil.notifyrc:285
 msgctxt "Comment"
 msgid "A PIN is needed"
-msgstr ""
+msgstr "ഒരു പിൻ ആവശ്യമാണ്"
 
-#: src/bluedevil.notifyrc:332
+#: src/bluedevil.notifyrc:335
 msgctxt "Name"
 msgid "Incoming File"
-msgstr ""
+msgstr "സ്വീകരിക്കുന്ന ഫയല്‍"
 
-#: src/bluedevil.notifyrc:377
+#: src/bluedevil.notifyrc:381
 msgctxt "Comment"
 msgid "Incoming file transfer"
 msgstr ""
 
-#: src/bluedevil.notifyrc:426
+#: src/bluedevil.notifyrc:430
 msgctxt "Name"
 msgid "Connection Failed"
-msgstr ""
+msgstr "ബന്ധം തടസ്സപ്പെട്ടു"
 
-#: src/bluedevil.notifyrc:470
+#: src/bluedevil.notifyrc:475
 msgctxt "Comment"
 msgid "Connection to device failed"
-msgstr ""
+msgstr "ഡിവൈസിലേക്കുള്ള ബന്ധം നഷ്ടപ്പെട്ടു"
 
 #: src/kcmodule/adapters/bluedeviladapters.desktop:14
 msgctxt "Name"
 msgid "Adapters"
-msgstr ""
+msgstr "അഡാപ്റ്ററുകള്‍"
 
-#: src/kcmodule/adapters/bluedeviladapters.desktop:60
+#: src/kcmodule/adapters/bluedeviladapters.desktop:61
 msgctxt "Comment"
 msgid "Bluetooth Adapters"
 msgstr ""
 
-#: src/kcmodule/adapters/bluedeviladapters.desktop:104
-#: src/kcmodule/devices/bluedevildevices.desktop:104
-#: src/kcmodule/global/bluedevilglobal.desktop:102
+#: src/kcmodule/adapters/bluedeviladapters.desktop:105
+#: src/kcmodule/devices/bluedevildevices.desktop:106
+#: src/kcmodule/global/bluedevilglobal.desktop:104
 msgctxt "X-KDE-Keywords"
 msgid "Network,Connectivity,Bluetooth"
 msgstr ""
@@ -98,22 +99,22 @@ msgstr ""
 #: src/kcmodule/devices/bluedevildevices.desktop:14
 msgctxt "Name"
 msgid "Devices"
-msgstr ""
+msgstr "ഉപകരണങ്ങൾ "
 
-#: src/kcmodule/devices/bluedevildevices.desktop:60
+#: src/kcmodule/devices/bluedevildevices.desktop:61
 msgctxt "Comment"
 msgid "Bluetooth Devices"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് ഉപകരണങ്ങള്‍"
 
 #: src/kcmodule/global/bluedevilglobal.desktop:14
 msgctxt "Name"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "ഉന്നതരീതിയിലുള്ള ക്രമികരണങ്ങള്‍"
 
-#: src/kcmodule/global/bluedevilglobal.desktop:58
+#: src/kcmodule/global/bluedevilglobal.desktop:59
 msgctxt "Comment"
 msgid "Advanced Bluetooth Settings"
-msgstr ""
+msgstr "ഉന്നതരീതിയിലുള്ള ബ്ലൂടൂത്ത് ക്രമീകരണങ്ങള്‍"
 
 #: src/sendfile/org.kde.bluedevilsendfile.desktop:2
 msgctxt "Name"
@@ -143,4 +144,4 @@ msgstr ""
 #: src/wizard/org.kde.bluedevilwizard.desktop:90
 msgctxt "Comment"
 msgid "BlueDevil Wizard"
-msgstr ""
+msgstr "ബ്ലൂഡെവിള്‍ വിസാര്‍ഡ്"

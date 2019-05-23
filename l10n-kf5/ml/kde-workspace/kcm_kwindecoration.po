@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcmkwindecoration trunk\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-15 03:39+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2010-06-25 13:41+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -99,17 +99,17 @@ msgstr ""
 msgid "Download New Window Decorations"
 msgstr "പുതിയ അലങ്കാരങ്ങള്‍ നേടുക"
 
-#: package/contents/ui/Buttons.qml:83
+#: package/contents/ui/Buttons.qml:85
 #, kde-format
 msgid "Titlebar"
 msgstr ""
 
-#: package/contents/ui/Buttons.qml:225
+#: package/contents/ui/Buttons.qml:224
 #, kde-format
-msgid "Drop here to remove button"
+msgid "Drop button here to remove it"
 msgstr ""
 
-#: package/contents/ui/Buttons.qml:251
+#: package/contents/ui/Buttons.qml:241
 #, kde-format
 msgid "Drag buttons between here and the titlebar"
 msgstr ""
@@ -333,8 +333,8 @@ msgstr "ബൃഹത്തായ"
 #~ "തോന്നുകയാണെങ്കില്‍ \"പുനഃസ്ഥാപിക്കുക\" എന്നബട്ടണില്‍ അമര്‍ത്തുക.<p>\"ക്രമീകരിക്കുക [...]\"എന്ന "
 #~ "റ്റാബില്‍ നിന്ന് ഓരോ പ്രമേയത്തേയും നിങ്ങള്‍ക്ക് ക്രമീകരികാവുന്നതാണ്ഓരോ പ്രമേയത്തിനും "
 #~ "അതിന്റേതായ  വ്യത്യസ്ത ഐച്ഛികങ്ങളുണ്ട്.</p><p>\" പൊതുവായുള്ള ഐച്ഛികങ്ങള്‍( അതുണ്ടെങ്കില്‍)\" -ഇല്‍"
-#~ "\"ടൈറ്റില്‍ബാര്‍ ബട്ടണുളുടെ സ്ഥാനങ്ങള്‍ ഇഷ്ടമുള്ള പോലെ ആക്കിത്തീര്‍ക്കുക‍ \" എന്ന ചെക്ക്ബോക്സ് പ്രവര്‍"
-#~ "ത്തനസജ്ജമാക്കിയാല്‍ \"ബട്ടണുകള്‍\" എന്ന റ്റാബ് പ്രവര്‍ത്തനസജ്ജമാകും . അതില്‍ ടൈറ്റില്‍ബാര്‍ "
+#~ "\"ടൈറ്റില്‍ബാര്‍ ബട്ടണുളുടെ സ്ഥാനങ്ങള്‍ ഇഷ്ടമുള്ള പോലെ ആക്കിത്തീര്‍ക്കുക‍ \" എന്ന ചെക്ക്ബോക്സ് "
+#~ "പ്രവര്‍ത്തനസജ്ജമാക്കിയാല്‍ \"ബട്ടണുകള്‍\" എന്ന റ്റാബ് പ്രവര്‍ത്തനസജ്ജമാകും . അതില്‍ ടൈറ്റില്‍ബാര്‍ "
 #~ "ബട്ടണുളുടെ സ്ഥാനങ്ങള്‍ ഇഷ്ടമുള്ള പോലെ ആക്കിത്തീര്‍ക്കുവാന്‍സാധിക്കുന്നതാണ്.</p>"
 
 #~ msgid "Active Window"

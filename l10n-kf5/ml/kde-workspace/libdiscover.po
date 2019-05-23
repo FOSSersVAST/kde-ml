@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-11 03:46+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-22 03:21+0200\n"
 "PO-Revision-Date: 2019-04-11 03:46+0200\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: categoriesxml.cpp:2 categoriesxml.cpp:114 categoriesxml.cpp:220
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:5
@@ -527,27 +528,31 @@ msgctxt "Category"
 msgid "dummy 4"
 msgstr ""
 
-#: libdiscover/appstream/OdrsReviewsBackend.cpp:251
+#: libdiscover/appstream/AppStreamUtils.cpp:92
+#, kde-format
+msgid "Proprietary"
+msgstr ""
+
+#: libdiscover/appstream/OdrsReviewsBackend.cpp:227
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:114
 #, kde-format
 msgid "%1 (%2)"
 msgstr ""
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:374
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:393
 #, kde-format
 msgid "Local bundle"
 msgstr ""
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1179
-#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:468
-#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:482
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1212
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:470
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:484
 #, kde-format
 msgid "Malformed appstream url '%1'"
 msgstr ""
 
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:109
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:238
-#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:108
 #, kde-format
 msgid "Unknown"
 msgstr ""
@@ -587,7 +592,7 @@ msgstr ""
 msgid "Could not add the source %1"
 msgstr ""
 
-#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:297
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:299
 #, kde-format
 msgid "Flatpak repository URI (*.flatpakrepo)"
 msgstr ""
@@ -621,51 +626,51 @@ msgstr ""
 msgid "Applications"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:211
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:212
 #, kde-format
 msgid "Plasma Addons"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:211
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:212
 #, kde-format
 msgid "Application Addons"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:335
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:336
 #, kde-format
 msgid "Network error in backend %1: %2"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:342
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:343
 #, kde-format
 msgid ""
 "Too many requests sent to the server for backend %1. Please try again in a "
 "few minutes."
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:345
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:351
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:356
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:346
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:352
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:357
 #, kde-format
 msgid "Invalid %1 backend, contact your distributor."
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:365
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:366
 #, kde-format
 msgid "Could not fetch screenshot for the entry %1 in backend %2"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:369
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:370
 #, kde-format
 msgid "Unhandled error in %1 backend. Contact your distributor."
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:379
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:380
 #, kde-format
 msgid "%1: %2"
 msgstr ""
 
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:548
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:549
 #, kde-format
 msgid "Wrong KNewStuff URI: %1"
 msgstr ""
@@ -686,12 +691,12 @@ msgstr ""
 msgid "Log in information for %1"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/AppPackageKitResource.cpp:234
+#: libdiscover/backends/PackageKitBackend/AppPackageKitResource.cpp:233
 #, kde-format
 msgid "Cannot launch %1"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:170
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:172
 #, kde-format
 msgid "Please make sure that Appstream is properly set up on your system"
 msgstr ""
@@ -1331,44 +1336,44 @@ msgstr ""
 msgid "Successfully updated %1 packages"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:245
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:250
 #, kde-format
 msgctxt "package-name (version)"
 msgid "%1 (%2)"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:247
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:252
 #, kde-format
 msgctxt "comma separating package names"
 msgid ", "
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:285
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:290
 #, kde-format
 msgid "Obsoletes:"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:286
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:291
 #, kde-format
 msgid "Release Notes:"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:287
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:292
 #, kde-format
 msgid "Update State:"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:288
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:293
 #, kde-format
 msgid "Restart:"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:291
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:296
 #, kde-format
 msgid "Vendor:"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:311
+#: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:316
 #, kde-format
 msgid "%2 (plus %1 dependency)"
 msgid_plural "%2 (plus %1 dependencies)"
@@ -1455,7 +1460,7 @@ msgstr[1] ""
 msgid "Snap"
 msgstr ""
 
-#: libdiscover/backends/SnapBackend/SnapResource.cpp:288
+#: libdiscover/backends/SnapBackend/SnapResource.cpp:296
 #, kde-format
 msgid "%1 - %2"
 msgstr ""

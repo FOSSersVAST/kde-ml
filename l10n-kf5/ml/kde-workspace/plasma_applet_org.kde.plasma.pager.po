@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_pager trunk\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-15 03:39+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2008-11-23 20:00-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -23,85 +23,95 @@ msgstr ""
 msgid "General"
 msgstr "പൊതുവായ"
 
-#: package/contents/ui/configGeneral.qml:89
+#: package/contents/ui/configGeneral.qml:84
 #, fuzzy, kde-format
-msgid "Display:"
-msgstr "പദാവലി പ്രദര്‍ശിപ്പിയ്ക്കുക:"
+msgid "General:"
+msgstr "പൊതുവായ"
 
-#: package/contents/ui/configGeneral.qml:95
+#: package/contents/ui/configGeneral.qml:86
 #, kde-format
-msgid "Activity number"
+msgid "Show application icons on window outlines"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:95
+#: package/contents/ui/configGeneral.qml:91
 #, kde-format
-msgid "Desktop number"
-msgstr "പണിയിടത്തിന്റെ സംഖ്യ"
-
-#: package/contents/ui/configGeneral.qml:106
-#, kde-format
-msgid "Activity name"
+msgid "Show only current screen"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:106
+#: package/contents/ui/configGeneral.qml:96
 #, kde-format
-msgid "Desktop name"
-msgstr "പണിയിടത്തിന്റെ പേരു്"
-
-#: package/contents/ui/configGeneral.qml:112
-#, kde-format
-msgid "No text"
-msgstr "പദാവലി വേണ്ട"
-
-#: package/contents/ui/configGeneral.qml:123
-#, kde-format
-msgid "Icons"
+msgid "Navigation wraps around"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:133
-#, kde-format
-msgid "Only the current screen"
-msgstr ""
-
-#: package/contents/ui/configGeneral.qml:143
-#, kde-format
-msgid "Page navigation wraps around"
-msgstr ""
-
-#: package/contents/ui/configGeneral.qml:147
+#: package/contents/ui/configGeneral.qml:108
 #, kde-format
 msgid "Layout:"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:154
+#: package/contents/ui/configGeneral.qml:110
 #, kde-format
 msgctxt "The pager layout"
 msgid "Default"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:154
+#: package/contents/ui/configGeneral.qml:110
 #, kde-format
 msgid "Horizontal"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:154
+#: package/contents/ui/configGeneral.qml:110
 #, kde-format
 msgid "Vertical"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:159
+#: package/contents/ui/configGeneral.qml:124
+#, fuzzy, kde-format
+msgid "Text display:"
+msgstr "പദാവലി പ്രദര്‍ശിപ്പിയ്ക്കുക:"
+
+#: package/contents/ui/configGeneral.qml:127
 #, kde-format
-msgid "Selecting current desktop:"
+msgid "No text"
+msgstr "പദാവലി വേണ്ട"
+
+#: package/contents/ui/configGeneral.qml:133
+#, kde-format
+msgid "Activity number"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:165
+#: package/contents/ui/configGeneral.qml:133
+#, kde-format
+msgid "Desktop number"
+msgstr "പണിയിടത്തിന്റെ സംഖ്യ"
+
+#: package/contents/ui/configGeneral.qml:139
+#, kde-format
+msgid "Activity name"
+msgstr ""
+
+#: package/contents/ui/configGeneral.qml:139
+#, kde-format
+msgid "Desktop name"
+msgstr "പണിയിടത്തിന്റെ പേരു്"
+
+#: package/contents/ui/configGeneral.qml:152
+#, kde-format
+msgid "Selecting current Activity:"
+msgstr ""
+
+#: package/contents/ui/configGeneral.qml:152
+#, fuzzy, kde-format
+msgid "Selecting current virtual desktop:"
+msgstr "പണിയിടങ്ങള്‍ &ക്രമീകരിയ്ക്കുക..."
+
+#: package/contents/ui/configGeneral.qml:155
 #, kde-format
 msgid "Does nothing"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:176
+#: package/contents/ui/configGeneral.qml:161
 #, kde-format
-msgid "Shows desktop"
+msgid "Shows the desktop"
 msgstr ""
 
 #: package/contents/ui/main.qml:329

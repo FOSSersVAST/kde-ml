@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kolourpaint\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-10 03:30+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:07+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1210,7 +1210,7 @@ msgid ""
 "Do you want to overwrite it?"
 msgstr ""
 
-#: lgpl/generic/kpUrlFormatter.cpp:40 lgpl/generic/kpUrlFormatter.cpp:51
+#: lgpl/generic/kpUrlFormatter.cpp:41 lgpl/generic/kpUrlFormatter.cpp:54
 #: widgets/toolbars/kpColorToolBar.cpp:283
 #, kde-format
 msgid "Untitled"

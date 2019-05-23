@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-06 03:40+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2008-11-30 14:57-0500\n"
 "Last-Translator: Manu S Madhav <manusmad@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -1733,7 +1733,7 @@ msgstr ""
 msgid "Slide desktop background"
 msgstr "അനക്കുമ്പോള്‍ &കുലുക്കുക"
 
-#: thumbnailaside/thumbnailaside.cpp:38
+#: thumbnailaside/thumbnailaside.cpp:40
 #: thumbnailaside/thumbnailaside_config.cpp:73
 #, kde-format
 msgid "Toggle Thumbnail for Current Window"
@@ -2305,8 +2305,8 @@ msgstr ""
 #~ "with the mouse,\n"
 #~ "otherwise it will remain active."
 #~ msgstr ""
-#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍, സിലിണ്ടര്‍ മൗസ് ഉപയോഗിച്ച് കറക്കിയതിനു ശേഷം പ്രഭാവം നിര്‍"
-#~ "ജ്ജീവമാക്കപെടും,\n"
+#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍, സിലിണ്ടര്‍ മൗസ് ഉപയോഗിച്ച് കറക്കിയതിനു ശേഷം പ്രഭാവം "
+#~ "നിര്‍ജ്ജീവമാക്കപെടും,\n"
 #~ "അല്ലെങ്കില്‍ അതു സജീവമായിരിക്കും"
 
 #~ msgid ""
@@ -2314,8 +2314,8 @@ msgstr ""
 #~ "the mouse,\n"
 #~ "otherwise it will remain active"
 #~ msgstr ""
-#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍, ഗോളം മൗസ് ഉപയോഗിച്ച് കറക്കിയതിനു ശേഷം പ്രഭാവം നിര്‍"
-#~ "ജ്ജീവമാക്കപെടും,\n"
+#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍, ഗോളം മൗസ് ഉപയോഗിച്ച് കറക്കിയതിനു ശേഷം പ്രഭാവം "
+#~ "നിര്‍ജ്ജീവമാക്കപെടും,\n"
 #~ "അല്ലെങ്കില്‍ അതു സജീവമായിരിക്കും"
 
 #, fuzzy

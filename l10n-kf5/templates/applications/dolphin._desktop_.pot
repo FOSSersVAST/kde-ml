@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-06-06 01:51+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 01:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,17 +16,17 @@ msgctxt "Name"
 msgid "Dolphin View"
 msgstr ""
 
-#: src/dolphinpart.desktop:61
+#: src/dolphinpart.desktop:62
 msgctxt "Name"
 msgid "Icons"
 msgstr ""
 
-#: src/dolphinpart.desktop:111
+#: src/dolphinpart.desktop:113
 msgctxt "Name"
 msgid "Compact"
 msgstr ""
 
-#: src/dolphinpart.desktop:160
+#: src/dolphinpart.desktop:163
 msgctxt "Name"
 msgid "Details"
 msgstr ""
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "Dolphin"
 msgstr ""
 
-#: src/org.kde.dolphin.desktop:51
+#: src/org.kde.dolphin.desktop:52
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr ""
@@ -46,25 +46,25 @@ msgctxt "Name"
 msgid "Dolphin General"
 msgstr ""
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:45
+#: src/settings/kcm/kcmdolphingeneral.desktop:46
 msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr ""
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:100
+#: src/settings/kcm/kcmdolphingeneral.desktop:102
 msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr ""
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:144
+#: src/settings/kcm/kcmdolphingeneral.desktop:147
 msgctxt "Comment"
 msgid "Configure general file manager settings"
 msgstr ""
 
-#: src/settings/kcm/kcmdolphingeneral.desktop:187
-#: src/settings/kcm/kcmdolphinnavigation.desktop:188
-#: src/settings/kcm/kcmdolphinservices.desktop:142
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:187
+#: src/settings/kcm/kcmdolphingeneral.desktop:191
+#: src/settings/kcm/kcmdolphinnavigation.desktop:192
+#: src/settings/kcm/kcmdolphinservices.desktop:145
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:191
 msgctxt "X-KDE-Keywords"
 msgid "file manager"
 msgstr ""
@@ -74,17 +74,17 @@ msgctxt "Name"
 msgid "Dolphin Navigation"
 msgstr ""
 
-#: src/settings/kcm/kcmdolphinnavigation.desktop:45
+#: src/settings/kcm/kcmdolphinnavigation.desktop:46
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr ""
 
-#: src/settings/kcm/kcmdolphinnavigation.desktop:99
+#: src/settings/kcm/kcmdolphinnavigation.desktop:101
 msgctxt "Name"
 msgid "Navigation"
 msgstr ""
 
-#: src/settings/kcm/kcmdolphinnavigation.desktop:144
+#: src/settings/kcm/kcmdolphinnavigation.desktop:147
 msgctxt "Comment"
 msgid "Configure file manager navigation"
 msgstr ""
@@ -94,12 +94,12 @@ msgctxt "Name"
 msgid "Dolphin Services"
 msgstr ""
 
-#: src/settings/kcm/kcmdolphinservices.desktop:55
+#: src/settings/kcm/kcmdolphinservices.desktop:56
 msgctxt "Name"
 msgid "Services"
 msgstr ""
 
-#: src/settings/kcm/kcmdolphinservices.desktop:99
+#: src/settings/kcm/kcmdolphinservices.desktop:101
 msgctxt "Comment"
 msgid "Configure file manager services"
 msgstr ""
@@ -109,17 +109,17 @@ msgctxt "Name"
 msgid "Dolphin View Modes"
 msgstr ""
 
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:45
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:46
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr ""
 
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:99
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:101
 msgctxt "Name"
 msgid "View Modes"
 msgstr ""
 
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:143
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:146
 msgctxt "Comment"
 msgid "Configure file manager view modes"
 msgstr ""

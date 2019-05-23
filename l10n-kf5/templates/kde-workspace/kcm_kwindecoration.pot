@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-15 03:39+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -97,17 +97,17 @@ msgstr ""
 msgid "Download New Window Decorations"
 msgstr ""
 
-#: package/contents/ui/Buttons.qml:83
+#: package/contents/ui/Buttons.qml:85
 #, kde-format
 msgid "Titlebar"
 msgstr ""
 
-#: package/contents/ui/Buttons.qml:225
+#: package/contents/ui/Buttons.qml:224
 #, kde-format
-msgid "Drop here to remove button"
+msgid "Drop button here to remove it"
 msgstr ""
 
-#: package/contents/ui/Buttons.qml:251
+#: package/contents/ui/Buttons.qml:241
 #, kde-format
 msgid "Drag buttons between here and the titlebar"
 msgstr ""

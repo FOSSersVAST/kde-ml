@@ -1,28 +1,29 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-18 02:47+0000\n"
-"PO-Revision-Date: 2019-03-18 02:47+0000\n"
-"Last-Translator: Automatically generated\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
 "org.in>\n"
+"Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ml\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: blend/blenderthumbnail.desktop:3
 msgctxt "Name"
 msgid "Blender files"
-msgstr ""
+msgstr "ബ്ലെൻഡർ ഫയലുകൾ"
 
 #: ps/gsthumbnail.desktop:3
 msgctxt "Name"
 msgid "PostScript, PDF and DVI Files"
-msgstr ""
+msgstr "പോസ്റ്റ്സ്ക്രിപ്റ്റ്, പിഡിഎഫ്, ഡിവിഐ ഫയലുകൾ"
 
 #: raw/rawthumbnail.desktop:3
 msgctxt "Name"
 msgid "RAW Photo Camera Files"
-msgstr ""
+msgstr "റോ ഫോട്ടോ ക്യാമറ ഫയലുകൾ"

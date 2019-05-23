@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-13 01:42+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -401,7 +401,7 @@ msgctxt "Name"
 msgid "Files and Directories"
 msgstr "ഫയല്‍, തട്ട് എന്നിവ"
 
-#: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:77
+#: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:76
 msgctxt "Comment"
 msgid "Information about files and directories."
 msgstr "ഫയലുകളുടേയും തട്ടുകളുടേയും വിവരങ്ങള്‍."
@@ -674,7 +674,7 @@ msgctxt "Name"
 msgid "Status Notifier Information"
 msgstr "സിസ്റ്റത്തിലെ പ്രൊസസ്സ് വിവരങ്ങള്‍"
 
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:60
+#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:59
 #, fuzzy
 msgctxt "Comment"
 msgid ""
@@ -690,7 +690,7 @@ msgctxt "Name"
 msgid "System Monitor"
 msgstr "സിസ്റ്റം നിരീക്ഷകന്‍"
 
-#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:85
+#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:84
 msgctxt "Comment"
 msgid "System status information"
 msgstr "സിസ്റ്റത്തിന്റെ അവസ്ഥാ വിവരം"
@@ -700,7 +700,7 @@ msgctxt "Name"
 msgid "Date and Time"
 msgstr "തീയതിയും സമയവും "
 
-#: dataengines/time/plasma-dataengine-time.desktop:80
+#: dataengines/time/plasma-dataengine-time.desktop:79
 msgctxt "Comment"
 msgid "Date and time by timezone"
 msgstr "തീയതിയും സമയവും സമയമേഖലയനുസരിച്ചു്"
@@ -711,7 +711,7 @@ msgctxt "Name"
 msgid "BBC Weather"
 msgstr "കാലാവസ്ഥ "
 
-#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:23
+#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:26
 msgctxt "Comment"
 msgid "XML Data from the British Broadcasting Corporation"
 msgstr ""
@@ -956,16 +956,6 @@ msgctxt "Comment"
 msgid "Provides the system's time zone to applications"
 msgstr "സിസ്റ്റത്തിലെ സമയമേഖല പ്രയോഗങ്ങള്‍ക്കു് നല്‍കുന്നു"
 
-#: kuiserver/kuiserver.desktop:3
-msgctxt "Name"
-msgid "kuiserver"
-msgstr "കെയുഐസെര്‍വര്‍"
-
-#: kuiserver/kuiserver.desktop:85
-msgctxt "Comment"
-msgid "KDE's Progress Info UI server"
-msgstr "കെഡിഇയുടെ പുരോഗതി വിവര യുഐ സെര്‍വര്‍"
-
 #: libcolorcorrect/kded/colorcorrectlocationupdater.desktop:3
 msgctxt "Name"
 msgid "ColorCorrect Geolocation Updater"
@@ -982,14 +972,14 @@ msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr "പണിയിടത്തിന്റെ പ്രവര്‍ത്തനവേളകള്‍"
 
-#: lookandfeel/metadata.desktop:23
+#: lookandfeel/metadata.desktop:26
 msgctxt "Keywords"
 msgid ""
 "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;"
 "Hibernate;"
 msgstr ""
 
-#: lookandfeel/metadata.desktop:62 sddm-theme/metadata.desktop:2
+#: lookandfeel/metadata.desktop:65 sddm-theme/metadata.desktop:2
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""
@@ -1685,6 +1675,14 @@ msgstr ""
 msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr ""
+
+#~ msgctxt "Name"
+#~ msgid "kuiserver"
+#~ msgstr "കെയുഐസെര്‍വര്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE's Progress Info UI server"
+#~ msgstr "കെഡിഇയുടെ പുരോഗതി വിവര യുഐ സെര്‍വര്‍"
 
 #~ msgctxt "Name"
 #~ msgid "BBC Weather from UK MET Office"

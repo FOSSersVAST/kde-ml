@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcmkonqhtml\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-19 03:41+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
 "PO-Revision-Date: 2008-07-09 21:21+0530\n"
 "Last-Translator: ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>\n"
 "Language-Team: <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -758,8 +758,8 @@ msgid ""
 "<b>Background</b><p>Behind this door lays the ability to choose a custom "
 "default background.</p>"
 msgstr ""
-"<b>പശ്ചാത്തലം</b><p>ഡിഫോള്‍ട്ട് ആയുള്ള പശ്ചാത്തലചിത്രം തിരഞ്ഞെടുക്കാനുള്ള കഴിവ്ഇതാ ഈ വാതിലുകള്‍"
-"ക്കുള്ളിലാണ് </p>"
+"<b>പശ്ചാത്തലം</b><p>ഡിഫോള്‍ട്ട് ആയുള്ള പശ്ചാത്തലചിത്രം തിരഞ്ഞെടുക്കാനുള്ള കഴിവ്ഇതാ ഈ "
+"വാതിലുകള്‍ക്കുള്ളിലാണ് </p>"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, sameColor)
 #: css/csscustom.ui:248
@@ -1578,8 +1578,9 @@ msgid ""
 "named <b>javascript_policy.tgz</b>, will be saved to a location of your "
 "choice."
 msgstr ""
-"ജാവാസ്ക്രിപ്റ്റ് പോളിസി ഒരു സിപ്ഡ് ഫയലായി സൂക്ഷിക്കുന്നതിനു് ഈ ബട്ടണ്‍ ക്ലിക്കു് ചെയ്യുക. നിങ്ങള്‍"
-"ക്കിഷ്ടമുള്ള സ്ഥലത്തു് <b>javascript_policy.tgz</b> എന്ന പേരുള്ള ഈ ഫയല്‍ സൂക്ഷിക്കപ്പെടുന്നതാണു്."
+"ജാവാസ്ക്രിപ്റ്റ് പോളിസി ഒരു സിപ്ഡ് ഫയലായി സൂക്ഷിക്കുന്നതിനു് ഈ ബട്ടണ്‍ ക്ലിക്കു് ചെയ്യുക. "
+"നിങ്ങള്‍ക്കിഷ്ടമുള്ള സ്ഥലത്തു് <b>javascript_policy.tgz</b> എന്ന പേരുള്ള ഈ ഫയല്‍ "
+"സൂക്ഷിക്കപ്പെടുന്നതാണു്."
 
 #: jsopts.cpp:105
 #, kde-format

@@ -6,15 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-20 03:41+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
 "PO-Revision-Date: 2019-03-20 03:41+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: package/contents/config/config.qml:25
 #, kde-format
@@ -174,28 +176,27 @@ msgctxt "@title:window"
 msgid "Choose Files"
 msgstr ""
 
-#: package/contents/ui/ConfigPaths.qml:90
+#: package/contents/ui/ConfigPaths.qml:87
 #, kde-format
 msgctxt "@title:window"
 msgid "Choose a Folder"
 msgstr ""
 
-#: package/contents/ui/ConfigPaths.qml:117
+#: package/contents/ui/ConfigPaths.qml:135
+#, kde-format
+msgid "Remove path"
+msgstr ""
+
+#: package/contents/ui/ConfigPaths.qml:149
 #, kde-format
 msgctxt "@action:button"
 msgid "Add Folder..."
 msgstr ""
 
-#: package/contents/ui/ConfigPaths.qml:123
+#: package/contents/ui/ConfigPaths.qml:155
 #, kde-format
 msgctxt "@action:button"
 msgid "Add Files..."
-msgstr ""
-
-#: package/contents/ui/ConfigPaths.qml:130
-#, kde-format
-msgctxt "@label:listbox"
-msgid "Paths:"
 msgstr ""
 
 #: package/contents/ui/main.qml:447

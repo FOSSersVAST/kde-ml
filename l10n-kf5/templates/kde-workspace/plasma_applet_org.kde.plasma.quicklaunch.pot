@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:14+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -23,58 +23,52 @@ msgctxt "@title"
 msgid "General"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:39
-#, kde-format
-msgctxt "@title:group"
-msgid "Arrangement"
-msgstr ""
-
-#: package/contents/ui/ConfigGeneral.qml:43
+#: package/contents/ui/ConfigGeneral.qml:44
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Maximum columns:"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:43
+#: package/contents/ui/ConfigGeneral.qml:44
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Maximum rows:"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:57
+#: package/contents/ui/ConfigGeneral.qml:58
 #, kde-format
 msgctxt "@title:group"
-msgid "Appearance"
+msgid "Appearance:"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:62
+#: package/contents/ui/ConfigGeneral.qml:60
 #, kde-format
 msgctxt "@option:check"
 msgid "Show launcher names"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:67
+#: package/contents/ui/ConfigGeneral.qml:65
 #, kde-format
 msgctxt "@option:check"
 msgid "Enable popup"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:76
+#: package/contents/ui/ConfigGeneral.qml:75
 #, kde-format
 msgctxt "@title:group"
-msgid "Title"
+msgid "Title:"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:84
+#: package/contents/ui/ConfigGeneral.qml:83
 #, kde-format
 msgctxt "@option:check"
-msgid "Show title"
+msgid "Show:"
 msgstr ""
 
 #: package/contents/ui/ConfigGeneral.qml:99
 #, kde-format
 msgctxt "@info:placeholder"
-msgid "Enter title"
+msgid "Custom title"
 msgstr ""
 
 #: package/contents/ui/IconItem.qml:142

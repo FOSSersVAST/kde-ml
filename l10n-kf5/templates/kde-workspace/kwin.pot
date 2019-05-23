@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-17 03:44+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -27,18 +27,18 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: abstract_client.cpp:2035
+#: abstract_client.cpp:2039
 #, kde-format
 msgctxt "Application is not responding, appended to window title"
 msgid "(Not Responding)"
 msgstr ""
 
-#: abstract_output.cpp:50 abstract_output.cpp:237
+#: abstract_output.cpp:50 abstract_output.cpp:240
 #, kde-format
 msgid "unknown"
 msgstr ""
 
-#: composite.cpp:580
+#: composite.cpp:569
 #, kde-format
 msgid ""
 "Desktop effects have been suspended by another application.<br/>You can "
@@ -743,22 +743,22 @@ msgctxt "Mouse Button"
 msgid "task"
 msgstr ""
 
-#: debug_console.cpp:1094
+#: debug_console.cpp:1096
 #, kde-format
 msgid "X11 Client Windows"
 msgstr ""
 
-#: debug_console.cpp:1096
+#: debug_console.cpp:1098
 #, kde-format
 msgid "X11 Unmanaged Windows"
 msgstr ""
 
-#: debug_console.cpp:1098
+#: debug_console.cpp:1100
 #, kde-format
 msgid "Wayland Windows"
 msgstr ""
 
-#: debug_console.cpp:1100
+#: debug_console.cpp:1102
 #, kde-format
 msgid "Internal Windows"
 msgstr ""
@@ -1541,39 +1541,39 @@ msgstr ""
 msgid "Disable KActivities integration."
 msgstr ""
 
-#: orientation_sensor.cpp:97
+#: orientation_sensor.cpp:98
 #, kde-format
 msgid "Allow Rotation"
 msgstr ""
 
-#: orientation_sensor.cpp:98
+#: orientation_sensor.cpp:99
 #, kde-format
 msgid "Automatic screen rotation is enabled"
 msgstr ""
 
-#: orientation_sensor.cpp:107
+#: orientation_sensor.cpp:109
 #, kde-format
 msgid "Undefined"
 msgstr ""
 
-#: orientation_sensor.cpp:111
+#: orientation_sensor.cpp:113
 #, kde-format
 msgctxt "Portrait oriented display"
 msgid "Vertical"
 msgstr ""
 
-#: orientation_sensor.cpp:115
+#: orientation_sensor.cpp:117
 #, kde-format
 msgctxt "Landscape oriented display"
 msgid "Horizontal"
 msgstr ""
 
-#: orientation_sensor.cpp:119
+#: orientation_sensor.cpp:121
 #, kde-format
 msgid "Automatic screen rotation is disabled"
 msgstr ""
 
-#: plugins/scenes/opengl/scene_opengl.cpp:574
+#: plugins/scenes/opengl/scene_opengl.cpp:577
 #, kde-format
 msgid "Desktop effects were restarted due to a graphics reset"
 msgstr ""
@@ -1976,7 +1976,7 @@ msgstr ""
 msgid "Whether to show the virtual keyboard on demand."
 msgstr ""
 
-#: workspace.cpp:1334
+#: workspace.cpp:1329
 #, kde-format
 msgctxt "Introductory text shown in the support information."
 msgid ""

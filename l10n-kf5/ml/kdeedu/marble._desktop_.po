@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-02-12 02:33+0000\n"
-"PO-Revision-Date: 2008-07-16 10:34+0530\n"
-"Last-Translator: Manu S Madhav | മനു എസ് മാധവ് <manusmad@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
 "discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -80,7 +80,7 @@ msgstr ""
 #: src/apps/marble-maps/org.kde.marble.maps.desktop:61
 msgctxt "Comment"
 msgid "Find your way"
-msgstr ""
+msgstr "നിങ്ങളുടെ വഴി കണ്ടെത്തുക"
 
 #: src/plasma/applets/worldclock/package/metadata.desktop:2
 msgctxt "Name"
@@ -88,10 +88,9 @@ msgid "World Clock"
 msgstr "ലോകഘടികാരം"
 
 #: src/plasma/applets/worldclock/package/metadata.desktop:52
-#, fuzzy
 msgctxt "Comment"
 msgid "Shows the time in different parts of the world"
-msgstr "ലോകത്തിലെ വിവിധഭാഗങ്ങളിലെ സമയം കാണിക്കുവാനുള്ള പ്ലാസ്മോയിഡ്"
+msgstr "ലോകത്തിലെ വിവിധഭാഗങ്ങളിലെ സമയം കാണിക്കുക"
 
 #: src/plasmarunner/plasma-runner-marble.desktop:2
 msgctxt "Name"

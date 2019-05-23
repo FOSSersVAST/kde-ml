@@ -6,30 +6,31 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-17 03:38+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 03:24+0200\n"
 "PO-Revision-Date: 2019-03-17 03:38+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../sddm-theme/KeyboardButton.qml:13
 msgid "Keyboard Layout: %1"
 msgstr ""
 
-#: ../sddm-theme/Login.qml:55
+#: ../sddm-theme/Login.qml:59
 msgid "Username"
 msgstr ""
 
-#: ../sddm-theme/Login.qml:71 contents/lockscreen/MainBlock.qml:62
+#: ../sddm-theme/Login.qml:75 contents/lockscreen/MainBlock.qml:62
 msgid "Password"
 msgstr ""
 
-#: ../sddm-theme/Login.qml:110
+#: ../sddm-theme/Login.qml:114
 msgid "Log In"
 msgstr ""
 
@@ -213,7 +214,7 @@ msgid "Configure Search Plugins"
 msgstr ""
 
 #: contents/runcommand/RunCommand.qml:64
-msgid "Configure..."
+msgid "Configure KRunner..."
 msgstr ""
 
 #: contents/runcommand/RunCommand.qml:76

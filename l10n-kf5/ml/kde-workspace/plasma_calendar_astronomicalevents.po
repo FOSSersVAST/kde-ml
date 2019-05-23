@@ -6,24 +6,31 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:14+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
 "PO-Revision-Date: 2018-08-16 09:14+0200\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: config/qml/AstronomicalEventsConfig.qml:48
+#: config/qml/AstronomicalEventsConfig.qml:50
 #, kde-format
-msgctxt "@option:check"
-msgid "Show lunar phases"
+msgid "Show:"
 msgstr ""
 
-#: config/qml/AstronomicalEventsConfig.qml:56
+#: config/qml/AstronomicalEventsConfig.qml:53
 #, kde-format
 msgctxt "@option:check"
-msgid "Show astronomical seasons (solstices and equinoxes)"
+msgid "Lunar phases"
+msgstr ""
+
+#: config/qml/AstronomicalEventsConfig.qml:61
+#, kde-format
+msgctxt "@option:check"
+msgid "Astronomical seasons (solstices and equinoxes)"
 msgstr ""

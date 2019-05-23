@@ -7,10 +7,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-06 03:38+0200\n"
-"PO-Revision-Date: 2008-11-12 12:27+0530\n"
-"Last-Translator: മണിലാല്‍ കെ.എം|Manilal K M <libregeek@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team:  Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
 "discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -73,9 +73,9 @@ msgid "Unable to download the icon theme archive: %1"
 msgstr "%1 എന്ന കര്‍സര്‍ പ്രമേയം കണ്ടെത്താന്‍ കഴിഞ്ഞില്ല."
 
 #: kcmcursortheme.cpp:554
-#, fuzzy, kde-format
+#, kde-format
 msgid "The file is not a valid icon theme archive."
-msgstr "%1 എന്ന പ്രമാണം സാധുവായ ഒരു കര്‍സര്‍ പ്രമേയം ആണെന്നു തോന്നുന്നില്ല."
+msgstr "ഫയല്‍ സാധുതയുള്ള ഒരു ചിഹ്ന പ്രമേയ ആര്‍ക്കൈവ് അല്ല."
 
 #: kcmcursortheme.cpp:561
 #, kde-format
@@ -280,8 +280,8 @@ msgstr ""
 #~ "mouse, trackball, or some other hardware that performs a similar function."
 #~ msgstr ""
 #~ "<h1>മൌസ്</h1>നിങ്ങളുടെ ഇന്‍പുട്ട് പോയിന്റിങ്ങ് ഡിവൈസ് പ്രവര്‍ത്തിക്കേണ്ട ക്രമീകരണങ്ങള്‍ "
-#~ "തെരഞ്ഞെടുക്കാന്‍ ഈ മോഡ്യൂള്‍ സഹായിക്കുന്നു.  മൌസ്, ട്രാക്ക്ബാള്‍, അല്ലെങ്കില്‍ അതെ പോലെ പ്രവര്‍"
-#~ "ത്തിക്കുന്ന മറ്റു എന്തെങ്കിലും ഉപാധിയായിരിക്കാം താങ്കളുടെ പോയിന്റിങ്ങ് ഡിവൈസ്. "
+#~ "തെരഞ്ഞെടുക്കാന്‍ ഈ മോഡ്യൂള്‍ സഹായിക്കുന്നു.  മൌസ്, ട്രാക്ക്ബാള്‍, അല്ലെങ്കില്‍ അതെ പോലെ "
+#~ "പ്രവര്‍ത്തിക്കുന്ന മറ്റു എന്തെങ്കിലും ഉപാധിയായിരിക്കാം താങ്കളുടെ പോയിന്റിങ്ങ് ഡിവൈസ്. "
 
 #~ msgid "&General"
 #~ msgstr "&പൊതുവായത്"
@@ -411,8 +411,8 @@ msgstr ""
 #~ "will be handled as a page up/down movement."
 #~ msgstr ""
 #~ "താങ്കള്‍ മൌസിന്റെ ചക്രം ഉപയോഗിക്കുമ്പോള്‍ ചക്രത്തിന്റെ ഓരോ ചലനത്തിനും എത്ര വരികള്‍ നീങ്ങണം "
-#~ "എന്നതു ഈ മൂല്യം മുഖേന നിര്‍ണ്ണയിക്കുന്നു.  ഈ സംഖ്യ മൊത്തം കാണാവുന്ന വരികള്‍"
-#~ "ക്കപ്പുറമാവുകയാണെങ്കില്‍ ചക്രത്തിന്റെ ചലനം പേജ് അപ്/പേജ് ഡൌണ്‍ ചലനം പോലെ കണക്കാക്കും. "
+#~ "എന്നതു ഈ മൂല്യം മുഖേന നിര്‍ണ്ണയിക്കുന്നു.  ഈ സംഖ്യ മൊത്തം കാണാവുന്ന "
+#~ "വരികള്‍ക്കപ്പുറമാവുകയാണെങ്കില്‍ ചക്രത്തിന്റെ ചലനം പേജ് അപ്/പേജ് ഡൌണ്‍ ചലനം പോലെ കണക്കാക്കും. "
 
 #~ msgid "Mouse Navigation"
 #~ msgstr "മൌസിന്റെ പര്യവേക്ഷം"

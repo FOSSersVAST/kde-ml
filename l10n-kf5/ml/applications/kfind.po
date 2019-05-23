@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kfindpart\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-15 03:43+0100\n"
-"PO-Revision-Date: 2008-12-05 02:28+0730\n"
-"Last-Translator: Hari|ഹരി  Vishnu | വിഷ്ണു <harivishnu@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:39+0200\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
 "discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -29,13 +29,13 @@ msgstr "ഫയലുകള്‍/അറകള്‍ കണ്ടുപിടി�
 #, kde-format
 msgctxt "the application is currently idle, there is no active search"
 msgid "Idle."
-msgstr ""
+msgstr "നിശ്‌ചലം."
 
 #. i18n as below
 #: kfinddlg.cpp:151
-#, fuzzy, kde-format
+#, kde-format
 msgid "0 items found"
-msgstr "ഒരു ഫയല്‍ ലഭ്യമായി"
+msgstr "ഒന്നും കണ്ടുകിട്ടിയില്ല"
 
 #: kfinddlg.cpp:190
 #, kde-format
@@ -45,7 +45,7 @@ msgstr "തെരയുന്നു..."
 #: kfinddlg.cpp:217
 #, kde-format
 msgid "Canceled."
-msgstr ""
+msgstr "റദ്ദാക്കിയിരിക്കുന്നു."
 
 #: kfinddlg.cpp:219 kfinddlg.cpp:222 kfinddlg.cpp:225
 #, kde-format
@@ -63,11 +63,11 @@ msgid "Could not find the specified folder."
 msgstr "പറഞ്ഞിരിക്കുന്ന അറ ലഭ്യമാക്കുവാന്‍ സാധ്യമായില്ല."
 
 #: kfinddlg.cpp:246 kfinddlg.cpp:270
-#, fuzzy, kde-format
+#, kde-format
 msgid "one item found"
 msgid_plural "%1 items found"
-msgstr[0] "ഒരു ഫയല്‍ ലഭ്യമായി"
-msgstr[1] "%1 ഫയലുകള്‍ ലഭ്യമായി"
+msgstr[0] "ഒരു ഫയല്‍ കണ്ടെത്തി"
+msgstr[1] "%1 ഫയലുകള്‍ കണ്ടെത്തി"
 
 #: kfindtreeview.cpp:51
 #, kde-format
@@ -90,10 +90,10 @@ msgid "Inaccessible"
 msgstr "ലഭ്യമല്ലാത്ത"
 
 #: kfindtreeview.cpp:74
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "file name column"
 msgid "Name"
-msgstr "പേരു്"
+msgstr "പേര്"
 
 #: kfindtreeview.cpp:76
 #, fuzzy, kde-format
@@ -102,19 +102,19 @@ msgid "In Subfolder"
 msgstr "ഉപഫോള്‍ഡറില്‍"
 
 #: kfindtreeview.cpp:78
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "file size column"
 msgid "Size"
 msgstr "വലിപ്പം"
 
 #: kfindtreeview.cpp:80
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "modified date column"
 msgid "Modified"
-msgstr "മാറ്റം വരുത്തിയിരിക്കുന്നു"
+msgstr "പരിഷ്കരിച്ചത്"
 
 #: kfindtreeview.cpp:82
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "file permissions column"
 msgid "Permissions"
 msgstr "അനുമതികള്‍"
@@ -141,10 +141,10 @@ msgid "&Move to Trash"
 msgstr ""
 
 #: kfindtreeview.cpp:431
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Save Results As"
-msgstr "ഫലങ്ങള്‍ സൂക്ഷിക്കേണ്ട പേരു്"
+msgstr "ഫലങ്ങള്‍ സൂക്ഷിക്കേണ്ട പേര്"
 
 #: kfindtreeview.cpp:456
 #, kde-format
@@ -157,10 +157,10 @@ msgid "KFind Results File"
 msgstr "KFind ഫലങ്ങളുടെ ഫയല്‍"
 
 #: kfindtreeview.cpp:486
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "%1=filename"
 msgid "Results were saved to: %1"
-msgstr "ഫലങ്ങള്‍ ഫയലില്‍ സൂക്ഷച്ചിരിക്കുന്നു\n"
+msgstr "ഫലങ്ങള്‍ സൂക്ഷിച്ചിരിക്കുന്നത്: %1"
 
 #: kfindtreeview.cpp:574 kftabdlg.cpp:437
 #, kde-format

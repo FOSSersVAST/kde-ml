@@ -6,117 +6,119 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-09-20 03:37+0200\n"
-"PO-Revision-Date: 2018-09-20 03:37+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: adblock.cpp:69
 #, kde-format
 msgid "Adblock"
-msgstr ""
+msgstr "പരസ്യം തടയൽ"
 
 #: adblock.cpp:75
 #, kde-format
 msgid "Show Blockable Elements..."
-msgstr ""
+msgstr "തടയാനുള്ള ഘടകങ്ങൾ കാണിക്കുക ..."
 
 #: adblock.cpp:80 adblockdialog.cpp:103
 #, kde-format
 msgid "Configure Filters..."
-msgstr ""
+msgstr "ഫിൽട്ടറുകൾ കോൺഫിഗർ ചെയ്യുക ..."
 
 #: adblock.cpp:89
 #, kde-format
 msgid "No blocking for this page"
-msgstr ""
+msgstr "ഈ പേജിനായി തടയൽ ഒന്നുമില്ല"
 
 #: adblock.cpp:94
 #, kde-format
 msgid "No blocking for this site"
-msgstr ""
+msgstr "ഈ പേജ് പ്രവര്‍ത്തിക്കുന്നതിന് തടസ്സം ഒന്നുമില്ല"
 
 #: adblock.cpp:170
 #, kde-format
 msgid "Please enable Konqueror's Adblock"
-msgstr ""
+msgstr "കോൺക്വറർ പരസ്യം തടയൽ സജ്ജമാക്കുക"
 
 #: adblock.cpp:171
 #, kde-format
 msgctxt "@title:window"
 msgid "Adblock disabled"
-msgstr ""
+msgstr "പരസ്യം തടയൽ അപ്രാപ്തമാക്കി"
 
 #: adblock.cpp:202
 #, kde-format
 msgid "script"
-msgstr ""
+msgstr "സ്ക്രിപ്റ്റ്"
 
 #: adblock.cpp:203 adblock.cpp:204
 #, kde-format
 msgid "object"
-msgstr ""
+msgstr "വസ്തു"
 
 #: adblock.cpp:206
 #, kde-format
 msgid "frame"
-msgstr ""
+msgstr "ഫ്രെയിം"
 
 #: adblock.cpp:225
 #, kde-format
 msgid "image"
-msgstr ""
+msgstr "ചിത്രം"
 
 #: adblock.cpp:281
 #, kde-format
 msgid "Blocked by %1"
-msgstr ""
+msgstr "%1 തടഞ്ഞു"
 
 #: adblock.cpp:283
 #, kde-format
 msgid "Allowed by %1"
-msgstr ""
+msgstr "%1 അനുവദിച്ചു"
 
 #: adblockdialog.cpp:100
 #, kde-format
 msgctxt "@title:window"
 msgid "Blockable items on this page"
-msgstr ""
+msgstr "ഈ പേജിൽ തടയാനാകുന്ന ഇനങ്ങൾ"
 
 #: adblockdialog.cpp:105
 #, kde-format
 msgid "Add filter"
-msgstr ""
+msgstr "ഫിൽട്ടർ ചേർക്കുക"
 
 #: adblockdialog.cpp:114
 #, kde-format
 msgid "Search:"
-msgstr ""
+msgstr "തിരയുക:"
 
 #: adblockdialog.cpp:121
 #, kde-format
 msgid "Blockable items:"
-msgstr ""
+msgstr "തടയാവുന്ന ഇനങ്ങൾ"
 
 #: adblockdialog.cpp:130
 #, kde-format
 msgid "Source"
-msgstr ""
+msgstr "ഉറവിടം"
 
 #: adblockdialog.cpp:130
 #, kde-format
 msgid "Category"
-msgstr ""
+msgstr "വിഭാഗം"
 
 #: adblockdialog.cpp:130
 #, kde-format
 msgid "Tag"
-msgstr ""
+msgstr "ടാഗ്"
 
 #: adblockdialog.cpp:156
 #, kde-format
@@ -128,7 +130,7 @@ msgstr ""
 #: adblockdialog.cpp:176
 #, kde-format
 msgid "Filter this item"
-msgstr ""
+msgstr "ഇത് പരിശോധിക്കുക"
 
 #: adblockdialog.cpp:177
 #, kde-format
@@ -153,7 +155,7 @@ msgstr ""
 #: adblockdialog.cpp:183
 #, kde-format
 msgid "Copy Link Address"
-msgstr ""
+msgstr "ലിങ്കിന്റെ വിലാസം പകര്‍ത്തുക"
 
 #. i18n( "Highlight Element" ), this, SLOT(highLightElement()) );
 #: adblockdialog.cpp:186

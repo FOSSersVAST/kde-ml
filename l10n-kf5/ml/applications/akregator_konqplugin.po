@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: akregator_konqplugin trunk\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 08:58+0200\n"
-"PO-Revision-Date: 2008-05-06 21:15+0530\n"
-"Last-Translator: Prasad.S.R <saysprasad@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"PO-Revision-Date: 2019-05-22 01:57+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
 "കമ്പ്യൂട്ടിങ്ങ് <smcdiscuss@googlegroups.com\n"
 "Language: ml\n"
@@ -19,10 +19,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: akregatorplugin.cpp:74
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Add Feed to Akregator"
-msgstr "അക്രിഗേറ്ററില്‍ ഫീഡ് കൂട്ടിച്ചേര്‍ക്കുക"
+msgstr "അക്രെഗേറ്ററിലേക്ക് ഫീഡ് കൂട്ടിച്ചേര്‍ക്കുക"
 
 #: konqfeedicon.cpp:142
 #, kde-format
@@ -52,10 +52,10 @@ msgstr "എടുത്ത ഫീഡുകള്‍"
 #: pluginutil.cpp:54
 #, kde-format
 msgid "Unable to contact Akregator via DBus"
-msgstr ""
+msgstr "ഡിബസ് വഴി അക്രിഗേറ്ററെ ബന്ധപ്പെടാൻ കഴിഞ്ഞില്ല"
 
 #: pluginutil.cpp:55
 #, kde-format
 msgctxt "@title:window"
 msgid "DBus call failed"
-msgstr ""
+msgstr "ഡിബസ് വിളി പരാജയപെട്ടു"
