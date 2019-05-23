@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcm_desktopthemedetails trunk\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-15 03:39+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2008-12-16 01:08+0730\n"
 "Last-Translator: Hari|ഹരി  Vishnu | വിഷ്ണു <harivishnu@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: kcm.cpp:139
 #, fuzzy, kde-format
-msgid "Download New Desktop Themes"
+msgid "Download New Plasma Themes"
 msgstr "പണിയിടത്തിന്റെ പ്രമേയം മാറ്റുന്നതെങ്ങനെ"
 
 #: kcm.cpp:165

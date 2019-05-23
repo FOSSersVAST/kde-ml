@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-13 01:40+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,7 +16,7 @@ msgctxt "Name"
 msgid "Backtrace Browser"
 msgstr ""
 
-#: addons/backtracebrowser/katebacktracebrowserplugin.desktop:62
+#: addons/backtracebrowser/katebacktracebrowserplugin.desktop:61
 msgctxt "Comment"
 msgid "C/C++ Backtrace navigation tool view"
 msgstr ""

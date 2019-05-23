@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-01 03:02+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
 "PO-Revision-Date: 2018-11-01 03:02+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -11,6 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: applets/activitypager/metadata.desktop:2
 msgctxt "Name"
@@ -165,16 +166,6 @@ msgctxt "Comment"
 msgid "(Picture) Frame"
 msgstr ""
 
-#: applets/minimizeall/package/metadata.desktop:2
-msgctxt "Name"
-msgid "Minimize all Windows"
-msgstr ""
-
-#: applets/minimizeall/package/metadata.desktop:41
-msgctxt "Comment"
-msgid "Shows the desktop by minimizing all windows"
-msgstr ""
-
 #: applets/notes/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Notes"
@@ -203,16 +194,6 @@ msgstr ""
 #: applets/quickshare/plasmoid/metadata.desktop:44
 msgctxt "Comment"
 msgid "Paste text/images to a remote server"
-msgstr ""
-
-#: applets/showdesktop/package/metadata.desktop:2
-msgctxt "Name"
-msgid "Show Desktop"
-msgstr ""
-
-#: applets/showdesktop/package/metadata.desktop:60
-msgctxt "Comment"
-msgid "Show the Plasma desktop"
 msgstr ""
 
 #: applets/systemloadviewer/package/metadata.desktop:2

@@ -6,11 +6,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cantor\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-13 03:21+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:01+0200\n"
 "PO-Revision-Date: 2019-04-13 03:21+0200\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -297,6 +298,13 @@ msgid ""
 "><div>See <a href=\"%3\">%3</a> for more information</div>"
 msgstr ""
 
+#: backendchoosedialog.cpp:35
+#, kde-format
+msgid ""
+"<h1>%1</h1><div><b>Recommended version:</b> %3</div><br/><div>Some "
+"requirements for the backend are not fulfilled:<br/>%2</div><br/>"
+msgstr ""
+
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: backendchooser.ui:29
 #, kde-format
@@ -325,6 +333,13 @@ msgctxt ""
 "The url to the documentation of Julia, please check if there is a translated "
 "version and use the correct url"
 msgid "http://docs.julialang.org/en/latest/"
+msgstr ""
+
+#: backends/julia/juliabackend.cpp:97
+#, kde-format
+msgid ""
+"Julia backend uses special binary file - %1 (installed with Julia backend), "
+"which must be executable"
 msgstr ""
 
 #. i18n: ectx: label, entry (replPath), group (JuliaBackend)
@@ -446,13 +461,29 @@ msgstr ""
 msgid "Scripts to autorun"
 msgstr ""
 
-#: backends/lua/luabackend.cpp:68
+#: backends/lua/luabackend.cpp:67
+#, kde-format
+msgid ""
+"Lua backend needs installed Lua programming language. The backend often "
+"automatically finds needed Lua binary file, but not in this case. Please, go "
+"to Cantor settings and set path to Lua executable."
+msgstr ""
+
+#: backends/lua/luabackend.cpp:77
+#, kde-format
+msgid ""
+"In Lua backend settings a path to Lua binary file set as %1, but this file "
+"not executable. Are you sure, that this is correct path to Lua? Change this "
+"path in Cantor settings, if no."
+msgstr ""
+
+#: backends/lua/luabackend.cpp:84
 #, kde-format
 msgctxt "Lua official documentation"
 msgid "http://www.lua.org/docs.html"
 msgstr ""
 
-#: backends/lua/luabackend.cpp:73
+#: backends/lua/luabackend.cpp:89
 #, kde-format
 msgid ""
 "<p> Lua is a fast and lightweight scripting language, with a simple "
@@ -477,7 +508,23 @@ msgstr ""
 msgid "Path to luajit command:"
 msgstr ""
 
-#: backends/maxima/maximabackend.cpp:98
+#: backends/maxima/maximabackend.cpp:91
+#, kde-format
+msgid ""
+"Maxima backend needs installed Maxima - a computer algebra system. The "
+"backend often automatically finds needed binary file, but not in this case. "
+"Please, go to Cantor settings and set path to Maxima executable"
+msgstr ""
+
+#: backends/maxima/maximabackend.cpp:101
+#, kde-format
+msgid ""
+"In Maxima backend settings a path to maxima binary file set as %1, but this "
+"file not executable. Are you sure, that this is correct path to Maxima? "
+"Change this path in Cantor settings, if no."
+msgstr ""
+
+#: backends/maxima/maximabackend.cpp:113
 #, kde-format
 msgctxt ""
 "the url to the documentation of Maxima, please check if there is a "
@@ -485,7 +532,7 @@ msgctxt ""
 msgid "http://maxima.sourceforge.net/docs/manual/en/maxima.html"
 msgstr ""
 
-#: backends/maxima/maximabackend.cpp:116
+#: backends/maxima/maximabackend.cpp:131
 #, kde-format
 msgid ""
 "Maxima is a system for the manipulation of symbolic and numerical "
@@ -534,22 +581,22 @@ msgstr ""
 msgid "Maxima batch file (*.mac)"
 msgstr ""
 
-#: backends/maxima/maximasession.cpp:192
+#: backends/maxima/maximasession.cpp:190
 #, kde-format
 msgid "Failed to start Maxima"
 msgstr ""
 
-#: backends/maxima/maximasession.cpp:280
+#: backends/maxima/maximasession.cpp:278
 #, kde-format
 msgid "Maxima crashed. restarting..."
 msgstr ""
 
-#: backends/maxima/maximasession.cpp:294
+#: backends/maxima/maximasession.cpp:292
 #, kde-format
 msgid "Maxima crashed twice within a short time. Stopping to try starting"
 msgstr ""
 
-#: backends/maxima/maximasession.cpp:294 cantor_part.cpp:923 worksheet.cpp:899
+#: backends/maxima/maximasession.cpp:292 cantor_part.cpp:923 worksheet.cpp:899
 #: worksheet.cpp:924 worksheet.cpp:941 worksheet.cpp:982 worksheet.cpp:994
 #, kde-format
 msgid "Error - Cantor"
@@ -576,7 +623,24 @@ msgstr ""
 msgid "Integrate Plots in Worksheet"
 msgstr ""
 
-#: backends/octave/octavebackend.cpp:81
+#: backends/octave/octavebackend.cpp:75
+#, kde-format
+msgid ""
+"Octave backend needs installed Octave programming language. The backend "
+"often automatically finds needed Octave binary file, but not in this case. "
+"Please, go to Cantor settings and set path to Octave binary file with "
+"command line interface (CLI)"
+msgstr ""
+
+#: backends/octave/octavebackend.cpp:85
+#, kde-format
+msgid ""
+"In Octave backend settings a path to Octave binary file set as %1, but this "
+"file not executable. Are you sure, that this is correct path to Octave? "
+"Change this path in Cantor settings, if no."
+msgstr ""
+
+#: backends/octave/octavebackend.cpp:97
 #, kde-format
 msgctxt ""
 "the url to the documentation of Octave, please check if there is a "
@@ -584,7 +648,7 @@ msgctxt ""
 msgid "http://www.gnu.org/software/octave/doc/interpreter/"
 msgstr ""
 
-#: backends/octave/octavebackend.cpp:86
+#: backends/octave/octavebackend.cpp:102
 #, kde-format
 msgid ""
 "GNU Octave is a high-level language, primarily intended for numerical "
@@ -610,7 +674,7 @@ msgstr ""
 msgid "Octave script file (*.m)"
 msgstr ""
 
-#: backends/octave/octavesession.cpp:263 backends/sage/sageexpression.cpp:73
+#: backends/octave/octavesession.cpp:279 backends/sage/sageexpression.cpp:73
 #, kde-format
 msgid "Syntax Error"
 msgstr ""
@@ -1686,7 +1750,14 @@ msgstr ""
 msgid "Legend Position:"
 msgstr ""
 
-#: backends/R/rbackend.cpp:102
+#: backends/R/rbackend.cpp:89
+#, kde-format
+msgid ""
+"R backend uses special binary file - cantor_rserver (installed with R "
+"backend), which must be executable."
+msgstr ""
+
+#: backends/R/rbackend.cpp:111
 #, kde-format
 msgctxt ""
 "the url to the documentation of R, please check if there is a translated "
@@ -1694,7 +1765,7 @@ msgctxt ""
 msgid "http://rwiki.sciviews.org/doku.php?id=rdoc:rdoc"
 msgstr ""
 
-#: backends/R/rbackend.cpp:107
+#: backends/R/rbackend.cpp:116
 #, kde-format
 msgid ""
 "R is a language and environment for statistical computing and graphics, "
@@ -1716,7 +1787,7 @@ msgstr ""
 msgid "R script file (*.R)"
 msgstr ""
 
-#: backends/R/rserver/rserver.cpp:349
+#: backends/R/rserver/rserver.cpp:373
 #, kde-format
 msgid "Error Parsing Command"
 msgstr ""
@@ -1737,7 +1808,23 @@ msgstr ""
 msgid "*.R *.r|R source files (*.R, *.r)"
 msgstr ""
 
-#: backends/sage/sagebackend.cpp:100
+#: backends/sage/sagebackend.cpp:84
+#, kde-format
+msgid ""
+"Sage backend needs installed Sage programming language. The backend often "
+"automatically finds needed Sage binary file, but not in this case. Please, "
+"go to Cantor settings and set path to Sage executable"
+msgstr ""
+
+#: backends/sage/sagebackend.cpp:94
+#, kde-format
+msgid ""
+"In Sage backend settings a path to Sage binary file set as %1, but this file "
+"not executable. Are you sure, that this is correct path to Sage? Change this "
+"path in Cantor settings, if no."
+msgstr ""
+
+#: backends/sage/sagebackend.cpp:115
 #, kde-format
 msgctxt ""
 "the url to the documentation of Sage, please check if there is a translated "
@@ -1745,7 +1832,7 @@ msgctxt ""
 msgid "http://www.sagemath.org/doc/reference/index.html"
 msgstr ""
 
-#: backends/sage/sagebackend.cpp:105
+#: backends/sage/sagebackend.cpp:120
 #, kde-format
 msgid ""
 "Sage is a free open-source mathematics software system licensed under the "
@@ -1777,15 +1864,15 @@ msgstr ""
 msgid "Python script file (*.py);;Sage script file (*.sage)"
 msgstr ""
 
-#: backends/sage/sagesession.cpp:213
+#: backends/sage/sagesession.cpp:240
 #, kde-format
 msgid ""
 "Sage version %1.%2 is unsupported. Please update your installation to the "
 "supported versions to make it work with Cantor."
 msgstr ""
 
-#: backends/sage/sagesession.cpp:215 backends/sage/sagesession.cpp:248
-#: backends/sage/sagesession.cpp:328 backends/sage/sagesession.cpp:339
+#: backends/sage/sagesession.cpp:242 backends/sage/sagesession.cpp:275
+#: backends/sage/sagesession.cpp:354 backends/sage/sagesession.cpp:365
 #: cantor.cpp:185 cantor.cpp:187 cantor.cpp:314 cantor.cpp:318 main.cpp:77
 #: main.cpp:144 worksheet.cpp:961 worksheet.cpp:1012 worksheet.cpp:1035
 #: worksheet.cpp:1044 worksheet.cpp:1063 worksheet.cpp:1074
@@ -1793,34 +1880,34 @@ msgstr ""
 msgid "Cantor"
 msgstr ""
 
-#: backends/sage/sagesession.cpp:247
+#: backends/sage/sagesession.cpp:274
 #, kde-format
 msgid ""
 "Failed to determine the version of Sage. Please check your installation and "
 "the output of 'sage -v'."
 msgstr ""
 
-#: backends/sage/sagesession.cpp:324
+#: backends/sage/sagesession.cpp:350
 #, kde-format
 msgid "The Sage process crashed while evaluating this expression"
 msgstr ""
 
-#: backends/sage/sagesession.cpp:328
+#: backends/sage/sagesession.cpp:354
 #, kde-format
 msgid "The Sage process crashed"
 msgstr ""
 
-#: backends/sage/sagesession.cpp:335
+#: backends/sage/sagesession.cpp:361
 #, kde-format
 msgid "The Sage process exited while evaluating this expression"
 msgstr ""
 
-#: backends/sage/sagesession.cpp:339
+#: backends/sage/sagesession.cpp:365
 #, kde-format
 msgid "The Sage process exited"
 msgstr ""
 
-#: backends/sage/sagesession.cpp:349
+#: backends/sage/sagesession.cpp:375
 #, kde-format
 msgid "Failed to start Sage"
 msgstr ""
@@ -1831,7 +1918,23 @@ msgstr ""
 msgid "Path to Sage:"
 msgstr ""
 
-#: backends/scilab/scilabbackend.cpp:96
+#: backends/scilab/scilabbackend.cpp:80
+#, kde-format
+msgid ""
+"Scilab backend needs installed Scilab programming language. The backend "
+"often automatically finds needed Scilab binary file, but not in this case. "
+"Please, go to Cantor settings and set path to Scilab executable"
+msgstr ""
+
+#: backends/scilab/scilabbackend.cpp:90
+#, kde-format
+msgid ""
+"In Scilab backend settings a path to Scilab binary file set as %1, but this "
+"file not executable. Are you sure, that this is correct path to Scilab? "
+"Change this path in Cantor settings, if no."
+msgstr ""
+
+#: backends/scilab/scilabbackend.cpp:111
 #, kde-format
 msgctxt ""
 "the url to the documentation of Scilab, please check if there is a "
@@ -1839,7 +1942,7 @@ msgctxt ""
 msgid "http://www.scilab.org/support/documentation"
 msgstr ""
 
-#: backends/scilab/scilabbackend.cpp:101
+#: backends/scilab/scilabbackend.cpp:116
 #, kde-format
 msgid ""
 "<p>Scilab is a free software, cross-platform numerical computational package "

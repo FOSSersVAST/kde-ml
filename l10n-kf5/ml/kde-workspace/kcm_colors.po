@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcmcolors\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-12 03:40+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -116,7 +116,9 @@ msgstr ""
 
 #: editor/kcolorschemeeditor.cpp:52
 #, kde-format
-msgid "Overwrite edited theme when saving"
+msgid ""
+"Show 'Apply' button that saves changes without asking (unlike 'Save As' "
+"button)"
 msgstr ""
 
 #: editor/kcolorschemeeditor.cpp:55
@@ -215,27 +217,27 @@ msgstr ""
 msgid "Do you really want to upload?"
 msgstr ""
 
-#: editor/scmeditordialog.cpp:134
+#: editor/scmeditordialog.cpp:137
 #, kde-format
 msgid "You have unsaved changes. Do you really want to quit?"
 msgstr ""
 
-#: editor/scmeditordialog.cpp:135
+#: editor/scmeditordialog.cpp:138
 #, kde-format
 msgid "Unsaved changes"
 msgstr ""
 
-#: editor/scmeditordialog.cpp:154 editor/scmeditordialog.cpp:182
+#: editor/scmeditordialog.cpp:157 editor/scmeditordialog.cpp:185
 #, kde-format
 msgid "Save Color Scheme"
 msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
 
-#: editor/scmeditordialog.cpp:155
+#: editor/scmeditordialog.cpp:158
 #, kde-format
 msgid "&Enter a name for the color scheme:"
 msgstr "നിറങ്ങളുടെ കൂട്ടിനു് ഒരു പേരു് &നല്‍കുക:"
 
-#: editor/scmeditordialog.cpp:181
+#: editor/scmeditordialog.cpp:184
 #, kde-format
 msgid ""
 "A color scheme with that name already exists.\n"
@@ -244,17 +246,17 @@ msgstr ""
 "ഈ പേരില്‍ നിലവില്‍ ഒരു നിറക്കൂട്ടുണ്ടു്.\n"
 "നിങ്ങള്‍ക്കു് അതു് മാറ്റണമോ?"
 
-#: editor/scmeditordialog.cpp:221
+#: editor/scmeditordialog.cpp:224
 #, kde-format
 msgid "You do not have permission to overwrite that scheme"
 msgstr "നിങ്ങള്‍ക്കു് ഈ നിറക്കൂട്ടു് മാറ്റി സൂക്ഷിക്കുന്നതിനുള്ള അനുവാദമില്ല"
 
-#: editor/scmeditordialog.cpp:221
+#: editor/scmeditordialog.cpp:224
 #, kde-format
 msgid "Error"
 msgstr "പിശകു്"
 
-#: editor/scmeditordialog.cpp:237
+#: editor/scmeditordialog.cpp:240
 #, fuzzy, kde-format
 msgid "Inactive"
 msgstr "സജീവമല്ലാത്ത"

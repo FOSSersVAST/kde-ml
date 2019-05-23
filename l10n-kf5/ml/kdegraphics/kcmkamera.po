@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kamera\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:08+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:07+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -16,6 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: kamera.cpp:89
 #, kde-format
@@ -50,8 +51,7 @@ msgstr "നീക്കം ചെയ്യുക"
 #: kamera.cpp:147
 #, kde-format
 msgid "Click this button to remove the selected camera from the list."
-msgstr ""
-"പട്ടികയിൽ നിന്നും തിരഞ്ഞെടുത്ത ക്യാമറ നീക്കം ചെയ്യാനായി ഈ ബട്ടൻ അമർത്തുക"
+msgstr "പട്ടികയിൽ നിന്നും തിരഞ്ഞെടുത്ത ക്യാമറ നീക്കം ചെയ്യാനായി ഈ ബട്ടൻ അമർത്തുക"
 
 #: kamera.cpp:152
 #, kde-format
@@ -65,9 +65,8 @@ msgid ""
 "<br><br>The availability of this feature and the contents of the "
 "Configuration dialog depend on the camera model."
 msgstr ""
-"തിരഞ്ഞെടുത്ത ക്യാമറയുടെ ക്രമീകരണം മാറ്റുന്നതിനായി ഈ ബട്ടണിൽ ക്ലിക്ക് "
-"ചെയ്യുക.<br><br> ഈ സവിശേഷതയും ക്രമീകരണങ്ങളും ഡയലോഗിലെ ഉള്ളടക്കങ്ങളും ക്യാമറ "
-"മോഡൽ അനുസരിച്ചാകുന്നു."
+"തിരഞ്ഞെടുത്ത ക്യാമറയുടെ ക്രമീകരണം മാറ്റുന്നതിനായി ഈ ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക.<br><br> ഈ "
+"സവിശേഷതയും ക്രമീകരണങ്ങളും ഡയലോഗിലെ ഉള്ളടക്കങ്ങളും ക്യാമറ മോഡൽ അനുസരിച്ചാകുന്നു."
 
 #: kamera.cpp:159
 #, kde-format
@@ -81,9 +80,8 @@ msgid ""
 "camera.<br><br>The availability of this feature and the contents of the "
 "Information dialog depend on the camera model."
 msgstr ""
-"തിരഞ്ഞെടുത്ത ക്യാമറയുടെ നിലവിലെ വിവരങ്ങൾ കാണുന്നതിന് ഈ ബട്ടൺ ക്ലിക്കുചെയ്യു"
-"ക. <br> <br> ഈ സവിശേഷതയും വിവര ഡയലോഗിലെ ഉള്ളടക്കങ്ങളും ക്യാമറ മോഡൽ "
-"അനുസരിച്ചാകുന്നു."
+"തിരഞ്ഞെടുത്ത ക്യാമറയുടെ നിലവിലെ വിവരങ്ങൾ കാണുന്നതിന് ഈ ബട്ടൺ ക്ലിക്കുചെയ്യുക. <br> <br> ഈ "
+"സവിശേഷതയും വിവര ഡയലോഗിലെ ഉള്ളടക്കങ്ങളും ക്യാമറ മോഡൽ അനുസരിച്ചാകുന്നു."
 
 #: kamera.cpp:167
 #, kde-format
@@ -114,18 +112,16 @@ msgid ""
 "<a href=\"camera:/\">camera:/</a> in Konqueror and other KDE applications."
 msgstr ""
 "<h1> ഡിജിറ്റൽ ക്യാമറ </ h1>\n"
-"നിങ്ങളുടെ ഡിജിറ്റൽ ക്യാമറയ്ക്കുള്ള പിന്തുണ ക്രമീകരിക്കുന്നതിനു് ഈ ഘടകം "
-"അനുവദിക്കുന്നു.\n"
-"നിങ്ങളുടെ കമ്പ്യൂട്ടറിൽ (ഉദാ: USB, സീരിയൽ, ഫയർവാർ) കണക്റ്റുചെയ്തിരിക്കുന്ന "
-"ക്യാമറയുടെ മോഡലും പോർട്ടും നിങ്ങൾ തിരഞ്ഞെടുക്കേണ്ടതുണ്ട്.\n"
-" <i>പിന്തുണയ്ക്കുന്ന ക്യാമറകളുടെ </i> പട്ടികയിൽ നിങ്ങളുടെ ക്യാമറ "
-"ദൃശ്യമാകുന്നില്ലെങ്കിൽ\n"
-"സാധ്യമായ ഒരു അപ്ഡേറ്റിനായി <a href=\"http://www.gphoto.org\"> GPhoto വെബ് "
-"സൈറ്റ് </a>. <br> <br>\n"
+"നിങ്ങളുടെ ഡിജിറ്റൽ ക്യാമറയ്ക്കുള്ള പിന്തുണ ക്രമീകരിക്കുന്നതിനു് ഈ ഘടകം അനുവദിക്കുന്നു.\n"
+"നിങ്ങളുടെ കമ്പ്യൂട്ടറിൽ (ഉദാ: USB, സീരിയൽ, ഫയർവാർ) കണക്റ്റുചെയ്തിരിക്കുന്ന ക്യാമറയുടെ മോഡലും "
+"പോർട്ടും നിങ്ങൾ തിരഞ്ഞെടുക്കേണ്ടതുണ്ട്.\n"
+" <i>പിന്തുണയ്ക്കുന്ന ക്യാമറകളുടെ </i> പട്ടികയിൽ നിങ്ങളുടെ ക്യാമറ ദൃശ്യമാകുന്നില്ലെങ്കിൽ\n"
+"സാധ്യമായ ഒരു അപ്ഡേറ്റിനായി <a href=\"http://www.gphoto.org\"> GPhoto വെബ് സൈറ്റ് </"
+"a>. <br> <br>\n"
 "സന്ദർശിക്കുക\n"
 "ഡിജിറ്റൽ ക്യാമറയിൽ നിന്നുള്ള ചിത്രങ്ങൾ കാണാനും ഡൗൺലോഡ് ചെയ്യാനും\n"
-"കോണ്ക്വററിലും മറ്റു കെഡിഇ പ്രയോഗങ്ങളിലും <a href=\"camera:/\"> ക്യാമറ: / </a>"
-" സന്ദർശിക്കുക."
+"കോണ്ക്വററിലും മറ്റു കെഡിഇ പ്രയോഗങ്ങളിലും <a href=\"camera:/\"> ക്യാമറ: / </a> "
+"സന്ദർശിക്കുക."
 
 #: kameraconfigdialog.cpp:257
 #, kde-format
@@ -157,9 +153,7 @@ msgstr ""
 #: kameradevice.cpp:127
 #, kde-format
 msgid "Could not access driver. Check your gPhoto2 installation."
-msgstr ""
-"ഡ്രൈവറിനെ ആക്സസ്സ് ചെയ്യാൻ കഴിഞ്ഞില്ല. നിങ്ങളുടെ ജിഫോട്ടോ2 ഇൻസ്റ്റാളേഷൻ "
-"പരിശോധിക്കുക"
+msgstr "ഡ്രൈവറിനെ ആക്സസ്സ് ചെയ്യാൻ കഴിഞ്ഞില്ല. നിങ്ങളുടെ ജിഫോട്ടോ2 ഇൻസ്റ്റാളേഷൻ പരിശോധിക്കുക"
 
 #: kameradevice.cpp:147
 #, kde-format
@@ -167,8 +161,8 @@ msgid ""
 "Unable to initialize camera. Check your port settings and camera "
 "connectivity and try again."
 msgstr ""
-"ക്യാമറയുടെ പ്രവർത്തനം തുടങ്ങാനായില്ല. നിങ്ങളുടെ പോർട്ട് ക്രമീകരണങ്ങളും ക്യാ"
-"മറ കണക്റ്റിവിറ്റിയും പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
+"ക്യാമറയുടെ പ്രവർത്തനം തുടങ്ങാനായില്ല. നിങ്ങളുടെ പോർട്ട് ക്രമീകരണങ്ങളും ക്യാമറ കണക്റ്റിവിറ്റിയും "
+"പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
 
 #: kameradevice.cpp:171
 #, kde-format
@@ -217,9 +211,8 @@ msgid ""
 "If this option is checked, the camera has to be connected to one of the "
 "computer's serial ports (known as COM ports in Microsoft Windows.)"
 msgstr ""
-"ഈ ഓപ്ഷൻ തിരഞ്ഞെടുത്തിട്ടുണ്ടെങ്കിൽ, കമ്പ്യൂട്ടറിന്റെ സീരിയൽ "
-"പോർട്ടുകളിലൊന്നിലേക്ക് ക്യാമറ ബന്ധിപ്പിക്കേണ്ടതാണ് (മൈക്രോസോഫ്റ്റ് വിൻഡോസിൽ- "
-"ൽ കോം പോർട്ടുകൾ.)"
+"ഈ ഓപ്ഷൻ തിരഞ്ഞെടുത്തിട്ടുണ്ടെങ്കിൽ, കമ്പ്യൂട്ടറിന്റെ സീരിയൽ പോർട്ടുകളിലൊന്നിലേക്ക് ക്യാമറ "
+"ബന്ധിപ്പിക്കേണ്ടതാണ് (മൈക്രോസോഫ്റ്റ് വിൻഡോസിൽ- ൽ കോം പോർട്ടുകൾ.)"
 
 #: kameradevice.cpp:348
 #, kde-format
@@ -227,8 +220,8 @@ msgid ""
 "If this option is checked, the camera has to be connected to one of the "
 "computer's USB ports, or to a USB hub."
 msgstr ""
-"ഈ ഓപ്ഷൻ തിരഞ്ഞെടുത്തിട്ടുണ്ടെങ്കിൽ, ക്യാമറ കമ്പ്യൂട്ടറിന്റെ യുഎസ്ബി "
-"പോർട്ടുകളിലേക്കോ യുഎസ്ബി ഹബിലേക്കോ ബന്ധിപ്പികുക"
+"ഈ ഓപ്ഷൻ തിരഞ്ഞെടുത്തിട്ടുണ്ടെങ്കിൽ, ക്യാമറ കമ്പ്യൂട്ടറിന്റെ യുഎസ്ബി പോർട്ടുകളിലേക്കോ യുഎസ്ബി "
+"ഹബിലേക്കോ ബന്ധിപ്പികുക"
 
 #: kameradevice.cpp:351
 #, kde-format

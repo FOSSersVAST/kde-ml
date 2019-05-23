@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: konsole trunk\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-18 03:03+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -1183,8 +1183,8 @@ msgid ""
 "terminal program. For more information on how to customize the key bindings "
 "check the Konsole Handbook."
 msgstr ""
-"ടെര്‍മിനല്‍ ജാലകത്തില്‍ അമര്‍ത്തുന്ന കീകളുടെ കൂട്ടം അക്ഷരങ്ങളുടെ നിരകളായി മാറ്റി നിലവിലുള്ള ടെര്‍"
-"മിനല്‍ പ്രോഗ്രാമിനു് അയച്ചു് കൊടുക്കേണ്ടതെങ്ങനെയെന്നു് കുറുക്കുവഴി അക്ഷരങ്ങള്‍ നിയന്ത്രിയ്ക്കുന്നു."
+"ടെര്‍മിനല്‍ ജാലകത്തില്‍ അമര്‍ത്തുന്ന കീകളുടെ കൂട്ടം അക്ഷരങ്ങളുടെ നിരകളായി മാറ്റി നിലവിലുള്ള "
+"ടെര്‍മിനല്‍ പ്രോഗ്രാമിനു് അയച്ചു് കൊടുക്കേണ്ടതെങ്ങനെയെന്നു് കുറുക്കുവഴി അക്ഷരങ്ങള്‍ നിയന്ത്രിയ്ക്കുന്നു."
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, newKeyBindingsButton)
 #: EditProfileKeyboardPage.ui:72
@@ -1646,8 +1646,8 @@ msgstr "പുറകിലേയ്ക്കു് പോകാന്‍ പര�
 #, fuzzy, kde-format
 msgid "Do not remember previous output"
 msgstr ""
-"പുറകിലേയ്ക്കു് നീക്കുന്നതിനുള്ള പട്ട പ്രാവര്‍ത്തികമല്ലാതാക്കുകയും മുമ്പത്തെ ഫലം ഓര്‍"
-"ത്തുവയ്ക്കാതിരിയ്ക്കുകയും ചെയ്യുക"
+"പുറകിലേയ്ക്കു് നീക്കുന്നതിനുള്ള പട്ട പ്രാവര്‍ത്തികമല്ലാതാക്കുകയും മുമ്പത്തെ ഫലം "
+"ഓര്‍ത്തുവയ്ക്കാതിരിയ്ക്കുകയും ചെയ്യുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, noHistoryButton)
 #: HistorySizeWidget.ui:177
@@ -1814,158 +1814,158 @@ msgstr "ഇന്‍പുട്ട്:"
 msgid "Output:"
 msgstr "ഫലം:"
 
-#: main.cpp:117
+#: main.cpp:119
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Konsole"
 msgstr "കണ്‍സോള്‍"
 
-#: main.cpp:119
+#: main.cpp:121
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Terminal emulator"
 msgstr "ടെര്‍മിനലിന്റെ അനുകരണം"
 
-#: main.cpp:121
+#: main.cpp:123
 #, kde-format
 msgctxt "@info:credit"
 msgid "(c) 1997-2019, The Konsole Developers"
 msgstr ""
 
-#: main.cpp:293
+#: main.cpp:295
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Kurt Hindenburg"
 msgstr "കര്‍ട്ട് വി. ഹിന്‍ഡന്‍ബര്‍ഗ്"
 
-#: main.cpp:294
+#: main.cpp:296
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "General maintainer, bug fixes and general improvements"
 msgstr "പിഴവു് തിരുത്തലും പൊതുവായുള്ള മെച്ചപ്പെടുത്തലുകളും"
 
-#: main.cpp:297
+#: main.cpp:299
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Robert Knight"
 msgstr "റോബര്‍ട്ട് നൈറ്റ്"
 
-#: main.cpp:298
+#: main.cpp:300
 #, kde-format
 msgctxt "@info:credit"
 msgid "Previous maintainer, ported to KDE4"
 msgstr ""
 
-#: main.cpp:300
+#: main.cpp:302
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Lars Doelle"
 msgstr "ലാര്‍സ് ഡൊയെല്ലെ"
 
-#: main.cpp:301
+#: main.cpp:303
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Original author"
 msgstr "ടെര്‍മിനലിന്റെ അനുകരണം"
 
-#: main.cpp:303
+#: main.cpp:305
 #, kde-format
 msgctxt "@info:credit"
 msgid "Jekyll Wu"
 msgstr ""
 
-#: main.cpp:304 main.cpp:307 main.cpp:310
+#: main.cpp:306 main.cpp:309 main.cpp:312
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes and general improvements"
 msgstr "പിഴവു് തിരുത്തലും പൊതുവായുള്ള മെച്ചപ്പെടുത്തലുകളും"
 
-#: main.cpp:306
+#: main.cpp:308
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Waldo Bastian"
 msgstr "വാല്‍ഡോ ബാസ്റ്റിയന്‍"
 
-#: main.cpp:309
+#: main.cpp:311
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Stephan Binner"
 msgstr "സ്റ്റീഫന്‍ ബിന്നര്‍"
 
-#: main.cpp:312
+#: main.cpp:314
 #, kde-format
 msgctxt "@info:credit"
 msgid "Thomas Dreibholz"
 msgstr ""
 
-#: main.cpp:313
+#: main.cpp:315
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "General improvements"
 msgstr "പൊതുവായുള്ള മെച്ചപ്പെടുത്തലുകള്‍ "
 
-#: main.cpp:315
+#: main.cpp:317
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Chris Machemer"
 msgstr "ക്രിസ് മാക്കിമര്‍"
 
-#: main.cpp:316 main.cpp:319 main.cpp:355 main.cpp:358 main.cpp:361
-#: main.cpp:364
+#: main.cpp:318 main.cpp:321 main.cpp:357 main.cpp:360 main.cpp:363
+#: main.cpp:366
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes"
 msgstr "പിഴവു് തിരുത്തലുകള്‍"
 
-#: main.cpp:318
+#: main.cpp:320
 #, kde-format
 msgctxt "@info:credit"
 msgid "Francesco Cecconi"
 msgstr ""
 
-#: main.cpp:321
+#: main.cpp:323
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Stephan Kulow"
 msgstr "സ്റ്റീഫന്‍ കുലോ"
 
-#: main.cpp:322
+#: main.cpp:324
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Solaris support and history"
 msgstr "സോളാരിസിനുള്ള പിന്തുണയും ചരിത്രവും"
 
-#: main.cpp:324
+#: main.cpp:326
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Alexander Neundorf"
 msgstr "അലക്സാണ്ടര്‍ ന്യൂണ്ടോര്‍ഫ്"
 
-#: main.cpp:325
+#: main.cpp:327
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes and improved startup performance"
 msgstr "പിഴവു് തിരുത്തലുകളും തുടങ്ങുമ്പോളുള്ള പ്രകടനത്തിലെ മെച്ചപ്പെടുത്തലും"
 
-#: main.cpp:327
+#: main.cpp:329
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Peter Silva"
 msgstr "പീറ്റര്‍ സില്‍വ"
 
-#: main.cpp:328
+#: main.cpp:330
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Marking improvements"
 msgstr "അടയാളപ്പെടുത്തുന്നതിലെ മെച്ചപ്പെടുത്തലുകള്‍"
 
-#: main.cpp:330
+#: main.cpp:332
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Lotzi Boloni"
 msgstr "ലോട്സി ബൊലോനി"
 
-#: main.cpp:331
+#: main.cpp:333
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid ""
@@ -1975,13 +1975,13 @@ msgstr ""
 "തുന്നിച്ചേര്‍ത്ത കണ്‍സോളും\n"
 "പണിയായുധപ്പട്ടയും സെഷനുകളുടെ പേരുകളും"
 
-#: main.cpp:334
+#: main.cpp:336
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "David Faure"
 msgstr "ഡേവിഡ് ഫോരി"
 
-#: main.cpp:335
+#: main.cpp:337
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid ""
@@ -1991,25 +1991,25 @@ msgstr ""
 "തുന്നിച്ചേര്‍ത്ത കണ്‍സോളും\n"
 "പോതുവായുള്ള മെച്ചപ്പെടുത്തലുകള്‍"
 
-#: main.cpp:338
+#: main.cpp:340
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Antonio Larrosa"
 msgstr "അന്റോണിയോ ലറോസ"
 
-#: main.cpp:339
+#: main.cpp:341
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Visual effects"
 msgstr "കാഴ്ചയിലെ അത്ഭുതങ്ങള്‍"
 
-#: main.cpp:341
+#: main.cpp:343
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Matthias Ettrich"
 msgstr "മത്തിയാസ് എട്രിച്ച്"
 
-#: main.cpp:342
+#: main.cpp:344
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid ""
@@ -2019,67 +2019,67 @@ msgstr ""
 "കെവിടി പ്രൊജക്റ്റില്‍ നിന്നുള്ള കോഡുകള്‍\n"
 "പൊതുവായുള്ള മെച്ചപ്പെടുത്തലുകള്‍"
 
-#: main.cpp:345
+#: main.cpp:347
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Warwick Allison"
 msgstr "വാര്‍വിക്ക് അലിസണ്‍"
 
-#: main.cpp:346
+#: main.cpp:348
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Schema and text selection improvements"
 msgstr "സ്കീമയും പദാവലി തെരഞ്ഞെടുക്കുന്നതിലെ മെച്ചപ്പെടുത്തലുകളും"
 
-#: main.cpp:348
+#: main.cpp:350
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Dan Pilone"
 msgstr "ഡാന്‍ പിലോണ്‍"
 
-#: main.cpp:349
+#: main.cpp:351
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "SGI port"
 msgstr "എസ്ജിഐ പോര്‍ട്ട്"
 
-#: main.cpp:351
+#: main.cpp:353
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Kevin Street"
 msgstr "കെവിന്‍ സ്ട്രീറ്റ്"
 
-#: main.cpp:352
+#: main.cpp:354
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "FreeBSD port"
 msgstr "ഫ്രീബിഎസ്ഡി പോര്‍ട്ട്"
 
-#: main.cpp:354
+#: main.cpp:356
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Sven Fischer"
 msgstr "സ്വെന്‍ ഫിഷര്‍"
 
-#: main.cpp:357
+#: main.cpp:359
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Dale M. Flaven"
 msgstr "ഡേല്‍ എം. ഫ്ലാവെന്‍"
 
-#: main.cpp:360
+#: main.cpp:362
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Martin Jones"
 msgstr "മാര്‍ട്ടിന്‍ ജോണ്‍സ്"
 
-#: main.cpp:363
+#: main.cpp:365
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Lars Knoll"
 msgstr "ലാര്‍സ് നോള്‍"
 
-#: main.cpp:366
+#: main.cpp:368
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Thanks to many others.\n"
@@ -2158,9 +2158,7 @@ msgstr "ഇപ്പോഴത്തെ കിളിവാതില്‍ അട�
 #, kde-format
 msgctxt "@info"
 msgid "There are %1 open tabs in this window. Do you still want to quit?"
-msgstr ""
-"ഈ ജാലകത്തില്‍ %1 കിളിവാതിലുകളുണ്ട്, പുറത്തുകടക്കണമെന്ന് "
-"നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
+msgstr "ഈ ജാലകത്തില്‍ %1 കിളിവാതിലുകളുണ്ട്, പുറത്തുകടക്കണമെന്ന് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 
 #: MainWindow.cpp:735
 #, fuzzy, kde-format
@@ -2265,20 +2263,20 @@ msgid ""
 "Tab title format used when a remote command (e.g. connection to another "
 "computer via SSH) is being executed"
 msgstr ""
-"വിദൂരത്തൊരു ആജ്ഞ (ഉദാ. എസ്എസ്എച്ച് ഉപയോഗിച്ചു് മറ്റൊരു കമ്പ്യൂട്ടറിലേയ്ക്കുള്ള ബന്ധം) പ്രവര്‍"
-"ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്"
+"വിദൂരത്തൊരു ആജ്ഞ (ഉദാ. എസ്എസ്എച്ച് ഉപയോഗിച്ചു് മറ്റൊരു കമ്പ്യൂട്ടറിലേയ്ക്കുള്ള ബന്ധം) "
+"പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്"
 
-#: SaveHistoryTask.cpp:63
+#: SaveHistoryTask.cpp:80
 #, kde-format
 msgid "Save Output From %1"
 msgstr "%1 ല്‍ നിന്നുള്ള ഫലം സൂക്ഷിയ്ക്കുക"
 
-#: SaveHistoryTask.cpp:75
+#: SaveHistoryTask.cpp:92
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
 msgstr "%1 സാധുവല്ലാത്തൊരു യുആര്‍എല്ലായതു് കൊണ്ടു് ഫലം സൂക്ഷിയ്ക്കാന്‍ സാധ്യമല്ല."
 
-#: SaveHistoryTask.cpp:153
+#: SaveHistoryTask.cpp:174
 #, kde-format
 msgid ""
 "A problem occurred when saving the output.\n"
@@ -3308,264 +3306,264 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr "വിദൂരത്തുള്ള കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്:"
 
-#: TerminalDisplay.cpp:1230 TerminalDisplay.cpp:1231
+#: TerminalDisplay.cpp:1231 TerminalDisplay.cpp:1232
 #, kde-format
 msgid "Size: XXX x XXX"
 msgstr "വലിപ്പം: XXX x XXX"
 
-#: TerminalDisplay.cpp:1242
+#: TerminalDisplay.cpp:1243
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr "വലിപ്പം: %1 x %2"
 
-#: TerminalDisplay.cpp:3078
+#: TerminalDisplay.cpp:3079
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3081
+#: TerminalDisplay.cpp:3082
 #, fuzzy, kde-format
 msgid "Confirm Paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3095
+#: TerminalDisplay.cpp:3096
 #, kde-format
 msgid "^C Interrupt: May abort the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3098
+#: TerminalDisplay.cpp:3099
 #, kde-format
 msgid "^D End of transmission: May exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3101
+#: TerminalDisplay.cpp:3102
 #, kde-format
 msgid "^G Bell: Will try to emit an audible warning"
 msgstr ""
 
-#: TerminalDisplay.cpp:3104
+#: TerminalDisplay.cpp:3105
 #, kde-format
 msgid "^H Backspace"
 msgstr ""
 
-#: TerminalDisplay.cpp:3107
+#: TerminalDisplay.cpp:3108
 #, kde-format
 msgid "^S Scroll lock: Locks terminal output"
 msgstr ""
 
-#: TerminalDisplay.cpp:3110
+#: TerminalDisplay.cpp:3111
 #, kde-format
 msgid "^Z Suspend: Stops current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3113
+#: TerminalDisplay.cpp:3114
 #, kde-format
 msgid "ESC: Used for special commands to the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3116
+#: TerminalDisplay.cpp:3117
 #, kde-format
 msgid "Other unprintable character (\\x%1)"
 msgstr ""
 
-#: TerminalDisplay.cpp:3126
+#: TerminalDisplay.cpp:3127
 #, kde-format
 msgid ""
 "The text you're trying to paste contains hidden unprintable characters, do "
 "you want to filter them out?"
 msgstr ""
 
-#: TerminalDisplay.cpp:3129
+#: TerminalDisplay.cpp:3130
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Filter"
 msgstr "അരിപ്പ:"
 
-#: TerminalDisplay.cpp:3131
+#: TerminalDisplay.cpp:3132
 #, kde-format
 msgctxt "@action:button"
 msgid "&Remove unprintable"
 msgstr ""
 
-#: TerminalDisplay.cpp:3134
+#: TerminalDisplay.cpp:3135
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Confirm &paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3137
+#: TerminalDisplay.cpp:3138
 #, kde-format
 msgctxt "@action:button"
 msgid "&Cancel paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3364
+#: TerminalDisplay.cpp:3365
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
 "Software_flow_control\">suspended</a> by pressing Ctrl+S. Press <b>Ctrl+Q</"
 "b> to resume.</qt>"
 msgstr ""
-"<qt>കണ്ട്രോള്‍+S അമര്‍ത്തിക്കൊണ്ട് ഫലം <a href=\""
-"http://en.wikipedia.org/wiki/Flow_control\">താത്കാലികമായി "
-"നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> അമര്‍ത്തുക.</qt>"
+"<qt>കണ്ട്രോള്‍+S അമര്‍ത്തിക്കൊണ്ട് ഫലം <a href=\"http://en.wikipedia.org/wiki/"
+"Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> "
+"അമര്‍ത്തുക.</qt>"
 
-#: TerminalDisplay.cpp:3402
+#: TerminalDisplay.cpp:3403
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3697
+#: TerminalDisplay.cpp:3698
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: TerminalDisplay.cpp:3729
+#: TerminalDisplay.cpp:3730
 #, fuzzy, kde-format
 msgid "&Paste Location"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
 
-#: ViewContainer.cpp:114
+#: ViewContainer.cpp:115
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Detach Tab"
 msgstr "കിളിവാതില്‍ &വേര്‍പ്പെടുത്തുക"
 
-#: ViewContainer.cpp:121
+#: ViewContainer.cpp:122
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Rename Tab..."
 msgstr "കിളിവാതിലിന്റെ &പേരു് മാറ്റുക..."
 
-#: ViewContainer.cpp:128
+#: ViewContainer.cpp:129
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr "കിളിവാതില്‍ &അടയ്ക്കുക"
 
-#: ViewManager.cpp:117
+#: ViewManager.cpp:116
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr "ഇടത്തും/വലത്തുമായി കാഴ്ച വിഭജിയ്ക്കുക"
 
-#: ViewManager.cpp:124
+#: ViewManager.cpp:123
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr "മുകളിലും/താഴെയുമായി കാഴ്ച വിഭജിയ്ക്കുക"
 
-#: ViewManager.cpp:130
+#: ViewManager.cpp:129
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr "കാഴ്ച വികസിപ്പിയ്ക്കുക"
 
-#: ViewManager.cpp:138
+#: ViewManager.cpp:137
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr "കാഴ്ച ചുരുക്കുക"
 
-#: ViewManager.cpp:148
+#: ViewManager.cpp:147
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "Detach Current &View"
 msgstr "ഇപ്പോഴത്തെ കിളിവാതില്‍ അടര്‍ത്തിമാറ്റുക"
 
-#: ViewManager.cpp:160
+#: ViewManager.cpp:159
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "Detach Current &Tab"
 msgstr "ഇപ്പോഴത്തെ കിളിവാതില്‍ അടര്‍ത്തിമാറ്റുക"
 
-#: ViewManager.cpp:168
+#: ViewManager.cpp:167
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr "&പുതിയ കിളിവാതില്‍"
 
-#: ViewManager.cpp:176
+#: ViewManager.cpp:175
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr "മുമ്പത്തെ"
 
-#: ViewManager.cpp:184
+#: ViewManager.cpp:183
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Above Terminal"
 msgstr "ടെര്‍മിനലുകള്‍ കാണിയ്ക്കുന്നതിനു് മുകളില്‍"
 
-#: ViewManager.cpp:191
+#: ViewManager.cpp:190
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Below Terminal"
 msgstr "ടെര്‍മിനലുകള്‍ കാണിയ്ക്കുന്നതിനു് താഴെ"
 
-#: ViewManager.cpp:198
+#: ViewManager.cpp:197
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Left Terminal"
 msgstr ""
 
-#: ViewManager.cpp:204
+#: ViewManager.cpp:203
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Right Terminal"
 msgstr ""
 
-#: ViewManager.cpp:210
+#: ViewManager.cpp:209
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr "ടാബ് %1-ലേക്ക് മാറുക"
 
-#: ViewManager.cpp:215
+#: ViewManager.cpp:214
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Last Used Tabs"
 msgstr ""
 
-#: ViewManager.cpp:220
+#: ViewManager.cpp:219
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Toggle Between Two Tabs"
 msgstr ""
 
-#: ViewManager.cpp:225
+#: ViewManager.cpp:224
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Last Used Tabs (Reverse)"
 msgstr ""
 
-#: ViewManager.cpp:230
+#: ViewManager.cpp:229
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Maximize current Terminal"
 msgstr ""
 
-#: ViewManager.cpp:237
+#: ViewManager.cpp:236
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Restore other terminals"
 msgstr ""
 
-#: ViewManager.cpp:244
+#: ViewManager.cpp:243
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the right"
 msgstr "കാഴ്ച വലത്തോട്ടു് മാറ്റുക"
 
-#: ViewManager.cpp:251
+#: ViewManager.cpp:250
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the left"
 msgstr "കാഴ്ച ഇടത്തോട്ടു് മാറ്റുക"
 
-#: ViewManager.cpp:261
+#: ViewManager.cpp:260
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"

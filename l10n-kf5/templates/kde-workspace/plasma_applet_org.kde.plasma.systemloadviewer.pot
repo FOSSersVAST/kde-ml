@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:14+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,6 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: package/contents/config/config.qml:27
 #, kde-format
@@ -29,161 +30,163 @@ msgctxt "@title"
 msgid "Colors"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:45
+#: package/contents/ui/ColorSettings.qml:44
 #, kde-format
 msgctxt "@option:check"
 msgid "Set Colors Manually"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:52
+#: package/contents/ui/ColorSettings.qml:49
 #, kde-format
 msgctxt "@title:group"
 msgid "CPU"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:58
+#: package/contents/ui/ColorSettings.qml:56
 #, kde-format
 msgctxt "@label:chooser"
 msgid "User:"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:67
+#: package/contents/ui/ColorSettings.qml:62
 #, kde-format
 msgctxt "@label:chooser"
 msgid "IOWait:"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:76
+#: package/contents/ui/ColorSettings.qml:68
 #, kde-format
 msgctxt "@label:chooser"
 msgid "Sys:"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:85
+#: package/contents/ui/ColorSettings.qml:74
 #, kde-format
 msgctxt "@label:chooser"
 msgid "Nice:"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:94
+#: package/contents/ui/ColorSettings.qml:81
 #, kde-format
 msgctxt "@title:group"
 msgid "Memory"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:101
+#: package/contents/ui/ColorSettings.qml:88
 #, kde-format
 msgctxt "@label:chooser"
 msgid "Application:"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:110
+#: package/contents/ui/ColorSettings.qml:94
 #, kde-format
 msgctxt "@label:chooser"
 msgid "Buffers:"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:119
+#: package/contents/ui/ColorSettings.qml:101
 #, kde-format
 msgctxt "@title:group"
 msgid "Swap"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:126
+#: package/contents/ui/ColorSettings.qml:108
 #, kde-format
 msgctxt "@label:chooser"
 msgid "Used swap:"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:135
+#: package/contents/ui/ColorSettings.qml:115
 #, kde-format
 msgctxt "@title:group"
 msgid "Cache"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:141
+#: package/contents/ui/ColorSettings.qml:122
 #, kde-format
 msgctxt "@label:chooser"
 msgid "Dirty memory:"
 msgstr ""
 
-#: package/contents/ui/ColorSettings.qml:150
+#: package/contents/ui/ColorSettings.qml:128
 #, kde-format
 msgctxt "@label:chooser"
 msgid "Writeback memory:"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:55
+#: package/contents/ui/GeneralSettings.qml:47
 #, kde-format
 msgctxt "@label"
 msgid "Show:"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:62
+#: package/contents/ui/GeneralSettings.qml:49
 #, kde-format
 msgctxt "@option:check"
 msgid "CPU monitor"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:72
+#: package/contents/ui/GeneralSettings.qml:64
 #, kde-format
 msgctxt "@option:check"
 msgid "CPUs separately"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:81
+#: package/contents/ui/GeneralSettings.qml:71
 #, kde-format
 msgctxt "@option:check"
 msgid "Memory monitor"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:88
+#: package/contents/ui/GeneralSettings.qml:76
 #, kde-format
 msgctxt "@option:check"
 msgid "Swap monitor"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:95
+#: package/contents/ui/GeneralSettings.qml:81
 #, kde-format
 msgctxt "@option:check"
 msgid "Cache monitor"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:102
+#: package/contents/ui/GeneralSettings.qml:94
 #, kde-format
 msgctxt "@label"
 msgid "Monitor type:"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:110
+#: package/contents/ui/GeneralSettings.qml:96
 #, kde-format
 msgctxt "@option:radio"
 msgid "Bar"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:119
+#: package/contents/ui/GeneralSettings.qml:106
 #, kde-format
 msgctxt "@option:radio"
 msgid "Circular"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:128
+#: package/contents/ui/GeneralSettings.qml:116
 #, kde-format
 msgctxt "@option:radio"
 msgid "Compact bar"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:136
+#: package/contents/ui/GeneralSettings.qml:133
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Update interval:"
 msgstr ""
 
-#: package/contents/ui/GeneralSettings.qml:146
+#: package/contents/ui/GeneralSettings.qml:138
 #, kde-format
 msgctxt "@item:valuesuffix spacing to number + unit (seconds)"
-msgid " s"
-msgstr ""
+msgid " second"
+msgid_plural " seconds"
+msgstr[0] ""
+msgstr[1] ""
 
 #: package/contents/ui/SystemLoadViewer.qml:229
 #, kde-format

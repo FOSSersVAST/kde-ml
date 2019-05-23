@@ -6,15 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-02-09 03:28+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-21 03:38+0200\n"
 "PO-Revision-Date: 2019-02-09 03:28+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: package/contents/config/config.qml:26
 #, kde-format
@@ -26,38 +28,38 @@ msgstr ""
 msgid "Entries"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:71
+#: package/contents/ui/ConfigEntries.qml:57
 #, kde-format
 msgid "Always show all entries"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:145
+#: package/contents/ui/ConfigEntries.qml:132
 #, kde-format
 msgctxt "Name of the system tray entry"
 msgid "Entry"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:172
+#: package/contents/ui/ConfigEntries.qml:159
 #, kde-format
 msgid "Visibility"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:226
+#: package/contents/ui/ConfigEntries.qml:213
 #, kde-format
 msgid "Auto"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:226
+#: package/contents/ui/ConfigEntries.qml:213
 #, kde-format
 msgid "Shown"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:226
+#: package/contents/ui/ConfigEntries.qml:213
 #, kde-format
 msgid "Hidden"
 msgstr ""
 
-#: package/contents/ui/ConfigEntries.qml:232
+#: package/contents/ui/ConfigEntries.qml:219
 #, kde-format
 msgid "Keyboard Shortcut"
 msgstr ""
@@ -97,12 +99,12 @@ msgstr ""
 msgid "Extra Items"
 msgstr ""
 
-#: package/contents/ui/ExpandedRepresentation.qml:50
+#: package/contents/ui/ExpandedRepresentation.qml:48
 #, kde-format
 msgid "Keep Open"
 msgstr ""
 
-#: package/contents/ui/ExpandedRepresentation.qml:100
+#: package/contents/ui/ExpandedRepresentation.qml:98
 #, kde-format
 msgid "Status and Notifications"
 msgstr ""

@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-11 02:02+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 01:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,18 +17,18 @@ msgctxt "Name"
 msgid "Discover"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:49
+#: discover/org.kde.discover.desktop.cmake:50
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:90
+#: discover/org.kde.discover.desktop.cmake:92
 msgctxt "Keywords"
 msgid ""
 "program;software;repository;package;install;remove;update;apps;applications;"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:131
+#: discover/org.kde.discover.desktop.cmake:133
 #: notifier/plasmoid/metadata.desktop:2
 msgctxt "Name"
 msgid "Updates"
@@ -49,22 +49,22 @@ msgctxt "Description"
 msgid "Allows snap front-ends to log in"
 msgstr ""
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:3
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:4
 msgctxt "Comment"
 msgid "Discover"
 msgstr ""
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:43
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:45
 msgctxt "Name"
 msgid "Updates Are Available"
 msgstr ""
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:84
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:87
 msgctxt "Comment"
 msgid "Updates Available"
 msgstr ""
 
-#: notifier/plasmoid/metadata.desktop:43
+#: notifier/plasmoid/metadata.desktop:44
 msgctxt "Comment"
 msgid "Helps you keep your system up to date"
 msgstr ""

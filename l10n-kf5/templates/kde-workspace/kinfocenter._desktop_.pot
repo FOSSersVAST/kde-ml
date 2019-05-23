@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-02-11 02:33+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -68,7 +68,7 @@ msgstr ""
 
 #: Modules/devinfo/devinfo.desktop:139
 msgctxt "X-KDE-Keywords"
-msgid "device,devices"
+msgid "device,devices,disk,drive,processor,cpu"
 msgstr ""
 
 #: Modules/energy/kcm_energyinfo.desktop:9

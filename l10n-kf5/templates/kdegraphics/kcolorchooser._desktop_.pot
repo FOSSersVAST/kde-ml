@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-10-11 02:02+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 01:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,12 +16,12 @@ msgctxt "GenericName"
 msgid "Color Chooser"
 msgstr ""
 
-#: org.kde.kcolorchooser.desktop:83
+#: org.kde.kcolorchooser.desktop:84
 msgctxt "Name"
 msgid "KColorChooser"
 msgstr ""
 
-#: org.kde.kcolorchooser.desktop:157
+#: org.kde.kcolorchooser.desktop:159
 msgctxt "Comment"
 msgid "Color selector and palette editor"
 msgstr ""

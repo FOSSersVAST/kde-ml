@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:16+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: notificationaction.cpp:33
+#: notificationaction.cpp:37
 #, kde-format
 msgid "The notification dataEngine is not set."
 msgstr ""
 
-#: notificationaction.cpp:43
+#: notificationaction.cpp:47
 #, kde-format
 msgid "Invalid destination: %1"
 msgstr ""
 
-#: notificationsengine.cpp:263
+#: notificationsengine.cpp:101
 #, kde-format
 msgid "Unknown Application"
 msgstr ""

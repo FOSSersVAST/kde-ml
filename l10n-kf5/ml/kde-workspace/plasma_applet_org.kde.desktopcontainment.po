@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-17 03:45+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2008-11-27 16:14-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -25,7 +25,7 @@ msgid "Location"
 msgstr "സ്ഥാനം"
 
 #: package/contents/config/config.qml:36
-#: package/contents/ui/ConfigIcons.qml:223
+#: package/contents/ui/ConfigIcons.qml:220
 #: package/contents/ui/FolderViewLayer.qml:422
 msgid "Icons"
 msgstr "ചിഹ്നങ്ങള്‍"
@@ -55,268 +55,278 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
-#: package/contents/ui/ConfigFilter.qml:84
-msgid "Show All Files"
-msgstr "എല്ലാ ഫയലുകളും കാണിയ്ക്കുക"
+#: package/contents/ui/ConfigFilter.qml:76
+#, fuzzy
+msgid "Files:"
+msgstr "ഫയലിന്റെ തരങ്ങള്‍:"
 
-#: package/contents/ui/ConfigFilter.qml:84
-msgid "Show Files Matching"
+#: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy
+msgid "Show all"
+msgstr "ഒരു സ്ഥാനം കാണിയ്ക്കുക:"
+
+#: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy
+msgid "Show matching"
 msgstr "പൊരുത്തമുള്ള ഫയലുകള്‍ മാത്രം കാണിയ്ക്കുക"
 
-#: package/contents/ui/ConfigFilter.qml:84
-msgid "Hide Files Matching"
+#: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy
+msgid "Hide matching"
 msgstr "പൊരുത്തമുള്ള ഫയലുകള്‍ ഒളിപ്പിയ്ക്കുക"
 
-#: package/contents/ui/ConfigFilter.qml:90
+#: package/contents/ui/ConfigFilter.qml:82
 msgid "File name pattern:"
 msgstr "ഫയലിന്റെ പേരിലെ പാറ്റേണ്‍:"
 
-#: package/contents/ui/ConfigFilter.qml:104
+#: package/contents/ui/ConfigFilter.qml:88
 msgid "File types:"
 msgstr "ഫയലിന്റെ തരങ്ങള്‍:"
 
-#: package/contents/ui/ConfigFilter.qml:114
+#: package/contents/ui/ConfigFilter.qml:90
 #, fuzzy
-msgid "Search file type..."
+msgid "Search..."
 msgstr "ഫയലിന്റെ തരം തെരയുക"
 
-#: package/contents/ui/ConfigFilter.qml:211
+#: package/contents/ui/ConfigFilter.qml:188
 #, fuzzy
 msgid "File type"
 msgstr "ഫയലിന്റെ തരങ്ങള്‍:"
 
-#: package/contents/ui/ConfigFilter.qml:219
+#: package/contents/ui/ConfigFilter.qml:197
 msgid "Description"
 msgstr ""
 
-#: package/contents/ui/ConfigFilter.qml:237
+#: package/contents/ui/ConfigFilter.qml:211
 msgid "Select All"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 
-#: package/contents/ui/ConfigFilter.qml:248
+#: package/contents/ui/ConfigFilter.qml:222
 msgid "Deselect All"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കാത്തതാക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:78
+#: package/contents/ui/ConfigIcons.qml:75
 msgid "Panel button:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:84
+#: package/contents/ui/ConfigIcons.qml:81
 msgid "Use a custom icon"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:118
+#: package/contents/ui/ConfigIcons.qml:115
 #, fuzzy
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose..."
 msgstr "പരതുക..."
 
-#: package/contents/ui/ConfigIcons.qml:124
+#: package/contents/ui/ConfigIcons.qml:121
 #, fuzzy
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
 msgstr "ചിഹ്നങ്ങള്‍ അടുക്കി വയ്ക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:143
+#: package/contents/ui/ConfigIcons.qml:140
 #, fuzzy
 msgid "Arrangement:"
 msgstr "ചിഹ്നങ്ങളുടെ അടുക്കിവയ്ക്കല്‍"
 
-#: package/contents/ui/ConfigIcons.qml:145
+#: package/contents/ui/ConfigIcons.qml:142
 #: plugins/folder/viewpropertiesmenu.cpp:34
 #, kde-format
 msgid "Rows"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:145
+#: package/contents/ui/ConfigIcons.qml:142
 #: plugins/folder/viewpropertiesmenu.cpp:38
 #, kde-format
 msgid "Columns"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:152
+#: package/contents/ui/ConfigIcons.qml:149
 #, fuzzy
-msgid "Align Left"
+msgid "Align left"
 msgstr "ഗ്രിഡുമായി ചേര്‍ത്തു്"
 
-#: package/contents/ui/ConfigIcons.qml:152
+#: package/contents/ui/ConfigIcons.qml:149
 #, fuzzy
-msgid "Align Right"
+msgid "Align right"
 msgstr "ഗ്രിഡുമായി ചേര്‍ത്തു്"
 
-#: package/contents/ui/ConfigIcons.qml:167
+#: package/contents/ui/ConfigIcons.qml:164
 #, fuzzy
 msgid "Lock in place"
 msgstr "സ്ഥാനത്തു് പൂട്ടുക"
 
-#: package/contents/ui/ConfigIcons.qml:180
+#: package/contents/ui/ConfigIcons.qml:177
 #, fuzzy
 msgid "Sorting:"
 msgstr "ചിഹ്നങ്ങള്‍ തരം തിരിയ്ക്കുക:"
 
-#: package/contents/ui/ConfigIcons.qml:188
+#: package/contents/ui/ConfigIcons.qml:185
 msgid "Manual"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:188
+#: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:62
 #, fuzzy, kde-format
 msgid "Name"
 msgstr "പേരനുസരിച്ചു്"
 
-#: package/contents/ui/ConfigIcons.qml:188
+#: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:66
 #, fuzzy, kde-format
 msgid "Size"
 msgstr "വലിപ്പമനുസരിച്ചു്"
 
-#: package/contents/ui/ConfigIcons.qml:188
+#: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:70
 #, fuzzy, kde-format
 msgid "Type"
 msgstr "തരമനുസരിച്ചു്"
 
-#: package/contents/ui/ConfigIcons.qml:188
+#: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:74
 #, fuzzy, kde-format
 msgid "Date"
 msgstr "തിയ്യതിയ്ക്കനുസരിച്ചു്"
 
-#: package/contents/ui/ConfigIcons.qml:199
+#: package/contents/ui/ConfigIcons.qml:196
 #: plugins/folder/viewpropertiesmenu.cpp:79
 #, kde-format
 msgid "Descending"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:207
+#: package/contents/ui/ConfigIcons.qml:204
 #, fuzzy
 msgid "Folders first"
 msgstr "അറകളാദ്യം"
 
-#: package/contents/ui/ConfigIcons.qml:221
+#: package/contents/ui/ConfigIcons.qml:218
 msgctxt "whether to use icon or list view"
 msgid "View mode:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:223
+#: package/contents/ui/ConfigIcons.qml:220
 msgid "List"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:234
+#: package/contents/ui/ConfigIcons.qml:231
 #, fuzzy
 msgid "Icon size:"
 msgstr "ചിഹ്നത്തിന്റെ വലിപ്പം:"
 
-#: package/contents/ui/ConfigIcons.qml:249
+#: package/contents/ui/ConfigIcons.qml:246
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Small"
 msgstr "ചെറുതു്"
 
-#: package/contents/ui/ConfigIcons.qml:258
+#: package/contents/ui/ConfigIcons.qml:255
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Large"
 msgstr "വലുതു്"
 
-#: package/contents/ui/ConfigIcons.qml:266
+#: package/contents/ui/ConfigIcons.qml:263
 #, fuzzy
 msgid "Label width:"
 msgstr "പേരു്:"
 
-#: package/contents/ui/ConfigIcons.qml:269
+#: package/contents/ui/ConfigIcons.qml:266
 msgid "Narrow"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:270
+#: package/contents/ui/ConfigIcons.qml:267
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Medium"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:271
+#: package/contents/ui/ConfigIcons.qml:268
 msgid "Wide"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:279
+#: package/contents/ui/ConfigIcons.qml:276
 #, fuzzy
 msgid "Text lines:"
 msgstr "1 ഫയല്‍"
 
-#: package/contents/ui/ConfigIcons.qml:295
+#: package/contents/ui/ConfigIcons.qml:292
 msgid "Features:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:297
+#: package/contents/ui/ConfigIcons.qml:294
 msgid "Tooltips"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:304
+#: package/contents/ui/ConfigIcons.qml:301
 #, fuzzy
 msgid "Selection markers"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:311
+#: package/contents/ui/ConfigIcons.qml:308
 msgid "Folder preview popups"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:317
+#: package/contents/ui/ConfigIcons.qml:314
 #, fuzzy
 msgid "Preview thumbnails"
 msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര്‍ത്തികമാക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:323
-msgid "More Preview Options..."
-msgstr ""
+#: package/contents/ui/ConfigIcons.qml:321
+#, fuzzy
+msgid "Configure Preview Plugins..."
+msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര്‍ത്തികമാക്കുക"
 
-#: package/contents/ui/ConfigLocation.qml:94
+#: package/contents/ui/ConfigLocation.qml:93
 msgid "Show:"
 msgstr ""
 
-#: package/contents/ui/ConfigLocation.qml:96
+#: package/contents/ui/ConfigLocation.qml:95
 #, fuzzy
 msgid "Desktop folder"
 msgstr "പണിയിട അറ കാണിയ്ക്കുക"
 
-#: package/contents/ui/ConfigLocation.qml:104
+#: package/contents/ui/ConfigLocation.qml:102
 msgid "Files linked to the current activity"
 msgstr ""
 
-#: package/contents/ui/ConfigLocation.qml:111
+#: package/contents/ui/ConfigLocation.qml:109
 msgid "Places panel item:"
 msgstr ""
 
-#: package/contents/ui/ConfigLocation.qml:151
+#: package/contents/ui/ConfigLocation.qml:142
 #, fuzzy
 msgid "Custom location:"
 msgstr "സ്ഥാനം"
 
-#: package/contents/ui/ConfigLocation.qml:164
-msgid "Type a path or a URL here"
+#: package/contents/ui/ConfigLocation.qml:150
+#, fuzzy
+msgid "Type path or URL..."
 msgstr "ഒരു വഴിയോ യുആര്‍എല്ലോ ഇവിടെ ടൈപ്പ് ചെയ്യുക"
 
-#: package/contents/ui/ConfigLocation.qml:206
+#: package/contents/ui/ConfigLocation.qml:191
 msgid "Title:"
 msgstr ""
 
-#: package/contents/ui/ConfigLocation.qml:208
+#: package/contents/ui/ConfigLocation.qml:193
 msgid "None"
 msgstr ""
 
-#: package/contents/ui/ConfigLocation.qml:208
+#: package/contents/ui/ConfigLocation.qml:193
 msgid "Default"
 msgstr ""
 
-#: package/contents/ui/ConfigLocation.qml:208
+#: package/contents/ui/ConfigLocation.qml:193
 msgid "Full path"
 msgstr ""
 
-#: package/contents/ui/ConfigLocation.qml:208
+#: package/contents/ui/ConfigLocation.qml:193
 msgid "Custom title"
 msgstr ""
 
-#: package/contents/ui/ConfigLocation.qml:223
-msgid "Enter custom title here"
+#: package/contents/ui/ConfigLocation.qml:208
+msgid "Enter custom title..."
 msgstr ""
 
 #: package/contents/ui/ConfigTweaks.qml:43
@@ -374,33 +384,33 @@ msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 msgid "&Refresh Desktop"
 msgstr "പണിയിടം &പുതുക്കുക"
 
-#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1604
+#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1609
 #, kde-format
 msgid "&Refresh View"
 msgstr "കാഴ്ച &പുതുക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1611
+#: plugins/folder/foldermodel.cpp:1616
 #, fuzzy, kde-format
 msgid "&Empty Trash"
 msgstr "ചവറ്റുകുട്ട &കാലിയാക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1614
+#: plugins/folder/foldermodel.cpp:1619
 #, fuzzy, kde-format
 msgctxt "Restore from trash"
 msgid "Restore"
 msgstr "&വീണ്ടെടുക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1619
+#: plugins/folder/foldermodel.cpp:1624
 #, kde-format
 msgid "&Open"
 msgstr "&തുറക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1735
+#: plugins/folder/foldermodel.cpp:1740
 #, kde-format
 msgid "&Paste"
 msgstr "&ഒട്ടിക്കുക"
 
-#: plugins/folder/foldermodel.cpp:1843
+#: plugins/folder/foldermodel.cpp:1848
 #, kde-format
 msgid "&Properties"
 msgstr "&ഗുണഗണങ്ങള്‍"
@@ -470,6 +480,9 @@ msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര�
 msgid "Locked"
 msgstr ""
 
+#~ msgid "Show All Files"
+#~ msgstr "എല്ലാ ഫയലുകളും കാണിയ്ക്കുക"
+
 #, fuzzy
 #~ msgid "Size:"
 #~ msgstr "വലിപ്പമനുസരിച്ചു്"
@@ -488,10 +501,6 @@ msgstr ""
 
 #~ msgid "Show the Desktop folder"
 #~ msgstr "പണിയിട അറ കാണിയ്ക്കുക"
-
-#, fuzzy
-#~ msgid "Show a place:"
-#~ msgstr "ഒരു സ്ഥാനം കാണിയ്ക്കുക:"
 
 #~ msgid "Specify a folder:"
 #~ msgstr "ഒരു അറ വ്യക്തമാക്കുക:"

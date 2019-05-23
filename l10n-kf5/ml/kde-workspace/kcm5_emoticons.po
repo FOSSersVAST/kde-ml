@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcm_emoticons\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-24 03:32+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2008-11-27 01:20-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -116,8 +116,8 @@ msgid ""
 "If you already have an emoticon theme archive locally, this button will "
 "unpack it and make it available for KDE applications"
 msgstr ""
-"പ്രാദേശികമായി വികാരചിഹ്ന പ്രമേയത്തിന്റെ ഒരു ശേഖരം ഉണ്ടെങ്കില്‍, ഈ ബട്ടണ്‍ അതിനെ വേര്‍"
-"തിരിച്ചെടുത്ത്‌ കെ.ഡി.ഇ പ്രയോഗങ്ങള്‍ക്കു ലഭ്യമാക്കും"
+"പ്രാദേശികമായി വികാരചിഹ്ന പ്രമേയത്തിന്റെ ഒരു ശേഖരം ഉണ്ടെങ്കില്‍, ഈ ബട്ടണ്‍ അതിനെ "
+"വേര്‍തിരിച്ചെടുത്ത്‌ കെ.ഡി.ഇ പ്രയോഗങ്ങള്‍ക്കു ലഭ്യമാക്കും"
 
 #. i18n: ectx: property (text), widget (QPushButton, btInstall)
 #: emoticonslist.ui:32
@@ -170,8 +170,8 @@ msgid ""
 msgstr ""
 "ഈ നീക്കം പ്രയോഗത്തില്‍ വരുത്തണമെങ്കില്‍ താങ്കള്‍ ഇന്റര്‍നെറ്റ് ഉപയോഗിക്കാന്‍ കഴിയുന്ന "
 "അവസ്ഥയിലായിരിക്കണം. ഒരു ജാലകം http://www.kde.org എന്ന വെബ്സൈറ്റില്‍ നിന്നും വികാരചിഹ്നം "
-"പേരമേയങ്ങളുടെ ഒരു പട്ടിക നിങ്ങള്‍ക്കു കാണിച്ചു തരും. എതെങ്കിലും പ്രമേയത്തിനോട് അനുബന്ധിച്ച ഇന്‍"
-"സ്റ്റോള്‍ ബട്ടണ്‍ അമര്‍ത്തുമ്പോല്‍ ആ പ്രമേയം പ്രാദേശികമായി ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെടും."
+"പേരമേയങ്ങളുടെ ഒരു പട്ടിക നിങ്ങള്‍ക്കു കാണിച്ചു തരും. എതെങ്കിലും പ്രമേയത്തിനോട് അനുബന്ധിച്ച "
+"ഇന്‍സ്റ്റോള്‍ ബട്ടണ്‍ അമര്‍ത്തുമ്പോല്‍ ആ പ്രമേയം പ്രാദേശികമായി ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെടും."
 
 #. i18n: ectx: property (text), widget (QPushButton, btGetNew)
 #: emoticonslist.ui:121

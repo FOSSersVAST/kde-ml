@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcm_phonon\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -199,9 +199,9 @@ msgid ""
 "The order determines the preference of the devices. If for some reason the "
 "first device cannot be used Phonon will try to use the second, and so on."
 msgstr ""
-"ഔട്ട്പുട്ട് ഉപകരണങ്ങളുടെ മുന്‍ഗണനയാണ് ഈ ക്രമം വ്യക്തമാക്കുന്നത്. എന്തെങ്കിലും"
-" കാരണത്താല്‍ ഫോണോണിന് ആദ്യത്തെ ഉപകരണം ഉപയോഗിക്കുവാന്‍ സാധ്യമല്ലെങ്കില്‍, അതു്"
-" രണ്ടാമത്തെ ഉപകരണം ശ്രമിക്കുന്നതാണു്, അല്ലെങ്കില്‍ അതിനടുത്തതു്."
+"ഔട്ട്പുട്ട് ഉപകരണങ്ങളുടെ മുന്‍ഗണനയാണ് ഈ ക്രമം വ്യക്തമാക്കുന്നത്. എന്തെങ്കിലും കാരണത്താല്‍ ഫോണോണിന് "
+"ആദ്യത്തെ ഉപകരണം ഉപയോഗിക്കുവാന്‍ സാധ്യമല്ലെങ്കില്‍, അതു് രണ്ടാമത്തെ ഉപകരണം ശ്രമിക്കുന്നതാണു്, "
+"അല്ലെങ്കില്‍ അതിനടുത്തതു്."
 
 #. i18n: ectx: property (text), widget (QToolButton, testPlaybackButton)
 #: devicepreference.ui:171

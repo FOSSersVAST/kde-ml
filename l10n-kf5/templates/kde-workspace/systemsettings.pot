@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: systemsettings\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-04 03:42+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -57,7 +57,7 @@ msgid "(c) 2009, Ben Cooksley"
 msgstr ""
 
 #: app/main.cpp:49 classic/ClassicMode.cpp:72 icons/IconMode.cpp:62
-#: sidebar/SidebarMode.cpp:266
+#: sidebar/SidebarMode.cpp:263
 #, kde-format
 msgid "Ben Cooksley"
 msgstr ""
@@ -68,13 +68,13 @@ msgid "Maintainer"
 msgstr ""
 
 #: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
-#: sidebar/SidebarMode.cpp:267
+#: sidebar/SidebarMode.cpp:264
 #, kde-format
 msgid "Mathias Soeken"
 msgstr ""
 
 #: app/main.cpp:50 classic/ClassicMode.cpp:73 icons/IconMode.cpp:63
-#: sidebar/SidebarMode.cpp:267
+#: sidebar/SidebarMode.cpp:264
 #, kde-format
 msgid "Developer"
 msgstr ""
@@ -192,8 +192,8 @@ msgstr ""
 msgid "Provides a classic tree-based view of control modules."
 msgstr ""
 
-#: classic/ClassicMode.cpp:72 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:265
-#: sidebar/SidebarMode.cpp:266
+#: classic/ClassicMode.cpp:72 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:262
+#: sidebar/SidebarMode.cpp:263
 #, kde-format
 msgid "Author"
 msgstr ""
@@ -262,7 +262,7 @@ msgstr ""
 msgid "Search..."
 msgstr ""
 
-#: sidebar/package/contents/ui/CategoriesPage.qml:90
+#: sidebar/package/contents/ui/CategoriesPage.qml:91
 #, kde-format
 msgctxt "A search yielded no results"
 msgid "No items matching your search"
@@ -283,32 +283,32 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:262
+#: sidebar/SidebarMode.cpp:259
 #, kde-format
 msgid "Sidebar View"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:263
+#: sidebar/SidebarMode.cpp:260
 #, kde-format
 msgid "Provides a categorized sidebar for control modules."
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:264
+#: sidebar/SidebarMode.cpp:261
 #, kde-format
 msgid "(c) 2017, Marco Martin"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:265
+#: sidebar/SidebarMode.cpp:262
 #, kde-format
 msgid "Marco Martin"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:486
+#: sidebar/SidebarMode.cpp:483
 #, kde-format
 msgid "Sidebar"
 msgstr ""
 
-#: sidebar/SidebarMode.cpp:529
+#: sidebar/SidebarMode.cpp:526
 #, kde-format
 msgid "Most Used"
 msgstr ""

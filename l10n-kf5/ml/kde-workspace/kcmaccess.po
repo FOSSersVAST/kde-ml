@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kcmaccess\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2008-11-16 19:27-0800\n"
 "Last-Translator: പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍ <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -238,8 +238,8 @@ msgstr "ലോക്കിങ്ങ് കീകള്‍"
 #, kde-format
 msgid "Use system bell whenever a locking key gets activated or deactivated"
 msgstr ""
-"ലോക്കിങ്ങ് കീകളിലേതെങ്കിലുമൊരെണ്ണം സജീവമോ നിര്‍ജ്ജീവമോ ആകുകയാണെങ്കില്‍ സിസ്റ്റം മണി പ്രവര്‍"
-"ത്തിപ്പിക്കുക"
+"ലോക്കിങ്ങ് കീകളിലേതെങ്കിലുമൊരെണ്ണം സജീവമോ നിര്‍ജ്ജീവമോ ആകുകയാണെങ്കില്‍ സിസ്റ്റം മണി "
+"പ്രവര്‍ത്തിപ്പിക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kNotifyModifiers)
 #: accessibility.ui:304
@@ -380,8 +380,8 @@ msgid ""
 "Show a confirmation dialog whenever a keyboard accessibility feature is "
 "toggled"
 msgstr ""
-"ഏതെങ്കിലും കീബോര്‍ഡ്  അക്സസബിളിറ്റി കഴിവുകള്‍ സജീവമാക്കുകയോ നിര്‍ജ്ജീവമാക്കുകയോ ചെയ്യുകയാണെങ്കില്‍"
-"അതിനെ  ഉറപ്പു വരുത്തുന്ന ഒരു ഡയലോഗ് കാണിക്കുക"
+"ഏതെങ്കിലും കീബോര്‍ഡ്  അക്സസബിളിറ്റി കഴിവുകള്‍ സജീവമാക്കുകയോ നിര്‍ജ്ജീവമാക്കുകയോ "
+"ചെയ്യുകയാണെങ്കില്‍അതിനെ  ഉറപ്പു വരുത്തുന്ന ഒരു ഡയലോഗ് കാണിക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kNotifyAccess)
 #: accessibility.ui:681
@@ -390,8 +390,8 @@ msgid ""
 "Use Plasma's notification mechanism whenever a keyboard accessibility "
 "feature is toggled"
 msgstr ""
-"ഏതെങ്കിലും കീബോര്‍ഡ്  അക്സസബിളിറ്റി കഴിവുകള്‍ സജീവമാക്കുകയോ നിര്‍ജ്ജീവമാക്കുകയോ ചെയ്യുകയാണെങ്കില്‍"
-"കെഡിഇയുടെ സിസ്റ്റം അറിയിപ്പുകള്‍ക്കായുള്ള സംവിധാനം ഉപയോഗിക്കുക"
+"ഏതെങ്കിലും കീബോര്‍ഡ്  അക്സസബിളിറ്റി കഴിവുകള്‍ സജീവമാക്കുകയോ നിര്‍ജ്ജീവമാക്കുകയോ "
+"ചെയ്യുകയാണെങ്കില്‍കെഡിഇയുടെ സിസ്റ്റം അറിയിപ്പുകള്‍ക്കായുള്ള സംവിധാനം ഉപയോഗിക്കുക"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabScreenReader)
 #: accessibility.ui:745

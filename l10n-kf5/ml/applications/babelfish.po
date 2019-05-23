@@ -6,15 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 08:58+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -194,8 +196,7 @@ msgstr "തെറ്റായ യുആര്‍എല്‍"
 #: plugin_babelfish.cpp:267
 #, kde-format
 msgid "The URL you entered is not valid, please correct it and try again."
-msgstr ""
-"നിങ്ങൾ നൽകിയ യു ആർ എൽ അസാധുവാണ്, ദയവായി അത് ശരിയാക്കി വീണ്ടും ശ്രമിക്കുക."
+msgstr "നിങ്ങൾ നൽകിയ യു ആർ എൽ അസാധുവാണ്, ദയവായി അത് ശരിയാക്കി വീണ്ടും ശ്രമിക്കുക."
 
 #: plugin_babelfish.cpp:277
 #, kde-kuit-format
@@ -205,9 +206,8 @@ msgid ""
 "page will sent to the online translation service, which may fetch the "
 "insecure version of the page."
 msgstr ""
-"നിങ്ങൾ ഈ പേജ് ഒരു സുരക്ഷിത കണക്ഷനിലൂടെ കാണുന്നു. .<nl/><nl/> പേജിന്റെ യു ആർ "
-"എൽ, ഓൺലൈൻ വിവർത്തന സേവനത്തിലേക്ക് അയച്ചു, അത് ഒരുപക്ഷേ പേജിന്റെ "
-"സുരക്ഷിതമല്ലാത്ത പതിപ്പ് ലഭ്യമാക്കും."
+"നിങ്ങൾ ഈ പേജ് ഒരു സുരക്ഷിത കണക്ഷനിലൂടെ കാണുന്നു. .<nl/><nl/> പേജിന്റെ യു ആർ എൽ, ഓൺലൈൻ "
+"വിവർത്തന സേവനത്തിലേക്ക് അയച്ചു, അത് ഒരുപക്ഷേ പേജിന്റെ സുരക്ഷിതമല്ലാത്ത പതിപ്പ് ലഭ്യമാക്കും."
 
 #: plugin_babelfish.cpp:281
 #, kde-format

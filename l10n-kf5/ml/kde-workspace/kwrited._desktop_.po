@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-03-11 02:32+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -31,8 +31,8 @@ msgstr "കെഡിഇയിലെ അറിയിപ്പുകള്‍ക�
 msgctxt "Comment"
 msgid "Watch for messages from local users sent with write(1) or wall(1)"
 msgstr ""
-"പ്രാദേശികോപയോക്താക്കളില്‍നിന്നുള്ള write(1) അല്ലെങ്കില്‍ wall(1) ഉപയോഗിച്ചയച്ച സന്ദേശങ്ങള്‍"
-"ക്കായി ശ്രദ്ധിയ്ക്കുക"
+"പ്രാദേശികോപയോക്താക്കളില്‍നിന്നുള്ള write(1) അല്ലെങ്കില്‍ wall(1) ഉപയോഗിച്ചയച്ച "
+"സന്ദേശങ്ങള്‍ക്കായി ശ്രദ്ധിയ്ക്കുക"
 
 #: kwrited.notifyrc:3
 msgctxt "Comment"

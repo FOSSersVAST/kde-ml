@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: joystick trunk\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:15+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -200,8 +200,8 @@ msgid ""
 "joystick</li><li>Saitek Cyborg 'digital' joysticks</li></ul>(For details you "
 "can check your Linux source/Documentation/input/joystick.txt)"
 msgstr ""
-"<h1>ജോയ്സ്റ്റിക്ക്</h1> ഈ വിഭാഗം നിങ്ങളുടെ ജോയ്സ്റ്റിക്ക് ഉപകരണം "
-"പ്രവര്‍ത്തനക്ഷമമാണോയെന്നു പരിശോധിക്കും.<br />"
+"<h1>ജോയ്സ്റ്റിക്ക്</h1> ഈ വിഭാഗം നിങ്ങളുടെ ജോയ്സ്റ്റിക്ക് ഉപകരണം പ്രവര്‍ത്തനക്ഷമമാണോയെന്നു "
+"പരിശോധിക്കും.<br />"
 
 #: joywidget.cpp:49
 #, kde-format

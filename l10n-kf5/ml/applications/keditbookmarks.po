@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: keditbookmarks\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 08:58+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:39+0200\n"
 "PO-Revision-Date: 2008-12-07 15:10-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -361,8 +361,8 @@ msgstr "KBookmarkMerger"
 #, kde-format
 msgid "Merges bookmarks installed by 3rd parties into the user's bookmarks"
 msgstr ""
-"വേറെ മൂന്നാം കക്ഷികള്‍ വക ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെട്ട ഓര്‍മ്മകുറിപ്പുകള്‍ ഉപയോക്താവിന്റെ ഓര്‍"
-"മ്മകുറിപ്പുകളിലേയ്ക്കു് ചേര്‍ക്കുന്നു"
+"വേറെ മൂന്നാം കക്ഷികള്‍ വക ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെട്ട ഓര്‍മ്മകുറിപ്പുകള്‍ ഉപയോക്താവിന്റെ "
+"ഓര്‍മ്മകുറിപ്പുകളിലേയ്ക്കു് ചേര്‍ക്കുന്നു"
 
 #: kbookmarkmerger.cpp:51
 #, kde-format

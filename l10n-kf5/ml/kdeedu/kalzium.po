@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kalzium\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-28 03:17+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:01+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -7848,12 +7848,11 @@ msgid ""
 "\n"
 "Check the properties you want to have displayed with a logarithmic gradient."
 msgstr ""
-"ആവർത്തന പട്ടികയിൽ ഒരു മൂലകത്തിന്റെ നിർദ്ദിഷ്ട സ്വഭാവം കാണിക്കുന്നതിനായി ഒരു "
-"ലീനിയർ ഗ്രേഡിയൻറ് ഉപയോഗിക്കാതെ പകരം കാൽസിയത്തിന് ലോഗാരിതമിക്ക് ഗ്രേഡിയന്റ് "
-"ഉപയോഗിക്കാം.\n"
+"ആവർത്തന പട്ടികയിൽ ഒരു മൂലകത്തിന്റെ നിർദ്ദിഷ്ട സ്വഭാവം കാണിക്കുന്നതിനായി ഒരു ലീനിയർ "
+"ഗ്രേഡിയൻറ് ഉപയോഗിക്കാതെ പകരം കാൽസിയത്തിന് ലോഗാരിതമിക്ക് ഗ്രേഡിയന്റ് ഉപയോഗിക്കാം.\n"
 "\n"
-"നിങ്ങൾ ഒരു ലോഗരിതമിക് ഗ്രേഡിയന്റ് ഉപയോഗിച്ച് പ്രദർശിപ്പിക്കാൻ ആഗ്രഹിക്കുന്ന "
-"പ്രോപ്പർട്ടികൾ പരിശോധിക്കുക."
+"നിങ്ങൾ ഒരു ലോഗരിതമിക് ഗ്രേഡിയന്റ് ഉപയോഗിച്ച് പ്രദർശിപ്പിക്കാൻ ആഗ്രഹിക്കുന്ന പ്രോപ്പർട്ടികൾ "
+"പരിശോധിക്കുക."
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicDiscoverydateGradient)
 #: src/settings_gradients.ui:102
@@ -7880,8 +7879,8 @@ msgid ""
 "This page gives an overview of the spectrum of this element. Using the mouse "
 "you can zoom into the spectrum."
 msgstr ""
-"ഈ താൾ ഈ മൂലകത്തിൻ്റെ സ്പെക്ട്രത്തിൻ്റ ഒരു പൊതു അവലോകനം നൽകുന്നു. മൌസ് "
-"ഉപയോഗിച്ച് നിങ്ങൾക്ക് സ്പെക്ട്രം വലുതായി കാണാന്‍ കഴിയും."
+"ഈ താൾ ഈ മൂലകത്തിൻ്റെ സ്പെക്ട്രത്തിൻ്റ ഒരു പൊതു അവലോകനം നൽകുന്നു. മൌസ് ഉപയോഗിച്ച് നിങ്ങൾക്ക് "
+"സ്പെക്ട്രം വലുതായി കാണാന്‍ കഴിയും."
 
 #. i18n: ectx: property (whatsThis), widget (QWidget, SpectrumView)
 #: src/spectrumview.ui:17

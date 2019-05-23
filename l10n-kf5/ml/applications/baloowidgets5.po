@@ -6,24 +6,25 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: baloo-widgets\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-15 02:56+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:38+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/filemetadataprovider.cpp:168
+#: src/filemetadataprovider.cpp:169
 #, kde-format
 msgctxt "unknown file size"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
 
-#: src/filemetadataprovider.cpp:170 src/filemetadataprovider.cpp:210
+#: src/filemetadataprovider.cpp:171 src/filemetadataprovider.cpp:209
 #, kde-format
 msgctxt "@item:intable"
 msgid "%1 item"
@@ -31,79 +32,79 @@ msgid_plural "%1 items"
 msgstr[0] "%1 സാധനം തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
 msgstr[1] "%1 സാധനങ്ങൾ തെരഞ്ഞെടുത്തിരിക്കുന്നു"
 
-#: src/filemetadataprovider.cpp:380 src/filemetadataprovider.cpp:394
+#: src/filemetadataprovider.cpp:388 src/filemetadataprovider.cpp:402
 #, kde-format
 msgctxt "@label"
 msgid "Comment"
 msgstr "അഭിപ്രായം"
 
-#: src/filemetadataprovider.cpp:381
+#: src/filemetadataprovider.cpp:389
 #, kde-format
 msgctxt "@label"
 msgid "Created"
 msgstr "പുതിയതായി സൃഷ്ടിച്ചു"
 
-#: src/filemetadataprovider.cpp:382
+#: src/filemetadataprovider.cpp:390
 #, kde-format
 msgctxt "@label"
 msgid "Accessed"
 msgstr "ഉപയോഗിച്ചത്"
 
-#: src/filemetadataprovider.cpp:383
+#: src/filemetadataprovider.cpp:391
 #, kde-format
 msgctxt "@label"
 msgid "Modified"
 msgstr "പരിഷ്കരിച്ചത്"
 
-#: src/filemetadataprovider.cpp:384
+#: src/filemetadataprovider.cpp:392
 #, kde-format
 msgctxt "@label"
 msgid "Owner"
 msgstr "ഉടമ"
 
-#: src/filemetadataprovider.cpp:385
+#: src/filemetadataprovider.cpp:393
 #, kde-format
 msgctxt "@label"
 msgid "Group"
 msgstr "കൂട്ടം"
 
-#: src/filemetadataprovider.cpp:386
+#: src/filemetadataprovider.cpp:394
 #, kde-format
 msgctxt "@label"
 msgid "Permissions"
 msgstr "അനുവാദങ്ങള്‍"
 
-#: src/filemetadataprovider.cpp:387 src/filemetadataprovider.cpp:393
+#: src/filemetadataprovider.cpp:395 src/filemetadataprovider.cpp:401
 #, kde-format
 msgctxt "@label"
 msgid "Rating"
 msgstr "നിലവാരം"
 
-#: src/filemetadataprovider.cpp:388
+#: src/filemetadataprovider.cpp:396
 #, kde-format
 msgctxt "@label"
 msgid "Size"
 msgstr "വലുപ്പം"
 
-#: src/filemetadataprovider.cpp:389 src/filemetadataprovider.cpp:392
+#: src/filemetadataprovider.cpp:397 src/filemetadataprovider.cpp:400
 #, kde-format
 msgctxt "@label"
 msgid "Tags"
 msgstr "മുദ്രകള്‍"
 
-#: src/filemetadataprovider.cpp:390
+#: src/filemetadataprovider.cpp:398
 #, kde-format
 msgctxt "@label"
 msgid "Total Size"
 msgstr "ആകെ വലിപ്പം:"
 
-#: src/filemetadataprovider.cpp:391
+#: src/filemetadataprovider.cpp:399
 #, kde-format
 msgctxt "@label"
 msgid "Type"
 msgstr "തരം"
 
-#: src/filemetadataprovider.cpp:395
+#: src/filemetadataprovider.cpp:403
 #, kde-format
 msgctxt "@label"
 msgid "Downloaded From"
@@ -168,22 +169,22 @@ msgctxt "@label"
 msgid "Create new tag:"
 msgstr "പുതിയ മുദ്രയുണ്ടാക്കുക:"
 
-#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:43
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:44
 #, kde-format
 msgid "Assign Tags"
 msgstr "മുദ്രകൾ എല്പിക്കുക"
 
-#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:71
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:79
 #, kde-format
 msgid "Create New..."
 msgstr "പുതിയതായി ഉണ്ടാക്കുക..."
 
-#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:75
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:83
 #, kde-format
 msgid "New tag"
 msgstr "പുതിയ മുദ്ര"
 
-#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:75
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:83
 #, kde-format
 msgid "New tag:"
 msgstr "പുതിയ മുദ്ര:"

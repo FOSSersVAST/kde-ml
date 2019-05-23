@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-13 01:42+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -373,7 +373,7 @@ msgctxt "Name"
 msgid "Files and Directories"
 msgstr ""
 
-#: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:77
+#: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:76
 msgctxt "Comment"
 msgid "Information about files and directories."
 msgstr ""
@@ -639,7 +639,7 @@ msgctxt "Name"
 msgid "Status Notifier Information"
 msgstr ""
 
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:60
+#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:59
 msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
@@ -652,7 +652,7 @@ msgctxt "Name"
 msgid "System Monitor"
 msgstr ""
 
-#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:85
+#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:84
 msgctxt "Comment"
 msgid "System status information"
 msgstr ""
@@ -662,7 +662,7 @@ msgctxt "Name"
 msgid "Date and Time"
 msgstr ""
 
-#: dataengines/time/plasma-dataengine-time.desktop:80
+#: dataengines/time/plasma-dataengine-time.desktop:79
 msgctxt "Comment"
 msgid "Date and time by timezone"
 msgstr ""
@@ -672,7 +672,7 @@ msgctxt "Name"
 msgid "BBC Weather"
 msgstr ""
 
-#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:23
+#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:26
 msgctxt "Comment"
 msgid "XML Data from the British Broadcasting Corporation"
 msgstr ""
@@ -915,16 +915,6 @@ msgctxt "Comment"
 msgid "Provides the system's time zone to applications"
 msgstr ""
 
-#: kuiserver/kuiserver.desktop:3
-msgctxt "Name"
-msgid "kuiserver"
-msgstr ""
-
-#: kuiserver/kuiserver.desktop:85
-msgctxt "Comment"
-msgid "KDE's Progress Info UI server"
-msgstr ""
-
 #: libcolorcorrect/kded/colorcorrectlocationupdater.desktop:3
 msgctxt "Name"
 msgid "ColorCorrect Geolocation Updater"
@@ -940,14 +930,14 @@ msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr ""
 
-#: lookandfeel/metadata.desktop:23
+#: lookandfeel/metadata.desktop:26
 msgctxt "Keywords"
 msgid ""
 "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;"
 "Hibernate;"
 msgstr ""
 
-#: lookandfeel/metadata.desktop:62 sddm-theme/metadata.desktop:2
+#: lookandfeel/metadata.desktop:65 sddm-theme/metadata.desktop:2
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""

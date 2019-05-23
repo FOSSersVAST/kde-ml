@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-30 03:38+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -22,14 +22,14 @@ msgstr ""
 msgid "General"
 msgstr ""
 
-#: contents/ui/configGeneral.qml:41
+#: contents/ui/configGeneral.qml:39
 #, kde-format
 msgid "Ask for PIN on modem detection"
 msgstr ""
 
-#: contents/ui/configGeneral.qml:50
+#: contents/ui/configGeneral.qml:47
 #, kde-format
-msgid "Show and configure virtual connections"
+msgid "Show virtual connections"
 msgstr ""
 
 #: contents/ui/ConnectionItem.qml:116
@@ -57,13 +57,13 @@ msgstr ""
 msgid "Details"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:370
+#: contents/ui/ConnectionItem.qml:373
 #, kde-format
 msgid ""
 "Connected, <font color='%1'>⬇</font> %2/s, <font color='%3'>⬆</font> %4/s"
 msgstr ""
 
-#: contents/ui/ConnectionItem.qml:376
+#: contents/ui/ConnectionItem.qml:379
 #, kde-format
 msgid "Connected"
 msgstr ""

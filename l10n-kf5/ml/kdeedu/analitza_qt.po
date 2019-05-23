@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: analitza_qt\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
 "org.in>\n"
@@ -9,6 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "QObject|dictionary"
 msgid "xaxaxaxaxa"
@@ -41,38 +42,38 @@ msgctxt "identifier separator in error message|"
 msgid "', '"
 msgstr "', '"
 
-#: analitza/analyzer.cpp:616
+#: analitza/analyzer.cpp:608
 msgctxt "Error message, no proper condition found.|"
 msgid "Could not find a proper choice for a condition statement."
 msgstr ""
 
-#: analitza/analyzer.cpp:937
+#: analitza/analyzer.cpp:929
 msgctxt "QCoreApplication|"
 msgid "Type not supported for bounding."
 msgstr ""
 
-#: analitza/analyzer.cpp:962
+#: analitza/analyzer.cpp:954
 msgctxt "QCoreApplication|"
 msgid "The downlimit is greater than the uplimit"
 msgstr ""
 
-#: analitza/analyzer.cpp:964
+#: analitza/analyzer.cpp:956
 msgctxt "QCoreApplication|"
 msgid "Incorrect uplimit or downlimit."
 msgstr ""
 
-#: analitza/analyzer.cpp:1056 analitza/analyzer.cpp:1081
+#: analitza/analyzer.cpp:1048 analitza/analyzer.cpp:1073
 #, qt-format
 msgctxt "QCoreApplication|"
 msgid "Invalid type for parameter '%1'"
 msgstr ""
 
-#: analitza/analyzer.cpp:1874
+#: analitza/analyzer.cpp:1868
 msgctxt "By a cycle i mean a variable that depends on itself|"
 msgid "Defined a variable cycle"
 msgstr ""
 
-#: analitza/analyzer.cpp:1916
+#: analitza/analyzer.cpp:1910
 msgctxt "QCoreApplication|"
 msgid "The result is not a number"
 msgstr ""
@@ -128,9 +129,7 @@ msgstr "ശൂന്യമായ വെക്റ്ററുകൾ / മാട�
 #: analitza/commands/matrixcommands.cpp:149
 msgctxt "QCoreApplication|"
 msgid "Matrix constructor needs vectors or matrixrow elements"
-msgstr ""
-"മാട്രിക്സ് കൺസ്ട്രക്റ്ററിന് വെക്റ്ററുകൾ അല്ലെങ്കിൽ മാട്രിക്സ് ഘടകങ്ങൾ "
-"ആവശ്യമാണ്"
+msgstr "മാട്രിക്സ് കൺസ്ട്രക്റ്ററിന് വെക്റ്ററുകൾ അല്ലെങ്കിൽ മാട്രിക്സ് ഘടകങ്ങൾ ആവശ്യമാണ്"
 
 #: analitza/commands/blockmatrixcommands.cpp:244
 #: analitza/commands/matrixcommands.cpp:288

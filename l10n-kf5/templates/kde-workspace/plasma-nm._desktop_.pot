@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-13 01:41+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-22 01:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,7 +16,7 @@ msgctxt "Name"
 msgid "Networks"
 msgstr ""
 
-#: applet/metadata.desktop:47
+#: applet/metadata.desktop:48
 msgctxt "Comment"
 msgid "Network status and control"
 msgstr ""
@@ -26,12 +26,12 @@ msgctxt "Name"
 msgid "Connections"
 msgstr ""
 
-#: kcm/kcm_networkmanagement.desktop:50
+#: kcm/kcm_networkmanagement.desktop:51
 msgctxt "Comment"
 msgid "Edit your Network Connections"
 msgstr ""
 
-#: kcm/kcm_networkmanagement.desktop:89
+#: kcm/kcm_networkmanagement.desktop:91
 msgctxt "X-KDE-Keywords"
 msgid "network,wifi,ethernet,mobile,broadband,vpn,internet,traffic"
 msgstr ""
@@ -51,82 +51,82 @@ msgctxt "Name"
 msgid "Network management"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:47
+#: kded/networkmanagement.notifyrc:48
 msgctxt "Comment"
 msgid "Network management"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:93
+#: kded/networkmanagement.notifyrc:95
 msgctxt "Name"
 msgid "Connection activated"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:141
+#: kded/networkmanagement.notifyrc:145
 msgctxt "Name"
 msgid "Connection deactivated"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:189
+#: kded/networkmanagement.notifyrc:194
 msgctxt "Name"
 msgid "Connection added"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:237
+#: kded/networkmanagement.notifyrc:243
 msgctxt "Name"
 msgid "Connection removed"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:285
+#: kded/networkmanagement.notifyrc:292
 msgctxt "Name"
 msgid "Connection updated"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:333
+#: kded/networkmanagement.notifyrc:341
 msgctxt "Name"
 msgid "Device failed"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:381
+#: kded/networkmanagement.notifyrc:389
 msgctxt "Name"
 msgid "Failed to activate connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:429
+#: kded/networkmanagement.notifyrc:438
 msgctxt "Name"
 msgid "Failed to add connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:477
+#: kded/networkmanagement.notifyrc:487
 msgctxt "Name"
 msgid "Failed to deactivate connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:525
+#: kded/networkmanagement.notifyrc:536
 msgctxt "Name"
 msgid "Failed to remove connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:573
+#: kded/networkmanagement.notifyrc:585
 msgctxt "Name"
 msgid "Failed to get secrets"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:621
+#: kded/networkmanagement.notifyrc:634
 msgctxt "Name"
 msgid "Failed to update connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:669
+#: kded/networkmanagement.notifyrc:683
 msgctxt "Name"
 msgid "Missing VPN plugin"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:718
+#: kded/networkmanagement.notifyrc:733
 msgctxt "Name"
 msgid "No longer connected to a network"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:761
+#: kded/networkmanagement.notifyrc:777
 msgctxt "Name"
 msgid "Captive portal detected"
 msgstr ""
@@ -146,13 +146,13 @@ msgctxt "Name"
 msgid "Mobile broadband"
 msgstr ""
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:26
-#: mobile/broadband/package/metadata.desktop:26
+#: mobile/broadband/mobilebroadbandsettings.desktop:27
+#: mobile/broadband/package/metadata.desktop:27
 msgctxt "Comment"
 msgid "Mobile broadband setting"
 msgstr ""
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:63
+#: mobile/broadband/mobilebroadbandsettings.desktop:65
 msgctxt "X-KDE-Keywords"
 msgid "mobile,data,network"
 msgstr ""
@@ -167,12 +167,12 @@ msgctxt "Name"
 msgid "Wi-Fi"
 msgstr ""
 
-#: mobile/wifi/package/metadata.desktop:26 mobile/wifi/wifisettings.desktop:26
+#: mobile/wifi/package/metadata.desktop:27 mobile/wifi/wifisettings.desktop:27
 msgctxt "Comment"
 msgid "Wireless network setting"
 msgstr ""
 
-#: mobile/wifi/wifisettings.desktop:63
+#: mobile/wifi/wifisettings.desktop:65
 msgctxt "X-KDE-Keywords"
 msgid "wifi,network"
 msgstr ""
@@ -202,9 +202,19 @@ msgctxt "Name"
 msgid "Layer 2 Tunneling Protocol (L2TP)"
 msgstr ""
 
-#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:52
+#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:53
 msgctxt "Comment"
 msgid "Compatible with L2TP VPN servers"
+msgstr ""
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:17
+msgctxt "Name"
+msgid "PAN Global Protect (openconnect)"
+msgstr ""
+
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:31
+msgctxt "Comment"
+msgid "Compatible with PAN GlobalProtect SSL VPN"
 msgstr ""
 
 #: vpn/openconnect/plasmanetworkmanagement_openconnect_juniperui.desktop:17
@@ -222,7 +232,7 @@ msgctxt "Name"
 msgid "Cisco AnyConnect Compatible VPN (openconnect)"
 msgstr ""
 
-#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:53
+#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:54
 msgctxt "Comment"
 msgid "Compatible with Cisco AnyConnect SSL VPN"
 msgstr ""
@@ -232,8 +242,8 @@ msgctxt "Name"
 msgid "IPsec based VPN (openswan)"
 msgstr ""
 
-#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:53
-#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:54
+#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:54
+#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:55
 msgctxt "Comment"
 msgid "IPsec, IKEv1, IKEv2 based VPN"
 msgstr ""
@@ -243,7 +253,7 @@ msgctxt "Name"
 msgid "OpenVPN"
 msgstr ""
 
-#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:63
+#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:64
 msgctxt "Comment"
 msgid "Compatible with the OpenVPN server"
 msgstr ""
@@ -263,7 +273,7 @@ msgctxt "Name"
 msgid "SSH"
 msgstr ""
 
-#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:56
+#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:57
 msgctxt "Comment"
 msgid "Compatible with the SSH server"
 msgstr ""
@@ -273,7 +283,7 @@ msgctxt "Name"
 msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr ""
 
-#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:53
+#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:54
 msgctxt "Comment"
 msgid "Compatible with Microsoft and other SSTP VPN servers"
 msgstr ""
@@ -288,19 +298,9 @@ msgctxt "Name"
 msgid "Cisco Compatible VPN (vpnc)"
 msgstr ""
 
-#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:54
+#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:55
 msgctxt "Comment"
 msgid ""
 "Compatible with various Cisco, Juniper, Netscreen and Sonicwall IPsec-based "
 "VPN gateways"
-msgstr ""
-
-#: vpn/wireguard/plasmanetworkmanagement_wireguardui.desktop:16
-msgctxt "Name"
-msgid "WireGuard based VPN"
-msgstr ""
-
-#: vpn/wireguard/plasmanetworkmanagement_wireguardui.desktop:40
-msgctxt "Comment"
-msgid "Compatible with WireGuard VPN servers"
 msgstr ""

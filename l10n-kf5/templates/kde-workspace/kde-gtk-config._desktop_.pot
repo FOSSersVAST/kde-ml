@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-13 01:41+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -26,12 +26,12 @@ msgctxt "Name"
 msgid "GNOME/GTK Application Style"
 msgstr ""
 
-#: kde-gtk-config.desktop:38
+#: kde-gtk-config.desktop:39
 msgctxt "Comment"
 msgid "Configure GNOME/GTK application style and behavior"
 msgstr ""
 
-#: kde-gtk-config.desktop:63
+#: kde-gtk-config.desktop:64
 msgctxt "X-KDE-Keywords"
 msgid "gnome,gtk,style,styles,look,widget,icons,toolbars,apps,theme,menu"
 msgstr ""

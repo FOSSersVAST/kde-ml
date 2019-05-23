@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-19 01:45+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 01:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -57,6 +57,16 @@ msgctxt "Keywords"
 msgid "Input;IM;"
 msgstr ""
 
+#: applets/minimizeall/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Minimize all Windows"
+msgstr ""
+
+#: applets/minimizeall/package/metadata.desktop:24
+msgctxt "Comment"
+msgid "Shows the desktop by minimizing all windows"
+msgstr ""
+
 #: applets/pager/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Pager"
@@ -76,6 +86,16 @@ msgstr ""
 #: applets/showActivityManager/package/metadata.desktop:60
 msgctxt "Comment"
 msgid "Shows the activity manager"
+msgstr ""
+
+#: applets/showdesktop/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Show Desktop"
+msgstr ""
+
+#: applets/showdesktop/package/metadata.desktop:25
+msgctxt "Comment"
+msgid "Show the Plasma desktop"
 msgstr ""
 
 #: applets/taskmanager/package/metadata.desktop:2
@@ -347,7 +367,7 @@ msgctxt "Comment"
 msgid "Choose color scheme"
 msgstr ""
 
-#: kcms/colors/kcm_colors.desktop:130
+#: kcms/colors/kcm_colors.desktop:133
 msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
@@ -491,7 +511,7 @@ msgctxt "Comment"
 msgid "Choose mouse cursor theme"
 msgstr ""
 
-#: kcms/cursortheme/kcm_cursortheme.desktop:75
+#: kcms/cursortheme/kcm_cursortheme.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
@@ -552,13 +572,13 @@ msgctxt "Name"
 msgid "Plasma Theme"
 msgstr ""
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:38
-#: kcms/desktoptheme/package/metadata.desktop:27
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:40
+#: kcms/desktoptheme/package/metadata.desktop:29
 msgctxt "Comment"
 msgid "Choose Plasma theme"
 msgstr ""
 
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:60
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:65
 msgctxt "X-KDE-Keywords"
 msgid "Desktop Theme"
 msgstr ""
@@ -578,7 +598,7 @@ msgctxt "Comment"
 msgid "Choose emoticon theme"
 msgstr ""
 
-#: kcms/emoticons/emoticons.desktop:118
+#: kcms/emoticons/emoticons.desktop:121
 msgctxt "X-KDE-Keywords"
 msgid "Emoticons"
 msgstr ""
@@ -595,7 +615,7 @@ msgctxt "Comment"
 msgid "Configure user interface fonts"
 msgstr ""
 
-#: kcms/fonts/kcm_fonts.desktop:128
+#: kcms/fonts/kcm_fonts.desktop:131
 msgctxt "X-KDE-Keywords"
 msgid ""
 "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
@@ -648,7 +668,7 @@ msgctxt "Comment"
 msgid "Choose icon theme"
 msgstr ""
 
-#: kcms/icons/kcm_icons.desktop:129
+#: kcms/icons/kcm_icons.desktop:132
 msgctxt "X-KDE-Keywords"
 msgid "icons,effects,size,hicolor,locolor"
 msgstr ""
@@ -774,7 +794,7 @@ msgctxt "Comment"
 msgid "Install, manage and preview fonts"
 msgstr ""
 
-#: kcms/kfontinst/kcmfontinst/fontinst.desktop:94
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:97
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
 msgstr ""
@@ -787,21 +807,6 @@ msgstr ""
 #: kcms/kfontinst/viewpart/kfontviewpart.desktop:2
 msgctxt "Name"
 msgid "Font Viewer"
-msgstr ""
-
-#: kcms/knotify/kcmnotify.desktop:14
-msgctxt "Name"
-msgid "Notifications"
-msgstr ""
-
-#: kcms/knotify/kcmnotify.desktop:60
-msgctxt "Comment"
-msgid "Event Notifications and Actions"
-msgstr ""
-
-#: kcms/knotify/kcmnotify.desktop:107
-msgctxt "X-KDE-Keywords"
-msgid "System sounds,Audio,Sound,Notify,Alerts,Notification,popups"
 msgstr ""
 
 #: kcms/ksmserver/kcmsmserver.desktop:14
@@ -831,7 +836,7 @@ msgctxt "Comment"
 msgid "Choose splash screen theme"
 msgstr ""
 
-#: kcms/ksplash/kcm_splashscreen.desktop:82
+#: kcms/ksplash/kcm_splashscreen.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid "splash screen,splash theme,startup"
 msgstr ""
@@ -873,7 +878,7 @@ msgctxt "Comment"
 msgid "Choose Look and Feel theme"
 msgstr ""
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:75
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr ""
@@ -905,6 +910,18 @@ msgctxt "X-KDE-Keywords"
 msgid "kwin,window,manager,night,colors,redshift,eyes"
 msgstr ""
 
+#: kcms/notifications/kcm_notifications.desktop:14
+#: kcms/notifications/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Notifications"
+msgstr ""
+
+#: kcms/notifications/kcm_notifications.desktop:60
+#: kcms/notifications/package/metadata.desktop:48
+msgctxt "Comment"
+msgid "Event Notifications and Actions"
+msgstr ""
+
 #: kcms/phonon/kcm_phonon.desktop:13
 msgctxt "Name"
 msgid "Audio and Video"
@@ -929,7 +946,7 @@ msgstr ""
 
 #: kcms/runners/kcm_plasmasearch.desktop:13
 msgctxt "Name"
-msgid "Plasma Search"
+msgid "KRunner"
 msgstr ""
 
 #: kcms/runners/kcm_plasmasearch.desktop:58
@@ -1207,12 +1224,12 @@ msgctxt "Name"
 msgid "Application Style"
 msgstr ""
 
-#: kcms/style/style.desktop:38
+#: kcms/style/style.desktop:42
 msgctxt "Comment"
 msgid "Configure application style and behavior"
 msgstr ""
 
-#: kcms/style/style.desktop:59
+#: kcms/style/style.desktop:68
 msgctxt "X-KDE-Keywords"
 msgid ""
 "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"

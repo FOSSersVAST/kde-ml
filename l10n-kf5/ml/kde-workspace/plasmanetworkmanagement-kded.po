@@ -6,15 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-05 03:37+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2019-03-05 03:37+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: bluetoothmonitor.cpp:82
 #, kde-format
@@ -438,118 +440,118 @@ msgstr ""
 msgid "Connection '%1' activated."
 msgstr ""
 
-#: notification.cpp:413
+#: notification.cpp:416
 #, kde-format
 msgid "Connection '%1' deactivated."
 msgstr ""
 
-#: notification.cpp:461
+#: notification.cpp:464
 #, kde-format
 msgid "VPN connection '%1' activated."
 msgstr ""
 
-#: notification.cpp:464
+#: notification.cpp:467
 #, kde-format
 msgid "VPN connection '%1' failed."
 msgstr ""
 
-#: notification.cpp:467
+#: notification.cpp:470
 #, kde-format
 msgid "VPN connection '%1' disconnected."
 msgstr ""
 
-#: notification.cpp:475
+#: notification.cpp:478
 #, kde-format
 msgid "The VPN connection changed state because the user disconnected it."
 msgstr ""
 
-#: notification.cpp:478
+#: notification.cpp:481
 #, kde-format
 msgid ""
 "The VPN connection changed state because the device it was using was "
 "disconnected."
 msgstr ""
 
-#: notification.cpp:481
+#: notification.cpp:484
 #, kde-format
 msgid "The service providing the VPN connection was stopped."
 msgstr ""
 
-#: notification.cpp:484
+#: notification.cpp:487
 #, kde-format
 msgid "The IP config of the VPN connection was invalid."
 msgstr ""
 
-#: notification.cpp:487
+#: notification.cpp:490
 #, kde-format
 msgid "The connection attempt to the VPN service timed out."
 msgstr ""
 
-#: notification.cpp:490
+#: notification.cpp:493
 #, kde-format
 msgid ""
 "A timeout occurred while starting the service providing the VPN connection."
 msgstr ""
 
-#: notification.cpp:493
+#: notification.cpp:496
 #, kde-format
 msgid "Starting the service providing the VPN connection failed."
 msgstr ""
 
-#: notification.cpp:496
+#: notification.cpp:499
 #, kde-format
 msgid "Necessary secrets for the VPN connection were not provided."
 msgstr ""
 
-#: notification.cpp:499
+#: notification.cpp:502
 #, kde-format
 msgid "Authentication to the VPN server failed."
 msgstr ""
 
-#: notification.cpp:502
+#: notification.cpp:505
 #, kde-format
 msgid "The connection was deleted from settings."
 msgstr ""
 
-#: notification.cpp:588
+#: notification.cpp:591
 #, kde-format
 msgid "No Network Connection"
 msgstr ""
 
-#: notification.cpp:589
+#: notification.cpp:592
 #, kde-format
 msgid "You are no longer connected to a network."
 msgstr ""
 
-#: passworddialog.cpp:68
+#: passworddialog.cpp:69
 #, kde-format
 msgid "Authenticate %1"
 msgstr ""
 
-#: passworddialog.cpp:89
+#: passworddialog.cpp:113
 #, kde-format
 msgid ""
 "For accessing the wireless network <b>%1</b> you need to provide a password "
 "below:"
 msgstr ""
 
-#: passworddialog.cpp:91
+#: passworddialog.cpp:115
 #, kde-format
 msgid "Please provide the password for activating connection <b>%1</b>:"
 msgstr ""
 
-#: passworddialog.cpp:97
+#: passworddialog.cpp:121
 #, kde-format
 msgid "%1 password dialog"
 msgstr ""
 
-#: passworddialog.cpp:119
+#: passworddialog.cpp:143
 #, kde-format
 msgid ""
 "For accessing the vpn connection <b>%1</b> you need to provide secrets below:"
 msgstr ""
 
-#: passworddialog.cpp:120
+#: passworddialog.cpp:144
 #, kde-format
 msgid "VPN secrets (%1) dialog"
 msgstr ""
@@ -746,7 +748,7 @@ msgstr ""
 msgid "You need to log in to this network"
 msgstr ""
 
-#: secretagent.cpp:412
+#: secretagent.cpp:413
 #, kde-format
 msgid "Authentication to %1 failed. Wrong password?"
 msgstr ""

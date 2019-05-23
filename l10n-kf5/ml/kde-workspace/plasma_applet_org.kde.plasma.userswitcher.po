@@ -6,15 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:14+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
 "PO-Revision-Date: 2018-08-16 09:14+0200\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: package/contents/config/config.qml:25
 #, kde-format
@@ -22,52 +24,58 @@ msgctxt "@title"
 msgid "General"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:37
+#: package/contents/ui/configGeneral.qml:41
 #, kde-format
-msgctxt "@title:group"
-msgid "Username Display"
+msgctxt "@title:label"
+msgid "Username style:"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:49
-#, kde-format
-msgctxt "@option:radio"
-msgid "Show full name (if available)"
-msgstr ""
-
-#: package/contents/ui/configGeneral.qml:56
+#: package/contents/ui/configGeneral.qml:44
 #, kde-format
 msgctxt "@option:radio"
-msgid "Show login username"
+msgid "Full name (if available)"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:66
-#, kde-format
-msgctxt "@title:group"
-msgid "Layout"
-msgstr ""
-
-#: package/contents/ui/configGeneral.qml:81
+#: package/contents/ui/configGeneral.qml:51
 #, kde-format
 msgctxt "@option:radio"
-msgid "Show only name"
+msgid "Login username"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:89
+#: package/contents/ui/configGeneral.qml:69
+#, kde-format
+msgctxt "@title:label"
+msgid "Show:"
+msgstr ""
+
+#: package/contents/ui/configGeneral.qml:72
 #, kde-format
 msgctxt "@option:radio"
-msgid "Show only avatar"
+msgid "Name"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:97
+#: package/contents/ui/configGeneral.qml:86
 #, kde-format
 msgctxt "@option:radio"
-msgid "Show both avatar and name"
+msgid "User picture"
 msgstr ""
 
-#: package/contents/ui/configGeneral.qml:103
+#: package/contents/ui/configGeneral.qml:100
+#, kde-format
+msgctxt "@option:radio"
+msgid "Name and user picture"
+msgstr ""
+
+#: package/contents/ui/configGeneral.qml:119
+#, kde-format
+msgctxt "@title:label"
+msgid "Advanced:"
+msgstr ""
+
+#: package/contents/ui/configGeneral.qml:121
 #, kde-format
 msgctxt "@option:check"
-msgid "Show technical information about sessions"
+msgid "Show technical session information"
 msgstr ""
 
 #: package/contents/ui/main.qml:52

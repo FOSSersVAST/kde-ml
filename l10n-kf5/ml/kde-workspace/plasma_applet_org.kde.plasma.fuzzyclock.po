@@ -6,15 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-15 03:38+0100\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:24+0200\n"
 "PO-Revision-Date: 2019-03-15 03:38+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: package/contents/config/config.qml:27
 #, kde-format
@@ -22,37 +24,37 @@ msgctxt "@title"
 msgid "Appearance"
 msgstr ""
 
-#: package/contents/ui/configAppearance.qml:39
+#: package/contents/ui/configAppearance.qml:38
 #, kde-format
 msgctxt "@title:group"
 msgid "Font:"
 msgstr ""
 
-#: package/contents/ui/configAppearance.qml:40
+#: package/contents/ui/configAppearance.qml:39
 #, kde-format
 msgctxt "@option:check"
 msgid "Bold text"
 msgstr ""
 
-#: package/contents/ui/configAppearance.qml:45
+#: package/contents/ui/configAppearance.qml:44
 #, kde-format
 msgctxt "@option:check"
 msgid "Italic text"
 msgstr ""
 
-#: package/contents/ui/configAppearance.qml:54
+#: package/contents/ui/configAppearance.qml:53
 #, kde-format
 msgctxt "@title:group"
 msgid "Fuzzyness:"
 msgstr ""
 
-#: package/contents/ui/configAppearance.qml:65
+#: package/contents/ui/configAppearance.qml:63
 #, kde-format
 msgctxt "@item:inrange"
 msgid "Accurate"
 msgstr ""
 
-#: package/contents/ui/configAppearance.qml:73
+#: package/contents/ui/configAppearance.qml:71
 #, kde-format
 msgctxt "@item:inrange"
 msgid "Fuzzy"

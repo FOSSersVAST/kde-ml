@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-13 01:41+0000\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -98,7 +98,7 @@ msgctxt "Name"
 msgid "Fading Popups"
 msgstr ""
 
-#: effects/fadingpopups/package/metadata.desktop:26
+#: effects/fadingpopups/package/metadata.desktop:27
 msgctxt "Comment"
 msgid "Make popups smoothly fade in and out when they are shown or hidden"
 msgstr ""
@@ -239,7 +239,7 @@ msgctxt "Comment"
 msgid "Squash windows when they are minimized"
 msgstr ""
 
-#: effects/squash/package/metadata.desktop:26
+#: effects/squash/package/metadata.desktop:27
 msgctxt "Name"
 msgid "Squash"
 msgstr ""

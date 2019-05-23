@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gwenview\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-05 03:25+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-23 03:05+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -49,10 +49,10 @@ msgid ""
 "filename> in your home folder, deleting all thumbnails previously generated "
 "by Gwenview and other applications."
 msgstr ""
-"താങ്കളുടെ കമ്പ്യൂട്ടറിൽ വേണ്ടുവോളം ഡിസ്ക് സ്പേസ് ഇല്ലെങ്കിൽ ഈ ഓപ്ഷൻ ഇനേബിൾ "
-"ചെയ്യുക<br/><br/><em>ജാഗ്രതാ:</em>ഈ ഓപ്ഷൻ <filename>.thumbnails</filename>എന്"
-"ന അറ ഹോം അറയിൽ നിന്നും നീക്കം ചെയ്യപ്പെടുന്നതാണ്, ഗ്വെൻവ്യൂം മറ്റ് "
-"പ്രയോഗങ്ങളിലെ ചിത്രത്തിന്റെ ചെറുരൂപങ്ങളും നീക്കം ചെയ്യപ്പെടും."
+"താങ്കളുടെ കമ്പ്യൂട്ടറിൽ വേണ്ടുവോളം ഡിസ്ക് സ്പേസ് ഇല്ലെങ്കിൽ ഈ ഓപ്ഷൻ ഇനേബിൾ ചെയ്യുക<br/><br/"
+"><em>ജാഗ്രതാ:</em>ഈ ഓപ്ഷൻ <filename>.thumbnails</filename>എന്ന അറ ഹോം അറയിൽ "
+"നിന്നും നീക്കം ചെയ്യപ്പെടുന്നതാണ്, ഗ്വെൻവ്യൂം മറ്റ് പ്രയോഗങ്ങളിലെ ചിത്രത്തിന്റെ ചെറുരൂപങ്ങളും "
+"നീക്കം ചെയ്യപ്പെടും."
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: app/advancedconfigpage.ui:77
@@ -1776,7 +1776,7 @@ msgstr ""
 
 #: lib/about.cpp:39
 #, kde-format
-msgid "Copyright 2000-2018 Gwenview authors"
+msgid "Copyright 2000-2019 Gwenview authors"
 msgstr ""
 
 #: lib/about.cpp:43
@@ -1937,7 +1937,7 @@ msgstr ""
 msgid "Gwenview does not know how to display this kind of document"
 msgstr ""
 
-#: lib/documentview/documentview.cpp:626
+#: lib/documentview/documentview.cpp:630
 #, kde-kuit-format
 msgid "Loading <filename>%1</filename> failed"
 msgstr ""
@@ -2097,73 +2097,73 @@ msgctxt "@info:tooltip"
 msgid "Close"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:254
+#: lib/imagemetainfomodel.cpp:252
 #, kde-format
 msgctxt "@item:intable Image file name"
 msgid "Name"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:255
+#: lib/imagemetainfomodel.cpp:253
 #, kde-format
 msgctxt "@item:intable"
 msgid "File Size"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:256
+#: lib/imagemetainfomodel.cpp:254
 #, kde-format
 msgctxt "@item:intable"
 msgid "File Time"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:257
+#: lib/imagemetainfomodel.cpp:255
 #, kde-format
 msgctxt "@item:intable"
 msgid "Image Size"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:258
+#: lib/imagemetainfomodel.cpp:256
 #, kde-format
 msgctxt "@item:intable"
 msgid "Comment"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:318
+#: lib/imagemetainfomodel.cpp:316
 #, kde-format
 msgctxt "@title:group General info about the image"
 msgid "General"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:408
+#: lib/imagemetainfomodel.cpp:406
 #, kde-format
 msgctxt "@item:intable %1 is image width, %2 is image height"
 msgid "%1x%2"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:416
+#: lib/imagemetainfomodel.cpp:414
 #, kde-format
 msgctxt "@item:intable %1 is number of millions of pixels in image"
 msgid "(%1MP)"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:567
+#: lib/imagemetainfomodel.cpp:565
 #, kde-format
 msgctxt "@title:column"
 msgid "Property"
 msgstr ""
 
-#: lib/imagemetainfomodel.cpp:569
+#: lib/imagemetainfomodel.cpp:567
 #, kde-format
 msgctxt "@title:column"
 msgid "Value"
 msgstr ""
 
-#: lib/jpegcontent.cpp:580
+#: lib/jpegcontent.cpp:617
 #, kde-format
 msgctxt "@info"
 msgid "Could not open file for writing."
 msgstr ""
 
-#: lib/jpegcontent.cpp:596
+#: lib/jpegcontent.cpp:633
 #, kde-format
 msgctxt "@info"
 msgid "No data to store."
@@ -2282,7 +2282,7 @@ msgstr ""
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, mHeightPercentSpinBox)
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, mWidthPercentSpinBox)
 #: lib/resize/resizeimagewidget.ui:56 lib/resize/resizeimagewidget.ui:131
-#, fuzzy, kde-format, no-c-format
+#, fuzzy, no-c-format, kde-format
 msgid " %"
 msgstr " %"
 

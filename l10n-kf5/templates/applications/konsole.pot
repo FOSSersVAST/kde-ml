@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-18 03:03+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 02:40+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1796,158 +1796,158 @@ msgstr ""
 msgid "Output:"
 msgstr ""
 
-#: main.cpp:117
+#: main.cpp:119
 #, kde-format
 msgctxt "@title"
 msgid "Konsole"
 msgstr ""
 
-#: main.cpp:119
+#: main.cpp:121
 #, kde-format
 msgctxt "@title"
 msgid "Terminal emulator"
 msgstr ""
 
-#: main.cpp:121
+#: main.cpp:123
 #, kde-format
 msgctxt "@info:credit"
 msgid "(c) 1997-2019, The Konsole Developers"
 msgstr ""
 
-#: main.cpp:293
+#: main.cpp:295
 #, kde-format
 msgctxt "@info:credit"
 msgid "Kurt Hindenburg"
 msgstr ""
 
-#: main.cpp:294
+#: main.cpp:296
 #, kde-format
 msgctxt "@info:credit"
 msgid "General maintainer, bug fixes and general improvements"
 msgstr ""
 
-#: main.cpp:297
+#: main.cpp:299
 #, kde-format
 msgctxt "@info:credit"
 msgid "Robert Knight"
 msgstr ""
 
-#: main.cpp:298
+#: main.cpp:300
 #, kde-format
 msgctxt "@info:credit"
 msgid "Previous maintainer, ported to KDE4"
 msgstr ""
 
-#: main.cpp:300
+#: main.cpp:302
 #, kde-format
 msgctxt "@info:credit"
 msgid "Lars Doelle"
 msgstr ""
 
-#: main.cpp:301
+#: main.cpp:303
 #, kde-format
 msgctxt "@info:credit"
 msgid "Original author"
 msgstr ""
 
-#: main.cpp:303
+#: main.cpp:305
 #, kde-format
 msgctxt "@info:credit"
 msgid "Jekyll Wu"
 msgstr ""
 
-#: main.cpp:304 main.cpp:307 main.cpp:310
+#: main.cpp:306 main.cpp:309 main.cpp:312
 #, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes and general improvements"
 msgstr ""
 
-#: main.cpp:306
+#: main.cpp:308
 #, kde-format
 msgctxt "@info:credit"
 msgid "Waldo Bastian"
 msgstr ""
 
-#: main.cpp:309
+#: main.cpp:311
 #, kde-format
 msgctxt "@info:credit"
 msgid "Stephan Binner"
 msgstr ""
 
-#: main.cpp:312
+#: main.cpp:314
 #, kde-format
 msgctxt "@info:credit"
 msgid "Thomas Dreibholz"
 msgstr ""
 
-#: main.cpp:313
+#: main.cpp:315
 #, kde-format
 msgctxt "@info:credit"
 msgid "General improvements"
 msgstr ""
 
-#: main.cpp:315
+#: main.cpp:317
 #, kde-format
 msgctxt "@info:credit"
 msgid "Chris Machemer"
 msgstr ""
 
-#: main.cpp:316 main.cpp:319 main.cpp:355 main.cpp:358 main.cpp:361
-#: main.cpp:364
+#: main.cpp:318 main.cpp:321 main.cpp:357 main.cpp:360 main.cpp:363
+#: main.cpp:366
 #, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes"
 msgstr ""
 
-#: main.cpp:318
+#: main.cpp:320
 #, kde-format
 msgctxt "@info:credit"
 msgid "Francesco Cecconi"
 msgstr ""
 
-#: main.cpp:321
+#: main.cpp:323
 #, kde-format
 msgctxt "@info:credit"
 msgid "Stephan Kulow"
 msgstr ""
 
-#: main.cpp:322
+#: main.cpp:324
 #, kde-format
 msgctxt "@info:credit"
 msgid "Solaris support and history"
 msgstr ""
 
-#: main.cpp:324
+#: main.cpp:326
 #, kde-format
 msgctxt "@info:credit"
 msgid "Alexander Neundorf"
 msgstr ""
 
-#: main.cpp:325
+#: main.cpp:327
 #, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes and improved startup performance"
 msgstr ""
 
-#: main.cpp:327
+#: main.cpp:329
 #, kde-format
 msgctxt "@info:credit"
 msgid "Peter Silva"
 msgstr ""
 
-#: main.cpp:328
+#: main.cpp:330
 #, kde-format
 msgctxt "@info:credit"
 msgid "Marking improvements"
 msgstr ""
 
-#: main.cpp:330
+#: main.cpp:332
 #, kde-format
 msgctxt "@info:credit"
 msgid "Lotzi Boloni"
 msgstr ""
 
-#: main.cpp:331
+#: main.cpp:333
 #, kde-format
 msgctxt "@info:credit"
 msgid ""
@@ -1955,13 +1955,13 @@ msgid ""
 "Toolbar and session names"
 msgstr ""
 
-#: main.cpp:334
+#: main.cpp:336
 #, kde-format
 msgctxt "@info:credit"
 msgid "David Faure"
 msgstr ""
 
-#: main.cpp:335
+#: main.cpp:337
 #, kde-format
 msgctxt "@info:credit"
 msgid ""
@@ -1969,25 +1969,25 @@ msgid ""
 "General improvements"
 msgstr ""
 
-#: main.cpp:338
+#: main.cpp:340
 #, kde-format
 msgctxt "@info:credit"
 msgid "Antonio Larrosa"
 msgstr ""
 
-#: main.cpp:339
+#: main.cpp:341
 #, kde-format
 msgctxt "@info:credit"
 msgid "Visual effects"
 msgstr ""
 
-#: main.cpp:341
+#: main.cpp:343
 #, kde-format
 msgctxt "@info:credit"
 msgid "Matthias Ettrich"
 msgstr ""
 
-#: main.cpp:342
+#: main.cpp:344
 #, kde-format
 msgctxt "@info:credit"
 msgid ""
@@ -1995,67 +1995,67 @@ msgid ""
 "General improvements"
 msgstr ""
 
-#: main.cpp:345
+#: main.cpp:347
 #, kde-format
 msgctxt "@info:credit"
 msgid "Warwick Allison"
 msgstr ""
 
-#: main.cpp:346
+#: main.cpp:348
 #, kde-format
 msgctxt "@info:credit"
 msgid "Schema and text selection improvements"
 msgstr ""
 
-#: main.cpp:348
+#: main.cpp:350
 #, kde-format
 msgctxt "@info:credit"
 msgid "Dan Pilone"
 msgstr ""
 
-#: main.cpp:349
+#: main.cpp:351
 #, kde-format
 msgctxt "@info:credit"
 msgid "SGI port"
 msgstr ""
 
-#: main.cpp:351
+#: main.cpp:353
 #, kde-format
 msgctxt "@info:credit"
 msgid "Kevin Street"
 msgstr ""
 
-#: main.cpp:352
+#: main.cpp:354
 #, kde-format
 msgctxt "@info:credit"
 msgid "FreeBSD port"
 msgstr ""
 
-#: main.cpp:354
+#: main.cpp:356
 #, kde-format
 msgctxt "@info:credit"
 msgid "Sven Fischer"
 msgstr ""
 
-#: main.cpp:357
+#: main.cpp:359
 #, kde-format
 msgctxt "@info:credit"
 msgid "Dale M. Flaven"
 msgstr ""
 
-#: main.cpp:360
+#: main.cpp:362
 #, kde-format
 msgctxt "@info:credit"
 msgid "Martin Jones"
 msgstr ""
 
-#: main.cpp:363
+#: main.cpp:365
 #, kde-format
 msgctxt "@info:credit"
 msgid "Lars Knoll"
 msgstr ""
 
-#: main.cpp:366
+#: main.cpp:368
 #, kde-format
 msgctxt "@info:credit"
 msgid "Thanks to many others.\n"
@@ -2240,17 +2240,17 @@ msgid ""
 "computer via SSH) is being executed"
 msgstr ""
 
-#: SaveHistoryTask.cpp:63
+#: SaveHistoryTask.cpp:80
 #, kde-format
 msgid "Save Output From %1"
 msgstr ""
 
-#: SaveHistoryTask.cpp:75
+#: SaveHistoryTask.cpp:92
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
 msgstr ""
 
-#: SaveHistoryTask.cpp:153
+#: SaveHistoryTask.cpp:174
 #, kde-format
 msgid ""
 "A problem occurred when saving the output.\n"
@@ -3274,100 +3274,100 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr ""
 
-#: TerminalDisplay.cpp:1230 TerminalDisplay.cpp:1231
+#: TerminalDisplay.cpp:1231 TerminalDisplay.cpp:1232
 #, kde-format
 msgid "Size: XXX x XXX"
 msgstr ""
 
-#: TerminalDisplay.cpp:1242
+#: TerminalDisplay.cpp:1243
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:3078
+#: TerminalDisplay.cpp:3079
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3081
+#: TerminalDisplay.cpp:3082
 #, kde-format
 msgid "Confirm Paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3095
+#: TerminalDisplay.cpp:3096
 #, kde-format
 msgid "^C Interrupt: May abort the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3098
+#: TerminalDisplay.cpp:3099
 #, kde-format
 msgid "^D End of transmission: May exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3101
+#: TerminalDisplay.cpp:3102
 #, kde-format
 msgid "^G Bell: Will try to emit an audible warning"
 msgstr ""
 
-#: TerminalDisplay.cpp:3104
+#: TerminalDisplay.cpp:3105
 #, kde-format
 msgid "^H Backspace"
 msgstr ""
 
-#: TerminalDisplay.cpp:3107
+#: TerminalDisplay.cpp:3108
 #, kde-format
 msgid "^S Scroll lock: Locks terminal output"
 msgstr ""
 
-#: TerminalDisplay.cpp:3110
+#: TerminalDisplay.cpp:3111
 #, kde-format
 msgid "^Z Suspend: Stops current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3113
+#: TerminalDisplay.cpp:3114
 #, kde-format
 msgid "ESC: Used for special commands to the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3116
+#: TerminalDisplay.cpp:3117
 #, kde-format
 msgid "Other unprintable character (\\x%1)"
 msgstr ""
 
-#: TerminalDisplay.cpp:3126
+#: TerminalDisplay.cpp:3127
 #, kde-format
 msgid ""
 "The text you're trying to paste contains hidden unprintable characters, do "
 "you want to filter them out?"
 msgstr ""
 
-#: TerminalDisplay.cpp:3129
+#: TerminalDisplay.cpp:3130
 #, kde-format
 msgctxt "@title"
 msgid "Filter"
 msgstr ""
 
-#: TerminalDisplay.cpp:3131
+#: TerminalDisplay.cpp:3132
 #, kde-format
 msgctxt "@action:button"
 msgid "&Remove unprintable"
 msgstr ""
 
-#: TerminalDisplay.cpp:3134
+#: TerminalDisplay.cpp:3135
 #, kde-format
 msgctxt "@action:button"
 msgid "Confirm &paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3137
+#: TerminalDisplay.cpp:3138
 #, kde-format
 msgctxt "@action:button"
 msgid "&Cancel paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3364
+#: TerminalDisplay.cpp:3365
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
@@ -3375,160 +3375,160 @@ msgid ""
 "b> to resume.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:3402
+#: TerminalDisplay.cpp:3403
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3697
+#: TerminalDisplay.cpp:3698
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: TerminalDisplay.cpp:3729
+#: TerminalDisplay.cpp:3730
 #, kde-format
 msgid "&Paste Location"
 msgstr ""
 
-#: ViewContainer.cpp:114
+#: ViewContainer.cpp:115
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Detach Tab"
 msgstr ""
 
-#: ViewContainer.cpp:121
+#: ViewContainer.cpp:122
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Rename Tab..."
 msgstr ""
 
-#: ViewContainer.cpp:128
+#: ViewContainer.cpp:129
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Tab"
 msgstr ""
 
-#: ViewManager.cpp:117
+#: ViewManager.cpp:116
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Left/Right"
 msgstr ""
 
-#: ViewManager.cpp:124
+#: ViewManager.cpp:123
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Split View Top/Bottom"
 msgstr ""
 
-#: ViewManager.cpp:130
+#: ViewManager.cpp:129
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Expand View"
 msgstr ""
 
-#: ViewManager.cpp:138
+#: ViewManager.cpp:137
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Shrink View"
 msgstr ""
 
-#: ViewManager.cpp:148
+#: ViewManager.cpp:147
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Detach Current &View"
 msgstr ""
 
-#: ViewManager.cpp:160
+#: ViewManager.cpp:159
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Detach Current &Tab"
 msgstr ""
 
-#: ViewManager.cpp:168
+#: ViewManager.cpp:167
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr ""
 
-#: ViewManager.cpp:176
+#: ViewManager.cpp:175
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr ""
 
-#: ViewManager.cpp:184
+#: ViewManager.cpp:183
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Above Terminal"
 msgstr ""
 
-#: ViewManager.cpp:191
+#: ViewManager.cpp:190
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Below Terminal"
 msgstr ""
 
-#: ViewManager.cpp:198
+#: ViewManager.cpp:197
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Left Terminal"
 msgstr ""
 
-#: ViewManager.cpp:204
+#: ViewManager.cpp:203
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Right Terminal"
 msgstr ""
 
-#: ViewManager.cpp:210
+#: ViewManager.cpp:209
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr ""
 
-#: ViewManager.cpp:215
+#: ViewManager.cpp:214
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Last Used Tabs"
 msgstr ""
 
-#: ViewManager.cpp:220
+#: ViewManager.cpp:219
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Toggle Between Two Tabs"
 msgstr ""
 
-#: ViewManager.cpp:225
+#: ViewManager.cpp:224
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Last Used Tabs (Reverse)"
 msgstr ""
 
-#: ViewManager.cpp:230
+#: ViewManager.cpp:229
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Maximize current Terminal"
 msgstr ""
 
-#: ViewManager.cpp:237
+#: ViewManager.cpp:236
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Restore other terminals"
 msgstr ""
 
-#: ViewManager.cpp:244
+#: ViewManager.cpp:243
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the right"
 msgstr ""
 
-#: ViewManager.cpp:251
+#: ViewManager.cpp:250
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the left"
 msgstr ""
 
-#: ViewManager.cpp:261
+#: ViewManager.cpp:260
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"

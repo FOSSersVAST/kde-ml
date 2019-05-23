@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kwordquiz trunk\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-15 03:16+0200\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:02+0200\n"
 "PO-Revision-Date: 2008-12-29 20:37-0500\n"
 "Last-Translator: Manu S Madhav | മനു എസ് മാധവ്<manusmad@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -276,8 +276,8 @@ msgid ""
 "<html>There are too few entries in your vocabulary.<br />You need at least "
 "one entry for a flashcard quiz.</html>"
 msgstr ""
-"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />ഫ്ലാഷ്‌കാര്‍ഡ് ക്വിസിനായി ഒരു എന്‍"
-"ട്രിയെങ്കിലും വേണം.</html>"
+"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />ഫ്ലാഷ്‌കാര്‍ഡ് ക്വിസിനായി ഒരു "
+"എന്‍ട്രിയെങ്കിലും വേണം.</html>"
 
 #: kwordquiz.cpp:114
 #, kde-format
@@ -1758,8 +1758,8 @@ msgid ""
 "<html>There are too few entries in your vocabulary.<br />You need at least "
 "three entries for a multiple choice quiz.</html>"
 msgstr ""
-"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി മൂന്നു് എന്‍"
-"ട്രികളെങ്കിലും വേണം.</html>"
+"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി മൂന്നു് "
+"എന്‍ട്രികളെങ്കിലും വേണം.</html>"
 
 #: prefcardappearance.cpp:78
 #, kde-format
@@ -2425,8 +2425,8 @@ msgid ""
 "<html>There are too few entries in your vocabulary.<br />You need at least "
 "one entry for a question and answer quiz.</html>"
 msgstr ""
-"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി ഒരു എന്‍"
-"ട്രിയെങ്കിലും വേണം.</html>"
+"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി ഒരു "
+"എന്‍ട്രിയെങ്കിലും വേണം.</html>"
 
 #: wqprintdialogpage.cpp:31
 #, kde-format
