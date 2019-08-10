@@ -1,0 +1,46 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/plasma/packagestructure/plasmatheme-packagestructure.json
+msgctxt "Name"
+msgid "Plasma Theme"
+msgstr ""
+
+#: src/plasma/packagestructure/plasmageneric-packagestructure.json
+msgctxt "Name"
+msgid "Generic"
+msgstr ""
+
+#: src/plasma/packagestructure/containmentactions-packagestructure.json
+msgctxt "Name"
+msgid "Containment Actions"
+msgstr ""
+
+#: src/plasma/packagestructure/dataengine-packagestructure.json
+msgctxt "Name"
+msgid "Data Engine"
+msgstr ""
+
+#: src/plasma/packagestructure/plasmoid-packagestructure.json
+msgctxt "Name"
+msgid "Plasmoid"
+msgstr ""
+
+#: src/plasma/packagestructure/plasmatheme-packagestructure.json
+#: src/plasma/packagestructure/plasmageneric-packagestructure.json
+#: src/plasma/packagestructure/containmentactions-packagestructure.json
+#: src/plasma/packagestructure/dataengine-packagestructure.json
+#: src/plasma/packagestructure/plasmoid-packagestructure.json
+msgctxt "Authors Name"
+msgid "Aaron Seigo"
+msgstr ""
