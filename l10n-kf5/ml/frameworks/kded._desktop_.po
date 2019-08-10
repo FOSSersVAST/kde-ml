@@ -102,8 +102,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "അസ്സാമീസ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Avestan"
 #~ msgctxt "Name"
 #~ msgid "Asturian"
 #~ msgstr "അവെസ്തന്‍"
@@ -665,15 +663,11 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "സെര്‍ബിയന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Serbian Latin"
 #~ msgctxt "Name"
 #~ msgid "Serbian Ijekavian"
 #~ msgstr "സെര്‍ബിയന്‍ ലത്തീന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Serbian Latin"
 #~ msgctxt "Name"
 #~ msgid "Serbian Ijekavian Latin"
 #~ msgstr "സെര്‍ബിയന്‍ ലത്തീന്‍"
@@ -755,8 +749,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "താഹിതിയന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Uighur"
 #~ msgctxt "Name"
 #~ msgid "Uyghur"
 #~ msgstr "ഉഗുര്‍"
@@ -834,8 +826,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "സുലു"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "English"
 #~ msgctxt "Name"
 #~ msgid "US English"
 #~ msgstr "ഇംഗ്ലീഷ്"
@@ -849,8 +839,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "സോണറ്റ് സ്പെല്‍ ക്ലയന്റ്"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "KDED Module"
 #~ msgctxt "Name"
 #~ msgid "KFileModule"
 #~ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
@@ -908,8 +896,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "കെഡിഇയിലെ ഡാറ്റയൊടൊപ്പമുപയോഗിയ്ക്കാനുള്ള ഉപകരണം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "KDED Module"
 #~ msgctxt "Comment"
 #~ msgid "KIO File Module"
 #~ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
@@ -935,8 +921,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "പുതുക്കിയ ബ്രൌസര്‍ സംയോജകം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Automatic Proxy Configuration"
 #~ msgctxt "Name"
 #~ msgid "Network Proxy Configuration"
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
@@ -946,8 +930,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Automatic Proxy Configuration"
 #~ msgctxt "Comment"
 #~ msgid "Network Proxy Configuration"
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
@@ -993,8 +975,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "പഴയവ മാറ്റി എച്ച്ടിടിപി കാഷ് വൃത്തിയാക്കുന്നു "
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KDED Cookie Jar Module"
 #~ msgctxt "Name"
 #~ msgid "Cookie Jar"
 #~ msgstr "കെഡിഇഡി കുക്കി ജാര്‍ മൊഡ്യൂള്‍"
@@ -1052,8 +1032,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "അഡിയം ഇമോട്ടിക്കോണ്‍ രംഗവിതാനം ഉപയോഗിയ്ക്കേണ്ട ലൈബ്രറി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Kde Emoticons Theme"
 #~ msgctxt "Name"
 #~ msgid "KDE Emoticons Theme"
 #~ msgstr "കെഡിഇ ഇമോട്ടിക്കോണ്‍ രംഗവിതാനം"
@@ -1083,8 +1061,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "കൂട്ടം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasma wallpaper"
 #~ msgctxt "Description"
 #~ msgid "A protocol for Plasma services"
 #~ msgstr "പ്ലാസ്മ ചുമര്‍ച്ചിത്രം"
@@ -1122,8 +1098,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "പ്ലാസ്മയ്ക്കുള്ള സ്ക്രിപ്റ്റിങ്ങ് ഭാഷാ എക്സ്റ്റന്‍ഷന്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasma wallpaper"
 #~ msgctxt "Comment"
 #~ msgid "Plasma service"
 #~ msgstr "പ്ലാസ്മ ചുമര്‍ച്ചിത്രം"
@@ -1174,8 +1148,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "എച്ച്സ്പെല്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "HSpell"
 #~ msgctxt "Name"
 #~ msgid "Hunspell"
 #~ msgstr "എച്ച്സ്പെല്‍"
@@ -1291,8 +1263,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ "രേഖപ്പെടുത്തുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Automatic Proxy Configuration"
 #~ msgctxt "Name"
 #~ msgid "AutoBrace Configuration"
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
@@ -1316,8 +1286,6 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ "നിലവിലുണ്ടെങ്കില്‍ ഉപയോഗിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Insert File"
 #~ msgctxt "Name"
 #~ msgid "IconInserter"
 #~ msgstr "ഫയല്‍ ചേര്‍ക്കുക"
@@ -1365,15 +1333,11 @@ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 #~ msgstr "വലന്‍ഷ്യന്‍ (തെക്കന്‍ കറ്റാലന്‍)"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Latin"
 #~ msgctxt "Name"
 #~ msgid "Long action"
 #~ msgstr "ലത്തീന്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasma applet"
 #~ msgctxt "Name"
 #~ msgid "Plasma"
 #~ msgstr "പ്ലാസ്മ ലഘുപ്രയോഗം"

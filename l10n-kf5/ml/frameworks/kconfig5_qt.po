@@ -492,21 +492,18 @@ msgstr ""
 
 #: kreadconfig/kreadconfig.cpp:56 kreadconfig/kwriteconfig.cpp:35
 #, fuzzy
-#| msgid "Use <file> instead of global config"
 msgctxt "main|"
 msgid "Use <file> instead of global config"
 msgstr "ഗ്ലോബല്‍ കോണ്‍ഫിഗിനു് പകരം <file> ഉപയോഗിക്കുക"
 
 #: kreadconfig/kreadconfig.cpp:57 kreadconfig/kwriteconfig.cpp:36
 #, fuzzy
-#| msgid "Group to look in. Use repeatedly for nested groups."
 msgctxt "main|"
 msgid "Group to look in. Use repeatedly for nested groups."
 msgstr "ഉള്ളില്‍ തിരയേണ്ട കൂട്ടങ്ങള്‍. നെസ്ടഡ് കൂട്ടങ്ങള്‍ക്കായ് വീണ്ടും വീണ്ടും ഉപയോഗിക്കുക."
 
 #: kreadconfig/kreadconfig.cpp:58 kreadconfig/kwriteconfig.cpp:37
 #, fuzzy
-#| msgid "Key to look for"
 msgctxt "main|"
 msgid "Key to look for"
 msgstr "തിരയേണ്ട സൂചന"
@@ -523,9 +520,6 @@ msgstr ""
 
 #: kreadconfig/kwriteconfig.cpp:38
 #, fuzzy
-#| msgid ""
-#| "Type of variable. Use \"bool\" for a boolean, otherwise it is treated as "
-#| "a string"
 msgctxt "main|"
 msgid ""
 "Type of variable. Use \"bool\" for a boolean, otherwise it is treated as a "
@@ -536,7 +530,6 @@ msgstr ""
 
 #: kreadconfig/kwriteconfig.cpp:39
 #, fuzzy
-#| msgid "The value to write. Mandatory, on a shell use '' for empty"
 msgctxt "main|"
 msgid "The value to write. Mandatory, on a shell use '' for empty"
 msgstr "എഴുതേണ്ട വില (അക്കം). നിര്‍ബന്ധമാണു്‌, ഷെല്ലില്‍ ശൂന്യത്തിനു് '' ഉപയോഗിയ്ക്കുക"

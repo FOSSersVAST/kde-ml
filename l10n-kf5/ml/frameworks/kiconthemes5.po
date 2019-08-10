@@ -106,7 +106,6 @@ msgstr ""
 
 #: kicondialog.cpp:605
 #, fuzzy, kde-format
-#| msgid "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 msgid ""
 "*.ico *.png *.xpm *.svg *.svgz|Icon Files (*.ico *.png *.xpm *.svg *.svgz)"
 msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
@@ -210,12 +209,10 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "വിശദമായ കാഴ്ച"
 
 #, fuzzy
-#~| msgid "Detailed View"
 #~ msgid "Tree View"
 #~ msgstr "വിശദമായ കാഴ്ച"
 
 #, fuzzy
-#~| msgid "Detailed View"
 #~ msgid "Detailed Tree View"
 #~ msgstr "വിശദമായ കാഴ്ച"
 
@@ -223,7 +220,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "അദൃശ്യമായ ഫയലുകള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show Preview"
 #~ msgid "Show Aside Preview"
 #~ msgstr "അച്ചടിക്കുന്നതിനുമുമ്പ് കണ്ടുനോക്കുക"
 
@@ -234,7 +230,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "&കാഴ്ച"
 
 #, fuzzy
-#~| msgid "New Folder"
 #~ msgctxt "folder name"
 #~ msgid "New Folder"
 #~ msgstr "പുതിയ ഫോള്‍ഡര്‍"
@@ -256,13 +251,11 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "പുതിയ ഫോള്‍ഡര്‍..."
 
 #, fuzzy
-#~| msgid "Move to Trash"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Move to Trash"
 #~ msgstr "ചവറ്റുകുട്ടയിലേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Delete"
 #~ msgstr "വെട്ടിമാറ്റുക"
@@ -272,12 +265,10 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "അദൃശ്യമായ ഫോള്‍ഡറുകള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "No Files"
 #~ msgid "All Files"
 #~ msgstr "ഫയലുകള്‍ ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Edit Places Entry"
 #~ msgid "Add Places Entry"
 #~ msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക"
 
@@ -291,32 +282,26 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "ഈ പ്രയോഗം ഉപയോഗിക്കുമ്പോള്‍ &മാത്രം കാണിക്കുക (%1)"
 
 #, fuzzy
-#~| msgctxt "Home Directory"
-#~| msgid "Home"
 #~ msgctxt "KFile System Bookmarks"
 #~ msgid "Home"
 #~ msgstr "ഹോം"
 
 #, fuzzy
-#~| msgid "Network"
 #~ msgctxt "KFile System Bookmarks"
 #~ msgid "Network"
 #~ msgstr "നെറ്റ്‌വര്‍ക്ക്"
 
 #, fuzzy
-#~| msgid "Root"
 #~ msgctxt "KFile System Bookmarks"
 #~ msgid "Root"
 #~ msgstr "റൂട്ട്"
 
 #, fuzzy
-#~| msgid "Trash"
 #~ msgctxt "KFile System Bookmarks"
 #~ msgid "Trash"
 #~ msgstr "ചവറ്റുകുട്ട"
 
 #, fuzzy
-#~| msgid "&Safely Remove '%1'"
 #~ msgid "&Release '%1'"
 #~ msgstr "'%1' &സുരക്ഷിതമായി നീക്കം ചെയ്യുക"
 
@@ -333,7 +318,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "'%1' ലഭ്യമാക്കുമ്പോള്‍ ഒരു പിശകു് സംഭവിച്ചിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "&Safely Remove '%1'"
 #~ msgid "&Remove Entry '%1'"
 #~ msgstr "'%1' &സുരക്ഷിതമായി നീക്കം ചെയ്യുക"
 
@@ -341,17 +325,14 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "അദൃശ്യമായ ഫോള്‍ഡറുകള്‍ കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Could not delete file %1."
 #~ msgid "You can only select one file"
 #~ msgstr "%1 ഫയല്‍ വെട്ടിമാറ്റുവാനായില്ല."
 
 #, fuzzy
-#~| msgid "You did not select a file to trash."
 #~ msgid "You can only select local files"
 #~ msgstr "ചവറ്റുകുട്ടയിലിടാനുള്ള ഫയല്‍ നിങ്ങള്‍ തിരഞ്ഞെടുത്തിട്ടില്ല."
 
 #, fuzzy
-#~| msgid "%1 is a file, but a folder was expected."
 #~ msgid "Files and folders selected"
 #~ msgstr "പ്രതീക്ഷിച്ചതു് ഒരു ഫോള്‍ഡറായിരുന്നു, എന്നാല്‍ %1 ഒരു ഫയലാണു്."
 
@@ -359,45 +340,35 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "ഇതാണു് തുറക്കുവാനുള്ള ഫയല്‍."
 
 #, fuzzy
-#~| msgid "O&verwrite All"
 #~ msgid "Overwrite File?"
 #~ msgstr "എല്ലാം മാറ്റി&യെഴുതുക"
 
 #, fuzzy
-#~| msgid "The file or folder %1 does not exist."
 #~ msgid "<qt>The template file <b>%1</b> does not exist.</qt>"
 #~ msgstr "%1 ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലില്ല."
 
 #, fuzzy
-#~| msgctxt "@title job"
-#~| msgid "Creating directory"
 #~ msgctxt "@action:button"
 #~ msgid "Create directory"
 #~ msgstr "ഡയറക്ടി ഉണ്ടാക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "@title job"
-#~| msgid "Creating directory"
 #~ msgid "Create hidden directory?"
 #~ msgstr "ഡയറക്ടി ഉണ്ടാക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Detailed View"
 #~ msgid "Create link to URL"
 #~ msgstr "വിശദമായ കാഴ്ച"
 
 #, fuzzy
-#~| msgid "Detailed View"
 #~ msgid "Create New"
 #~ msgstr "വിശദമായ കാഴ്ച"
 
 #, fuzzy
-#~| msgid "Device"
 #~ msgid "Link to Device"
 #~ msgstr "ഡിവൈസ്"
 
 #, fuzzy
-#~| msgid "New Folder"
 #~ msgctxt "Default name for a new folder"
 #~ msgid "New Folder"
 #~ msgstr "പുതിയ ഫോള്‍ഡര്‍"
@@ -419,7 +390,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "മാറ്റം വരുത്തുക"
 
 #, fuzzy
-#~| msgid "Device"
 #~ msgctxt "@item:inmenu"
 #~ msgid "Devices"
 #~ msgstr "ഡിവൈസ്"
@@ -428,12 +398,10 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "സ്ഥാനത്തില്‍ മാറ്റം വരുത്തുന്നതിനായി ക്ലിക്കു് ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Writing to %1 is not supported."
 #~ msgid "mounting is not supported by wince."
 #~ msgstr "%1-ലേക്ക് എഴുതുന്നതിനെ പിന്താങ്ങുന്നില്ല."
 
 #, fuzzy
-#~| msgid "Writing to %1 is not supported."
 #~ msgid "unmounting is not supported by wince."
 #~ msgstr "%1-ലേക്ക് എഴുതുന്നതിനെ പിന്താങ്ങുന്നില്ല."
 
@@ -441,7 +409,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "<b>%1</b>"
 
 #, fuzzy
-#~| msgid "An error occurred while accessing '%1'"
 #~ msgctxt "%1: code, %2: request type"
 #~ msgid "An unexpected error (%1) occurred while attempting to %2."
 #~ msgstr "'%1' ലഭ്യമാക്കുമ്പോള്‍ ഒരു പിശകു് സംഭവിച്ചിരിക്കുന്നു"
@@ -462,9 +429,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "x"
 
 #, fuzzy
-#~| msgctxt "Items in a folder"
-#~| msgid "1 item"
-#~| msgid_plural "%1 items"
 #~ msgctxt "@item:intable"
 #~ msgid "%1 item"
 #~ msgid_plural "%1 items"
@@ -472,205 +436,169 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr[1] "%1 വസ്തുക്കള്‍"
 
 #, fuzzy
-#~| msgid "modified on %1"
 #~ msgctxt "@label"
 #~ msgid "Modified"
 #~ msgstr "%1-ല്‍ മാറ്റം വരുത്തിയിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Sorting"
 #~ msgctxt "@label"
 #~ msgid "Rating"
 #~ msgstr "ക്രമത്തിലാക്കുക"
 
 #, fuzzy
-#~| msgid "By Size"
 #~ msgctxt "@label"
 #~ msgid "Size"
 #~ msgstr "വലിപ്പമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "Trash"
 #~ msgctxt "@label"
 #~ msgid "Tags"
 #~ msgstr "ചവറ്റുകുട്ട"
 
 #, fuzzy
-#~| msgid "By Size"
 #~ msgctxt "@label"
 #~ msgid "Total Size"
 #~ msgstr "വലിപ്പമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "By Type"
 #~ msgctxt "@label"
 #~ msgid "Type"
 #~ msgstr "തരമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "Information"
 #~ msgctxt "@title:tab"
 #~ msgid "Information"
 #~ msgstr "വിവരം"
 
 #, fuzzy
-#~| msgid "Detailed View"
 #~ msgctxt "@label creation date"
 #~ msgid "Created"
 #~ msgstr "വിശദമായ കാഴ്ച"
 
 #, fuzzy
-#~| msgid "By Size"
 #~ msgctxt "@label file content size"
 #~ msgid "Size"
 #~ msgstr "വലിപ്പമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "Destination"
 #~ msgctxt "@label"
 #~ msgid "Description"
 #~ msgstr "ലക്ഷ്യസ്ഥാനം"
 
 #, fuzzy
-#~| msgid "Directory"
 #~ msgctxt "@label Software used to generate content"
 #~ msgid "Generator"
 #~ msgstr "ഡയറക്ടറി"
 
 #, fuzzy
-#~| msgid "Parent Folder"
 #~ msgctxt "@label parent directory"
 #~ msgid "Part of"
 #~ msgstr "പേരന്റ് ഫോള്‍ഡര്‍"
 
 #, fuzzy
-#~| msgid "modified on %1"
 #~ msgctxt "@label modified date of file"
 #~ msgid "Modified"
 #~ msgstr "%1-ല്‍ മാറ്റം വരുത്തിയിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "By Type"
 #~ msgctxt "@label"
 #~ msgid "MIME Type"
 #~ msgstr "തരമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "C&onnect"
 #~ msgctxt "@label"
 #~ msgid "Content"
 #~ msgstr "ബ&ന്ധിക്കുക"
 
 #, fuzzy
-#~| msgid "created on %1"
 #~ msgctxt "@label"
 #~ msgid "Related To"
 #~ msgstr "%1 തയ്യാറാക്കിയിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "File"
 #~ msgctxt "@label music title"
 #~ msgid "Title"
 #~ msgstr "ഫയല്‍"
 
 #, fuzzy
-#~| msgid "Information"
 #~ msgctxt "@label file URL"
 #~ msgid "Location"
 #~ msgstr "വിവരം"
 
 #, fuzzy
-#~| msgid "Directory"
 #~ msgctxt "@label"
 #~ msgid "Creator"
 #~ msgstr "ഡയറക്ടറി"
 
 #, fuzzy
-#~| msgid "C&onnect"
 #~ msgctxt "@label"
 #~ msgid "Codec"
 #~ msgstr "ബ&ന്ധിക്കുക"
 
 #, fuzzy
-#~| msgid "Destination"
 #~ msgctxt "@label"
 #~ msgid "Duration"
 #~ msgstr "ലക്ഷ്യസ്ഥാനം"
 
 #, fuzzy
-#~| msgid "&Rename"
 #~ msgctxt "@label"
 #~ msgid "Filename"
 #~ msgstr "&പേരു് മാറ്റുക"
 
 #, fuzzy
-#~| msgid "Destination"
 #~ msgctxt "@label EXIF"
 #~ msgid "Orientation"
 #~ msgstr "ലക്ഷ്യസ്ഥാനം"
 
 #, fuzzy
-#~| msgid "Directory"
 #~ msgctxt "@label video director"
 #~ msgid "Director"
 #~ msgstr "ഡയറക്ടറി"
 
 #, fuzzy
-#~| msgid "&Safely Remove '%1'"
 #~ msgctxt "@label"
 #~ msgid "Release Date"
 #~ msgstr "'%1' &സുരക്ഷിതമായി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Detailed View"
 #~ msgctxt "@label resource created time"
 #~ msgid "Resource Created"
 #~ msgstr "വിശദമായ കാഴ്ച"
 
 #, fuzzy
-#~| msgid "Source"
 #~ msgctxt "@label"
 #~ msgid "Sub Resource"
 #~ msgstr "ശ്രോതസ്സ്"
 
 #, fuzzy
-#~| msgid "modified on %1"
 #~ msgctxt "@label resource last modified"
 #~ msgid "Resource Modified"
 #~ msgstr "%1-ല്‍ മാറ്റം വരുത്തിയിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Sorting"
 #~ msgctxt "@label"
 #~ msgid "Numeric Rating"
 #~ msgstr "ക്രമത്തിലാക്കുക"
 
 #, fuzzy
-#~| msgid "By Type"
 #~ msgctxt "@label file type"
 #~ msgid "Type"
 #~ msgstr "തരമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "Trash File"
 #~ msgctxt "@label Number of translated strings"
 #~ msgid "Translated"
 #~ msgstr "ഫയല്‍ ചവറ്റുകുട്ടയിലിടുക"
 
 #, fuzzy
-#~| msgid "Detailed View"
 #~ msgid "Create New File Type"
 #~ msgstr "വിശദമായ കാഴ്ച"
 
 #, fuzzy
-#~| msgid "Device"
 #~ msgid "Device usage:"
 #~ msgstr "ഡിവൈസ്"
 
 #, fuzzy
-#~| msgid ""
-#~| "Unknown error\n"
-#~| "%1"
 #~ msgid "Unknown HTTP verb."
 #~ msgstr ""
 #~ "അപരിചിതമായ പിശകു്\n"
@@ -692,13 +620,11 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "ഡയറക്ടറി"
 
 #, fuzzy
-#~| msgid "Source"
 #~ msgctxt "The source of a file operation"
 #~ msgid "Source"
 #~ msgstr "ശ്രോതസ്സ്"
 
 #, fuzzy
-#~| msgid "Destination"
 #~ msgctxt "The destination of a file operation"
 #~ msgid "Destination"
 #~ msgstr "ലക്ഷ്യസ്ഥാനം"
@@ -707,8 +633,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "ഫയല്‍"
 
 #, fuzzy
-#~| msgid "&Paste File"
-#~| msgid_plural "&Paste %1 Files"
 #~ msgid "Und&o: Create File"
 #~ msgstr "ഫയല്‍ &ഒട്ടിക്കുക"
 
@@ -733,26 +657,21 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr[1] "%1 ഫയലുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Items (Folders, Files)"
-#~| msgid "%1 (%2, %3)"
 #~ msgctxt "folders, files (size)"
 #~ msgid "%1, %2 (%3)"
 #~ msgstr "%1 (%2, %3)"
 
 #, fuzzy
-#~| msgid "%1 (%2)"
 #~ msgctxt "folders, files"
 #~ msgid "%1, %2"
 #~ msgstr "%1 (%2)"
 
 #, fuzzy
-#~| msgid "%1 (%2)"
 #~ msgctxt "files (size)"
 #~ msgid "%1 (%2)"
 #~ msgstr "%1 (%2)"
 
 #, fuzzy
-#~| msgid "%1 (%2)"
 #~ msgctxt "items: folders, files (size)"
 #~ msgid "%1: %2"
 #~ msgstr "%1 (%2)"
@@ -1324,21 +1243,16 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "തു&ടരുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "This action would overwrite '%1' with itself.\n"
-#~| "Please enter a new file name:"
 #~ msgid "This action will overwrite the destination."
 #~ msgstr ""
 #~ "ഇങ്ങനെ ചെയ്താല്‍ '%1' ഉപയോഗിച്ചു തന്നെ അതിനെ മാറ്റിയെഴുതുന്നു.\n"
 #~ "ദയവായി ഫയലിനു് പുതിയ പേരു് നല്‍കുക:"
 
 #, fuzzy
-#~| msgid "Source"
 #~ msgid "Source"
 #~ msgstr "ശ്രോതസ്സ്"
 
 #, fuzzy
-#~| msgid "Destination"
 #~ msgid "Destination"
 #~ msgstr "ലക്ഷ്യസ്ഥാനം"
 
@@ -1349,12 +1263,10 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "'%1' എന്ന പേരില്‍ മറ്റൊരു വസ്തു നിലവിലുണ്ടു്."
 
 #, fuzzy
-#~| msgid "An older item named '%1' already exists."
 #~ msgid "A more recent item named '%1' already exists."
 #~ msgstr "'%1' എന്ന പേരില്‍ പഴയൊരു വസ്തു നിലവിലുണ്ടു്."
 
 #, fuzzy
-#~| msgid "&Rename"
 #~ msgid "Rename:"
 #~ msgstr "&പേരു് മാറ്റുക"
 
@@ -1377,7 +1289,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "തു&ടരുക"
 
 #, fuzzy
-#~| msgid "&Current Sessions Only"
 #~ msgid "&Current Session only"
 #~ msgstr "&നിലവിലുള്ള സെഷനുകള്‍ക്കു് മാത്രം"
 
@@ -1400,45 +1311,36 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "സര്‍വര്‍ ഉറപ്പാക്കല്‍"
 
 #, fuzzy
-#~| msgid "SSL Certificate Password"
 #~ msgid "System certificates"
 #~ msgstr "എസ്എസ്എല്‍ സര്‍ട്ടിഫിക്കേറ്റ് പാസ്‌വേര്‍ഡ്"
 
 #, fuzzy
-#~| msgid "SSL Certificate Password"
 #~ msgid "Pick Certificates"
 #~ msgstr "എസ്എസ്എല്‍ സര്‍ട്ടിഫിക്കേറ്റ് പാസ്‌വേര്‍ഡ്"
 
 #, fuzzy
-#~| msgid "Security Information"
 #~ msgid "<b>Subject Information</b>"
 #~ msgstr "സുരക്ഷാ വിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "<b>Possible solutions</b>:"
 #~ msgid "<b>Issuer Information</b>"
 #~ msgstr "<b>സാധ്യതയുള്ള ഉത്തരങ്ങള്‍</b>:"
 
 #, fuzzy
-#~| msgid "<b>%1</b>"
 #~ msgid "<b>Other</b>"
 #~ msgstr "<b>%1</b>"
 
 #, fuzzy
-#~| msgid "%1 (%2)"
 #~ msgctxt "%1 is the effective date of the certificate, %2 is the expiry date"
 #~ msgid "%1 to %2"
 #~ msgstr "%1 (%2)"
 
 #, fuzzy
-#~| msgctxt "Items (Folders, Files)"
-#~| msgid "%1 (%2, %3)"
 #~ msgctxt "%1, using %2 bits of a %3 bit key"
 #~ msgid "%1, %2 %3"
 #~ msgstr "%1 (%2, %3)"
 
 #, fuzzy
-#~| msgid "&Yes"
 #~ msgctxt "The certificate is trusted"
 #~ msgid "Yes"
 #~ msgstr "&ഉവ്വു്"
@@ -1447,12 +1349,10 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "[padlock]"
 
 #, fuzzy
-#~| msgid "SSL Certificate Password"
 #~ msgid "Certificate chain:"
 #~ msgstr "എസ്എസ്എല്‍ സര്‍ട്ടിഫിക്കേറ്റ് പാസ്‌വേര്‍ഡ്"
 
 #, fuzzy
-#~| msgid "Edit Places Entry"
 #~ msgid "Edit file type"
 #~ msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക"
 
@@ -1460,67 +1360,53 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "'%1' എന്ന പേരില്‍ പുതിയൊരു വസ്തു നിലവിലുണ്ടു്."
 
 #, fuzzy
-#~| msgid "By Size"
 #~ msgctxt "@label"
 #~ msgid "Size:"
 #~ msgstr "വലിപ്പമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "By Type"
 #~ msgctxt "@label file type"
 #~ msgid "Type:"
 #~ msgstr "തരമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "modified on %1"
 #~ msgctxt "@label"
 #~ msgid "Modified:"
 #~ msgstr "%1-ല്‍ മാറ്റം വരുത്തിയിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "By Type"
 #~ msgctxt "@item::inlistbox"
 #~ msgid "Type"
 #~ msgstr "തരമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "By Size"
 #~ msgctxt "@item::inlistbox"
 #~ msgid "Size"
 #~ msgstr "വലിപ്പമനുസരിച്ചു്"
 
 #, fuzzy
-#~| msgid "modified on %1"
 #~ msgctxt "@item::inlistbox"
 #~ msgid "Modified"
 #~ msgstr "%1-ല്‍ മാറ്റം വരുത്തിയിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgid ""
-#~| "This action would overwrite '%1' with itself.\n"
-#~| "Please enter a new file name:"
 #~ msgid "This action will overwrite '%1' with a newer file '%2'."
 #~ msgstr ""
 #~ "ഇങ്ങനെ ചെയ്താല്‍ '%1' ഉപയോഗിച്ചു തന്നെ അതിനെ മാറ്റിയെഴുതുന്നു.\n"
 #~ "ദയവായി ഫയലിനു് പുതിയ പേരു് നല്‍കുക:"
 
 #, fuzzy
-#~| msgid ""
-#~| "This action would overwrite '%1' with itself.\n"
-#~| "Please enter a new file name:"
 #~ msgid "This action will overwrite '%1' with a file of the same age '%2'."
 #~ msgstr ""
 #~ "ഇങ്ങനെ ചെയ്താല്‍ '%1' ഉപയോഗിച്ചു തന്നെ അതിനെ മാറ്റിയെഴുതുന്നു.\n"
 #~ "ദയവായി ഫയലിനു് പുതിയ പേരു് നല്‍കുക:"
 
 #, fuzzy
-#~| msgid "No Folders"
 #~ msgctxt "@label"
 #~ msgid "Folder"
 #~ msgstr "ഫോള്‍ഡറുകള്‍ ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "%1 (%2)"
 #~ msgid "size %1 (%2)"
 #~ msgstr "%1 (%2)"
 
@@ -1531,44 +1417,36 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "'%1' ആണു് ശ്രോതസ്സ് ഫയല്‍"
 
 #, fuzzy
-#~| msgid "Move to Trash"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Move to trash"
 #~ msgstr "ചവറ്റുകുട്ടയിലേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Do you really want to delete this item?"
-#~| msgid_plural "Do you really want to delete these %1 items?"
 #~ msgctxt "@info"
 #~ msgid "Do you really want to empty the trash? All items will be deleted."
 #~ msgstr "നിങ്ങള്‍ക്കു് ഈ വസ്തു വെട്ടിമാറ്റണമോ?"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@info"
 #~ msgid "Delete tag"
 #~ msgstr "വെട്ടിമാറ്റുക"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@title"
 #~ msgid "Delete tag"
 #~ msgstr "വെട്ടിമാറ്റുക"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@action:button"
 #~ msgid "Delete"
 #~ msgstr "വെട്ടിമാറ്റുക"
 
 #, fuzzy
-#~| msgid "O&verwrite All"
 #~ msgctxt "Write files into any existing directory"
 #~ msgid "&Write Into All"
 #~ msgstr "എല്ലാം മാറ്റി&യെഴുതുക"
 
 #, fuzzy
-#~| msgid "O&verwrite All"
 #~ msgid "&Overwrite All"
 #~ msgstr "എല്ലാം മാറ്റി&യെഴുതുക"
 
@@ -1579,7 +1457,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "വലിപ്പം %1"
 
 #, fuzzy
-#~| msgid "No Items"
 #~ msgid "0 Items"
 #~ msgstr "വസ്തുക്കള്‍ ലഭ്യമല്ല"
 
@@ -1606,7 +1483,6 @@ msgstr "*.png *.xpm *.svg *.svgz|Icon Files (*.png *.xpm *.svg *.svgz)"
 #~ msgstr "%1 (%2, %3), %4"
 
 #, fuzzy
-#~| msgid "Parent Folder"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Parent Folder"
 #~ msgstr "പേരന്റ് ഫോള്‍ഡര്‍"

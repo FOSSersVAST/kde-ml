@@ -44,8 +44,6 @@ msgstr ""
 
 #: src/ioslaves/protocols/data.protocol:8
 #, fuzzy
-#| msgctxt "Description"
-#| msgid "A kioslave for sftp"
 msgctxt "Description"
 msgid "A kioslave for data URIs (rfc2397)"
 msgstr "എസ്എഫ്‌ടിപിയ്ക്കുള്ള കിയൊസ്ലേവു്"
@@ -67,8 +65,6 @@ msgstr "ശൃംഖലയിലുള്ള അറകളുടെ മാറ്�
 
 #: src/ioslaves/telnet/ktelnetservice5.desktop:10
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Services"
 msgctxt "Name"
 msgid "KTelnetService"
 msgstr "സേവനങ്ങള്‍"
@@ -91,8 +87,6 @@ msgstr "ട്രാഷ് സജ്ജീകരണങ്ങള്‍ ക്ര�
 
 #: src/ioslaves/trash/kcmtrash.desktop:329
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Trash"
 msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "ചവറ്റുകുട്ട"
@@ -104,8 +98,6 @@ msgstr "കാഷ്"
 
 #: src/kcms/kio/cache.desktop:102
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure trash settings"
 msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "ട്രാഷ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
@@ -117,8 +109,6 @@ msgstr ""
 
 #: src/kcms/kio/cookies.desktop:15
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cookies"
 msgctxt "Name"
 msgid "Cookies"
 msgstr "കുക്കികള്‍"
@@ -199,24 +189,18 @@ msgstr "യുഎവിവരണം (വിന്‍ഡോസ് എക്സ്
 
 #: src/kcms/kio/uasproviders/chrome22oncurrent.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Google Chrome 5.0)"
 msgctxt "Name"
 msgid "UADescription (Google Chrome 22.0)"
 msgstr "യുഎവിവരണം (ഗൂഗിള്‍ ക്രോം 5.0)"
 
 #: src/kcms/kio/uasproviders/chrome23oncurrent.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Google Chrome 5.0)"
 msgctxt "Name"
 msgid "UADescription (Google Chrome 23.0)"
 msgstr "യുഎവിവരണം (ഗൂഗിള്‍ ക്രോം 5.0)"
 
 #: src/kcms/kio/uasproviders/chrome24oncurrent.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Google Chrome 5.0)"
 msgctxt "Name"
 msgid "UADescription (Google Chrome 24.0)"
 msgstr "യുഎവിവരണം (ഗൂഗിള്‍ ക്രോം 5.0)"
@@ -228,24 +212,18 @@ msgstr "യുഎവിവരണം (ഗൂഗിള്‍ ക്രോം 5.0)"
 
 #: src/kcms/kio/uasproviders/chrome570oncurrent.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Google Chrome 5.0)"
 msgctxt "Name"
 msgid "UADescription (Google Chrome 57.0)"
 msgstr "യുഎവിവരണം (ഗൂഗിള്‍ ക്രോം 5.0)"
 
 #: src/kcms/kio/uasproviders/firefox15oncurrent.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 2.0 on current)"
 msgctxt "Name"
 msgid "UADescription (Firefox 15 on current)"
 msgstr "യുഎവിവരണം (ഇപ്പോഴത്തേതില്‍ ഫയര്‍ഫോക്സ് 2.0)"
 
 #: src/kcms/kio/uasproviders/firefox16oncurrent.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 3.6 on current)"
 msgctxt "Name"
 msgid "UADescription (Firefox 16 on current)"
 msgstr "യുഎവിവരണം (ഇപ്പോഴത്തേതില്‍ ഫയര്‍ഫോക്സ് 3.6)"
@@ -267,8 +245,6 @@ msgstr "യുഎവിവരണം (ഇപ്പോഴത്തേതില്�
 
 #: src/kcms/kio/uasproviders/firefox520oncurrent.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Firefox 2.0 on current)"
 msgctxt "Name"
 msgid "UADescription (Firefox 52.0 on current)"
 msgstr "യുഎവിവരണം (ഇപ്പോഴത്തേതില്‍ ഫയര്‍ഫോക്സ് 2.0)"
@@ -310,16 +286,12 @@ msgstr "യുഎവിവരണം (വിന്‍ എക്സ്പിയി
 
 #: src/kcms/kio/uasproviders/ie80onwinnt60.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (IE 6.0 on Win XP)"
 msgctxt "Name"
 msgid "UADescription (IE 8.0 on Windows Vista)"
 msgstr "യുഎവിവരണം (വിന്‍ എക്സ്പിയിലെ ഐഇ 6.0)"
 
 #: src/kcms/kio/uasproviders/ie90onwinnt71.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (IE 6.0 on Win XP)"
 msgctxt "Name"
 msgid "UADescription (IE 9.0 on Windows Seven)"
 msgstr "യുഎവിവരണം (വിന്‍ എക്സ്പിയിലെ ഐഇ 6.0)"
@@ -356,16 +328,12 @@ msgstr "യുഎവിവരണം (എക്സ്പിയിലെ നെറ
 
 #: src/kcms/kio/uasproviders/op1162oncurrent.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Opera 9.62 on current)"
 msgctxt "Name"
 msgid "UADescription (Opera 11.62 on current)"
 msgstr "യുഎവിവരണം (ഇപ്പോഴത്തേതില്‍ ഓപെറ 9.62)"
 
 #: src/kcms/kio/uasproviders/op1202oncurrent.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Opera 9.62 on current)"
 msgctxt "Name"
 msgid "UADescription (Opera 12.02 on current)"
 msgstr "യുഎവിവരണം (ഇപ്പോഴത്തേതില്‍ ഓപെറ 9.62)"
@@ -412,16 +380,12 @@ msgstr "യുഎവിവരണം (മാക്ഒഎസ് എക്സില
 
 #: src/kcms/kio/uasproviders/safari517.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 2.0 on MacOS X)"
 msgctxt "Name"
 msgid "UADescription (Safari 5.1.7 on MacOS X)"
 msgstr "യുഎവിവരണം (മാക്ഒഎസ് എക്സിലെ സഫാരി 2.0)"
 
 #: src/kcms/kio/uasproviders/safari60.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "UADescription (Safari 2.0 on MacOS X)"
 msgctxt "Name"
 msgid "UADescription (Safari 6.0 on MacOS X)"
 msgstr "യുഎവിവരണം (മാക്ഒഎസ് എക്സിലെ സഫാരി 2.0)"
@@ -458,8 +422,6 @@ msgstr "വെബിലെ കുറക്കുവഴികള്‍"
 
 #: src/kcms/webshortcuts/webshortcuts.desktop:100
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Configure web cache settings"
 msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "വെബിലെ അടുത്തുപയോഗിച്ച താളുകള്‍ക്കുള്ള സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കുക"
@@ -473,8 +435,6 @@ msgstr ""
 
 #: src/kpac/proxyscout.notifyrc:3
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Nepomuk/Strigi Server Configuration"
 msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "നെപ്പോമുക്ക്/സ്ട്രിഗി സെര്‍വര്‍ ക്രമീകരണം"
@@ -506,8 +466,6 @@ msgstr ""
 
 #: src/kpac/proxyscout.notifyrc:300
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "There was a serious error causing the program to exit"
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "ഗുരുതരമായ പ്രശ്നം ഈ പ്രോഗ്രാം നിര്‍ത്താന്‍ കാരണമായി"
@@ -584,8 +542,6 @@ msgstr "7ഡിജിറ്റല്‍"
 
 #: src/urifilters/ikws/searchproviders/7digital.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.iblist.com/search/search.php?item=\\\\{@}&submit=Search"
 msgctxt "Query"
 msgid ""
 "https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
@@ -599,26 +555,18 @@ msgstr "അക്രോണിം ഡേറ്റാബെയിസ്"
 
 #: src/urifilters/ikws/searchproviders/acronym.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.dict.cc/?s=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.abbreviations.com/\\\\{@}"
 msgstr "http://www.dict.cc/?s=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/amazon.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Oman"
 msgctxt "Name"
 msgid "Amazon"
 msgstr "ഒമാന്‍"
 
 #: src/urifilters/ikws/searchproviders/amazon.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-"
-#| "music&field-keywords=\\\\{@}&x=0&y=0"
 msgctxt "Query"
 msgid ""
 "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords="
@@ -634,10 +582,6 @@ msgstr "ആമസോണ്‍ എംപി3"
 
 #: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-"
-#| "music&field-keywords=\\\\{@}&x=0&y=0"
 msgctxt "Query"
 msgid ""
 "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
@@ -653,24 +597,18 @@ msgstr "എല്ലാ സംഗീതത്തിനുമുള്ള സഹ�
 
 #: src/urifilters/ikws/searchproviders/amg.desktop:90
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.jamendo.com/en/search/all/\\\\{@}"
 msgctxt "Query"
 msgid "https://www.allmusic.com/search/all/\\\\{@}"
 msgstr "http://www.jamendo.com/en/search/all/\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/archpkg.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Debian Package Search"
 msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "ഡെബിയന്‍ പാക്കേജുകള്‍ക്കുള്ള തെരയുക"
 
 #: src/urifilters/ikws/searchproviders/archpkg.desktop:43
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.backports.org/package.php?search=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr "http://www.backports.org/package.php?search=\\\\{@}"
@@ -694,8 +632,6 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/baidu.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.dict.cc/?s=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.baidu.com/s?wd=\\\\{@}"
 msgstr "http://www.dict.cc/?s=\\\\{@}"
@@ -707,11 +643,6 @@ msgstr "ബിയോലിങ്കസ് ഓണ്‍ലൈന്‍ നിഘ�
 
 #: src/urifilters/ikws/searchproviders/beolingus.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://dict.tu-chemnitz.de/dings.cgi?"
-#| "lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
-#| "&iservice=&comment=&email"
 msgctxt "Query"
 msgid ""
 "https://dict.tu-chemnitz.de/dings.cgi?"
@@ -724,16 +655,12 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/bing.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Benin"
 msgctxt "Name"
 msgid "Bing"
 msgstr "ബെനിന്‍"
 
 #: src/urifilters/ikws/searchproviders/bing.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.flickr.com/search/?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.bing.com/search?q=\\\\{@}"
 msgstr "http://www.flickr.com/search/?q=\\\\{@}"
@@ -745,8 +672,6 @@ msgstr "കെഡിഇയുടെ പിഴവുകളുടെ ഡാറ്�
 
 #: src/urifilters/ikws/searchproviders/bugft.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr "http://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -768,8 +693,6 @@ msgstr "QRZ.com ലെ കാള്‍സൈനുകളുടെ ഡാറ്�
 
 #: src/urifilters/ikws/searchproviders/call.desktop:90
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.dict.cc/?s=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.qrz.com/db/\\\\{@}"
 msgstr "http://www.dict.cc/?s=\\\\{@}"
@@ -794,9 +717,6 @@ msgstr "സൈറ്റ്സിയര്‍: ശാസ്ത്രസാഹി�
 
 #: src/urifilters/ikws/searchproviders/citeseer.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://citeseer.ist.psu.edu/cs?q=\\\\{@}&submit=Search+Documents&cs=1"
 msgctxt "Query"
 msgid ""
 "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
@@ -809,10 +729,6 @@ msgstr "സിപാന്‍ - അനേകം വിഷയങ്ങളടങ�
 
 #: src/urifilters/ikws/searchproviders/cpan.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://search.cpan.org/search?mode=\\\\{mode,2,\"dist\"}&query=\\\\{query,"
-#| "q,1}"
 msgctxt "Query"
 msgid ""
 "https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
@@ -841,8 +757,6 @@ msgstr "സിടാന്‍ - അനേകം വിഷയങ്ങളടങ�
 
 #: src/urifilters/ikws/searchproviders/ctan.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://dict.leo.org/?search=\\\\{@}"
 msgctxt "Query"
 msgid "https://ctan.org/search?phrase=\\\\{@}"
 msgstr "http://dict.leo.org/?search=\\\\{@}"
@@ -854,8 +768,6 @@ msgstr "ഡെബിയന്‍ ബിടിഎസ്സിലെ പിഴവ�
 
 #: src/urifilters/ikws/searchproviders/dbug.desktop:88
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://bugs.debian.org/\\\\{@}"
 msgctxt "Query"
 msgid "https://bugs.debian.org/\\\\{@}"
 msgstr "http://bugs.debian.org/\\\\{@}"
@@ -868,8 +780,6 @@ msgstr "dict.cc പരിഭാഷ: ജര്‍മനില്‍ നിന്�
 #: src/urifilters/ikws/searchproviders/de2en.desktop:91
 #: src/urifilters/ikws/searchproviders/en2de.desktop:91
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.dict.cc/?s=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.dict.cc/?s=\\\\{@}"
 msgstr "http://www.dict.cc/?s=\\\\{@}"
@@ -882,8 +792,6 @@ msgstr "ലിയോ - ജര്‍മനും ഫ്രഞ്ചും തമ�
 #: src/urifilters/ikws/searchproviders/de2fr.desktop:91
 #: src/urifilters/ikws/searchproviders/fr2de.desktop:91
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://dict.leo.org/?lp=frde&search=\\\\{@}"
 msgctxt "Query"
 msgid "https://dict.leo.org/?lp=frde&search=\\\\{@}"
 msgstr "http://dict.leo.org/?lp=frde&search=\\\\{@}"
@@ -895,8 +803,6 @@ msgstr "ഡെബിയന്‍ പാക്കേജുകള്‍ക്ക�
 
 #: src/urifilters/ikws/searchproviders/deb.desktop:91
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://packages.debian.org/\\\\{@}"
 msgctxt "Query"
 msgid "https://packages.debian.org/\\\\{@}"
 msgstr "http://packages.debian.org/\\\\{@}"
@@ -918,8 +824,6 @@ msgstr "ഡോക്ബുക്ക് - തര്‍ക്കമില്ലാ
 
 #: src/urifilters/ikws/searchproviders/docbook.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.docbook.org/tdg/en/html/\\\\{1}.html"
 msgctxt "Query"
 msgid "https://www.docbook.org/tdg/en/html/\\\\{1}.html"
 msgstr "http://www.docbook.org/tdg/en/html/\\\\{1}.html"
@@ -931,8 +835,6 @@ msgstr "ഡിജിറ്റല്‍ ഒബ്ജക്ട് ഐഡന്റ�
 
 #: src/urifilters/ikws/searchproviders/doi.desktop:91
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://dx.doi.org/\\\\{@}"
 msgctxt "Query"
 msgid "https://dx.doi.org/\\\\{@}"
 msgstr "http://dx.doi.org/\\\\{@}"
@@ -944,8 +846,6 @@ msgstr "ഡക്ക് ഡക്ക് ഗോ"
 
 #: src/urifilters/ikws/searchproviders/duckduckgo.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://duckduckgo.com/?q=\\\\{@}&v="
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&t=kde"
 msgstr "http://duckduckgo.com/?q=\\\\{@}&v="
@@ -957,8 +857,6 @@ msgstr "ഡക്ക് ഡക്ക് ഗോ വിവരം"
 
 #: src/urifilters/ikws/searchproviders/duckduckgo_info.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://duckduckgo.com/?q=\\\\{@}&v=r"
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&v=r&t=kde"
 msgstr "http://duckduckgo.com/?q=\\\\{@}&v=r"
@@ -970,8 +868,6 @@ msgstr "ഡക്ക് ഡക്ക് ഗോ ഷോപ്പിങ്ങ്"
 
 #: src/urifilters/ikws/searchproviders/duckduckgo_shopping.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://duckduckgo.com/?q=\\\\{@}&v=s"
 msgctxt "Query"
 msgid "https://duckduckgo.com/?q=\\\\{@}&v=s&t=kde"
 msgstr "http://duckduckgo.com/?q=\\\\{@}&v=s"
@@ -983,8 +879,6 @@ msgstr "എക്കോഷ്യ തെരച്ചില്‍ എഞ്ചി�
 
 #: src/urifilters/ikws/searchproviders/ecosia.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://ecosia.org/search.php?q=\\\\{@}&meta=normal"
 msgctxt "Query"
 msgid "https://ecosia.org/search.php?q=\\\\{@}&meta=normal"
 msgstr "http://ecosia.org/search.php?q=\\\\{@}&meta=normal"
@@ -1001,8 +895,6 @@ msgstr "WordReference.com പരിഭാഷ: ഇംഗ്ലീഷില്‍ 
 
 #: src/urifilters/ikws/searchproviders/en2es.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
 msgstr "http://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
@@ -1014,8 +906,6 @@ msgstr "WordReference.com പരിഭാഷ: ഇംഗ്ലീഷില്‍ 
 
 #: src/urifilters/ikws/searchproviders/en2fr.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
 msgstr "http://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
@@ -1027,8 +917,6 @@ msgstr "WordReference.com പരിഭാഷ: ഇംഗ്ലീഷില്‍ 
 
 #: src/urifilters/ikws/searchproviders/en2it.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
 msgstr "http://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -1040,8 +928,6 @@ msgstr "WordReference.com പരിഭാഷ: സ്പാനിഷില്‍ 
 
 #: src/urifilters/ikws/searchproviders/es2en.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
 msgstr "http://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
@@ -1053,8 +939,6 @@ msgstr "ഫേസ്ബുക്ക്"
 
 #: src/urifilters/ikws/searchproviders/facebook.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgctxt "Query"
 msgid "https://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgstr "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
@@ -1066,9 +950,6 @@ msgstr "ഫീഡ്സ്റ്റര്‍"
 
 #: src/urifilters/ikws/searchproviders/feedster.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 msgctxt "Query"
 msgid ""
 "https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
@@ -1082,8 +963,6 @@ msgstr "ഫ്ലിക്കര്‍ ക്രിയേറ്റീവ് ക�
 
 #: src/urifilters/ikws/searchproviders/flickrcc.desktop:71
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
 msgctxt "Query"
 msgid "https://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
 msgstr "http://www.flickr.com/search/?q=\\\\{@}&l=cc&ct=0&mt=all&adv=1"
@@ -1095,8 +974,6 @@ msgstr "ഫ്ലിക്കര്‍"
 
 #: src/urifilters/ikws/searchproviders/flickr.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.flickr.com/search/?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.flickr.com/search/?q=\\\\{@}"
 msgstr "http://www.flickr.com/search/?q=\\\\{@}"
@@ -1108,8 +985,6 @@ msgstr "കമ്പ്യൂട്ടിങ്ങിന്റെ സ്വത�
 
 #: src/urifilters/ikws/searchproviders/foldoc.desktop:93
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://dx.doi.org/\\\\{@}"
 msgctxt "Query"
 msgid "https://foldoc.org/\\\\{@}"
 msgstr "http://dx.doi.org/\\\\{@}"
@@ -1126,24 +1001,18 @@ msgstr "WordReference.com പരിഭാഷ: ഫ്രഞ്ചില്‍ ന
 
 #: src/urifilters/ikws/searchproviders/fr2en.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
 msgstr "http://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/freecode.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Greece"
 msgctxt "Name"
 msgid "Freecode"
 msgstr "ഗ്രീസ്"
 
 #: src/urifilters/ikws/searchproviders/freecode.desktop:57
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.flickr.com/search/?q=\\\\{@}"
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr "http://www.flickr.com/search/?q=\\\\{@}"
@@ -1165,8 +1034,6 @@ msgstr "എഫ്എസ്എഫ്/യുനെസ്കോ സ്വതന്�
 
 #: src/urifilters/ikws/searchproviders/fsd.desktop:91
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
 msgctxt "Query"
 msgid "https://directory.fsf.org/search/?query=\\\\{@}"
 msgstr "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -1178,8 +1045,6 @@ msgstr "ഗിറ്റ്ഹബ്"
 
 #: src/urifilters/ikws/searchproviders/github.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://github.com/search?q=\\\\{@}&x=0&y=0"
 msgctxt "Query"
 msgid "https://github.com/search?q=\\\\{@}&x=0&y=0"
 msgstr "http://github.com/search?q=\\\\{@}&x=0&y=0"
@@ -1191,8 +1056,6 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/gitlab.desktop:33
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://search.excite.com/search.gw?search=\\\\{@}"
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr "http://search.excite.com/search.gw?search=\\\\{@}"
@@ -1204,14 +1067,6 @@ msgstr "ഗൂഗിളില്‍ തിരയുക"
 
 #: src/urifilters/ikws/searchproviders/google_advanced.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
-#| "&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
-#| "\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\"
-#| "\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}"
-#| "&as_dt=\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active"
-#| "\"}&ie=UTF-8&oe=UTF-8"
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
@@ -1230,16 +1085,12 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/google_code.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Google Movies"
 msgctxt "Name"
 msgid "Google Code"
 msgstr "ഗൂഗിള്‍ ചലചിത്രങ്ങള്‍"
 
 #: src/urifilters/ikws/searchproviders/google_code.desktop:71
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://froogle.google.com/froogle?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://code.google.com/query/#q=\\\\{%2520}"
 msgstr "http://froogle.google.com/froogle?q=\\\\{@}"
@@ -1251,8 +1102,6 @@ msgstr "ഗൂഗിള്‍"
 
 #: src/urifilters/ikws/searchproviders/google.desktop:97
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgctxt "Query"
 msgid "https://www.google.com/search?q=\\\\{@}&ie=UTF-8"
 msgstr "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -1264,8 +1113,6 @@ msgstr "ഗൂഗിള്‍ കൂട്ടങ്ങള്‍"
 
 #: src/urifilters/ikws/searchproviders/google_groups.desktop:96
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
 msgctxt "Query"
 msgid "https://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
 msgstr "http://groups.google.com/groups?oi=djq&as_q=\\\\{@}"
@@ -1277,8 +1124,6 @@ msgstr "ഗൂഗിളില്‍ ചിത്രങ്ങള്‍ക്ക�
 
 #: src/urifilters/ikws/searchproviders/google_images.desktop:96
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgctxt "Query"
 msgid "https://www.google.com/search?site=imghp&tbm=isch&q=\\\\{@}"
 msgstr "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -1290,10 +1135,6 @@ msgstr "ഗൂഗിള്‍ (ഞാന്‍ ഭാഗ്യവാനാണെ
 
 #: src/urifilters/ikws/searchproviders/google_lucky.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
-#| "+Lucky&ie=UTF-8&oe=UTF-8"
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
@@ -1304,16 +1145,12 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/google_maps.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Google Groups"
 msgctxt "Name"
 msgid "Google Maps"
 msgstr "ഗൂഗിള്‍ കൂട്ടങ്ങള്‍"
 
 #: src/urifilters/ikws/searchproviders/google_maps.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgctxt "Query"
 msgid "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
 msgstr "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -1325,8 +1162,6 @@ msgstr "ഗൂഗിള്‍ ചലചിത്രങ്ങള്‍"
 
 #: src/urifilters/ikws/searchproviders/google_movie.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.google.com/search?q=movie:\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgctxt "Query"
 msgid "https://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "http://www.google.com/search?q=movie:\\\\{@}&ie=UTF-8&oe=UTF-8"
@@ -1338,33 +1173,24 @@ msgstr "ഗൂഗിള്‍ വാര്‍ത്തകള്‍"
 
 #: src/urifilters/ikws/searchproviders/google_news.desktop:95
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgctxt "Query"
 msgid "https://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgstr "http://news.google.com/news?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 
 #: src/urifilters/ikws/searchproviders/google_shopping.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Yahoo Shopping"
 msgctxt "Name"
 msgid "Google Shopping"
 msgstr "യാഹൂ ഷോപ്പിങ്ങ്"
 
 #: src/urifilters/ikws/searchproviders/google_shopping.desktop:57
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr "http://www.google.com/search?q=\\\\{@}&ie=UTF-8&oe=UTF-8"
 
 #: src/urifilters/ikws/searchproviders/grec.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid ""
-#| "Great Dictionary of the Catalan Language (GRan Enciclopèdia  Catalana)"
 msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "കറ്റാലന്‍ ഭാഷയുടെ മഹത്തായ നിഘണ്ടു (ഗ്രാന്‍ എന്‍സൈക്ലോപീഡിയ കറ്റാലാന)"
@@ -1401,8 +1227,6 @@ msgstr "ഐഡന്റിക്ക ഗ്രൂപ്പുകള്‍"
 
 #: src/urifilters/ikws/searchproviders/identica_groups.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://identi.ca/search/group?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://identi.ca/search/group?q=\\\\{@}"
 msgstr "http://identi.ca/search/group?q=\\\\{@}"
@@ -1414,8 +1238,6 @@ msgstr "ഐഡന്റിക്ക നോട്ടീസുകള്‍"
 
 #: src/urifilters/ikws/searchproviders/identica_notices.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://identi.ca/search/notice?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://identi.ca/search/notice?q=\\\\{@}"
 msgstr "http://identi.ca/search/notice?q=\\\\{@}"
@@ -1427,8 +1249,6 @@ msgstr "ഐഡന്റിക്കയിലെ ആളുകള്‍"
 
 #: src/urifilters/ikws/searchproviders/identica_people.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://identi.ca/search/people?q=\\\\{@}&search=Search"
 msgctxt "Query"
 msgid "https://identi.ca/search/people?q=\\\\{@}&search=Search"
 msgstr "http://identi.ca/search/people?q=\\\\{@}&search=Search"
@@ -1440,8 +1260,6 @@ msgstr "ഇന്റര്‍നെറ്റിലുള്ള ചലചിത�
 
 #: src/urifilters/ikws/searchproviders/imdb.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://imdb.com/Find?\\\\{@}"
 msgctxt "Query"
 msgid "https://imdb.com/find?s=all&q=\\\\{@}"
 msgstr "http://imdb.com/find?s=all&q=\\\\{@}"
@@ -1453,8 +1271,6 @@ msgstr "WordReference.com പരിഭാഷ: ഇറ്റാലിയനില�
 
 #: src/urifilters/ikws/searchproviders/it2en.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
 msgstr "http://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
@@ -1466,8 +1282,6 @@ msgstr "ജാമെണ്ടോ"
 
 #: src/urifilters/ikws/searchproviders/jamendo.desktop:74
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.jamendo.com/en/search/all/\\\\{@}"
 msgctxt "Query"
 msgid "https://www.jamendo.com/en/search?qs=q=\\\\{@}"
 msgstr "http://www.jamendo.com/en/search/all/\\\\{@}"
@@ -1479,10 +1293,6 @@ msgstr "ആസ്ക് ജീവ്സ്"
 
 #: src/urifilters/ikws/searchproviders/jeeves.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.ask.com/main/askJeeves.asp?"
-#| "origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
 msgctxt "Query"
 msgid ""
 "https://www.ask.com/main/askJeeves.asp?"
@@ -1498,9 +1308,6 @@ msgstr "കെഡിഇയുടെ പ്രയോഗങ്ങള്‍ക്�
 
 #: src/urifilters/ikws/searchproviders/kde_apps.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1512,8 +1319,6 @@ msgstr "കെഡിഇ എപിഐ വിവരണം"
 
 #: src/urifilters/ikws/searchproviders/kde.desktop:95
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://api.kde.org/classmapper.php?class=\\\\{@}"
 msgctxt "Query"
 msgid "https://api.kde.org/classmapper.php?class=\\\\{@}"
 msgstr "http://api.kde.org/classmapper.php?class=\\\\{@}"
@@ -1525,10 +1330,6 @@ msgstr "കെഡിഇ ഫോറങ്ങള്‍"
 
 #: src/urifilters/ikws/searchproviders/kde_forums.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://forum.kde.org/search.php?keywords=\\\\{@}"
-#| "&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&feed_type=NONE&feed_style=HTML&countlimit=100&t=0&sid=77c16bc0abb91ff1347597c69835d5bd&submit=Search"
 msgctxt "Query"
 msgid ""
 "https://forum.kde.org/search.php?keywords=\\\\{@}"
@@ -1544,9 +1345,6 @@ msgstr "കെഡിഇ ലുക്ക്"
 
 #: src/urifilters/ikws/searchproviders/kde_look.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr "http://www.kde-look.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1558,9 +1356,6 @@ msgstr "കെഡിഇ ടെക്ക്ബേസ്"
 
 #: src/urifilters/ikws/searchproviders/kde_techbase.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgctxt "Query"
 msgid "https://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr "http://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1572,9 +1367,6 @@ msgstr "കെഡിഇ യൂസര്‍ബേസ്"
 
 #: src/urifilters/ikws/searchproviders/kde_userbase.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgctxt "Query"
 msgid "https://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
 msgstr "http://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1586,8 +1378,6 @@ msgstr "ലിയോ-പരിഭാഷ"
 
 #: src/urifilters/ikws/searchproviders/leo.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://dict.leo.org/?search=\\\\{@}"
 msgctxt "Query"
 msgid "https://dict.leo.org/?search=\\\\{@}"
 msgstr "http://dict.leo.org/?search=\\\\{@}"
@@ -1609,8 +1399,6 @@ msgstr "മെറ്റാക്രോളര്‍"
 
 #: src/urifilters/ikws/searchproviders/metacrawler.desktop:95
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.ethicle.com/search.php?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.metacrawler.com/info.metac.cloud.other/search/web?q=\\\\{@}"
 msgstr "http://www.ethicle.com/search.php?q=\\\\{@}"
@@ -1622,8 +1410,6 @@ msgstr "മൈക്രോസോഫ്റ്റ് ഡെവലപ്പര്�
 
 #: src/urifilters/ikws/searchproviders/msdn.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://directory.fsf.org/search/?query=\\\\{@}"
 msgctxt "Query"
 msgid "https://social.msdn.microsoft.com/Search/en-US?query=\\\\{@}"
 msgstr "http://directory.fsf.org/search/?query=\\\\{@}"
@@ -1635,8 +1421,6 @@ msgstr "മള്‍ട്ടിട്രാന്‍ - ജര്‍മനും
 
 #: src/urifilters/ikws/searchproviders/multitran-deru.desktop:89
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
 msgstr "http://multitran.ru/c/m.exe?l1=3&s=\\\\{@}"
@@ -1648,8 +1432,6 @@ msgstr "മള്‍ട്ടിട്രാന്‍ - ഇംഗ്ലീഷു
 
 #: src/urifilters/ikws/searchproviders/multitran-enru.desktop:89
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
 msgstr "http://multitran.ru/c/m.exe?l1=1&l2=2&s=\\\\{@}"
@@ -1661,8 +1443,6 @@ msgstr "മള്‍ട്ടിട്രാന്‍ - സ്പാനിഷു
 
 #: src/urifilters/ikws/searchproviders/multitran-esru.desktop:89
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
 msgstr "http://multitran.ru/c/m.exe?l1=5&s=\\\\{@}"
@@ -1674,8 +1454,6 @@ msgstr "മള്‍ട്ടിട്രാന്‍ - ഫ്രഞ്ചും
 
 #: src/urifilters/ikws/searchproviders/multitran-frru.desktop:89
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
 msgstr "http://multitran.ru/c/m.exe?l1=4&s=\\\\{@}"
@@ -1687,8 +1465,6 @@ msgstr "മള്‍ട്ടിട്രാന്‍ - ഇറ്റാലിയ
 
 #: src/urifilters/ikws/searchproviders/multitran-itru.desktop:89
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
 msgstr "http://multitran.ru/c/m.exe?l1=23&s=\\\\{@}"
@@ -1700,8 +1476,6 @@ msgstr "മള്‍ട്ടിട്രാന്‍ - ഡച്ചും റ�
 
 #: src/urifilters/ikws/searchproviders/multitran-nlru.desktop:89
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
 msgctxt "Query"
 msgid "https://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
 msgstr "http://multitran.ru/c/m.exe?l1=24&s=\\\\{@}"
@@ -1713,8 +1487,6 @@ msgstr "നെറ്റ്ക്രാഫ്റ്റ്"
 
 #: src/urifilters/ikws/searchproviders/netcraft.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://uptime.netcraft.com/up/graph?site=\\\\{@}"
 msgctxt "Query"
 msgid "https://uptime.netcraft.com/up/graph?site=\\\\{@}"
 msgstr "http://uptime.netcraft.com/up/graph?site=\\\\{@}"
@@ -1743,17 +1515,12 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/opendesktop.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Desktop"
 msgctxt "Name"
 msgid "openDesktop.org"
 msgstr "പണിയിടം"
 
 #: src/urifilters/ikws/searchproviders/opendesktop.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
 msgctxt "Query"
 msgid ""
 "https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1767,8 +1534,6 @@ msgstr "ഓപ്പണ്‍പിജിപി (OpenPGP) കീ തെരച്
 
 #: src/urifilters/ikws/searchproviders/pgpkeys.desktop:91
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
 msgctxt "Query"
 msgid "https://pgp.mit.edu/pks/lookup?search=\\\\{@}&op=vindex"
 msgstr "http://pgp.dtype.org:11371/pks/lookup?search=\\\\{@}&op=vindex"
@@ -1780,8 +1545,6 @@ msgstr "പിഎച്പി (PHP) തെരച്ചില്‍"
 
 #: src/urifilters/ikws/searchproviders/php.desktop:93
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.php.net/manual-lookup.php?pattern=\\\\{@}"
 msgctxt "Query"
 msgid "https://secure.php.net/manual-lookup.php?pattern=\\\\{@}"
 msgstr "http://www.php.net/manual-lookup.php?pattern=\\\\{@}"
@@ -1793,10 +1556,6 @@ msgstr "പൈത്തണ്‍ സഹായക ഗ്രന്ഥം "
 
 #: src/urifilters/ikws/searchproviders/python.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.google.com/search?sourceid=python-search&q=\\\\{@}"
-#| "&submit=Search&q=site%3Apython.org"
 msgctxt "Query"
 msgid ""
 "https://www.google.com/search?sourceid=python-search&q=\\\\{@}"
@@ -1807,16 +1566,12 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/qt4.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Qt3 Online Documentation"
 msgctxt "Name"
 msgid "Qt4 Documentation"
 msgstr "ക്യട്ടി3-നു് ഓണ്‍ലൈനായുള്ള സഹായക്കുറിപ്പുകള്‍"
 
 #: src/urifilters/ikws/searchproviders/qt4.desktop:58
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://doc.trolltech.com/3.3/\\\\{@}.html"
 msgctxt "Query"
 msgid "https://doc.qt.io/archives/qt-4.8/search-results.html?q=\\\\{@}"
 msgstr "http://doc.trolltech.com/3.3/\\\\{@}.html"
@@ -1828,8 +1583,6 @@ msgstr "ക്യട്ടിയുടെ ഓണ്‍ലൈനായുള്�
 
 #: src/urifilters/ikws/searchproviders/qt.desktop:93
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://identi.ca/search/group?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
 msgstr "http://identi.ca/search/group?q=\\\\{@}"
@@ -1841,24 +1594,18 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/qwant.desktop:45
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&source=web"
 msgstr "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 
 #: src/urifilters/ikws/searchproviders/qwant_images.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Yahoo Images"
 msgctxt "Name"
 msgid "Qwant Images"
 msgstr "യാഹൂ ചിത്രങ്ങള്‍"
 
 #: src/urifilters/ikws/searchproviders/qwant_images.desktop:45
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=images"
 msgstr "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
@@ -1870,24 +1617,18 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/qwant_news.desktop:45
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=news"
 msgstr "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 
 #: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Yahoo Shopping"
 msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr "യാഹൂ ഷോപ്പിങ്ങ്"
 
 #: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:45
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=shopping"
 msgstr "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
@@ -1899,24 +1640,18 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/qwant_social.desktop:45
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=social"
 msgstr "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 
 #: src/urifilters/ikws/searchproviders/qwant_videos.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Yahoo Video"
 msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "യാഹൂ വീഡിയോ"
 
 #: src/urifilters/ikws/searchproviders/qwant_videos.desktop:46
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
 msgctxt "Query"
 msgid "https://www.qwant.com/single?q=\\\\{@}&client=kde&source=videos"
 msgstr "http://www.facebook.com/search/?q=\\\\{@}&init=quick"
@@ -1928,16 +1663,12 @@ msgstr "സ്പാനിഷ് അക്കാദമിയുടെ (RAE) ന�
 
 #: src/urifilters/ikws/searchproviders/rae.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.dict.cc/?s=\\\\{@}"
 msgctxt "Query"
 msgid "http://www.rae.es/drae/?val=\\\\{@}"
 msgstr "http://www.dict.cc/?s=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/rag.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Dictionary of the Spanish Academy (RAE)"
 msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "സ്പാനിഷ് അക്കാദമിയുടെ (RAE) നിഘണ്ടു"
@@ -1954,8 +1685,6 @@ msgstr "ഐഇടിഎഫ് റിക്വസ്റ്റ് ഫോര്‍ 
 
 #: src/urifilters/ikws/searchproviders/rfc.desktop:88
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.ietf.org/rfc/rfc\\\\{@}.txt"
 msgctxt "Query"
 msgid "https://tools.ietf.org/id/\\\\{@}"
 msgstr "http://www.ietf.org/rfc/rfc\\\\{@}.txt"
@@ -1967,8 +1696,6 @@ msgstr "RPM-തെരയുക"
 
 #: src/urifilters/ikws/searchproviders/rpmfind.desktop:95
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
 msgstr "http://www.rpmfind.net/linux/rpm2html/search.php?query=\\\\{@}"
@@ -1980,24 +1707,18 @@ msgstr "റൂബി പ്രയോഗങ്ങളുടെ ശേഖരം"
 
 #: src/urifilters/ikws/searchproviders/ruby_application_archive.desktop:95
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
 msgstr "http://www.ruby-lang.org/en/raa-list.rhtml?name=\\\\{@}"
 
 #: src/urifilters/ikws/searchproviders/soundcloud.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sound"
 msgctxt "Name"
 msgid "Soundcloud"
 msgstr "ശബ്ദം"
 
 #: src/urifilters/ikws/searchproviders/soundcloud.desktop:43
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.flickr.com/search/?q=\\\\{@}"
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr "http://www.flickr.com/search/?q=\\\\{@}"
@@ -2009,10 +1730,6 @@ msgstr "സോഴ്സ്ഫോര്‍ജ്"
 
 #: src/urifilters/ikws/searchproviders/sourceforge.desktop:93
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
-#| "\\{exact,\"0\"}&words=\\\\{@}"
 msgctxt "Query"
 msgid ""
 "https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
@@ -2028,9 +1745,6 @@ msgstr "ടെക്നോറാറ്റി"
 
 #: src/urifilters/ikws/searchproviders/technorati.desktop:93
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://technorati.com/cosmos/search.html?sourceid=kde-search&url=\\\\{@}"
 msgctxt "Query"
 msgid "https://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
 msgstr ""
@@ -2043,8 +1757,6 @@ msgstr "ടെക്നോരാറ്റി ടാഗുകള്‍"
 
 #: src/urifilters/ikws/searchproviders/technoratitags.desktop:90
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://technorati.com/tag/\\\\{@}?sourceid=kde-search"
 msgctxt "Query"
 msgid "https://technorati.com/tag/\\\\{@}?sourceid=kde-search"
 msgstr "http://technorati.com/tag/\\\\{@}?sourceid=kde-search"
@@ -2056,8 +1768,6 @@ msgstr "മെറിയാം-വെബ്സ്റ്റര്‍ പര്യ�
 
 #: src/urifilters/ikws/searchproviders/thesaurus.desktop:94
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.jamendo.com/en/search/all/\\\\{@}"
 msgctxt "Query"
 msgid "https://www.merriam-webster.com/thesaurus/\\\\{@}"
 msgstr "http://www.jamendo.com/en/search/all/\\\\{@}"
@@ -2069,8 +1779,6 @@ msgstr "ടി.വി ടോം"
 
 #: src/urifilters/ikws/searchproviders/tvtome.desktop:93
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
 msgctxt "Query"
 msgid "https://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
 msgstr "http://www.tv.com/search.php?type=11&stype=all&qs=\\\\{@}&x=0&y=0"
@@ -2082,8 +1790,6 @@ msgstr "അര്‍ബന്‍ നിഘണ്ടു"
 
 #: src/urifilters/ikws/searchproviders/urbandictionary.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.urbandictionary.com/define.php?term=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.urbandictionary.com/define.php?term=\\\\{@}"
 msgstr "http://www.urbandictionary.com/define.php?term=\\\\{@}"
@@ -2109,8 +1815,6 @@ msgstr "വിമിയോ"
 
 #: src/urifilters/ikws/searchproviders/vimeo.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://vimeo.com/videos/search:\\\\{@}"
 msgctxt "Query"
 msgid "https://vimeo.com/search?q=\\\\{@}"
 msgstr "http://vimeo.com/videos/search:\\\\{@}"
@@ -2132,8 +1836,6 @@ msgstr "മെറിയാം-വെബ്സ്റ്റര്‍ നിഘണ�
 
 #: src/urifilters/ikws/searchproviders/webster.desktop:95
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.dict.cc/?s=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.merriam-webster.com/dictionary/\\\\{@}"
 msgstr "http://www.dict.cc/?s=\\\\{@}"
@@ -2145,10 +1847,6 @@ msgstr "വിക്കിയ"
 
 #: src/urifilters/ikws/searchproviders/wikia.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.wikia.com/Special:Search?search=\\\\{@}"
-#| "&wikia_search_submit=Search"
 msgctxt "Query"
 msgid ""
 "https://www.wikia.com/Special:Search?search=\\\\{@}"
@@ -2163,8 +1861,6 @@ msgstr "വിക്കിപീഡിയ - സ്വതന്ത്ര സര�
 
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:95
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgctxt "Query"
 msgid "https://en.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "http://ml.wikipedia.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -2176,8 +1872,6 @@ msgstr "വിക്ഷ്ണറി - സ്വതന്ത്ര നിഘണ�
 
 #: src/urifilters/ikws/searchproviders/wiktionary.desktop:92
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgctxt "Query"
 msgid "https://en.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
 msgstr "http://ml.wiktionary.org/wiki/Special:Search?search=\\\\{@}&go=Go"
@@ -2189,8 +1883,6 @@ msgstr "വുള്‍ഫ്രാം ആല്‍ഫ"
 
 #: src/urifilters/ikws/searchproviders/wolfram_alpha.desktop:74
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.wolframalpha.com/input/?i=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wolframalpha.com/input/?i=\\\\{@}"
 msgstr "http://www.wolframalpha.com/input/?i=\\\\{@}"
@@ -2202,8 +1894,6 @@ msgstr "WordReference.com ഇംഗ്ലീഷ് നിഘണ്ടു"
 
 #: src/urifilters/ikws/searchproviders/wordref.desktop:93
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.wordreference.com/english/definition.asp?en=\\\\{@}"
 msgctxt "Query"
 msgid "https://www.wordreference.com/english/definition.asp?en=\\\\{@}"
 msgstr "http://www.wordreference.com/english/definition.asp?en=\\\\{@}"
@@ -2227,11 +1917,6 @@ msgstr "യാഹൂ ചിത്രങ്ങള്‍"
 
 #: src/urifilters/ikws/searchproviders/yahoo_image.desktop:73
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://images.search.yahoo.com/search/images;"
-#| "_ylt=A0geuy0K6JZLsVkB4m1XNyoA?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-web&fr=yfp-"
-#| "t-701"
 msgctxt "Query"
 msgid ""
 "https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
@@ -2247,10 +1932,6 @@ msgstr "യാഹൂ പ്രാദേശികം"
 
 #: src/urifilters/ikws/searchproviders/yahoo_local.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-"
-#| "img"
 msgctxt "Query"
 msgid ""
 "https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
@@ -2264,11 +1945,6 @@ msgstr "യാഹൂ ഷോപ്പിങ്ങ്"
 
 #: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
-#| "_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\"
-#| "\\{@}&fr2=tab-video&fr=yfp-t-701"
 msgctxt "Query"
 msgid ""
 "https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
@@ -2286,10 +1962,6 @@ msgstr "യാഹൂ വീഡിയോ"
 
 #: src/urifilters/ikws/searchproviders/yahoo_video.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
-#| "ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
 msgctxt "Query"
 msgid ""
 "https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
@@ -2305,33 +1977,24 @@ msgstr "യുട്യൂബ്"
 
 #: src/urifilters/ikws/searchproviders/youtube.desktop:72
 #, fuzzy
-#| msgctxt "Query"
-#| msgid ""
-#| "http://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgctxt "Query"
 msgid "https://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 msgstr "http://www.youtube.com/results?search_query=\\\\{@}&search_type=&aq=f"
 
 #: src/widgets/kfileitemactionplugin.desktop:4
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Plugin for the Konqueror Popup Menu"
 msgctxt "Comment"
 msgid "Plugin for the KIO file item context menu"
 msgstr "കോണ്‍ക്വററിന്റെ പൊങ്ങിവരുന്ന മെനുവിനുള്ള സംയോജകം"
 
 #: src/widgets/kiodndpopupmenuplugin.desktop:4
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Drag-and-drop plugin for the Konqueror Popup Menu."
 msgctxt "Comment"
 msgid "Plugin for the KIO Drag-and-drop Popup Menu"
 msgstr "കോണ്‍ക്വററിന്റെ പൊങ്ങിവരുന്ന മെനുവിനുള്ള വലിച്ചിടാനുള്ള സംയോജകം."
 
 #: src/widgets/konqpopupmenuplugin.desktop:4
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Drag-and-drop plugin for the Konqueror Popup Menu."
 msgctxt "Comment"
 msgid "Plugin for the Konqueror Popup Menu"
 msgstr "കോണ്‍ക്വററിന്റെ പൊങ്ങിവരുന്ന മെനുവിനുള്ള വലിച്ചിടാനുള്ള സംയോജകം."
@@ -2343,8 +2006,6 @@ msgstr ""
 
 #: src/widgets/kurifilterplugin.desktop:4
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Tabbed Browsing"
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊണ്ടുള്ള ബ്രൌസിങ്ങ്"
@@ -2386,15 +2047,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "http://www.m-w.com/cgi-bin/dictionary?book=Dictionary&va=\\\\{@}"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "MrProject"
 #~ msgctxt "Name"
 #~ msgid "KDE Projects"
 #~ msgstr "മിസ്റ്റര്‍പ്രൊജക്റ്റ്"
 
 #, fuzzy
-#~| msgctxt "Query"
-#~| msgid "http://dict.leo.org/?search=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
 #~ msgstr "http://dict.leo.org/?search=\\\\{@}"
@@ -2404,8 +2061,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഗിറ്റോറിയസ്"
 
 #, fuzzy
-#~| msgctxt "Query"
-#~| msgid "http://www.ethicle.com/search.php?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://gitorious.org/search?q=\\\\{@}&commit=Search"
 #~ msgstr "http://gitorious.org/search?q=\\\\{@}&commit=Search"
@@ -2415,15 +2070,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ബ്ലിപ്.ടിവി"
 
 #, fuzzy
-#~| msgctxt "Query"
-#~| msgid "http://blip.tv/search?q=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "https://blip.tv/search?q=\\\\{@}"
 #~ msgstr "http://blip.tv/search?q=\\\\{@}"
 
 #, fuzzy
-#~| msgctxt "Query"
-#~| msgid "http://doc.trolltech.com/3.3/\\\\{@}.html"
 #~ msgctxt "Query"
 #~ msgid "http://qt-project.org/doc/search/qt-5.0?search=\\\\{@}"
 #~ msgstr "http://doc.trolltech.com/3.3/\\\\{@}.html"
@@ -2459,8 +2110,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "കോണ്‍ക്വറര്‍ സ്വയം തിരിച്ചറിയുന്ന രീതി ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Services"
 #~ msgctxt "Name"
 #~ msgid "KMailService"
 #~ msgstr "സേവനങ്ങള്‍"
@@ -2470,22 +2119,16 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "നേരത്തെയുണ്ടായിരുന്ന വഴി,നീക്കം ചെയ്ത തിയ്യതി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Cookies"
 #~ msgctxt "Name"
 #~ msgid "Cookie Jar"
 #~ msgstr "കുക്കികള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Nepomuk/Strigi Server Configuration"
 #~ msgctxt "Name"
 #~ msgid "Network Proxy Configuration"
 #~ msgstr "നെപ്പോമുക്ക്/സ്ട്രിഗി സെര്‍വര്‍ ക്രമീകരണം"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Fetchmail Configuration"
 #~ msgctxt "Comment"
 #~ msgid "Automatic proxy configuration"
 #~ msgstr "ഫെച്ച്മെയില്‍ ക്രമീകരണം"
@@ -2499,8 +2142,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "താത്കാലികമായി അടയാളവാക്കു് ഓര്‍ത്തുവയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Provides the system's time zone to applications"
 #~ msgctxt "Comment"
 #~ msgid "Provides SSL certificate policy to applications"
 #~ msgstr "സിസ്റ്റത്തിലെ സമയമേഖല പ്രയോഗങ്ങള്‍ക്കു് നല്‍കുന്നു"
@@ -2522,8 +2163,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ശുദ്ധവായുവിന്റെ ഒരിളംകാറ്റ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Launcher"
 #~ msgctxt "Name"
 #~ msgid "Application dashboard"
 #~ msgstr "പ്രയോഗവിക്ഷേപിണി"
@@ -2545,15 +2184,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "കെഡിബിജി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "gdb"
 #~ msgctxt "Name"
 #~ msgid "dbx"
 #~ msgstr "ജിഡിബി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "kdbg"
 #~ msgctxt "Name"
 #~ msgid "kdbgwin"
 #~ msgstr "കെഡിബിജി"
@@ -2670,15 +2305,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "വികാരചിഹ്നങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Emoticons Themes Manager"
 #~ msgctxt "Comment"
 #~ msgid "Choose Emoticon Theme"
 #~ msgstr "വികാരചിഹ്നങ്ങളുടെ വൈവിധ്യപാലകന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Emoticons"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Emoticons"
 #~ msgstr "വികാരചിഹ്നങ്ങള്‍"
@@ -2700,8 +2331,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "കെഡിഇ സേവനങ്ങളുടെ ക്രമീകരണം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Dolphin Services"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "KDED,Daemon,Services"
 #~ msgstr "ഡോള്‍ഫിന്‍ സേവനങ്ങള്‍"
@@ -2811,15 +2440,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പ്രയോഗ സഹായകഗ്രന്ഥങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "File Manager - Super User Mode"
 #~ msgctxt "Name"
 #~ msgid "Filemanager Settings Modules"
 #~ msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരന്‍ - പ്രത്യേകാധികാരത്തോടെ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KDE Forums"
 #~ msgctxt "Name"
 #~ msgid "KDE Fundamentals"
 #~ msgstr "കെഡിഇ ഫോറങ്ങള്‍"
@@ -2829,8 +2454,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഇന്‍ഫൊ പേജുകള്‍ പരതുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "System Settings View"
 #~ msgctxt "Name"
 #~ msgid "System Settings Modules"
 #~ msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങളുടെ അവതരണരീതി"
@@ -2844,8 +2467,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "കിയോസ്ലേവുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Konqueror Gestures"
 #~ msgctxt "Name"
 #~ msgid "Konqueror Settings Modules"
 #~ msgstr "കോണ്‍ക്വറര്‍ വിശേഷതകള്‍"
@@ -2895,8 +2516,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "(n) പുതിയ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "System Settings View"
 #~ msgctxt "Name"
 #~ msgid "Other Settings Modules"
 #~ msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങളുടെ അവതരണരീതി"
@@ -2976,15 +2595,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "network:/ പ്രോട്ടോകോളില്‍ ശൃംഖലയുടേയും തട്ടുകളുടെ പട്ടികകളേയും നിരീക്ഷിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Recent Documents"
 #~ msgctxt "Name"
 #~ msgid "Recent Document Watcher"
 #~ msgstr "ഈയിടെ തുറന്ന രേഖകള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Monitors directories for changes"
 #~ msgctxt "Comment"
 #~ msgid "Monitors \"Recent Documents\" folder for changes"
 #~ msgstr "തട്ടുകളില്‍ മാറ്റങ്ങളുണ്ടോ എന്നു് നിരീക്ഷിയ്ക്കുന്നു"
@@ -3006,8 +2621,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പണിയിട ഫയലുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Folder"
 #~ msgctxt "Name"
 #~ msgid "Folders"
 #~ msgstr "കൂട"
@@ -3061,8 +2674,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഹാര്‍ഡ്‌വെയര്‍ അറിയിപ്പുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Notifications triggered by solid"
 #~ msgctxt "Comment"
 #~ msgid "Notifications triggered by hardware devices"
 #~ msgstr "സോളിഡ് തുടങ്ങിയ അറിയിപ്പുകള്‍"
@@ -3072,8 +2683,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പുതിയ ഡിവൈസ് അറിയിക്കുന്നതിനുള്ള സംവിധാനം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Passive visual notifications for the user."
 #~ msgctxt "Comment"
 #~ msgid "The Plasma device notifier is present"
 #~ msgstr "ഉപയോക്താവിനുള്ള നടപടി വേണ്ടാത്ത ദൃശ്യ സൂചനകള്‍"
@@ -3159,8 +2768,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പുറത്തിറങ്ങുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "KDE is exiting"
 #~ msgctxt "Comment"
 #~ msgid "Session is exiting"
 #~ msgstr "കെഡിഇ അവസാനിപ്പിക്കുന്നു"
@@ -3606,8 +3213,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഫ്രഞ്ച് ഗയാന"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Germany"
 #~ msgctxt "Name"
 #~ msgid "Guernsey"
 #~ msgstr "ജര്‍മനി"
@@ -3829,8 +3434,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "മോണ്ടിനെഗ്രോ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "San Marino"
 #~ msgctxt "Name"
 #~ msgid "Saint Martin"
 #~ msgstr "സാന്‍‌ മാരിനോ"
@@ -3868,8 +3471,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "മക്കാവു സാര്‍(ചൈന)"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Marshall Islands"
 #~ msgctxt "Name"
 #~ msgid "Northern Mariana Islands"
 #~ msgstr "മാര്‍ഷല്‍‌ ദ്വീപുകള്‍"
@@ -4139,8 +3740,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സുരിനാം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "South Korea"
 #~ msgctxt "Name"
 #~ msgid "South Sudan"
 #~ msgstr "തെക്കന്‍ കൊറിയ"
@@ -4954,8 +4553,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സുരിനാമിലെ ഗില്‍ഡര്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Sudanese Pound"
 #~ msgctxt "Name"
 #~ msgid "South Sudanese Pound"
 #~ msgstr "സുഡാനിലെ പൌണ്ട്"
@@ -5305,15 +4902,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "എക്സ്-ജാലക ഉപകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Nepomuk Server"
 #~ msgctxt "Name"
 #~ msgid "Nepomuk"
 #~ msgstr "നെപ്പോമുക്ക് സെര്‍വര്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Nepomuk Strigi Service"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Nepomuk,Metadata"
 #~ msgstr "നെപ്പോമുക്ക് സ്ട്രിഗി സേവനം"
@@ -5323,8 +4916,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "നെപ്പോമുക്ക് തെരച്ചില്‍ മൊഡ്യൂള്‍"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Audio and Video IDE"
 #~ msgctxt "Name"
 #~ msgid "Audio and Video Settings"
 #~ msgstr "ശബ്ദ-ചലച്ചിത്ര ഐഡിഇ"
@@ -5350,15 +4941,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "അറ്റകൈയ്ക്കു്  ഉപയോഗിയ്ക്കേണ്ട ചിഹ്നപ്രമേയം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Newspaper activity"
 #~ msgctxt "Name"
 #~ msgid "Newspaper Layout"
 #~ msgstr "വര്‍ത്തമാനപത്രവുമായി ബന്ധപ്പെട്ട പ്രവര്‍ത്തനം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "An activity that puts widgets on two columns"
 #~ msgctxt "Comment"
 #~ msgid "A layout that puts widgets into columns"
 #~ msgstr "ഉരുപ്പടികള്‍ രണ്ടു് കളങ്ങളിള്‍ ഇടുവാനുള്ള പ്രവര്‍ത്തനം"
@@ -5368,22 +4955,16 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "വിദൂര ഉരുപ്പടികള്‍ക്കുള്ള നയങ്ങള്‍ സൂക്ഷിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Java & JavaScript"
 #~ msgctxt "Name"
 #~ msgid "Plasma JavaScript Addon"
 #~ msgstr "ജാവയും ജാവാസ്ക്രിപ്റ്റും"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Java & JavaScript"
 #~ msgctxt "Name"
 #~ msgid "Javascript Addon"
 #~ msgstr "ജാവയും ജാവാസ്ക്രിപ്റ്റും"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Native Plasma widget written in JavaScript"
 #~ msgctxt "Comment"
 #~ msgid "Native Plasma widget written in QML and JavaScript"
 #~ msgstr "ജാവാസ്ക്രിപ്റ്റില്‍ തയ്യാറാക്കിയിരിക്കുന്ന നേറ്റീവ് പ്ലാസ്മാ വിഡ്ജറ്റ്"
@@ -5417,8 +4998,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "വിന്‍ഡോസ് പ്ലാറ്റ്ഫോം കാര്യസ്ഥന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Platform"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Platform,Windows"
 #~ msgstr "പ്ലാറ്റ്ഫോം"
@@ -5448,8 +5027,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പുറത്തെടുക്കുവാനുള്ള ബട്ടണ്‍ അമര്‍ത്തുബോള്‍ ഡ്രൈവുകള്‍ സ്വയം പുറത്തെടുക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Removable Device Automounter"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Mount,Removable,Devices,Automatic"
 #~ msgstr "നീക്കം ചെയ്യാവുന്ന ഉപകരണങ്ങളുടെ ഔട്ടോമൌണ്ടര്‍"
@@ -5471,8 +5048,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഉപകരണങ്ങള്‍ ആവശ്യമുള്ളപ്പോള്‍ അവ സ്വയം മൌണ്ട് ചെയ്യുന്നതാണ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Network Status Daemon"
 #~ msgctxt "Name"
 #~ msgid "Network Status"
 #~ msgstr "ശൃംഖലാസ്ഥിതിഗതികള്‍ക്കുള്ള നിരന്തരപ്രവൃത്തി"
@@ -5667,8 +5242,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സൈന്‍ ബാക്കെന്‍ഡ് ക്രമീകരണം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Xine"
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid "Xine"
 #~ msgstr "സൈന്‍"
@@ -5682,24 +5255,16 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "നെപ്പോമുക്ക് സേവനം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Nepomuk Search Module"
 #~ msgctxt "Name"
 #~ msgid "Nepomuk Backup"
 #~ msgstr "നെപ്പോമുക്ക് തെരച്ചില്‍ മൊഡ്യൂള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Internal Services"
 #~ msgctxt "Name"
 #~ msgid "File Indexer Service"
 #~ msgstr "ആഭ്യന്തര സേവനങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid ""
-#~| "Nepomuk Service which controls the strigidaemon, i.e. indexes files on "
-#~| "the desktop"
 #~ msgctxt "Comment"
 #~ msgid "Nepomuk Service which indexes files on the desktop"
 #~ msgstr ""
@@ -5753,15 +5318,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഫയല്‍ മാറ്റങ്ങള്‍ നിരീക്ഷിക്കുവാനുള്ള നെപ്പോമുക്ക് ഫയല്‍ നിരീക്ഷണ സേവനം."
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Nepomuk Service"
 #~ msgctxt "Comment"
 #~ msgid "Nepomuk file watch service"
 #~ msgstr "നെപ്പോമുക്ക് സേവനം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Removable Devices"
 #~ msgctxt "Name"
 #~ msgid "New Removable Device"
 #~ msgstr "നീക്കം ചെയ്യാവുന്ന ഉപകരണങ്ങള്‍"
@@ -5827,22 +5388,16 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ "പുതിയ സൂക്ഷിപ്പു് സംവിധാനത്തിലേയ്ക്കു് എല്ലാ നെപ്പോമുക്ക്  ഡാറ്റയും വിജയകരമായി മാറ്റിക്കഴിഞ്ഞു"
 
 #, fuzzy
-#~| msgctxt "Query"
-#~| msgid "http://doc.trolltech.com/latest/\\\\{@}.html"
 #~ msgctxt "Query"
 #~ msgid "http://doc.qt.nokia.com/latest/\\\\{@}.html"
 #~ msgstr "http://doc.qt.nokia.com/latest/\\\\{@}.html"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Services"
 #~ msgctxt "Name"
 #~ msgid "Secret Service Server"
 #~ msgstr "സേവനങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Services"
 #~ msgctxt "Comment"
 #~ msgid "Secret Service Server"
 #~ msgstr "സേവനങ്ങള്‍"
@@ -5852,8 +5407,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "http://www.qrz.com/database?callsign=\\\\{@}"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Activity Manager"
 #~ msgctxt "Comment"
 #~ msgid "Activity manager plugin"
 #~ msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
@@ -5867,15 +5420,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "അക്റ്റിവിറ്റിയുടെ നടത്തിപ്പിനുള്ള ബാക്കെന്‍ഡ്"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Joystick settings"
 #~ msgctxt "Comment"
 #~ msgid "Just testing"
 #~ msgstr "ജോയ്സ്റ്റിക് സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Nepomuk Server"
 #~ msgctxt "Name"
 #~ msgid "Nepomuk Feeder Plugin"
 #~ msgstr "നെപ്പോമുക്ക് സെര്‍വര്‍"
@@ -5981,8 +5530,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "അടയാളവാക്ക് മാറ്റുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Bookmark Toolbar"
 #~ msgctxt "Name"
 #~ msgid "Bookmark Editor"
 #~ msgstr "പണിയായുധനിര"
@@ -5992,134 +5539,96 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "രേഖകളും കൂടകളും തിരയുക"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Clock"
 #~ msgctxt "Name"
 #~ msgid "Adblock"
 #~ msgstr "ഘടികാരം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Konqueror window"
 #~ msgctxt "Name"
 #~ msgid "Konqueror Feed Icon"
 #~ msgstr "കോണ്‍ക്വറിന്റെ ജാലകം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "X Refresh"
 #~ msgctxt "Name"
 #~ msgid "Auto Refresh"
 #~ msgstr "എക്സ് പുതുക്കല്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "LEO-Translate"
 #~ msgctxt "Name"
 #~ msgid "Translate"
 #~ msgstr "ലിയോ-പരിഭാഷ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Directory Watcher"
 #~ msgctxt "Name"
 #~ msgid "Directory Filter"
 #~ msgstr "തട്ടുകളുടെ നിരീക്ഷകന്‍"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Picture Viewer"
 #~ msgctxt "Name"
 #~ msgid "DOM Tree Viewer"
 #~ msgstr "ചിത്രദര്‍ശിനി"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Picture Viewer"
 #~ msgctxt "Name"
 #~ msgid "File Size Viewer"
 #~ msgstr "ചിത്രദര്‍ശിനി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "File size"
 #~ msgctxt "Name"
 #~ msgid "File Size View"
 #~ msgstr "ഫയലിന്റെ വലിപ്പം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Invert"
 #~ msgctxt "X-KDE-Submenu"
 #~ msgid "Convert To"
 #~ msgstr "വര്‍ണ്ണങ്ങളെ തലതിരിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "SGI"
 #~ msgctxt "Name"
 #~ msgid "GIF"
 #~ msgstr "എസ്ജിഐ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Settings"
 #~ msgctxt "Name"
 #~ msgid "KHTML Settings"
 #~ msgstr "സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Image Displayer"
 #~ msgctxt "Name"
 #~ msgid "Image Gallery"
 #~ msgstr "ചിത്രം പ്രദര്‍ശിപ്പിക്കുന്നതിനുള്ള സംവിധാനം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "DMA information"
 #~ msgctxt "Name"
 #~ msgid "Microformat Icon"
 #~ msgstr "ഡിഎംഎ വിവരം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Bookmarks"
 #~ msgctxt "Name"
 #~ msgid "Bookmarklets"
 #~ msgstr "ഓര്‍മ്മക്കുറിപ്പുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KDE API Documentation"
 #~ msgctxt "Name"
 #~ msgid "Document Relations"
 #~ msgstr "കെഡിഇ എപിഐ വിവരണം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Search Box"
 #~ msgctxt "Name"
 #~ msgid "Search Bar"
 #~ msgstr "തെരച്ചിലിനുള്ള പെട്ടി"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "UserAgent Strings"
 #~ msgctxt "Name"
 #~ msgid "UserAgent Changer"
 #~ msgstr "യൂസര്‍ഏജന്റ് വാക്യങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "FTP Archives"
 #~ msgctxt "Name"
 #~ msgid "Web Archiver"
 #~ msgstr "എഫ്‌ടിപി ശേഖരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "FTP Archives"
 #~ msgctxt "Name"
 #~ msgid "Web Archives"
 #~ msgstr "എഫ്‌ടിപി ശേഖരങ്ങള്‍"
@@ -6686,8 +6195,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഓട്ടോസ്റ്റാര്‍ട്ട്"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A configuration tool for managing which programs start up with KDE."
 #~ msgctxt "Comment"
 #~ msgid "A configuration tool for managing which programs start up."
 #~ msgstr ""
@@ -6738,15 +6245,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പ്രധാനപ്പെട്ട ഫയലുകള്‍ സൂക്ഷിച്ച സ്ഥാനം മാറ്റുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop Theme Details"
 #~ msgctxt "Name"
 #~ msgid "Desktop Theme"
 #~ msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Customize individual desktop theme items"
 #~ msgctxt "Comment"
 #~ msgid "Customize the desktop theme"
 #~ msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
@@ -6772,15 +6275,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ജോയ്സ്റ്റിക്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Cursor Files"
 #~ msgctxt "Name"
 #~ msgid "Cursor Theme"
 #~ msgstr "കര്‍സര്‍ ഫയലുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Customize individual desktop theme items"
 #~ msgctxt "Comment"
 #~ msgid "Customize the mouse cursor appearance"
 #~ msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
@@ -6802,8 +6301,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "കീബോര്‍ഡിന്റെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Keyboard Layout"
 #~ msgctxt "Name"
 #~ msgid "Keyboard Daemon"
 #~ msgstr "കീബോര്‍ഡ് വിന്യാസം"
@@ -6963,8 +6460,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പണിയറ"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Global options for the Plasma workspace"
 #~ msgctxt "Comment"
 #~ msgid "Global options for the Plasma Workspace"
 #~ msgstr "എല്ലാ പ്ലാസ്മാ പണിയറയ്ക്കുമുള്ള ഐച്ഛികങ്ങള്‍"
@@ -7018,22 +6513,16 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഹരി നായരുടെ എക്സ് ഗൃഹം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Date and Time Control Module"
 #~ msgctxt "Name"
 #~ msgid "Login Manager Control Module"
 #~ msgstr "തീയതിയും സമയവും നിയന്ത്രിയ്ക്കുന്ന ഭാഗം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Save the date/time settings"
 #~ msgctxt "Name"
 #~ msgid "Save the Login Manager settings"
 #~ msgstr "തീയതിയുടെ/സമയത്തിന്റെ സജ്ജീകരണങ്ങള്‍ സൂക്ഷിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "PrintScreen"
 #~ msgctxt "Name"
 #~ msgid "Login Screen"
 #~ msgstr "PrintScreen"
@@ -7043,8 +6532,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ലോഗിന്‍ മാനേജര്‍ ക്രമീകരിക്കുക (കെഡിഎം)"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Services"
 #~ msgctxt "Name"
 #~ msgid "Stripes"
 #~ msgstr "സേവനങ്ങള്‍"
@@ -7269,8 +6756,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഭാരംകൂറഞ്ഞ ജാലകപാലകന്‍. സജ്ജീകരിക്കാനാവത്ത അനലംകൃതമായതു്."
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "The UNIX Desktop Environment"
 #~ msgctxt "Comment"
 #~ msgid "Lightweight X11 desktop environment"
 #~ msgstr "യുണിക്സ് പണിയിട പരിസരം"
@@ -7472,15 +6957,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "നീല വൃത്തങ്ങളുള്ള പ്രമേയം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Details"
 #~ msgctxt "Name"
 #~ msgid "Ethais"
 #~ msgstr "വിശദവിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Comoros"
 #~ msgctxt "Name"
 #~ msgid "Horos"
 #~ msgstr "കൊമോറോസ്"
@@ -7647,8 +7128,8 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ "ആദ്യമായി \"Type 'Hello'\" നടപടികളിലെ അഭിപ്രായങ്ങള്‍ വായിയ്ക്കാം.\\n\\n.\"Type "
 #~ "'Hello'\"നടപടികളിലേതുപോലെ ഇതും കീബോര്‍ഡ് ഇന്‍പുട്ട് പോലെ തോന്നിക്കും,പ്രത്യേ‌കിച്ച് Ctrl+Alt"
 #~ "+B അമര്‍ത്തിയാല്‍ XMMS ലേക്ക്  B അയയ്ക്കും (XMMSല്‍ Bഅമര്‍ത്തിയാല്‍ അടുത്ത പാട്ടിലേക്ക് ചാടും). "
-#~ "Send to checkboxല്‍ അടയാളമിട്ട് XMMS_Player ഉള്ള ജാലകംക്ളാസുള്‍പ്പെടെ നിര്‍ദ്ദേശിച്ചല്‍ "
-#~ "ഇന്‍പുട്ട് എല്ലായ്പ്പോഴും ഈ ജാലകത്തിലേക്കയക്കും. വേറൊരുഅഭിനവ പണിയിടത്തിലായാല്‍പ്പോലും XMMSനെ "
+#~ "Send to checkboxല്‍ അടയാളമിട്ട് XMMS_Player ഉള്ള ജാലകംക്ളാസുള്‍പ്പെടെ നിര്‍ദ്ദേശിച്ചല്‍ ഇന്‍"
+#~ "പുട്ട് എല്ലായ്പ്പോഴും ഈ ജാലകത്തിലേക്കയക്കും. വേറൊരുഅഭിനവ പണിയിടത്തിലായാല്‍പ്പോലും XMMSനെ "
 #~ "ഇങ്ങനെ നിയന്ത്രിക്കാം.\\n\\n('xprop' ഓടിച്ച്XMMS ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്ത് "
 #~ "XMMS_Player കാണാന്‍ വേണ്ടി WM_CLASS പരതിനോക്കൂ)."
 
@@ -7694,15 +7175,15 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ "നീങ്ങുകമുന്നോട്ടും (Alt+Right)\\n ഇടത്തോട്ടും പിന്നില്‍ വലത്തോട്ടും നീങ്ങുക -പിന്നിലേക്ക്(Alt"
 #~ "+Left)\\n\\ മുകളിലേക്കുംപിന്നില്‍ താഴേക്കും നീങ്ങുക -മുകളിലേക്ക്(Alt+Up)\\n "
 #~ "അപ്രദക്ഷിണമായി വട്ടം കറങ്ങുക -വീണ്ടുംകയറ്റുക(F5)\\n\\nചിട്ടപ്പെടുത്തുന്നതിനുള്ള  "
-#~ "സംഭാഷണജാലകത്തില്‍ പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ട്  ആംഗ്യ ആകൃതികള്‍ചേര്‍ക്കനുമാവും. സഹായത്തിനായി "
-#~ "നിങ്ങള്‍ക്ക് ന്യൂമറിക് പാഡില്‍ ശ്രദ്ധിക്കാവുന്നതാണ്: 1മുതല്‍ 9വരെയുള്ള അക്കങ്ങളായി ക്ഷേത്രത്തിന്റെ "
-#~ "3x3 ഗ്രിഡ് പോലെയാണ് ആംഗ്യ‌‌ങ്ങള്‍ അംഗീകരിക്കപ്പെടുന്നത്.\\n\\nആംഗ്യ‌നടപടികള്‍ തുടങ്ങാന്‍ അത് "
-#~ "ശരിയായി നിങ്ങള്‍ ചെയ്യേണ്ടതുണ്ടെന്ന് ശ്രദ്ധിക്കണം. ഇക്കാരണത്താല്‍നടപടികള്‍ക്കുള്ള കൂടുതല്‍ ആംഗ്യ‌‌ങ്ങള്‍ "
-#~ "ചേര്‍ക്കന്‍ സാദ്ധ്യ‌‌തയുണ്ട്.മൌസിന്റെ നീക്കം ഒന്നിലധികം തവണഉപയോഗിക്കേണ്ടിവരുന്ന വിധത്തില്‍ "
-#~ "കെട്ടുപിണഞ്ഞ ആംഗ്യ‌ങ്ങള്‍ ഒഴിവാക്കുന്നതാണ് ഉത്തമം. ഉദാഹരണത്തിന്45654 അല്ലെങ്കില്‍ 74123 "
-#~ "എന്നിവ ലളിതമാണ്, എന്നാല്‍ 1236987തികച്ചും വിഷമിപ്പിക്കുന്നതാണ്.\\n\\n എല്ലാ "
-#~ "ആംഗ്യ‌ങ്ങള്‍ക്കുമുള്ള വ്യവസ്ഥകള്‍ ഈ ഗ്രൂപ്പില്‍ നിര്‍വ്വചിച്ചിട്ടുണ്ട്. കോണ്‍ക്വറര്‍ സജീവജാലകമാണെങ്കില്‍ "
-#~ "മാത്രമേഈ ആംഗ്യ‌ങ്ങള്‍ സജീവമാകുകയുള്ളു.(കോണ്‍ക്വറര്‍ ഉള്‍പ്പെട്ട ക്ലാസ്)."
+#~ "സംഭാഷണജാലകത്തില്‍ പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ട്  ആംഗ്യ ആകൃതികള്‍ചേര്‍ക്കനുമാവും. സഹായത്തിനായി നിങ്ങള്‍"
+#~ "ക്ക് ന്യൂമറിക് പാഡില്‍ ശ്രദ്ധിക്കാവുന്നതാണ്: 1മുതല്‍ 9വരെയുള്ള അക്കങ്ങളായി ക്ഷേത്രത്തിന്റെ 3x3 "
+#~ "ഗ്രിഡ് പോലെയാണ് ആംഗ്യ‌‌ങ്ങള്‍ അംഗീകരിക്കപ്പെടുന്നത്.\\n\\nആംഗ്യ‌നടപടികള്‍ തുടങ്ങാന്‍ അത് ശരിയായി "
+#~ "നിങ്ങള്‍ ചെയ്യേണ്ടതുണ്ടെന്ന് ശ്രദ്ധിക്കണം. ഇക്കാരണത്താല്‍നടപടികള്‍ക്കുള്ള കൂടുതല്‍ ആംഗ്യ‌‌ങ്ങള്‍ ചേര്‍ക്കന്‍ "
+#~ "സാദ്ധ്യ‌‌തയുണ്ട്.മൌസിന്റെ നീക്കം ഒന്നിലധികം തവണഉപയോഗിക്കേണ്ടിവരുന്ന വിധത്തില്‍ കെട്ടുപിണഞ്ഞ "
+#~ "ആംഗ്യ‌ങ്ങള്‍ ഒഴിവാക്കുന്നതാണ് ഉത്തമം. ഉദാഹരണത്തിന്45654 അല്ലെങ്കില്‍ 74123 എന്നിവ ലളിതമാണ്, "
+#~ "എന്നാല്‍ 1236987തികച്ചും വിഷമിപ്പിക്കുന്നതാണ്.\\n\\n എല്ലാ ആംഗ്യ‌ങ്ങള്‍ക്കുമുള്ള വ്യവസ്ഥകള്‍ ഈ "
+#~ "ഗ്രൂപ്പില്‍ നിര്‍വ്വചിച്ചിട്ടുണ്ട്. കോണ്‍ക്വറര്‍ സജീവജാലകമാണെങ്കില്‍ മാത്രമേഈ ആംഗ്യ‌ങ്ങള്‍ "
+#~ "സജീവമാകുകയുള്ളു.(കോണ്‍ക്വറര്‍ ഉള്‍പ്പെട്ട ക്ലാസ്)."
 
 #~ msgctxt "Name"
 #~ msgid "Konqi Gestures"
@@ -7786,8 +7267,8 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr ""
 #~ "യുആര്‍എല്‍/ഘടനയില്‍ ഒരുപടി മുകളിലേയ്ക്ക് പോവുക.\\nഒപേറാ-രീതി: അമര്‍ത്തി, മുകളിലേയ്ക്കു് നീങ്ങി, "
 #~ "ഇടത്തേയ്ക്കു് നീങ്ങി, വീണ്ടും മുകളിലേയ്ക്കു് നീങ്ങി, വിടുക..\\nഅറിയിപ്പ് : \"മുമ്പത്തെ "
-#~ "കിളിവാതില്‍ സജീവമാക്കുന്നതു\"മായി വിരുദ്ധമായതിനാല്‍ സഹജമായി "
-#~ "പ്രവര്‍ത്തനരഹിതമാക്കിയിരിയ്ക്കുന്നു."
+#~ "കിളിവാതില്‍ സജീവമാക്കുന്നതു\"മായി വിരുദ്ധമായതിനാല്‍ സഹജമായി പ്രവര്‍"
+#~ "ത്തനരഹിതമാക്കിയിരിയ്ക്കുന്നു."
 
 #~ msgctxt "Name"
 #~ msgid "Up #2"
@@ -7890,8 +7371,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "PrintScreen"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Web Shortcuts"
 #~ msgctxt "Name"
 #~ msgid "Custom Shortcuts"
 #~ msgstr "വെബിലെ കുറക്കുവഴികള്‍"
@@ -7901,22 +7380,16 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഇന്‍പുട്ട് പ്രവര്‍ത്തന സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Lost & Found"
 #~ msgctxt "Name"
 #~ msgid "Lost And Found"
 #~ msgstr "പോയതും കണ്ടതും"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Processor Information"
 #~ msgctxt "Name"
 #~ msgid "Graphical Information"
 #~ msgstr "പ്രൊസസ്സറിന്റെ വിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KInfoCenter"
 #~ msgctxt "Name"
 #~ msgid "KInfoCenter Category"
 #~ msgstr "കെഇന്‍ഫോസെന്റര്‍"
@@ -7926,8 +7399,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഉപകരണ വിവരം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Memory information"
 #~ msgctxt "Name"
 #~ msgid "Network Information"
 #~ msgstr "മെമ്മറിയെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
@@ -7941,15 +7412,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "വിവരകേന്ദ്രം"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Picture Viewer"
 #~ msgctxt "Name"
 #~ msgid "Device Viewer"
 #~ msgstr "ചിത്രദര്‍ശിനി"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Picture Viewer"
 #~ msgctxt "Comment"
 #~ msgid "Device Viewer"
 #~ msgstr "ചിത്രദര്‍ശിനി"
@@ -7987,8 +7454,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സ്കസിയുടെ വിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Hardware"
 #~ msgctxt "Comment"
 #~ msgid "Hardware Information Summary"
 #~ msgstr "ഹാര്‍ഡ്‌വെയര്‍"
@@ -8150,8 +7615,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ആജ്ഞ പ്രവര്‍ത്തിപ്പിക്കുന്നതിനുള്ള സംവിധാനം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen Saver"
 #~ msgctxt "Comment"
 #~ msgid "Screen Saver"
 #~ msgstr "സ്ക്രീന്‍ സേവര്‍"
@@ -8221,8 +7684,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സ്ക്രീന്‍സേവര്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Session Manager"
 #~ msgctxt "Name"
 #~ msgid "Session Management"
 #~ msgstr "സെഷന്‍ പാലകന്‍"
@@ -8408,8 +7869,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr " വെബ് വിഡ്ജറ്റിന്റെ രീതി"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "System Monitor"
 #~ msgctxt "Comment"
 #~ msgid "System Monitor"
 #~ msgstr "വ്യൂഹനിരീക്ഷണി"
@@ -8507,8 +7966,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഡാഷ്ബോര്‍ഡ്"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Desaturate the desktop when displaying the logout dialog"
 #~ msgctxt "Comment"
 #~ msgid "Desaturate the desktop when displaying the Plasma dashboard"
 #~ msgstr "പുറത്തേക്ക് കടക്കാനുള്ള ഡയലോഗ് കാണിക്കുംബോള്‍ പണിയിടം ഡീ-സാചുറേറ്റ് ചെയ്യുക"
@@ -8588,15 +8045,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ജാലക സ്വിച്ചര്‍  - alt+tab ഉപയോഗിച്ചു് ഒരു സ്റ്റാക്കിലുള്ള ജാലകങ്ങള്‍ തമ്മില്‍ മാറ്റുക."
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Slide"
 #~ msgctxt "Name"
 #~ msgid "Glide"
 #~ msgstr "തെന്നിമാറുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Make windows explode when they are closed"
 #~ msgctxt "Comment"
 #~ msgid "Windows Glide Effect as they are open and closed"
 #~ msgstr "അടയ്ക്കുമ്പോള്‍ ജാലകങ്ങള്‍ പൊട്ടിത്തെറിയ്ക്കുന്നു. "
@@ -8690,8 +8143,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ജാലകങ്ങള്‍ കളിച്ചുകൊണ്ടു് വരട്ടെ. "
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Screen Edges"
 #~ msgctxt "Name"
 #~ msgid "Screenshot"
 #~ msgstr "സ്ക്രീന്‍ അതിരുകള്‍"
@@ -8780,8 +8231,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പണിയിടത്തില്‍ മഞ്ഞുപെയ്യുന്ന പോലെ തോന്നട്ടെ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Launch Feedback"
 #~ msgctxt "Name"
 #~ msgid "Startup Feedback"
 #~ msgstr "അഭിപ്രായങ്ങള്‍ ലഭ്യമാക്കുക"
@@ -8895,8 +8344,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ജാലകങ്ങള്‍ പ്രത്യേക സാഹചര്യങ്ങളില്‍ അര്‍ദ്ധ-സുതാര്യമാക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Window Move Start"
 #~ msgctxt "Name"
 #~ msgid "WindowGeometry"
 #~ msgstr "ജാലകം നീങ്ങി തുടങ്ങുമ്പോള്‍"
@@ -8926,8 +8373,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പണിയിടത്തിനുള്ള പ്രഭാവങ്ങള്‍ ക്രമീകരിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Window Information"
 #~ msgctxt "Name"
 #~ msgid "Window Decorations"
 #~ msgstr "വിന്‍ഡോ വിവരം"
@@ -8937,8 +8382,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ജാലകങ്ങളുടെ തലക്കെട്ടിന്റെ ഭംഗി ക്രമീകരിക്കുക."
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Switch Desktop"
 #~ msgctxt "Name"
 #~ msgid "Virtual Desktops"
 #~ msgstr "പണിയിടം മാറുക"
@@ -8988,8 +8431,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ജാലകത്തിന്റെ വിശേഷത ക്രമീകരിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Window Close"
 #~ msgctxt "Name"
 #~ msgid "Window Rules"
 #~ msgstr "ജാലകം അടയ്ക്കുക"
@@ -9007,22 +8448,16 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സജീവമായ സ്ക്രീന്‍ അരികുകള്‍ ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Box Switch"
 #~ msgctxt "Name"
 #~ msgid "Task Switcher"
 #~ msgstr "ബോക്സ് സ്വിച്ച്"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure the behavior for navigating through windows."
 #~ msgctxt "Comment"
 #~ msgid "Configure the behavior for navigating through windows"
 #~ msgstr "ജാലകങ്ങളിലൂടെ നീങ്ങുന്നതിന്റെ പെരുമാറ്റം ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name|standard desktop component"
-#~| msgid "Window Manager"
 #~ msgctxt "Comment"
 #~ msgid "KWin Window Manager"
 #~ msgstr "ജാലക കാര്യസ്ഥന്‍"
@@ -9352,8 +8787,8 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ "The compositing performance was too slow and compositing has been "
 #~ "suspended"
 #~ msgstr ""
-#~ "കോമ്പോസിറ്റിങ്ങ് പെര്‍ഫോര്‍മന്‍സ് വളരെ പതുക്കെ ആയിരുന്നതിനാല്‍ കോമ്പോസിറ്റിങ്ങ് "
-#~ "നിര്‍ത്തിവെച്ചിരിക്കുന്നു"
+#~ "കോമ്പോസിറ്റിങ്ങ് പെര്‍ഫോര്‍മന്‍സ് വളരെ പതുക്കെ ആയിരുന്നതിനാല്‍ കോമ്പോസിറ്റിങ്ങ് നിര്‍"
+#~ "ത്തിവെച്ചിരിക്കുന്നു"
 
 #~ msgctxt "Name"
 #~ msgid "Compositing has been suspended"
@@ -9372,15 +8807,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പിന്‍നിര അല്ലെങ്കില്‍ ഖരസാമാഗ്രി പ്രഭാവങ്ങളെ പിന്തുണയ്ക്കുന്നില്ല."
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "A modifier key has been locked"
 #~ msgctxt "Comment"
 #~ msgid "Tiling mode has been enabled"
 #~ msgstr "ഒരു മോഡിഫയര്‍ കീ പൂട്ടിയിരിക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Slow keys has been enabled or disabled"
 #~ msgctxt "Comment"
 #~ msgid "Tiling mode has been disabled"
 #~ msgstr "സ്ലോ കീ പ്രവര്‍ത്തന സജ്ജമലെങ്കില്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിക്കുന്നു"
@@ -9392,12 +8823,10 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgctxt "Comment"
 #~ msgid "Watch for messages from local users sent with write(1) or wall(1)"
 #~ msgstr ""
-#~ "പ്രാദേശികോപയോക്താക്കളില്‍നിന്നുള്ള write(1) അല്ലെങ്കില്‍ wall(1) ഉപയോഗിച്ചയച്ച "
-#~ "സന്ദേശങ്ങള്‍ക്കായി ശ്രദ്ധിയ്ക്കുക"
+#~ "പ്രാദേശികോപയോക്താക്കളില്‍നിന്നുള്ള write(1) അല്ലെങ്കില്‍ wall(1) ഉപയോഗിച്ചയച്ച സന്ദേശങ്ങള്‍"
+#~ "ക്കായി ശ്രദ്ധിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KDE Write Daemon"
 #~ msgctxt "Name"
 #~ msgid "Write Daemon"
 #~ msgstr "കെഡിഇയിലെ അറിയിപ്പുകള്‍ക്കുള്ള നിരന്തരപ്രവൃത്തി"
@@ -9413,8 +8842,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ "നിരന്തരപ്രവൃത്തിയ്ക്കു് ലഭിച്ചിരിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "File Management"
 #~ msgctxt "Name"
 #~ msgid "Display Management"
 #~ msgstr "ഫയല്‍ നടത്തിപ്പ്"
@@ -9457,8 +8884,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഒരു പ്രക്രിയ പ്രവര്‍ത്തിപ്പിയ്ക്കേണ്ടതു് ഏതു് സിപിയു ഷെഡ്യൂളറാണെന്നു് മാറ്റുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Memory information"
 #~ msgctxt "Name"
 #~ msgid "Detailed Memory Information"
 #~ msgstr "മെമ്മറിയെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
@@ -9472,8 +8897,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "വ്യാജ ശൃംഖല നടത്തിപ്പു്"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Power Management Backend"
 #~ msgctxt "Comment"
 #~ msgid "Modem Management Backend"
 #~ msgstr "വൈദ്യുതി നടത്തിപ്പു് സംവിധാനം"
@@ -9531,15 +8954,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "തുറന്ന ജാലകങ്ങളുടെ പട്ടിക കാണിയ്ക്കാനുള്ള പ്ലാസ്മോയിഡ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Dashboard"
 #~ msgctxt "Name|plasma containment"
 #~ msgid "Desktop Dashboard"
 #~ msgstr "ഡാഷ്ബോര്‍ഡ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Dashboard"
 #~ msgctxt "Comment"
 #~ msgid "Widget Dashboard"
 #~ msgstr "ഡാഷ്ബോര്‍ഡ്"
@@ -9549,15 +8968,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പണിയിടം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Default desktop containment"
 #~ msgctxt "Comment"
 #~ msgid "Default desktop"
 #~ msgstr "സഹജമായ പണിയിട കണ്ടൈന്മെന്റ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Panel"
 #~ msgctxt "Name"
 #~ msgid "Empty Panel"
 #~ msgstr "പാളി"
@@ -9571,22 +8986,16 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Default Blue"
 #~ msgctxt "Name"
 #~ msgid "Default Panel"
 #~ msgstr "സ്വതവേയുള്ള നീല നിറം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Window List"
 #~ msgctxt "Name"
 #~ msgid "Find Widgets"
 #~ msgstr "ജാലകങ്ങളുടെ പട്ടിക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Switch Activity"
 #~ msgctxt "Name"
 #~ msgid "Photos Activity"
 #~ msgstr "പ്രക്രിയ മാറ്റുക"
@@ -9608,29 +9017,21 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഒരു പുതിയ ഉരുപ്പടി ശൃംഖലയില്‍ ലഭ്യമായി."
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Interact with the Plasma desktop shell"
 #~ msgctxt "Comment"
 #~ msgid "Default desktop toolbox for the Plasma desktop shell"
 #~ msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Network Tool"
 #~ msgctxt "Name"
 #~ msgid "Desktop toolbox"
 #~ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Interact with the Plasma desktop shell"
 #~ msgctxt "Comment"
 #~ msgid "Default panel toolbox for the Plasma desktop shell"
 #~ msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Network Tool"
 #~ msgctxt "Name"
 #~ msgid "Panel toolbox"
 #~ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
@@ -9704,8 +9105,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "അറിയിപ്പുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "KDE Notification Daemon"
 #~ msgctxt "Comment"
 #~ msgid "Display notifications and jobs"
 #~ msgstr "കെഡിഇയിലെ അറിയിപ്പുകള്‍ക്കുള്ള നിരന്തര പ്രവൃത്തി"
@@ -9727,8 +9126,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "നിങ്ങളുടെ പ്രിയപ്പെട്ട പ്രയോഗങ്ങള്‍ ആരംഭിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "A CPU usage monitor"
 #~ msgctxt "Name"
 #~ msgid "CPU Monitor"
 #~ msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
@@ -9738,8 +9135,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Has State"
 #~ msgctxt "Name"
 #~ msgid "Hard Disk Status"
 #~ msgstr "സ്ഥിതിയുണ്ട്"
@@ -9749,8 +9144,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഹാര്‍ഡ് ഡിസ്ക് ഉപയോഗം നിരീക്ഷകന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Hardware"
 #~ msgctxt "Name"
 #~ msgid "Hardware Info"
 #~ msgstr "ഹാര്‍ഡ്‌വെയര്‍"
@@ -9760,8 +9153,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഹാര്‍ഡ്വെവര്‍ വിവരം കാണിക്കുക"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Network Tool"
 #~ msgctxt "Name"
 #~ msgid "Network Monitor"
 #~ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
@@ -9771,8 +9162,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr " ശ്രംഖല ഉപയോഗം നിരീക്ഷകന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Samba Status"
 #~ msgctxt "Name"
 #~ msgid "Memory Status"
 #~ msgstr "സാംബാ സ്ഥിതിവിവരം"
@@ -9850,15 +9239,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "മാറാവുന്ന ജാലകങ്ങളടെ പട്ടിക കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Activity Manager"
 #~ msgctxt "Name"
 #~ msgid "Activities Engine"
 #~ msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Information about files and directories."
 #~ msgctxt "Comment"
 #~ msgid "Information on Plasma Activities"
 #~ msgstr "ഫയലുകളുടേയും തട്ടുകളുടേയും വിവരങ്ങള്‍."
@@ -9892,15 +9277,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "കലണ്ടര്‍ ഡാറ്റ എഞ്ചിന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Notifications"
 #~ msgctxt "Name"
 #~ msgid "Device Notifications"
 #~ msgstr "അറിയിപ്പുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Passive visual notifications for the user."
 #~ msgctxt "Comment"
 #~ msgid "Passive device notifications for the user."
 #~ msgstr "ഉപയോക്താവിനുള്ള നടപടി വേണ്ടാത്ത ദൃശ്യ സൂചനകള്‍"
@@ -10032,15 +9413,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ആര്‍എസ്എസ് ന്യൂസ് ഡേറ്റാ എഞ്ചിന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Image"
 #~ msgctxt "Name"
 #~ msgid "Imgur"
 #~ msgstr "ചിത്രം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Services"
 #~ msgctxt "Name"
 #~ msgid "ShareProvider"
 #~ msgstr "സേവനങ്ങള്‍"
@@ -10050,17 +9427,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സോളിഡ് നല്‍കുന്ന ഉപകരണങ്ങളെക്കുറിച്ചുള്ള ഡാറ്റ"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "System Process Information"
 #~ msgctxt "Name"
 #~ msgid "Status Notifier Information"
 #~ msgstr "സിസ്റ്റത്തിലെ പ്രൊസസ്സ് വിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid ""
-#~| "Keep track of applications that want to use the D-Bus based status "
-#~| "notifier protocol."
 #~ msgctxt "Comment"
 #~ msgid ""
 #~ "Engine for applications' status information, based on the Status Notifier "
@@ -10222,8 +9593,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "കോണ്‍ക്വററിനുള്ള വെബ് കുറുക്കുവഴികള്‍ ഉപയോഗിക്കുവാന്‍ അനുവദിക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Window List"
 #~ msgctxt "Name"
 #~ msgid "Windowed widgets"
 #~ msgstr "ജാലകങ്ങളുടെ പട്ടിക"
@@ -10269,15 +9638,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പൈത്തിണിനുള്ള പ്ലാസ്മ ഡാറ്റാഎഞ്ചിന്‍ പിന്തുണ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Python runner"
 #~ msgctxt "Name"
 #~ msgid "Python Runner"
 #~ msgstr "പൈത്തണ്‍ റണ്ണര്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasma runner support for Python"
 #~ msgctxt "Comment"
 #~ msgid "Plasma Runner support for Python"
 #~ msgstr "പൈത്തിണിനുള്ള പ്ലാസ്മ റണ്ണര്‍ പിന്തുണ"
@@ -10363,8 +9728,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പാളി വെയ്ക്കാനുള്ള കണ്ടൈന്‍മെന്റ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Search and Launch Engine"
 #~ msgctxt "Name"
 #~ msgid "Search and Launch"
 #~ msgstr "തെരയാനും തുടങ്ങാനുമുള്ള എഞ്ചിന്‍"
@@ -10435,36 +9798,26 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "നെറ്റ്ബൂക്കിനുവേണ്ടിയുള്ള എയര്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Pager"
 #~ msgctxt "Name"
 #~ msgid "Page one"
 #~ msgstr "പേജര്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Default Blue"
 #~ msgctxt "Comment"
 #~ msgid "Default Netbook Page"
 #~ msgstr "സ്വതവേയുള്ള നീല നിറം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Default Blue"
 #~ msgctxt "Name"
 #~ msgid "Default Netbook Panel"
 #~ msgstr "സ്വതവേയുള്ള നീല നിറം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Search and Launch Engine"
 #~ msgctxt "Name"
 #~ msgid "Search and launch"
 #~ msgstr "തെരയാനും തുടങ്ങാനുമുള്ള എഞ്ചിന്‍"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Network Tool"
 #~ msgctxt "Name"
 #~ msgid "Net toolbox"
 #~ msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
@@ -10474,120 +9827,86 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സേവര്‍പണിയിടം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Display Settings"
 #~ msgctxt "Name"
 #~ msgid "Display Brightness"
 #~ msgstr "പ്രദര്‍ശനത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Display"
 #~ msgctxt "Name"
 #~ msgid "Dim Display"
 #~ msgstr "പ്രദര്‍ശനം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop Effects"
 #~ msgctxt "Name"
 #~ msgid "Disable Desktop Effects"
 #~ msgstr "പണിയിടത്തിനുള്ള പ്രഭാവങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "CGI Scripts"
 #~ msgctxt "Name"
 #~ msgid "Run Script"
 #~ msgstr "സീജീഐ സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop Sessions"
 #~ msgctxt "Name"
 #~ msgid "Suspend Session"
 #~ msgstr "പണിയിടത്തിന്റെ പ്രവര്‍ത്തനവേളകള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Screen Saver Settings"
 #~ msgctxt "Name"
 #~ msgid "Screen Energy Saving"
 #~ msgstr "സ്ക്രീന്‍ സേവര്‍ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Font settings"
 #~ msgctxt "Comment"
 #~ msgid "Controls DPMS settings"
 #~ msgstr "അക്ഷരസഞ്ചയത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Power Management Backend"
 #~ msgctxt "Comment"
 #~ msgid "Power Management Action Extension"
 #~ msgstr "വൈദ്യുതി നടത്തിപ്പു് സംവിധാനം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "PowerDevil"
 #~ msgctxt "Name"
 #~ msgid "HAL PowerDevil Backend"
 #~ msgstr "പവര്‍ഡെവിള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Hardware power management using freedesktop.org HAL daemon"
 #~ msgctxt "Comment"
 #~ msgid "Use KDE Power Management system through freedesktop.org HAL daemon"
 #~ msgstr "freedesktop.org ഹാല്‍ ഡേമണ്‍ ഉപയോഗിച്ചുള്ള ഹാര്‍ഡ്‌വെയര്‍ വൈദ്യുതി നടത്തിപ്പു്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KDE 2"
 #~ msgctxt "Name"
 #~ msgid "KDE"
 #~ msgstr "കെഡിഇ 2"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Display Settings"
 #~ msgctxt "Name"
 #~ msgid "Get brightness"
 #~ msgstr "പ്രദര്‍ശനത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Description"
-#~| msgid "System policies prevent you from saving the date/time settings."
 #~ msgctxt "Description"
 #~ msgid "System policies prevent you from getting the brightness level."
 #~ msgstr "സിസ്റ്റത്തിലെ നയങ്ങള്‍ തിയ്യതി/സമയം ക്രമീകരിയ്ക്കുന്നതില്‍ നിന്നും നിങ്ങളെ തടയുന്നു."
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Display Settings"
 #~ msgctxt "Name"
 #~ msgid "Set brightness"
 #~ msgstr "പ്രദര്‍ശനത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Description"
-#~| msgid "System policies prevent you from saving the date/time settings."
 #~ msgctxt "Description"
 #~ msgid "System policies prevent you from setting the brightness level."
 #~ msgstr "സിസ്റ്റത്തിലെ നയങ്ങള്‍ തിയ്യതി/സമയം ക്രമീകരിയ്ക്കുന്നതില്‍ നിന്നും നിങ്ങളെ തടയുന്നു."
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "PowerDevil"
 #~ msgctxt "Name"
 #~ msgid "UPower PowerDevil Backend"
 #~ msgstr "പവര്‍ഡെവിള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Hardware power management using freedesktop.org HAL daemon"
 #~ msgctxt "Comment"
 #~ msgid ""
 #~ "Use KDE Power Management system through freedesktop.org upower daemon"
@@ -10598,29 +9917,21 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "വൈദ്യുതി നടത്തിപ്പു്"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Color settings"
 #~ msgctxt "Name"
 #~ msgid "Global settings"
 #~ msgstr "നിറങ്ങളുടെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure file manager services"
 #~ msgctxt "Comment"
 #~ msgid "Configure global Power Management settings"
 #~ msgstr "ഫയല്‍ നടത്തിപ്പുകാരന്റെ സേവനങ്ങള്‍ ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Configure file manager services"
 #~ msgctxt "Comment"
 #~ msgid "Configure Power Management Profiles"
 #~ msgstr "ഫയല്‍ നടത്തിപ്പുകാരന്റെ സേവനങ്ങള്‍ ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Power Management"
 #~ msgctxt "Name"
 #~ msgid "KDE Power Management System"
 #~ msgstr "വൈദ്യുതി നടത്തിപ്പു്"
@@ -10712,15 +10023,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ "തുടങ്ങുകയും ചെയ്യുന്നു, അതിനാല്‍ ഇതു് സജീവമായി വയ്ക്കാന്‍ ശക്തിയായി ഉപദേശിയ്ക്കുന്നു."
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Internal PowerDevil Error"
 #~ msgctxt "Name"
 #~ msgid "Internal KDE Power Management System Error"
 #~ msgstr "പവര്‍ഡെവിളില്‍ ആന്തരിക തെറ്റു്"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "PowerDevil has triggered an internal error"
 #~ msgctxt "Comment"
 #~ msgid "The KDE Power Management System has triggered an internal error"
 #~ msgstr "പവര്‍ഡെവിളില്‍ ഒരു ആന്തരിക പിശക് തുടങ്ങിയിരിക്കുന്നു"
@@ -10735,15 +10042,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഒരു പ്രയോഗം ആവശ്യപ്പെട്ട പ്രകാരം മയങ്ങള്‍ തടഞ്ഞിരിയ്ക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Browser Identification"
 #~ msgctxt "Name"
 #~ msgid "Broken battery notification"
 #~ msgstr "ബ്രൌസര്‍ തിരിച്ചറിയല്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Information Message"
 #~ msgctxt "Name"
 #~ msgid "Information Sources"
 #~ msgstr "സന്ദേശം"
@@ -10761,15 +10064,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ലിനക്സ് വിദൂര ഇന്‍ഫ്രാറെഡ് നിയന്ത്രണം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "NetworkManager 0.7"
 #~ msgctxt "Name"
 #~ msgid "ModemManager 0.4"
 #~ msgstr "ശൃംഖലാനടത്തിപ്പുകാരന്‍ 0.7"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Network management using the NetworkManager daemon, version 0.7"
 #~ msgctxt "Comment"
 #~ msgid "Network management using the ModemManager daemon, version 0.4"
 #~ msgstr "ശൃംഖലാനടത്തിപ്പുകാരന്‍ ഡെമണ്‍ 0.7 പതിപ്പു് ഉപയോഗിച്ചുള്ള ശൃംഖലാ നടത്തിപ്പു്"
@@ -11027,8 +10326,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "വൈക്കഡ് നിരന്തരപ്രവൃത്തി ഉപയോഗിക്കുച്ചുള്ള നെറ്റ്‌വര്‍ക്ക് മാനേജ്മെന്റ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KDED Status Notifier watcher"
 #~ msgctxt "Name"
 #~ msgid "Status Notifier Manager"
 #~ msgstr "കെഡിഇഡി അവസ്ഥ അറിയിപ്പുകളുടെ നിരീക്ഷകന്‍"
@@ -11042,29 +10339,21 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Details"
 #~ msgctxt "Name"
 #~ msgid "Account Details"
 #~ msgstr "വിശദവിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Notifications"
 #~ msgctxt "Name"
 #~ msgid "Application and System Notifications"
 #~ msgstr "പ്രയോഗ അറിയിപ്പുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Launcher"
 #~ msgctxt "Name"
 #~ msgid "Common Appearance and Behavior"
 #~ msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Launcher"
 #~ msgctxt "Name"
 #~ msgid "Application Appearance"
 #~ msgstr "പ്രയോഗവിക്ഷേപിണി"
@@ -11074,22 +10363,16 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ബ്ലൂടൂത്ത്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Launcher"
 #~ msgctxt "Name"
 #~ msgid "Workspace Appearance"
 #~ msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Customize individual desktop theme items"
 #~ msgctxt "Comment"
 #~ msgid "Customize the appearance of your desktop"
 #~ msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "File Management"
 #~ msgctxt "Name"
 #~ msgid "Display and Monitor"
 #~ msgstr "ഫയല്‍ നടത്തിപ്പ്"
@@ -11099,29 +10382,21 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഹാര്‍ഡ്‌വെയര്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Input Devices"
 #~ msgstr "ഉപകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "GenericName"
-#~| msgid "Logic Game"
 #~ msgctxt "Name"
 #~ msgid "Locale"
 #~ msgstr "ബുദ്ധി ഉപയോഗിച്ചുള്ള കളി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Lost & Found"
 #~ msgctxt "Name"
 #~ msgid "Lost and Found"
 #~ msgstr "പോയതും കണ്ടതും"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Network & Connectivity"
 #~ msgctxt "Name"
 #~ msgid "Network and Connectivity"
 #~ msgstr "ശൃംഖലയും ബന്ധവും"
@@ -11131,15 +10406,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ശൃംഖലയുടെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Partitions"
 #~ msgctxt "Name"
 #~ msgid "Permissions"
 #~ msgstr "ഡിസ്ക് ഭാഗങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Processor Information"
 #~ msgctxt "Name"
 #~ msgid "Personal Information"
 #~ msgstr "പ്രൊസസ്സറിന്റെ വിവരങ്ങള്‍"
@@ -11149,29 +10420,21 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പങ്കിടല്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Shortcut icon support"
 #~ msgctxt "Name"
 #~ msgid "Shortcuts and Gestures"
 #~ msgstr "കുറുക്കുവഴിചിഹ്ന പിന്തുണ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "SAM System-Administration"
 #~ msgctxt "Name"
 #~ msgid "System Administration"
 #~ msgstr "സാം സിസ്റ്റം-അഡ്മിനിസ്ട്രേറ്റഷന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Application Launcher"
 #~ msgctxt "Name"
 #~ msgid "Workspace Appearance and Behavior"
 #~ msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Web Behavior"
 #~ msgctxt "Name"
 #~ msgid "Workspace Behavior"
 #~ msgstr "വെബിലെ പെരുമാറ്റം"
@@ -11205,8 +10468,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "അഘി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Bluetooth"
 #~ msgctxt "Name"
 #~ msgid "Blue Wood"
 #~ msgstr "ബ്ലൂടൂത്ത്"
@@ -11228,15 +10489,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ഉണര്‍വ്വാര്‍ന്ന പ്രഭാതം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Graphics"
 #~ msgctxt "Name"
 #~ msgid "Grass"
 #~ msgstr "ഗ്രാഫിക്സ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Panama"
 #~ msgctxt "Name"
 #~ msgid "Hanami"
 #~ msgstr "പനാമ"
@@ -11258,8 +10515,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "ചുവപ്പനില"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Paste"
 #~ msgctxt "Name"
 #~ msgid "pastebin.ca"
 #~ msgstr "ഒട്ടിയ്ക്കുക"
@@ -11297,8 +10552,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "യുഎസ് ഇംഗ്ലീഷ്"
 
 #, fuzzy
-#~| msgctxt "Name|plasma data engine"
-#~| msgid "Power Management"
 #~ msgctxt "Comment"
 #~ msgid "Power Management"
 #~ msgstr "വൈദ്യുതി നടത്തിപ്പു്"
@@ -11316,15 +10569,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പ്രയോഗങ്ങള്‍ക്കായുള്ള നയങ്ങള്‍ സജ്ജീകരിയ്ക്കാനുള്ള നയസഞ്ചി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Sharpen"
 #~ msgctxt "Name"
 #~ msgid "Share"
 #~ msgstr "സൂക്ഷ്മമാക്കുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Display brightness, suspend and power profile settings"
 #~ msgctxt "Comment"
 #~ msgid "Display brightness, suspend and power profile settings"
 #~ msgstr ""
@@ -11536,15 +10785,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പ്രൊസസ്സറിന്റെ വിവരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Metacity"
 #~ msgctxt "Name"
 #~ msgid "Security"
 #~ msgstr "മെറ്റാസിറ്റി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Desktop Search"
 #~ msgctxt "Name"
 #~ msgid "Desktop Appearance"
 #~ msgstr "പണിയിടം തിരയല്‍"
@@ -11618,8 +10863,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "അലെക്സാ യുആര്‍എല്‍"
 
 #, fuzzy
-#~| msgctxt "Query"
-#~| msgid "http://info.alexa.com/data/details?url=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid "http://www.alexa.com/data/details?url=\\\\{@}"
 #~ msgstr "http://info.alexa.com/data/details?url=\\\\{@}"
@@ -11681,10 +10924,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "whatis ചോദ്യം "
 
 #, fuzzy
-#~| msgctxt "Query"
-#~| msgid ""
-#~| "http://whatis.techtarget.com/definitionsSearchResults/1,289878,sid9,00."
-#~| "html?query=\\\\{@}"
 #~ msgctxt "Query"
 #~ msgid ""
 #~ "http://whatis.techtarget.com/wsearchResultsB/0,,sid9,00.html?query=\\\\{@}"
@@ -11693,8 +10932,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ "html?query=\\\\{@}"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Device Information"
 #~ msgctxt "Comment"
 #~ msgid "Device Information"
 #~ msgstr "ഉപകരണ വിവരം"
@@ -11708,8 +10945,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പ്രോട്ടോക്കോളുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Slide Back"
 #~ msgctxt "Name"
 #~ msgid "Solid Backend"
 #~ msgstr "പുറകോട്ടു് തെന്നിമാറുക"
@@ -11719,15 +10954,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "പൊതുവായ"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Main Input Devices"
 #~ msgstr "ഉപകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Devices"
 #~ msgctxt "Name"
 #~ msgid "Other Input Devices"
 #~ msgstr "ഉപകരണങ്ങള്‍"
@@ -11785,8 +11016,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "സിസ്റ്റം അറിയിപ്പുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Manage Open Collaboration Services providers"
 #~ msgctxt "Name"
 #~ msgid "Open Collaboration Services provider"
 #~ msgstr "തുറന്ന കൊളാബൊറേഷന്‍ സേവന ധാതാവിനെ കൈകാര്യം ചെയ്യുക"
@@ -13272,15 +12501,11 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgstr "മെനു പുതുക്കല്‍ സഹായി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Solid Device Type"
 #~ msgctxt "Comment"
 #~ msgid "Solid Device Viewer"
 #~ msgstr "സോളിഡ് ഉപകരണതരം"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Network Interfaces"
 #~ msgctxt "Comment"
 #~ msgid "Network Interface Summary"
 #~ msgstr "ശൃംഖലാ വിനിമയതലങ്ങള്‍"
@@ -13469,8 +12694,6 @@ msgstr "കിളിവാതിലുകളുപയോഗിച്ചുകൊ
 #~ msgid "Define policies for remote plasma widgets"
 #~ msgstr "വിദൂര പ്ലാസ്മാ ഉരുപ്പടികള്‍ക്കുള്ള നയങ്ങള്‍ വ്യക്തമാക്കുക"
 
-#~| msgctxt "Comment"
-#~| msgid "An SVG themable clock"
 #~ msgctxt "Comment"
 #~ msgid "A themable analog clock"
 #~ msgstr "പല പ്രമേയങ്ങളുപയോഗിയ്ക്കാവുന്ന അനലോഗ് ഘടികാരം"

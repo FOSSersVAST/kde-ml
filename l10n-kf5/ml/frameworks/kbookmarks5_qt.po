@@ -37,7 +37,6 @@ msgstr ""
 
 #: kbookmarkcontextmenu.cpp:71
 #, fuzzy
-#| msgid "Delete File"
 msgctxt "KBookmarkContextMenu|"
 msgid "Delete Folder"
 msgstr "ഫയല്‍ വെട്ടിമാറ്റുക"
@@ -54,15 +53,12 @@ msgstr ""
 
 #: kbookmarkcontextmenu.cpp:84
 #, fuzzy
-#| msgid "Delete"
 msgctxt "KBookmarkContextMenu|"
 msgid "Delete Bookmark"
 msgstr "വെട്ടിമാറ്റുക"
 
 #: kbookmarkcontextmenu.cpp:90
 #, fuzzy
-#| msgid "One Folder"
-#| msgid_plural "%1 Folders"
 msgctxt "KBookmarkContextMenu|"
 msgid "Open Folder in Tabs"
 msgstr "ഒരു ഫോള്‍ഡര്‍"
@@ -100,14 +96,12 @@ msgstr ""
 
 #: kbookmarkdialog.cpp:70
 #, fuzzy
-#| msgid "By Name"
 msgctxt "KBookmarkDialog|@label:textbox"
 msgid "Name:"
 msgstr "പേരനുസരിച്ചു്"
 
 #: kbookmarkdialog.cpp:75
 #, fuzzy
-#| msgid "Information"
 msgctxt "KBookmarkDialog|@label:textbox"
 msgid "Location:"
 msgstr "വിവരം"
@@ -129,7 +123,6 @@ msgstr ""
 
 #: kbookmarkdialog.cpp:223 kbookmarkdialog.cpp:261 kbookmarkdialog.cpp:295
 #, fuzzy
-#| msgid "New Folder..."
 msgctxt "KBookmarkDialog|@action:button"
 msgid "&New Folder..."
 msgstr "പുതിയ ഫോള്‍ഡര്‍..."
@@ -151,31 +144,24 @@ msgstr ""
 
 #: kbookmarkdialog.cpp:299
 #, fuzzy
-#| msgid "One Folder"
-#| msgid_plural "%1 Folders"
 msgctxt "KBookmarkDialog|@title:window"
 msgid "Select Folder"
 msgstr "ഒരു ഫോള്‍ഡര്‍"
 
 #: kbookmarkdialog.cpp:327
 #, fuzzy
-#| msgid "New Folder"
 msgctxt "KBookmarkDialog|@title:window"
 msgid "New Folder"
 msgstr "പുതിയ ഫോള്‍ഡര്‍"
 
 #: kbookmarkdialog.cpp:362
 #, fuzzy
-#| msgid "Detailed View"
 msgctxt "KBookmarkDialog|@title:window"
 msgid "Create New Bookmark Folder"
 msgstr "വിശദമായ കാഴ്ച"
 
 #: kbookmarkdialog.cpp:363
 #, fuzzy, qt-format
-#| msgid ""
-#| "Create new folder in:\n"
-#| "%1"
 msgctxt "KBookmarkDialog|@title:window"
 msgid "Create New Bookmark Folder in %1"
 msgstr ""
@@ -184,7 +170,6 @@ msgstr ""
 
 #: kbookmarkdialog.cpp:365
 #, fuzzy
-#| msgid "New Folder"
 msgctxt "KBookmarkDialog|@label:textbox"
 msgid "New folder:"
 msgstr "പുതിയ ഫോള്‍ഡര്‍"
@@ -255,8 +240,6 @@ msgstr ""
 
 #: kbookmarkmenu.cpp:277
 #, fuzzy
-#| msgid "One Folder"
-#| msgid_plural "%1 Folders"
 msgctxt "KBookmarkMenu|"
 msgid "Open Folder in Tabs"
 msgstr "ഒരു ഫോള്‍ഡര്‍"
@@ -283,16 +266,12 @@ msgstr ""
 
 #: kbookmarkmenu.cpp:353
 #, fuzzy
-#| msgid "New Folder..."
 msgctxt "KBookmarkMenu|"
 msgid "New Bookmark Folder..."
 msgstr "പുതിയ ഫോള്‍ഡര്‍..."
 
 #: kbookmarkmenu.cpp:355
 #, fuzzy
-#| msgid ""
-#| "Create new folder in:\n"
-#| "%1"
 msgctxt "KBookmarkMenu|"
 msgid "Create a new bookmark folder in this menu"
 msgstr ""
@@ -306,7 +285,6 @@ msgstr ""
 
 #: konqbookmarkmenu.cpp:59 konqbookmarkmenu.cpp:72
 #, fuzzy
-#| msgid "Show Hidden Folders"
 msgctxt "KonqBookmarkContextMenu|"
 msgid "Show in toolbar"
 msgstr "അദൃശ്യമായ ഫോള്‍ഡറുകള്‍ കാണിക്കുക"

@@ -9,14 +9,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-07-28 01:43+0530\n"
 "PO-Revision-Date: 2019-08-03 21:10+0530\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Last-Translator: ലക്ഷ്മി സുനില്‍ <lakshmisunil12@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
+"Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.11\n"
-"Last-Translator: ലക്ഷ്മി സുനില്‍ <lakshmisunil12@gmail.com>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: ml\n"
 
 #: declarativeimports/calendar/eventdatadecorator.cpp:64
 #, kde-format
@@ -135,18 +136,19 @@ msgstr "പ്രമേയത്തിനായുള്ള ഓണ്‍-ഡി�
 #: plasma/data/kconfigxt/libplasma-theme-global.kcfg:14
 #, kde-format
 msgid ""
-"The maximum size of the on-disk Theme cache in kilobytes. Note that these files are sparse "
-"files, so the maximum size may not be used. Setting a larger size is therefore often quite "
-"safe."
+"The maximum size of the on-disk Theme cache in kilobytes. Note that these "
+"files are sparse files, so the maximum size may not be used. Setting a "
+"larger size is therefore often quite safe."
 msgstr ""
 
-#: plasma/packagestructure/dataenginepackage.cpp:39 plasma/packagestructure/packages.cpp:98
-#: plasmaquick/private/packages.cpp:117
+#: plasma/packagestructure/dataenginepackage.cpp:39
+#: plasma/packagestructure/packages.cpp:98 plasmaquick/private/packages.cpp:117
 #, kde-format
 msgid "Data Files"
 msgstr "ഡാറ്റ ഫയലുകള്‍"
 
-#: plasma/packagestructure/dataenginepackage.cpp:41 plasma/packagestructure/packages.cpp:100
+#: plasma/packagestructure/dataenginepackage.cpp:41
+#: plasma/packagestructure/packages.cpp:100
 #: plasmaquick/private/packages.cpp:119
 #, kde-format
 msgid "Executable Scripts"
@@ -157,14 +159,16 @@ msgstr "പ്രവര്‍ത്തിപ്പിക്കാവുന്ന
 msgid "Service Descriptions"
 msgstr "സേവനവിവരണം"
 
-#: plasma/packagestructure/dataenginepackage.cpp:49 plasma/packagestructure/packages.cpp:106
+#: plasma/packagestructure/dataenginepackage.cpp:49
+#: plasma/packagestructure/packages.cpp:106
 #: plasmaquick/private/packages.cpp:124
 #, kde-format
 msgid "Translations"
 msgstr "പരിഭാഷ"
 
-#: plasma/packagestructure/packages.cpp:42 plasma/packagestructure/packages.cpp:62
-#: plasmaquick/private/packages.cpp:86 plasmaquick/private/packages.cpp:131
+#: plasma/packagestructure/packages.cpp:42
+#: plasma/packagestructure/packages.cpp:62 plasmaquick/private/packages.cpp:86
+#: plasmaquick/private/packages.cpp:131
 #, kde-format
 msgid "Main Script File"
 msgstr "പ്രധാനസ്ക്രിപ്റ്റ് ഫയല്‍"
@@ -439,7 +443,8 @@ msgstr "%2 വിഡ്ജറ്റിനാവശ്യമായ %1 പാക�
 
 #: plasma/private/applet_p.cpp:182
 #, kde-format
-msgctxt "API or programming language the widget was written in, name of the widget"
+msgctxt ""
+"API or programming language the widget was written in, name of the widget"
 msgid "Could not create a %1 ScriptEngine for the %2 widget."
 msgstr "%2 വിഡ്ജറ്റിനു വേണ്ട %1 സ്ക്രിപ്റ്റ് എന്‍ജിന്‍ സൃഷ്ടിക്കുവാനായില്ല."
 
@@ -493,7 +498,8 @@ msgstr "വിഡ്ജറ്റ് ക്രമീകരണങ്ങള്‍"
 msgid "Remove this Widget"
 msgstr "ഈ വിഡ്ജറ്റ് നീക്കംചെയ്യുക"
 
-#: plasma/private/applet_p.cpp:392 plasma/private/associatedapplicationmanager.cpp:77
+#: plasma/private/applet_p.cpp:392
+#: plasma/private/associatedapplicationmanager.cpp:77
 #: plasma/private/associatedapplicationmanager.cpp:136
 #: plasma/private/associatedapplicationmanager.cpp:178
 #, kde-format
@@ -540,10 +546,11 @@ msgstr "ആവശ്യപ്പെട്ട ഘടകം കണ്ടെത്�
 #: plasma/private/publish.ui:17
 #, fuzzy, kde-format
 msgid ""
-"Sharing a widget on the network allows you to access this widget from another computer as a "
-"remote control."
+"Sharing a widget on the network allows you to access this widget from "
+"another computer as a remote control."
 msgstr ""
-"ഒരു വി‍‍ഡ്ജറ്റ് ശൃഖലയില്‍ പങ്കുവയ്ക്കുന്നത് ആ വിഡ്ജറ്റ് വിദൂരത്തിലുള്ള മറ്റൊരു കമ്പ്യൂട്ടറില്‍ നിന്ന് നിയന്ത്രിക്കാന്‍ അനുവദിക്കുന്നു."
+"ഒരു വി‍‍ഡ്ജറ്റ് ശൃഖലയില്‍ പങ്കുവയ്ക്കുന്നത് ആ വിഡ്ജറ്റ് വിദൂരത്തിലുള്ള മറ്റൊരു കമ്പ്യൂട്ടറില്‍ നിന്ന് "
+"നിയന്ത്രിക്കാന്‍ അനുവദിക്കുന്നു."
 
 #. i18n: ectx: property (text), widget (QCheckBox, publishCheckbox)
 #: plasma/private/publish.ui:27

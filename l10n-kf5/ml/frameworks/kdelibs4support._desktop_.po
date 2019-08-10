@@ -22,64 +22,48 @@ msgstr ""
 
 #: data/currency/adf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Andorra"
 msgctxt "Name"
 msgid "Andorran Franc"
 msgstr "ആന്‍ഡോരാ"
 
 #: data/currency/adp.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Andorra"
 msgctxt "Name"
 msgid "Andorran Peseta"
 msgstr "ആന്‍ഡോരാ"
 
 #: data/currency/aed.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "United Arab Emirates"
 msgctxt "Name"
 msgid "United Arab Emirates Dirham"
 msgstr "യുണൈറ്റഡ് അറബ് എമിറൈറ്റ്സ്"
 
 #: data/currency/afa.desktop:5 data/currency/afn.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Afghanistan"
 msgctxt "Name"
 msgid "Afghan Afghani"
 msgstr "അഫ്ഗാനിസ്ഥാന്‍"
 
 #: data/currency/all.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Albanian"
 msgctxt "Name"
 msgid "Albanian Lek"
 msgstr "അല്ബേനിയന്‍"
 
 #: data/currency/amd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Armenian"
 msgctxt "Name"
 msgid "Armenian Dram"
 msgstr "അര്‍മീനിയന്‍"
 
 #: data/currency/ang.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Netherlands Antilles"
 msgctxt "Name"
 msgid "Netherlands Antillean Guilder"
 msgstr "നെദര്‍ലാന്‍ഡ്സ് ആന്റില്‍സ്"
 
 #: data/currency/aoa.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Mongolian"
 msgctxt "Name"
 msgid "Angolan Kwanza"
 msgstr "മംഗോളിയ"
@@ -91,8 +75,6 @@ msgstr "അന്ഗോളിയന്‍ നോവൊ ക്വാന്‍സ�
 
 #: data/currency/ars.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Argentina"
 msgctxt "Name"
 msgid "Argentine Peso"
 msgstr "അര്‍ജന്റീന"
@@ -104,8 +86,6 @@ msgstr "ഓസ്ട്രിയന്‍ ഷിലിങ്ങ് "
 
 #: data/currency/aud.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Italian"
 msgctxt "Name"
 msgid "Australian Dollar"
 msgstr "ഇറ്റാലിയന്‍"
@@ -117,32 +97,24 @@ msgstr "അറുബന്‍ ഫ്ലൊറിന്‍"
 
 #: data/currency/azm.desktop:5 data/currency/azn.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Azerbaijani"
 msgctxt "Name"
 msgid "Azerbaijani Manat"
 msgstr "അസര്‍ബെയ്ജാനി"
 
 #: data/currency/bam.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bosnia and Herzegovina"
 msgctxt "Name"
 msgid "Bosnia and Herzegovina Convertible Mark"
 msgstr "ബോസ്നിയയും ഹെര്‍സഗോവിനയും"
 
 #: data/currency/bbd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Barbados"
 msgctxt "Name"
 msgid "Barbados Dollar"
 msgstr "ബാര്‍ബഡോസ്"
 
 #: data/currency/bdt.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bangladesh"
 msgctxt "Name"
 msgid "Bangladeshi Taka"
 msgstr "ബംഗ്ലാദേശ്"
@@ -154,48 +126,36 @@ msgstr "ബെല്‍ജിയന്‍ ഫ്രാങ്കു്"
 
 #: data/currency/bgl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bulgarian"
 msgctxt "Name"
 msgid "Bulgarian Lev A/99"
 msgstr "ബള്‍ഗേറിയന്‍"
 
 #: data/currency/bgn.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bulgarian"
 msgctxt "Name"
 msgid "Bulgarian Lev"
 msgstr "ബള്‍ഗേറിയന്‍"
 
 #: data/currency/bhd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bahrain"
 msgctxt "Name"
 msgid "Bahraini Dinar"
 msgstr "ബഹ്റൈന്‍"
 
 #: data/currency/bif.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Rundi"
 msgctxt "Name"
 msgid "Burundian Franc"
 msgstr "റന്‍ഡി"
 
 #: data/currency/bmd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bermuda"
 msgctxt "Name"
 msgid "Bermuda Dollar"
 msgstr "ബെര്‍മൂഡ"
 
 #: data/currency/bnd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Brunei Darussalam"
 msgctxt "Name"
 msgid "Brunei Dollar"
 msgstr "ബ്രൂണെയി ഡാറുസ്സാലം"
@@ -207,16 +167,12 @@ msgstr "ബൊളീവിയയിലെ ബൊളിവിയാനോ"
 
 #: data/currency/bov.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bolivia"
 msgctxt "Name"
 msgid "Bolivian Mvdol"
 msgstr "ബൊളിവിയ"
 
 #: data/currency/brl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Brazilian Portuguese"
 msgctxt "Name"
 msgid "Brazilian Real"
 msgstr "ബ്രസീലിലെപോര്‍ച്ചുഗീസ്"
@@ -233,24 +189,18 @@ msgstr "ഭൂട്ടാനിലെ ഗള്‍ട്ടറം"
 
 #: data/currency/bwp.desktop:6
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Tswana"
 msgctxt "Name"
 msgid "Botswana Pula"
 msgstr "സ്വാന"
 
 #: data/currency/byr.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Belarusian"
 msgctxt "Name"
 msgid "Belarusian Ruble"
 msgstr "ബെലാറൂഷ്യന്‍"
 
 #: data/currency/bzd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Belize"
 msgctxt "Name"
 msgid "Belize Dollar"
 msgstr "ബെലിസ്"
@@ -282,16 +232,12 @@ msgstr "ചിലിയിലെ പെസൊ"
 
 #: data/currency/cny.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Chinese"
 msgctxt "Name"
 msgid "Chinese Yuan"
 msgstr "ചൈനീസ്"
 
 #: data/currency/cop.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Colombia"
 msgctxt "Name"
 msgid "Colombian Peso"
 msgstr "കൊളംബിയ"
@@ -303,8 +249,6 @@ msgstr "കൊളംബിയയിലെ യുനിദാദ് ദെ വാ
 
 #: data/currency/crc.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Costa Rica"
 msgctxt "Name"
 msgid "Costa Rican Colon"
 msgstr "കൊസ്റ്ററിക്കാ"
@@ -321,8 +265,6 @@ msgstr "ക്യൂബയിലെ പെസൊ"
 
 #: data/currency/cve.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cape Verde"
 msgctxt "Name"
 msgid "Cape Verde Escudo"
 msgstr "കേപ് വെര്‍ഡേ"
@@ -339,48 +281,36 @@ msgstr "ചെക്ക് കൊറുണാ"
 
 #: data/currency/dem.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "German"
 msgctxt "Name"
 msgid "German Mark"
 msgstr "ജര്‍മ്മന്‍"
 
 #: data/currency/djf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Djibouti"
 msgctxt "Name"
 msgid "Djibouti Franc"
 msgstr "ജിബൂട്ടി"
 
 #: data/currency/dkk.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Danish"
 msgctxt "Name"
 msgid "Danish Krone"
 msgstr "ഡാനിഷ്"
 
 #: data/currency/dop.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Dominica"
 msgctxt "Name"
 msgid "Dominican Peso"
 msgstr "‌ഡൊമിനിയ്ക്കാ"
 
 #: data/currency/dzd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Algeria"
 msgctxt "Name"
 msgid "Algerian Dinar"
 msgstr "അല്‍ജീരിയ"
 
 #: data/currency/eek.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Estonian"
 msgctxt "Name"
 msgid "Estonian Kroon"
 msgstr "എസ്തോണിയന്‍"
@@ -392,24 +322,18 @@ msgstr "ഈജിപ്റ്റിലെ പൌണ്ട്"
 
 #: data/currency/ern.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Eritrea"
 msgctxt "Name"
 msgid "Eritrean Nakfa"
 msgstr "എറിട്രിയാ"
 
 #: data/currency/esp.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Spanish"
 msgctxt "Name"
 msgid "Spanish Peseta"
 msgstr "സ്പാനിഷ്"
 
 #: data/currency/etb.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Ethiopia"
 msgctxt "Name"
 msgid "Ethiopian Birr"
 msgstr "എത്യോപിയ"
@@ -421,32 +345,24 @@ msgstr "യൂറോ"
 
 #: data/currency/fim.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Finnish"
 msgctxt "Name"
 msgid "Finnish Markka"
 msgstr "ഫിന്നിഷ്"
 
 #: data/currency/fjd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Fijian"
 msgctxt "Name"
 msgid "Fijian Dollar"
 msgstr "ഫിജിയന്‍"
 
 #: data/currency/fkp.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Falkland Islands (Malvinas)"
 msgctxt "Name"
 msgid "Falkland Islands Pound"
 msgstr "ഫാക്‍ലാന്ഡ്  ദ്വീപുകള്‍ (മാള്‍വിനാസ്)"
 
 #: data/currency/frf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "French"
 msgctxt "Name"
 msgid "French Franc"
 msgstr "ഫ്രഞ്ച്"
@@ -458,8 +374,6 @@ msgstr "ബ്രിട്ടീഷ് പൌണ്ട് സ്റ്റര്�
 
 #: data/currency/gel.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Georgian"
 msgctxt "Name"
 msgid "Georgian Lari"
 msgstr "ജോര്‍ജ്ജിയന്‍"
@@ -471,32 +385,24 @@ msgstr "ഘാനൈയന്‍ സെഡി"
 
 #: data/currency/ghs.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Ghana"
 msgctxt "Name"
 msgid "Ghana Cedi"
 msgstr "ഘാന"
 
 #: data/currency/gip.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Gibraltar"
 msgctxt "Name"
 msgid "Gibraltar Pound"
 msgstr "ജിബ്രാല്‍ട്ടര്‍"
 
 #: data/currency/gmd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Gambia"
 msgctxt "Name"
 msgid "Gambian Dalasi"
 msgstr "ഗാംബിയ"
 
 #: data/currency/gnf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Guinea"
 msgctxt "Name"
 msgid "Guinean Franc"
 msgstr "ഗിനിയ"
@@ -508,16 +414,12 @@ msgstr "ഗ്രീക് ഡറാചമാ"
 
 #: data/currency/gtq.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Guatemala"
 msgctxt "Name"
 msgid "Guatemalan Quetzal"
 msgstr "ഗോട്ടിമാല"
 
 #: data/currency/gwp.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Guinea-Bissau"
 msgctxt "Name"
 msgid "Guinea-Bissau Peso"
 msgstr "ഗിനിയ-ബിസ്സാവു"
@@ -529,8 +431,6 @@ msgstr "ഗയാനയിലെ ഡോളര്‍"
 
 #: data/currency/hkd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Hong Kong SAR(China)"
 msgctxt "Name"
 msgid "Hong Kong Dollar"
 msgstr "ഹോങ് കോങ് സാര്‍(ചൈന)"
@@ -542,8 +442,6 @@ msgstr "ഹോണ്ടുറാസിലെ ലെമ്പിറ"
 
 #: data/currency/hrk.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Croatian"
 msgctxt "Name"
 msgid "Croatian Kuna"
 msgstr "ക്രോയേഷ്യന്‍"
@@ -555,16 +453,12 @@ msgstr "ഹൈത്തിയിലെ ഗോര്‍ഡ്"
 
 #: data/currency/huf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Hungarian"
 msgctxt "Name"
 msgid "Hungarian Forint"
 msgstr "ഹംഗേറിയന്‍"
 
 #: data/currency/idr.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Indonesian"
 msgctxt "Name"
 msgid "Indonesian Rupiah"
 msgstr "ഇന്തോനേഷ്യന്‍"
@@ -596,24 +490,18 @@ msgstr "ഇറാനിലെ റിയാല്‍"
 
 #: data/currency/isk.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Icelandic"
 msgctxt "Name"
 msgid "Icelandic Krona"
 msgstr "ഐസ്ലാന്‍ഡിക്"
 
 #: data/currency/itl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Italian"
 msgctxt "Name"
 msgid "Italian Lira"
 msgstr "ഇറ്റാലിയന്‍"
 
 #: data/currency/jmd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Jamaica"
 msgctxt "Name"
 msgid "Jamaican Dollar"
 msgstr "ജമൈക്ക"
@@ -625,8 +513,6 @@ msgstr "ജൊര്‍ദാനിലെ ദിനാര്‍"
 
 #: data/currency/jpy.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Japanese"
 msgctxt "Name"
 msgid "Japanese Yen"
 msgstr "ജാപ്പനീസ്"
@@ -638,16 +524,12 @@ msgstr "കെനിയയിലെ ഷില്ലിങ്ങ്"
 
 #: data/currency/kgs.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Kyrgyzstan"
 msgctxt "Name"
 msgid "Kyrgyzstani Som"
 msgstr "കിര്‍ഗിസ്ഥാന്‍"
 
 #: data/currency/khr.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cambodia"
 msgctxt "Name"
 msgid "Cambodian Riel"
 msgstr "കമ്പോഡിയ"
@@ -659,40 +541,30 @@ msgstr "കൊമോരിയാന്‍ ഫ്രാങ്ക് "
 
 #: data/currency/kpw.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "North Korea"
 msgctxt "Name"
 msgid "North Korean Won"
 msgstr "വടക്കന്‍ കൊറിയ"
 
 #: data/currency/krw.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "South Korea"
 msgctxt "Name"
 msgid "South Korean Won"
 msgstr "തെക്കന്‍ കൊറിയ"
 
 #: data/currency/kwd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Kuwait"
 msgctxt "Name"
 msgid "Kuwaiti Dinar"
 msgstr "കുവൈറ്റ്"
 
 #: data/currency/kyd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Cayman Islands"
 msgctxt "Name"
 msgid "Cayman Islands Dollar"
 msgstr "കേയ്മാന്‍ ദ്വീപുകള്‍"
 
 #: data/currency/kzt.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Kazakh"
 msgctxt "Name"
 msgid "Kazakhstani Tenge"
 msgstr "ഖസാഖ്"
@@ -704,56 +576,42 @@ msgstr "ലാവോയിലെ കിപ്പ്"
 
 #: data/currency/lbp.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Lebanon"
 msgctxt "Name"
 msgid "Lebanese Pound"
 msgstr "ലെബനന്‍"
 
 #: data/currency/lkr.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sri Lanka"
 msgctxt "Name"
 msgid "Sri Lankan Rupee"
 msgstr "ശ്രീലങ്ക"
 
 #: data/currency/lrd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Liberia"
 msgctxt "Name"
 msgid "Liberian Dollar"
 msgstr "ലൈബീരിയ"
 
 #: data/currency/lsl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Lesotho"
 msgctxt "Name"
 msgid "Lesotho Loti"
 msgstr "ലെസോത്തേ"
 
 #: data/currency/ltl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Lithuanian"
 msgctxt "Name"
 msgid "Lithuanian Litas"
 msgstr "ലിത്തുവേനിയന്‍"
 
 #: data/currency/luf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Luxembourgish"
 msgctxt "Name"
 msgid "Luxembourgish Franc"
 msgstr "ലക്സംബര്‍ഗ്ഗിഷ്"
 
 #: data/currency/lvl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Latvian"
 msgctxt "Name"
 msgid "Latvian Lats"
 msgstr "ലാത്വിയന്‍"
@@ -770,56 +628,42 @@ msgstr "മൊറോക്കന്‍ ദിര്‍ഹം"
 
 #: data/currency/mdl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Moldavian"
 msgctxt "Name"
 msgid "Moldovan Leu"
 msgstr "മാള്‍ഡോവിയന്‍"
 
 #: data/currency/mga.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Malagasy"
 msgctxt "Name"
 msgid "Malagasy Ariary"
 msgstr "മലഗാസി"
 
 #: data/currency/mgf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Malagasy"
 msgctxt "Name"
 msgid "Malagasy Franc"
 msgstr "മലഗാസി"
 
 #: data/currency/mkd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Macedonian"
 msgctxt "Name"
 msgid "Macedonian Denar"
 msgstr "മാസിഡോണിയന്‍"
 
 #: data/currency/mlf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "France"
 msgctxt "Name"
 msgid "Mali Franc"
 msgstr "ഫ്രാന്‍സ്"
 
 #: data/currency/mmk.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Myanmar"
 msgctxt "Name"
 msgid "Myanma Kyat"
 msgstr "മ്യാന്‍മര്‍"
 
 #: data/currency/mnt.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Mongolian"
 msgctxt "Name"
 msgid "Mongolian Tugrik"
 msgstr "മംഗോളിയ"
@@ -831,24 +675,18 @@ msgstr "മകാനീസ് പട്ടാക്ക"
 
 #: data/currency/mro.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Lithuanian"
 msgctxt "Name"
 msgid "Mauritanian Ouguiya"
 msgstr "ലിത്തുവേനിയന്‍"
 
 #: data/currency/mtl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Maltese"
 msgctxt "Name"
 msgid "Maltese Lira"
 msgstr "മാള്‍ടീസ്"
 
 #: data/currency/mur.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Mauritius"
 msgctxt "Name"
 msgid "Mauritius Rupee"
 msgstr "മൌറീഷ്യസ്"
@@ -865,8 +703,6 @@ msgstr "മലാവിയിലെ ഖ്വാച്ഛ"
 
 #: data/currency/mxn.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Mexico"
 msgctxt "Name"
 msgid "Mexican Peso"
 msgstr "മെക്സിക്കോ"
@@ -878,8 +714,6 @@ msgstr "മെക്സിക്കോയിലെ യുണിദാദ് ദ�
 
 #: data/currency/myr.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Malay"
 msgctxt "Name"
 msgid "Malaysian Ringgit"
 msgstr "മലയ്"
@@ -891,16 +725,12 @@ msgstr "മോസാമ്പിക്കന്‍ മെറ്റിക്ക�
 
 #: data/currency/nad.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Namibia"
 msgctxt "Name"
 msgid "Namibian Dollar"
 msgstr "നമീബിയ"
 
 #: data/currency/ngn.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Nigeria"
 msgctxt "Name"
 msgid "Nigerian Naira"
 msgstr "നൈജീരിയ"
@@ -912,16 +742,12 @@ msgstr "നിക്കരാഗ്വയിലെ കോര്‍ഡോബാ �
 
 #: data/currency/nlg.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Netherlands Antilles"
 msgctxt "Name"
 msgid "Netherlands Guilder"
 msgstr "നെദര്‍ലാന്‍ഡ്സ് ആന്റില്‍സ്"
 
 #: data/currency/nok.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Norwegian Bokmål"
 msgctxt "Name"
 msgid "Norwegian Krone"
 msgstr "നോര്‍വ്വീജിയന്‍  ബോക്മാല്"
@@ -933,8 +759,6 @@ msgstr "നേപ്പാളിലെ രൂപ"
 
 #: data/currency/nzd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "New Zealand"
 msgctxt "Name"
 msgid "New Zealand Dollar"
 msgstr "ന്യൂ സീലാന്‍ഡ്"
@@ -956,48 +780,36 @@ msgstr "പെറുവിലെ ന്യുവൊ സോള്‍"
 
 #: data/currency/pgk.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Papua New Guinea"
 msgctxt "Name"
 msgid "Papua New Guinean Kina"
 msgstr "പപുവ ന്യൂ ഗിനിയ"
 
 #: data/currency/php.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Philippines"
 msgctxt "Name"
 msgid "Philippine Peso"
 msgstr "ഫിലിപ്പൈന്‍സ്"
 
 #: data/currency/pkr.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Pakistan"
 msgctxt "Name"
 msgid "Pakistan Rupee"
 msgstr "പാകിസ്ഥാന്‍"
 
 #: data/currency/pln.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Polish"
 msgctxt "Name"
 msgid "Polish Zloty"
 msgstr "പോളിഷ്"
 
 #: data/currency/pte.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Portuguese"
 msgctxt "Name"
 msgid "Portuguese Escudo"
 msgstr "പോര്‍ച്ചുഗീസ്"
 
 #: data/currency/pyg.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Paraguay"
 msgctxt "Name"
 msgid "Paraguayan Guarani"
 msgstr "പരാഗ്വേ"
@@ -1009,32 +821,24 @@ msgstr "ഖത്തര്‍ റിയാല്‍"
 
 #: data/currency/rol.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Romanian"
 msgctxt "Name"
 msgid "Romanian Leu A/05"
 msgstr "റൊമേനിയന്‍"
 
 #: data/currency/ron.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Romanian"
 msgctxt "Name"
 msgid "Romanian Leu"
 msgstr "റൊമേനിയന്‍"
 
 #: data/currency/rsd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Serbian Latin"
 msgctxt "Name"
 msgid "Serbian Dinar"
 msgstr "സെര്‍ബിയന്‍ ലത്തീന്‍"
 
 #: data/currency/rub.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Russian"
 msgctxt "Name"
 msgid "Russian Ruble"
 msgstr "റഷ്യന്‍"
@@ -1046,96 +850,72 @@ msgstr "റഷ്യയിലെ റൂബിള്‍ എ/97"
 
 #: data/currency/rwf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Rwanda"
 msgctxt "Name"
 msgid "Rwandan Franc"
 msgstr "റുവാണ്ട"
 
 #: data/currency/sar.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Saudi Arabia"
 msgctxt "Name"
 msgid "Saudi Riyal"
 msgstr "സൌദി അറേബ്യ‌"
 
 #: data/currency/sbd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Solomon Islands"
 msgctxt "Name"
 msgid "Solomon Islands Dollar"
 msgstr "സോളമന്‍ ദ്വീപുകള്‍"
 
 #: data/currency/scr.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Seychelles"
 msgctxt "Name"
 msgid "Seychellois Rupee"
 msgstr "സെയ്ഷെല്‍സ്"
 
 #: data/currency/sdd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sundanese"
 msgctxt "Name"
 msgid "Sudanese Dinar"
 msgstr "സുഡാനീസ്"
 
 #: data/currency/sdg.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sundanese"
 msgctxt "Name"
 msgid "Sudanese Pound"
 msgstr "സുഡാനീസ്"
 
 #: data/currency/sek.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Swedish"
 msgctxt "Name"
 msgid "Swedish Krona"
 msgstr "സ്വീഡിഷ്"
 
 #: data/currency/sgd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Singapore"
 msgctxt "Name"
 msgid "Singapore Dollar"
 msgstr "സിംഗപ്പൂര്‍"
 
 #: data/currency/shp.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Saint Helena"
 msgctxt "Name"
 msgid "Saint Helena Pound"
 msgstr "സെയിന്റ് ഹെലന"
 
 #: data/currency/sit.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Slovenian"
 msgctxt "Name"
 msgid "Slovenian Tolar"
 msgstr "സ്ലൊവേനിയന്‍"
 
 #: data/currency/skk.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Slovak"
 msgctxt "Name"
 msgid "Slovak Koruna"
 msgstr "സ്ലൊവാക്യന്‍"
 
 #: data/currency/sll.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sierra Leone"
 msgctxt "Name"
 msgid "Sierra Leonean Leone"
 msgstr "സിയേറ ലിയോണ്‍"
@@ -1147,32 +927,24 @@ msgstr "സോമാലി ഷില്ലിങ്"
 
 #: data/currency/srd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Suriname"
 msgctxt "Name"
 msgid "Surinamese Dollar"
 msgstr "സുരിനാം"
 
 #: data/currency/srg.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Suriname"
 msgctxt "Name"
 msgid "Surinamese Guilder"
 msgstr "സുരിനാം"
 
 #: data/currency/ssp.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sotho, Southern"
 msgctxt "Name"
 msgid "South Sudanese Pound"
 msgstr "തെക്കന്‍ സോതോ"
 
 #: data/currency/std.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sao Tome and Principe"
 msgctxt "Name"
 msgid "São Tomé and Príncipe Dobra"
 msgstr "സാവോ ടോമും പ്രിന്‍സിപ്പിയും"
@@ -1189,48 +961,36 @@ msgstr "സിറിയയിലെ പൌണ്ട്"
 
 #: data/currency/szl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Swaziland"
 msgctxt "Name"
 msgid "Swazi Lilangeni"
 msgstr "സ്വാസിലാന്‍ഡ്"
 
 #: data/currency/thb.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Thai"
 msgctxt "Name"
 msgid "Thai Baht"
 msgstr "തായ്"
 
 #: data/currency/tjs.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Tajik"
 msgctxt "Name"
 msgid "Tajikistani Somoni"
 msgstr "താജിക്ക്"
 
 #: data/currency/tmm.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Turkmen"
 msgctxt "Name"
 msgid "Turkmenistani Old Manat"
 msgstr "തുര്‍ക്കുമെന്‍"
 
 #: data/currency/tmt.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Turkmen"
 msgctxt "Name"
 msgid "Turkmenistani Manat"
 msgstr "തുര്‍ക്കുമെന്‍"
 
 #: data/currency/tnd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Tunisia"
 msgctxt "Name"
 msgid "Tunisian Dinar"
 msgstr "ടുണീഷ്യ"
@@ -1252,16 +1012,12 @@ msgstr "തുര്‍ക്കിയിലെ ലിറാ എ/05"
 
 #: data/currency/try.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Turkish"
 msgctxt "Name"
 msgid "Turkish Lira"
 msgstr "തുര്‍ക്കി"
 
 #: data/currency/ttd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Trinidad and Tobago"
 msgctxt "Name"
 msgid "Trinidad and Tobago Dollar"
 msgstr "ട്രിനിഡാഡും ടൊബാഗോയും"
@@ -1278,8 +1034,6 @@ msgstr "ടാന്‍സാനിയയിലെ ഷില്ലിങ്"
 
 #: data/currency/uah.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Ukrainian"
 msgctxt "Name"
 msgid "Ukrainian Hryvnia"
 msgstr "ഉക്രേനിയന്‍"
@@ -1291,40 +1045,30 @@ msgstr "ഉഗാണ്ടയിലെ ഷില്ലിങ്"
 
 #: data/currency/usd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "United States of America"
 msgctxt "Name"
 msgid "United States Dollar"
 msgstr "അമേരിക്കന്‍ ഐക്യനാടുകള്‍"
 
 #: data/currency/usn.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "United States of America"
 msgctxt "Name"
 msgid "United States Dollar (Next Day)"
 msgstr "അമേരിക്കന്‍ ഐക്യനാടുകള്‍"
 
 #: data/currency/uss.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "United States of America"
 msgctxt "Name"
 msgid "United States Dollar (Same Day)"
 msgstr "അമേരിക്കന്‍ ഐക്യനാടുകള്‍"
 
 #: data/currency/uyu.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Uruguay"
 msgctxt "Name"
 msgid "Uruguayan Peso"
 msgstr "ഉറൂഗ്വേ"
 
 #: data/currency/uzs.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Uzbek"
 msgctxt "Name"
 msgid "Uzbekistan Som"
 msgstr "ഉസ്ബെക്"
@@ -1336,32 +1080,24 @@ msgstr "വെനുസ്വേലയിലെ ബൊളിവാര്‍ ഫ�
 
 #: data/currency/vnd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Vietnamese"
 msgctxt "Name"
 msgid "Vietnamese Dong"
 msgstr "വിയറ്റ്നാമീസ്"
 
 #: data/currency/vuv.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Vanuatu"
 msgctxt "Name"
 msgid "Vanuatu Vatu"
 msgstr "വന്വാട്ടു"
 
 #: data/currency/wst.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Samoan"
 msgctxt "Name"
 msgid "Samoan Tala"
 msgstr "സമോവന്‍"
 
 #: data/currency/xaf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Central African Republic"
 msgctxt "Name"
 msgid "Central African CFA Franc"
 msgstr "സെന്‍ട്രല്‍ ആഫ്രിക്കന്‍ റിപബ്ളിക്ക്"
@@ -1378,8 +1114,6 @@ msgstr "സ്വര്‍ണ്ണം"
 
 #: data/currency/xcd.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Caribbean"
 msgctxt "Name"
 msgid "East Caribbean Dollar"
 msgstr "കരീബിയന്‍"
@@ -1396,24 +1130,18 @@ msgstr "പലാഡിയം"
 
 #: data/currency/xpf.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "France"
 msgctxt "Name"
 msgid "CFP Franc"
 msgstr "ഫ്രാന്‍സ്"
 
 #: data/currency/xpt.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Latin"
 msgctxt "Name"
 msgid "Platinum"
 msgstr "ലത്തീന്‍"
 
 #: data/currency/yer.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Yemen"
 msgctxt "Name"
 msgid "Yemeni Rial"
 msgstr "യെമന്‍"
@@ -1425,16 +1153,12 @@ msgstr "യുഗോസ്ലാവ് ദിനാര്‍"
 
 #: data/currency/zar.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "South Africa"
 msgctxt "Name"
 msgid "South African Rand"
 msgstr "ദക്ഷിണാഫ്രിക്ക"
 
 #: data/currency/zmk.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Zambia"
 msgctxt "Name"
 msgid "Zambian Kwacha"
 msgstr "സാംബിയ"
@@ -1446,8 +1170,6 @@ msgstr "സിംബാബ്വേ ഡോളര്‍"
 
 #: data/currency/zwl.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Zimbabwe"
 msgctxt "Name"
 msgid "Zimbabwean Dollar"
 msgstr "സിംബാബ്വേ"
@@ -1489,8 +1211,6 @@ msgstr "അസ്സാമീസ്"
 
 #: src/kdecore/all_languages.desktop:698
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Avestan"
 msgctxt "Name"
 msgid "Asturian"
 msgstr "അവെസ്തന്‍"
@@ -2197,16 +1917,12 @@ msgstr "സെര്‍ബിയന്‍"
 
 #: src/kdecore/all_languages.desktop:14502
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Serbian Latin"
 msgctxt "Name"
 msgid "Serbian Ijekavian"
 msgstr "സെര്‍ബിയന്‍ ലത്തീന്‍"
 
 #: src/kdecore/all_languages.desktop:14574
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Serbian Latin"
 msgctxt "Name"
 msgid "Serbian Ijekavian Latin"
 msgstr "സെര്‍ബിയന്‍ ലത്തീന്‍"
@@ -2308,8 +2024,6 @@ msgstr "താഹിതിയന്‍"
 
 #: src/kdecore/all_languages.desktop:16525
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Uighur"
 msgctxt "Name"
 msgid "Uyghur"
 msgstr "ഉഗുര്‍"
@@ -2471,16 +2185,12 @@ msgstr "അന്‍ഗ്വിലാ"
 
 #: src/l10n/al/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Albanian"
 msgctxt "Name"
 msgid "Albania"
 msgstr "അല്ബേനിയന്‍"
 
 #: src/l10n/am/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Armenian"
 msgctxt "Name"
 msgid "Armenia"
 msgstr "അര്‍മീനിയന്‍"
@@ -2492,8 +2202,6 @@ msgstr "നെദര്‍ലാന്‍ഡ്സ് ആന്റില്‍�
 
 #: src/l10n/ao/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Mongolian"
 msgctxt "Name"
 msgid "Angola"
 msgstr "മംഗോളിയ"
@@ -2505,8 +2213,6 @@ msgstr "അര്‍ജന്റീന"
 
 #: src/l10n/as/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "American English"
 msgctxt "Name"
 msgid "American Samoa"
 msgstr "അമേരിക്കന്‍ ഇംഗ്ലീഷ്"
@@ -2518,16 +2224,12 @@ msgstr "ഓസ്ട്രിയാ"
 
 #: src/l10n/au/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Italian"
 msgctxt "Name"
 msgid "Australia"
 msgstr "ഇറ്റാലിയന്‍"
 
 #: src/l10n/aw/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Yoruba"
 msgctxt "Name"
 msgid "Aruba"
 msgstr "യോറൂബ"
@@ -2539,8 +2241,6 @@ msgstr "ലണ്ട് ദ്വീപുകള്‍"
 
 #: src/l10n/az/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Azerbaijani"
 msgctxt "Name"
 msgid "Azerbaijan"
 msgstr "അസര്‍ബെയ്ജാനി"
@@ -2572,8 +2272,6 @@ msgstr "ബര്‍ക്കിനോ ഫാസോ"
 
 #: src/l10n/bg/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Bulgarian"
 msgctxt "Name"
 msgid "Bulgaria"
 msgstr "ബള്‍ഗേറിയന്‍"
@@ -2585,8 +2283,6 @@ msgstr "ബഹ്റൈന്‍"
 
 #: src/l10n/bi/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Rundi"
 msgctxt "Name"
 msgid "Burundi"
 msgstr "റന്‍ഡി"
@@ -2633,16 +2329,12 @@ msgstr "ബൂട്ടാന്‍"
 
 #: src/l10n/bw/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Tswana"
 msgctxt "Name"
 msgid "Botswana"
 msgstr "സ്വാന"
 
 #: src/l10n/by/country.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Belarusian"
 msgctxt "Name"
 msgid "Belarus"
 msgstr "ബെലാറൂഷ്യന്‍"
@@ -2654,8 +2346,6 @@ msgstr "ബെലിസ്"
 
 #: src/l10n/ca/country.desktop:5
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Kannada"
 msgctxt "Name"
 msgid "Canada"
 msgstr "കന്നഡ"
@@ -2687,8 +2377,6 @@ msgstr "മധ്യ ആഫ്രിക്ക"
 
 #: src/l10n/centralamerica.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "American English"
 msgctxt "Name"
 msgid "America, Central"
 msgstr "അമേരിക്കന്‍ ഇംഗ്ലീഷ്"
@@ -2740,8 +2428,6 @@ msgstr "കാമറൂണ്‍"
 
 #: src/l10n/cn/country.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Chinese"
 msgctxt "Name"
 msgid "China"
 msgstr "ചൈനീസ്"
@@ -2778,16 +2464,12 @@ msgstr "സൈപ്രസ്"
 
 #: src/l10n/cz/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Czech"
 msgctxt "Name"
 msgid "Czechia"
 msgstr "ചെക്ക്"
 
 #: src/l10n/de/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "German"
 msgctxt "Name"
 msgid "Germany"
 msgstr "ജര്‍മ്മന്‍"
@@ -2839,8 +2521,6 @@ msgstr "ഇക്വഡോര്‍"
 
 #: src/l10n/ee/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Estonian"
 msgctxt "Name"
 msgid "Estonia"
 msgstr "എസ്തോണിയന്‍"
@@ -2877,8 +2557,6 @@ msgstr "ഫിന്‍ലാന്‍ഡ്"
 
 #: src/l10n/fj/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Fijian"
 msgctxt "Name"
 msgid "Fiji"
 msgstr "ഫിജിയന്‍"
@@ -2895,8 +2573,6 @@ msgstr "മൈക്രോനേഷ്യ, ഫെഡറേറ്റഡ് സ്
 
 #: src/l10n/fo/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Faroese"
 msgctxt "Name"
 msgid "Faroe Islands"
 msgstr "ഫരൂസ്"
@@ -2923,24 +2599,18 @@ msgstr "ഗ്രേനഡ"
 
 #: src/l10n/ge/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Georgian"
 msgctxt "Name"
 msgid "Georgia"
 msgstr "ജോര്‍ജ്ജിയന്‍"
 
 #: src/l10n/gf/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "French"
 msgctxt "Name"
 msgid "French Guiana"
 msgstr "ഫ്രഞ്ച്"
 
 #: src/l10n/gg/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Germany"
 msgctxt "Name"
 msgid "Guernsey"
 msgstr "ജര്‍മനി"
@@ -2982,8 +2652,6 @@ msgstr "ഇക്വറ്റോറിയല്‍ ഗിനിയ"
 
 #: src/l10n/gr/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Greek"
 msgctxt "Name"
 msgid "Greece"
 msgstr "ഗ്രീക്ക്"
@@ -3020,8 +2688,6 @@ msgstr "ഹോണ്ടുറാസ്"
 
 #: src/l10n/hr/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Croatian"
 msgctxt "Name"
 msgid "Croatia"
 msgstr "ക്രോയേഷ്യന്‍"
@@ -3033,24 +2699,18 @@ msgstr "ഹെയ്‌തി"
 
 #: src/l10n/hu/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Hungarian"
 msgctxt "Name"
 msgid "Hungary"
 msgstr "ഹംഗേറിയന്‍"
 
 #: src/l10n/id/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Indonesian"
 msgctxt "Name"
 msgid "Indonesia"
 msgstr "ഇന്തോനേഷ്യന്‍"
 
 #: src/l10n/ie/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Icelandic"
 msgctxt "Name"
 msgid "Ireland"
 msgstr "ഐസ്ലാന്‍ഡിക്"
@@ -3082,16 +2742,12 @@ msgstr "ഇറാന്‍"
 
 #: src/l10n/is/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Icelandic"
 msgctxt "Name"
 msgid "Iceland"
 msgstr "ഐസ്ലാന്‍ഡിക്"
 
 #: src/l10n/it/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Italian"
 msgctxt "Name"
 msgid "Italy"
 msgstr "ഇറ്റാലിയന്‍"
@@ -3113,8 +2769,6 @@ msgstr "ജോര്‍ഡാന്‍"
 
 #: src/l10n/jp/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Japanese"
 msgctxt "Name"
 msgid "Japan"
 msgstr "ജാപ്പനീസ്"
@@ -3171,8 +2825,6 @@ msgstr "കേയ്മാന്‍ ദ്വീപുകള്‍"
 
 #: src/l10n/kz/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Kazakh"
 msgctxt "Name"
 msgid "Kazakhstan"
 msgstr "ഖസാഖ്"
@@ -3214,24 +2866,18 @@ msgstr "ലെസോത്തേ"
 
 #: src/l10n/lt/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Lithuanian"
 msgctxt "Name"
 msgid "Lithuania"
 msgstr "ലിത്തുവേനിയന്‍"
 
 #: src/l10n/lu/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Luxembourgish"
 msgctxt "Name"
 msgid "Luxembourg"
 msgstr "ലക്സംബര്‍ഗ്ഗിഷ്"
 
 #: src/l10n/lv/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Latvian"
 msgctxt "Name"
 msgid "Latvia"
 msgstr "ലാത്വിയന്‍"
@@ -3253,8 +2899,6 @@ msgstr "മൊണാക്കോ"
 
 #: src/l10n/md/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Moldavian"
 msgctxt "Name"
 msgid "Moldova"
 msgstr "മാള്‍ഡോവിയന്‍"
@@ -3266,24 +2910,18 @@ msgstr "മോണ്ടിനെഗ്രോ"
 
 #: src/l10n/mf/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "San Marino"
 msgctxt "Name"
 msgid "Saint Martin"
 msgstr "സാന്‍‌ മാരിനോ"
 
 #: src/l10n/mg/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Malagasy"
 msgctxt "Name"
 msgid "Madagascar"
 msgstr "മലഗാസി"
 
 #: src/l10n/mh/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Marshallese"
 msgctxt "Name"
 msgid "Marshall Islands"
 msgstr "മാര്‍ഷാലീസ്"
@@ -3295,8 +2933,6 @@ msgstr "മിഡില്‍-ഈസ്റ്റ്"
 
 #: src/l10n/mk/country.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Macedonian"
 msgctxt "Name"
 msgid "Macedonia"
 msgstr "മാസിഡോണിയന്‍"
@@ -3313,8 +2949,6 @@ msgstr "മ്യാന്‍മര്‍"
 
 #: src/l10n/mn/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Mongolian"
 msgctxt "Name"
 msgid "Mongolia"
 msgstr "മംഗോളിയ"
@@ -3326,8 +2960,6 @@ msgstr "മക്കാവു സാര്‍(ചൈന)"
 
 #: src/l10n/mp/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Marshall Islands"
 msgctxt "Name"
 msgid "Northern Mariana Islands"
 msgstr "മാര്‍ഷല്‍‌ ദ്വീപുകള്‍"
@@ -3339,8 +2971,6 @@ msgstr "മാര്‍ട്ടിനിക്ക്"
 
 #: src/l10n/mr/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Lithuanian"
 msgctxt "Name"
 msgid "Mauritania"
 msgstr "ലിത്തുവേനിയന്‍"
@@ -3352,8 +2982,6 @@ msgstr "മോണ്‍സെറാട്ട്"
 
 #: src/l10n/mt/country.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Maltese"
 msgctxt "Name"
 msgid "Malta"
 msgstr "മാള്‍ടീസ്"
@@ -3370,8 +2998,6 @@ msgstr "മാല്‍ഡീവ്സ്"
 
 #: src/l10n/mw/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Malay"
 msgctxt "Name"
 msgid "Malawi"
 msgstr "മലയ്"
@@ -3383,8 +3009,6 @@ msgstr "മെക്സിക്കോ"
 
 #: src/l10n/my/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Malay"
 msgctxt "Name"
 msgid "Malaysia"
 msgstr "മലയ്"
@@ -3401,8 +3025,6 @@ msgstr "നമീബിയ"
 
 #: src/l10n/nc/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Macedonian"
 msgctxt "Name"
 msgid "New Caledonia"
 msgstr "മാസിഡോണിയന്‍"
@@ -3444,8 +3066,6 @@ msgstr "വടക്കന്‍ ആഫ്രിക്ക"
 
 #: src/l10n/northamerica.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "American English"
 msgctxt "Name"
 msgid "America, North"
 msgstr "അമേരിക്കന്‍ ഇംഗ്ലീഷ്"
@@ -3457,8 +3077,6 @@ msgstr "വടക്കന്‍ യൂറോപ്പ്"
 
 #: src/l10n/np/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Nepali"
 msgctxt "Name"
 msgid "Nepal"
 msgstr "നേപ്പാളി"
@@ -3540,8 +3158,6 @@ msgstr "പാലസ്ഥീനിയന്‍ പ്രദേശം"
 
 #: src/l10n/pt/country.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Portuguese"
 msgctxt "Name"
 msgid "Portugal"
 msgstr "പോര്‍ച്ചുഗീസ്"
@@ -3558,8 +3174,6 @@ msgstr "പരാഗ്വേ"
 
 #: src/l10n/qa/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Tatar"
 msgctxt "Name"
 msgid "Qatar"
 msgstr "തത്തര്‍"
@@ -3571,24 +3185,18 @@ msgstr "റീയൂണിയന്‍"
 
 #: src/l10n/ro/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Romanian"
 msgctxt "Name"
 msgid "Romania"
 msgstr "റൊമേനിയന്‍"
 
 #: src/l10n/rs/country.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Serbian"
 msgctxt "Name"
 msgid "Serbia"
 msgstr "സെര്‍ബിയന്‍"
 
 #: src/l10n/ru/country.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Russian"
 msgctxt "Name"
 msgid "Russia"
 msgstr "റഷ്യന്‍"
@@ -3620,8 +3228,6 @@ msgstr "സുഡാന്‍"
 
 #: src/l10n/se/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Swedish"
 msgctxt "Name"
 msgid "Sweden"
 msgstr "സ്വീഡിഷ്"
@@ -3638,16 +3244,12 @@ msgstr "സെയിന്റ് ഹെലന"
 
 #: src/l10n/si/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Slovenian"
 msgctxt "Name"
 msgid "Slovenia"
 msgstr "സ്ലൊവേനിയന്‍"
 
 #: src/l10n/sk/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Slovak"
 msgctxt "Name"
 msgid "Slovakia"
 msgstr "സ്ലൊവാക്യന്‍"
@@ -3669,24 +3271,18 @@ msgstr "സെനഗല്‍"
 
 #: src/l10n/so/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Somali"
 msgctxt "Name"
 msgid "Somalia"
 msgstr "സോമാലി"
 
 #: src/l10n/southafrica.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sotho, Southern"
 msgctxt "Name"
 msgid "Africa, Southern"
 msgstr "തെക്കന്‍ സോതോ"
 
 #: src/l10n/southamerica.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "American English"
 msgctxt "Name"
 msgid "America, South"
 msgstr "അമേരിക്കന്‍ ഇംഗ്ലീഷ്"
@@ -3703,8 +3299,6 @@ msgstr "തെക്കുകിഴക്കനേഷ്യ"
 
 #: src/l10n/southeurope.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sotho, Southern"
 msgctxt "Name"
 msgid "Europe, Southern"
 msgstr "തെക്കന്‍ സോതോ"
@@ -3716,8 +3310,6 @@ msgstr "സുരിനാം"
 
 #: src/l10n/ss/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Sotho, Southern"
 msgctxt "Name"
 msgid "South Sudan"
 msgstr "തെക്കന്‍ സോതോ"
@@ -3759,16 +3351,12 @@ msgstr "ടോഗോ"
 
 #: src/l10n/th/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Thai"
 msgctxt "Name"
 msgid "Thailand"
 msgstr "തായ്"
 
 #: src/l10n/tj/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Tajik"
 msgctxt "Name"
 msgid "Tajikistan"
 msgstr "താജിക്ക്"
@@ -3785,8 +3373,6 @@ msgstr "തിമൂര്‍-ലെസ്തെ"
 
 #: src/l10n/tm/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Turkmen"
 msgctxt "Name"
 msgid "Turkmenistan"
 msgstr "തുര്‍ക്കുമെന്‍"
@@ -3803,8 +3389,6 @@ msgstr "കിഴക്കന്‍ തിമൂര്‍"
 
 #: src/l10n/tr/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Turkmen"
 msgctxt "Name"
 msgid "Turkey"
 msgstr "തുര്‍ക്കുമെന്‍"
@@ -3831,8 +3415,6 @@ msgstr "ടാന്‍സാനിയ, യുണൈറ്റഡ് റിപബ
 
 #: src/l10n/ua/country.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Ukrainian"
 msgctxt "Name"
 msgid "Ukraine"
 msgstr "ഉക്രേനിയന്‍"
@@ -3854,8 +3436,6 @@ msgstr "ഉറൂഗ്വേ"
 
 #: src/l10n/uz/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Uzbek"
 msgctxt "Name"
 msgid "Uzbekistan"
 msgstr "ഉസ്ബെക്"
@@ -3887,8 +3467,6 @@ msgstr "വിര്‍ജിന്‍ ഐലന്‍ഡ്സ്, യു.എ�
 
 #: src/l10n/vn/country.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Vietnamese"
 msgctxt "Name"
 msgid "Vietnam"
 msgstr "വിയറ്റ്നാമീസ്"
@@ -3915,8 +3493,6 @@ msgstr "വാലിസും ഫ്യൂചുനയും"
 
 #: src/l10n/ws/country.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Samoan"
 msgctxt "Name"
 msgid "Samoa"
 msgstr "സമോവന്‍"
@@ -3948,8 +3524,6 @@ msgstr "സിംബാബ്വേ"
 
 #: src/solid-networkstatus/kded/networkstatus.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Network Status Daemon"
 msgctxt "Name"
 msgid "Network Status"
 msgstr "ശൃംഖലാസ്ഥിതിഗതികള്‍ക്കുള്ള നിരന്തരപ്രവൃത്തി"
@@ -3966,8 +3540,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "ചെക്ക് റിപബ്ളിക്ക്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "English"
 #~ msgctxt "Name"
 #~ msgid "US English"
 #~ msgstr "ഇംഗ്ലീഷ്"
@@ -4033,8 +3605,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "KDED Module"
 #~ msgctxt "Name"
 #~ msgid "KFileModule"
 #~ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
@@ -4084,8 +3654,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "കെഡിഇയിലെ സജ്ജീകരണങ്ങളുടെ തുടക്കം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "KDED Module"
 #~ msgctxt "Comment"
 #~ msgid "KIO File Module"
 #~ msgstr "കെഡിഇഡിയിലെ മൊഡ്യൂള്‍"
@@ -4103,8 +3671,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "പുതുക്കിയ ബ്രൌസര്‍ സംയോജകം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Automatic Proxy Configuration"
 #~ msgctxt "Name"
 #~ msgid "Network Proxy Configuration"
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
@@ -4114,8 +3680,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Automatic Proxy Configuration"
 #~ msgctxt "Comment"
 #~ msgid "Network Proxy Configuration"
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
@@ -4161,8 +3725,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "പഴയവ മാറ്റി എച്ച്ടിടിപി കാഷ് വൃത്തിയാക്കുന്നു "
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KDED Cookie Jar Module"
 #~ msgctxt "Name"
 #~ msgid "Cookie Jar"
 #~ msgstr "കെഡിഇഡി കുക്കി ജാര്‍ മൊഡ്യൂള്‍"
@@ -4220,8 +3782,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "അഡിയം ഇമോട്ടിക്കോണ്‍ രംഗവിതാനം ഉപയോഗിയ്ക്കേണ്ട ലൈബ്രറി"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Kde Emoticons Theme"
 #~ msgctxt "Name"
 #~ msgid "KDE Emoticons Theme"
 #~ msgstr "കെഡിഇ ഇമോട്ടിക്കോണ്‍ രംഗവിതാനം"
@@ -4251,8 +3811,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "കൂട്ടം"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasma wallpaper"
 #~ msgctxt "Description"
 #~ msgid "A protocol for Plasma services"
 #~ msgstr "പ്ലാസ്മ ചുമര്‍ച്ചിത്രം"
@@ -4290,8 +3848,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "പ്ലാസ്മയ്ക്കുള്ള സ്ക്രിപ്റ്റിങ്ങ് ഭാഷാ എക്സ്റ്റന്‍ഷന്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasma wallpaper"
 #~ msgctxt "Comment"
 #~ msgid "Plasma service"
 #~ msgstr "പ്ലാസ്മ ചുമര്‍ച്ചിത്രം"
@@ -4342,8 +3898,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "എച്ച്സ്പെല്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "HSpell"
 #~ msgctxt "Name"
 #~ msgid "Hunspell"
 #~ msgstr "എച്ച്സ്പെല്‍"
@@ -4459,8 +4013,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ "രേഖപ്പെടുത്തുക"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Automatic Proxy Configuration"
 #~ msgctxt "Name"
 #~ msgid "AutoBrace Configuration"
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
@@ -4484,8 +4036,6 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ "നിലവിലുണ്ടെങ്കില്‍ ഉപയോഗിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Insert File"
 #~ msgctxt "Name"
 #~ msgid "IconInserter"
 #~ msgstr "ഫയല്‍ ചേര്‍ക്കുക"
@@ -4533,15 +4083,11 @@ msgstr "ശൃംഖലാവിനിമയതലങ്ങളുടെ സ്�
 #~ msgstr "വലന്‍ഷ്യന്‍ (തെക്കന്‍ കറ്റാലന്‍)"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Latin"
 #~ msgctxt "Name"
 #~ msgid "Long action"
 #~ msgstr "ലത്തീന്‍"
 
 #, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "Plasma applet"
 #~ msgctxt "Name"
 #~ msgid "Plasma"
 #~ msgstr "പ്ലാസ്മ ലഘുപ്രയോഗം"

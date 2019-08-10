@@ -25,29 +25,21 @@ msgid "4DOS BatchToMemory"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ABAP"
 msgctxt "Language|"
 msgid "ABAP"
 msgstr "ABAP"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ABC"
 msgctxt "Language|"
 msgid "ABC"
 msgstr "ABC"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ActionScript 2.0"
 msgctxt "Language|"
 msgid "ActionScript 2.0"
 msgstr "ആക്ഷന്‍സ്ക്രിപ്റ്റ് 2.0"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Ada"
 msgctxt "Language|"
 msgid "Ada"
 msgstr "അഡാ"
@@ -57,8 +49,6 @@ msgid "Agda"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "AHDL"
 msgctxt "Language|"
 msgid "AHDL"
 msgstr "AHDL"
@@ -68,8 +58,6 @@ msgid "AutoHotKey"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "@item:intable Text context"
-#| msgid "Alert"
 msgctxt "Language|"
 msgid "Alerts"
 msgstr "അറിയിപ്പു്"
@@ -83,22 +71,16 @@ msgid "ANS-Forth94"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ANSI C89"
 msgctxt "Language|"
 msgid "ANSI C89"
 msgstr "ANSI C89"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Ansys"
 msgctxt "Language|"
 msgid "Ansys"
 msgstr "Ansys"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Apache Configuration"
 msgstr "അപ്പാച്ചെ ക്രമികരണം"
@@ -112,15 +94,11 @@ msgid "AsciiDoc"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Asm6502"
 msgctxt "Language|"
 msgid "Asm6502"
 msgstr "Asm6502"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "AVR Assembler"
 msgctxt "Language|"
 msgid "AVR Assembler"
 msgstr "എവിആര്‍ അസ്സംബ്ലര്‍"
@@ -134,36 +112,26 @@ msgid "Motorola 68k (VASM/Devpac)"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ASN.1"
 msgctxt "Language|"
 msgid "ASN.1"
 msgstr "ASN.1"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ASP"
 msgctxt "Language|"
 msgid "ASP"
 msgstr "ASP"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "AWK"
 msgctxt "Language|"
 msgid "AWK"
 msgstr "AWK"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Bash"
 msgctxt "Language|"
 msgid "Bash"
 msgstr "ബാഷ്"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "BibTeX"
 msgctxt "Language|"
 msgid "BibTeX"
 msgstr "BibTeX"
@@ -173,8 +141,6 @@ msgid "Bitbake"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "B-Method"
 msgctxt "Language|"
 msgid "B-Method"
 msgstr "ബി-മെഥേഡ്"
@@ -188,22 +154,16 @@ msgid "CleanCSS"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "CGiS"
 msgctxt "Language|"
 msgid "CGiS"
 msgstr "CGiS"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Cg"
 msgctxt "Language|"
 msgid "Cg"
 msgstr "Cg"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ChangeLog"
 msgctxt "Language|"
 msgid "ChangeLog"
 msgstr "ChangeLog"
@@ -213,15 +173,11 @@ msgid "Common Intermediate Language (CIL)"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Cisco"
 msgctxt "Language|"
 msgid "Cisco"
 msgstr "Cisco"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Clipper"
 msgctxt "Language|"
 msgid "Clipper"
 msgstr "Clipper"
@@ -235,7 +191,6 @@ msgid "Clojure"
 msgstr ""
 
 #, fuzzy
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "CoffeeScript"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
@@ -257,35 +212,26 @@ msgid "ConTeXt"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "CMake"
 msgctxt "Language|"
 msgid "Crack"
 msgstr "CMake"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "CSS"
 msgctxt "Language|"
 msgid "CSS"
 msgstr "CSS"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "C#"
 msgctxt "Language|"
 msgid "C#"
 msgstr "C#"
 
 #, fuzzy
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "CubeScript"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "CUE Sheet"
 msgctxt "Language|"
 msgid "CUE Sheet"
 msgstr "ക്യൂ ഷീറ്റ്"
@@ -295,36 +241,26 @@ msgid "Curry"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "C"
 msgctxt "Language|"
 msgid "C"
 msgstr "സി"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ChangeLog"
 msgctxt "Language|"
 msgid "Debian Changelog"
 msgstr "ChangeLog"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ChangeLog"
 msgctxt "Language|"
 msgid "Debian Control"
 msgstr "ChangeLog"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid ".desktop"
 msgctxt "Language|"
 msgid ".desktop"
 msgstr ".desktop"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Diff"
 msgctxt "Language|"
 msgid "Diff"
 msgstr "Diff"
@@ -334,8 +270,6 @@ msgid "Django HTML Template"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Makefile"
 msgctxt "Language|"
 msgid "Dockerfile"
 msgstr "Makefile"
@@ -349,8 +283,6 @@ msgid "dot"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Makefile"
 msgctxt "Language|"
 msgid "Doxyfile"
 msgstr "Makefile"
@@ -364,22 +296,16 @@ msgid "Doxygen"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "DTD"
 msgctxt "Language|"
 msgid "DTD"
 msgstr "DTD"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "D"
 msgctxt "Language|"
 msgid "D"
 msgstr "ഡി"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Eiffel"
 msgctxt "Language|"
 msgid "Eiffel"
 msgstr "എയിഫല്‍"
@@ -389,8 +315,6 @@ msgid "Elm"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Email"
 msgctxt "Language|"
 msgid "Email"
 msgstr "ഈമെയില്‍"
@@ -404,8 +328,6 @@ msgid "Euphoria"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "E Language"
 msgctxt "Language|"
 msgid "E Language"
 msgstr "ഇ ലാഗ്വേജ്"
@@ -419,21 +341,16 @@ msgid "FASTQ"
 msgstr ""
 
 #, fuzzy
-#| msgid "Overwrite"
 msgctxt "Language|"
 msgid "ferite"
 msgstr "തിരുത്തിയെഴുതുക"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "4GL"
 msgctxt "Language|"
 msgid "4GL"
 msgstr "4GL"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "4GL-PER"
 msgctxt "Language|"
 msgid "4GL-PER"
 msgstr "4GL-PER"
@@ -447,7 +364,6 @@ msgid "FlatBuffers"
 msgstr ""
 
 #, fuzzy
-#| msgid "File Format"
 msgctxt "Language|"
 msgid "Fortran (Fixed Format)"
 msgstr "ഫയലിന്റെ രീതി"
@@ -457,8 +373,6 @@ msgid "Fortran (Free Format)"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "FreeBASIC"
 msgctxt "Language|"
 msgid "FreeBASIC"
 msgstr "ഫ്രീബെയ്സിക്"
@@ -468,8 +382,6 @@ msgid "FSharp"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "fstab"
 msgctxt "Language|"
 msgid "fstab"
 msgstr "fstab"
@@ -479,8 +391,6 @@ msgid "FTL"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GAP"
 msgctxt "Language|"
 msgid "GAP"
 msgstr "GAP"
@@ -490,7 +400,6 @@ msgid "G-Code"
 msgstr ""
 
 #, fuzzy
-#| msgid "Backspace"
 msgctxt "Language|"
 msgid "GDB Backtrace"
 msgstr "Backspace"
@@ -500,28 +409,21 @@ msgid "GDB Init"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GDL"
 msgctxt "Language|"
 msgid "GDB"
 msgstr "GDL"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GDL"
 msgctxt "Language|"
 msgid "GDL"
 msgstr "GDL"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GNU Gettext"
 msgctxt "Language|"
 msgid "GNU Gettext"
 msgstr "GNU Gettext"
 
 #, fuzzy
-#| msgid "&Ignore"
 msgctxt "Language|"
 msgid "Git Ignore"
 msgstr "&വേണ്ടെന്നു് വയ്ക്കുക"
@@ -539,15 +441,11 @@ msgid "GlossTex"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "GLSL"
 msgstr "GLSL"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GNU Assembler"
 msgctxt "Language|"
 msgid "GNU Assembler"
 msgstr "ഗ്നു അസ്സംബ്ലര്‍"
@@ -557,7 +455,6 @@ msgid "Gnuplot"
 msgstr ""
 
 #, fuzzy
-#| msgid "Go"
 msgctxt "Language|"
 msgid "Go"
 msgstr "പോകുക"
@@ -579,8 +476,6 @@ msgid "Haml"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Haskell"
 msgctxt "Language|"
 msgid "Haskell"
 msgstr "ഹാസ്കല്‍"
@@ -590,8 +485,6 @@ msgid "Haxe"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "HTML"
 msgctxt "Language|"
 msgid "HTML"
 msgstr "HTML"
@@ -609,36 +502,26 @@ msgid "Hunspell Dictionary File"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Quake Script"
 msgctxt "Language|"
 msgid "Quake Script"
 msgstr "ക്വേക്ക് സ്ക്രിപ്റ്റ്"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "IDL"
 msgctxt "Language|"
 msgid "IDL"
 msgstr "IDL"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "ILERPG"
 msgctxt "Language|"
 msgid "ILERPG"
 msgstr "ILERPG"
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgctxt "Language|"
 msgid "Inform"
 msgstr "ക്രമികരണം"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "INI Files"
 msgctxt "Language|"
 msgid "INI Files"
 msgstr "INI ഫയലുകള്‍"
@@ -652,29 +535,21 @@ msgid "Jam"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Java"
 msgctxt "Language|"
 msgid "Javadoc"
 msgstr "ജാവാ"
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "JavaScript React"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "JavaScript"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Java"
 msgctxt "Language|"
 msgid "Java"
 msgstr "ജാവാ"
@@ -688,15 +563,11 @@ msgid "Jira"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "JSON"
 msgctxt "Language|"
 msgid "JSON"
 msgstr "JSON"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "JSP"
 msgctxt "Language|"
 msgid "JSP"
 msgstr "JSP"
@@ -714,7 +585,6 @@ msgid "KBasic"
 msgstr ""
 
 #, fuzzy
-#| msgid "Configure"
 msgctxt "Language|"
 msgid "Kconfig"
 msgstr "ക്രമികരിക്കുക"
@@ -732,15 +602,11 @@ msgid "LaTeX"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "LDIF"
 msgctxt "Language|"
 msgid "LDIF"
 msgstr "LDIF"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Quake Script"
 msgctxt "Language|"
 msgid "GNU Linker Script"
 msgstr "ക്വേക്ക് സ്ക്രിപ്റ്റ്"
@@ -758,15 +624,11 @@ msgid "LilyPond"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Haskell"
 msgctxt "Language|"
 msgid "Literate Curry"
 msgstr "ഹാസ്കല്‍"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Haskell"
 msgctxt "Language|"
 msgid "Literate Haskell"
 msgstr "ഹാസ്കല്‍"
@@ -780,29 +642,21 @@ msgid "Logtalk"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "LPC"
 msgctxt "Language|"
 msgid "LPC"
 msgstr "LPC"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "LSL"
 msgstr "GLSL"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Lua"
 msgctxt "Language|"
 msgid "Lua"
 msgstr "Lua"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "M3U"
 msgctxt "Language|"
 msgid "M3U"
 msgstr "M3U"
@@ -812,8 +666,6 @@ msgid "GNU M4"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "MAB-DB"
 msgctxt "Language|"
 msgid "MAB-DB"
 msgstr "MAB-DB"
@@ -823,8 +675,6 @@ msgid "Magma"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Makefile"
 msgctxt "Language|"
 msgid "Makefile"
 msgstr "Makefile"
@@ -862,8 +712,6 @@ msgid "MediaWiki"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "MEL"
 msgstr "GLSL"
@@ -889,20 +737,16 @@ msgid "MIB"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Assembler"
 msgctxt "Language|"
 msgid "MIPS Assembler"
 msgstr "അസ്സംബ്ലര്‍"
 
 #, fuzzy
-#| msgid "Move to Next Line"
 msgctxt "Language|"
 msgid "Modelica"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#| msgid "Move to Next Line"
 msgctxt "Language|"
 msgid "Modelines"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
@@ -1008,8 +852,6 @@ msgid "Perl"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "PHP/PHP"
 msgctxt "Language|"
 msgid "PHP/PHP"
 msgstr "PHP/PHP"
@@ -1035,8 +877,6 @@ msgid "PLY"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "PostScript"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
@@ -1058,7 +898,6 @@ msgid "Protobuf"
 msgstr ""
 
 #, fuzzy
-#| msgid "Plugins"
 msgctxt "Language|"
 msgid "Pug"
 msgstr "പ്ലഗിനുകള്‍"
@@ -1076,22 +915,16 @@ msgid "Python"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgctxt "Language|"
 msgid "QDoc Configuration"
 msgstr "ക്രമികരണം"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "CMake"
 msgctxt "Language|"
 msgid "QMake"
 msgstr "CMake"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "QML"
 msgstr "GLSL"
@@ -1105,7 +938,6 @@ msgid "RapidQ"
 msgstr ""
 
 #, fuzzy
-#| msgid "Close Document"
 msgctxt "Language|"
 msgid "R documentation"
 msgstr "രേഖ അടയ്ക്കുക"
@@ -1115,13 +947,11 @@ msgid "RelaxNG-Compact"
 msgstr ""
 
 #, fuzzy
-#| msgid "Replace"
 msgctxt "Language|"
 msgid "Replicode"
 msgstr "മാറ്റുക"
 
 #, fuzzy
-#| msgid "Selected text:"
 msgctxt "Language|"
 msgid "reStructuredText"
 msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
@@ -1155,7 +985,6 @@ msgid "RSI IDL"
 msgstr ""
 
 #, fuzzy
-#| msgid "File Format"
 msgctxt "Language|"
 msgid "Rich Text Format"
 msgstr "ഫയലിന്റെ രീതി"
@@ -1169,15 +998,11 @@ msgid "Rust"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "R Script"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Other"
 msgctxt "Language|"
 msgid "Sather"
 msgstr "മറ്റുള്ളവ "
@@ -1187,7 +1012,6 @@ msgid "Scala"
 msgstr ""
 
 #, fuzzy
-#| msgid "&Schema"
 msgctxt "Language|"
 msgid "Scheme"
 msgstr "&സ്കീമാ"
@@ -1229,8 +1053,6 @@ msgid "Smali"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "SML"
 msgstr "GLSL"
@@ -1252,8 +1074,6 @@ msgid "SQL (PostgreSQL)"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "SQL"
 msgstr "GLSL"
@@ -1263,14 +1083,11 @@ msgid "Stan"
 msgstr ""
 
 #, fuzzy
-#| msgid "Static"
 msgctxt "Language|"
 msgid "Stata"
 msgstr "സ്റ്റാറ്റിക്"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "STL"
 msgstr "GLSL"
@@ -1324,21 +1141,16 @@ msgid "txt2tags"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "TypeScript React"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "TypeScript"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "UnrealScript"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
@@ -1352,43 +1164,31 @@ msgid "Valgrind Suppression"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Varnish 4 Configuration Language"
 msgstr "അപ്പാച്ചെ ക്രമികരണം"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Varnish 4 module spec file"
 msgstr "അപ്പാച്ചെ ക്രമികരണം"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Varnish 3 module spec file"
 msgstr "അപ്പാച്ചെ ക്രമികരണം"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Varnish 4 Test Case language"
 msgstr "അപ്പാച്ചെ ക്രമികരണം"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Varnish Test Case language"
 msgstr "അപ്പാച്ചെ ക്രമികരണം"
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
 msgctxt "Language|"
 msgid "Varnish Configuration Language"
 msgstr "അപ്പാച്ചെ ക്രമികരണം"
@@ -1426,7 +1226,6 @@ msgid "Wayland Trace"
 msgstr ""
 
 #, fuzzy
-#| msgid "Configure"
 msgctxt "Language|"
 msgid "WINE Config"
 msgstr "ക്രമികരിക്കുക"
@@ -1444,22 +1243,16 @@ msgid "XML (Debug)"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "GLSL"
 msgctxt "Language|"
 msgid "XML"
 msgstr "GLSL"
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language|"
 msgid "Xonotic Script"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgctxt "Language|"
 msgid "x.org Configuration"
 msgstr "ക്രമികരണം"
@@ -1497,29 +1290,21 @@ msgid "Zsh"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Scripts"
 msgctxt "Language Section|"
 msgid "Scripts"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Sources"
 msgctxt "Language Section|"
 msgid "Sources"
 msgstr "ശ്രോതസ്"
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Other"
 msgctxt "Language Section|"
 msgid "Other"
 msgstr "മറ്റുള്ളവ "
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Hardware"
 msgctxt "Language Section|"
 msgid "Hardware"
 msgstr "ഹാര്‍ഡ്‌വെയര്‍"
@@ -1529,8 +1314,6 @@ msgid "Scientific"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgctxt "Language Section|"
 msgid "Configuration"
 msgstr "ക്രമികരണം"
@@ -1540,8 +1323,6 @@ msgid "Markup"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Assembler"
 msgctxt "Language Section|"
 msgid "Assembler"
 msgstr "അസ്സംബ്ലര്‍"
@@ -1551,8 +1332,6 @@ msgid "Database"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "D"
 msgctxt "Language Section|"
 msgid "3D"
 msgstr "ഡി"
@@ -1566,7 +1345,6 @@ msgid "Default"
 msgstr ""
 
 #, fuzzy
-#| msgid "Sorting"
 msgctxt "Theme|"
 msgid "Printing"
 msgstr "ക്രമപ്പെടുത്തല്‍"
@@ -1586,15 +1364,12 @@ msgstr ""
 
 #: cli/kate-syntax-highlighter.cpp:53
 #, fuzzy
-#| msgctxt "Language Section"
-#| msgid "Sources"
 msgctxt "SyntaxHighlightingCLI|"
 msgid "source"
 msgstr "ശ്രോതസ്"
 
 #: cli/kate-syntax-highlighter.cpp:54
 #, fuzzy
-#| msgid "Select the color scheme to use for the print."
 msgctxt "SyntaxHighlightingCLI|"
 msgid "The source file to highlight."
 msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായി നിറങ്ങള്‍ തിരഞ്ഞെടുക്കുക."
@@ -1638,14 +1413,12 @@ msgstr ""
 
 #: cli/kate-syntax-highlighter.cpp:78
 #, fuzzy
-#| msgid "Select the color scheme to use for the print."
 msgctxt "SyntaxHighlightingCLI|"
 msgid "Color theme to use for highlighting."
 msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായി നിറങ്ങള്‍ തിരഞ്ഞെടുക്കുക."
 
 #: cli/kate-syntax-highlighter.cpp:79
 #, fuzzy
-#| msgid "&Schema"
 msgctxt "SyntaxHighlightingCLI|"
 msgid "theme"
 msgstr "&സ്കീമാ"
@@ -1659,7 +1432,6 @@ msgstr ""
 
 #: cli/kate-syntax-highlighter.cpp:84
 #, fuzzy
-#| msgid "Untitled"
 msgctxt "SyntaxHighlightingCLI|"
 msgid "title"
 msgstr "തലക്കെട്ടില്ലാത്ത"
@@ -1671,8 +1443,6 @@ msgstr ""
 
 #: lib/definition_p.h:104
 #, fuzzy
-#| msgctxt "Syntax highlighting"
-#| msgid "None"
 msgctxt "Syntax highlighting|"
 msgid "None"
 msgstr "ശൂന്യം"
@@ -1695,15 +1465,11 @@ msgid "Updating syntax definition for '%1' to version %2..."
 msgstr ""
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Fortran"
 #~ msgctxt "Language|"
 #~ msgid "Fortran"
 #~ msgstr "ഫോര്‍ട്രാന്‍"
 
 #, fuzzy
-#~| msgctxt "@item:intable Text context"
-#~| msgid "Alert"
 #~ msgctxt "Language|"
 #~ msgid "Alerts_indent"
 #~ msgstr "അറിയിപ്പു്"
@@ -1775,37 +1541,30 @@ msgstr ""
 #~ msgstr "പ്രധാന ഉപകരണപ്പട്ട"
 
 #, fuzzy
-#~| msgid "Show &Line Numbers"
 #~ msgid "Show &folding markers"
 #~ msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Print the current document."
 #~ msgid "Show preview of folded code"
 #~ msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ചെയ്യുക."
 
 #, fuzzy
-#~| msgid "Show &Line Numbers"
 #~ msgid "Show &icon border"
 #~ msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show &Line Numbers"
 #~ msgid "Show &line numbers"
 #~ msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Show &Line Numbers"
 #~ msgid "Show line modification markers"
 #~ msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Save the current document"
 #~ msgid "Map the whole document"
 #~ msgstr "നിലവിലുള്ള രേഖ സൂക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgid "W&idth:"
 #~ msgid "Minim&ap Width"
 #~ msgstr "വീ&തി:"
 
@@ -1813,17 +1572,14 @@ msgstr ""
 #~ msgstr "എപ്പോഴും ഓണ്‍ ആയിരിക്കുക"
 
 #, fuzzy
-#~| msgid "Always On"
 #~ msgid "Always Off"
 #~ msgstr "എപ്പോഴും ഓണ്‍ ആയിരിക്കുക"
 
 #, fuzzy
-#~| msgid "Set &Bookmark"
 #~ msgid "Sort Bookmarks Menu"
 #~ msgstr "&ഓര്‍മ്മക്കുറിപ്പു് സജ്ജമാക്കുക"
 
 #, fuzzy
-#~| msgid "Options"
 #~ msgid "By posi&tion"
 #~ msgstr "ഉപാധികള്‍"
 
@@ -1834,17 +1590,14 @@ msgstr ""
 #~ msgstr "വിവരണം"
 
 #, fuzzy
-#~| msgid "Edit entry..."
 #~ msgid "Edit Entry..."
 #~ msgstr "എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക..."
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Remove Entry"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Add entry..."
 #~ msgid "Add Entry..."
 #~ msgstr "എന്‍ട്രി ചേര്‍ക്കുക..."
 
@@ -1867,17 +1620,14 @@ msgstr ""
 #~ msgstr "സാധാരണ"
 
 #, fuzzy
-#~| msgid "Unable to open %1"
 #~ msgid "Enable &auto completion"
 #~ msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Unable to open %1"
 #~ msgid "A&uto Word Completion"
 #~ msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Unable to open %1"
 #~ msgid "&Keyword completion"
 #~ msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
@@ -1888,17 +1638,14 @@ msgstr ""
 #~ msgstr "\\/"
 
 #, fuzzy
-#~| msgid "Header Properties"
 #~ msgid "Access Grouping Properties"
 #~ msgstr "തലക്കെട്ടിന്റെ ഗുണഗണങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Unable to open %1"
 #~ msgid "Enable automatic brackets"
 #~ msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Roland Pabel"
 #~ msgid "Copy and Paste"
 #~ msgstr "റോളണ്ട് പാബല്‍"
 
@@ -1933,25 +1680,20 @@ msgstr ""
 #~ msgstr "മുന്‍&ഗണന:"
 
 #, fuzzy
-#~| msgid "Replace"
 #~ msgid "&Spaces"
 #~ msgstr "മാറ്റുക"
 
 #, fuzzy
-#~| msgid " characters"
 #~ msgid " character"
 #~ msgid_plural " characters"
 #~ msgstr[0] " അക്ഷരങ്ങള്‍"
 #~ msgstr[1] " അക്ഷരങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "Language Section"
-#~| msgid "Configuration"
 #~ msgid "Text Navigation"
 #~ msgstr "ക്രമികരണം"
 
 #, fuzzy
-#~| msgid " characters"
 #~ msgctxt "Wrap words at (value is at 20 or larger)"
 #~ msgid " character"
 #~ msgid_plural " characters"
@@ -1986,25 +1728,19 @@ msgstr ""
 #~ msgstr "ഏതു് വരിയിലേക്കു് &പോകണം:"
 
 #, fuzzy
-#~| msgid "&Section:"
 #~ msgid "Dictionary:"
 #~ msgstr "&ഭാഗം:"
 
 #, fuzzy
-#~| msgid "Reloa&d"
 #~ msgid "&Reload"
 #~ msgstr "വീണ്ടും &ലഭ്യമാക്കുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "Reload the file from disk. If you have unsaved changes, they will be "
-#~| "lost."
 #~ msgid "Reload the file from disk. Unsaved changes will be lost."
 #~ msgstr ""
 #~ "ഡിസ്കില്‍ നിന്നും ഫയല്‍ വീണ്ടും ലഭ്യമാക്കുക. സൂക്ഷിക്കാത്ത മാറ്റങ്ങള്‍ നിങ്ങള്‍ക്കു് നഷ്ടമാകുന്നതാണു്."
 
 #, fuzzy
-#~| msgid "&Save File As..."
 #~ msgid "&Save As..."
 #~ msgstr "ഫയലിന്റെ പേരു് മാറ്റി &സൂക്ഷിക്കുക..."
 
@@ -2015,7 +1751,6 @@ msgstr ""
 #~ msgstr "&വേണ്ടെന്നു് വയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Ignore the changes. You will not be prompted again."
 #~ msgid "Ignores the changes on disk without any action."
 #~ msgstr "മാറ്റങ്ങള്‍ വേണ്ടെന്നു് വയ്ക്കുക. പിന്നീടു് നിങ്ങളോടു് ചോദിക്കുന്നതല്ല."
 
@@ -2036,7 +1771,6 @@ msgstr ""
 #~ msgstr "പ്രവര്‍ത്തന രഹിതം"
 
 #, fuzzy
-#~| msgid "Move to Next Line"
 #~ msgid " lines"
 #~ msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
@@ -2044,7 +1778,6 @@ msgstr ""
 #~ msgstr "പലവക"
 
 #, fuzzy
-#~| msgid "&Normal"
 #~ msgid "Normal"
 #~ msgstr "&സാധാരണ"
 
@@ -2055,12 +1788,10 @@ msgstr ""
 #~ msgstr "&ലോക്കല്‍ ഫയലുകള്‍"
 
 #, fuzzy
-#~| msgid "New Filetype"
 #~ msgid "Swap file:"
 #~ msgstr "പുതിയ തരത്തിലുള്ള ഫയല്‍"
 
 #, fuzzy
-#~| msgid "Disabled"
 #~ msgid "Disable"
 #~ msgstr "പ്രവര്‍ത്തന രഹിതം"
 
@@ -2068,12 +1799,10 @@ msgstr ""
 #~ msgstr "&എന്‍കോഡിങ്:"
 
 #, fuzzy
-#~| msgid "&Encoding:"
 #~ msgid "&Encoding Detection:"
 #~ msgstr "&എന്‍കോഡിങ്:"
 
 #, fuzzy
-#~| msgid "&Encoding:"
 #~ msgid "&Fallback Encoding:"
 #~ msgstr "&എന്‍കോഡിങ്:"
 
@@ -2090,27 +1819,22 @@ msgstr ""
 #~ msgstr "മാക്കിന്റോഷ്"
 
 #, fuzzy
-#~| msgid "Untitled"
 #~ msgid "Unlimited"
 #~ msgstr "തലക്കെട്ടില്ലാത്ത"
 
 #, fuzzy
-#~| msgid "Backup on Save"
 #~ msgid "Automatic Cleanups on Save"
 #~ msgstr "സൂക്ഷിക്കുമ്പോള്‍ ബാക്കപ്പെടുക്കുക"
 
 #, fuzzy
-#~| msgid "Move to Next Line"
 #~ msgid "On Modified Lines"
 #~ msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "In Entire Document"
 #~ msgstr "രേഖ അടയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "New Filetype"
 #~ msgctxt "short translation, user created new file"
 #~ msgid "New file"
 #~ msgstr "പുതിയ തരത്തിലുള്ള ഫയല്‍"
@@ -2134,7 +1858,6 @@ msgstr ""
 #~ msgstr "മാറ്റങ്ങള്‍ &അവഗണിക്കുക"
 
 #, fuzzy
-#~| msgid "Save File"
 #~ msgid "Save Copy of File"
 #~ msgstr "ഫയല്‍ സൂക്ഷിക്കുക"
 
@@ -2165,12 +1888,10 @@ msgstr ""
 #~ msgstr "രേഖ അടയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Normal text:"
 #~ msgid "Normal Mode"
 #~ msgstr "സാധാരണ വാചകം:"
 
 #, fuzzy
-#~| msgid "E&ncoding"
 #~ msgid "recording"
 #~ msgstr "എ&ന്‍കോഡിങു്"
 
@@ -2187,7 +1908,6 @@ msgstr ""
 #~ msgstr "Mime തരത്തിലുള്ളവ തിരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgid "New Filetype"
 #~ msgid "Modes && Filetypes"
 #~ msgstr "പുതിയ തരത്തിലുള്ള ഫയല്‍"
 
@@ -2234,7 +1954,6 @@ msgstr ""
 #~ msgstr "&പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgid "File Name"
 #~ msgstr "പേരു്"
 
@@ -2260,83 +1979,66 @@ msgstr ""
 #~ msgstr "വാചകം"
 
 #, fuzzy
-#~| msgid "What do you want to do?"
 #~ msgid "How do you want to import the schema?"
 #~ msgstr "നിങ്ങള്‍ക്കു് എന്താണു് ചെയ്യേണ്ടതു്? "
 
 #, fuzzy
-#~| msgid "Name for New Schema"
 #~ msgid "Import as new schema:"
 #~ msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
 #, fuzzy
-#~| msgid "Name for New Schema"
 #~ msgid "Use KDE Color Scheme"
 #~ msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
 #, fuzzy
-#~| msgid "&Background Color..."
 #~ msgid "Editor Background Colors"
 #~ msgstr "&പശ്ചാത്തലത്തിലുള്ള നിറം..."
 
 #, fuzzy
-#~| msgid "Selected text:"
 #~ msgid "Selected Text"
 #~ msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
 #, fuzzy
-#~| msgid "Delete Line"
 #~ msgid "Current Line"
 #~ msgstr "വരി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Replace &All"
 #~ msgid "Replace Highlight"
 #~ msgstr "&എല്ലാം മാറ്റുക"
 
 #, fuzzy
-#~| msgid "Borders"
 #~ msgid "Icon Border"
 #~ msgstr "അതിരുകള്‍"
 
 #, fuzzy
-#~| msgctxt "@title:column Text style"
-#~| msgid "Background"
 #~ msgid "Background Area"
 #~ msgstr "പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid "Show &Line Numbers"
 #~ msgid "Line Numbers"
 #~ msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Delete Line"
 #~ msgid "Current Line Number"
 #~ msgstr "വരി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Select the color scheme to use for the print."
 #~ msgid "<p>Sets the color of the code folding bar.</p>"
 #~ msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായി നിറങ്ങള്‍ തിരഞ്ഞെടുക്കുക."
 
 #, fuzzy
-#~| msgid "Move to Next Line"
 #~ msgid "Modified Lines"
 #~ msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Save File"
 #~ msgid "Saved Lines"
 #~ msgstr "ഫയല്‍ സൂക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgid "Select the color scheme to use for the print."
 #~ msgid "<p>Sets the color of the vertical indentation lines.</p>"
 #~ msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായി നിറങ്ങള്‍ തിരഞ്ഞെടുക്കുക."
 
 #, fuzzy
-#~| msgid "Colors"
 #~ msgid "Marker Colors"
 #~ msgstr "നിറങ്ങള്‍"
 
@@ -2350,35 +2052,28 @@ msgstr ""
 #~ msgstr "പിശകു്"
 
 #, fuzzy
-#~| msgctxt "@title:column Text style"
-#~| msgid "Background"
 #~ msgid "Background"
 #~ msgstr "പശ്ചാത്തലം"
 
 #, fuzzy
-#~| msgid " characters"
 #~ msgctxt "@item:intable"
 #~ msgid "Strings & Characters"
 #~ msgstr " അക്ഷരങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgctxt "@item:intable"
 #~ msgid "Comments & Documentation"
 #~ msgstr "രേഖ അടയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "E&xport as HTML..."
 #~ msgid "Export..."
 #~ msgstr "HTML ആയി &ലഭ്യമാക്കുക..."
 
 #, fuzzy
-#~| msgid "Name for New Schema"
 #~ msgid "Kate color schema"
 #~ msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
 #, fuzzy
-#~| msgid "File Format"
 #~ msgid "Fileformat error"
 #~ msgstr "ഫയലിന്റെ രീതി"
 
@@ -2395,12 +2090,10 @@ msgstr ""
 #~ msgstr "%1-നു് &സ്വതവേയുള്ള സ്കീമാ:"
 
 #, fuzzy
-#~| msgid "Name for New Schema"
 #~ msgid "Exporting color schema: %1"
 #~ msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
 #, fuzzy
-#~| msgid "Name for New Schema"
 #~ msgid "Importing Color Schema"
 #~ msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
@@ -2440,193 +2133,152 @@ msgstr ""
 #~ msgstr "&പശ്ചാത്തലത്തിലുള്ള നിറം..."
 
 #, fuzzy
-#~| msgid "&Selected Color..."
 #~ msgid "Unset Selected Color"
 #~ msgstr "&തിരഞ്ഞെടുത്ത നിറം..."
 
 #, fuzzy
-#~| msgctxt "Syntax highlighting"
-#~| msgid "None"
 #~ msgctxt "No text or background color set"
 #~ msgid "None set"
 #~ msgstr "ശൂന്യം"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgctxt "Script command name"
 #~ msgid "Move cursor to matching tag"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgctxt "@item:intable Text context"
-#~| msgid "Comment"
 #~ msgctxt "Script command name"
 #~ msgid "Toggle comment"
 #~ msgstr "അഭിപ്രായം"
 
 #, fuzzy
-#~| msgid "Move to Previous Line"
 #~ msgctxt "Script command name"
 #~ msgid "Go to next edit point"
 #~ msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Move to Previous Line"
 #~ msgctxt "Script command name"
 #~ msgid "Go to previous edit point"
 #~ msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Move to Previous Line"
 #~ msgctxt "Script command name"
 #~ msgid "Select previous edit point"
 #~ msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Delete the current file type."
 #~ msgctxt "Script command name"
 #~ msgid "Delete tag under cursor"
 #~ msgstr "നിലവിലുള്ള ഫയല്‍തരം വെട്ടിമാറ്റുക."
 
 #, fuzzy
-#~| msgid "Delete the current file type."
 #~ msgid "Deletes tag under cursor"
 #~ msgstr "നിലവിലുള്ള ഫയല്‍തരം വെട്ടിമാറ്റുക."
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgctxt "Script command name"
 #~ msgid "Move cursor to previous matching indent"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgctxt "Language Section"
-#~| msgid "Configuration"
 #~ msgctxt "Script command category"
 #~ msgid "Navigation"
 #~ msgstr "ക്രമികരണം"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgctxt "Script command name"
 #~ msgid "Move cursor to next matching indent"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgid "Move cursor to previous matching indent"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgid "Move cursor to next matching indent"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "E&ncoding"
 #~ msgctxt "Script command category"
 #~ msgid "Quick Coding"
 #~ msgstr "എ&ന്‍കോഡിങു്"
 
 #, fuzzy
-#~| msgid "Selected text:"
 #~ msgctxt "Script command name"
 #~ msgid "Sort Selected Text"
 #~ msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
 #, fuzzy
-#~| msgid "Editing"
 #~ msgctxt "Script command category"
 #~ msgid "Editing"
 #~ msgstr "മാറ്റം വരുത്തുക"
 
 #, fuzzy
-#~| msgid "Move to Next Line"
 #~ msgctxt "Script command name"
 #~ msgid "Move Lines Down"
 #~ msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Move to Next Line"
 #~ msgctxt "Script command name"
 #~ msgid "Move Lines Up"
 #~ msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgctxt "@title:column Text style"
-#~| msgid "Selected"
 #~ msgctxt "Script command name"
 #~ msgid "Duplicate Selected Lines Down"
 #~ msgstr "തിരഞ്ഞെടുത്തവ"
 
 #, fuzzy
-#~| msgctxt "@title:column Text style"
-#~| msgid "Selected"
 #~ msgctxt "Script command name"
 #~ msgid "Duplicate Selected Lines Up"
 #~ msgstr "തിരഞ്ഞെടുത്തവ"
 
 #, fuzzy
-#~| msgid "Selected text:"
 #~ msgctxt "Script command name"
 #~ msgid "URI-encode Selected Text"
 #~ msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
 #, fuzzy
-#~| msgid "Selected text:"
 #~ msgctxt "Script command name"
 #~ msgid "URI-decode Selected Text"
 #~ msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
 #, fuzzy
-#~| msgid "Select the entire text of the current document."
 #~ msgid "Sort the selected text or whole document."
 #~ msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #, fuzzy
-#~| msgctxt "@title:column Text style"
-#~| msgid "Selected"
 #~ msgid "Move selected lines down."
 #~ msgstr "തിരഞ്ഞെടുത്തവ"
 
 #, fuzzy
-#~| msgctxt "@title:column Text style"
-#~| msgid "Selected"
 #~ msgid "Move selected lines up."
 #~ msgstr "തിരഞ്ഞെടുത്തവ"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Ada"
 #~ msgctxt "Autoindent mode"
 #~ msgid "ada"
 #~ msgstr "അഡാ"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "CMake"
 #~ msgctxt "Autoindent mode"
 #~ msgid "CMake"
 #~ msgstr "CMake"
 
 #, fuzzy
-#~| msgid "Latest"
 #~ msgctxt "Autoindent mode"
 #~ msgid "Latex"
 #~ msgstr "ഏറ്റവും പുതിയതു്"
 
 #, fuzzy
-#~| msgid "Error loading script %1"
 #~ msgid "Error calling %1"
 #~ msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
 #, fuzzy
-#~| msgid "Error loading script %1"
 #~ msgid "Error calling 'help %1'"
 #~ msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
 #, fuzzy
-#~| msgid "Error loading script %1"
 #~ msgid "Error loading script %1\n"
 #~ msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
@@ -2643,7 +2295,6 @@ msgstr ""
 #~ msgstr "ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Not found"
 #~ msgctxt "short translation"
 #~ msgid "1 match found"
 #~ msgid_plural "%1 matches found"
@@ -2651,7 +2302,6 @@ msgstr ""
 #~ msgstr[1] "ലഭ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Replace"
 #~ msgctxt "short translation"
 #~ msgid "1 replacement made"
 #~ msgid_plural "%1 replacements made"
@@ -2677,7 +2327,6 @@ msgstr ""
 #~ msgstr "ബാക്ക് സ്ലാഷു്"
 
 #, fuzzy
-#~| msgid "Find:"
 #~ msgid "F&ind:"
 #~ msgstr "കണ്ടുപിടിക്കുക:"
 
@@ -2685,12 +2334,10 @@ msgstr ""
 #~ msgstr "കണ്ടുപിടിക്കേണ്ട വാചകം"
 
 #, fuzzy
-#~| msgid "Replace:"
 #~ msgid "Rep&lace:"
 #~ msgstr "മാറ്റുക: "
 
 #, fuzzy
-#~| msgid "Replace"
 #~ msgid "&Replace"
 #~ msgstr "മാറ്റുക"
 
@@ -2698,63 +2345,50 @@ msgstr ""
 #~ msgstr "&എല്ലാം മാറ്റുക"
 
 #, fuzzy
-#~| msgid "Unknown command '%1'"
 #~ msgid "Unknown word:"
 #~ msgstr "അപരിചിതമായ കമാന്‍ഡു് '%1'"
 
 #, fuzzy
-#~| msgid "Unknown command '%1'"
 #~ msgid "Unknown word"
 #~ msgstr "അപരിചിതമായ കമാന്‍ഡു് '%1'"
 
 #, fuzzy
-#~| msgid "&Section:"
 #~ msgid "<< Add to Dictionary"
 #~ msgstr "&ഭാഗം:"
 
 #, fuzzy
-#~| msgid "Replace:"
 #~ msgid "Replace with:"
 #~ msgstr "മാറ്റുക: "
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "E Language"
 #~ msgid "&Language:"
 #~ msgstr "ഇ ലാഗ്വേജ്"
 
 #, fuzzy
-#~| msgid "Replace &All"
 #~ msgid "R&eplace All"
 #~ msgstr "&എല്ലാം മാറ്റുക"
 
 #, fuzzy
-#~| msgid "&Ignore"
 #~ msgid "I&gnore All"
 #~ msgstr "&വേണ്ടെന്നു് വയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "&Ignore"
 #~ msgid "Ignore Word"
 #~ msgstr "&വേണ്ടെന്നു് വയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "&Section:"
 #~ msgid "Add to Dictionary"
 #~ msgstr "&ഭാഗം:"
 
 #, fuzzy
-#~| msgid "&Ignore Changes"
 #~ msgid "View Changes"
 #~ msgstr "മാറ്റങ്ങള്‍ &അവഗണിക്കുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Recover Data"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Disabled"
 #~ msgid "Discard"
 #~ msgstr "പ്രവര്‍ത്തന രഹിതം"
 
@@ -2763,7 +2397,6 @@ msgstr ""
 #~ msgstr "മറ്റുള്ളവ "
 
 #, fuzzy
-#~| msgid "Go"
 #~ msgctxt "Language"
 #~ msgid "Go"
 #~ msgstr "പോകുക"
@@ -2777,7 +2410,6 @@ msgstr ""
 #~ msgstr "Lua"
 
 #, fuzzy
-#~| msgid "Replace"
 #~ msgctxt "Language"
 #~ msgid "Replicode"
 #~ msgstr "മാറ്റുക"
@@ -2794,19 +2426,16 @@ msgstr ""
 #~ msgstr "ഫംഗ്ഷന്‍"
 
 #, fuzzy
-#~| msgid "Variable"
 #~ msgctxt "@item:intable Text context"
 #~ msgid "Variable"
 #~ msgstr "വേരിയബിള്‍"
 
 #, fuzzy
-#~| msgid "Extensions"
 #~ msgctxt "@item:intable Text context"
 #~ msgid "Extension"
 #~ msgstr "എക്സ്റ്റന്‍ഷനുകള്‍"
 
 #, fuzzy
-#~| msgid "Select Character Left"
 #~ msgctxt "@item:intable Text context"
 #~ msgid "Special Character"
 #~ msgstr "ഇടത്തുള്ള അക്ഷരം തിരഞ്ഞെടുക്കുക"
@@ -2816,14 +2445,11 @@ msgstr ""
 #~ msgstr "സ്ട്രിങ്"
 
 #, fuzzy
-#~| msgctxt "@item:intable Text context"
-#~| msgid "String"
 #~ msgctxt "@item:intable Text context"
 #~ msgid "Special String"
 #~ msgstr "സ്ട്രിങ്"
 
 #, fuzzy
-#~| msgid "Constant"
 #~ msgctxt "@item:intable Text context"
 #~ msgid "Constant"
 #~ msgstr "കോണ്‍സ്റ്റന്റ്"
@@ -2833,13 +2459,11 @@ msgstr ""
 #~ msgstr "അഭിപ്രായം"
 
 #, fuzzy
-#~| msgid "Variable"
 #~ msgctxt "@item:intable Text context"
 #~ msgid "Comment Variable"
 #~ msgstr "വേരിയബിള്‍"
 
 #, fuzzy
-#~| msgid "Warning"
 #~ msgctxt "@item:intable Text context"
 #~ msgid "Warning"
 #~ msgstr "മുന്നറിയിപ്പു്"
@@ -2880,12 +2504,10 @@ msgstr ""
 #~ msgstr "&മുമ്പുള്ളതു്: %1 - \"%2\""
 
 #, fuzzy
-#~| msgid "Delete the current file type."
 #~ msgid "Deletes the current line."
 #~ msgstr "നിലവിലുള്ള ഫയല്‍തരം വെട്ടിമാറ്റുക."
 
 #, fuzzy
-#~| msgid "Use this command to print the current document"
 #~ msgid "<p>Open the Print dialog to print the current document.</p>"
 #~ msgstr "നിലവിലുള്ള രേഖ പ്രിന്റ് ചെയ്യുന്നതിനായി ഈ കമാന്‍ഡു് ഉപയോഗിക്കുക"
 
@@ -2896,7 +2518,6 @@ msgstr ""
 #~ msgstr "അപരിചിതമായ കമാന്‍ഡു് '%1'"
 
 #, fuzzy
-#~| msgid "(c) 2000-2005 The Kate Authors"
 #~ msgid "(c) 2000-2016 The Kate Authors"
 #~ msgstr "(c) 2000-2005 കെയിറ്റ് രചിതാക്കള്‍"
 
@@ -2970,18 +2591,14 @@ msgstr ""
 #~ msgstr "സെബാസ്റ്റ്യന്‍ പൈപ്പിങ്"
 
 #, fuzzy
-#~| msgid "Jochen Wilhemly"
 #~ msgid "Jochen Wilhelmy"
 #~ msgstr "ജോച്ചന്‍ വില്‍ഹെംലി"
 
 #, fuzzy
-#~| msgid "KWrite Author"
 #~ msgid "Original KWrite Author"
 #~ msgstr "KWrite രചയിതാവു്"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Quake Script"
 #~ msgid "QA and Scripting"
 #~ msgstr "ക്വേക്ക് സ്ക്രിപ്റ്റ്"
 
@@ -3036,87 +2653,70 @@ msgstr ""
 #~ msgstr "peter.ani@gmail.com,smitha.br@gmail.com"
 
 #, fuzzy
-#~| msgid "Struct"
 #~ msgid "true"
 #~ msgstr "സ്ട്രക്ട്"
 
 #, fuzzy
-#~| msgid "Move to Next Line"
 #~ msgctxt "value for variable remove-trailing-spaces"
 #~ msgid "modified"
 #~ msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Select the entire text of the current document."
 #~ msgctxt "short translation please"
 #~ msgid "Set the point size of the document font."
 #~ msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #, fuzzy
-#~| msgid "Select the entire text of the current document."
 #~ msgctxt "short translation please"
 #~ msgid "Set the font of the document."
 #~ msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #, fuzzy
-#~| msgid "Show &Line Numbers"
 #~ msgctxt "short translation please"
 #~ msgid "Show line numbers."
 #~ msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
 #, fuzzy
-#~| msgid "Name for New Schema"
 #~ msgctxt "short translation please"
 #~ msgid "Set the color scheme."
 #~ msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
 #, fuzzy
-#~| msgid "Unable to open %1"
 #~ msgctxt "short translation please"
 #~ msgid "Enable smart home navigation."
 #~ msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
 #, fuzzy
-#~| msgid "W&idth:"
 #~ msgid "Tab Width"
 #~ msgstr "വീ&തി:"
 
 #, fuzzy
-#~| msgid "Replace"
 #~ msgid "Spaces"
 #~ msgstr "മാറ്റുക"
 
 #, fuzzy
-#~| msgid "E&ncoding"
 #~ msgid "Encoding"
 #~ msgstr "എ&ന്‍കോഡിങു്"
 
 #, fuzzy
-#~| msgid "Replace &All"
 #~ msgid "Syntax highlighting"
 #~ msgstr "&എല്ലാം മാറ്റുക"
 
 #, fuzzy
-#~| msgid " Line: %1 Col: %2 "
 #~ msgid "Line %1, Column %2"
 #~ msgstr " വരി: %1 നിര: %2 "
 
 #, fuzzy
-#~| msgid "The file '%1' was modified by another program."
 #~ msgid ""
 #~ "Meaning of current icon: Document was modified or deleted by another "
 #~ "program"
 #~ msgstr "ഫയല്‍ '%1' മറ്റൊരു പ്രോഗ്രാം ഉപയോഗിച്ചു് മാറ്റം വരുത്തിയിരിക്കുന്നു."
 
 #, fuzzy
-#~| msgctxt "Language Section"
-#~| msgid "Other"
 #~ msgid "Other..."
 #~ msgstr "മറ്റുള്ളവ "
 
 #, fuzzy
-#~| msgctxt "Language Section"
-#~| msgid "Other"
 #~ msgid "Other (%1)"
 #~ msgid_plural "Other (%1)"
 #~ msgstr[0] "മറ്റുള്ളവ "
@@ -3129,23 +2729,18 @@ msgstr ""
 #~ msgstr "നിലവിലുള്ള രേഖ സൂക്ഷിക്കുക"
 
 #, fuzzy
-#~| msgid "Scripts"
 #~ msgid "&Scripts"
 #~ msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#~| msgid "Move to Previous Line"
 #~ msgid "Go to previous editing line"
 #~ msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Move to Previous Line"
 #~ msgid "Go to next editing line"
 #~ msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgctxt "@item:intable Text context"
-#~| msgid "Comment"
 #~ msgid "Toggle Comment"
 #~ msgstr "അഭിപ്രായം"
 
@@ -3153,7 +2748,6 @@ msgstr ""
 #~ msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ചെയ്യുക."
 
 #, fuzzy
-#~| msgid "Print the current document."
 #~ msgid "Show print preview of current document"
 #~ msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ചെയ്യുക."
 
@@ -3167,27 +2761,22 @@ msgstr ""
 #~ msgstr "നിങ്ങള്‍ക്കു് ഇഷ്ടമുള്ള ഒരു പേരില്‍ നിലവിലുള്ള രേഖ ഡിസ്കിലേക്കു് സൂക്ഷിക്കുക."
 
 #, fuzzy
-#~| msgid "&Save File As..."
 #~ msgid "Save &Copy As..."
 #~ msgstr "ഫയലിന്റെ പേരു് മാറ്റി &സൂക്ഷിക്കുക..."
 
 #, fuzzy
-#~| msgid "Reload the current document from disk."
 #~ msgid "Save a copy of the current document to disk."
 #~ msgstr "ഡിസ്കില്‍ നിന്നും നിലവിലുള്ള രേഖ വീണ്ടും ലഭ്യമാക്കുക."
 
 #, fuzzy
-#~| msgid "Move to Previous Line"
 #~ msgid "Move to Previous Modified Line"
 #~ msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgid "Move upwards to the previous modified line."
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Move to Next Line"
 #~ msgid "Move to Next Modified Line"
 #~ msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
@@ -3216,19 +2805,16 @@ msgstr ""
 #~ msgstr "വരിയുടെ &അവസാനം"
 
 #, fuzzy
-#~| msgid "UNIX"
 #~ msgctxt "@item:inmenu End of Line"
 #~ msgid "&UNIX"
 #~ msgstr "യൂണിക്സ്"
 
 #, fuzzy
-#~| msgid "DOS/Windows"
 #~ msgctxt "@item:inmenu End of Line"
 #~ msgid "&Windows/DOS"
 #~ msgstr "ഡോസ്/വിന്‍ഡോസ്"
 
 #, fuzzy
-#~| msgid "Macintosh"
 #~ msgctxt "@item:inmenu End of Line"
 #~ msgid "&Macintosh"
 #~ msgstr "മാക്കിന്റോഷ്"
@@ -3240,7 +2826,6 @@ msgstr ""
 #~ msgstr "തിരഞ്ഞെടുത്തതു് കണ്ടുപിടിക്കുക"
 
 #, fuzzy
-#~| msgid "Choose Editor..."
 #~ msgid "Change Dictionary..."
 #~ msgstr "എഡിറ്റര്‍ തിരഞ്ഞെടുക്കുക..."
 
@@ -3248,7 +2833,6 @@ msgstr ""
 #~ msgstr "&HTML ആയി പകര്‍ത്തുക"
 
 #, fuzzy
-#~| msgid "Export File as HTML"
 #~ msgid "E&xport as HTML..."
 #~ msgstr "ഫയല്‍ HTML ആയി ലഭ്യമാക്കുക"
 
@@ -3289,12 +2873,10 @@ msgstr ""
 #~ msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgid "Move Cursor Right"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Move Word Left"
 #~ msgid "Move Cursor Left"
 #~ msgstr "വാക്കു് ഇടത്തേക്കു് നീക്കുക"
 
@@ -3336,63 +2918,50 @@ msgstr ""
 #~ msgstr "\"%1\" കമാന്‍ഡു് പരാജയപ്പെട്ടു."
 
 #, fuzzy
-#~| msgid "Document to open"
 #~ msgid "All documents written to disk"
 #~ msgstr "തുറക്കുന്നതിനുള്ള രേഖ"
 
 #, fuzzy
-#~| msgid "Document to open"
 #~ msgid "Document written to disk"
 #~ msgstr "തുറക്കുന്നതിനുള്ള രേഖ"
 
 #, fuzzy
-#~| msgid "Unable to open %1"
 #~ msgid "Unable to open the config file for reading."
 #~ msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Unable to open %1"
 #~ msgid "Unable to open file"
 #~ msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
 #, fuzzy
-#~| msgid "Print line &numbers"
 #~ msgid "Display relative line numbers"
 #~ msgstr "വരിയുടെ &അക്കങ്ങള്‍ പ്രിന്റ് ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Normal text:"
 #~ msgid "Normal mode"
 #~ msgstr "സാധാരണ വാചകം:"
 
 #, fuzzy
-#~| msgid "Replace"
 #~ msgid "Replacement"
 #~ msgstr "മാറ്റുക"
 
 #, fuzzy
-#~| msgid "Normal text:"
 #~ msgid "Visual mode"
 #~ msgstr "സാധാരണ വാചകം:"
 
 #, fuzzy
-#~| msgctxt "@title:column Text style"
-#~| msgid "Selected"
 #~ msgid "Remove selected"
 #~ msgstr "തിരഞ്ഞെടുത്തവ"
 
 #, fuzzy
-#~| msgid "Insert: %1"
 #~ msgid "Mark set: %1"
 #~ msgstr "ചേര്‍ക്കുക: %1"
 
 #, fuzzy
-#~| msgid "Go to the next bookmark."
 #~ msgid "There are no more chars for the next bookmark."
 #~ msgstr "അടുത്ത ഓര്‍മ്മക്കുറിപ്പിലേക്കു് പോകുക"
 
 #, fuzzy
-#~| msgid "Insert: %1"
 #~ msgid "Mark not set: %1"
 #~ msgstr "ചേര്‍ക്കുക: %1"
 
@@ -3413,45 +2982,37 @@ msgstr ""
 #~ msgstr "എഡിറ്ററിലുള്ള ഉള്ളടക്കമുപയോഗിച്ചു് ഡിസ്ക് ഫയല്‍ തിരുത്തിയെഴുതുക."
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Close the document."
 #~ msgstr "രേഖ അടയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Besides white space changes, the files are identical."
 #~ msgid "Ignoring amount of white space changed, the files are identical."
 #~ msgstr "വൈറ്റ് സ്പെയിസില്‍ വരുത്തിയ മാറ്റങ്ങള്‍ ഒഴികെ ഫയലുകള്‍ തമ്മില്‍ വ്യത്യാസമില്ല."
 
 #, fuzzy
-#~| msgid "Next"
 #~ msgid "&Next"
 #~ msgstr "അടുത്തതു്"
 
 #, fuzzy
-#~| msgid "Previous"
 #~ msgid "&Previous"
 #~ msgstr "മുമ്പുള്ളതു്"
 
 #, fuzzy
-#~| msgid " characters"
 #~ msgctxt "spinbox special value for 1"
 #~ msgid "1 character"
 #~ msgstr " അക്ഷരങ്ങള്‍"
 
 #, fuzzy
-#~| msgid " characters"
 #~ msgctxt "suffix for spinbox >1"
 #~ msgid " characters"
 #~ msgstr " അക്ഷരങ്ങള്‍"
 
 #, fuzzy
-#~| msgid " characters"
 #~ msgctxt "suffix for spinbox >1 wrap words at (value is at 20 or larger)"
 #~ msgid " characters"
 #~ msgstr " അക്ഷരങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Error loading script %1"
 #~ msgid "Error calling action(%1)"
 #~ msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
@@ -3462,7 +3023,6 @@ msgstr ""
 #~ msgstr "പിശകു്: %1"
 
 #, fuzzy
-#~| msgid "Unable to open %1"
 #~ msgid "Unable to find '%1'"
 #~ msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
@@ -3480,62 +3040,50 @@ msgstr ""
 #~ msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
 #, fuzzy
-#~| msgid "Backspace"
 #~ msgid "Na&mespace:"
 #~ msgstr "Backspace"
 
 #, fuzzy
-#~| msgid "&Filetype:"
 #~ msgid "&File types:"
 #~ msgstr "&ഫയല്‍തരം:"
 
 #, fuzzy
-#~| msgid "&Help"
 #~ msgid "Help"
 #~ msgstr "&സഹായം"
 
 #, fuzzy
-#~| msgid "Shortcuts"
 #~ msgid "Shortcut:"
 #~ msgstr "കുറുക്കുവഴികള്‍"
 
 #, fuzzy
-#~| msgid "Scripts"
 #~ msgid "S&cripts"
 #~ msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "<empty repository>"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Cannot open snippet repository %1."
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "&Filetype:"
 #~ msgid "Applies to all filetypes"
 #~ msgstr "&ഫയല്‍തരം:"
 
 #, fuzzy
-#~| msgid "&Section:"
 #~ msgid "Add Repository"
 #~ msgstr "&ഭാഗം:"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Remove Repository"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Remove Snippet"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Create Snippet"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
@@ -3546,57 +3094,46 @@ msgstr ""
 #~ msgstr "INS"
 
 #, fuzzy
-#~| msgid "Move Word Left"
 #~ msgid "Move Left"
 #~ msgstr "വാക്കു് ഇടത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgid "Move Right"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Move to Next Line"
 #~ msgid "Move Up"
 #~ msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Always On"
 #~ msgid "Always on"
 #~ msgstr "എപ്പോഴും ഓണ്‍ ആയിരിക്കുക"
 
 #, fuzzy
-#~| msgid "Print the current document."
 #~ msgid "Modify the current snippet"
 #~ msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ചെയ്യുക."
 
 #, fuzzy
-#~| msgid "Create a new file type."
 #~ msgid "Create a new repository file"
 #~ msgstr "ഒരു പുതിയ ഫയല്‍തരം ഉണ്ടാക്കുക."
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Kate Snippets"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "New Snippet"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "&Section:"
 #~ msgid "Snippet Repository:"
 #~ msgstr "&ഭാഗം:"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Get New Snippets..."
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Kate Part Snippets"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
@@ -3604,49 +3141,40 @@ msgstr ""
 #~ msgstr "R/O"
 
 #, fuzzy
-#~| msgid "Move Word Left"
 #~ msgid "Programmer's Move Word Left"
 #~ msgstr "വാക്കു് ഇടത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Select Word Left"
 #~ msgid "Programmer's Select Word Left"
 #~ msgstr "ഇടത്തുള്ള വാക്കു് തിരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgid "Programmer's Move Word Right"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Select Word Right"
 #~ msgid "Programmer's Select Word Right"
 #~ msgstr "വലത്തുള്ള വാക്കു് തിരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgid "E&ncoding"
 #~ msgid "Broken Encoding"
 #~ msgstr "എ&ന്‍കോഡിങു്"
 
 #, fuzzy
-#~| msgid "Colors"
 #~ msgctxt "@title:column the color name"
 #~ msgid "Color Role"
 #~ msgstr "നിറങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Colors"
 #~ msgctxt "@title:column a color button"
 #~ msgid "Color"
 #~ msgstr "നിറങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "E&xport as HTML..."
 #~ msgid "Export HlColors..."
 #~ msgstr "HTML ആയി &ലഭ്യമാക്കുക..."
 
 #, fuzzy
-#~| msgid "&Format:"
 #~ msgid "Form"
 #~ msgstr "&രീതി:"
 
@@ -3718,18 +3246,15 @@ msgstr ""
 #~ msgstr "പിശകു്:"
 
 #, fuzzy
-#~| msgid "Disabled"
 #~ msgctxt "Encodings menu"
 #~ msgid "Disabled"
 #~ msgstr "പ്രവര്‍ത്തന രഹിതം"
 
 #, fuzzy
-#~| msgid "General"
 #~ msgid "Universal"
 #~ msgstr "സാധാരണ"
 
 #, fuzzy
-#~| msgid "(c) 2000-2005 The Kate Authors"
 #~ msgid "(c) 2000-2008 The Kate Authors"
 #~ msgstr "(c) 2000-2005 കെയിറ്റ് രചിതാക്കള്‍"
 

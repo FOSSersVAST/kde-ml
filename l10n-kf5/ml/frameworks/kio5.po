@@ -20,20 +20,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #, fuzzy, kde-format
-#| msgid "Your names"
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Manu S Madhav | മനു എസ് മാധവ്"
 
 #, fuzzy, kde-format
-#| msgid "Your emails"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "manusmad@gmail.com"
 
 #: core/chmodjob.cpp:205
 #, fuzzy, kde-format
-#| msgid "Could not change ownership for %1."
 msgid "Could not modify the ownership of file %1"
 msgstr "%1-നുള്ള ഉടമസ്ഥാവകാശം മാറ്റുവാന്‍ സാധ്യമായില്ല."
 
@@ -67,7 +64,6 @@ msgstr "ഫോള്‍ഡറായി നിലവിലുണ്ടു്"
 
 #: core/copyjob.cpp:1596
 #, fuzzy, kde-format
-#| msgid "Trash"
 msgid "Trash"
 msgstr "ചവറ്റുകുട്ട"
 
@@ -101,29 +97,24 @@ msgstr[1] "%1 ഫയലുകള്‍"
 
 #: core/global.cpp:136
 #, fuzzy, kde-format
-#| msgctxt "Items (Folders, Files)"
-#| msgid "%1 (%2, %3)"
 msgctxt "folders, files (size)"
 msgid "%1, %2 (%3)"
 msgstr "%1 (%2, %3)"
 
 #: core/global.cpp:137
 #, fuzzy, kde-format
-#| msgid "%1 (%2)"
 msgctxt "folders, files"
 msgid "%1, %2"
 msgstr "%1 (%2)"
 
 #: core/global.cpp:139
 #, fuzzy, kde-format
-#| msgid "%1 (%2)"
 msgctxt "files (size)"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
 #: core/global.cpp:146
 #, fuzzy, kde-format
-#| msgid "%1 (%2)"
 msgctxt "items: folders, files (size)"
 msgid "%1: %2"
 msgstr "%1 (%2)"
@@ -137,14 +128,12 @@ msgstr "നീക്കുന്നു"
 #: core/job.cpp:116 core/job.cpp:126 core/job.cpp:160
 #: widgets/fileundomanager.cpp:140
 #, fuzzy, kde-format
-#| msgid "Source"
 msgctxt "The source of a file operation"
 msgid "Source"
 msgstr "ശ്രോതസ്സ്"
 
 #: core/job.cpp:117 core/job.cpp:127 widgets/fileundomanager.cpp:141
 #, fuzzy, kde-format
-#| msgid "Destination"
 msgctxt "The destination of a file operation"
 msgid "Destination"
 msgstr "ലക്ഷ്യസ്ഥാനം"
@@ -227,7 +216,6 @@ msgstr ""
 
 #: core/job.cpp:291
 #, fuzzy, kde-format
-#| msgid "No Files"
 msgid "Copy Files"
 msgstr "ഫയലുകള്‍ ലഭ്യമല്ല"
 
@@ -252,7 +240,6 @@ msgstr ""
 
 #: core/job.cpp:301
 #, fuzzy, kde-format
-#| msgid "Parent Folder"
 msgid "Create Folder"
 msgstr "പേരന്റ് ഫോള്‍ഡര്‍"
 
@@ -264,7 +251,6 @@ msgstr ""
 
 #: core/job.cpp:306
 #, fuzzy, kde-format
-#| msgid "Move to Trash"
 msgid "Move Items"
 msgstr "ചവറ്റുകുട്ടയിലേക്കു് നീക്കുക"
 
@@ -277,7 +263,6 @@ msgstr ""
 
 #: core/job.cpp:311
 #, fuzzy, kde-format
-#| msgid "&Rename"
 msgid "Rename"
 msgstr "&പേരു് മാറ്റുക"
 
@@ -300,8 +285,6 @@ msgstr ""
 
 #: core/job.cpp:321
 #, fuzzy, kde-format
-#| msgctxt "@title job"
-#| msgid "Transferring"
 msgid "Transfer data"
 msgstr "മറ്റൊരിടത്തേക്കു് മാറ്റുന്നു"
 
@@ -329,10 +312,6 @@ msgstr "%1 പ്രവര്‍ത്തനം തുടങ്ങാന്‍ �
 
 #: core/job_error.cpp:52
 #, fuzzy, kde-format
-#| msgid ""
-#| "Internal Error\n"
-#| "Please send a full bug report at http://bugs.kde.org\n"
-#| "%1"
 msgid ""
 "Internal Error\n"
 "Please send a full bug report at https://bugs.kde.org\n"
@@ -688,13 +667,11 @@ msgstr ""
 
 #: core/job_error.cpp:241
 #, fuzzy, kde-format
-#| msgid "The file or folder %1 does not exist."
 msgid "A file or folder cannot be dropped onto itself"
 msgstr "%1 ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലില്ല."
 
 #: core/job_error.cpp:244
 #, fuzzy, kde-format
-#| msgid "The file or folder %1 does not exist."
 msgid "A folder cannot be moved into itself"
 msgstr "%1 ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലില്ല."
 
@@ -705,7 +682,6 @@ msgstr ""
 
 #: core/job_error.cpp:250
 #, fuzzy, kde-format
-#| msgid "Unable to create io-slave: %1"
 msgid "Unable to create io-slave. %1"
 msgstr "%1 ഐഒ സ്ലേവ് നിര്‍മ്മിക്കാന്‍ സാധ്യമല്ല"
 
@@ -727,10 +703,6 @@ msgstr ""
 
 #: core/job_error.cpp:259
 #, fuzzy, kde-format
-#| msgid ""
-#| "Unknown error code %1\n"
-#| "%2\n"
-#| "Please send a full bug report at http://bugs.kde.org."
 msgid ""
 "Unknown error code %1\n"
 "%2\n"
@@ -804,8 +776,8 @@ msgid ""
 "Contact your appropriate computer support system, whether the system "
 "administrator, or technical support group for further assistance."
 msgstr ""
-"കൂടുതല്‍ സഹായങ്ങള്‍ക്കായി നിങ്ങളുടെ സിസ്റ്റം ഭരണാധികാരിയുമായോ സിസ്റ്റത്തിനു് സാങ്കേതിക പിന്തുണ "
-"നല്‍കുന്ന സംഘവുമായോ ബന്ധപ്പെടുക."
+"കൂടുതല്‍ സഹായങ്ങള്‍ക്കായി നിങ്ങളുടെ സിസ്റ്റം ഭരണാധികാരിയുമായോ സിസ്റ്റത്തിനു് സാങ്കേതിക പിന്തുണ നല്‍"
+"കുന്ന സംഘവുമായോ ബന്ധപ്പെടുക."
 
 #: core/job_error.cpp:357
 #, kde-format
@@ -1977,7 +1949,6 @@ msgstr ""
 
 #: core/job_error.cpp:1044
 #, fuzzy, kde-format
-#| msgid "File or Folder Does Not Exist"
 msgid "File or Folder dropped onto itself"
 msgstr "ഫയലോ അറയോ നിലവിലില്ല."
 
@@ -1995,7 +1966,6 @@ msgstr ""
 
 #: core/job_error.cpp:1057
 #, fuzzy, kde-format
-#| msgid "File or Folder Does Not Exist"
 msgid "Folder moved into itself"
 msgstr "ഫയലോ അറയോ നിലവിലില്ല."
 
@@ -2035,7 +2005,6 @@ msgstr ""
 
 #: core/job_error.cpp:1072
 #, fuzzy, kde-format
-#| msgid "Unable to create io-slave: %1"
 msgid "Unable to Create io-slave"
 msgstr "%1 ഐഒ സ്ലേവ് നിര്‍മ്മിക്കാന്‍ സാധ്യമല്ല"
 
@@ -2119,7 +2088,6 @@ msgstr ""
 #: core/klocalsocket_unix.cpp:201 core/klocalsocket_unix.cpp:248
 #: core/klocalsocket_unix.cpp:269
 #, fuzzy, kde-format
-#| msgid "The protocol %1 is not supported."
 msgid "The socket operation is not supported"
 msgstr "%1 സംമ്പ്രദായത്തിനുള്ള പിന്തുണ ലഭ്യമല്ല."
 
@@ -2140,9 +2108,6 @@ msgstr ""
 
 #: core/klocalsocket_unix.cpp:227 core/klocalsocket_unix.cpp:307
 #, fuzzy, kde-format
-#| msgid ""
-#| "Unknown error\n"
-#| "%1"
 msgid "Unknown error"
 msgstr ""
 "അപരിചിതമായ പിശകു്\n"
@@ -2170,8 +2135,6 @@ msgstr ""
 
 #: core/klocalsocket_unix.cpp:299
 #, fuzzy, kde-format
-#| msgctxt "@title job"
-#| msgid "Creating directory"
 msgid "Not a directory"
 msgstr "ഡയറക്ടി ഉണ്ടാക്കുന്നു"
 
@@ -2182,9 +2145,6 @@ msgstr ""
 
 #: core/klocalsocket_unix.cpp:370 core/klocalsocket_unix.cpp:404
 #, fuzzy, kde-format
-#| msgid ""
-#| "Unknown error\n"
-#| "%1"
 msgid "Unknown socket error"
 msgstr ""
 "അപരിചിതമായ പിശകു്\n"
@@ -2192,7 +2152,6 @@ msgstr ""
 
 #: core/klocalsocket_win.cpp:31 core/klocalsocket_win.cpp:36
 #, fuzzy, kde-format
-#| msgid "Writing to %1 is not supported."
 msgid "Operation not supported"
 msgstr "%1-ലേക്ക് എഴുതുന്നതിനെ പിന്താങ്ങുന്നില്ല."
 
@@ -2210,14 +2169,12 @@ msgstr ""
 
 #: core/ktcpsocket.cpp:207
 #, fuzzy, kde-format
-#| msgid "Enter the certificate password:"
 msgctxt "SSL error"
 msgid "The certificate has expired"
 msgstr "സര്‍ട്ടിഫിക്കേറ്റിനുള്ള പാസ്‌വേര്‍ഡ് നല്‍കുക:"
 
 #: core/ktcpsocket.cpp:209
 #, fuzzy, kde-format
-#| msgid "SSL Certificate Password"
 msgctxt "SSL error"
 msgid "The certificate is invalid"
 msgstr "എസ്എസ്എല്‍ സര്‍ട്ടിഫിക്കേറ്റ് പാസ്‌വേര്‍ഡ്"
@@ -2230,7 +2187,6 @@ msgstr ""
 
 #: core/ktcpsocket.cpp:213
 #, fuzzy, kde-format
-#| msgid "Enter the certificate password:"
 msgctxt "SSL error"
 msgid "The certificate has been revoked"
 msgstr "സര്‍ട്ടിഫിക്കേറ്റിനുള്ള പാസ്‌വേര്‍ഡ് നല്‍കുക:"
@@ -2276,16 +2232,12 @@ msgstr ""
 
 #: core/ktcpsocket.cpp:227
 #, fuzzy, kde-format
-#| msgid "SSL Certificate Password"
 msgctxt "SSL error"
 msgid "The certificate chain is too long"
 msgstr "എസ്എസ്എല്‍ സര്‍ട്ടിഫിക്കേറ്റ് പാസ്‌വേര്‍ഡ്"
 
 #: core/ktcpsocket.cpp:230
 #, fuzzy, kde-format
-#| msgid ""
-#| "Unknown error\n"
-#| "%1"
 msgctxt "SSL error"
 msgid "Unknown error"
 msgstr ""
@@ -2294,7 +2246,6 @@ msgstr ""
 
 #: core/slave.cpp:477
 #, fuzzy, kde-format
-#| msgid "Could not create socket for accessing %1."
 msgid "Can not create socket for launching io-slave for protocol '%1'."
 msgstr "%1-ല്‍ പ്രവേശിക്കുവാന്‍ സോക്കറ്റ് നിര്‍മ്മിക്കാന്‍ സാധ്യമല്ല."
 
@@ -2445,7 +2396,6 @@ msgstr "തു&ടരുക"
 
 #: core/slaveinterface.cpp:418 core/tcpslavebase.cpp:768 widgets/sslui.cpp:115
 #, fuzzy, kde-format
-#| msgid "&Current Sessions Only"
 msgid "&Current Session only"
 msgstr "&നിലവിലുള്ള സെഷനുകള്‍ക്കു് മാത്രം"
 
@@ -2630,25 +2580,21 @@ msgstr "ക്രമത്തിലാക്കുക"
 
 #: filewidgets/kdiroperator.cpp:1964
 #, fuzzy, kde-format
-#| msgid "Site Name"
 msgid "Sort by Name"
 msgstr "സൈറ്റിന്റെ പേരു്"
 
 #: filewidgets/kdiroperator.cpp:1968
 #, fuzzy, kde-format
-#| msgid "Short View"
 msgid "Sort by Size"
 msgstr "ലഘുകാഴ്ച"
 
 #: filewidgets/kdiroperator.cpp:1972
 #, fuzzy, kde-format
-#| msgid "By Date"
 msgid "Sort by Date"
 msgstr "തീയതിയനുസരിച്ചു്"
 
 #: filewidgets/kdiroperator.cpp:1976
 #, fuzzy, kde-format
-#| msgid "By Type"
 msgid "Sort by Type"
 msgstr "തരമനുസരിച്ചു്"
 
@@ -2669,19 +2615,16 @@ msgstr ""
 
 #: filewidgets/kdiroperator.cpp:2002
 #, fuzzy, kde-format
-#| msgid "Short View"
 msgid "Icons View"
 msgstr "ലഘുകാഴ്ച"
 
 #: filewidgets/kdiroperator.cpp:2007
 #, fuzzy, kde-format
-#| msgid "Short View"
 msgid "Compact View"
 msgstr "ലഘുകാഴ്ച"
 
 #: filewidgets/kdiroperator.cpp:2012
 #, fuzzy, kde-format
-#| msgid "Detailed View"
 msgid "Details View"
 msgstr "വിശദമായ കാഴ്ച"
 
@@ -2712,13 +2655,11 @@ msgstr "വിശദമായ കാഴ്ച"
 
 #: filewidgets/kdiroperator.cpp:2058
 #, fuzzy, kde-format
-#| msgid "Detailed View"
 msgid "Tree View"
 msgstr "വിശദമായ കാഴ്ച"
 
 #: filewidgets/kdiroperator.cpp:2063
 #, fuzzy, kde-format
-#| msgid "Detailed View"
 msgid "Detailed Tree View"
 msgstr "വിശദമായ കാഴ്ച"
 
@@ -2734,7 +2675,6 @@ msgstr "അദൃശ്യമായ ഫയലുകള്‍ കാണിക്�
 
 #: filewidgets/kdiroperator.cpp:2083
 #, fuzzy, kde-format
-#| msgid "Show Preview"
 msgid "Show Preview Panel"
 msgstr "അച്ചടിക്കുന്നതിനുമുമ്പ് കണ്ടുനോക്കുക"
 
@@ -2815,29 +2755,24 @@ msgstr ""
 
 #: filewidgets/kfilecopytomenu.cpp:80
 #, fuzzy, kde-format
-#| msgid "Copy"
 msgctxt "@title:menu"
 msgid "Copy To"
 msgstr "പകര്‍ത്തുക"
 
 #: filewidgets/kfilecopytomenu.cpp:86
 #, fuzzy, kde-format
-#| msgid "Move to Trash"
 msgctxt "@title:menu"
 msgid "Move To"
 msgstr "ചവറ്റുകുട്ടയിലേക്കു് നീക്കുക"
 
 #: filewidgets/kfilecopytomenu.cpp:110
 #, fuzzy, kde-format
-#| msgid "Home Folder"
 msgctxt "@title:menu"
 msgid "Home Folder"
 msgstr "ഹോം ഫോള്‍ഡര്‍"
 
 #: filewidgets/kfilecopytomenu.cpp:118
 #, fuzzy, kde-format
-#| msgid "1 Folder"
-#| msgid_plural "%1 Folders"
 msgctxt "@title:menu"
 msgid "Root Folder"
 msgstr "1 അറ"
@@ -2850,7 +2785,6 @@ msgstr ""
 
 #: filewidgets/kfilecopytomenu.cpp:234
 #, fuzzy, kde-format
-#| msgid "Copy"
 msgctxt "@title:menu"
 msgid "Copy Here"
 msgstr "പകര്‍ത്തുക"
@@ -2873,13 +2807,11 @@ msgstr ""
 
 #: filewidgets/kfilefiltercombo.cpp:189
 #, fuzzy, kde-format
-#| msgid "No Files"
 msgid "All Files"
 msgstr "ഫയലുകള്‍ ലഭ്യമല്ല"
 
 #: filewidgets/kfileplaceeditdialog.cpp:79
 #, fuzzy, kde-format
-#| msgid "Edit Places Entry"
 msgid "Add Places Entry"
 msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക"
 
@@ -2948,14 +2880,12 @@ msgstr ""
 
 #: filewidgets/kfileplacesitem.cpp:107
 #, fuzzy, kde-format
-#| msgid "Replace"
 msgctxt "@item"
 msgid "Places"
 msgstr "മാറ്റുക"
 
 #: filewidgets/kfileplacesitem.cpp:110
 #, fuzzy, kde-format
-#| msgid "&Remove"
 msgctxt "@item"
 msgid "Remote"
 msgstr "&എടുത്തുമാറ്റുക"
@@ -2968,14 +2898,12 @@ msgstr ""
 
 #: filewidgets/kfileplacesitem.cpp:116
 #, fuzzy, kde-format
-#| msgid "Search"
 msgctxt "@item"
 msgid "Search For"
 msgstr "തിരയുക"
 
 #: filewidgets/kfileplacesitem.cpp:119
 #, fuzzy, kde-format
-#| msgid "Device"
 msgctxt "@item"
 msgid "Devices"
 msgstr "ഡിവൈസ്"
@@ -2999,8 +2927,6 @@ msgstr ""
 
 #: filewidgets/kfileplacesmodel.cpp:276
 #, fuzzy, kde-format
-#| msgctxt "Home Directory"
-#| msgid "Home"
 msgctxt "KFile System Bookmarks"
 msgid "Home"
 msgstr "ഹോം"
@@ -3025,14 +2951,12 @@ msgstr ""
 
 #: filewidgets/kfileplacesmodel.cpp:301
 #, fuzzy, kde-format
-#| msgid "Network"
 msgctxt "KFile System Bookmarks"
 msgid "Network"
 msgstr "നെറ്റ്‌വര്‍ക്ക്"
 
 #: filewidgets/kfileplacesmodel.cpp:305
 #, fuzzy, kde-format
-#| msgid "Trash"
 msgctxt "KFile System Bookmarks"
 msgid "Trash"
 msgstr "ചവറ്റുകുട്ട"
@@ -3057,7 +2981,6 @@ msgstr ""
 
 #: filewidgets/kfileplacesmodel.cpp:338
 #, fuzzy, kde-format
-#| msgid "No Files"
 msgctxt "KFile System Bookmarks"
 msgid "Audio"
 msgstr "ഫയലുകള്‍ ലഭ്യമല്ല"
@@ -3070,7 +2993,6 @@ msgstr ""
 
 #: filewidgets/kfileplacesmodel.cpp:1224
 #, fuzzy, kde-format
-#| msgid "&Safely Remove '%1'"
 msgid "&Release '%1'"
 msgstr "'%1' &സുരക്ഷിതമായി നീക്കം ചെയ്യുക"
 
@@ -3128,8 +3050,6 @@ msgstr ""
 
 #: filewidgets/kfileplacesview.cpp:791
 #, fuzzy, kde-format
-#| msgctxt "@title job"
-#| msgid "Mounting"
 msgctxt "@action:inmenu"
 msgid "Mount"
 msgstr "മൌണ്ടു് ചെയ്യുന്നു"
@@ -3151,7 +3071,6 @@ msgstr ""
 
 #: filewidgets/kfileplacesview.cpp:831
 #, fuzzy, kde-format
-#| msgid "&Safely Remove '%1'"
 msgid "&Remove Entry '%1'"
 msgstr "'%1' &സുരക്ഷിതമായി നീക്കം ചെയ്യുക"
 
@@ -3240,7 +3159,6 @@ msgstr ""
 
 #: filewidgets/kfilewidget.cpp:846
 #, fuzzy, kde-format
-#| msgid "Could not delete file %1."
 msgid "You can only select one file"
 msgstr "%1 ഫയല്‍ വെട്ടിമാറ്റുവാനായില്ല."
 
@@ -3251,7 +3169,6 @@ msgstr ""
 
 #: filewidgets/kfilewidget.cpp:1014
 #, fuzzy, kde-format
-#| msgid "You did not select a file to trash."
 msgid "You can only select local files"
 msgstr "ചവറ്റുകുട്ടയിലിടാനുള്ള ഫയല്‍ നിങ്ങള്‍ തിരഞ്ഞെടുത്തിട്ടില്ല."
 
@@ -3298,7 +3215,6 @@ msgstr ""
 
 #: filewidgets/kfilewidget.cpp:1051
 #, fuzzy, kde-format
-#| msgid "%1 is a file, but a folder was expected."
 msgid "Files and folders selected"
 msgstr "പ്രതീക്ഷിച്ചതു് ഒരു ഫോള്‍ഡറായിരുന്നു, എന്നാല്‍ %1 ഒരു ഫയലാണു്."
 
@@ -3342,7 +3258,6 @@ msgstr ""
 
 #: filewidgets/kfilewidget.cpp:1584
 #, fuzzy, kde-format
-#| msgid "O&verwrite All"
 msgid "Overwrite File?"
 msgstr "എല്ലാം മാറ്റി&യെഴുതുക"
 
@@ -3441,7 +3356,6 @@ msgstr ""
 
 #: filewidgets/kfilewidget.cpp:2823
 #, fuzzy, kde-format
-#| msgid "Edit Places Entry"
 msgid "&File type:"
 msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക"
 
@@ -3473,7 +3387,6 @@ msgstr ""
 
 #: filewidgets/knewfilemenu.cpp:399
 #, fuzzy, kde-format
-#| msgid "The file or folder %1 does not exist."
 msgid "<qt>The template file <b>%1</b> does not exist.</qt>"
 msgstr "%1 ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലില്ല."
 
@@ -3484,7 +3397,6 @@ msgstr ""
 
 #: filewidgets/knewfilemenu.cpp:606
 #, fuzzy, kde-format
-#| msgid "Detailed View"
 msgid "Create link to URL"
 msgstr "വിശദമായ കാഴ്ച"
 
@@ -3502,7 +3414,6 @@ msgstr ""
 
 #: filewidgets/knewfilemenu.cpp:846
 #, fuzzy, kde-format
-#| msgid "Invalid Proxy Setup"
 msgid "Invalid Directory Name"
 msgstr "അസാധുവായ പ്രോക്സി സജ്ജീകരണം"
 
@@ -3559,19 +3470,16 @@ msgstr ""
 
 #: filewidgets/knewfilemenu.cpp:1190
 #, fuzzy, kde-format
-#| msgid "Detailed View"
 msgid "Create New"
 msgstr "വിശദമായ കാഴ്ച"
 
 #: filewidgets/knewfilemenu.cpp:1204
 #, fuzzy, kde-format
-#| msgid "Device"
 msgid "Link to Device"
 msgstr "ഡിവൈസ്"
 
 #: filewidgets/knewfilemenu.cpp:1258
 #, fuzzy, kde-format
-#| msgid "New Folder"
 msgctxt "Default name for a new folder"
 msgid "New Folder"
 msgstr "പുതിയ ഫോള്‍ഡര്‍"
@@ -3584,9 +3492,6 @@ msgstr ""
 
 #: filewidgets/knewfilemenu.cpp:1279
 #, fuzzy, kde-format
-#| msgid ""
-#| "Create new folder in:\n"
-#| "%1"
 msgid "Create new folder in %1:"
 msgstr ""
 "ഇവിടെ പുതിയ ഫോള്‍ഡര്‍ ഉണ്ടാക്കുക:\n"
@@ -3645,7 +3550,6 @@ msgstr ""
 
 #: filewidgets/kurlnavigatorprotocolcombo.cpp:174
 #, fuzzy, kde-format
-#| msgid "Device"
 msgctxt "@item:inmenu"
 msgid "Devices"
 msgstr "ഡിവൈസ്"
@@ -3664,7 +3568,6 @@ msgstr ""
 
 #: filewidgets/kurlnavigatortogglebutton.cpp:42
 #, fuzzy, kde-format
-#| msgid "Edit"
 msgid "Edit mode"
 msgstr "മാറ്റം വരുത്തുക"
 
@@ -3722,7 +3625,6 @@ msgstr ""
 
 #: ioslaves/file/file.cpp:1227
 #, fuzzy, kde-format
-#| msgid "Writing to %1 is not supported."
 msgid "mounting is not supported by wince."
 msgstr "%1-ലേക്ക് എഴുതുന്നതിനെ പിന്താങ്ങുന്നില്ല."
 
@@ -3733,7 +3635,6 @@ msgstr ""
 
 #: ioslaves/file/file.cpp:1347
 #, fuzzy, kde-format
-#| msgid "Writing to %1 is not supported."
 msgid "unmounting is not supported by wince."
 msgstr "%1-ലേക്ക് എഴുതുന്നതിനെ പിന്താങ്ങുന്നില്ല."
 
@@ -3769,7 +3670,6 @@ msgstr ""
 
 #: ioslaves/ftp/ftp.cpp:484
 #, fuzzy, kde-format
-#| msgid "%1 (%2)"
 msgid "%1 (Error %2)"
 msgstr "%1 (%2)"
 
@@ -3849,7 +3749,6 @@ msgstr ""
 
 #: ioslaves/help/kio_help.cpp:124
 #, fuzzy, kde-format
-#| msgid "There are no special actions available for protocol %1."
 msgid "There is no documentation available for %1."
 msgstr "%1 സമ്പ്രദായത്തിനു് പ്രത്യേക നടപടികളൊന്നും ലഭ്യമല്ല."
 
@@ -3865,7 +3764,6 @@ msgstr ""
 
 #: ioslaves/help/kio_help.cpp:232 ioslaves/help/kio_help.cpp:277
 #, fuzzy, kde-format
-#| msgid "The requested protocol may not be supported."
 msgid "The requested help file could not be parsed:<br />%1"
 msgstr "അപേക്ഷിച്ച സമ്പ്രദായത്തിനു് പിന്തുണയുണ്ടാകണമെന്നില്ല."
 
@@ -3886,7 +3784,6 @@ msgstr ""
 
 #: ioslaves/help/kio_help.cpp:340
 #, fuzzy, kde-format
-#| msgid "Could not read file %1."
 msgid "Could not find filename %1 in %2."
 msgstr "%1 ഫയല്‍ ലഭ്യമാക്കുവാന്‍ സാധ്യമായില്ല."
 
@@ -3974,7 +3871,6 @@ msgstr ""
 
 #: ioslaves/http/http.cpp:1602
 #, fuzzy, kde-format
-#| msgid "An error occurred while accessing '%1'"
 msgctxt "%1: code, %2: request type"
 msgid "An unexpected error (%1) occurred while attempting to %2."
 msgstr "'%1' ലഭ്യമാക്കുമ്പോള്‍ ഒരു പിശകു് സംഭവിച്ചിരിക്കുന്നു"
@@ -4131,9 +4027,6 @@ msgstr ""
 
 #: ioslaves/http/kcookiejar/kcookieserver.cpp:66
 #, fuzzy, kde-format
-#| msgid ""
-#| "Could not create symlink %1.\n"
-#| "Please check permissions."
 msgid "Could not remove %1, check permissions"
 msgstr ""
 "%1 സിംകണ്ണി നിര്‍മ്മിക്കാന്‍ സാധ്യമല്ല.\n"
@@ -4141,7 +4034,6 @@ msgstr ""
 
 #: ioslaves/http/kcookiejar/kcookieserver.cpp:75
 #, fuzzy, kde-format
-#| msgid "Could not write to %1."
 msgid "Could not create directory %1"
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമായില്ല."
 
@@ -4338,13 +4230,11 @@ msgstr ""
 
 #: ioslaves/remote/remoteimpl.cpp:157
 #, fuzzy, kde-format
-#| msgid "New Folder"
 msgid "Add Network Folder"
 msgstr "പുതിയ ഫോള്‍ഡര്‍"
 
 #: ioslaves/telnet/ktelnetservice.cpp:65
 #, fuzzy, kde-format
-#| msgid "Access denied to %1."
 msgid "Access denied"
 msgstr "%1-ലേക്കുള്ള പ്രവേശനം നിഷേധിച്ചിരിക്കുന്നു."
 
@@ -4355,8 +4245,6 @@ msgstr ""
 
 #: ioslaves/trash/kcmtrash.cpp:157
 #, fuzzy, kde-format
-#| msgid "1 day %2"
-#| msgid_plural "%1 days %2"
 msgid " days"
 msgstr "1 ദിവസം %2"
 
@@ -4379,7 +4267,6 @@ msgstr ""
 
 #: ioslaves/trash/kcmtrash.cpp:260
 #, fuzzy, kde-format
-#| msgid "Delete Files"
 msgid "Delete files older than"
 msgstr "ഫയലുകള്‍ വെട്ടിമാറ്റുക"
 
@@ -4395,8 +4282,6 @@ msgstr ""
 
 #: ioslaves/trash/kcmtrash.cpp:269
 #, fuzzy, kde-format
-#| msgid "1 day %2"
-#| msgid_plural "%1 days %2"
 msgid " day"
 msgid_plural " days"
 msgstr[0] "1 ദിവസം %2"
@@ -4475,7 +4360,6 @@ msgstr ""
 
 #: ioslaves/trash/kcmtrash.cpp:309
 #, fuzzy, kde-format
-#| msgid "Trash"
 msgid "Full Trash:"
 msgstr "ചവറ്റുകുട്ട"
 
@@ -4484,7 +4368,6 @@ msgstr "ചവറ്റുകുട്ട"
 #: ioslaves/trash/kio_trash.cpp:389 ioslaves/trash/kio_trash.cpp:555
 #: ioslaves/trash/kio_trash.cpp:567
 #, fuzzy, kde-format
-#| msgid "Malformed URL %1."
 msgid "Malformed URL %1"
 msgstr "തെറ്റായ യുആര്‍എല്‍ %1."
 
@@ -4504,9 +4387,6 @@ msgstr ""
 
 #: ioslaves/trash/kio_trash.cpp:273 ioslaves/trash/kio_trash_win.cpp:264
 #, fuzzy, kde-format
-#| msgid ""
-#| "Internal error in server\n"
-#| "%1"
 msgid "Internal error in copyOrMove, should never happen"
 msgstr ""
 "സര്‍വറില്‍ ആന്തരിക പിശകു്\n"
@@ -4514,7 +4394,6 @@ msgstr ""
 
 #: ioslaves/trash/kio_trash_win.cpp:252
 #, fuzzy, kde-format
-#| msgid "Writing to %1 is not supported."
 msgid "not supported"
 msgstr "%1-ലേക്ക് എഴുതുന്നതിനെ പിന്താങ്ങുന്നില്ല."
 
@@ -4550,12 +4429,6 @@ msgstr ""
 
 #: kcms/kio/cache.cpp:113
 #, fuzzy, kde-format
-#| msgid ""
-#| "<h1>Cache</h1><p>This module lets you configure your cache settings.</"
-#| "p><p>The cache is an internal memory in Konqueror where recently read web "
-#| "pages are stored. If you want to retrieve a web page again that you have "
-#| "recently read, it will not be downloaded from the Internet, but rather "
-#| "retrieved from the cache, which is a lot faster.</p>"
 msgid ""
 "<h1>Cache</h1><p>This module lets you configure your cache settings.</"
 "p><p>This specific cache is an area on the disk where recently read web "
@@ -4699,7 +4572,6 @@ msgstr "ആവശ്യപ്പെട്ടതുപോലെ കുക്ക�
 
 #: kcms/kio/kcookiesmanagement.cpp:223
 #, fuzzy, kde-format
-#| msgid "<h1>Cookies Management Quick Help</h1>"
 msgid "<h1>Cookie Management Quick Help</h1>"
 msgstr "<h1>കുക്കികളുടെ പാലനത്തിനായുള്ള ദ്രുതസഹായം</h1>"
 
@@ -4740,14 +4612,12 @@ msgstr "ഡൊമെയ്നുകള്‍ക്കും ഹോസ്റ്�
 #. i18n: ectx: property (text), widget (QTreeWidget, cookiesTreeWidget)
 #: kcms/kio/kcookiesmanagement.ui:43
 #, fuzzy, kde-format
-#| msgid "Site Name"
 msgid "Site"
 msgstr "സൈറ്റിന്റെ പേരു്"
 
 #. i18n: ectx: property (text), widget (QTreeWidget, cookiesTreeWidget)
 #: kcms/kio/kcookiesmanagement.ui:48
 #, fuzzy, kde-format
-#| msgid "Site Name"
 msgid "Cookie Name"
 msgstr "സൈറ്റിന്റെ പേരു്"
 
@@ -4770,7 +4640,6 @@ msgstr "എ&ല്ലാം നീക്കം ചെയ്യുക"
 #. i18n: ectx: property (text), widget (QPushButton, configPolicyButton)
 #: kcms/kio/kcookiesmanagement.ui:70
 #, fuzzy, kde-format
-#| msgid "Change &Policy..."
 msgid "Configure &Policy..."
 msgstr "നയം മാറ്റുക..."
 
@@ -4788,14 +4657,12 @@ msgstr "സുരക്ഷിതമായ:"
 
 #: kcms/kio/kcookiespolicies.cpp:179
 #, fuzzy, kde-format
-#| msgid "Change Cookie Policy"
 msgctxt "@title:window"
 msgid "Change Cookie Policy"
 msgstr "കുക്കി നയം മാറ്റുക"
 
 #: kcms/kio/kcookiespolicies.cpp:198
 #, fuzzy, kde-format
-#| msgid "New Cookie Policy"
 msgctxt "@title:window"
 msgid "New Cookie Policy"
 msgstr "പുതിയ കുക്കി നയം"
@@ -4811,7 +4678,6 @@ msgstr ""
 
 #: kcms/kio/kcookiespolicies.cpp:233
 #, fuzzy, kde-format
-#| msgid "Duplicate Policy"
 msgctxt "@title:window"
 msgid "Duplicate Policy"
 msgstr "ഡ്യൂപ്ളിക്കേറ്റ് നയം"
@@ -4947,7 +4813,6 @@ msgstr "കുക്കികളെല്ലാം സ്വീകരിക്�
 #. i18n: ectx: property (text), widget (QRadioButton, rbPolicyAcceptForSession)
 #: kcms/kio/kcookiespolicies.ui:84
 #, fuzzy, kde-format
-#| msgid "End of session"
 msgid "Accept &until end of session"
 msgstr "സെഷനിന്റെ അന്ത്യം"
 
@@ -4992,7 +4857,6 @@ msgstr "ഡൊമെയ്നുകള്‍ക്കായി ഇന്ററ�
 #. i18n: ectx: property (placeholderText), widget (KTreeWidgetSearchLine, kListViewSearchLine)
 #: kcms/kio/kcookiespolicies.ui:138
 #, fuzzy, kde-format
-#| msgid "Search"
 msgid "Search..."
 msgstr "തിരയുക"
 
@@ -5072,7 +4936,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lbDomain)
 #: kcms/kio/kcookiespolicyselectiondlg.ui:25
 #, fuzzy, kde-format
-#| msgid "Site Name"
 msgid "Site name:"
 msgstr "സൈറ്റിന്റെ പേരു്"
 
@@ -5103,14 +4966,12 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lbPolicy)
 #: kcms/kio/kcookiespolicyselectiondlg.ui:56
 #, fuzzy, kde-format
-#| msgid "&Policy:"
 msgid "Policy:"
 msgstr "&നയം:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, cbPolicy)
 #: kcms/kio/kcookiespolicyselectiondlg.ui:86
 #, fuzzy, kde-format
-#| msgid "End of session"
 msgid "Accept until end of session"
 msgstr "സെഷനിന്റെ അന്ത്യം"
 
@@ -5186,22 +5047,12 @@ msgstr "ഇന്റര്‍നെറ്റിലേക്ക് നേരി�
 #. i18n: ectx: property (text), widget (QRadioButton, noProxyRadioButton)
 #: kcms/kio/kproxydlg.ui:29
 #, fuzzy, kde-format
-#| msgid "&Proxy"
 msgid "No Proxy"
 msgstr "&പ്രോക്സി"
 
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, autoDiscoverProxyRadioButton)
 #: kcms/kio/kproxydlg.ui:46
 #, fuzzy, kde-format
-#| msgid ""
-#| "<qt>\n"
-#| "Automatically detect and configure the proxy settings.<p>\n"
-#| "Automatic detection is performed using the <b>Web Proxy Auto-Discovery "
-#| "Protocol (WPAD)</b>.<p>\n"
-#| "<b>NOTE:</b> This option might not work properly or not work at all in "
-#| "some UNIX/Linux distributions. If you encounter a problem when using this "
-#| "option, please check the FAQ section at http://konqueror.kde.org.\n"
-#| "</qt>"
 msgid ""
 "<qt>\n"
 "Automatically detect and configure the proxy settings.<p>\n"
@@ -5216,30 +5067,26 @@ msgstr ""
 "തനിയെ പ്രോക്സി സജ്ജീകരണങ്ങള്‍ കണ്ടുപിടിക്കുകയും ക്രമീകരിക്കുകയും ചെയ്യുക.<p>\n"
 "തനിയെ കണ്ടുപിടിത്തം <b>വെബ്ബ് പ്രോക്സി ഓട്ടോ-ഡിസ്കവറി പ്രോട്ടോക്കോള്‍ (WPAD)</b> ഉപയോഗിച്ച് "
 "നിര്‍വഹിക്കുന്നു.<p>\n"
-"<b>കുറിപ്പ്:</b> ഈ ഐച്ഛികം ചില യൂണിക്സ്/ലിനക്സ് വിതരണങ്ങളില്‍ ശരിയായി "
-"പ്രവര്‍ത്തിക്കാതിരിക്കുകയോ ഒട്ടും പ്രവര്‍ത്തിക്കാതിരിക്കുകയോ ചെയ്തേക്കാം. ഈ ഐച്ഛികം "
-"ഉപയോഗിക്കുമ്പോള്‍ പ്രശ്നം നേരിടുകയാണെങ്കില്‍ http://konqueror.kde.org എന്നയിടത്തെ FAQ "
-"ഭാഗം നോക്കുക.\n"
+"<b>കുറിപ്പ്:</b> ഈ ഐച്ഛികം ചില യൂണിക്സ്/ലിനക്സ് വിതരണങ്ങളില്‍ ശരിയായി പ്രവര്‍"
+"ത്തിക്കാതിരിക്കുകയോ ഒട്ടും പ്രവര്‍ത്തിക്കാതിരിക്കുകയോ ചെയ്തേക്കാം. ഈ ഐച്ഛികം ഉപയോഗിക്കുമ്പോള്‍ "
+"പ്രശ്നം നേരിടുകയാണെങ്കില്‍ http://konqueror.kde.org എന്നയിടത്തെ FAQ ഭാഗം നോക്കുക.\n"
 "</qt>"
 
 #. i18n: ectx: property (text), widget (QRadioButton, autoDiscoverProxyRadioButton)
 #: kcms/kio/kproxydlg.ui:49
 #, fuzzy, kde-format
-#| msgid "U&se the following proxy configuration URL"
 msgid "Detect proxy configuration automatically"
 msgstr "ഇനി പറയുന്ന പ്രോക്സി ക്രമീകരണ യുആര്‍എല്‍ ഉപയോഗിക്കുക"
 
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, autoScriptProxyRadioButton)
 #: kcms/kio/kproxydlg.ui:59
 #, fuzzy, kde-format
-#| msgid "A&utomatically detect proxy configuration"
 msgid "Use the specified proxy script to configure the proxy settings."
 msgstr "&തനിയെ പ്രോക്സി ക്രമീകരണം കണ്ടുപിടിക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, autoScriptProxyRadioButton)
 #: kcms/kio/kproxydlg.ui:62
 #, fuzzy, kde-format
-#| msgid "U&se the following proxy configuration URL"
 msgid "Use proxy auto configuration URL:"
 msgstr "ഇനി പറയുന്ന പ്രോക്സി ക്രമീകരണ യുആര്‍എല്‍ ഉപയോഗിക്കുക"
 
@@ -5268,7 +5115,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QRadioButton, systemProxyRadioButton)
 #: kcms/kio/kproxydlg.ui:120
 #, fuzzy, kde-format
-#| msgid "U&se the following proxy configuration URL"
 msgid "Use system proxy configuration:"
 msgstr "ഇനി പറയുന്ന പ്രോക്സി ക്രമീകരണ യുആര്‍എല്‍ ഉപയോഗിക്കുക"
 
@@ -5285,7 +5131,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, autoDetectButton)
 #: kcms/kio/kproxydlg.ui:130
 #, fuzzy, kde-format
-#| msgid "Auto &Detect"
 msgid "Auto D&etect"
 msgstr "തനിയെ &കണ്ടുപിടിക്കുക"
 
@@ -5306,7 +5151,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, manualProxyHttpEditLabel)
 #: kcms/kio/kproxydlg.ui:161 kcms/kio/kproxydlg.ui:383
 #, fuzzy, kde-format
-#| msgid "&Proxy"
 msgid "HTTP Proxy:"
 msgstr "&പ്രോക്സി"
 
@@ -5327,7 +5171,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, manualProxyHttpsEditLabel)
 #: kcms/kio/kproxydlg.ui:196 kcms/kio/kproxydlg.ui:449
 #, fuzzy, kde-format
-#| msgid "&Proxy"
 msgid "SSL Proxy:"
 msgstr "&പ്രോക്സി"
 
@@ -5348,7 +5191,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, manualProxyFtpEditLabel)
 #: kcms/kio/kproxydlg.ui:231 kcms/kio/kproxydlg.ui:499
 #, fuzzy, kde-format
-#| msgid "&Proxy"
 msgid "FTP Proxy:"
 msgstr "&പ്രോക്സി"
 
@@ -5368,7 +5210,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, manualProxySocksEditLabel)
 #: kcms/kio/kproxydlg.ui:266 kcms/kio/kproxydlg.ui:552
 #, fuzzy, kde-format
-#| msgid "&Proxy"
 msgid "SOCKS Proxy:"
 msgstr "&പ്രോക്സി"
 
@@ -5399,7 +5240,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, manNoProxyLabel)
 #: kcms/kio/kproxydlg.ui:298 kcms/kio/kproxydlg.ui:602
 #, fuzzy, kde-format
-#| msgid "E&xceptions"
 msgid "Exceptions:"
 msgstr "എ&ക്സപ്ഷനുകള്‍"
 
@@ -5428,7 +5268,6 @@ msgstr "സ്വയം പ്രോക്സി ക്രമീകരണ വി
 #. i18n: ectx: property (text), widget (QRadioButton, manualProxyRadioButton)
 #: kcms/kio/kproxydlg.ui:346
 #, fuzzy, kde-format
-#| msgid "A&utomatically detect proxy configuration"
 msgid "Use manually specified proxy configuration:"
 msgstr "&തനിയെ പ്രോക്സി ക്രമീകരണം കണ്ടുപിടിക്കുക"
 
@@ -5451,14 +5290,12 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, manualProxyHttpSpinBox)
 #: kcms/kio/kproxydlg.ui:421
 #, fuzzy, kde-format
-#| msgid "Enter the address of the HTTP proxy server."
 msgid "Enter the port number of the HTTP proxy server."
 msgstr "എച്ച്ടിടിപി പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #. i18n: ectx: property (text), widget (QCheckBox, useSameProxyCheckBox)
 #: kcms/kio/kproxydlg.ui:436
 #, fuzzy, kde-format
-#| msgid "&Use the same proxy server for all protocols"
 msgid "Use this proxy server for a&ll protocols"
 msgstr "എല്ലാ നിയമാവലികള്‍ക്കും ഒരേ പ്രോക്സി സെര്‍വര്‍ &ഉപയോഗിക്കുക"
 
@@ -5471,7 +5308,6 @@ msgstr "എച്ച്ടിടിപിഎസ് പ്രോക്സി സ�
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, manualProxyHttpsSpinBox)
 #: kcms/kio/kproxydlg.ui:481
 #, fuzzy, kde-format
-#| msgid "Enter the address of the HTTPS proxy server."
 msgid "Enter the port number of the HTTPS proxy server."
 msgstr "എച്ച്ടിടിപിഎസ് പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
@@ -5484,21 +5320,18 @@ msgstr "എഫ്‌ടിപി പ്രോക്സി സെര്‍വറ�
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, manualProxyFtpSpinBox)
 #: kcms/kio/kproxydlg.ui:534
 #, fuzzy, kde-format
-#| msgid "Enter the address of the FTP proxy server."
 msgid "Enter the port number of the FTP proxy server."
 msgstr "എഫ്‌ടിപി പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, manualProxySocksEdit)
 #: kcms/kio/kproxydlg.ui:567
 #, fuzzy, kde-format
-#| msgid "Enter the address of the HTTPS proxy server."
 msgid "Enter the address of the SOCKS proxy server."
 msgstr "എച്ച്ടിടിപിഎസ് പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, manualProxySocksSpinBox)
 #: kcms/kio/kproxydlg.ui:584
 #, fuzzy, kde-format
-#| msgid "Enter the address of the HTTPS proxy server."
 msgid "Enter the port number of the SOCKS proxy server."
 msgstr "എച്ച്ടിടിപിഎസ് പ്രോക്സി സെര്‍വറിന്റെ വിലാസം നല്‍കുക."
 
@@ -5521,7 +5354,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, useReverseProxyCheckBox)
 #: kcms/kio/kproxydlg.ui:639
 #, fuzzy, kde-format
-#| msgid "Use proxy only for entries in this list"
 msgid ""
 "<qt>\n"
 "Check this box if you want the above proxy settings to apply only to the "
@@ -5531,7 +5363,6 @@ msgstr "പട്ടികയിലുള്ളവയ്ക്ക് പ്ര�
 #. i18n: ectx: property (text), widget (QCheckBox, useReverseProxyCheckBox)
 #: kcms/kio/kproxydlg.ui:642
 #, fuzzy, kde-format
-#| msgid "Use proxy only for entries in this list"
 msgid "Use proxy settings only for addresses in the Exceptions list"
 msgstr "പട്ടികയിലുള്ളവയ്ക്ക് പ്രോക്സി മാത്രം ഉപയോഗിക്കുക"
 
@@ -5572,7 +5403,6 @@ msgstr[1] ""
 #: kcms/kio/netpref.cpp:43 kcms/kio/netpref.cpp:50 kcms/kio/netpref.cpp:57
 #: kcms/kio/netpref.cpp:64
 #, fuzzy, kde-format
-#| msgid " sec"
 msgid " second"
 msgid_plural " seconds"
 msgstr[0] " sec"
@@ -5600,7 +5430,6 @@ msgstr "എക്സ് സേവക പ്രവര്‍ത്തകം:"
 
 #: kcms/kio/netpref.cpp:69
 #, fuzzy, kde-format
-#| msgid "FTP Options"
 msgid "Global Options"
 msgstr "എഫ്‌ടിപി ഐച്ഛികങ്ങള്‍"
 
@@ -5611,10 +5440,6 @@ msgstr "&ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫ�
 
 #: kcms/kio/netpref.cpp:74
 #, fuzzy, kde-format
-#| msgid ""
-#| "<p>Marks partially uploaded FTP files.</p><p>When this option is enabled, "
-#| "partially uploaded files will have a \".part\" extension. This extension "
-#| "will be removed once the transfer is complete.</p>"
 msgid ""
 "<p>Marks partially uploaded files through SMB, SFTP and other protocols.</"
 "p><p>When this option is enabled, partially uploaded files will have a \"."
@@ -5622,8 +5447,8 @@ msgid ""
 "complete.</p>"
 msgstr ""
 "ഭാഗികമായി അപ്ലോഡ് ചെയ്ത എഫ്‌ടിപി ഫയലുകള്‍ അടയാളപ്പെടുത്തുക. ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുമ്പോള്‍ "
-"ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ എക്സ്റ്റന്‍ഷന്‍ മാറ്റം "
-"പൂര്‍ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
+"ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ എക്സ്റ്റന്‍ഷന്‍ മാറ്റം പൂര്‍"
+"ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
 
 #: kcms/kio/netpref.cpp:85
 #, kde-format
@@ -5641,8 +5466,8 @@ msgid ""
 "Enables FTP's \"passive\" mode. This is required to allow FTP to work from "
 "behind firewalls."
 msgstr ""
-"എഫ്‌ടിപിയുടെ \"നിര്‍ജ്ജീവം\" (\"passive\") എന്ന അവസ്ഥ പ്രാവര്‍ത്തികമാക്കുന്നു. എഫ്‌ടിപി "
-"ഫയര്‍വാളുകളുടെ പിറകില്‍നിന്നു പ്രവര്‍ത്തിക്കാന്‍ ഇതാവശ്യമാണ്."
+"എഫ്‌ടിപിയുടെ \"നിര്‍ജ്ജീവം\" (\"passive\") എന്ന അവസ്ഥ പ്രാവര്‍ത്തികമാക്കുന്നു. എഫ്‌ടിപി ഫയര്‍"
+"വാളുകളുടെ പിറകില്‍നിന്നു പ്രവര്‍ത്തിക്കാന്‍ ഇതാവശ്യമാണ്."
 
 #: kcms/kio/netpref.cpp:98
 #, kde-format
@@ -5652,8 +5477,8 @@ msgid ""
 "will be removed once the transfer is complete.</p>"
 msgstr ""
 "ഭാഗികമായി അപ്ലോഡ് ചെയ്ത എഫ്‌ടിപി ഫയലുകള്‍ അടയാളപ്പെടുത്തുക. ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുമ്പോള്‍ "
-"ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ എക്സ്റ്റന്‍ഷന്‍ മാറ്റം "
-"പൂര്‍ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
+"ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ എക്സ്റ്റന്‍ഷന്‍ മാറ്റം പൂര്‍"
+"ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
 
 #: kcms/kio/netpref.cpp:173
 #, kde-format
@@ -5693,14 +5518,12 @@ msgstr ""
 
 #: kcms/kio/useragentdlg.cpp:81
 #, fuzzy, kde-format
-#| msgid "Add Identification"
 msgctxt "@title:window"
 msgid "Add Identification"
 msgstr "തിരിച്ചറിയല്‍ കൂട്ടിച്ചേര്‍ക്കുക"
 
 #: kcms/kio/useragentdlg.cpp:147
 #, fuzzy, kde-format
-#| msgid "Modify Identification"
 msgctxt "@title:window"
 msgid "Modify Identification"
 msgstr "തിരിച്ചറിയല്‍ മാറ്റം വരുത്തുക"
@@ -5716,7 +5539,6 @@ msgstr ""
 
 #: kcms/kio/useragentdlg.cpp:200
 #, fuzzy, kde-format
-#| msgid "Duplicate Identification"
 msgctxt "@title:window"
 msgid "Duplicate Identification"
 msgstr "ഡ്യൂപ്ളിക്കേറ്റ് തിരിച്ചറിയല്‍"
@@ -5794,9 +5616,6 @@ msgstr "സഹജമായ തിരിച്ചറിയല്‍"
 #. i18n: ectx: property (whatsThis), widget (KSqueezedTextLabel, defaultIdLineEdit)
 #: kcms/kio/useragentdlg.ui:58
 #, fuzzy, kde-format
-#| msgid ""
-#| "The browser identification text sent to the sites you visit. Use the "
-#| "provided options to customize it."
 msgid ""
 "The browser identification text sent to the sites you visit. You can "
 "customize it using the options provided below."
@@ -5807,9 +5626,6 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, osNameCheckBox)
 #: kcms/kio/useragentdlg.ui:71
 #, fuzzy, kde-format
-#| msgid ""
-#| "Includes your operating system's version number in the browser "
-#| "identification text."
 msgid ""
 "Includes your operating system's name in the browser identification text."
 msgstr ""
@@ -6003,7 +5819,6 @@ msgstr ""
 
 #: kioexec/kioexecd.cpp:100 kioexec/main.cpp:246
 #, fuzzy, kde-format
-#| msgid "Reload"
 msgid "Upload"
 msgstr "വീണ്ടും ലഭ്യമാക്കുക"
 
@@ -6019,13 +5834,11 @@ msgstr ""
 
 #: kioexec/main.cpp:73
 #, fuzzy, kde-format
-#| msgid "Malformed URL %1."
 msgid "Invalid URL: %1"
 msgstr "തെറ്റായ യുആര്‍എല്‍ %1."
 
 #: kioexec/main.cpp:79
 #, fuzzy, kde-format
-#| msgid "Could not bind %1."
 msgid "File not found: %1"
 msgstr "%1 കൂട്ടി ചേ൪ക്കാന്‍  സാധ്യമായില്ല"
 
@@ -6054,7 +5867,6 @@ msgstr ""
 
 #: kioexec/main.cpp:241
 #, fuzzy, kde-format
-#| msgid "Nothing to Delete"
 msgid "Do Not Delete"
 msgstr "വെട്ടിമാറ്റാനൊന്നുമില്ല"
 
@@ -6165,14 +5977,11 @@ msgstr ""
 
 #: kpasswdserver/kpasswdserver.cpp:563
 #, fuzzy, kde-format
-#| msgid "Do you really want to delete this item?"
-#| msgid_plural "Do you really want to delete these %1 items?"
 msgid "Do you want to retry?"
 msgstr "നിങ്ങള്‍ക്കു് ഈ വസ്തു വെട്ടിമാറ്റണമോ?"
 
 #: kpasswdserver/kpasswdserver.cpp:568
 #, fuzzy, kde-format
-#| msgid "Server Authentication"
 msgid "Retry Authentication"
 msgstr "സര്‍വര്‍ ഉറപ്പാക്കല്‍"
 
@@ -6184,13 +5993,11 @@ msgstr ""
 
 #: kpasswdserver/kpasswdserver.cpp:866
 #, fuzzy, kde-format
-#| msgid "Server Authentication"
 msgid "Authentication Dialog"
 msgstr "സര്‍വര്‍ ഉറപ്പാക്കല്‍"
 
 #: urifilters/ikws/ikwsopts.cpp:54
 #, fuzzy, kde-format
-#| msgid "By Name"
 msgctxt "@title:column Name label from web shortcuts column"
 msgid "Name"
 msgstr "പേരനുസരിച്ചു്"
@@ -6392,7 +6199,6 @@ msgstr ""
 
 #: urifilters/ikws/searchproviderdlg.cpp:130
 #, fuzzy, kde-format
-#| msgid "%1 (%2)"
 msgctxt "- web short cut (e.g. gg): what it refers to (e.g. Google)"
 msgid "- %1: \"%2\""
 msgstr "%1 (%2)"
@@ -6515,7 +6321,6 @@ msgstr ""
 
 #: urifilters/shorturi/kshorturifilter.cpp:279
 #, fuzzy, kde-format
-#| msgid "The file or folder %1 does not exist."
 msgid "<qt><b>%1</b> does not have a home folder.</qt>"
 msgstr "%1 ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലില്ല."
 
@@ -6531,9 +6336,6 @@ msgstr ""
 
 #: widgets/accessmanager.cpp:289
 #, fuzzy, kde-format
-#| msgid ""
-#| "Unknown error\n"
-#| "%1"
 msgid "Unknown HTTP verb."
 msgstr ""
 "അപരിചിതമായ പിശകു്\n"
@@ -6554,7 +6356,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, organizationTag)
 #: widgets/certificateparty.ui:48
 #, fuzzy, kde-format
-#| msgid "Destination"
 msgid "Organization:"
 msgstr "ലക്ഷ്യസ്ഥാനം"
 
@@ -6770,15 +6571,11 @@ msgstr ""
 
 #: widgets/fileundomanager.cpp:344
 #, fuzzy, kde-format
-#| msgid "&Paste File"
-#| msgid_plural "&Paste %1 Files"
 msgid "Und&o: Create Folder(s)"
 msgstr "ഫയല്‍ &ഒട്ടിക്കുക"
 
 #: widgets/fileundomanager.cpp:346
 #, fuzzy, kde-format
-#| msgid "&Paste File"
-#| msgid_plural "&Paste %1 Files"
 msgid "Und&o: Create File"
 msgstr "ഫയല്‍ &ഒട്ടിക്കുക"
 
@@ -6844,8 +6641,6 @@ msgstr ""
 
 #: widgets/jobuidelegate.cpp:265
 #, fuzzy, kde-kuit-format
-#| msgid "Do you really want to move this item to the trash?"
-#| msgid_plural "Do you really want to move these %1 items to the trash?"
 msgctxt "@info"
 msgid ""
 "Do you really want to move this item to the Trash?<nl/><filename>%1</"
@@ -6854,8 +6649,6 @@ msgstr "നിങ്ങള്‍ക്കു് ഈ വസ്തു ചവറ്
 
 #: widgets/jobuidelegate.cpp:273
 #, fuzzy, kde-format
-#| msgid "Do you really want to move this item to the trash?"
-#| msgid_plural "Do you really want to move these %1 items to the trash?"
 msgid "Do you really want to move this item to the Trash?"
 msgid_plural "Do you really want to move these %1 items to the Trash?"
 msgstr[0] "നിങ്ങള്‍ക്കു് ഈ വസ്തു ചവറ്റുകുട്ടയിലേക്കു് നീക്കണമോ?"
@@ -6884,7 +6677,6 @@ msgstr ""
 
 #: widgets/kacleditwidget.cpp:279
 #, fuzzy, kde-format
-#| msgid "Domain [Group]"
 msgctxt "UNIX permissions"
 msgid "Owning Group"
 msgstr "ഡൊമെയ്നു് [കൂട്ടം]"
@@ -7251,7 +7043,6 @@ msgstr ""
 
 #: widgets/kopenwithdialog.cpp:730
 #, fuzzy, kde-format
-#| msgid "Destination"
 msgid "Terminal options"
 msgstr "ലക്ഷ്യസ്ഥാനം"
 
@@ -7304,7 +7095,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, terminalEditLabel)
 #: widgets/kpropertiesdesktopadvbase.ui:61
 #, fuzzy, kde-format
-#| msgid "Destination"
 msgid "Terminal options:"
 msgstr "ലക്ഷ്യസ്ഥാനം"
 
@@ -7428,7 +7218,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel12)
 #: widgets/kpropertiesdesktopadvbase.ui:214
 #, fuzzy, kde-format
-#| msgid "Destination"
 msgid "D-Bus registration:"
 msgstr "ലക്ഷ്യസ്ഥാനം"
 
@@ -7453,7 +7242,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #: widgets/kpropertiesdesktopbase.ui:37
 #, fuzzy, kde-format
-#| msgid "Destination"
 msgid "&Description:"
 msgstr "ലക്ഷ്യസ്ഥാനം"
 
@@ -7548,7 +7336,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel7)
 #: widgets/kpropertiesdesktopbase.ui:160
 #, fuzzy, kde-format
-#| msgid "Edit Places Entry"
 msgid "&Supported file types:"
 msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക"
 
@@ -7561,7 +7348,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QTreeWidget, filetypeList)
 #: widgets/kpropertiesdesktopbase.ui:196
 #, fuzzy, kde-format
-#| msgid "Destination"
 msgid "Description"
 msgstr "ലക്ഷ്യസ്ഥാനം"
 
@@ -7634,7 +7420,6 @@ msgstr ""
 
 #: widgets/kpropertiesdialog.cpp:1039
 #, fuzzy, kde-format
-#| msgid "Detailed View"
 msgid "Create New File Type"
 msgstr "വിശദമായ കാഴ്ച"
 
@@ -7706,7 +7491,6 @@ msgstr ""
 
 #: widgets/kpropertiesdialog.cpp:1187 widgets/kpropertiesdialog.cpp:1289
 #, fuzzy, kde-format
-#| msgid "Unknown Host"
 msgctxt "@info:status"
 msgid "Unknown size"
 msgstr "അപരിചിതമായ ഹോസ്റ്റ്"
@@ -8299,7 +8083,6 @@ msgstr ""
 
 #: widgets/krun.cpp:1035
 #, fuzzy, kde-format
-#| msgid "Could not change ownership for %1."
 msgid "Could not find any application or handler for %1"
 msgstr "%1-നുള്ള ഉടമസ്ഥാവകാശം മാറ്റുവാന്‍ സാധ്യമായില്ല."
 
@@ -8353,8 +8136,6 @@ msgstr ""
 
 #: widgets/ksslinfodialog.cpp:176
 #, fuzzy, kde-format
-#| msgctxt "Items (Folders, Files)"
-#| msgid "%1 (%2, %3)"
 msgctxt "%1, using %2 bits of a %3 bit key"
 msgid "%1, %2 %3"
 msgstr "%1 (%2, %3)"
@@ -8383,14 +8164,12 @@ msgstr ""
 
 #: widgets/ksslinfodialog.cpp:202
 #, fuzzy, kde-format
-#| msgid "&Yes"
 msgctxt "The certificate is trusted"
 msgid "Yes"
 msgstr "&ഉവ്വു്"
 
 #: widgets/ksslinfodialog.cpp:206
 #, fuzzy, kde-format
-#| msgid "%1 (%2)"
 msgctxt "%1 is the effective date of the certificate, %2 is the expiry date"
 msgid "%1 to %2"
 msgstr "%1 (%2)"
@@ -8408,7 +8187,6 @@ msgstr ""
 
 #: widgets/kurifiltersearchprovideractions.cpp:107
 #, fuzzy, kde-format
-#| msgid "Change &Policy..."
 msgid "Configure Web Shortcuts..."
 msgstr "നയം മാറ്റുക..."
 
@@ -8455,24 +8233,18 @@ msgstr "ക്ലിപ്ബോര്‍ഡിലുള്ളവ &ഒട്ട�
 
 #: widgets/paste.cpp:342
 #, fuzzy, kde-format
-#| msgid "One Folder"
-#| msgid_plural "%1 Folders"
 msgctxt "@action:inmenu"
 msgid "Paste One Folder"
 msgstr "ഒരു ഫോള്‍ഡര്‍"
 
 #: widgets/paste.cpp:343
 #, fuzzy, kde-format
-#| msgid "&Paste File"
-#| msgid_plural "&Paste %1 Files"
 msgctxt "@action:inmenu"
 msgid "Paste One File"
 msgstr "ഫയല്‍ &ഒട്ടിക്കുക"
 
 #: widgets/paste.cpp:345
 #, fuzzy, kde-format
-#| msgid "One Item"
-#| msgid_plural "%1 Items"
 msgctxt "@action:inmenu"
 msgid "Paste One Item"
 msgid_plural "Paste %1 Items"
@@ -8481,14 +8253,12 @@ msgstr[1] "%1 വസ്തുക്കള്‍"
 
 #: widgets/paste.cpp:347
 #, fuzzy, kde-format
-#| msgid "&Paste Clipboard Contents"
 msgctxt "@action:inmenu"
 msgid "Paste Clipboard Contents..."
 msgstr "ക്ലിപ്ബോര്‍ഡിലുള്ളവ &ഒട്ടിക്കുക"
 
 #: widgets/paste.cpp:351
 #, fuzzy, kde-format
-#| msgid "Paste"
 msgctxt "@action:inmenu"
 msgid "Paste"
 msgstr "ഒട്ടിക്കുക"
@@ -8600,9 +8370,6 @@ msgstr "തു&ടരുക"
 
 #: widgets/renamedialog.cpp:269
 #, fuzzy, kde-format
-#| msgid ""
-#| "This action would overwrite '%1' with itself.\n"
-#| "Please enter a new file name:"
 msgid "This action will overwrite the destination."
 msgstr ""
 "ഇങ്ങനെ ചെയ്താല്‍ '%1' ഉപയോഗിച്ചു തന്നെ അതിനെ മാറ്റിയെഴുതുന്നു.\n"
@@ -8615,13 +8382,11 @@ msgstr ""
 
 #: widgets/renamedialog.cpp:279
 #, fuzzy, kde-format
-#| msgid "Source"
 msgid "Source"
 msgstr "ശ്രോതസ്സ്"
 
 #: widgets/renamedialog.cpp:281
 #, fuzzy, kde-format
-#| msgid "Destination"
 msgid "Destination"
 msgstr "ലക്ഷ്യസ്ഥാനം"
 
@@ -8637,13 +8402,11 @@ msgstr "'%1' എന്ന പേരില്‍ മറ്റൊരു വസ്�
 
 #: widgets/renamedialog.cpp:315
 #, fuzzy, kde-format
-#| msgid "An older item named '%1' already exists."
 msgid "A more recent item named '%1' already exists."
 msgstr "'%1' എന്ന പേരില്‍ പഴയൊരു വസ്തു നിലവിലുണ്ടു്."
 
 #: widgets/renamedialog.cpp:328
 #, fuzzy, kde-format
-#| msgid "&Rename"
 msgid "Rename:"
 msgstr "&പേരു് മാറ്റുക"
 
@@ -8689,14 +8452,12 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, encryptionTag)
 #: widgets/sslinfo.ui:74
 #, fuzzy, kde-format
-#| msgid "Destination"
 msgid "Encryption:"
 msgstr "ലക്ഷ്യസ്ഥാനം"
 
 #. i18n: ectx: property (text), widget (QLabel, detailsTag)
 #: widgets/sslinfo.ui:94
 #, fuzzy, kde-format
-#| msgid "&Details"
 msgid "Details:"
 msgstr "&വിശദാംശങ്ങള്‍"
 
@@ -8709,7 +8470,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, certSelectorTag)
 #: widgets/sslinfo.ui:134
 #, fuzzy, kde-format
-#| msgid "SSL Certificate Password"
 msgid "Certificate chain:"
 msgstr "എസ്എസ്എല്‍ സര്‍ട്ടിഫിക്കേറ്റ് പാസ്‌വേര്‍ഡ്"
 
@@ -8751,36 +8511,28 @@ msgid ""
 msgstr ""
 
 #, fuzzy
-#~| msgid "Root"
 #~ msgctxt "KFile System Bookmarks"
 #~ msgid "Root"
 #~ msgstr "റൂട്ട്"
 
 #, fuzzy
-#~| msgid "Could not change permissions for %1."
 #~ msgid "Could not change permissions for '%1'"
 #~ msgstr "%1-ലേക്കുള്ള അനുമതികള്‍ മാറ്റുവാന്‍ സാധ്യമായില്ല."
 
 #, fuzzy
-#~| msgctxt "@title job"
-#~| msgid "Creating directory"
 #~ msgctxt "@action:button"
 #~ msgid "Create directory"
 #~ msgstr "ഡയറക്ടി ഉണ്ടാക്കുന്നു"
 
 #, fuzzy
-#~| msgctxt "@title job"
-#~| msgid "Creating directory"
 #~ msgid "Create hidden directory?"
 #~ msgstr "ഡയറക്ടി ഉണ്ടാക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Show Preview"
 #~ msgid "Show Aside Preview"
 #~ msgstr "അച്ചടിക്കുന്നതിനുമുമ്പ് കണ്ടുനോക്കുക"
 
 #, fuzzy
-#~| msgid "Device"
 #~ msgid "Device usage:"
 #~ msgstr "ഡിവൈസ്"
 
@@ -8807,17 +8559,14 @@ msgstr ""
 #~ msgstr "&ചവറ്റുകുട്ടയിലിടുക"
 
 #, fuzzy
-#~| msgid "C&ontinue"
 #~ msgid "Continue"
 #~ msgstr "തു&ടരുക"
 
 #, fuzzy
-#~| msgid "The file or folder %1 does not exist."
 #~ msgid "<qt>The file or folder <b>%1</b> does not exist.</qt>"
 #~ msgstr "%1 ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലില്ല."
 
 #, fuzzy
-#~| msgid "&Rename"
 #~ msgid "&Username:"
 #~ msgstr "&പേരു് മാറ്റുക"
 
@@ -8830,12 +8579,10 @@ msgstr ""
 #~ "നിങ്ങളുടെ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിട്ടുള്ള കുക്കികളുടെ പാലനം നിങ്ങള്‍ക്ക് ചെയ്യാന്‍ സാധിക്കില്ല."
 
 #, fuzzy
-#~| msgid "Disk cache &size:"
 #~ msgid "Disk cache size:"
 #~ msgstr "ഡിസ്ക്ക് കാഷ് &വലിപ്പം:"
 
 #, fuzzy
-#~| msgid "C&lear Cache"
 #~ msgid "&Clear Cache"
 #~ msgstr "കാഷ് &വൃത്തിയാക്കുക"
 
@@ -8857,7 +8604,6 @@ msgstr ""
 #~ "മൂല്യം 3128 ആണു്."
 
 #, fuzzy
-#~| msgid "Variable Proxy Configuration"
 #~ msgctxt "@title:window"
 #~ msgid "Variable Proxy Configuration"
 #~ msgstr "പ്രോക്സിയുടെ മാറ്റാവുന്ന ക്രമീകരണം"
@@ -8881,7 +8627,6 @@ msgstr ""
 #~ msgstr "വിജയകരമായി ഉറപ്പാക്കിയിരിയ്ക്കുന്നു."
 
 #, fuzzy
-#~| msgid "Proxy Setup"
 #~ msgctxt "@title:window"
 #~ msgid "Proxy Setup"
 #~ msgstr "പ്രോക്സി സജ്ജീകരണം"
@@ -8894,19 +8639,16 @@ msgstr ""
 #~ "വേരിയബിളുകളൊന്നും കണ്ടുപിടിക്കാനായില്ല."
 
 #, fuzzy
-#~| msgid "Automatic Proxy Variable Detection"
 #~ msgctxt "@title:window"
 #~ msgid "Automatic Proxy Variable Detection"
 #~ msgstr "തനിയെയുള്ള പ്രോക്സി വേരിയബിള്‍ കണ്ടുപിടിത്തം"
 
 #, fuzzy
-#~| msgid "Manual Proxy Configuration"
 #~ msgctxt "@title:window"
 #~ msgid "Manual Proxy Configuration"
 #~ msgstr "പ്രോക്സിയുടെ സ്വയം ക്രമീകരണം"
 
 #, fuzzy
-#~| msgid "Invalid Proxy Setting"
 #~ msgctxt "@title:window"
 #~ msgid "Invalid Proxy Setting"
 #~ msgstr "അസാധുവായ പ്രോക്സി സജ്ജീകരണം"
@@ -8925,25 +8667,21 @@ msgstr ""
 #~ msgstr "<qt><center><b>%1</b></center> ഇപ്പോഴേ പട്ടികയിലുണ്ട്.</qt>"
 
 #, fuzzy
-#~| msgid "Duplicate Entry"
 #~ msgctxt "@title:window"
 #~ msgid "Duplicate Entry"
 #~ msgstr "ഡ്യൂപ്ളിക്കേറ്റ് എന്‍ട്രി"
 
 #, fuzzy
-#~| msgid "New Exception"
 #~ msgctxt "@title:window"
 #~ msgid "New Exception"
 #~ msgstr "പുതിയ എക്സപ്ഷന്‍"
 
 #, fuzzy
-#~| msgid "Change Exception"
 #~ msgctxt "@title:window"
 #~ msgid "Change Exception"
 #~ msgstr "എക്സപ്ഷന്‍ മാറ്റുക"
 
 #, fuzzy
-#~| msgid "Invalid Entry"
 #~ msgctxt "@title:window"
 #~ msgid "Invalid Entry"
 #~ msgstr "അസാധുവായ എന്‍ട്രി"
@@ -9004,12 +8742,10 @@ msgstr ""
 #~ msgstr "&ആവശ്യമുണ്ടാകുമ്പോള്‍ ചോദിക്കുക"
 
 #, fuzzy
-#~| msgid "Use the following lo&gin information."
 #~ msgid "Use this login information."
 #~ msgstr "ഇനിപ്പറയുന്ന ലോ&ഗിന്‍ വിവരം ഉപയോഗിക്കുക."
 
 #, fuzzy
-#~| msgid "Use the information below to login into proxy servers as needed."
 #~ msgid ""
 #~ "Use information specified here to login into proxy servers as needed."
 #~ msgstr ""
@@ -9071,7 +8807,6 @@ msgstr ""
 #~ msgstr "lan:/ Iosla&ve"
 
 #, fuzzy
-#~| msgid "KSqueezedTextLabel"
 #~ msgctxt "just a placeholder; do not translate"
 #~ msgid "KSqueezedTextLabel"
 #~ msgstr "KSqueezedTextLabel"

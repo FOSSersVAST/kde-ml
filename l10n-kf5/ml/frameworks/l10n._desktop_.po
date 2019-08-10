@@ -67,8 +67,6 @@ msgstr "ബ്രെട്ടോണ്‍"
 
 #: bs/messages/frameworks/kf5_entry.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Estonian"
 msgctxt "Name"
 msgid "Bosnian"
 msgstr "എസ്ടോണിയന്‍"
@@ -225,8 +223,6 @@ msgstr ""
 
 #: id/messages/frameworks/kf5_entry.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Macedonian"
 msgctxt "Name"
 msgid "Indonesian"
 msgstr "മാസിഡോണിയന്‍"
@@ -403,24 +399,18 @@ msgstr "സ്ലോവേനിയന്‍"
 
 #: sq/messages/frameworks/kf5_entry.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Armenian"
 msgctxt "Name"
 msgid "Albanian"
 msgstr "റൊമേനിയന്‍"
 
 #: sr@ijekavianlatin/messages/frameworks/kf5_entry.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Serbian Latin"
 msgctxt "Name"
 msgid "Serbian Ijekavian Latin"
 msgstr "സെര്‍ബിയന്‍  ലാറ്റിന്‍"
 
 #: sr@ijekavian/messages/frameworks/kf5_entry.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Serbian Latin"
 msgctxt "Name"
 msgid "Serbian Ijekavian"
 msgstr "സെര്‍ബിയന്‍  ലാറ്റിന്‍"
@@ -526,15 +516,11 @@ msgid "Traditional Chinese"
 msgstr "പരമ്പരാഗത ചൈനീസ്"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "Estonian"
 #~ msgctxt "Name"
 #~ msgid "Asturian"
 #~ msgstr "എസ്ടോണിയന്‍"
 
 #, fuzzy
-#~| msgctxt "Name"
-#~| msgid "KDE SVN Build"
 #~ msgctxt "Name"
 #~ msgid "KDE Source Builder"
 #~ msgstr "കെഡിഇ എസ്‌വിഎന്‍ ബില്‍ഡ്"

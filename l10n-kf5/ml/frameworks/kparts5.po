@@ -211,7 +211,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ "ദയവായി നിങ്ങളുടെ സിസ്റ്റത്തില്‍ KDEPIM/Kontact പൊതി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക."
 
 #, fuzzy
-#~| msgid "Test"
 #~ msgid "TETest"
 #~ msgstr "പരീക്ഷിയ്ക്കുക"
 
@@ -698,8 +697,8 @@ msgstr "രേഖ അടയ്ക്കുക"
 
 #~ msgid "Too many misspelled words. As-you-type spell checking disabled."
 #~ msgstr ""
-#~ "ഒരുപാടു് തെറ്റുള്ള വാക്കുകളുണ്ടു്. ടൈപ്പ് ചെയ്യുന്നതനുസരിച്ചുള്ള അക്ഷരത്തെറ്റു് പരിശോധന "
-#~ "നിര്‍ജ്ജീമാക്കിയിരിക്കുന്നു."
+#~ "ഒരുപാടു് തെറ്റുള്ള വാക്കുകളുണ്ടു്. ടൈപ്പ് ചെയ്യുന്നതനുസരിച്ചുള്ള അക്ഷരത്തെറ്റു് പരിശോധന നിര്‍"
+#~ "ജ്ജീമാക്കിയിരിക്കുന്നു."
 
 #~ msgid "Check Spelling..."
 #~ msgstr "അക്ഷരത്തെറ്റു്ം പരിശോധിക്കുക..."
@@ -784,7 +783,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "ലക്ഷ്യ അറയില്‍ മതിയായ അനുവാദങ്ങളില്ല"
 
 #, fuzzy
-#~| msgid "Unable to open temporary file."
 #~ msgid "Unable to open temporary file. Error was: %1."
 #~ msgstr "താല്‍ക്കാലിക ഫയല്‍ തുറക്കുവാന്‍ സാധ്യമല്ല."
 
@@ -1030,10 +1028,10 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ "internationalization visit <a href=\"http://l10n.kde.org\">http://l10n."
 #~ "kde.org</a></p>"
 #~ msgstr ""
-#~ "<p>കെഡിഇ മലയാളം നിങ്ങള്‍ക്കായി അവതരിപ്പിക്കുന്നതു് സ്വതന്ത്ര മലയാളം "
-#~ "കമ്പ്യൂട്ടിങ്ങ്പ്രവര്‍ത്തകരാണു്.</p><p>സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് കൂട്ടായ്മയെപ്പറ്റി "
-#~ "കൂടുതലറിയാനും മലയാളം കമ്പ്യൂട്ടിങ്ങ് പ്രവര്‍ത്തനങ്ങളില്‍ പങ്കുചേരാനും <a href=\"http://smc."
-#~ "org.in\">http://smc.org.in </a> എന്ന വെബ്സൈറ്റ് സന്ദര്‍ശിയ്ക്കുക</p>"
+#~ "<p>കെഡിഇ മലയാളം നിങ്ങള്‍ക്കായി അവതരിപ്പിക്കുന്നതു് സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ്പ്രവര്‍"
+#~ "ത്തകരാണു്.</p><p>സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് കൂട്ടായ്മയെപ്പറ്റി കൂടുതലറിയാനും മലയാളം "
+#~ "കമ്പ്യൂട്ടിങ്ങ് പ്രവര്‍ത്തനങ്ങളില്‍ പങ്കുചേരാനും <a href=\"http://smc.org.in\">http://smc."
+#~ "org.in </a> എന്ന വെബ്സൈറ്റ് സന്ദര്‍ശിയ്ക്കുക</p>"
 
 #~ msgid "Use the X-server display 'displayname'"
 #~ msgstr "ഉപയോഗിക്കേണ്ട ഇയാഗ്നോ സര്‍വര്‍"
@@ -2412,8 +2410,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "നല്‍കിയ സേവനം സാധുവല്ല"
 
 #, fuzzy
-#~| msgid ""
-#~| "The service '%1' provides no library or the Library key is missing in "
 #~ msgid "The service '%1' provides no library or the Library key is missing"
 #~ msgstr "'%1' എന്ന സേവനം ലൈബ്രറിയൊന്നും നല്‍കുന്നില്ല അഥവാ ലൈബ്രറി കീ കാണാനില്ലാത്തതു് "
 
@@ -2508,9 +2504,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "&സ്ഥിതിത്തട്ട് കാണിക്കുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-#~| "bottom of the window used for status information."
 #~ msgid ""
 #~ "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
 #~ "the window used for status information.</p>"
@@ -2522,8 +2515,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "പുതിയത് &n"
 
 #, fuzzy
-#~| msgctxt "@label"
-#~| msgid "Create new tag:"
 #~ msgid "Create new document"
 #~ msgstr "പുതിയ ടാഗുണ്ടാക്കുക:"
 
@@ -2537,7 +2528,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "&സൂക്ഷിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Save document"
 #~ msgstr "രേഖ അടയ്ക്കുക"
 
@@ -2551,7 +2541,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "അടയ്ക്കുക &c"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Close document"
 #~ msgstr "രേഖ അടയ്ക്കുക"
 
@@ -2559,8 +2548,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "&അച്ചടിയ്ക്കുക..."
 
 #, fuzzy
-#~| msgctxt "keyboard-key-name"
-#~| msgid "PrintScreen"
 #~ msgid "Print document"
 #~ msgstr "PrintScreen"
 
@@ -2580,10 +2567,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "വീണ്ടും &d"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "A link to make a donation for a Get Hot New Stuff item (opens a web "
-#~| "browser)"
-#~| msgid "Make a donation"
 #~ msgid "Redo last undone action"
 #~ msgstr "ഒരു സഹായം നല്‍കുക"
 
@@ -2597,7 +2580,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "&ഒട്ടിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Upload content"
 #~ msgid "Paste clipboard content"
 #~ msgstr "കലാസൃഷ്ടി കയറ്റുക"
 
@@ -2644,7 +2626,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "&വലുതാക്കുക..."
 
 #, fuzzy
-#~| msgid "Select a week"
 #~ msgid "Select zoom level"
 #~ msgstr "ഒരു ആഴ്ച തെരഞ്ഞെടുക്കുക"
 
@@ -2652,7 +2633,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "പുനഃപ്രദര്‍ശിപ്പിയ്ക്കുക &r"
 
 #, fuzzy
-#~| msgid "&Redisplay"
 #~ msgid "Redisplay document"
 #~ msgstr "പുനഃപ്രദര്‍ശിപ്പിയ്ക്കുക &r"
 
@@ -2663,7 +2643,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "മുമ്പത്തെ താള്‍ &p"
 
 #, fuzzy
-#~| msgid "&Previous Page"
 #~ msgid "Go to previous page"
 #~ msgstr "മുമ്പത്തെ താള്‍ &p"
 
@@ -2671,8 +2650,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "അടുത്ത താള്‍ &n"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to next page"
 #~ msgstr "വരിയിലേയ്ക്കു് പോകുക"
 
@@ -2689,8 +2666,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "&ആദ്യത്തെ താള്‍"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to first page"
 #~ msgstr "വരിയിലേയ്ക്കു് പോകുക"
 
@@ -2698,23 +2673,18 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "അ&വസാന താള്‍"
 
 #, fuzzy
-#~| msgid "&Go to Page..."
 #~ msgid "Go to last page"
 #~ msgstr "താളിലേയ്ക്ക് പോകുക &g..."
 
 #, fuzzy
-#~| msgid "&Back in the Document"
 #~ msgid "Go back in document"
 #~ msgstr "രേഖയില്‍ &പുറകോട്ടു്"
 
 #, fuzzy
-#~| msgctxt "go forward"
-#~| msgid "&Forward"
 #~ msgid "&Forward"
 #~ msgstr "&മുമ്പോട്ടു്"
 
 #, fuzzy
-#~| msgid "&Forward in the Document"
 #~ msgid "Go forward in document"
 #~ msgstr "രേഖയില്‍ &മുമ്പോട്ടു്"
 
@@ -2728,12 +2698,10 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "അക്ഷരത്തെറ്റു്..."
 
 #, fuzzy
-#~| msgid "Check Spelling"
 #~ msgid "Check spelling in document"
 #~ msgstr "അക്ഷരത്തെറ്റു്ം പരിശോധിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Show &Menubar"
 #~ msgid "Show or hide menubar"
 #~ msgstr "&വിഭവത്തട്ട് കാണിക്കുക"
 
@@ -2741,14 +2709,10 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "&പണിയായുധനിര കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Show Toolbar"
 #~ msgid "Show or hide toolbar"
 #~ msgstr "പണിയായുധനിര കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Show Statusbar"
 #~ msgid "Show or hide statusbar"
 #~ msgstr "സ്ഥിതിത്തട്ട് കാണിക്കുക"
 
@@ -2792,31 +2756,26 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "&കെഡിഇയെക്കുറിച്ചു്"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Exit F&ull Screen Mode"
 #~ msgstr "&ഫുള്‍ സ്ക്രീന്‍ ദശയില്‍നിന്നു പുറത്തിറങ്ങുക"
 
 #, fuzzy
-#~| msgid "Exit Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Exit Full Screen"
 #~ msgstr "പൂര്‍ണ്ണവലിപ്പത്തിലുള്ള സ്ക്രീനില്‍ നിന്നും പുറത്ത് കടക്കുക"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Exit full screen mode"
 #~ msgstr "&ഫുള്‍ സ്ക്രീന്‍ ദശയില്‍നിന്നു പുറത്തിറങ്ങുക"
 
 #, fuzzy
-#~| msgid "F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "F&ull Screen Mode"
 #~ msgstr "സ്ക്രീന്‍ &പരമാവധി വലിപ്പത്തില്‍ കാണുക"
 
 #, fuzzy
-#~| msgid "Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Full Screen"
 #~ msgstr "സ്ക്രീന്‍ പരമാവധി വലിപ്പത്തില്‍ കാണുക"
@@ -2952,7 +2911,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "ലൈസന്‍സ് എഗ്രിമെന്റ്"
 
 #, fuzzy
-#~| msgid "Email contributor"
 #~ msgctxt "Action to send an email to a contributor"
 #~ msgid "Email contributor"
 #~ msgstr "ഈമെയില്‍ സംഭാവന ചെയ്തവര്‍:"
@@ -2990,8 +2948,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ "%1"
 
 #, fuzzy
-#~| msgctxt "@application/plain"
-#~| msgid "%1"
 #~ msgctxt "@item Contributor name in about dialog."
 #~ msgid "%1"
 #~ msgstr "%1"
@@ -3487,7 +3443,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "താഴെ ഒരു ഉപയോക്താവിന്റെ പേരും അടയാളവാക്കും നല്‍കുക."
 
 #, fuzzy
-#~| msgid "&Keep password"
 #~ msgid "Use this password:"
 #~ msgstr "അടയാളവാക്ക് സൂക്ഷിയ്ക്കുക &k"
 
@@ -3554,8 +3509,8 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ "Note that this will not remove any system wide shortcut schemes."
 #~ msgstr ""
 #~ "%1 എന്ന പദ്ധതി കളയണമെന്നുറപ്പാണോ?\n"
-#~ "സിസ്റ്റത്തിനു് മുഴുവനും ബാധകമായ കുറുക്കുവഴി പദ്ധതികളൊന്നും ഇതു് നീക്കം ചെയ്യില്ലെന്നു് പ്രത്യേകം "
-#~ "ഓര്‍ക്കുക."
+#~ "സിസ്റ്റത്തിനു് മുഴുവനും ബാധകമായ കുറുക്കുവഴി പദ്ധതികളൊന്നും ഇതു് നീക്കം ചെയ്യില്ലെന്നു് പ്രത്യേകം ഓര്‍"
+#~ "ക്കുക."
 
 #~ msgid "Export to Location"
 #~ msgstr "സ്ഥലത്തേയ്ക്കു വയ്ക്കുക"
@@ -5014,8 +4969,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "സണ്ടനീസ്"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Katakana"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Batak"
 #~ msgstr "കടങ്കാന"
@@ -5305,8 +5258,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "തായി വിയറ്റ്"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Ethiopic Extended"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ethiopic Extended-A"
 #~ msgstr "എഥിയോപിക് എക്സ്റ്റെന്റഡ്"
@@ -5600,71 +5551,51 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "ക്രമീകരണം സൂക്ഷിയ്ക്കാന്‍ നിങ്ങള്‍ക്കനുവാദമില്ല"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next year"
 #~ msgid "Next Year"
 #~ msgstr "അടുത്ത വര്‍ഷം"
 
 #, fuzzy
-#~| msgid "Next month"
 #~ msgctxt "@option next month"
 #~ msgid "Next Month"
 #~ msgstr "അടുത്ത മാസം"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next week"
 #~ msgid "Next Week"
 #~ msgstr "അടുത്ത വര്‍ഷം"
 
 #, fuzzy
-#~| msgid "Today"
 #~ msgctxt "@option today"
 #~ msgid "Today"
 #~ msgstr "ഇന്ന്"
 
 #, fuzzy
-#~| msgid "Yesterday"
 #~ msgctxt "@option yesterday"
 #~ msgid "Yesterday"
 #~ msgstr "ഇന്നലെ"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "referring to a filter on the modification and usage date of files/"
-#~| "resources"
-#~| msgid "Last Week"
 #~ msgctxt "@option last week"
 #~ msgid "Last Week"
 #~ msgstr "അവസാന ആഴ്ച"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "referring to a filter on the modification and usage date of files/"
-#~| "resources"
-#~| msgid "Last Month"
 #~ msgctxt "@option last month"
 #~ msgid "Last Month"
 #~ msgstr "കഴിഞ്ഞ മാസം"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "referring to a filter on the modification and usage date of files/"
-#~| "resources"
-#~| msgid "Last Year"
 #~ msgctxt "@option last year"
 #~ msgid "Last Year"
 #~ msgstr "അവസാന വര്‍ഷം"
 
 #, fuzzy
-#~| msgid "No text"
 #~ msgctxt "@option do not specify a date"
 #~ msgid "No Date"
 #~ msgstr "വാചകമില്ല"
 
 #, fuzzy
-#~| msgctxt "SSL error"
-#~| msgid "The certificate is invalid"
 #~ msgctxt "@info"
 #~ msgid "The date you entered is invalid"
 #~ msgstr "ഈ സാക്ഷ്യപത്രം അസാധുവാണു്"
@@ -5697,7 +5628,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "ഇന്നത്തെ ദിവസം തെരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgctxt "No specific time zone"
 #~ msgid "Floating"
 #~ msgstr "വിലയിരുത്തല്‍"
@@ -5969,8 +5899,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "നിഘണ്ടുവില്‍ ചേര്‍ക്കുക"
 
 #, fuzzy
-#~| msgctxt "SSL error"
-#~| msgid "The certificate is invalid"
 #~ msgctxt "@info"
 #~ msgid "The time you entered is invalid"
 #~ msgstr "ഈ സാക്ഷ്യപത്രം അസാധുവാണു്"
@@ -5987,19 +5915,16 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "അഭിപ്രായം"
 
 #, fuzzy
-#~| msgid "Show help"
 #~ msgctxt "@title:menu"
 #~ msgid "Show Text"
 #~ msgstr "സഹായം കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Toolbar Settings"
 #~ msgctxt "@title:menu"
 #~ msgid "Toolbar Settings"
 #~ msgstr "പണിയായുധനിരയുടെ സജ്ജീകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Orientation"
 #~ msgctxt "Toolbar orientation"
 #~ msgid "Orientation"
 #~ msgstr "ദിശ"
@@ -6772,7 +6697,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "മള്‍ട്ടിപാര്‍ട്ട്/മിക്സഡ് എന്നതിനുള്ള എംബഡ് ചെയ്യാവുന്ന ഘടകം"
 
 #, fuzzy
-#~| msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 #~ msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
 #~ msgstr "Copyright 2001, ഡേവിഡ് ഫൌര്‍ <email>david@mandrakesoft.com</email>"
 
@@ -6998,7 +6922,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ "%2"
 
 #, fuzzy
-#~| msgid "KDEInit could not launch '%1'."
 #~ msgid "KDEInit could not launch '%1'"
 #~ msgstr "KDEInit-നു് '%1' ലഭ്യമാക്കുവാന്‍ സാധ്യമായില്ല."
 
@@ -7603,7 +7526,6 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "നിലവിലുള്ള ഫയല്‍ മാറ്റിയെഴുതണമോ?"
 
 #, fuzzy
-#~| msgid "Download File:"
 #~ msgid "Download File"
 #~ msgstr "ഫയല്‍ ഡൌണ്‍ലോട് ചെയ്യുക:"
 
@@ -8475,8 +8397,8 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ "Check to see logging information about thread activity. Watch the console "
 #~ "output to see the log information."
 #~ msgstr ""
-#~ "ത്രെഡിന്റെ പ്രവൃത്തിയെക്കുറിച്ചുള്ള ലോഗിങ്ങ് വിവരത്തിനു് പരിശോദിയ്ക്കുക. ലോഗ് വിവരം കാണാന്‍ "
-#~ "കണ്‍സോളിലെ ഫലം നോക്കുക."
+#~ "ത്രെഡിന്റെ പ്രവൃത്തിയെക്കുറിച്ചുള്ള ലോഗിങ്ങ് വിവരത്തിനു് പരിശോദിയ്ക്കുക. ലോഗ് വിവരം കാണാന്‍ കണ്‍"
+#~ "സോളിലെ ഫലം നോക്കുക."
 
 #~ msgid "Log thread activity"
 #~ msgstr "ത്രെഡിന്റെ പ്രവൃത്തികള്‍ രേഖപ്പെടുത്തുക"
@@ -8530,22 +8452,16 @@ msgstr "രേഖ അടയ്ക്കുക"
 #~ msgstr "&എന്താണിതു്?"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next week"
 #~ msgid "Next week"
 #~ msgstr "അടുത്ത വര്‍ഷം"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "referring to a filter on the modification and usage date of files/"
-#~| "resources"
-#~| msgid "Last Week"
 #~ msgctxt "@option last week"
 #~ msgid "Last week"
 #~ msgstr "അവസാന ആഴ്ച"
 
 #, fuzzy
-#~| msgid "Today"
 #~ msgctxt "@info/plain"
 #~ msgid "today"
 #~ msgstr "ഇന്ന്"

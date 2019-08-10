@@ -343,7 +343,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkShowFoldingMarkers)
 #: dialogs/bordersappearanceconfigwidget.ui:26
 #, fuzzy, kde-format
-#| msgid "Show &Line Numbers"
 msgid "Show &folding markers"
 msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
@@ -358,7 +357,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkShowFoldingPreview)
 #: dialogs/bordersappearanceconfigwidget.ui:54
 #, fuzzy, kde-format
-#| msgid "Print the current document."
 msgid "Show preview of folded code"
 msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ചെയ്യുക."
 
@@ -374,7 +372,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkIconBorder)
 #: dialogs/bordersappearanceconfigwidget.ui:66
 #, fuzzy, kde-format
-#| msgid "Show &Line Numbers"
 msgid "Show &icon border"
 msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
@@ -389,7 +386,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkLineNumbers)
 #: dialogs/bordersappearanceconfigwidget.ui:76
 #, fuzzy, kde-format
-#| msgid "Show &Line Numbers"
 msgid "Show &line numbers"
 msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
@@ -404,7 +400,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkShowLineModification)
 #: dialogs/bordersappearanceconfigwidget.ui:86
 #, fuzzy, kde-format
-#| msgid "Show &Line Numbers"
 msgid "Show line modification markers"
 msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
@@ -461,14 +456,12 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkScrollbarMiniMapAll)
 #: dialogs/bordersappearanceconfigwidget.ui:135
 #, fuzzy, kde-format
-#| msgid "Save the current document"
 msgid "Map the whole document"
 msgstr "നിലവിലുള്ള രേഖ സൂക്ഷിക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, labelMiniMapWidth)
 #: dialogs/bordersappearanceconfigwidget.ui:145
 #, fuzzy, kde-format
-#| msgid "W&idth:"
 msgid "Minim&ap width:"
 msgstr "വീ&തി:"
 
@@ -493,7 +486,6 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbShowScrollbars)
 #: dialogs/bordersappearanceconfigwidget.ui:226
 #, fuzzy, kde-format
-#| msgid "Always On"
 msgid "Always Off"
 msgstr "എപ്പോഴും ഓണ്‍ ആയിരിക്കുക"
 
@@ -507,7 +499,6 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, gbSortBookmarks)
 #: dialogs/bordersappearanceconfigwidget.ui:249
 #, fuzzy, kde-format
-#| msgid "Set &Bookmark"
 msgid "Sort Bookmarks Menu"
 msgstr "&ഓര്‍മ്മക്കുറിപ്പു് സജ്ജമാക്കുക"
 
@@ -534,7 +525,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QRadioButton, rbSortBookmarksByPosition)
 #: dialogs/bordersappearanceconfigwidget.ui:268
 #, fuzzy, kde-format
-#| msgid "Options"
 msgid "By posi&tion"
 msgstr "ഉപാധികള്‍"
 
@@ -557,21 +547,18 @@ msgstr "വിവരണം"
 #. i18n: ectx: property (text), widget (QPushButton, btnEditEntry)
 #: dialogs/commandmenuconfigwidget.ui:48
 #, fuzzy, kde-format
-#| msgid "Edit entry..."
 msgid "Edit Entry..."
 msgstr "എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക..."
 
 #. i18n: ectx: property (text), widget (QPushButton, btnRemoveEntry)
 #: dialogs/commandmenuconfigwidget.ui:58
 #, fuzzy, kde-format
-#| msgid "Remove entry"
 msgid "Remove Entry"
 msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnAddEntry)
 #: dialogs/commandmenuconfigwidget.ui:78
 #, fuzzy, kde-format
-#| msgid "Add entry..."
 msgid "Add Entry..."
 msgstr "എന്‍ട്രി ചേര്‍ക്കുക..."
 
@@ -644,14 +631,12 @@ msgstr "സാധാരണ"
 #. i18n: ectx: property (text), widget (QCheckBox, chkAutoCompletionEnabled)
 #: dialogs/completionconfigtab.ui:26
 #, fuzzy, kde-format
-#| msgid "Unable to open %1"
 msgid "Enable &auto completion"
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbWordCompletion)
 #: dialogs/completionconfigtab.ui:36
 #, fuzzy, kde-format
-#| msgid "Unable to open %1"
 msgid "A&uto Word Completion"
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
@@ -676,7 +661,6 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, gbKeywordCompletion)
 #: dialogs/completionconfigtab.ui:88
 #, fuzzy, kde-format
-#| msgid "Unable to open %1"
 msgid "&Keyword completion"
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
@@ -811,7 +795,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: dialogs/completionconfigwidget.ui:279
 #, fuzzy, kde-format
-#| msgid "Header Properties"
 msgid "Access Grouping Properties"
 msgstr "തലക്കെട്ടിന്റെ ഗുണഗണങ്ങള്‍"
 
@@ -942,7 +925,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkAutoBrackets)
 #: dialogs/editconfigwidget.ui:139
 #, fuzzy, kde-format
-#| msgid "Unable to open %1"
 msgid "Enable automatic brackets"
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
@@ -963,15 +945,12 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, gbCopyAndPaste)
 #: dialogs/editconfigwidget.ui:195
 #, fuzzy, kde-format
-#| msgid "Roland Pabel"
 msgid "Copy and Paste"
 msgstr "റോളണ്ട് പാബല്‍"
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkTextDragAndDrop)
 #: dialogs/editconfigwidget.ui:201
 #, fuzzy, kde-format
-#| msgctxt "@title:column Text style"
-#| msgid "Selected"
 msgid "Move selected text by drag and drop"
 msgstr "തിരഞ്ഞെടുത്തവ"
 
@@ -1157,7 +1136,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QRadioButton, rbIndentWithSpaces)
 #: dialogs/indentationconfigwidget.ui:62
 #, fuzzy, kde-format
-#| msgid "Replace"
 msgid "&Spaces"
 msgstr "മാറ്റുക"
 
@@ -1313,7 +1291,6 @@ msgstr ""
 
 #: dialogs/katedialogs.cpp:197 dialogs/katedialogs.cpp:199
 #, fuzzy, kde-format
-#| msgid " characters"
 msgid " character"
 msgid_plural " characters"
 msgstr[0] " അക്ഷരങ്ങള്‍"
@@ -1336,14 +1313,11 @@ msgstr ""
 
 #: dialogs/katedialogs.cpp:437
 #, fuzzy, kde-format
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgid "Text Navigation"
 msgstr "ക്രമികരണം"
 
 #: dialogs/katedialogs.cpp:534
 #, fuzzy, kde-format
-#| msgid " characters"
 msgctxt "Wrap words at (value is at 20 or larger)"
 msgid " character"
 msgid_plural " characters"
@@ -1352,7 +1326,6 @@ msgstr[1] " അക്ഷരങ്ങള്‍"
 
 #: dialogs/katedialogs.cpp:541
 #, fuzzy, kde-format
-#| msgid "Disabled"
 msgid "Disable Feature"
 msgstr "പ്രവര്‍ത്തന രഹിതം"
 
@@ -1368,7 +1341,6 @@ msgstr ""
 
 #: dialogs/katedialogs.cpp:547
 #, fuzzy, kde-format
-#| msgid " characters"
 msgid "Non letter character"
 msgstr " അക്ഷരങ്ങള്‍"
 
@@ -1446,13 +1418,11 @@ msgstr ""
 
 #: dialogs/katedialogs.cpp:1251
 #, fuzzy, kde-format
-#| msgid "&Section:"
 msgid "Dictionary:"
 msgstr "&ഭാഗം:"
 
 #: dialogs/katedialogs.cpp:1305
 #, fuzzy, kde-format
-#| msgid "Unable to open %1"
 msgid "Enable Auto Reload"
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
@@ -1473,21 +1443,17 @@ msgstr ""
 
 #: dialogs/katedialogs.cpp:1318
 #, fuzzy, kde-format
-#| msgid "Reloa&d"
 msgid "&Reload"
 msgstr "വീണ്ടും &ലഭ്യമാക്കുക"
 
 #: dialogs/katedialogs.cpp:1320
 #, fuzzy, kde-format
-#| msgid ""
-#| "Reload the file from disk. If you have unsaved changes, they will be lost."
 msgid "Reload the file from disk. Unsaved changes will be lost."
 msgstr ""
 "ഡിസ്കില്‍ നിന്നും ഫയല്‍ വീണ്ടും ലഭ്യമാക്കുക. സൂക്ഷിക്കാത്ത മാറ്റങ്ങള്‍ നിങ്ങള്‍ക്കു് നഷ്ടമാകുന്നതാണു്."
 
 #: dialogs/katedialogs.cpp:1324
 #, fuzzy, kde-format
-#| msgid "&Reload File"
 msgctxt "@action:button closes the opened file"
 msgid "&Close File"
 msgstr "ഫയല്‍ &വീണ്ടും ലഭ്യമാക്കുക"
@@ -1499,7 +1465,6 @@ msgstr ""
 
 #: dialogs/katedialogs.cpp:1330
 #, fuzzy, kde-format
-#| msgid "&Save File As..."
 msgid "&Save As..."
 msgstr "ഫയലിന്റെ പേരു് മാറ്റി &സൂക്ഷിക്കുക..."
 
@@ -1516,7 +1481,6 @@ msgstr "&വേണ്ടെന്നു് വയ്ക്കുക"
 
 #: dialogs/katedialogs.cpp:1338
 #, fuzzy, kde-format
-#| msgid "Ignore the changes. You will not be prompted again."
 msgid "Ignores the changes on disk without any action."
 msgstr "മാറ്റങ്ങള്‍ വേണ്ടെന്നു് വയ്ക്കുക. പിന്നീടു് നിങ്ങളോടു് ചോദിക്കുന്നതല്ല."
 
@@ -1605,7 +1569,6 @@ msgstr "പ്രവര്‍ത്തന രഹിതം"
 #. i18n: ectx: property (suffix), widget (QSpinBox, sbAutoCenterCursor)
 #: dialogs/navigationconfigwidget.ui:59
 #, fuzzy, kde-format
-#| msgid "Move to Next Line"
 msgid " lines"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
@@ -1625,7 +1588,6 @@ msgstr ""
 #: dialogs/navigationconfigwidget.ui:103 inputmode/katenormalinputmode.cpp:82
 #: mode/katemodemanager.cpp:146
 #, fuzzy, kde-format
-#| msgid "&Normal"
 msgid "Normal"
 msgstr "&സാധാരണ"
 
@@ -1731,14 +1693,12 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lblSwapFileMode)
 #: dialogs/opensaveconfigadvwidget.ui:101
 #, fuzzy, kde-format
-#| msgid "New Filetype"
 msgid "Swap file:"
 msgstr "പുതിയ തരത്തിലുള്ള ഫയല്‍"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbSwapFileMode)
 #: dialogs/opensaveconfigadvwidget.ui:112
 #, fuzzy, kde-format
-#| msgid "Disabled"
 msgid "Disable"
 msgstr "പ്രവര്‍ത്തന രഹിതം"
 
@@ -1809,7 +1769,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lblEncodingDetection)
 #: dialogs/opensaveconfigwidget.ui:40
 #, fuzzy, kde-format
-#| msgid "&Encoding:"
 msgid "&Encoding detection:"
 msgstr "&എന്‍കോഡിങ്:"
 
@@ -1825,7 +1784,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, lblEncodingDetection2)
 #: dialogs/opensaveconfigwidget.ui:57
 #, fuzzy, kde-format
-#| msgid "&Encoding:"
 msgid "&Fallback encoding:"
 msgstr "&എന്‍കോഡിങ്:"
 
@@ -1905,14 +1863,12 @@ msgstr ""
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, lineLengthLimit)
 #: dialogs/opensaveconfigwidget.ui:135
 #, fuzzy, kde-format
-#| msgid "Untitled"
 msgid "Unlimited"
 msgstr "തലക്കെട്ടില്ലാത്ത"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbCleanups)
 #: dialogs/opensaveconfigwidget.ui:151
 #, fuzzy, kde-format
-#| msgid "Backup on Save"
 msgid "Automatic Cleanups on Save"
 msgstr "സൂക്ഷിക്കുമ്പോള്‍ ബാക്കപ്പെടുക്കുക"
 
@@ -1940,14 +1896,12 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, cbRemoveTrailingSpaces)
 #: dialogs/opensaveconfigwidget.ui:181
 #, fuzzy, kde-format
-#| msgid "Move to Next Line"
 msgid "On Modified Lines"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cbRemoveTrailingSpaces)
 #: dialogs/opensaveconfigwidget.ui:186
 #, fuzzy, kde-format
-#| msgid "Close Document"
 msgid "In Entire Document"
 msgstr "രേഖ അടയ്ക്കുക"
 
@@ -2032,8 +1986,6 @@ msgstr ""
 #: dialogs/textareaappearanceconfigwidget.ui:156
 #: syntax/katehighlightmenu.cpp:56
 #, fuzzy, kde-format
-#| msgctxt "Syntax highlighting"
-#| msgid "None"
 msgid "None"
 msgstr "ശൂന്യം"
 
@@ -2064,7 +2016,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: dialogs/textareaappearanceconfigwidget.ui:209
 #, fuzzy, kde-format
-#| msgid "Replace"
 msgid "Whitepaces"
 msgstr "മാറ്റുക"
 
@@ -2142,7 +2093,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkFoldFirstLine)
 #: dialogs/textareaappearanceconfigwidget.ui:281
 #, fuzzy, kde-format
-#| msgid "End of line"
 msgid "Fold first line"
 msgstr "വരിയുടെ അവസാനം"
 
@@ -2167,13 +2117,11 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkShowLineCount)
 #: dialogs/textareaappearanceconfigwidget.ui:301
 #, fuzzy, kde-format
-#| msgid "Show &Line Numbers"
 msgid "Show line count"
 msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
 #: document/katebuffer.cpp:179
 #, fuzzy, kde-format
-#| msgid "New Filetype"
 msgctxt "short translation, user created new file"
 msgid "New file"
 msgstr "പുതിയ തരത്തിലുള്ള ഫയല്‍"
@@ -2185,7 +2133,6 @@ msgstr ""
 
 #: document/katedocument.cpp:263
 #, fuzzy, kde-format
-#| msgid "Close Document"
 msgid "Auto Reload Document"
 msgstr "രേഖ അടയ്ക്കുക"
 
@@ -2366,7 +2313,6 @@ msgstr "സൂക്ഷിക്കുവാന്‍ സാധ്യമായ�
 
 #: document/katedocument.cpp:4515
 #, fuzzy, kde-format
-#| msgid "Save File"
 msgid "Save Copy of File"
 msgstr "ഫയല്‍ സൂക്ഷിക്കുക"
 
@@ -2446,7 +2392,6 @@ msgstr ""
 
 #: inputmode/katenormalinputmodefactory.cpp:52
 #, fuzzy, kde-format
-#| msgid "Normal text:"
 msgid "Normal Mode"
 msgstr "സാധാരണ വാചകം:"
 
@@ -2487,7 +2432,6 @@ msgstr ""
 
 #: inputmode/kateviinputmode.cpp:173
 #, fuzzy, kde-format
-#| msgid "E&ncoding"
 msgid "recording"
 msgstr "എ&ന്‍കോഡിങു്"
 
@@ -2532,7 +2476,6 @@ msgstr "Mime തരത്തിലുള്ളവ തിരഞ്ഞെടുക
 
 #: mode/katemodeconfigpage.cpp:302
 #, fuzzy, kde-format
-#| msgid "New Filetype"
 msgid "Modes && Filetypes"
 msgstr "പുതിയ തരത്തിലുള്ള ഫയല്‍"
 
@@ -2713,7 +2656,6 @@ msgstr ""
 
 #: printing/printconfigwidgets.cpp:384
 #, fuzzy, kde-format
-#| msgid "Name"
 msgid "File Name"
 msgstr "പേരു്"
 
@@ -2825,7 +2767,6 @@ msgstr "വാചകം"
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: schema/howtoimportschema.ui:17
 #, fuzzy, kde-format
-#| msgid "What do you want to do?"
 msgid "How do you want to import the schema?"
 msgstr "നിങ്ങള്‍ക്കു് എന്താണു് ചെയ്യേണ്ടതു്? "
 
@@ -2844,7 +2785,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QRadioButton, radioAsNew)
 #: schema/howtoimportschema.ui:43
 #, fuzzy, kde-format
-#| msgid "Name for New Schema"
 msgid "Import as new schema:"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
@@ -2855,13 +2795,11 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:59
 #, fuzzy, kde-format
-#| msgid "Name for New Schema"
 msgid "Use KDE Color Scheme"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
 #: schema/kateschemaconfig.cpp:86
 #, fuzzy, kde-format
-#| msgid "&Background Color..."
 msgid "Editor Background Colors"
 msgstr "&പശ്ചാത്തലത്തിലുള്ള നിറം..."
 
@@ -2877,7 +2815,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:94
 #, fuzzy, kde-format
-#| msgid "Selected text:"
 msgid "Selected Text"
 msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
@@ -2891,7 +2828,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:100
 #, fuzzy, kde-format
-#| msgid "Delete Line"
 msgid "Current Line"
 msgstr "വരി നീക്കം ചെയ്യുക"
 
@@ -2914,7 +2850,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:112
 #, fuzzy, kde-format
-#| msgid "Replace &All"
 msgid "Replace Highlight"
 msgstr "&എല്ലാം മാറ്റുക"
 
@@ -2925,14 +2860,11 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:121
 #, fuzzy, kde-format
-#| msgid "Borders"
 msgid "Icon Border"
 msgstr "അതിരുകള്‍"
 
 #: schema/kateschemaconfig.cpp:123
 #, fuzzy, kde-format
-#| msgctxt "@title:column Text style"
-#| msgid "Background"
 msgid "Background Area"
 msgstr "പശ്ചാത്തലം"
 
@@ -2943,7 +2875,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:129
 #, fuzzy, kde-format
-#| msgid "Show &Line Numbers"
 msgid "Line Numbers"
 msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
@@ -2954,7 +2885,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:135
 #, fuzzy, kde-format
-#| msgid "Delete Line"
 msgid "Current Line Number"
 msgstr "വരി നീക്കം ചെയ്യുക"
 
@@ -2998,13 +2928,11 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:155
 #, fuzzy, kde-format
-#| msgid "Select the color scheme to use for the print."
 msgid "<p>Sets the color of the code folding bar.</p>"
 msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായി നിറങ്ങള്‍ തിരഞ്ഞെടുക്കുക."
 
 #: schema/kateschemaconfig.cpp:159
 #, fuzzy, kde-format
-#| msgid "Move to Next Line"
 msgid "Modified Lines"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
@@ -3016,7 +2944,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:165
 #, fuzzy, kde-format
-#| msgid "Save File"
 msgid "Saved Lines"
 msgstr "ഫയല്‍ സൂക്ഷിക്കുക"
 
@@ -3058,7 +2985,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:190
 #, fuzzy, kde-format
-#| msgid "Select the color scheme to use for the print."
 msgid "<p>Sets the color of the vertical indentation lines.</p>"
 msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായി നിറങ്ങള്‍ തിരഞ്ഞെടുക്കുക."
 
@@ -3076,7 +3002,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:203
 #, fuzzy, kde-format
-#| msgid "Colors"
 msgid "Marker Colors"
 msgstr "നിറങ്ങള്‍"
 
@@ -3129,8 +3054,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:230
 #, fuzzy, kde-format
-#| msgctxt "@title:column Text style"
-#| msgid "Background"
 msgid "Background"
 msgstr "പശ്ചാത്തലം"
 
@@ -3173,14 +3096,12 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:523
 #, fuzzy, kde-format
-#| msgid " characters"
 msgctxt "@item:intable"
 msgid "Strings & Characters"
 msgstr " അക്ഷരങ്ങള്‍"
 
 #: schema/kateschemaconfig.cpp:532
 #, fuzzy, kde-format
-#| msgid "Close Document"
 msgctxt "@item:intable"
 msgid "Comments & Documentation"
 msgstr "രേഖ അടയ്ക്കുക"
@@ -3198,7 +3119,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:624 schema/kateschemaconfig.cpp:927
 #, fuzzy, kde-format
-#| msgid "E&xport as HTML..."
 msgid "Export..."
 msgstr "HTML ആയി &ലഭ്യമാക്കുക..."
 
@@ -3232,7 +3152,6 @@ msgstr ""
 #: schema/kateschemaconfig.cpp:795 schema/kateschemaconfig.cpp:865
 #: schema/kateschemaconfig.cpp:984 schema/kateschemaconfig.cpp:1115
 #, fuzzy, kde-format
-#| msgid "Name for New Schema"
 msgid "Kate color schema"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
@@ -3243,7 +3162,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:810 schema/kateschemaconfig.cpp:1126
 #, fuzzy, kde-format
-#| msgid "File Format"
 msgid "Fileformat error"
 msgstr "ഫയലിന്റെ രീതി"
 
@@ -3304,7 +3222,6 @@ msgstr "%1-നു് &സ്വതവേയുള്ള സ്കീമാ:"
 
 #: schema/kateschemaconfig.cpp:982
 #, fuzzy, kde-format
-#| msgid "Name for New Schema"
 msgid "Exporting color schema: %1"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
@@ -3315,7 +3232,6 @@ msgstr ""
 
 #: schema/kateschemaconfig.cpp:1113
 #, fuzzy, kde-format
-#| msgid "Name for New Schema"
 msgid "Importing Color Schema"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
@@ -3448,7 +3364,6 @@ msgstr ""
 
 #: schema/katestyletreewidget.cpp:275
 #, fuzzy, kde-format
-#| msgid "&Selected Color..."
 msgid "Unset Selected Color"
 msgstr "&തിരഞ്ഞെടുത്ത നിറം..."
 
@@ -3469,8 +3384,6 @@ msgstr ""
 
 #: schema/katestyletreewidget.cpp:403
 #, fuzzy, kde-format
-#| msgctxt "Syntax highlighting"
-#| msgid "None"
 msgctxt "No text or background color set"
 msgid "None set"
 msgstr "ശൂന്യം"
@@ -3516,7 +3429,6 @@ msgstr ""
 
 #: script/data/commands/emmet.js:18
 #, fuzzy, kde-format
-#| msgid "Move Word Right"
 msgctxt "Script command name"
 msgid "Move cursor to matching tag"
 msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
@@ -3535,22 +3447,18 @@ msgstr ""
 
 #: script/data/commands/emmet.js:30
 #, fuzzy, kde-format
-#| msgctxt "@item:intable Text context"
-#| msgid "Comment"
 msgctxt "Script command name"
 msgid "Toggle comment"
 msgstr "അഭിപ്രായം"
 
 #: script/data/commands/emmet.js:34
 #, fuzzy, kde-format
-#| msgid "Move to Previous Line"
 msgctxt "Script command name"
 msgid "Go to next edit point"
 msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #: script/data/commands/emmet.js:38
 #, fuzzy, kde-format
-#| msgid "Move to Previous Line"
 msgctxt "Script command name"
 msgid "Go to previous edit point"
 msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
@@ -3563,14 +3471,12 @@ msgstr ""
 
 #: script/data/commands/emmet.js:46
 #, fuzzy, kde-format
-#| msgid "Move to Previous Line"
 msgctxt "Script command name"
 msgid "Select previous edit point"
 msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #: script/data/commands/emmet.js:50
 #, fuzzy, kde-format
-#| msgid "Delete the current file type."
 msgctxt "Script command name"
 msgid "Delete tag under cursor"
 msgstr "നിലവിലുള്ള ഫയല്‍തരം വെട്ടിമാറ്റുക."
@@ -3681,7 +3587,6 @@ msgstr ""
 
 #: script/data/commands/emmet.js:106
 #, fuzzy, kde-format
-#| msgid "Delete the current file type."
 msgid "Deletes tag under cursor"
 msgstr "നിലവിലുള്ള ഫയല്‍തരം വെട്ടിമാറ്റുക."
 
@@ -3727,7 +3632,6 @@ msgstr ""
 
 #: script/data/commands/jumpMatchingIndent.js:9
 #, fuzzy, kde-format
-#| msgid "Move Word Right"
 msgctxt "Script command name"
 msgid "Move cursor to previous matching indent"
 msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
@@ -3735,28 +3639,23 @@ msgstr "വാക്കു് വലത്തേക്കു് നീക്ക�
 #: script/data/commands/jumpMatchingIndent.js:11
 #: script/data/commands/jumpMatchingIndent.js:16
 #, fuzzy, kde-format
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgctxt "Script command category"
 msgid "Navigation"
 msgstr "ക്രമികരണം"
 
 #: script/data/commands/jumpMatchingIndent.js:14
 #, fuzzy, kde-format
-#| msgid "Move Word Right"
 msgctxt "Script command name"
 msgid "Move cursor to next matching indent"
 msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #: script/data/commands/jumpMatchingIndent.js:44
 #, fuzzy, kde-format
-#| msgid "Move Word Right"
 msgid "Move cursor to previous matching indent"
 msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #: script/data/commands/jumpMatchingIndent.js:47
 #, fuzzy, kde-format
-#| msgid "Move Word Right"
 msgid "Move cursor to next matching indent"
 msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
@@ -3768,7 +3667,6 @@ msgstr ""
 
 #: script/data/commands/quickcoding.js:11
 #, fuzzy, kde-format
-#| msgid "E&ncoding"
 msgctxt "Script command category"
 msgid "Quick Coding"
 msgstr "എ&ന്‍കോഡിങു്"
@@ -3780,7 +3678,6 @@ msgstr ""
 
 #: script/data/commands/utils.js:9
 #, fuzzy, kde-format
-#| msgid "Selected text:"
 msgctxt "Script command name"
 msgid "Sort Selected Text"
 msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
@@ -3790,72 +3687,58 @@ msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 #: script/data/commands/utils.js:30 script/data/commands/utils.js:34
 #: script/data/commands/utils.js:38
 #, fuzzy, kde-format
-#| msgid "Editing"
 msgctxt "Script command category"
 msgid "Editing"
 msgstr "മാറ്റം വരുത്തുക"
 
 #: script/data/commands/utils.js:13
 #, fuzzy, kde-format
-#| msgid "Move to Next Line"
 msgctxt "Script command name"
 msgid "Move Lines Down"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #: script/data/commands/utils.js:18
 #, fuzzy, kde-format
-#| msgid "Move to Next Line"
 msgctxt "Script command name"
 msgid "Move Lines Up"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #: script/data/commands/utils.js:23
 #, fuzzy, kde-format
-#| msgctxt "@title:column Text style"
-#| msgid "Selected"
 msgctxt "Script command name"
 msgid "Duplicate Selected Lines Down"
 msgstr "തിരഞ്ഞെടുത്തവ"
 
 #: script/data/commands/utils.js:28
 #, fuzzy, kde-format
-#| msgctxt "@title:column Text style"
-#| msgid "Selected"
 msgctxt "Script command name"
 msgid "Duplicate Selected Lines Up"
 msgstr "തിരഞ്ഞെടുത്തവ"
 
 #: script/data/commands/utils.js:33
 #, fuzzy, kde-format
-#| msgid "Selected text:"
 msgctxt "Script command name"
 msgid "URI-encode Selected Text"
 msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
 #: script/data/commands/utils.js:37
 #, fuzzy, kde-format
-#| msgid "Selected text:"
 msgctxt "Script command name"
 msgid "URI-decode Selected Text"
 msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
 #: script/data/commands/utils.js:363
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgid "Sort the selected text or whole document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: script/data/commands/utils.js:365
 #, fuzzy, kde-format
-#| msgctxt "@title:column Text style"
-#| msgid "Selected"
 msgid "Move selected lines down."
 msgstr "തിരഞ്ഞെടുത്തവ"
 
 #: script/data/commands/utils.js:367
 #, fuzzy, kde-format
-#| msgctxt "@title:column Text style"
-#| msgid "Selected"
 msgid "Move selected lines up."
 msgstr "തിരഞ്ഞെടുത്തവ"
 
@@ -3955,16 +3838,12 @@ msgstr ""
 
 #: script/data/indentation/ada.js:2
 #, fuzzy, kde-format
-#| msgctxt "Language"
-#| msgid "Ada"
 msgctxt "Autoindent mode"
 msgid "ada"
 msgstr "അഡാ"
 
 #: script/data/indentation/cmake.js:2
 #, fuzzy, kde-format
-#| msgctxt "Language"
-#| msgid "CMake"
 msgctxt "Autoindent mode"
 msgid "CMake"
 msgstr "CMake"
@@ -3983,15 +3862,12 @@ msgstr ""
 
 #: script/data/indentation/haskell.js:2
 #, fuzzy, kde-format
-#| msgctxt "Language"
-#| msgid "Haskell"
 msgctxt "Autoindent mode"
 msgid "Haskell"
 msgstr "ഹാസ്കല്‍"
 
 #: script/data/indentation/latex.js:2
 #, fuzzy, kde-format
-#| msgid "Latest"
 msgctxt "Autoindent mode"
 msgid "Latex"
 msgstr "ഏറ്റവും പുതിയതു്"
@@ -4010,8 +3886,6 @@ msgstr ""
 
 #: script/data/indentation/lua.js:2
 #, fuzzy, kde-format
-#| msgctxt "Language"
-#| msgid "Lua"
 msgctxt "Autoindent mode"
 msgid "Lua"
 msgstr "Lua"
@@ -4036,7 +3910,6 @@ msgstr ""
 
 #: script/data/indentation/replicode.js:2
 #, fuzzy, kde-format
-#| msgid "Replace"
 msgctxt "Autoindent mode"
 msgid "Replicode"
 msgstr "മാറ്റുക"
@@ -4060,7 +3933,6 @@ msgstr ""
 
 #: script/katecommandlinescript.cpp:68
 #, fuzzy, kde-format
-#| msgid "Error loading script %1"
 msgid "Error calling %1"
 msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
@@ -4077,7 +3949,6 @@ msgstr ""
 
 #: script/katecommandlinescript.cpp:135
 #, fuzzy, kde-format
-#| msgid "Error loading script %1"
 msgid "Error calling 'help %1'"
 msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
@@ -4088,7 +3959,6 @@ msgstr ""
 
 #: script/katescript.cpp:224
 #, fuzzy, kde-format
-#| msgid "Error loading script %1"
 msgid "Error loading script %1\n"
 msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
@@ -4115,7 +3985,6 @@ msgstr "ചേര്‍ക്കുക..."
 
 #: search/katesearchbar.cpp:291
 #, fuzzy, kde-format
-#| msgid "Replace"
 msgctxt "short translation"
 msgid "1 replacement made"
 msgid_plural "%1 replacements made"
@@ -4124,7 +3993,6 @@ msgstr[1] "മാറ്റുക"
 
 #: search/katesearchbar.cpp:293
 #, fuzzy, kde-format
-#| msgid "Not found"
 msgctxt "short translation"
 msgid "1 match found"
 msgid_plural "%1 matches found"
@@ -4168,7 +4036,6 @@ msgstr ""
 
 #: search/katesearchbar.cpp:950
 #, fuzzy, kde-format
-#| msgid "Replace &All"
 msgid "SearchHighLight"
 msgstr "&എല്ലാം മാറ്റുക"
 
@@ -4350,7 +4217,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: search/searchbarincremental.ui:50
 #, fuzzy, kde-format
-#| msgid "Find:"
 msgid "F&ind:"
 msgstr "കണ്ടുപിടിക്കുക:"
 
@@ -4395,7 +4261,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: search/searchbarpower.ui:63
 #, fuzzy, kde-format
-#| msgid "Replace:"
 msgid "Rep&lace:"
 msgstr "മാറ്റുക: "
 
@@ -4451,7 +4316,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_replaceBtn)
 #: search/searchbarpower.ui:214 spellcheck/spellcheckbar.ui:130
 #, fuzzy, kde-format
-#| msgid "Replace"
 msgid "&Replace"
 msgstr "മാറ്റുക"
 
@@ -4535,14 +4399,12 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #: spellcheck/spellcheckbar.ui:33
 #, fuzzy, kde-format
-#| msgid "Unknown command '%1'"
 msgid "Unknown word:"
 msgstr "അപരിചിതമായ കമാന്‍ഡു് '%1'"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, m_unknownWord)
 #: spellcheck/spellcheckbar.ui:40
 #, fuzzy, kde-format
-#| msgid "Unknown command '%1'"
 msgid "Unknown word"
 msgstr "അപരിചിതമായ കമാന്‍ഡു് '%1'"
 
@@ -4569,7 +4431,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_addBtn)
 #: spellcheck/spellcheckbar.ui:75
 #, fuzzy, kde-format
-#| msgid "&Section:"
 msgid "<< Add to Dictionary"
 msgstr "&ഭാഗം:"
 
@@ -4589,7 +4450,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel4)
 #: spellcheck/spellcheckbar.ui:92
 #, fuzzy, kde-format
-#| msgid "Replace:"
 msgid "Replace with:"
 msgstr "മാറ്റുക: "
 
@@ -4634,8 +4494,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel5)
 #: spellcheck/spellcheckbar.ui:159
 #, fuzzy, kde-format
-#| msgctxt "Language"
-#| msgid "E Language"
 msgid "&Language:"
 msgstr "ഇ ലാഗ്വേജ്"
 
@@ -4678,14 +4536,12 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_replaceAllBtn)
 #: spellcheck/spellcheckbar.ui:212
 #, fuzzy, kde-format
-#| msgid "Replace &All"
 msgid "R&eplace All"
 msgstr "&എല്ലാം മാറ്റുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, m_skipAllBtn)
 #: spellcheck/spellcheckbar.ui:225
 #, fuzzy, kde-format
-#| msgid "&Ignore"
 msgid "I&gnore All"
 msgstr "&വേണ്ടെന്നു് വയ്ക്കുക"
 
@@ -4701,13 +4557,11 @@ msgstr ""
 
 #: spellcheck/spellingmenu.cpp:102
 #, fuzzy, kde-format
-#| msgid "&Ignore"
 msgid "Ignore Word"
 msgstr "&വേണ്ടെന്നു് വയ്ക്കുക"
 
 #: spellcheck/spellingmenu.cpp:105
 #, fuzzy, kde-format
-#| msgid "&Section:"
 msgid "Add to Dictionary"
 msgstr "&ഭാഗം:"
 
@@ -4718,19 +4572,16 @@ msgstr ""
 
 #: swapfile/kateswapfile.cpp:645
 #, fuzzy, kde-format
-#| msgid "&Ignore Changes"
 msgid "View Changes"
 msgstr "മാറ്റങ്ങള്‍ &അവഗണിക്കുക"
 
 #: swapfile/kateswapfile.cpp:646
 #, fuzzy, kde-format
-#| msgid "Remove entry"
 msgid "Recover Data"
 msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #: swapfile/kateswapfile.cpp:647
 #, fuzzy, kde-format
-#| msgid "Disabled"
 msgid "Discard"
 msgstr "പ്രവര്‍ത്തന രഹിതം"
 
@@ -4754,7 +4605,6 @@ msgstr "ഫംഗ്ഷന്‍"
 
 #: syntax/katesyntaxmanager.cpp:136
 #, fuzzy, kde-format
-#| msgid "Variable"
 msgctxt "@item:intable Text context"
 msgid "Variable"
 msgstr "വേരിയബിള്‍"
@@ -4779,7 +4629,6 @@ msgstr ""
 
 #: syntax/katesyntaxmanager.cpp:140
 #, fuzzy, kde-format
-#| msgid "Extensions"
 msgctxt "@item:intable Text context"
 msgid "Extension"
 msgstr "എക്സ്റ്റന്‍ഷനുകള്‍"
@@ -4804,7 +4653,6 @@ msgstr ""
 
 #: syntax/katesyntaxmanager.cpp:145
 #, fuzzy, kde-format
-#| msgid "Select Character Left"
 msgctxt "@item:intable Text context"
 msgid "Special Character"
 msgstr "ഇടത്തുള്ള അക്ഷരം തിരഞ്ഞെടുക്കുക"
@@ -4823,8 +4671,6 @@ msgstr ""
 
 #: syntax/katesyntaxmanager.cpp:148
 #, fuzzy, kde-format
-#| msgctxt "@item:intable Text context"
-#| msgid "String"
 msgctxt "@item:intable Text context"
 msgid "Special String"
 msgstr "സ്ട്രിങ്"
@@ -4861,7 +4707,6 @@ msgstr ""
 
 #: syntax/katesyntaxmanager.cpp:155
 #, fuzzy, kde-format
-#| msgid "Constant"
 msgctxt "@item:intable Text context"
 msgid "Constant"
 msgstr "കോണ്‍സ്റ്റന്റ്"
@@ -4874,7 +4719,6 @@ msgstr "അഭിപ്രായം"
 
 #: syntax/katesyntaxmanager.cpp:158
 #, fuzzy, kde-format
-#| msgid "Close Document"
 msgctxt "@item:intable Text context"
 msgid "Documentation"
 msgstr "രേഖ അടയ്ക്കുക"
@@ -4887,7 +4731,6 @@ msgstr ""
 
 #: syntax/katesyntaxmanager.cpp:160
 #, fuzzy, kde-format
-#| msgid "Variable"
 msgctxt "@item:intable Text context"
 msgid "Comment Variable"
 msgstr "വേരിയബിള്‍"
@@ -4900,15 +4743,12 @@ msgstr ""
 
 #: syntax/katesyntaxmanager.cpp:163
 #, fuzzy, kde-format
-#| msgctxt "Language Section"
-#| msgid "Configuration"
 msgctxt "@item:intable Text context"
 msgid "Information"
 msgstr "ക്രമികരണം"
 
 #: syntax/katesyntaxmanager.cpp:164
 #, fuzzy, kde-format
-#| msgid "Warning"
 msgctxt "@item:intable Text context"
 msgid "Warning"
 msgstr "മുന്നറിയിപ്പു്"
@@ -5049,7 +4889,6 @@ msgstr ""
 
 #: utils/katecmds.cpp:95
 #, fuzzy, kde-format
-#| msgid "Delete the current file type."
 msgid "Deletes the current line."
 msgstr "നിലവിലുള്ള ഫയല്‍തരം വെട്ടിമാറ്റുക."
 
@@ -5180,7 +5019,6 @@ msgstr ""
 
 #: utils/katecmds.cpp:186
 #, fuzzy, kde-format
-#| msgid "Use this command to print the current document"
 msgid "<p>Open the Print dialog to print the current document.</p>"
 msgstr "നിലവിലുള്ള രേഖ പ്രിന്റ് ചെയ്യുന്നതിനായി ഈ കമാന്‍ഡു് ഉപയോഗിക്കുക"
 
@@ -5275,37 +5113,31 @@ msgstr ""
 
 #: utils/kateglobal.cpp:74
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgid "File base name without path and suffix of the current document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: utils/kateglobal.cpp:78
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgid "File extension of the current document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: utils/kateglobal.cpp:82
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgid "File name without path of the current document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: utils/kateglobal.cpp:86
 #, fuzzy, kde-format
-#| msgid "Reload the current document from disk."
 msgid "Full path of the current document including the file name."
 msgstr "ഡിസ്കില്‍ നിന്നും നിലവിലുള്ള രേഖ വീണ്ടും ലഭ്യമാക്കുക."
 
 #: utils/kateglobal.cpp:90
 #, fuzzy, kde-format
-#| msgid "Print the current document."
 msgid "Contents of the current document."
 msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ചെയ്യുക."
 
 #: utils/kateglobal.cpp:93
 #, fuzzy, kde-format
-#| msgid "Reload the current document from disk."
 msgid "Full path of the current document excluding the file name."
 msgstr "ഡിസ്കില്‍ നിന്നും നിലവിലുള്ള രേഖ വീണ്ടും ലഭ്യമാക്കുക."
 
@@ -5348,37 +5180,31 @@ msgstr ""
 
 #: utils/kateglobal.cpp:117
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgid "Text selection of the current document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: utils/kateglobal.cpp:120
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgid "Start line of selected text of the current document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: utils/kateglobal.cpp:123
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgid "Start column of selected text of the current document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: utils/kateglobal.cpp:126
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgid "End line of selected text of the current document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: utils/kateglobal.cpp:129
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgid "End column of selected text of the current document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: utils/kateglobal.cpp:132
 #, fuzzy, kde-format
-#| msgid "Use this to close the current document"
 msgid "Number of rows of the current document."
 msgstr "നിലവിലുള്ള രേഖ അടയ്ക്കുന്നതിനായി ഇതു് ഉപയോഗിക്കുക"
 
@@ -5439,7 +5265,6 @@ msgstr ""
 
 #: utils/kateglobal.cpp:190
 #, fuzzy, kde-format
-#| msgid "(c) 2000-2005 The Kate Authors"
 msgid "(c) 2000-2019 The Kate Authors"
 msgstr "(c) 2000-2005 കെയിറ്റ് രചിതാക്കള്‍"
 
@@ -5651,13 +5476,11 @@ msgstr ""
 
 #: utils/kateglobal.cpp:241
 #, fuzzy, kde-format
-#| msgid "Jochen Wilhemly"
 msgid "Jochen Wilhelmy"
 msgstr "ജോച്ചന്‍ വില്‍ഹെംലി"
 
 #: utils/kateglobal.cpp:241
 #, fuzzy, kde-format
-#| msgid "KWrite Author"
 msgid "Original KWrite Author"
 msgstr "KWrite രചയിതാവു്"
 
@@ -5668,8 +5491,6 @@ msgstr ""
 
 #: utils/kateglobal.cpp:242
 #, fuzzy, kde-format
-#| msgctxt "Language"
-#| msgid "Quake Script"
 msgid "QA and Scripting"
 msgstr "ക്വേക്ക് സ്ക്രിപ്റ്റ്"
 
@@ -5848,7 +5669,6 @@ msgstr ""
 
 #: variableeditor/variableeditor.cpp:188
 #, fuzzy, kde-format
-#| msgid "Struct"
 msgid "true"
 msgstr "സ്ട്രക്ട്"
 
@@ -5865,7 +5685,6 @@ msgstr ""
 
 #: variableeditor/variableeditor.cpp:326
 #, fuzzy, kde-format
-#| msgid "Move to Next Line"
 msgctxt "value for variable remove-trailing-spaces"
 msgid "modified"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
@@ -5883,7 +5702,6 @@ msgstr ""
 
 #: variableeditor/variablelineedit.cpp:135
 #, fuzzy, kde-format
-#| msgid "Unable to open %1"
 msgctxt "short translation please"
 msgid "Enable automatic insertion of brackets."
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
@@ -5920,7 +5738,6 @@ msgstr ""
 
 #: variableeditor/variablelineedit.cpp:169
 #, fuzzy, kde-format
-#| msgid "Select the color scheme to use for the print."
 msgctxt "short translation please"
 msgid "Set the color for the bracket highlight."
 msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായി നിറങ്ങള്‍ തിരഞ്ഞെടുക്കുക."
@@ -5963,14 +5780,12 @@ msgstr ""
 
 #: variableeditor/variablelineedit.cpp:206
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgctxt "short translation please"
 msgid "Set the point size of the document font."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
 
 #: variableeditor/variablelineedit.cpp:211
 #, fuzzy, kde-format
-#| msgid "Select the entire text of the current document."
 msgctxt "short translation please"
 msgid "Set the font of the document."
 msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
@@ -6019,7 +5834,6 @@ msgstr ""
 
 #: variableeditor/variablelineedit.cpp:261
 #, fuzzy, kde-format
-#| msgid "Show &Line Numbers"
 msgctxt "short translation please"
 msgid "Show line numbers."
 msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
@@ -6074,7 +5888,6 @@ msgstr ""
 
 #: variableeditor/variablelineedit.cpp:310
 #, fuzzy, kde-format
-#| msgid "Name for New Schema"
 msgctxt "short translation please"
 msgid "Set the color scheme."
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
@@ -6093,7 +5906,6 @@ msgstr ""
 
 #: variableeditor/variablelineedit.cpp:325
 #, fuzzy, kde-format
-#| msgid "Unable to open %1"
 msgctxt "short translation please"
 msgid "Enable smart home navigation."
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
@@ -6146,13 +5958,11 @@ msgstr ""
 
 #: view/katestatusbar.cpp:122
 #, fuzzy, kde-format
-#| msgid "Choose Editor..."
 msgid "Change dictionary"
 msgstr "എഡിറ്റര്‍ തിരഞ്ഞെടുക്കുക..."
 
 #: view/katestatusbar.cpp:150 view/katestatusbar.cpp:499
 #, fuzzy, kde-format
-#| msgid "W&idth:"
 msgid "Tab Width"
 msgstr "വീ&തി:"
 
@@ -6178,19 +5988,16 @@ msgstr ""
 
 #: view/katestatusbar.cpp:174
 #, fuzzy, kde-format
-#| msgid "Replace"
 msgid "Spaces"
 msgstr "മാറ്റുക"
 
 #: view/katestatusbar.cpp:188
 #, fuzzy, kde-format
-#| msgid "E&ncoding"
 msgid "Encoding"
 msgstr "എ&ന്‍കോഡിങു്"
 
 #: view/katestatusbar.cpp:194
 #, fuzzy, kde-format
-#| msgid "Move to Next Line"
 msgid "Mode"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
@@ -6203,25 +6010,21 @@ msgstr ""
 
 #: view/katestatusbar.cpp:205
 #, fuzzy, kde-format
-#| msgid "Replace &All"
 msgid "Syntax highlighting"
 msgstr "&എല്ലാം മാറ്റുക"
 
 #: view/katestatusbar.cpp:295
 #, fuzzy, kde-format
-#| msgid " BLOCK "
 msgid "[BLOCK] %1"
 msgstr "ബ്ലോക്ക്"
 
 #: view/katestatusbar.cpp:307
 #, fuzzy, kde-format
-#| msgid " Line: %1 Col: %2 "
 msgid "Line %1 of %2, Column %3"
 msgstr " വരി: %1 നിര: %2 "
 
 #: view/katestatusbar.cpp:312
 #, fuzzy, kde-format
-#| msgid " Line: %1 Col: %2 "
 msgid "Line %1, Column %2"
 msgstr " വരി: %1 നിര: %2 "
 
@@ -6237,14 +6040,12 @@ msgstr ""
 
 #: view/katestatusbar.cpp:398
 #, fuzzy, kde-format
-#| msgid "The file '%1' was modified by another program."
 msgid ""
 "Meaning of current icon: Document was modified or deleted by another program"
 msgstr "ഫയല്‍ '%1' മറ്റൊരു പ്രോഗ്രാം ഉപയോഗിച്ചു് മാറ്റം വരുത്തിയിരിക്കുന്നു."
 
 #: view/katestatusbar.cpp:410
 #, fuzzy, kde-format
-#| msgid "The file '%1' was modified by another program."
 msgid "Meaning of current icon: Document is in read-only mode"
 msgstr "ഫയല്‍ '%1' മറ്റൊരു പ്രോഗ്രാം ഉപയോഗിച്ചു് മാറ്റം വരുത്തിയിരിക്കുന്നു."
 
@@ -6270,15 +6071,11 @@ msgstr ""
 
 #: view/katestatusbar.cpp:465 view/katestatusbar.cpp:486
 #, fuzzy, kde-format
-#| msgctxt "Language Section"
-#| msgid "Other"
 msgid "Other..."
 msgstr "മറ്റുള്ളവ "
 
 #: view/katestatusbar.cpp:488
 #, fuzzy, kde-format
-#| msgctxt "Language Section"
-#| msgid "Other"
 msgid "Other (%1)"
 msgid_plural "Other (%1)"
 msgstr[0] "മറ്റുള്ളവ "
@@ -6340,7 +6137,6 @@ msgstr ""
 
 #: view/kateview.cpp:500
 #, fuzzy, kde-format
-#| msgid "Scripts"
 msgid "&Scripts"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
@@ -6397,13 +6193,11 @@ msgstr ""
 
 #: view/kateview.cpp:529
 #, fuzzy, kde-format
-#| msgid "Move to Previous Line"
 msgid "Go to previous editing line"
 msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #: view/kateview.cpp:534
 #, fuzzy, kde-format
-#| msgid "Move to Previous Line"
 msgid "Go to next editing line"
 msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
@@ -6422,8 +6216,6 @@ msgstr ""
 
 #: view/kateview.cpp:546
 #, fuzzy, kde-format
-#| msgctxt "@item:intable Text context"
-#| msgid "Comment"
 msgid "Toggle Comment"
 msgstr "അഭിപ്രായം"
 
@@ -6497,7 +6289,6 @@ msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ച
 
 #: view/kateview.cpp:602
 #, fuzzy, kde-format
-#| msgid "Print the current document."
 msgid "Show print preview of current document"
 msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ചെയ്യുക."
 
@@ -6523,13 +6314,11 @@ msgstr ""
 
 #: view/kateview.cpp:620
 #, fuzzy, kde-format
-#| msgid "&Save File As..."
 msgid "Save &Copy As..."
 msgstr "ഫയലിന്റെ പേരു് മാറ്റി &സൂക്ഷിക്കുക..."
 
 #: view/kateview.cpp:621
 #, fuzzy, kde-format
-#| msgid "Reload the current document from disk."
 msgid "Save a copy of the current document to disk."
 msgstr "ഡിസ്കില്‍ നിന്നും നിലവിലുള്ള രേഖ വീണ്ടും ലഭ്യമാക്കുക."
 
@@ -6542,19 +6331,16 @@ msgstr ""
 
 #: view/kateview.cpp:628
 #, fuzzy, kde-format
-#| msgid "Move to Previous Line"
 msgid "Move to Previous Modified Line"
 msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീങ്ങുക"
 
 #: view/kateview.cpp:629
 #, fuzzy, kde-format
-#| msgid "Move Word Right"
 msgid "Move upwards to the previous modified line."
 msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #: view/kateview.cpp:633
 #, fuzzy, kde-format
-#| msgid "Move to Next Line"
 msgid "Move to Next Modified Line"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
@@ -6831,21 +6617,18 @@ msgstr ""
 
 #: view/kateview.cpp:800
 #, fuzzy, kde-format
-#| msgid "UNIX"
 msgctxt "@item:inmenu End of Line"
 msgid "&UNIX"
 msgstr "യൂണിക്സ്"
 
 #: view/kateview.cpp:801
 #, fuzzy, kde-format
-#| msgid "DOS/Windows"
 msgctxt "@item:inmenu End of Line"
 msgid "&Windows/DOS"
 msgstr "ഡോസ്/വിന്‍ഡോസ്"
 
 #: view/kateview.cpp:802
 #, fuzzy, kde-format
-#| msgid "Macintosh"
 msgctxt "@item:inmenu End of Line"
 msgid "&Macintosh"
 msgstr "മാക്കിന്റോഷ്"
@@ -6921,7 +6704,6 @@ msgstr ""
 
 #: view/kateview.cpp:853
 #, fuzzy, kde-format
-#| msgid "Choose Editor..."
 msgid "Change Dictionary..."
 msgstr "എഡിറ്റര്‍ തിരഞ്ഞെടുക്കുക..."
 
@@ -6955,7 +6737,6 @@ msgstr ""
 
 #: view/kateview.cpp:871
 #, fuzzy, kde-format
-#| msgid "Export File as HTML"
 msgid "E&xport as HTML..."
 msgstr "ഫയല്‍ HTML ആയി ലഭ്യമാക്കുക"
 
@@ -7058,13 +6839,11 @@ msgstr "മുമ്പുള്ള വരിയിലേക്കു് നീ�
 
 #: view/kateview.cpp:1018
 #, fuzzy, kde-format
-#| msgid "Move Word Right"
 msgid "Move Cursor Right"
 msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #: view/kateview.cpp:1024
 #, fuzzy, kde-format
-#| msgid "Move Word Left"
 msgid "Move Cursor Left"
 msgstr "വാക്കു് ഇടത്തേക്കു് നീക്കുക"
 
@@ -7221,15 +7000,11 @@ msgstr ""
 
 #: view/kateview.cpp:1214
 #, fuzzy, kde-format
-#| msgctxt "@item:intable Text context"
-#| msgid "Comment"
 msgid "Toggle Current Node"
 msgstr "അഭിപ്രായം"
 
 #: view/kateview.cpp:1218
 #, fuzzy, kde-format
-#| msgctxt "@item:intable Text context"
-#| msgid "Comment"
 msgid "Toggle Contained Nodes"
 msgstr "അഭിപ്രായം"
 
@@ -7320,13 +7095,11 @@ msgstr ""
 
 #: vimode/appcommands.cpp:76
 #, fuzzy, kde-format
-#| msgid "Document to open"
 msgid "All documents written to disk"
 msgstr "തുറക്കുന്നതിനുള്ള രേഖ"
 
 #: vimode/appcommands.cpp:79
 #, fuzzy, kde-format
-#| msgid "Document to open"
 msgid "Document written to disk"
 msgstr "തുറക്കുന്നതിനുള്ള രേഖ"
 
@@ -7484,13 +7257,11 @@ msgstr ""
 
 #: vimode/config/configtab.cpp:216
 #, fuzzy, kde-format
-#| msgid "Unable to open %1"
 msgid "Unable to open the config file for reading."
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
 #: vimode/config/configtab.cpp:216
 #, fuzzy, kde-format
-#| msgid "Unable to open %1"
 msgid "Unable to open file"
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
@@ -7520,7 +7291,6 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkViRelLineNumbers)
 #: vimode/config/configwidget.ui:48
 #, fuzzy, kde-format
-#| msgid "Print line &numbers"
 msgid "Display relative line numbers"
 msgstr "വരിയുടെ &അക്കങ്ങള്‍ പ്രിന്റ് ചെയ്യുക"
 
@@ -7547,7 +7317,6 @@ msgstr ""
 #. i18n: ectx: attribute (title), widget (QWidget, normalTab)
 #: vimode/config/configwidget.ui:76
 #, fuzzy, kde-format
-#| msgid "Normal text:"
 msgid "Normal mode"
 msgstr "സാധാരണ വാചകം:"
 
@@ -7557,7 +7326,6 @@ msgstr "സാധാരണ വാചകം:"
 #: vimode/config/configwidget.ui:100 vimode/config/configwidget.ui:138
 #: vimode/config/configwidget.ui:176
 #, fuzzy, kde-format
-#| msgid "Replace"
 msgid "Replacement"
 msgstr "മാറ്റുക"
 
@@ -7579,15 +7347,12 @@ msgstr ""
 #. i18n: ectx: attribute (title), widget (QWidget, visualTab)
 #: vimode/config/configwidget.ui:152
 #, fuzzy, kde-format
-#| msgid "Normal text:"
 msgid "Visual mode"
 msgstr "സാധാരണ വാചകം:"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnRemoveSelectedRows)
 #: vimode/config/configwidget.ui:195
 #, fuzzy, kde-format
-#| msgctxt "@title:column Text style"
-#| msgid "Selected"
 msgid "Remove selected"
 msgstr "തിരഞ്ഞെടുത്തവ"
 
@@ -7613,13 +7378,11 @@ msgstr ""
 
 #: vimode/marks.cpp:127
 #, fuzzy, kde-format
-#| msgid "Insert: %1"
 msgid "Mark set: %1"
 msgstr "ചേര്‍ക്കുക: %1"
 
 #: vimode/marks.cpp:174
 #, fuzzy, kde-format
-#| msgid "Go to the next bookmark."
 msgid "There are no more chars for the next bookmark."
 msgstr "അടുത്ത ഓര്‍മ്മക്കുറിപ്പിലേക്കു് പോകുക"
 
@@ -7636,7 +7399,6 @@ msgstr ""
 
 #: vimode/modes/normalvimode.cpp:2559
 #, fuzzy, kde-format
-#| msgid "Insert: %1"
 msgid "Mark not set: %1"
 msgstr "ചേര്‍ക്കുക: %1"
 
@@ -7790,14 +7552,11 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "Clipper"
 
 #, fuzzy
-#~| msgid "Scripts"
 #~ msgctxt "Language"
 #~ msgid "CoffeeScript"
 #~ msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "CMake"
 #~ msgctxt "Language"
 #~ msgid "Crack"
 #~ msgstr "CMake"
@@ -7811,7 +7570,6 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "CSS"
 
 #, fuzzy
-#~| msgid "Scripts"
 #~ msgctxt "Language"
 #~ msgid "CubeScript"
 #~ msgstr "സ്ക്രിപ്റ്റുകള്‍"
@@ -7833,8 +7591,6 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "Diff"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Makefile"
 #~ msgctxt "Language"
 #~ msgid "Dockerfile"
 #~ msgstr "Makefile"
@@ -7880,7 +7636,6 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "GAP"
 
 #, fuzzy
-#~| msgid "Backspace"
 #~ msgctxt "Language"
 #~ msgid "GDB Backtrace"
 #~ msgstr "Backspace"
@@ -7894,7 +7649,6 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "GNU Gettext"
 
 #, fuzzy
-#~| msgid "&Ignore"
 #~ msgctxt "Language"
 #~ msgid "Git Ignore"
 #~ msgstr "&വേണ്ടെന്നു് വയ്ക്കുക"
@@ -7904,8 +7658,6 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "GLSL"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "D"
 #~ msgctxt "Language Section"
 #~ msgid "3D"
 #~ msgstr "ഡി"
@@ -7915,7 +7667,6 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "ഗ്നു അസ്സംബ്ലര്‍"
 
 #, fuzzy
-#~| msgid "Go"
 #~ msgctxt "Language"
 #~ msgid "Go"
 #~ msgstr "പോകുക"
@@ -7957,14 +7708,11 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "JSP"
 
 #, fuzzy
-#~| msgid "Configure"
 #~ msgctxt "Language"
 #~ msgid "Kconfig"
 #~ msgstr "ക്രമികരിക്കുക"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Quake Script"
 #~ msgctxt "Language"
 #~ msgid "GNU Linker Script"
 #~ msgstr "ക്വേക്ക് സ്ക്രിപ്റ്റ്"
@@ -7978,8 +7726,6 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "LPC"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "GLSL"
 #~ msgctxt "Language"
 #~ msgid "LSL"
 #~ msgstr "GLSL"
@@ -8005,55 +7751,41 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "PHP/PHP"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "CMake"
 #~ msgctxt "Language"
 #~ msgid "QMake"
 #~ msgstr "CMake"
 
 #, fuzzy
-#~| msgid "Replace"
 #~ msgctxt "Language"
 #~ msgid "Replicode"
 #~ msgstr "മാറ്റുക"
 
 #, fuzzy
-#~| msgid "File Format"
 #~ msgctxt "Language"
 #~ msgid "Rich Text Format"
 #~ msgstr "ഫയലിന്റെ രീതി"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "GLSL"
 #~ msgctxt "Language"
 #~ msgid "STL"
 #~ msgstr "GLSL"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Apache Configuration"
 #~ msgctxt "Language"
 #~ msgid "Varnish Configuration Language"
 #~ msgstr "അപ്പാച്ചെ ക്രമികരണം"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Apache Configuration"
 #~ msgctxt "Language"
 #~ msgid "Varnish 4 Configuration Language"
 #~ msgstr "അപ്പാച്ചെ ക്രമികരണം"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Apache Configuration"
 #~ msgctxt "Language"
 #~ msgid "Varnish Test Case language"
 #~ msgstr "അപ്പാച്ചെ ക്രമികരണം"
 
 #, fuzzy
-#~| msgctxt "Language"
-#~| msgid "Apache Configuration"
 #~ msgctxt "Language"
 #~ msgid "Varnish 4 Test Case language"
 #~ msgstr "അപ്പാച്ചെ ക്രമികരണം"
@@ -8075,45 +7807,37 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "എഡിറ്ററിലുള്ള ഉള്ളടക്കമുപയോഗിച്ചു് ഡിസ്ക് ഫയല്‍ തിരുത്തിയെഴുതുക."
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Close the document."
 #~ msgstr "രേഖ അടയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Besides white space changes, the files are identical."
 #~ msgid "Ignoring amount of white space changed, the files are identical."
 #~ msgstr "വൈറ്റ് സ്പെയിസില്‍ വരുത്തിയ മാറ്റങ്ങള്‍ ഒഴികെ ഫയലുകള്‍ തമ്മില്‍ വ്യത്യാസമില്ല."
 
 #, fuzzy
-#~| msgid "Next"
 #~ msgid "&Next"
 #~ msgstr "അടുത്തതു്"
 
 #, fuzzy
-#~| msgid "Previous"
 #~ msgid "&Previous"
 #~ msgstr "മുമ്പുള്ളതു്"
 
 #, fuzzy
-#~| msgid " characters"
 #~ msgctxt "spinbox special value for 1"
 #~ msgid "1 character"
 #~ msgstr " അക്ഷരങ്ങള്‍"
 
 #, fuzzy
-#~| msgid " characters"
 #~ msgctxt "suffix for spinbox >1"
 #~ msgid " characters"
 #~ msgstr " അക്ഷരങ്ങള്‍"
 
 #, fuzzy
-#~| msgid " characters"
 #~ msgctxt "suffix for spinbox >1 wrap words at (value is at 20 or larger)"
 #~ msgid " characters"
 #~ msgstr " അക്ഷരങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Error loading script %1"
 #~ msgid "Error calling action(%1)"
 #~ msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
@@ -8124,19 +7848,15 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "പിശകു്: %1"
 
 #, fuzzy
-#~| msgid "Selected text:"
 #~ msgctxt "Language"
 #~ msgid "Restructured Text"
 #~ msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
 #, fuzzy
-#~| msgid "Unable to open %1"
 #~ msgid "Unable to find '%1'"
 #~ msgstr "%1 തുറക്കുവാന്‍ സാധ്യമല്ല"
 
 #, fuzzy
-#~| msgctxt "Language Section"
-#~| msgid "Other"
 #~ msgid "Other"
 #~ msgstr "മറ്റുള്ളവ "
 
@@ -8154,62 +7874,50 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
 #, fuzzy
-#~| msgid "Backspace"
 #~ msgid "Na&mespace:"
 #~ msgstr "Backspace"
 
 #, fuzzy
-#~| msgid "&Filetype:"
 #~ msgid "&File types:"
 #~ msgstr "&ഫയല്‍തരം:"
 
 #, fuzzy
-#~| msgid "&Help"
 #~ msgid "Help"
 #~ msgstr "&സഹായം"
 
 #, fuzzy
-#~| msgid "Shortcuts"
 #~ msgid "Shortcut:"
 #~ msgstr "കുറുക്കുവഴികള്‍"
 
 #, fuzzy
-#~| msgid "Scripts"
 #~ msgid "S&cripts"
 #~ msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "<empty repository>"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Cannot open snippet repository %1."
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "&Filetype:"
 #~ msgid "Applies to all filetypes"
 #~ msgstr "&ഫയല്‍തരം:"
 
 #, fuzzy
-#~| msgid "&Section:"
 #~ msgid "Add Repository"
 #~ msgstr "&ഭാഗം:"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Remove Repository"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Remove Snippet"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Create Snippet"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
@@ -8220,57 +7928,46 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "INS"
 
 #, fuzzy
-#~| msgid "Move Word Left"
 #~ msgid "Move Left"
 #~ msgstr "വാക്കു് ഇടത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgid "Move Right"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Move to Next Line"
 #~ msgid "Move Up"
 #~ msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
 #, fuzzy
-#~| msgid "Always On"
 #~ msgid "Always on"
 #~ msgstr "എപ്പോഴും ഓണ്‍ ആയിരിക്കുക"
 
 #, fuzzy
-#~| msgid "Print the current document."
 #~ msgid "Modify the current snippet"
 #~ msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ചെയ്യുക."
 
 #, fuzzy
-#~| msgid "Create a new file type."
 #~ msgid "Create a new repository file"
 #~ msgstr "ഒരു പുതിയ ഫയല്‍തരം ഉണ്ടാക്കുക."
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Kate Snippets"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "New Snippet"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "&Section:"
 #~ msgid "Snippet Repository:"
 #~ msgstr "&ഭാഗം:"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Get New Snippets..."
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Remove entry"
 #~ msgid "Kate Part Snippets"
 #~ msgstr "എന്‍ട്രി നീക്കം ചെയ്യുക"
 
@@ -8281,27 +7978,22 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "പ്ലഗിനുകള്‍"
 
 #, fuzzy
-#~| msgid "Move Word Left"
 #~ msgid "Programmer's Move Word Left"
 #~ msgstr "വാക്കു് ഇടത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Select Word Left"
 #~ msgid "Programmer's Select Word Left"
 #~ msgstr "ഇടത്തുള്ള വാക്കു് തിരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgid "Move Word Right"
 #~ msgid "Programmer's Move Word Right"
 #~ msgstr "വാക്കു് വലത്തേക്കു് നീക്കുക"
 
 #, fuzzy
-#~| msgid "Select Word Right"
 #~ msgid "Programmer's Select Word Right"
 #~ msgstr "വലത്തുള്ള വാക്കു് തിരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgid "E&ncoding"
 #~ msgid "Broken Encoding"
 #~ msgstr "എ&ന്‍കോഡിങു്"
 
@@ -8309,24 +8001,20 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "തിരുത്തിയെഴുതുക"
 
 #, fuzzy
-#~| msgid "Colors"
 #~ msgctxt "@title:column the color name"
 #~ msgid "Color Role"
 #~ msgstr "നിറങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "Colors"
 #~ msgctxt "@title:column a color button"
 #~ msgid "Color"
 #~ msgstr "നിറങ്ങള്‍"
 
 #, fuzzy
-#~| msgid "E&xport as HTML..."
 #~ msgid "Export HlColors..."
 #~ msgstr "HTML ആയി &ലഭ്യമാക്കുക..."
 
 #, fuzzy
-#~| msgid "&Format:"
 #~ msgid "Form"
 #~ msgstr "&രീതി:"
 
@@ -8392,18 +8080,15 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "പിശകു്:"
 
 #, fuzzy
-#~| msgid "Disabled"
 #~ msgctxt "Encodings menu"
 #~ msgid "Disabled"
 #~ msgstr "പ്രവര്‍ത്തന രഹിതം"
 
 #, fuzzy
-#~| msgid "General"
 #~ msgid "Universal"
 #~ msgstr "സാധാരണ"
 
 #, fuzzy
-#~| msgid "(c) 2000-2005 The Kate Authors"
 #~ msgid "(c) 2000-2008 The Kate Authors"
 #~ msgstr "(c) 2000-2005 കെയിറ്റ് രചിതാക്കള്‍"
 

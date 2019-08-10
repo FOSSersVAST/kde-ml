@@ -38,219 +38,174 @@ msgstr ""
 
 #: solid/devices/backends/fstab/fstabmanager.cpp:97
 #, fuzzy
-#| msgid "Devices declared in your system"
 msgctxt "Solid::Backends::Fstab::FstabManager|"
 msgid "Mountable filesystems declared in your system"
 msgstr "താങ്കളുടെ സിസ്റ്റത്തില്‍ പ്രഖ്യാപിച്ചിട്ടുള്ള ഉപകരണങ്ങള്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:63
 #, fuzzy, qt-format
-#| msgid "%1 TiB"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "%1 TiB"
 msgstr "%1 ടെറാബൈറ്റ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:65
 #, fuzzy, qt-format
-#| msgid "%1 GiB"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "%1 GiB"
 msgstr "%1 ജിഗാബൈറ്റ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:71
 #, fuzzy, qt-format
-#| msgid "%1 MiB"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "%1 MiB"
 msgstr "%1 മെഗാബൈറ്റ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:76
 #, fuzzy, qt-format
-#| msgid "%1 KiB"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "%1 KiB"
 msgstr "%1 കിലോബൈറ്റ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:80
 #, fuzzy, qt-format
-#| msgid "%1 B"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "%1 B"
 msgstr "%1 ബൈറ്റ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:84
 #, fuzzy
-#| msgid "0 B"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "0 B"
 msgstr "0 ബൈറ്റ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:319
 #, fuzzy
-#| msgid "WLAN Interface"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "WLAN Interface"
 msgstr "വയര്‍ലെസ്സ് ലാന്‍ വിനിമയതലങ്ങള്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:321
 #, fuzzy
-#| msgid "Networking Interface"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Networking Interface"
 msgstr "ശൃഖലയുമായുള്ള വിനിമയതലങ്ങള്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:506
 #, fuzzy
-#| msgid "CD-ROM"
 msgctxt "Solid::Backends::Hal::HalDevice|First item of %1%2 Drive sentence"
 msgid "CD-ROM"
 msgstr "സിഡി റോം"
 
 #: solid/devices/backends/hal/haldevice.cpp:508
 #, fuzzy
-#| msgid "CD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|First item of %1%2 Drive sentence"
 msgid "CD-R"
 msgstr "സിഡി-ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:511
 #, fuzzy
-#| msgid "CD-RW"
 msgctxt "Solid::Backends::Hal::HalDevice|First item of %1%2 Drive sentence"
 msgid "CD-RW"
 msgstr "സി ഡി-ആര്‍ ഡബ്ളിയു"
 
 #: solid/devices/backends/hal/haldevice.cpp:515
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD-ROM"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD-ROM"
 msgstr "/DVD-ROM"
 
 #: solid/devices/backends/hal/haldevice.cpp:518
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD+R"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD+R"
 msgstr "/DVD+R"
 
 #: solid/devices/backends/hal/haldevice.cpp:521
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD+RW"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD+RW"
 msgstr "/DVD+RW"
 
 #: solid/devices/backends/hal/haldevice.cpp:524
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD-R"
 msgstr "/DVD-R"
 
 #: solid/devices/backends/hal/haldevice.cpp:527
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD-RW"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD-RW"
 msgstr "/DVD-RW"
 
 #: solid/devices/backends/hal/haldevice.cpp:530
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD-RAM"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD-RAM"
 msgstr "/DVD-RAM"
 
 #: solid/devices/backends/hal/haldevice.cpp:534
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD±R DL"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD±R DL"
 msgstr "/DVD±R DL"
 
 #: solid/devices/backends/hal/haldevice.cpp:536
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD±R"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD±R"
 msgstr "/DVD±R"
 
 #: solid/devices/backends/hal/haldevice.cpp:541
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD±RW DL"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD±RW DL"
 msgstr "/DVD±RW DL"
 
 #: solid/devices/backends/hal/haldevice.cpp:543
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD±RW"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/DVD±RW"
 msgstr "/DVD±RW"
 
 #: solid/devices/backends/hal/haldevice.cpp:547
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/BD-ROM"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/BD-ROM"
 msgstr "/BD-ROM"
 
 #: solid/devices/backends/hal/haldevice.cpp:550
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/BD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/BD-R"
 msgstr "/BD-R"
 
 #: solid/devices/backends/hal/haldevice.cpp:553
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/BD-RE"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/BD-RE"
 msgstr "/BD-RE"
 
 #: solid/devices/backends/hal/haldevice.cpp:556
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/HD DVD-ROM"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/HD DVD-ROM"
 msgstr "/HD DVD-ROM"
 
 #: solid/devices/backends/hal/haldevice.cpp:559
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/HD DVD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/HD DVD-R"
 msgstr "/HD DVD-R"
 
 #: solid/devices/backends/hal/haldevice.cpp:562
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/HD DVD-RW"
 msgctxt "Solid::Backends::Hal::HalDevice|Second item of %1%2 Drive sentence"
 msgid "/HD DVD-RW"
 msgstr "/HD DVD-RW"
 
 #: solid/devices/backends/hal/haldevice.cpp:566
 #, fuzzy, qt-format
-#| msgid "External %1%2 Drive"
 msgctxt ""
 "Solid::Backends::Hal::HalDevice|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/"
 "DVD-R'/etc (with leading slash)"
@@ -259,7 +214,6 @@ msgstr "പുറമേയുള്ള %1%2 ഡ്രൈവ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:568
 #, fuzzy, qt-format
-#| msgid "%1%2 Drive"
 msgctxt ""
 "Solid::Backends::Hal::HalDevice|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/"
 "DVD-R'/etc (with leading slash)"
@@ -268,14 +222,12 @@ msgstr "%1%2 ഡ്രൈവ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:576
 #, fuzzy
-#| msgid "External Floppy Drive"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "External Floppy Drive"
 msgstr "പുറമേയുള്ള ഫ്ളോപ്പി ഡ്രൈവ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:578
 #, fuzzy
-#| msgid "Floppy Drive"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Floppy Drive"
 msgstr "ഫ്ളോപ്പി ഡ്രൈവ്"
@@ -283,8 +235,6 @@ msgstr "ഫ്ളോപ്പി ഡ്രൈവ്"
 #: solid/devices/backends/hal/haldevice.cpp:590
 #: solid/devices/backends/hal/haldevice.cpp:793
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 External Hard Drive"
 msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
 msgid "%1 External Hard Drive"
 msgstr "%1 പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ്"
@@ -292,8 +242,6 @@ msgstr "%1 പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ�
 #: solid/devices/backends/hal/haldevice.cpp:592
 #: solid/devices/backends/hal/haldevice.cpp:795
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 Hard Drive"
 msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
 msgid "%1 Hard Drive"
 msgstr "%1 ഹാര്‍ഡ് ഡ്രൈവ്"
@@ -301,7 +249,6 @@ msgstr "%1 ഹാര്‍ഡ് ഡ്രൈവ്"
 #: solid/devices/backends/hal/haldevice.cpp:596
 #: solid/devices/backends/hal/haldevice.cpp:799
 #, fuzzy
-#| msgid "External Hard Drive"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "External Hard Drive"
 msgstr "പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ്"
@@ -309,15 +256,12 @@ msgstr "പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ്"
 #: solid/devices/backends/hal/haldevice.cpp:598
 #: solid/devices/backends/hal/haldevice.cpp:801
 #, fuzzy
-#| msgid "Hard Drive"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Hard Drive"
 msgstr "ഹാര്‍ഡ് ഡ്രൈവ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:617
 #, fuzzy, qt-format
-#| msgctxt "%1 is the vendor, %2 is the model of the device"
-#| msgid "%1 %2"
 msgctxt ""
 "Solid::Backends::Hal::HalDevice|%1 is the vendor, %2 is the model of the "
 "device"
@@ -326,339 +270,288 @@ msgstr "%1 %2"
 
 #: solid/devices/backends/hal/haldevice.cpp:622
 #, fuzzy
-#| msgid "Drive"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Drive"
 msgstr "ഡ്രൈവ്"
 
 #: solid/devices/backends/hal/haldevice.cpp:651
 #, fuzzy
-#| msgid "CD-ROM"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "CD-ROM"
 msgstr "സിഡി റോം"
 
 #: solid/devices/backends/hal/haldevice.cpp:656
 #, fuzzy
-#| msgid "Blank CD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank CD-R"
 msgstr "ഒഴിഞ്ഞ സിഡി-ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:658
 #, fuzzy
-#| msgid "CD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "CD-R"
 msgstr "സിഡി-ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:664
 #, fuzzy
-#| msgid "Blank CD-RW"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank CD-RW"
 msgstr "ഒഴിഞ്ഞ സിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/hal/haldevice.cpp:666
 #, fuzzy
-#| msgid "CD-RW"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "CD-RW"
 msgstr "സി ഡി-ആര്‍ ഡബ്ളിയു"
 
 #: solid/devices/backends/hal/haldevice.cpp:671
 #, fuzzy
-#| msgid "DVD-ROM"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "DVD-ROM"
 msgstr "ഡിവിഡി-റോം"
 
 #: solid/devices/backends/hal/haldevice.cpp:676
 #, fuzzy
-#| msgid "Blank DVD-RAM"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank DVD-RAM"
 msgstr "കാലി ഡി വി ഡി-റാം"
 
 #: solid/devices/backends/hal/haldevice.cpp:678
 #, fuzzy
-#| msgid "DVD-RAM"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "DVD-RAM"
 msgstr "ഡിവിഡി-റാം"
 
 #: solid/devices/backends/hal/haldevice.cpp:684
 #, fuzzy
-#| msgid "Blank DVD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank DVD-R"
 msgstr "കാലി ഡി വി ഡി-ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:686
 #, fuzzy
-#| msgid "DVD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "DVD-R"
 msgstr "ഡിവിഡി-ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:692
 #, fuzzy
-#| msgid "Blank DVD+R Dual-Layer"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank DVD+R Dual-Layer"
 msgstr "കാലി രണ്ട് പാളി ഡിവിഡി+ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:694
 #, fuzzy
-#| msgid "DVD+R Dual-Layer"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "DVD+R Dual-Layer"
 msgstr "രണ്ട് പാളി ഡിവിഡി+ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:700
 #, fuzzy
-#| msgid "Blank DVD-RW"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank DVD-RW"
 msgstr "കാലി ഡിവിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/hal/haldevice.cpp:702
 #, fuzzy
-#| msgid "DVD-RW"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "DVD-RW"
 msgstr "ഡിവിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/hal/haldevice.cpp:708
 #, fuzzy
-#| msgid "Blank DVD+R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank DVD+R"
 msgstr "കാലി ഡി വി ഡി+ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:710
 #, fuzzy
-#| msgid "DVD+R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "DVD+R"
 msgstr "ഡിവിഡി+ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:716
 #, fuzzy
-#| msgid "Blank DVD+RW"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank DVD+RW"
 msgstr "കാലി ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/hal/haldevice.cpp:718
 #, fuzzy
-#| msgid "DVD+RW"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "DVD+RW"
 msgstr "ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/hal/haldevice.cpp:724
 #, fuzzy
-#| msgid "Blank DVD+RW Dual-Layer"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank DVD+RW Dual-Layer"
 msgstr "കാലി രണ്ട് പാളി ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/hal/haldevice.cpp:726
 #, fuzzy
-#| msgid "DVD+RW Dual-Layer"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "DVD+RW Dual-Layer"
 msgstr "രണ്ട് പാളി ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/hal/haldevice.cpp:731
 #, fuzzy
-#| msgid "BD-ROM"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "BD-ROM"
 msgstr "ബ്ളുറേ-റോം"
 
 #: solid/devices/backends/hal/haldevice.cpp:736
 #, fuzzy
-#| msgid "Blank BD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank BD-R"
 msgstr "കാലി ബ്ളുറേ-ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:738
 #, fuzzy
-#| msgid "BD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "BD-R"
 msgstr "ബ്ളൂറേ-ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:744
 #, fuzzy
-#| msgid "Blank BD-RE"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank BD-RE"
 msgstr "കാലി ബ്ളുറേ-ആര്‍ഇ"
 
 #: solid/devices/backends/hal/haldevice.cpp:746
 #, fuzzy
-#| msgid "BD-RE"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "BD-RE"
 msgstr "ബ്ളൂറേ-ആര്‍ഇ"
 
 #: solid/devices/backends/hal/haldevice.cpp:751
 #, fuzzy
-#| msgid "HD DVD-ROM"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "HD DVD-ROM"
 msgstr "എച് ഡി ഡിവിഡി-റോം"
 
 #: solid/devices/backends/hal/haldevice.cpp:756
 #, fuzzy
-#| msgid "Blank HD DVD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank HD DVD-R"
 msgstr "കാലി എച് ഡി ഡിവിഡി ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:758
 #, fuzzy
-#| msgid "HD DVD-R"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "HD DVD-R"
 msgstr "എച് ഡി ഡിവിഡി-ആര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:764
 #, fuzzy
-#| msgid "Blank HD DVD-RW"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Blank HD DVD-RW"
 msgstr "കാലി എച് ഡി ഡിവിഡി ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/hal/haldevice.cpp:766
 #, fuzzy
-#| msgid "HD DVD-RW"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "HD DVD-RW"
 msgstr "എച് ഡി ഡിവിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/hal/haldevice.cpp:773
 #, fuzzy
-#| msgid "Audio CD"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Audio CD"
 msgstr "ഓഡിയോ സിഡി"
 
 #: solid/devices/backends/hal/haldevice.cpp:786
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 Encrypted Container"
 msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
 msgid "%1 Encrypted Container"
 msgstr "%1 എന്‍ക്രിപ്റ്റ് ചെയ്ത കണ്ടൈനര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:788
 #, fuzzy
-#| msgid "Encrypted Container"
 msgctxt "Solid::Backends::Hal::HalDevice|"
 msgid "Encrypted Container"
 msgstr "എന്‍ക്രിപ്റ്റ് ചെയ്ത കണ്ടൈനര്‍"
 
 #: solid/devices/backends/hal/haldevice.cpp:806
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 Removable Media"
 msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
 msgid "%1 Removable Media"
 msgstr "%1 ഇളക്കിമാറ്റാവുന്ന മാധ്യമം"
 
 #: solid/devices/backends/hal/haldevice.cpp:808
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 Media"
 msgctxt "Solid::Backends::Hal::HalDevice|%1 is the size"
 msgid "%1 Media"
 msgstr "%1 മാധ്യമം"
 
 #: solid/devices/backends/udev/udevdevice.cpp:114
 #, fuzzy
-#| msgid "Computer"
 msgctxt "Solid::Backends::UDev::UDevDevice|"
 msgid "Computer"
 msgstr "കമ്പ്യൂട്ടര്‍"
 
 #: solid/devices/backends/udev/udevdevice.cpp:118
 #, fuzzy
-#| msgid "Processor"
 msgctxt "Solid::Backends::UDev::UDevDevice|"
 msgid "Processor"
 msgstr "പ്രോസ്സസര്‍"
 
 #: solid/devices/backends/udev/udevdevice.cpp:129
 #, fuzzy
-#| msgid "Portable Media Player"
 msgctxt "Solid::Backends::UDev::UDevDevice|"
 msgid "Portable Media Player"
 msgstr "കൊണ്ടുനടക്കാവുന്ന മീഡിയ പ്ലെയര്‍"
 
 #: solid/devices/backends/udev/udevdevice.cpp:132
 #, fuzzy
-#| msgid "Camera"
 msgctxt "Solid::Backends::UDev::UDevDevice|"
 msgid "Camera"
 msgstr "ക്യാമറ"
 
 #: solid/devices/backends/udev/udevmanager.cpp:231
 #, fuzzy
-#| msgid "Devices"
 msgctxt "Solid::Backends::UDev::UDevManager|"
 msgid "Devices"
 msgstr "ഉപകരണങ്ങള്‍"
 
 #: solid/devices/backends/udev/udevmanager.cpp:232
 #, fuzzy
-#| msgid "Devices declared in your system"
 msgctxt "Solid::Backends::UDev::UDevManager|"
 msgid "Devices declared in your system"
 msgstr "താങ്കളുടെ സിസ്റ്റത്തില്‍ പ്രഖ്യാപിച്ചിട്ടുള്ള ഉപകരണങ്ങള്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:59
 #, fuzzy, qt-format
-#| msgid "%1 TiB"
 msgctxt "udisksdevice|"
 msgid "%1 TiB"
 msgstr "%1 ടെറാബൈറ്റ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:61
 #, fuzzy, qt-format
-#| msgid "%1 GiB"
 msgctxt "udisksdevice|"
 msgid "%1 GiB"
 msgstr "%1 ജിഗാബൈറ്റ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:67
 #, fuzzy, qt-format
-#| msgid "%1 MiB"
 msgctxt "udisksdevice|"
 msgid "%1 MiB"
 msgstr "%1 മെഗാബൈറ്റ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:72
 #, fuzzy, qt-format
-#| msgid "%1 KiB"
 msgctxt "udisksdevice|"
 msgid "%1 KiB"
 msgstr "%1 കിലോബൈറ്റ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:76
 #, fuzzy, qt-format
-#| msgid "%1 B"
 msgctxt "udisksdevice|"
 msgid "%1 B"
 msgstr "%1 ബൈറ്റ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:80
 #, fuzzy
-#| msgid "0 B"
 msgctxt "udisksdevice|"
 msgid "0 B"
 msgstr "0 ബൈറ്റ്"
@@ -670,163 +563,126 @@ msgstr ""
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:273
 #, fuzzy
-#| msgid "Devices"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Loop Device"
 msgstr "ഉപകരണങ്ങള്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:289
 #, fuzzy
-#| msgid "CD-ROM"
 msgctxt "Solid::Backends::UDisks2::Device|First item of %1%2 Drive sentence"
 msgid "CD-ROM"
 msgstr "സിഡി റോം"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:291
 #, fuzzy
-#| msgid "CD-R"
 msgctxt "Solid::Backends::UDisks2::Device|First item of %1%2 Drive sentence"
 msgid "CD-R"
 msgstr "സിഡി-ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:294
 #, fuzzy
-#| msgid "CD-RW"
 msgctxt "Solid::Backends::UDisks2::Device|First item of %1%2 Drive sentence"
 msgid "CD-RW"
 msgstr "സി ഡി-ആര്‍ ഡബ്ളിയു"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:298
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD-ROM"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD-ROM"
 msgstr "/DVD-ROM"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:301
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD+R"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD+R"
 msgstr "/DVD+R"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:304
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD+RW"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD+RW"
 msgstr "/DVD+RW"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:307
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD-R"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD-R"
 msgstr "/DVD-R"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:310
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD-RW"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD-RW"
 msgstr "/DVD-RW"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:313
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD-RAM"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD-RAM"
 msgstr "/DVD-RAM"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:317
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD±R DL"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD±R DL"
 msgstr "/DVD±R DL"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:319
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD±R"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD±R"
 msgstr "/DVD±R"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:324
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD±RW DL"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD±RW DL"
 msgstr "/DVD±RW DL"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:326
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/DVD±RW"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/DVD±RW"
 msgstr "/DVD±RW"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:330
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/BD-ROM"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/BD-ROM"
 msgstr "/BD-ROM"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:333
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/BD-R"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/BD-R"
 msgstr "/BD-R"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:336
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/BD-RE"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/BD-RE"
 msgstr "/BD-RE"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:339
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/HD DVD-ROM"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/HD DVD-ROM"
 msgstr "/HD DVD-ROM"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:342
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/HD DVD-R"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/HD DVD-R"
 msgstr "/HD DVD-R"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:345
 #, fuzzy
-#| msgctxt "Second item of %1%2 Drive sentence"
-#| msgid "/HD DVD-RW"
 msgctxt "Solid::Backends::UDisks2::Device|Second item of %1%2 Drive sentence"
 msgid "/HD DVD-RW"
 msgstr "/HD DVD-RW"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:349
 #, fuzzy, qt-format
-#| msgid "External %1%2 Drive"
 msgctxt ""
 "Solid::Backends::UDisks2::Device|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/"
 "DVD-R'/etc (with leading slash)"
@@ -835,7 +691,6 @@ msgstr "പുറമേയുള്ള %1%2 ഡ്രൈവ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:351
 #, fuzzy, qt-format
-#| msgid "%1%2 Drive"
 msgctxt ""
 "Solid::Backends::UDisks2::Device|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-ROM'/'/"
 "DVD-R'/etc (with leading slash)"
@@ -844,14 +699,12 @@ msgstr "%1%2 ഡ്രൈവ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:359
 #, fuzzy
-#| msgid "External Floppy Drive"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "External Floppy Drive"
 msgstr "പുറമേയുള്ള ഫ്ളോപ്പി ഡ്രൈവ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:361
 #, fuzzy
-#| msgid "Floppy Drive"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Floppy Drive"
 msgstr "ഫ്ളോപ്പി ഡ്രൈവ്"
@@ -859,8 +712,6 @@ msgstr "ഫ്ളോപ്പി ഡ്രൈവ്"
 #: solid/devices/backends/udisks2/udisksdevice.cpp:373
 #: solid/devices/backends/udisks2/udisksdevice.cpp:581
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 External Hard Drive"
 msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
 msgid "%1 External Hard Drive"
 msgstr "%1 പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ്"
@@ -868,8 +719,6 @@ msgstr "%1 പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ�
 #: solid/devices/backends/udisks2/udisksdevice.cpp:375
 #: solid/devices/backends/udisks2/udisksdevice.cpp:583
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 Hard Drive"
 msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
 msgid "%1 Hard Drive"
 msgstr "%1 ഹാര്‍ഡ് ഡ്രൈവ്"
@@ -877,7 +726,6 @@ msgstr "%1 ഹാര്‍ഡ് ഡ്രൈവ്"
 #: solid/devices/backends/udisks2/udisksdevice.cpp:379
 #: solid/devices/backends/udisks2/udisksdevice.cpp:587
 #, fuzzy
-#| msgid "External Hard Drive"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "External Hard Drive"
 msgstr "പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ്"
@@ -885,15 +733,12 @@ msgstr "പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ്"
 #: solid/devices/backends/udisks2/udisksdevice.cpp:381
 #: solid/devices/backends/udisks2/udisksdevice.cpp:589
 #, fuzzy
-#| msgid "Hard Drive"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Hard Drive"
 msgstr "ഹാര്‍ഡ് ഡ്രൈവ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:404
 #, fuzzy, qt-format
-#| msgctxt "%1 is the vendor, %2 is the model of the device"
-#| msgid "%1 %2"
 msgctxt ""
 "Solid::Backends::UDisks2::Device|%1 is the vendor, %2 is the model of the "
 "device"
@@ -902,262 +747,222 @@ msgstr "%1 %2"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:410
 #, fuzzy
-#| msgid "Drive"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Drive"
 msgstr "ഡ്രൈവ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:440
 #, fuzzy
-#| msgid "CD-ROM"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "CD-ROM"
 msgstr "സിഡി റോം"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:445
 #, fuzzy
-#| msgid "Blank CD-R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank CD-R"
 msgstr "ഒഴിഞ്ഞ സിഡി-ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:447
 #, fuzzy
-#| msgid "CD-R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "CD-R"
 msgstr "സിഡി-ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:453
 #, fuzzy
-#| msgid "Blank CD-RW"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank CD-RW"
 msgstr "ഒഴിഞ്ഞ സിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:455
 #, fuzzy
-#| msgid "CD-RW"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "CD-RW"
 msgstr "സി ഡി-ആര്‍ ഡബ്ളിയു"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:460
 #, fuzzy
-#| msgid "DVD-ROM"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "DVD-ROM"
 msgstr "ഡിവിഡി-റോം"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:465
 #, fuzzy
-#| msgid "Blank DVD-RAM"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank DVD-RAM"
 msgstr "കാലി ഡി വി ഡി-റാം"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:467
 #, fuzzy
-#| msgid "DVD-RAM"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "DVD-RAM"
 msgstr "ഡിവിഡി-റാം"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:473
 #, fuzzy
-#| msgid "Blank DVD-R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank DVD-R"
 msgstr "കാലി ഡി വി ഡി-ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:475
 #, fuzzy
-#| msgid "DVD-R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "DVD-R"
 msgstr "ഡിവിഡി-ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:481
 #, fuzzy
-#| msgid "Blank DVD+R Dual-Layer"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank DVD+R Dual-Layer"
 msgstr "കാലി രണ്ട് പാളി ഡിവിഡി+ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:483
 #, fuzzy
-#| msgid "DVD+R Dual-Layer"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "DVD+R Dual-Layer"
 msgstr "രണ്ട് പാളി ഡിവിഡി+ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:489
 #, fuzzy
-#| msgid "Blank DVD-RW"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank DVD-RW"
 msgstr "കാലി ഡിവിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:491
 #, fuzzy
-#| msgid "DVD-RW"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "DVD-RW"
 msgstr "ഡിവിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:497
 #, fuzzy
-#| msgid "Blank DVD+R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank DVD+R"
 msgstr "കാലി ഡി വി ഡി+ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:499
 #, fuzzy
-#| msgid "DVD+R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "DVD+R"
 msgstr "ഡിവിഡി+ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:505
 #, fuzzy
-#| msgid "Blank DVD+RW"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank DVD+RW"
 msgstr "കാലി ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:507
 #, fuzzy
-#| msgid "DVD+RW"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "DVD+RW"
 msgstr "ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:513
 #, fuzzy
-#| msgid "Blank DVD+RW Dual-Layer"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank DVD+RW Dual-Layer"
 msgstr "കാലി രണ്ട് പാളി ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:515
 #, fuzzy
-#| msgid "DVD+RW Dual-Layer"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "DVD+RW Dual-Layer"
 msgstr "രണ്ട് പാളി ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:520
 #, fuzzy
-#| msgid "BD-ROM"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "BD-ROM"
 msgstr "ബ്ളുറേ-റോം"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:525
 #, fuzzy
-#| msgid "Blank BD-R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank BD-R"
 msgstr "കാലി ബ്ളുറേ-ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:527
 #, fuzzy
-#| msgid "BD-R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "BD-R"
 msgstr "ബ്ളൂറേ-ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:533
 #, fuzzy
-#| msgid "Blank BD-RE"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank BD-RE"
 msgstr "കാലി ബ്ളുറേ-ആര്‍ഇ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:535
 #, fuzzy
-#| msgid "BD-RE"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "BD-RE"
 msgstr "ബ്ളൂറേ-ആര്‍ഇ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:540
 #, fuzzy
-#| msgid "HD DVD-ROM"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "HD DVD-ROM"
 msgstr "എച് ഡി ഡിവിഡി-റോം"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:545
 #, fuzzy
-#| msgid "Blank HD DVD-R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank HD DVD-R"
 msgstr "കാലി എച് ഡി ഡിവിഡി ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:547
 #, fuzzy
-#| msgid "HD DVD-R"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "HD DVD-R"
 msgstr "എച് ഡി ഡിവിഡി-ആര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:553
 #, fuzzy
-#| msgid "Blank HD DVD-RW"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Blank HD DVD-RW"
 msgstr "കാലി എച് ഡി ഡിവിഡി ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:555
 #, fuzzy
-#| msgid "HD DVD-RW"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "HD DVD-RW"
 msgstr "എച് ഡി ഡിവിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:562
 #, fuzzy
-#| msgid "Audio CD"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Audio CD"
 msgstr "ഓഡിയോ സിഡി"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:574
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 Encrypted Container"
 msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
 msgid "%1 Encrypted Drive"
 msgstr "%1 എന്‍ക്രിപ്റ്റ് ചെയ്ത കണ്ടൈനര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:576
 #, fuzzy
-#| msgid "Encrypted Container"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Encrypted Drive"
 msgstr "എന്‍ക്രിപ്റ്റ് ചെയ്ത കണ്ടൈനര്‍"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:593
 #, fuzzy
-#| msgid "Floppy Drive"
 msgctxt "Solid::Backends::UDisks2::Device|"
 msgid "Floppy Disk"
 msgstr "ഫ്ളോപ്പി ഡ്രൈവ്"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:596
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 Removable Media"
 msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
 msgid "%1 Removable Media"
 msgstr "%1 ഇളക്കിമാറ്റാവുന്ന മാധ്യമം"
 
 #: solid/devices/backends/udisks2/udisksdevice.cpp:598
 #, fuzzy, qt-format
-#| msgctxt "%1 is the size"
-#| msgid "%1 Media"
 msgctxt "Solid::Backends::UDisks2::Device|%1 is the size"
 msgid "%1 Media"
 msgstr "%1 മാധ്യമം"
@@ -1234,232 +1039,180 @@ msgstr ""
 
 #: solid/devices/backends/udisks2/udisksmanager.cpp:92
 #, fuzzy
-#| msgid "Storage"
 msgctxt "Solid::Backends::UDisks2::Manager|"
 msgid "Storage"
 msgstr "സംഭരണം"
 
 #: solid/devices/backends/udisks2/udisksmanager.cpp:93
 #, fuzzy
-#| msgid "Storage devices"
 msgctxt "Solid::Backends::UDisks2::Manager|"
 msgid "Storage devices"
 msgstr "സംഭരണ ഉപകരണങ്ങള്‍"
 
 #: solid/devices/backends/upower/upowerdevice.cpp:127
 #, fuzzy, qt-format
-#| msgctxt "%1 is battery technology"
-#| msgid "%1 Battery"
 msgctxt "Solid::Backends::UPower::UPowerDevice|%1 is battery technology"
 msgid "%1 Battery"
 msgstr "%1 ബാറ്ററി"
 
 #: solid/devices/backends/upower/upowerdevice.cpp:142
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Lithium Ion"
 msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
 msgid "Lithium Ion"
 msgstr "ലിഥിയം അയോണ്‍"
 
 #: solid/devices/backends/upower/upowerdevice.cpp:144
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Lithium Polymer"
 msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
 msgid "Lithium Polymer"
 msgstr "ലിഥിയം പോളിമര്‍"
 
 #: solid/devices/backends/upower/upowerdevice.cpp:146
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Lithium Iron Phosphate"
 msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
 msgid "Lithium Iron Phosphate"
 msgstr "ലിഥിയം അയണ്‍ ഫോസ്ഫേറ്റ്"
 
 #: solid/devices/backends/upower/upowerdevice.cpp:148
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Lead Acid"
 msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
 msgid "Lead Acid"
 msgstr "ലെഡ് ആസിഡ്"
 
 #: solid/devices/backends/upower/upowerdevice.cpp:150
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Nickel Cadmium"
 msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
 msgid "Nickel Cadmium"
 msgstr "നിക്കല്‍ കാഡ്മിയം"
 
 #: solid/devices/backends/upower/upowerdevice.cpp:152
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Nickel Metal Hydride"
 msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
 msgid "Nickel Metal Hydride"
 msgstr "നിക്കല്‍ മെറ്റല്‍ ഹൈഡ്രൈഡ്"
 
 #: solid/devices/backends/upower/upowerdevice.cpp:154
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Unknown"
 msgctxt "Solid::Backends::UPower::UPowerDevice|battery technology"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
 
 #: solid/devices/backends/upower/upowermanager.cpp:90
 #, fuzzy
-#| msgid "Power Management"
 msgctxt "Solid::Backends::UPower::UPowerManager|"
 msgid "Power Management"
 msgstr "ഊര്‍ജ്ജ നടത്തിപ്പ്"
 
 #: solid/devices/backends/upower/upowermanager.cpp:91
 #, fuzzy
-#| msgid "Batteries and other sources of power"
 msgctxt "Solid::Backends::UPower::UPowerManager|"
 msgid "Batteries and other sources of power"
 msgstr "ബാറ്ററികളും ഊര്‍ജ്ജത്തിന്റെ മറ്റുറവിടങ്ങളും"
 
 #: solid/devices/backends/win/windevice.cpp:173
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Lithium Ion"
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Lithium Ion"
 msgstr "ലിഥിയം അയോണ്‍"
 
 #: solid/devices/backends/win/windevice.cpp:176
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Lead Acid"
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Lead Acid"
 msgstr "ലെഡ് ആസിഡ്"
 
 #: solid/devices/backends/win/windevice.cpp:179
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Nickel Cadmium"
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Nickel Cadmium"
 msgstr "നിക്കല്‍ കാഡ്മിയം"
 
 #: solid/devices/backends/win/windevice.cpp:182
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Nickel Metal Hydride"
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Nickel Metal Hydride"
 msgstr "നിക്കല്‍ മെറ്റല്‍ ഹൈഡ്രൈഡ്"
 
 #: solid/devices/backends/win/windevice.cpp:185
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Unknown"
 msgctxt "Solid::Backends::Win::WinDevice|battery technology"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
 
 #: solid/devices/frontend/deviceinterface.cpp:66
 #, fuzzy
-#| msgctxt "battery technology"
-#| msgid "Unknown"
 msgctxt "Solid::DeviceInterface|Unknown device type"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
 
 #: solid/devices/frontend/deviceinterface.cpp:68
 #, fuzzy
-#| msgctxt "Generic Interface device type"
-#| msgid "Generic Interface"
 msgctxt "Solid::DeviceInterface|Generic Interface device type"
 msgid "Generic Interface"
 msgstr "പൊതുവായ സംയോജകഘടകങ്ങള്‍"
 
 #: solid/devices/frontend/deviceinterface.cpp:70
 #, fuzzy
-#| msgid "Processor"
 msgctxt "Solid::DeviceInterface|Processor device type"
 msgid "Processor"
 msgstr "പ്രോസ്സസര്‍"
 
 #: solid/devices/frontend/deviceinterface.cpp:72
 #, fuzzy
-#| msgctxt "Block device type"
-#| msgid "Block"
 msgctxt "Solid::DeviceInterface|Block device type"
 msgid "Block"
 msgstr "ബ്ലോക്ക്"
 
 #: solid/devices/frontend/deviceinterface.cpp:74
 #, fuzzy
-#| msgctxt "Storage Access device type"
-#| msgid "Storage Access"
 msgctxt "Solid::DeviceInterface|Storage Access device type"
 msgid "Storage Access"
 msgstr "സംഭരണ സമീപനം"
 
 #: solid/devices/frontend/deviceinterface.cpp:76
 #, fuzzy
-#| msgctxt "Storage Drive device type"
-#| msgid "Storage Drive"
 msgctxt "Solid::DeviceInterface|Storage Drive device type"
 msgid "Storage Drive"
 msgstr "സംഭരണ ഡ്രൈവ്"
 
 #: solid/devices/frontend/deviceinterface.cpp:78
 #, fuzzy
-#| msgctxt "Optical Drive device type"
-#| msgid "Optical Drive"
 msgctxt "Solid::DeviceInterface|Optical Drive device type"
 msgid "Optical Drive"
 msgstr "ഒപ്റ്റിക്കല്‍ ഡ്രൈവ്"
 
 #: solid/devices/frontend/deviceinterface.cpp:80
 #, fuzzy
-#| msgctxt "Storage Volume device type"
-#| msgid "Storage Volume"
 msgctxt "Solid::DeviceInterface|Storage Volume device type"
 msgid "Storage Volume"
 msgstr "സംഭരണ വോള്യം"
 
 #: solid/devices/frontend/deviceinterface.cpp:82
 #, fuzzy
-#| msgctxt "Optical Disc device type"
-#| msgid "Optical Disc"
 msgctxt "Solid::DeviceInterface|Optical Disc device type"
 msgid "Optical Disc"
 msgstr "ഒപ്റ്റിക്കല്‍ ഡിസ്ക്ക്"
 
 #: solid/devices/frontend/deviceinterface.cpp:84
 #, fuzzy
-#| msgid "Camera"
 msgctxt "Solid::DeviceInterface|Camera device type"
 msgid "Camera"
 msgstr "ക്യാമറ"
 
 #: solid/devices/frontend/deviceinterface.cpp:86
 #, fuzzy
-#| msgid "Portable Media Player"
 msgctxt "Solid::DeviceInterface|Portable Media Player device type"
 msgid "Portable Media Player"
 msgstr "കൊണ്ടുനടക്കാവുന്ന മീഡിയ പ്ലെയര്‍"
 
 #: solid/devices/frontend/deviceinterface.cpp:88
 #, fuzzy
-#| msgctxt "Battery device type"
-#| msgid "Battery"
 msgctxt "Solid::DeviceInterface|Battery device type"
 msgid "Battery"
 msgstr "ബാറ്ററി"
 
 #: solid/devices/frontend/deviceinterface.cpp:90
 #, fuzzy
-#| msgid "Network Shares"
 msgctxt "Solid::DeviceInterface|Network Share device type"
 msgid "Network Share"
 msgstr "ശൃംഖലാ പങ്കുവെയ്ക്കലുകള്‍"
@@ -1467,7 +1220,6 @@ msgstr "ശൃംഖലാ പങ്കുവെയ്ക്കലുകള്�
 #: tools/solid-hardware/solid-hardware.cpp:173
 #: tools/solid-hardware/solid-hardware.cpp:272
 #, fuzzy
-#| msgid "Devices"
 msgctxt "solid-hardware|"
 msgid "Device udi"
 msgstr "ഉപകരണങ്ങള്‍"
@@ -1568,7 +1320,6 @@ msgstr ""
 
 #: tools/solid-hardware/solid-hardware.cpp:273
 #, fuzzy
-#| msgid "UPnP devices"
 msgctxt "solid-hardware|"
 msgid "Parent device udi"
 msgstr "യുപിഎന്‍പി ഉപകരണങ്ങള്‍"
@@ -1621,211 +1372,165 @@ msgid ""
 msgstr ""
 
 #, fuzzy
-#~| msgid "Network Shares"
 #~ msgctxt "Solid::Backends::Fstab::FstabManager|"
 #~ msgid "Network Shares"
 #~ msgstr "ശൃംഖലാ പങ്കുവെയ്ക്കലുകള്‍"
 
 #, fuzzy
-#~| msgid "NFS and SMB shares declared in your system"
 #~ msgctxt "Solid::Backends::Fstab::FstabManager|"
 #~ msgid "NFS and SMB shares declared in your system"
 #~ msgstr "താങ്കളുടെ സിസ്റ്റത്തില്‍ പ്രഖ്യാപിച്ചിട്ടുള്ള എന്‍എഫ്എസ്, എസ്എംബി പങ്കുവെയ്ക്കലുകള്‍"
 
 #, fuzzy
-#~| msgctxt "battery technology"
-#~| msgid "Unknown"
 #~ msgctxt "Solid::Backends::Win::WinBattery|battery technology"
 #~ msgid "Unknown"
 #~ msgstr "അജ്ഞാതം"
 
 #, fuzzy
-#~| msgid "%1 TiB"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "%1 TiB"
 #~ msgstr "%1 ടെറാബൈറ്റ്"
 
 #, fuzzy
-#~| msgid "%1 GiB"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "%1 GiB"
 #~ msgstr "%1 ജിഗാബൈറ്റ്"
 
 #, fuzzy
-#~| msgid "%1 MiB"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "%1 MiB"
 #~ msgstr "%1 മെഗാബൈറ്റ്"
 
 #, fuzzy
-#~| msgid "%1 KiB"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "%1 KiB"
 #~ msgstr "%1 കിലോബൈറ്റ്"
 
 #, fuzzy
-#~| msgid "%1 B"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "%1 B"
 #~ msgstr "%1 ബൈറ്റ്"
 
 #, fuzzy
-#~| msgid "0 B"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "0 B"
 #~ msgstr "0 ബൈറ്റ്"
 
 #, fuzzy
-#~| msgid "CD-ROM"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|First item of %1%2 Drive sentence"
 #~ msgid "CD-ROM"
 #~ msgstr "സിഡി റോം"
 
 #, fuzzy
-#~| msgid "CD-R"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|First item of %1%2 Drive sentence"
 #~ msgid "CD-R"
 #~ msgstr "സിഡി-ആര്‍"
 
 #, fuzzy
-#~| msgid "CD-RW"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|First item of %1%2 Drive sentence"
 #~ msgid "CD-RW"
 #~ msgstr "സി ഡി-ആര്‍ ഡബ്ളിയു"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD-ROM"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD-ROM"
 #~ msgstr "/DVD-ROM"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD+R"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD+R"
 #~ msgstr "/DVD+R"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD+RW"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD+RW"
 #~ msgstr "/DVD+RW"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD-R"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD-R"
 #~ msgstr "/DVD-R"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD-RW"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD-RW"
 #~ msgstr "/DVD-RW"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD-RAM"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD-RAM"
 #~ msgstr "/DVD-RAM"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD±R DL"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD±R DL"
 #~ msgstr "/DVD±R DL"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD±R"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD±R"
 #~ msgstr "/DVD±R"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD±RW DL"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD±RW DL"
 #~ msgstr "/DVD±RW DL"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/DVD±RW"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/DVD±RW"
 #~ msgstr "/DVD±RW"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/BD-ROM"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/BD-ROM"
 #~ msgstr "/BD-ROM"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/BD-R"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/BD-R"
 #~ msgstr "/BD-R"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/BD-RE"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/BD-RE"
 #~ msgstr "/BD-RE"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/HD DVD-ROM"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/HD DVD-ROM"
 #~ msgstr "/HD DVD-ROM"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/HD DVD-R"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/HD DVD-R"
 #~ msgstr "/HD DVD-R"
 
 #, fuzzy
-#~| msgctxt "Second item of %1%2 Drive sentence"
-#~| msgid "/HD DVD-RW"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|Second item of %1%2 Drive sentence"
 #~ msgid "/HD DVD-RW"
 #~ msgstr "/HD DVD-RW"
 
 #, fuzzy
-#~| msgid "External %1%2 Drive"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-"
 #~ "ROM'/'/DVD-R'/etc (with leading slash)"
@@ -1833,7 +1538,6 @@ msgstr ""
 #~ msgstr "പുറമേയുള്ള %1%2 ഡ്രൈവ്"
 
 #, fuzzy
-#~| msgid "%1%2 Drive"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|%1 is CD-ROM/CD-R/etc; %2 is '/DVD-"
 #~ "ROM'/'/DVD-R'/etc (with leading slash)"
@@ -1841,46 +1545,36 @@ msgstr ""
 #~ msgstr "%1%2 ഡ്രൈവ്"
 
 #, fuzzy
-#~| msgid "External Floppy Drive"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "External Floppy Drive"
 #~ msgstr "പുറമേയുള്ള ഫ്ളോപ്പി ഡ്രൈവ്"
 
 #, fuzzy
-#~| msgid "Floppy Drive"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Floppy Drive"
 #~ msgstr "ഫ്ളോപ്പി ഡ്രൈവ്"
 
 #, fuzzy
-#~| msgctxt "%1 is the size"
-#~| msgid "%1 External Hard Drive"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
 #~ msgid "%1 External Hard Drive"
 #~ msgstr "%1 പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ്"
 
 #, fuzzy
-#~| msgctxt "%1 is the size"
-#~| msgid "%1 Hard Drive"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
 #~ msgid "%1 Hard Drive"
 #~ msgstr "%1 ഹാര്‍ഡ് ഡ്രൈവ്"
 
 #, fuzzy
-#~| msgid "External Hard Drive"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "External Hard Drive"
 #~ msgstr "പുറമേയുള്ള ഹാര്‍ഡ് ഡ്രൈവ്"
 
 #, fuzzy
-#~| msgid "Hard Drive"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Hard Drive"
 #~ msgstr "ഹാര്‍ഡ് ഡ്രൈവ്"
 
 #, fuzzy
-#~| msgctxt "%1 is the vendor, %2 is the model of the device"
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "Solid::Backends::UDisks::UDisksDevice|%1 is the vendor, %2 is the model "
 #~ "of the device"
@@ -1888,281 +1582,226 @@ msgstr ""
 #~ msgstr "%1 %2"
 
 #, fuzzy
-#~| msgid "Drive"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Drive"
 #~ msgstr "ഡ്രൈവ്"
 
 #, fuzzy
-#~| msgid "CD-ROM"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "CD-ROM"
 #~ msgstr "സിഡി റോം"
 
 #, fuzzy
-#~| msgid "Blank CD-R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank CD-R"
 #~ msgstr "ഒഴിഞ്ഞ സിഡി-ആര്‍"
 
 #, fuzzy
-#~| msgid "CD-R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "CD-R"
 #~ msgstr "സിഡി-ആര്‍"
 
 #, fuzzy
-#~| msgid "Blank CD-RW"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank CD-RW"
 #~ msgstr "ഒഴിഞ്ഞ സിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #, fuzzy
-#~| msgid "CD-RW"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "CD-RW"
 #~ msgstr "സി ഡി-ആര്‍ ഡബ്ളിയു"
 
 #, fuzzy
-#~| msgid "DVD-ROM"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "DVD-ROM"
 #~ msgstr "ഡിവിഡി-റോം"
 
 #, fuzzy
-#~| msgid "Blank DVD-RAM"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank DVD-RAM"
 #~ msgstr "കാലി ഡി വി ഡി-റാം"
 
 #, fuzzy
-#~| msgid "DVD-RAM"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "DVD-RAM"
 #~ msgstr "ഡിവിഡി-റാം"
 
 #, fuzzy
-#~| msgid "Blank DVD-R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank DVD-R"
 #~ msgstr "കാലി ഡി വി ഡി-ആര്‍"
 
 #, fuzzy
-#~| msgid "DVD-R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "DVD-R"
 #~ msgstr "ഡിവിഡി-ആര്‍"
 
 #, fuzzy
-#~| msgid "Blank DVD+R Dual-Layer"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank DVD+R Dual-Layer"
 #~ msgstr "കാലി രണ്ട് പാളി ഡിവിഡി+ആര്‍"
 
 #, fuzzy
-#~| msgid "DVD+R Dual-Layer"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "DVD+R Dual-Layer"
 #~ msgstr "രണ്ട് പാളി ഡിവിഡി+ആര്‍"
 
 #, fuzzy
-#~| msgid "Blank DVD-RW"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank DVD-RW"
 #~ msgstr "കാലി ഡിവിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #, fuzzy
-#~| msgid "DVD-RW"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "DVD-RW"
 #~ msgstr "ഡിവിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #, fuzzy
-#~| msgid "Blank DVD+R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank DVD+R"
 #~ msgstr "കാലി ഡി വി ഡി+ആര്‍"
 
 #, fuzzy
-#~| msgid "DVD+R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "DVD+R"
 #~ msgstr "ഡിവിഡി+ആര്‍"
 
 #, fuzzy
-#~| msgid "Blank DVD+RW"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank DVD+RW"
 #~ msgstr "കാലി ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #, fuzzy
-#~| msgid "DVD+RW"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "DVD+RW"
 #~ msgstr "ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #, fuzzy
-#~| msgid "Blank DVD+RW Dual-Layer"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank DVD+RW Dual-Layer"
 #~ msgstr "കാലി രണ്ട് പാളി ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #, fuzzy
-#~| msgid "DVD+RW Dual-Layer"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "DVD+RW Dual-Layer"
 #~ msgstr "രണ്ട് പാളി ഡിവിഡി+ആര്‍ഡബ്ളിയൂ"
 
 #, fuzzy
-#~| msgid "BD-ROM"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "BD-ROM"
 #~ msgstr "ബ്ളുറേ-റോം"
 
 #, fuzzy
-#~| msgid "Blank BD-R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank BD-R"
 #~ msgstr "കാലി ബ്ളുറേ-ആര്‍"
 
 #, fuzzy
-#~| msgid "BD-R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "BD-R"
 #~ msgstr "ബ്ളൂറേ-ആര്‍"
 
 #, fuzzy
-#~| msgid "Blank BD-RE"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank BD-RE"
 #~ msgstr "കാലി ബ്ളുറേ-ആര്‍ഇ"
 
 #, fuzzy
-#~| msgid "BD-RE"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "BD-RE"
 #~ msgstr "ബ്ളൂറേ-ആര്‍ഇ"
 
 #, fuzzy
-#~| msgid "HD DVD-ROM"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "HD DVD-ROM"
 #~ msgstr "എച് ഡി ഡിവിഡി-റോം"
 
 #, fuzzy
-#~| msgid "Blank HD DVD-R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank HD DVD-R"
 #~ msgstr "കാലി എച് ഡി ഡിവിഡി ആര്‍"
 
 #, fuzzy
-#~| msgid "HD DVD-R"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "HD DVD-R"
 #~ msgstr "എച് ഡി ഡിവിഡി-ആര്‍"
 
 #, fuzzy
-#~| msgid "Blank HD DVD-RW"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Blank HD DVD-RW"
 #~ msgstr "കാലി എച് ഡി ഡിവിഡി ആര്‍ഡബ്ളിയൂ"
 
 #, fuzzy
-#~| msgid "HD DVD-RW"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "HD DVD-RW"
 #~ msgstr "എച് ഡി ഡിവിഡി-ആര്‍ഡബ്ളിയൂ"
 
 #, fuzzy
-#~| msgid "Audio CD"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Audio CD"
 #~ msgstr "ഓഡിയോ സിഡി"
 
 #, fuzzy
-#~| msgctxt "%1 is the size"
-#~| msgid "%1 Encrypted Container"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
 #~ msgid "%1 Encrypted Container"
 #~ msgstr "%1 എന്‍ക്രിപ്റ്റ് ചെയ്ത കണ്ടൈനര്‍"
 
 #, fuzzy
-#~| msgid "Encrypted Container"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|"
 #~ msgid "Encrypted Container"
 #~ msgstr "എന്‍ക്രിപ്റ്റ് ചെയ്ത കണ്ടൈനര്‍"
 
 #, fuzzy
-#~| msgctxt "%1 is the size"
-#~| msgid "%1 Removable Media"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
 #~ msgid "%1 Removable Media"
 #~ msgstr "%1 ഇളക്കിമാറ്റാവുന്ന മാധ്യമം"
 
 #, fuzzy
-#~| msgctxt "%1 is the size"
-#~| msgid "%1 Media"
 #~ msgctxt "Solid::Backends::UDisks::UDisksDevice|%1 is the size"
 #~ msgid "%1 Media"
 #~ msgstr "%1 മാധ്യമം"
 
 #, fuzzy
-#~| msgid "Storage"
 #~ msgctxt "Solid::Backends::UDisks::UDisksManager|"
 #~ msgid "Storage"
 #~ msgstr "സംഭരണം"
 
 #, fuzzy
-#~| msgid "Storage devices"
 #~ msgctxt "Solid::Backends::UDisks::UDisksManager|"
 #~ msgid "Storage devices"
 #~ msgstr "സംഭരണ ഉപകരണങ്ങള്‍"
 
 #, fuzzy
-#~| msgctxt "battery technology"
-#~| msgid "Lead Acid"
 #~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
 #~ msgid "Lead Acid"
 #~ msgstr "ലെഡ് ആസിഡ്"
 
 #, fuzzy
-#~| msgctxt "battery technology"
-#~| msgid "Nickel Cadmium"
 #~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
 #~ msgid "Nickel Cadmium"
 #~ msgstr "നിക്കല്‍ കാഡ്മിയം"
 
 #, fuzzy
-#~| msgctxt "battery technology"
-#~| msgid "Nickel Metal Hydride"
 #~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
 #~ msgid "Nickel Metal Hydride"
 #~ msgstr "നിക്കല്‍ മെറ്റല്‍ ഹൈഡ്രൈഡ്"
 
 #, fuzzy
-#~| msgctxt "battery technology"
-#~| msgid "Lithium Ion"
 #~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
 #~ msgid "Lithium Ion"
 #~ msgstr "ലിഥിയം അയോണ്‍"
 
 #, fuzzy
-#~| msgctxt "battery technology"
-#~| msgid "Lithium Polymer"
 #~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
 #~ msgid "Lithium Polymer"
 #~ msgstr "ലിഥിയം പോളിമര്‍"
 
 #, fuzzy
-#~| msgctxt "battery technology"
-#~| msgid "Unknown"
 #~ msgctxt "Solid::Backends::Wmi::Battery|battery technology"
 #~ msgid "Unknown"
 #~ msgstr "അജ്ഞാതം"
 
 #, fuzzy
-#~| msgctxt "%1 is battery technology"
-#~| msgid "%1 Battery"
 #~ msgctxt "Solid::Backends::Wmi::WmiDevice|%1 is battery technology"
 #~ msgid "%1 Battery"
 #~ msgstr "%1 ബാറ്ററി"

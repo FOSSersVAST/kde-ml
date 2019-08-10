@@ -269,7 +269,6 @@ msgstr ""
 #~ msgstr "ട്രിഗ് ആര്‍ ഡി എഫ് രേഖ"
 
 #, fuzzy
-#~| msgid "HDR image"
 #~ msgid "WebP image"
 #~ msgstr "എച്ച് ഡി ആര്‍ ചിത്രം"
 

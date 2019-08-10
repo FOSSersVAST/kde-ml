@@ -180,10 +180,6 @@ msgstr "&എന്നെന്നേക്കുമായി നിഷേധി�
 
 #: knewwalletdialog.cpp:62
 #, fuzzy, kde-format
-#| msgid ""
-#| "KDE has requested to open the wallet. This is used to store sensitive "
-#| "data in a secure fashion. Please enter a password to use with this wallet "
-#| "or click cancel to deny the application's request."
 msgid ""
 "<qt>KDE has requested to create a new wallet named '<b>%1</b>'. This is used "
 "to store sensitive data in a secure fashion. Please choose the new wallet's "
@@ -195,11 +191,6 @@ msgstr ""
 
 #: knewwalletdialog.cpp:64
 #, fuzzy, kde-format
-#| msgid ""
-#| "<qt>The application '<b>%1</b>' has requested to open the KDE wallet. "
-#| "This is used to store sensitive data in a secure fashion. Please enter a "
-#| "password to use with this wallet or click cancel to deny the "
-#| "application's request.</qt>"
 msgid ""
 "<qt>The application '<b>%1</b>' has requested to create a new wallet named "
 "'<b>%2</b>'. This is used to store sensitive data in a secure fashion. "
@@ -207,8 +198,8 @@ msgid ""
 "application's request.</qt>"
 msgstr ""
 "<qt><b> %1</b>പ്രയോഗം വാല്ലെറ്റ് തുറക്കാന്‍ അപേക്ഷിച്ചിട്ടുണ്ട്. ഇത് സൂക്ഷ്മവേദ്യ‌മായ വിവരങ്ങള്‍ "
-"വളരെ സുരക്ഷിതമായി സൂക്ഷിക്കാനുപയോഗിക്കുന്നതാണ്. ഈ വാല്ലെറ്റ് ഉപയോഗിക്കാനുള്ള ഒരു അടയാളവാക്ക് "
-"ചേര്‍ക്കുക അല്ലെങ്കില്‍ പ്രയോഗത്തിന്റെ അപേക്ഷ നിരസിക്കാന്‍ റദ്ദാക്കുക എന്ന ബട്ടണില്‍ ഞൊട്ടുക.</qt>"
+"വളരെ സുരക്ഷിതമായി സൂക്ഷിക്കാനുപയോഗിക്കുന്നതാണ്. ഈ വാല്ലെറ്റ് ഉപയോഗിക്കാനുള്ള ഒരു അടയാളവാക്ക് ചേര്‍"
+"ക്കുക അല്ലെങ്കില്‍ പ്രയോഗത്തിന്റെ അപേക്ഷ നിരസിക്കാന്‍ റദ്ദാക്കുക എന്ന ബട്ടണില്‍ ഞൊട്ടുക.</qt>"
 
 #: knewwalletdialog.cpp:126 knewwalletdialog.cpp:132 kwalletwizard.cpp:161
 #: kwalletwizard.cpp:165
@@ -266,11 +257,6 @@ msgstr "കെഡി‌ഇ വാല്ലെറ്റ് സംവിധാന�
 #. i18n: ectx: property (text), widget (QLabel, labelIntro)
 #: knewwalletdialogintro.ui:30
 #, fuzzy, no-c-format, kde-format
-#| msgid ""
-#| "<qt>The application '<b>%1</b>' has requested to open the KDE wallet. "
-#| "This is used to store sensitive data in a secure fashion. Please enter a "
-#| "password to use with this wallet or click cancel to deny the "
-#| "application's request.</qt>"
 msgid ""
 "<html><head/><body><p>The application '<span style=\" font-weight:600;\">%1</"
 "span>' has requested to open the KDE wallet. This is used to store sensitive "
@@ -278,8 +264,8 @@ msgid ""
 "cancel to deny the application's request.</p></body></html>"
 msgstr ""
 "<qt><b> %1</b>പ്രയോഗം വാല്ലെറ്റ് തുറക്കാന്‍ അപേക്ഷിച്ചിട്ടുണ്ട്. ഇത് സൂക്ഷ്മവേദ്യ‌മായ വിവരങ്ങള്‍ "
-"വളരെ സുരക്ഷിതമായി സൂക്ഷിക്കാനുപയോഗിക്കുന്നതാണ്. ഈ വാല്ലെറ്റ് ഉപയോഗിക്കാനുള്ള ഒരു അടയാളവാക്ക് "
-"ചേര്‍ക്കുക അല്ലെങ്കില്‍ പ്രയോഗത്തിന്റെ അപേക്ഷ നിരസിക്കാന്‍ റദ്ദാക്കുക എന്ന ബട്ടണില്‍ ഞൊട്ടുക.</qt>"
+"വളരെ സുരക്ഷിതമായി സൂക്ഷിക്കാനുപയോഗിക്കുന്നതാണ്. ഈ വാല്ലെറ്റ് ഉപയോഗിക്കാനുള്ള ഒരു അടയാളവാക്ക് ചേര്‍"
+"ക്കുക അല്ലെങ്കില്‍ പ്രയോഗത്തിന്റെ അപേക്ഷ നിരസിക്കാന്‍ റദ്ദാക്കുക എന്ന ബട്ടണില്‍ ഞൊട്ടുക.</qt>"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioBlowfish)
 #. i18n: ectx: property (text), widget (QRadioButton, _radioBlowfish)
@@ -323,7 +309,6 @@ msgstr "കെഡി‌ഇ വാല്ലെറ്റ് സേവനം"
 
 #: kwalletd.cpp:650
 #, fuzzy, kde-format
-#| msgid "<b>KDE</b> has requested to open a wallet (%1)."
 msgid "An application has requested to open a wallet (%1)."
 msgstr "<b>കെഡി‌ഇ</b>, (%1) എന്ന വാല്ലെറ്റ് തുറക്കാന്‍ അപേക്ഷിച്ചിട്ടുണ്ട്."
 
@@ -376,8 +361,8 @@ msgid ""
 "qt>"
 msgstr ""
 "<qt><b> %1</b>പ്രയോഗം വാല്ലെറ്റ് തുറക്കാന്‍ അപേക്ഷിച്ചിട്ടുണ്ട്. ഇത് സൂക്ഷ്മവേദ്യ‌മായ വിവരങ്ങള്‍ "
-"വളരെ സുരക്ഷിതമായി സൂക്ഷിക്കാനുപയോഗിക്കുന്നതാണ്. ഈ വാല്ലെറ്റ് ഉപയോഗിക്കാനുള്ള ഒരു അടയാളവാക്ക് "
-"ചേര്‍ക്കുക അല്ലെങ്കില്‍ പ്രയോഗത്തിന്റെ അപേക്ഷ നിരസിക്കാന്‍ റദ്ദാക്കുക എന്ന ബട്ടണില്‍ ഞൊട്ടുക.</qt>"
+"വളരെ സുരക്ഷിതമായി സൂക്ഷിക്കാനുപയോഗിക്കുന്നതാണ്. ഈ വാല്ലെറ്റ് ഉപയോഗിക്കാനുള്ള ഒരു അടയാളവാക്ക് ചേര്‍"
+"ക്കുക അല്ലെങ്കില്‍ പ്രയോഗത്തിന്റെ അപേക്ഷ നിരസിക്കാന്‍ റദ്ദാക്കുക എന്ന ബട്ടണില്‍ ഞൊട്ടുക.</qt>"
 
 #: kwalletd.cpp:764
 #, kde-format
@@ -477,14 +462,6 @@ msgstr "അടയാളവാക്ക് യോജിച്ചില്ല."
 #. i18n: ectx: property (text), widget (QLabel, textLabel2_3)
 #: kwalletwizardpageexplanation.ui:17
 #, fuzzy, kde-format
-#| msgid ""
-#| "The KDE Wallet system stores your data in a <i>wallet</i> file on your "
-#| "local hard disk.  The data is only written in encrypted form, presently "
-#| "using the blowfish algorithm with your password as the key.  When a "
-#| "wallet is opened, the wallet manager application will launch and display "
-#| "an icon in the system tray.  You can use this application to manage your "
-#| "wallets.  It even permits you to drag wallets and wallet contents, "
-#| "allowing you to easily copy a wallet to a remote system."
 msgid ""
 "<html><head/><body><p>The KDE Wallet system stores your data in a <span "
 "style=\" font-style:italic;\">wallet</span> file on your local hard disk. "
@@ -628,13 +605,6 @@ msgstr "അടയാളവാക്ക് പരിശോധിക്കട്�
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
 #: kwalletwizardpagepasswordgpg.ui:17
 #, fuzzy, kde-format
-#| msgid ""
-#| "Various applications may attempt to use the KDE wallet to store passwords "
-#| "or other information such as web form data and cookies.  If you would "
-#| "like these applications to use the wallet, you must enable it now and "
-#| "choose a password.  The password you choose <i>cannot</i> be recovered if "
-#| "it is lost, and will allow anyone who knows it to obtain all the "
-#| "information contained in the wallet."
 msgid ""
 "<html><head/><body><p>Various applications may attempt to use the KDE wallet "
 "to store passwords or other information such as web form data and cookies. "
@@ -660,7 +630,6 @@ msgstr ""
 
 #: main.cpp:180
 #, fuzzy, kde-format
-#| msgid "KWallet"
 msgid "kwalletd"
 msgstr "കെവാലെറ്റ്"
 
@@ -686,7 +655,6 @@ msgstr "മിക്കേല്‍ ലുപോള്‍ഡ്"
 
 #: main.cpp:187
 #, fuzzy, kde-format
-#| msgid "Former maintainer"
 msgid "Former Maintainer"
 msgstr "മുന്‍ പരിപാലകന്‍"
 
@@ -711,7 +679,6 @@ msgid "D-Bus Interface"
 msgstr "ഡിബസ് വിനിമയതലം"
 
 #, fuzzy
-#~| msgid "KDE Wallet Service"
 #~ msgid "KDE Wallet Migration Agent"
 #~ msgstr "കെഡി‌ഇ വാല്ലെറ്റ് സേവനം"
 
@@ -726,7 +693,6 @@ msgstr "ഡിബസ് വിനിമയതലം"
 #~ msgstr "സൃ&ഷ്ടിക്കുക"
 
 #, fuzzy
-#~| msgid "(C) 2002-2008 George Staikos, Michael Leupold, Thiago Maceira"
 #~ msgid ""
 #~ "(C) 2002-2008 George Staikos, Michael Leupold, Thiago Maceira, Valentin "
 #~ "Rusu"

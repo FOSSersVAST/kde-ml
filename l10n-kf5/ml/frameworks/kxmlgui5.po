@@ -30,8 +30,6 @@ msgstr "%1 സംബന്ധിച്ചു്"
 
 #: kaboutapplicationdialog.cpp:98
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />&nbsp;</html>"
 msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
 msgstr " <html><font size=\"5\">%1</font><br/><b>ലക്കം %2</b><br/>&nbsp;</html>"
 
@@ -54,15 +52,11 @@ msgstr ""
 
 #: kaboutapplicationdialog.cpp:165
 #, fuzzy, kde-format
-#| msgid "Libraries"
 msgid "&Libraries"
 msgstr "ലൈബ്രറികള്‍"
 
 #: kaboutapplicationdialog.cpp:186
 #, fuzzy, kde-format
-#| msgid ""
-#| "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
-#| "report bugs.\n"
 msgid ""
 "Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to "
 "report bugs.\n"
@@ -72,7 +66,6 @@ msgstr ""
 
 #: kaboutapplicationdialog.cpp:192
 #, fuzzy, kde-format
-#| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
 msgstr "ദയവായി പിശകുകള്‍ <a href=\"mailto:%1\">%2</a>-ലേക്കു് രേഖപ്പെടുത്തുക.\n"
 
@@ -103,7 +96,6 @@ msgstr "ലൈസന്‍സ് എഗ്രിമെന്റ്"
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:62
 #, fuzzy, kde-format
-#| msgid "Email contributor"
 msgctxt "Action to send an email to a contributor"
 msgid "Email contributor"
 msgstr "ഈമെയില്‍ സംഭാവന ചെയ്തവര്‍:"
@@ -161,8 +153,6 @@ msgstr ""
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:265
 #, fuzzy, kde-format
-#| msgctxt "@application/plain"
-#| msgid "%1"
 msgctxt "@item Contributor name in about dialog."
 msgid "%1"
 msgstr "%1"
@@ -198,9 +188,6 @@ msgstr "കെഡിഇയെക്കുറിച്ച്"
 
 #: kaboutkdedialog_p.cpp:46
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><font size=\"5\">KDE - Be Free!</font><br /><b>Platform Version %1</"
-#| "b></html>"
 msgid "<html><font size=\"5\">KDE - Be Free!</font></html>"
 msgstr ""
 "<html><font size=\"5\">കെഡിഇ - സ്വതന്ത്രരാകൂ!</font><br /><b>പ്ലാറ്റ്ഫോം ലക്കം %1</"
@@ -208,16 +195,6 @@ msgstr ""
 
 #: kaboutkdedialog_p.cpp:55
 #, fuzzy, kde-format
-#| msgid ""
-#| "<html><b>KDE</b> is a world-wide network of software engineers, artists, "
-#| "writers, translators and facilitators who are committed to <a href="
-#| "\"%1\">Free Software</a> development. This community has created hundreds "
-#| "of Free Software applications as part of the KDE Development Platform and "
-#| "KDE Software Distribution.<br /><br />KDE is a cooperative enterprise in "
-#| "which no single entity controls the efforts or products of KDE to the "
-#| "exclusion of others. Everyone is welcome to join and contribute to KDE, "
-#| "including you.<br /><br />Visit <a href=\"%2\">%2</a> for more "
-#| "information about the KDE community and the software we produce.</html>"
 msgid ""
 "<html><b>KDE</b> is a world-wide community of software engineers, artists, "
 "writers, translators and creators who are committed to <a href=\"%1\">Free "
@@ -475,7 +452,6 @@ msgstr "ബഗ് റിപ്പോര്‍ട്ട് മാന്ത്ര�
 
 #: kbugreport.cpp:318
 #, fuzzy, kde-format
-#| msgid "Submit Bug Report"
 msgid "&Submit Bug Report"
 msgstr "പിശകു് രേഖപ്പെടുത്തുക"
 
@@ -518,10 +494,6 @@ msgstr ""
 
 #: kbugreport.cpp:476
 #, fuzzy, kde-format
-#| msgid ""
-#| "Unable to send the bug report.\n"
-#| "Please submit a bug report manually....\n"
-#| "See http://bugs.kde.org/ for instructions."
 msgid ""
 "Unable to send the bug report.\n"
 "Please submit a bug report manually....\n"
@@ -569,13 +541,11 @@ msgstr "<h2>ത്വരിതപ്പെടുത്തുന്നവയെ �
 
 #: kcheckaccelerators.cpp:320 kcheckaccelerators.cpp:331
 #, fuzzy, kde-format
-#| msgid "Find Text"
 msgid "Old Text"
 msgstr "വാചകം കണ്ടുപിടിക്കുക"
 
 #: kcheckaccelerators.cpp:322 kcheckaccelerators.cpp:340
 #, fuzzy, kde-format
-#| msgid "Show help"
 msgid "New Text"
 msgstr "സഹായം കാണിയ്ക്കുക"
 
@@ -596,7 +566,6 @@ msgstr "--- separator ---"
 
 #: kedittoolbar.cpp:56
 #, fuzzy, kde-format
-#| msgid "--- separator ---"
 msgid "--- expanding spacer ---"
 msgstr "--- separator ---"
 
@@ -910,19 +879,16 @@ msgstr "കുറുക്കുവഴികള്‍ ക്രമീകരി�
 
 #: ksendbugmail/main.cpp:44
 #, fuzzy, kde-format
-#| msgid "Create content on server"
 msgid "Error connecting to server."
 msgstr "സെര്‍വറില്‍ ഉള്ളടക്കം സൃഷ്ടിയ്ക്കുക"
 
 #: ksendbugmail/main.cpp:47
 #, fuzzy, kde-format
-#| msgid "Not found"
 msgid "Not connected."
 msgstr "കണ്ടില്ല"
 
 #: ksendbugmail/main.cpp:50
 #, fuzzy, kde-format
-#| msgid "Connection timed out"
 msgid "Connection timed out."
 msgstr "അനുവദിച്ച സമയത്തിനുള്ളില്‍ ബന്ധപ്പെടാന്‍ സാധിച്ചില്ല"
 
@@ -933,25 +899,21 @@ msgstr ""
 
 #: ksendbugmail/main.cpp:57
 #, fuzzy, kde-format
-#| msgid "Server: %1"
 msgid "Server said: \"%1\""
 msgstr "സേവകന്‍: %1"
 
 #: ksendbugmail/main.cpp:88
 #, fuzzy, kde-format
-#| msgid "Send bug report."
 msgid "Sends a bug report by email."
 msgstr "പിശകു് അയയ്ക്കുക."
 
 #: ksendbugmail/main.cpp:90
 #, fuzzy, kde-format
-#| msgid "The size of the dialog"
 msgid "The subject line of the email."
 msgstr "ഡയലോഗിന്റെ വലിപ്പം"
 
 #: ksendbugmail/main.cpp:91
 #, fuzzy, kde-format
-#| msgid "The email address this bug report is sent to."
 msgid "The email address to send the bug report to."
 msgstr "ഈ പിശകു് രേഖപ്പെടുത്തിയിരിക്കുന്ന ഈമെയില്‍ വിലാസം."
 
@@ -992,7 +954,6 @@ msgstr "കൂടുതല്‍ നടപടികള്‍"
 
 #: kshortcutschemeseditor.cpp:91
 #, fuzzy, kde-format
-#| msgid "Shortcut Schemes"
 msgid "Save shortcuts to scheme"
 msgstr "കുറുക്കുവഴികളുടെ പദ്ധതികള്‍"
 
@@ -1003,7 +964,6 @@ msgstr "പദ്ധതി പുറത്തെടുക്കുക..."
 
 #: kshortcutschemeseditor.cpp:95
 #, fuzzy, kde-format
-#| msgid "Export Scheme..."
 msgid "Import Scheme..."
 msgstr "പദ്ധതി പുറത്തെടുക്കുക..."
 
@@ -1034,31 +994,26 @@ msgid ""
 "Note that this will not remove any system wide shortcut schemes."
 msgstr ""
 "%1 എന്ന പദ്ധതി കളയണമെന്നുറപ്പാണോ?\n"
-"സിസ്റ്റത്തിനു് മുഴുവനും ബാധകമായ കുറുക്കുവഴി പദ്ധതികളൊന്നും ഇതു് നീക്കം ചെയ്യില്ലെന്നു് പ്രത്യേകം "
-"ഓര്‍ക്കുക."
+"സിസ്റ്റത്തിനു് മുഴുവനും ബാധകമായ കുറുക്കുവഴി പദ്ധതികളൊന്നും ഇതു് നീക്കം ചെയ്യില്ലെന്നു് പ്രത്യേകം ഓര്‍"
+"ക്കുക."
 
 #: kshortcutschemeseditor.cpp:178
 #, fuzzy, kde-format
-#| msgid "Shortcuts"
 msgid "Export Shortcuts"
 msgstr "കുറുക്കുവഴികള്‍"
 
 #: kshortcutschemeseditor.cpp:178 kshortcutschemeseditor.cpp:189
 #, fuzzy, kde-format
-#| msgctxt "header for an applications shortcut list"
-#| msgid "Shortcuts for %1"
 msgid "Shortcuts (*.shortcuts)"
 msgstr "%1-ലേക്കുള്ള കുറുക്കുവഴി"
 
 #: kshortcutschemeseditor.cpp:189
 #, fuzzy, kde-format
-#| msgid "Shortcuts"
 msgid "Import Shortcuts"
 msgstr "കുറുക്കുവഴികള്‍"
 
 #: kshortcutschemeseditor.cpp:200
 #, fuzzy, kde-format
-#| msgid "The removal request was successfully registered."
 msgid "Shortcut scheme successfully saved."
 msgstr "നീക്കം ചെയ്യാനാവശ്യപ്പെട്ടത് എഴുതിവച്ചിട്ടുണ്ട്"
 
@@ -1076,7 +1031,6 @@ msgstr ""
 
 #: kshortcutsdialog.cpp:135
 #, fuzzy, kde-format
-#| msgid "New Scheme"
 msgid "Manage &Schemes"
 msgstr "ഇപ്പോഴുള്ള പദ്ധതി"
 
@@ -1193,7 +1147,6 @@ msgstr "ഗ്ലോബല്‍:"
 
 #: kshortcutseditor.cpp:717
 #, fuzzy, kde-format
-#| msgid "Global Alternate"
 msgid "Global alternate:"
 msgstr "എല്ലായിടത്തും പകരാമായുള്ളത്"
 
@@ -1284,21 +1237,18 @@ msgstr ""
 
 #: ktoolbar.cpp:309
 #, fuzzy, kde-format
-#| msgid "Show help"
 msgctxt "@title:menu"
 msgid "Show Text"
 msgstr "സഹായം കാണിയ്ക്കുക"
 
 #: ktoolbar.cpp:312
 #, fuzzy, kde-format
-#| msgid "Toolbar Settings"
 msgctxt "@title:menu"
 msgid "Toolbar Settings"
 msgstr "പണിയായുധനിരയുടെ സജ്ജീകരണങ്ങള്‍"
 
 #: ktoolbar.cpp:314
 #, fuzzy, kde-format
-#| msgid "Orientation"
 msgctxt "Toolbar orientation"
 msgid "Orientation"
 msgstr "ദിശ"
@@ -1418,7 +1368,6 @@ msgstr ""
 
 #: kxmlguiwindow.cpp:437
 #, fuzzy, kde-format
-#| msgid "Shortcuts"
 msgid "Ambiguous Shortcuts"
 msgstr "കുറുക്കുവഴികള്‍"
 
@@ -1496,21 +1445,16 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "അടയ്ക്കുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><font size=\"5\">KDE - Be Free!</font><br /><b>Platform Version "
-#~| "%1</b></html>"
 #~ msgid "<html><font size=\"5\">%1</font></html>"
 #~ msgstr ""
 #~ "<html><font size=\"5\">കെഡിഇ - സ്വതന്ത്രരാകൂ!</font><br /><b>പ്ലാറ്റ്ഫോം ലക്കം "
 #~ "%1</b></html>"
 
 #, fuzzy
-#~| msgid "<br />Version: %1"
 #~ msgid "<b>Version %1</b>"
 #~ msgstr "<br />ലക്കം: %1"
 
 #, fuzzy
-#~| msgid "Version:"
 #~ msgid "&Version"
 #~ msgstr "ലക്കം:"
 
@@ -1527,9 +1471,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "സ്ഥലം അസാധുവായതിനാല്‍ കുറുക്കുവഴി പദ്ധതി പുറത്തുവയ്ക്കുവാന്‍ സാധിച്ചില്ല"
 
 #, fuzzy
-#~| msgid ""
-#~| "<html><font size=\"5\">%1</font><br/><b>version %2</b><br/>Using KDE %3</"
-#~| "html>"
 #~ msgctxt ""
 #~ "Program name, version and KDE platform version; do not translate "
 #~ "'Development Platform'"
@@ -1585,7 +1526,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ "ദയവായി നിങ്ങളുടെ സിസ്റ്റത്തില്‍ KDEPIM/Kontact പൊതി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക."
 
 #, fuzzy
-#~| msgid "Test"
 #~ msgid "TETest"
 #~ msgstr "പരീക്ഷിയ്ക്കുക"
 
@@ -2037,8 +1977,8 @@ msgstr "പ്രധാന പണിയായുധനിര"
 
 #~ msgid "Too many misspelled words. As-you-type spell checking disabled."
 #~ msgstr ""
-#~ "ഒരുപാടു് തെറ്റുള്ള വാക്കുകളുണ്ടു്. ടൈപ്പ് ചെയ്യുന്നതനുസരിച്ചുള്ള അക്ഷരത്തെറ്റു് പരിശോധന "
-#~ "നിര്‍ജ്ജീമാക്കിയിരിക്കുന്നു."
+#~ "ഒരുപാടു് തെറ്റുള്ള വാക്കുകളുണ്ടു്. ടൈപ്പ് ചെയ്യുന്നതനുസരിച്ചുള്ള അക്ഷരത്തെറ്റു് പരിശോധന നിര്‍"
+#~ "ജ്ജീമാക്കിയിരിക്കുന്നു."
 
 #~ msgid "Check Spelling..."
 #~ msgstr "അക്ഷരത്തെറ്റു്ം പരിശോധിക്കുക..."
@@ -2123,7 +2063,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "ലക്ഷ്യ അറയില്‍ മതിയായ അനുവാദങ്ങളില്ല"
 
 #, fuzzy
-#~| msgid "Unable to open temporary file."
 #~ msgid "Unable to open temporary file. Error was: %1."
 #~ msgstr "താല്‍ക്കാലിക ഫയല്‍ തുറക്കുവാന്‍ സാധ്യമല്ല."
 
@@ -2366,10 +2305,10 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ "internationalization visit <a href=\"http://l10n.kde.org\">http://l10n."
 #~ "kde.org</a></p>"
 #~ msgstr ""
-#~ "<p>കെഡിഇ മലയാളം നിങ്ങള്‍ക്കായി അവതരിപ്പിക്കുന്നതു് സ്വതന്ത്ര മലയാളം "
-#~ "കമ്പ്യൂട്ടിങ്ങ്പ്രവര്‍ത്തകരാണു്.</p><p>സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് കൂട്ടായ്മയെപ്പറ്റി "
-#~ "കൂടുതലറിയാനും മലയാളം കമ്പ്യൂട്ടിങ്ങ് പ്രവര്‍ത്തനങ്ങളില്‍ പങ്കുചേരാനും <a href=\"http://smc."
-#~ "org.in\">http://smc.org.in </a> എന്ന വെബ്സൈറ്റ് സന്ദര്‍ശിയ്ക്കുക</p>"
+#~ "<p>കെഡിഇ മലയാളം നിങ്ങള്‍ക്കായി അവതരിപ്പിക്കുന്നതു് സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ്പ്രവര്‍"
+#~ "ത്തകരാണു്.</p><p>സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് കൂട്ടായ്മയെപ്പറ്റി കൂടുതലറിയാനും മലയാളം "
+#~ "കമ്പ്യൂട്ടിങ്ങ് പ്രവര്‍ത്തനങ്ങളില്‍ പങ്കുചേരാനും <a href=\"http://smc.org.in\">http://smc."
+#~ "org.in </a> എന്ന വെബ്സൈറ്റ് സന്ദര്‍ശിയ്ക്കുക</p>"
 
 #~ msgid "Use the X-server display 'displayname'"
 #~ msgstr "ഉപയോഗിക്കേണ്ട ഇയാഗ്നോ സര്‍വര്‍"
@@ -3745,8 +3684,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "നല്‍കിയ സേവനം സാധുവല്ല"
 
 #, fuzzy
-#~| msgid ""
-#~| "The service '%1' provides no library or the Library key is missing in "
 #~ msgid "The service '%1' provides no library or the Library key is missing"
 #~ msgstr "'%1' എന്ന സേവനം ലൈബ്രറിയൊന്നും നല്‍കുന്നില്ല അഥവാ ലൈബ്രറി കീ കാണാനില്ലാത്തതു് "
 
@@ -3841,9 +3778,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "&സ്ഥിതിത്തട്ട് കാണിക്കുക"
 
 #, fuzzy
-#~| msgid ""
-#~| "Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-#~| "bottom of the window used for status information."
 #~ msgid ""
 #~ "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
 #~ "the window used for status information.</p>"
@@ -3855,8 +3789,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "പുതിയത് &n"
 
 #, fuzzy
-#~| msgctxt "@label"
-#~| msgid "Create new tag:"
 #~ msgid "Create new document"
 #~ msgstr "പുതിയ ടാഗുണ്ടാക്കുക:"
 
@@ -3870,7 +3802,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "&സൂക്ഷിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Save document"
 #~ msgstr "രേഖ അടയ്ക്കുക"
 
@@ -3884,7 +3815,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "അടയ്ക്കുക &c"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Close document"
 #~ msgstr "രേഖ അടയ്ക്കുക"
 
@@ -3892,8 +3822,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "&അച്ചടിയ്ക്കുക..."
 
 #, fuzzy
-#~| msgctxt "keyboard-key-name"
-#~| msgid "PrintScreen"
 #~ msgid "Print document"
 #~ msgstr "PrintScreen"
 
@@ -3913,10 +3841,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "വീണ്ടും &d"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "A link to make a donation for a Get Hot New Stuff item (opens a web "
-#~| "browser)"
-#~| msgid "Make a donation"
 #~ msgid "Redo last undone action"
 #~ msgstr "ഒരു സഹായം നല്‍കുക"
 
@@ -3930,7 +3854,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "&ഒട്ടിയ്ക്കുക"
 
 #, fuzzy
-#~| msgid "Upload content"
 #~ msgid "Paste clipboard content"
 #~ msgstr "കലാസൃഷ്ടി കയറ്റുക"
 
@@ -3977,7 +3900,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "&വലുതാക്കുക..."
 
 #, fuzzy
-#~| msgid "Select a week"
 #~ msgid "Select zoom level"
 #~ msgstr "ഒരു ആഴ്ച തെരഞ്ഞെടുക്കുക"
 
@@ -3985,7 +3907,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "പുനഃപ്രദര്‍ശിപ്പിയ്ക്കുക &r"
 
 #, fuzzy
-#~| msgid "&Redisplay"
 #~ msgid "Redisplay document"
 #~ msgstr "പുനഃപ്രദര്‍ശിപ്പിയ്ക്കുക &r"
 
@@ -3996,7 +3917,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "മുമ്പത്തെ താള്‍ &p"
 
 #, fuzzy
-#~| msgid "&Previous Page"
 #~ msgid "Go to previous page"
 #~ msgstr "മുമ്പത്തെ താള്‍ &p"
 
@@ -4004,8 +3924,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "അടുത്ത താള്‍ &n"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to next page"
 #~ msgstr "വരിയിലേയ്ക്കു് പോകുക"
 
@@ -4022,8 +3940,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "&ആദ്യത്തെ താള്‍"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Go to Line"
 #~ msgid "Go to first page"
 #~ msgstr "വരിയിലേയ്ക്കു് പോകുക"
 
@@ -4031,23 +3947,18 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "അ&വസാന താള്‍"
 
 #, fuzzy
-#~| msgid "&Go to Page..."
 #~ msgid "Go to last page"
 #~ msgstr "താളിലേയ്ക്ക് പോകുക &g..."
 
 #, fuzzy
-#~| msgid "&Back in the Document"
 #~ msgid "Go back in document"
 #~ msgstr "രേഖയില്‍ &പുറകോട്ടു്"
 
 #, fuzzy
-#~| msgctxt "go forward"
-#~| msgid "&Forward"
 #~ msgid "&Forward"
 #~ msgstr "&മുമ്പോട്ടു്"
 
 #, fuzzy
-#~| msgid "&Forward in the Document"
 #~ msgid "Go forward in document"
 #~ msgstr "രേഖയില്‍ &മുമ്പോട്ടു്"
 
@@ -4061,12 +3972,10 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "അക്ഷരത്തെറ്റു്..."
 
 #, fuzzy
-#~| msgid "Check Spelling"
 #~ msgid "Check spelling in document"
 #~ msgstr "അക്ഷരത്തെറ്റു്ം പരിശോധിക്കുന്നു"
 
 #, fuzzy
-#~| msgid "Show &Menubar"
 #~ msgid "Show or hide menubar"
 #~ msgstr "&വിഭവത്തട്ട് കാണിക്കുക"
 
@@ -4074,14 +3983,10 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "&പണിയായുധനിര കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Show Toolbar"
 #~ msgid "Show or hide toolbar"
 #~ msgstr "പണിയായുധനിര കാണിയ്ക്കുക"
 
 #, fuzzy
-#~| msgctxt "@action"
-#~| msgid "Show Statusbar"
 #~ msgid "Show or hide statusbar"
 #~ msgstr "സ്ഥിതിത്തട്ട് കാണിക്കുക"
 
@@ -4125,31 +4030,26 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "&കെഡിഇയെക്കുറിച്ചു്"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Exit F&ull Screen Mode"
 #~ msgstr "&ഫുള്‍ സ്ക്രീന്‍ ദശയില്‍നിന്നു പുറത്തിറങ്ങുക"
 
 #, fuzzy
-#~| msgid "Exit Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Exit Full Screen"
 #~ msgstr "പൂര്‍ണ്ണവലിപ്പത്തിലുള്ള സ്ക്രീനില്‍ നിന്നും പുറത്ത് കടക്കുക"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Exit full screen mode"
 #~ msgstr "&ഫുള്‍ സ്ക്രീന്‍ ദശയില്‍നിന്നു പുറത്തിറങ്ങുക"
 
 #, fuzzy
-#~| msgid "F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "F&ull Screen Mode"
 #~ msgstr "സ്ക്രീന്‍ &പരമാവധി വലിപ്പത്തില്‍ കാണുക"
 
 #, fuzzy
-#~| msgid "Full Screen"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Full Screen"
 #~ msgstr "സ്ക്രീന്‍ പരമാവധി വലിപ്പത്തില്‍ കാണുക"
@@ -4538,7 +4438,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "താഴെ ഒരു ഉപയോക്താവിന്റെ പേരും അടയാളവാക്കും നല്‍കുക."
 
 #, fuzzy
-#~| msgid "&Keep password"
 #~ msgid "Use this password:"
 #~ msgstr "അടയാളവാക്ക് സൂക്ഷിയ്ക്കുക &k"
 
@@ -5862,8 +5761,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "സണ്ടനീസ്"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Katakana"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Batak"
 #~ msgstr "കടങ്കാന"
@@ -6153,8 +6050,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "തായി വിയറ്റ്"
 
 #, fuzzy
-#~| msgctxt "KCharselect unicode block name"
-#~| msgid "Ethiopic Extended"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ethiopic Extended-A"
 #~ msgstr "എഥിയോപിക് എക്സ്റ്റെന്റഡ്"
@@ -6448,71 +6343,51 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "ക്രമീകരണം സൂക്ഷിയ്ക്കാന്‍ നിങ്ങള്‍ക്കനുവാദമില്ല"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next year"
 #~ msgid "Next Year"
 #~ msgstr "അടുത്ത വര്‍ഷം"
 
 #, fuzzy
-#~| msgid "Next month"
 #~ msgctxt "@option next month"
 #~ msgid "Next Month"
 #~ msgstr "അടുത്ത മാസം"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next week"
 #~ msgid "Next Week"
 #~ msgstr "അടുത്ത വര്‍ഷം"
 
 #, fuzzy
-#~| msgid "Today"
 #~ msgctxt "@option today"
 #~ msgid "Today"
 #~ msgstr "ഇന്ന്"
 
 #, fuzzy
-#~| msgid "Yesterday"
 #~ msgctxt "@option yesterday"
 #~ msgid "Yesterday"
 #~ msgstr "ഇന്നലെ"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "referring to a filter on the modification and usage date of files/"
-#~| "resources"
-#~| msgid "Last Week"
 #~ msgctxt "@option last week"
 #~ msgid "Last Week"
 #~ msgstr "അവസാന ആഴ്ച"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "referring to a filter on the modification and usage date of files/"
-#~| "resources"
-#~| msgid "Last Month"
 #~ msgctxt "@option last month"
 #~ msgid "Last Month"
 #~ msgstr "കഴിഞ്ഞ മാസം"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "referring to a filter on the modification and usage date of files/"
-#~| "resources"
-#~| msgid "Last Year"
 #~ msgctxt "@option last year"
 #~ msgid "Last Year"
 #~ msgstr "അവസാന വര്‍ഷം"
 
 #, fuzzy
-#~| msgid "No text"
 #~ msgctxt "@option do not specify a date"
 #~ msgid "No Date"
 #~ msgstr "വാചകമില്ല"
 
 #, fuzzy
-#~| msgctxt "SSL error"
-#~| msgid "The certificate is invalid"
 #~ msgctxt "@info"
 #~ msgid "The date you entered is invalid"
 #~ msgstr "ഈ സാക്ഷ്യപത്രം അസാധുവാണു്"
@@ -6545,7 +6420,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "ഇന്നത്തെ ദിവസം തെരഞ്ഞെടുക്കുക"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgctxt "No specific time zone"
 #~ msgid "Floating"
 #~ msgstr "വിലയിരുത്തല്‍"
@@ -6771,8 +6645,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "നിഘണ്ടുവില്‍ ചേര്‍ക്കുക"
 
 #, fuzzy
-#~| msgctxt "SSL error"
-#~| msgid "The certificate is invalid"
 #~ msgctxt "@info"
 #~ msgid "The time you entered is invalid"
 #~ msgstr "ഈ സാക്ഷ്യപത്രം അസാധുവാണു്"
@@ -7455,7 +7327,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "മള്‍ട്ടിപാര്‍ട്ട്/മിക്സഡ് എന്നതിനുള്ള എംബഡ് ചെയ്യാവുന്ന ഘടകം"
 
 #, fuzzy
-#~| msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 #~ msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
 #~ msgstr "Copyright 2001, ഡേവിഡ് ഫൌര്‍ <email>david@mandrakesoft.com</email>"
 
@@ -7678,7 +7549,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ "%2"
 
 #, fuzzy
-#~| msgid "KDEInit could not launch '%1'."
 #~ msgid "KDEInit could not launch '%1'"
 #~ msgstr "KDEInit-നു് '%1' ലഭ്യമാക്കുവാന്‍ സാധ്യമായില്ല."
 
@@ -8277,7 +8147,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "നിലവിലുള്ള ഫയല്‍ മാറ്റിയെഴുതണമോ?"
 
 #, fuzzy
-#~| msgid "Download File:"
 #~ msgid "Download File"
 #~ msgstr "ഫയല്‍ ഡൌണ്‍ലോട് ചെയ്യുക:"
 
@@ -9217,8 +9086,8 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ "Check to see logging information about thread activity. Watch the console "
 #~ "output to see the log information."
 #~ msgstr ""
-#~ "ത്രെഡിന്റെ പ്രവൃത്തിയെക്കുറിച്ചുള്ള ലോഗിങ്ങ് വിവരത്തിനു് പരിശോദിയ്ക്കുക. ലോഗ് വിവരം കാണാന്‍ "
-#~ "കണ്‍സോളിലെ ഫലം നോക്കുക."
+#~ "ത്രെഡിന്റെ പ്രവൃത്തിയെക്കുറിച്ചുള്ള ലോഗിങ്ങ് വിവരത്തിനു് പരിശോദിയ്ക്കുക. ലോഗ് വിവരം കാണാന്‍ കണ്‍"
+#~ "സോളിലെ ഫലം നോക്കുക."
 
 #~ msgid "Log thread activity"
 #~ msgstr "ത്രെഡിന്റെ പ്രവൃത്തികള്‍ രേഖപ്പെടുത്തുക"
@@ -9272,22 +9141,16 @@ msgstr "പ്രധാന പണിയായുധനിര"
 #~ msgstr "&എന്താണിതു്?"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next week"
 #~ msgid "Next week"
 #~ msgstr "അടുത്ത വര്‍ഷം"
 
 #, fuzzy
-#~| msgctxt ""
-#~| "referring to a filter on the modification and usage date of files/"
-#~| "resources"
-#~| msgid "Last Week"
 #~ msgctxt "@option last week"
 #~ msgid "Last week"
 #~ msgstr "അവസാന ആഴ്ച"
 
 #, fuzzy
-#~| msgid "Today"
 #~ msgctxt "@info/plain"
 #~ msgid "today"
 #~ msgstr "ഇന്ന്"
