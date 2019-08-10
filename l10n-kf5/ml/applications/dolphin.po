@@ -22,14 +22,16 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ശ്യാം കൃഷ്ണന്‍ സി.ആര്‍.,സുബിന്‍ സിബി, മുജീബ് റഹ്മാന്‍.കെ,ആദിത്യ ആർ പൈ"
+msgstr ""
+"ശ്യാം കൃഷ്ണന്‍ സി.ആര്‍.,സുബിന്‍ സിബി, മുജീബ് റഹ്മാന്‍.കെ,ആദിത്യ ആർ പൈ,ലക്ഷ്മി"
+" സുനില്‍,ആതിര കെ"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
-"syamcr@gmail.com,subins2000@gmail.com,mujeebcpy@gmail.com,arpapps843@gmail."
-"com, anoopms@disroot.org"
+"syamcr@gmail.com,subins2000@gmail.com,mujeebcpy@gmail.com,arpapps843@gmail.co"
+"m,anoopms@disroot.org,lakshmisunil12@gmail.com,aathira1042k@gmail.com"
 
 #: dolphincontextmenu.cpp:144 panels/places/placespanel.cpp:179
 #, kde-format
