@@ -1,21 +1,23 @@
-# Malayalam translations for kpackage package.
+# Malayalam localization of libpackage5
 # Copyright (C) 2019 This file is copyright:
 # This file is distributed under the same license as the kpackage package.
-# Automatically generated, 2019.
+# ആതിര കെ <aathira1042k@gmail.com>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: kpackage\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-07-17 02:56+0200\n"
-"PO-Revision-Date: 2019-07-17 02:56+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2019-08-04 15:09+0530\n"
+"Last-Translator: aathira k <aathira1042k@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
 "org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: kpackage/package.cpp:57
 #, kde-format
@@ -25,82 +27,82 @@ msgstr ""
 #: kpackage/packageloader.cpp:57
 #, kde-format
 msgid "Accessibility"
-msgstr ""
+msgstr "പ്രാപ്യത"
 
 #: kpackage/packageloader.cpp:58
 #, kde-format
 msgid "Application Launchers"
-msgstr ""
+msgstr " സംരഭകൻ"
 
 #: kpackage/packageloader.cpp:59
 #, kde-format
 msgid "Astronomy"
-msgstr ""
+msgstr "ജ്യോതിശാസ്ത്രം"
 
 #: kpackage/packageloader.cpp:60
 #, kde-format
 msgid "Date and Time"
-msgstr ""
+msgstr "തിയതിയും സമയവും"
 
 #: kpackage/packageloader.cpp:61
 #, kde-format
 msgid "Development Tools"
-msgstr ""
+msgstr "വികസന ഉപകരണങ്ങൾ"
 
 #: kpackage/packageloader.cpp:62
 #, kde-format
 msgid "Education"
-msgstr ""
+msgstr "വിദ്യാഭ്യാസം"
 
 #: kpackage/packageloader.cpp:63
 #, kde-format
 msgid "Environment and Weather"
-msgstr ""
+msgstr "പരിസരവും കാലാവസ്ഥയും"
 
 #: kpackage/packageloader.cpp:64
 #, kde-format
 msgid "Examples"
-msgstr ""
+msgstr "ഉദാഹരണങൾ"
 
 #: kpackage/packageloader.cpp:65
 #, kde-format
 msgid "File System"
-msgstr ""
+msgstr "അറ സിസ്‍റ്റം"
 
 #: kpackage/packageloader.cpp:66
 #, kde-format
 msgid "Fun and Games"
-msgstr ""
+msgstr "കേളീകളും കളികളും"
 
 #: kpackage/packageloader.cpp:67
 #, kde-format
 msgid "Graphics"
-msgstr ""
+msgstr "ഗ്രാഫിക്സ്"
 
 #: kpackage/packageloader.cpp:68
 #, kde-format
 msgid "Language"
-msgstr ""
+msgstr "ഭാഷ"
 
 #: kpackage/packageloader.cpp:69
 #, kde-format
 msgid "Mapping"
-msgstr ""
+msgstr "മാപ്പിങ്"
 
 #: kpackage/packageloader.cpp:70
 #, kde-format
 msgid "Miscellaneous"
-msgstr ""
+msgstr "പലവക"
 
 #: kpackage/packageloader.cpp:71
 #, kde-format
 msgid "Multimedia"
-msgstr ""
+msgstr "മൾടിമീഡിയ"
 
 #: kpackage/packageloader.cpp:72
 #, kde-format
 msgid "Online Services"
-msgstr ""
+msgstr "ഓൺലൈൻ സേവനങ്ങൾ"
 
 #: kpackage/packageloader.cpp:73
 #, kde-format
@@ -110,7 +112,7 @@ msgstr ""
 #: kpackage/packageloader.cpp:74
 #, kde-format
 msgid "System Information"
-msgstr ""
+msgstr "സിസ്റ്റം അറിവ്"
 
 #: kpackage/packageloader.cpp:75
 #, kde-format
@@ -120,7 +122,7 @@ msgstr ""
 #: kpackage/packageloader.cpp:76
 #, kde-format
 msgid "Windows and Tasks"
-msgstr ""
+msgstr "ജനാലകളും ജോലികളും"
 
 #: kpackage/packageloader.cpp:376
 #, kde-format
@@ -135,37 +137,37 @@ msgstr ""
 #: kpackage/private/packagejobthread.cpp:231
 #, kde-format
 msgid "No such file: %1"
-msgstr ""
+msgstr "ഇങ്ങനെ ഒരു അറ നിലവിൽ ഇല്ല:%1"
 
 #: kpackage/private/packagejobthread.cpp:261
 #, kde-format
 msgid "Could not open package file, unsupported archive format: %1 %2"
-msgstr ""
+msgstr "പാ‍കേജ്  അറ തുറക്കാൻ സാധ്യമല്ല,ശേഖരത്തിന്റെ രീതി പിന്തുണക്കപ്പെടൂന്നില്ല:%1%2"
 
 #: kpackage/private/packagejobthread.cpp:269
 #, kde-format
 msgid "Could not open package file: %1"
-msgstr ""
+msgstr "പാ‍കേജ്  അറ തുറക്കാൻ സാധ്യമല്ല:%1"
 
 #: kpackage/private/packagejobthread.cpp:304
 #, kde-format
 msgid "Could not open metadata file: %1"
-msgstr ""
+msgstr "മെറ്റാഡാറ്റ അറ തുറക്കുവാൻ സാധിക്കുന്നതല്ല:%1"
 
 #: kpackage/private/packagejobthread.cpp:315
 #, kde-format
 msgid "No metadata file in package: %1"
-msgstr ""
+msgstr "പാക്കേജിൽ മെറ്റാഡാറ്റ അറ  ലഭ്യം അല്ല:%1"
 
 #: kpackage/private/packagejobthread.cpp:325
 #, kde-format
 msgid "Package plugin name not specified: %1"
-msgstr ""
+msgstr "പാക്കേജ് അനുബന്ധതിന്റെ നാമം വ്യക്തം ആക്കിയിട്ടില്ല:%1"
 
 #: kpackage/private/packagejobthread.cpp:335
 #, kde-format
 msgid "Package plugin name %1 contains invalid characters"
-msgstr ""
+msgstr "പാക്കേജ് അനുബന്ധ നാമം %1 അസാധുവായ അക്ഷരങ്ങൾ അടങ്ങുന്നു"
 
 #: kpackage/private/packagejobthread.cpp:351
 #, kde-format
@@ -187,7 +189,7 @@ msgstr ""
 #: kpackage/private/packagejobthread.cpp:364
 #, kde-format
 msgid "%1 already exists"
-msgstr ""
+msgstr "%1നിലവിൽ ഉണ്ട്"
 
 #: kpackage/private/packagejobthread.cpp:379
 #, kde-format
@@ -197,32 +199,32 @@ msgstr ""
 #: kpackage/private/packagejobthread.cpp:391
 #, kde-format
 msgid "Could not move package to destination: %1"
-msgstr ""
+msgstr "പാക്കേജ് ലക്ഷ്യസ്താനതെക്ക് മാറ്റുവാൻ സാധ്യമല്ല.%1"
 
 #: kpackage/private/packagejobthread.cpp:401
 #, kde-format
 msgid "Could not copy package to destination: %1"
-msgstr ""
+msgstr "പാക്കേജ് ലക്ഷ്യസ്താനതെക്ക് പകർത്തുവാൻ സാധ്യമല്ല:%1"
 
 #: kpackage/private/packagejobthread.cpp:438
 #, kde-format
 msgid "%1 does not exist"
-msgstr ""
+msgstr "%1 നിലവിൽ ഇല്ല"
 
 #: kpackage/private/packagejobthread.cpp:458
 #, kde-format
 msgid "Could not delete package from: %1"
-msgstr ""
+msgstr "പാക്കേജ് ലക്ഷ്യസ്താനതെക്ക് മായ്ക്കുവാൻ സാധ്യമല്ല:%1"
 
 #: kpackage/private/packages.cpp:34 kpackage/private/packages.cpp:55
 #, kde-format
 msgid "Main Script File"
-msgstr ""
+msgstr "പ്രധാന സ്ക്രിപറ്റ്  അറ"
 
 #: kpackage/private/packages.cpp:65
 #, kde-format
 msgid "Images"
-msgstr ""
+msgstr "ചിത്രങ്ങൾ"
 
 #: kpackage/private/packages.cpp:66
 #, kde-format
@@ -232,17 +234,17 @@ msgstr ""
 #: kpackage/private/packages.cpp:72
 #, kde-format
 msgid "Configuration Definitions"
-msgstr ""
+msgstr "രൂപരേഖ വ്യാഖ്യാനങൾ"
 
 #: kpackage/private/packages.cpp:77
 #, kde-format
 msgid "User Interface"
-msgstr ""
+msgstr "ഉപയോഗ മാധ്യമം"
 
 #: kpackage/private/packages.cpp:79
 #, kde-format
 msgid "Data Files"
-msgstr ""
+msgstr "ഡാറ്റ അറകൾ"
 
 #: kpackage/private/packages.cpp:81
 #, kde-format
@@ -252,17 +254,17 @@ msgstr ""
 #: kpackage/private/packages.cpp:86
 #, kde-format
 msgid "Translations"
-msgstr ""
+msgstr "പരിഭാഷകൾ"
 
 #: kpackage/private/packages.cpp:93
 #, kde-format
 msgid "Main UI File"
-msgstr ""
+msgstr "പ്രഥാന UI അറ"
 
 #: kpackagetool/kpackagetool.cpp:146
 #, kde-format
 msgid "Failed to generate a Package hash for %1"
-msgstr ""
+msgstr "%1 പാക്കേജ് ഹാഷ് ഉണ്ടാക്കുവാൻ പരാജയപെട്ടു"
 
 #: kpackagetool/kpackagetool.cpp:149
 #, kde-format
@@ -283,7 +285,7 @@ msgstr ""
 #: kpackagetool/kpackagetool.cpp:326
 #, kde-format
 msgid "Error: Plugin %1 is not installed."
-msgstr ""
+msgstr "തെറ്റു :അനുബന്ധം %1  ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല."
 
 #: kpackagetool/kpackagetool.cpp:336
 #, kde-format
@@ -306,27 +308,27 @@ msgstr ""
 #: kpackagetool/kpackagetool.cpp:392
 #, kde-format
 msgid "      Name : %1"
-msgstr ""
+msgstr " നാമം:%1"
 
 #: kpackagetool/kpackagetool.cpp:393
 #, kde-format
 msgid "   Comment : %1"
-msgstr ""
+msgstr " വ്യാഖ്യാനം:%1"
 
 #: kpackagetool/kpackagetool.cpp:394
 #, kde-format
 msgid "    Plugin : %1"
-msgstr ""
+msgstr " അനുബന്ധം:%1"
 
 #: kpackagetool/kpackagetool.cpp:396
 #, kde-format
 msgid "    Author : %1"
-msgstr ""
+msgstr " സൃഷ്ടാവ്:%1"
 
 #: kpackagetool/kpackagetool.cpp:397
 #, kde-format
 msgid "      Path : %1"
-msgstr ""
+msgstr " പാത:%1"
 
 #: kpackagetool/kpackagetool.cpp:585
 #, kde-format
@@ -351,7 +353,7 @@ msgstr ""
 #: kpackagetool/kpackagetool.cpp:615
 #, kde-format
 msgid "Path"
-msgstr ""
+msgstr "പാത"
 
 #: kpackagetool/kpackagetool.cpp:658
 #, kde-format
@@ -381,17 +383,17 @@ msgstr ""
 #: kpackagetool/kpackagetool.cpp:714
 #, kde-format
 msgid "Generating %1%2"
-msgstr ""
+msgstr "ഉണ്ടാക്കൂന്നു%1%2"
 
 #: kpackagetool/kpackagetool.cpp:716
 #, kde-format
 msgid "Didn't write %1%2"
-msgstr ""
+msgstr "എഴുതിയിട്ടില്ല%1%2"
 
 #: kpackagetool/kpackagetool.cpp:727
 #, kde-format
 msgid "Generating %1/%2"
-msgstr ""
+msgstr "ഉണ്ടാക്കൂന്നു%1%2"
 
 #: kpackagetool/kpackagetool.cpp:729
 #, kde-format
@@ -406,7 +408,7 @@ msgstr ""
 #: kpackagetool/kpackagetool.cpp:750 kpackagetool/kpackagetool.cpp:764
 #, kde-format
 msgid "Removed %1"
-msgstr ""
+msgstr "നീക്കിയിരിക്കുന്നു%1"
 
 #: kpackagetool/kpackagetool.cpp:775
 #, kde-format

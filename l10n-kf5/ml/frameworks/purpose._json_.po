@@ -1,94 +1,101 @@
+# Translation of purpose json
+# ലക്ഷ്മി സുനില്‍ <lakshmisunil12@gmail.com>, 2019.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-24 03:30+0000\n"
-"PO-Revision-Date: 2019-06-24 03:30+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
-"Language: ml\n"
+"POT-Creation-Date: 2019-08-10 20:03+0530\n"
+"PO-Revision-Date: 2019-08-11 16:22+0530\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Last-Translator: ലക്ഷ്മി സുനില്‍ <lakshmisunil12@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ml\n"
 
 #: src/plugins/pastebin/pastebinplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Pastebin"
-msgstr ""
+msgstr "പേസ്റ്റ്ബിന്‍"
 
 #: src/plugins/kdeconnect_sms/kdeconnectsmsplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Send SMS via KDE Connect..."
-msgstr ""
+msgstr "കെഡിഇ കണക്റ്റ് വഴി എസ്.എം.എസ് അയക്കുക..."
 
 #: src/plugins/nextcloud/nextcloudplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "NextCloud..."
-msgstr ""
+msgstr "നെക്സ്റ്റ് ക്ലൌഡ്..."
 
 #: src/plugins/telegram/telegramplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Send via Telegram..."
-msgstr ""
+msgstr "ടെലഗ്രാമിലൂടെ അയക്കുക..."
 
 #: src/plugins/phabricator/phabricatorplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Phabricator..."
-msgstr ""
+msgstr "ഫാബ്രിക്കേറ്റര്‍"
 
 #: src/plugins/saveas/saveasplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Save as..."
-msgstr ""
+msgstr "പേരുമാറ്റി സൂക്ഷിക്കുക..."
 
 #: src/plugins/youtube/youtubeplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Youtube..."
-msgstr ""
+msgstr "യൂട്യൂബ്..."
 
 #: src/plugins/email/emailplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Send via Email..."
-msgstr ""
+msgstr "ഇമെയില്‍ വഴി അയക്കുക"
 
 #: src/plugins/twitter/metadata.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Twitter..."
-msgstr ""
+msgstr "ട്വിറ്റര്‍... "
 
 #: src/plugins/imgur/imgurplugin.json
+#, fuzzy
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Imgur"
-msgstr ""
+msgstr "ഇംഗര്‍"
 
 #: src/plugins/bluetooth/bluetoothplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Send via Bluetooth..."
-msgstr ""
+msgstr "ബ്ലൂടുത്ത് വഴി അയക്കുക..."
 
 #: src/plugins/ktp-sendfile/ktpsendfileplugin.json
+#, fuzzy
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Send To Contact..."
-msgstr ""
+msgstr "പരിചയമുള്ളവര്‍ക്ക് അയക്കുക..."
 
 #: src/plugins/kdeconnect/kdeconnectplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Send To Device..."
-msgstr ""
+msgstr "ഉപകരണത്തിലേക്ക് അയക്കുക..."
 
 #: src/plugins/reviewboard/reviewboardplugin.json
 msgctxt "X-Purpose-ActionDisplay"
 msgid "Review Board..."
-msgstr ""
+msgstr "റിവ്യൂ ബോര്‍ഡ്..."
 
 #: src/fileitemactionplugin/sharefileitemaction.json
 #: src/plugins/kdeconnect_sms/kdeconnectsmsplugin.json
 #: src/plugins/telegram/telegramplugin.json
 #: src/plugins/bluetooth/bluetoothplugin.json
+#, fuzzy
 msgctxt "Authors Name"
 msgid "Nicolas Fella"
-msgstr ""
+msgstr "നിക്കോളാസ് ഫെല്ല"
 
 #: src/plugins/pastebin/pastebinplugin.json
 #: src/plugins/saveas/saveasplugin.json src/plugins/youtube/youtubeplugin.json
@@ -96,134 +103,140 @@ msgstr ""
 #: src/plugins/ktp-sendfile/ktpsendfileplugin.json
 #: src/plugins/kdeconnect/kdeconnectplugin.json
 #: src/plugins/reviewboard/reviewboardplugin.json
+#, fuzzy
 msgctxt "Authors Name"
 msgid "Aleix Pol"
-msgstr ""
+msgstr "അലക്സ് പോള്‍"
 
 #: src/plugins/nextcloud/nextcloudplugin.json
+#, fuzzy
 msgctxt "Authors Name"
 msgid "Lim Yuen Hoe"
-msgstr ""
+msgstr "ലിം യുന്‍ ഹോ"
 
 #: src/plugins/phabricator/phabricatorplugin.json
+#, fuzzy
 msgctxt "Authors Name"
 msgid "René Bertin"
-msgstr ""
+msgstr "റെനെ ബെര്‍ട്ടിന്‍"
 
 #: src/plugins/email/emailplugin.json
+#, fuzzy
 msgctxt "Authors Name"
 msgid "Daniel Vrátil"
-msgstr ""
+msgstr "ഡാനിയേല്‍ വ്രാതില്‍"
 
 #: src/fileitemactionplugin/sharefileitemaction.json
 msgctxt "Name"
 msgid "Share"
-msgstr ""
+msgstr "പങ്കുവയ്ക്കുക"
 
 #: src/plugins/ShareUrlPluginType.json
 msgctxt "Name"
 msgid "Share..."
-msgstr ""
+msgstr "പങ്കുവയ്ക്കുക..."
 
 #: src/plugins/pastebin/pastebinplugin.json
 msgctxt "Name"
 msgid "Pastebin"
-msgstr ""
+msgstr "പേസ്റ്റ്ബിന്‍"
 
 #: src/plugins/ExportPluginType.json
 msgctxt "Name"
 msgid "Upload..."
-msgstr ""
+msgstr "കയറ്റുമതിചെയ്യുക..."
 
 #: src/plugins/kdeconnect_sms/kdeconnectsmsplugin.json
 msgctxt "Name"
 msgid "Send SMS via KDE Connect"
-msgstr ""
+msgstr "കെഡിഇ കണക്റ്റ് വഴി എസ്.എം.എസ് അയക്കുക"
 
 #: src/plugins/nextcloud/nextcloudplugin.json
 msgctxt "Name"
 msgid "NextCloud"
-msgstr ""
+msgstr "നെക്സ്റ്റ് ക്ലൌഡ്"
 
 #: src/plugins/telegram/telegramplugin.json
 msgctxt "Name"
 msgid "Send via Telegram"
-msgstr ""
+msgstr "ടെലഗ്രാമിലൂടെ അയക്കുക"
 
 #: src/plugins/phabricator/phabricatorplugin.json
 msgctxt "Name"
 msgid "Phabricator"
-msgstr ""
+msgstr "ഫാബ്രിക്കേറ്റര്‍"
 
 #: src/plugins/saveas/saveasplugin.json
 msgctxt "Name"
 msgid "Save as"
-msgstr ""
+msgstr "പേരുമാറ്റി സൂക്ഷിക്കുക"
 
 #: src/plugins/youtube/youtubeplugin.json
 msgctxt "Name"
 msgid "YouTube"
-msgstr ""
+msgstr "യൂട്യൂബ്"
 
 #: src/plugins/email/emailplugin.json
 msgctxt "Name"
 msgid "Send via Email"
-msgstr ""
+msgstr "ഇമെയില്‍ വഴി അയക്കുക"
 
 #: src/plugins/twitter/metadata.json
 msgctxt "Name"
 msgid "Twitter"
-msgstr ""
+msgstr "ട്വിറ്റര്‍"
 
 #: src/plugins/imgur/imgurplugin.json
+#, fuzzy
 msgctxt "Name"
 msgid "Imgur"
-msgstr ""
+msgstr "ഇംഗര്‍"
 
 #: src/plugins/bluetooth/bluetoothplugin.json
 msgctxt "Name"
 msgid "Send via Bluetooth"
-msgstr ""
+msgstr "ബ്ലൂടുത്ത് വഴി അയക്കുക"
 
 #: src/plugins/ktp-sendfile/ktpsendfileplugin.json
+#, fuzzy
 msgctxt "Name"
 msgid "Send To Contact"
-msgstr ""
+msgstr "പരിചയമുള്ളവര്‍ക്ക് അയക്കുക"
 
 #: src/plugins/kdeconnect/kdeconnectplugin.json
 msgctxt "Name"
 msgid "Send To Device"
-msgstr ""
+msgstr "ഉപകരണത്തിലേക്ക് അയക്കുക"
 
 #: src/plugins/reviewboard/reviewboardplugin.json
 msgctxt "Name"
 msgid "Review Board"
-msgstr ""
+msgstr "റിവ്യൂ ബോര്‍ഡ്"
 
 #: src/fileitemactionplugin/sharefileitemaction.json
 msgctxt "Description"
 msgid "Share using Purpose"
-msgstr ""
+msgstr "പര്‍പ്പസ് വഴി അയക്കുക"
 
 #: src/plugins/pastebin/pastebinplugin.json
 msgctxt "Description"
 msgid "Upload text to Pastebin"
-msgstr ""
+msgstr "പേസ്റ്റ്ബിനിലേക്ക് കുറിപ്പ് കയറ്റുമതിചെയ്യുക"
 
 #: src/plugins/kdeconnect_sms/kdeconnectsmsplugin.json
 msgctxt "Description"
 msgid "Send SMS via KDE Connect"
-msgstr ""
+msgstr "കെഡിഇ കണക്റ്റ് വഴി എസ്.എം.എസ് അയക്കുക"
 
 #: src/plugins/nextcloud/nextcloudplugin.json
 msgctxt "Description"
 msgid "Upload files to Nextcloud"
-msgstr ""
+msgstr "നെക്സ്റ്റ് ക്ലൌഡിലേക്ക് ഫയലുകള്‍ കയറ്റുമതിചെയ്യുക"
 
 #: src/plugins/telegram/telegramplugin.json
 msgctxt "Description"
 msgid "Send via Telegram"
-msgstr ""
+msgstr "ടെലഗ്രാമിലൂടെ അയക്കുക"
 
 #: src/plugins/phabricator/phabricatorplugin.json
 msgctxt "Description"
@@ -238,12 +251,12 @@ msgstr ""
 #: src/plugins/youtube/youtubeplugin.json
 msgctxt "Description"
 msgid "Upload videos to YouTube"
-msgstr ""
+msgstr "യൂട്യൂബിലേക്ക് വീഡിയോകള്‍ കയറ്റുമതിചെയ്യുക"
 
 #: src/plugins/email/emailplugin.json
 msgctxt "Description"
 msgid "Send via Email"
-msgstr ""
+msgstr "ഇമെയില്‍ വഴി അയക്കുക"
 
 #: src/plugins/twitter/metadata.json
 msgctxt "Description"
@@ -253,22 +266,22 @@ msgstr ""
 #: src/plugins/imgur/imgurplugin.json
 msgctxt "Description"
 msgid "Upload pictures to Imgur"
-msgstr ""
+msgstr "ഇംഗറിലേക്ക് ചിത്രങ്ങള്‍ കയറ്റുമതിചെയ്യുക"
 
 #: src/plugins/bluetooth/bluetoothplugin.json
 msgctxt "Description"
 msgid "Send via Bluetooth"
-msgstr ""
+msgstr "ബ്ലൂടൂത്ത് വഴി അയക്കുക"
 
 #: src/plugins/ktp-sendfile/ktpsendfileplugin.json
 msgctxt "Description"
 msgid "Send through Instant Messaging"
-msgstr ""
+msgstr "ഇന്‍സ്റ്റന്റ് മെസേജിംഗിലൂടെ അയക്കുക"
 
 #: src/plugins/kdeconnect/kdeconnectplugin.json
 msgctxt "Description"
 msgid "Send through KDE Connect"
-msgstr ""
+msgstr "കെഡിഇ കണക്റ്റ് വഴി അയക്കുക"
 
 #: src/plugins/reviewboard/reviewboardplugin.json
 msgctxt "Description"
