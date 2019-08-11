@@ -8,7 +8,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: cantor\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+<<<<<<< .mine
 "POT-Creation-Date: 2019-05-20 03:01+0200\n"
+||||||| .r1549247
+"POT-Creation-Date: 2019-08-06 02:47+0200\n"
+=======
+"POT-Creation-Date: 2019-08-11 02:44+0200\n"
+>>>>>>> .r1549342
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1871,11 +1877,29 @@ msgid ""
 "supported versions to make it work with Cantor."
 msgstr ""
 
+<<<<<<< .mine
 #: backends/sage/sagesession.cpp:242 backends/sage/sagesession.cpp:275
 #: backends/sage/sagesession.cpp:354 backends/sage/sagesession.cpp:365
 #: cantor.cpp:185 cantor.cpp:187 cantor.cpp:314 cantor.cpp:318 main.cpp:77
 #: main.cpp:144 worksheet.cpp:961 worksheet.cpp:1012 worksheet.cpp:1035
 #: worksheet.cpp:1044 worksheet.cpp:1063 worksheet.cpp:1074
+||||||| .r1549247
+#: backends/sage/sagesession.cpp:240 backends/sage/sagesession.cpp:273
+#: backends/sage/sagesession.cpp:352 backends/sage/sagesession.cpp:363
+#: cantor.cpp:211 cantor.cpp:213 cantor.cpp:342 cantor.cpp:346 main.cpp:77
+#: main.cpp:144 markdownentry.cpp:688 textentry.cpp:574 worksheet.cpp:1054
+#: worksheet.cpp:1106 worksheet.cpp:1127 worksheet.cpp:1147 worksheet.cpp:1164
+#: worksheet.cpp:1183 worksheet.cpp:1194 worksheet.cpp:1295 worksheet.cpp:1307
+#: worksheet.cpp:1330 worksheet.cpp:1341 worksheet.cpp:1448 worksheet.cpp:1450
+=======
+#: backends/sage/sagesession.cpp:240 backends/sage/sagesession.cpp:273
+#: backends/sage/sagesession.cpp:352 backends/sage/sagesession.cpp:363
+#: cantor.cpp:211 cantor.cpp:213 cantor.cpp:342 cantor.cpp:346 main.cpp:77
+#: main.cpp:144 markdownentry.cpp:688 textentry.cpp:574 worksheet.cpp:1054
+#: worksheet.cpp:1106 worksheet.cpp:1127 worksheet.cpp:1147 worksheet.cpp:1164
+#: worksheet.cpp:1183 worksheet.cpp:1194 worksheet.cpp:1295 worksheet.cpp:1310
+#: worksheet.cpp:1334 worksheet.cpp:1345 worksheet.cpp:1452 worksheet.cpp:1454
+>>>>>>> .r1549342
 #, kde-format
 msgid "Cantor"
 msgstr ""
@@ -2122,7 +2146,13 @@ msgstr ""
 msgid "Export to LaTeX"
 msgstr ""
 
+<<<<<<< .mine
 #: cantor_part.cpp:225 cantor_part.cpp:591 worksheet.cpp:1221
+||||||| .r1549247
+#: cantor_part.cpp:225 cantor_part.cpp:632 worksheet.cpp:1522
+=======
+#: cantor_part.cpp:225 cantor_part.cpp:632 worksheet.cpp:1526
+>>>>>>> .r1549342
 #, kde-format
 msgid "Evaluate Worksheet"
 msgstr ""
@@ -2162,17 +2192,35 @@ msgstr ""
 msgid "Evaluate Entry"
 msgstr ""
 
+<<<<<<< .mine
 #: cantor_part.cpp:272 worksheet.cpp:1261
+||||||| .r1549247
+#: cantor_part.cpp:280 worksheet.cpp:1562
+=======
+#: cantor_part.cpp:280 worksheet.cpp:1566
+>>>>>>> .r1549342
 #, kde-format
 msgid "Insert Command Entry"
 msgstr ""
 
+<<<<<<< .mine
 #: cantor_part.cpp:278 worksheet.cpp:1262
+||||||| .r1549247
+#: cantor_part.cpp:286 worksheet.cpp:1563
+=======
+#: cantor_part.cpp:286 worksheet.cpp:1567
+>>>>>>> .r1549342
 #, kde-format
 msgid "Insert Text Entry"
 msgstr ""
 
+<<<<<<< .mine
 #: cantor_part.cpp:284 worksheet.cpp:1264
+||||||| .r1549247
+#: cantor_part.cpp:292 worksheet.cpp:1565
+=======
+#: cantor_part.cpp:292 worksheet.cpp:1569
+>>>>>>> .r1549342
 #, kde-format
 msgid "Insert Markdown Entry"
 msgstr ""
@@ -2182,12 +2230,24 @@ msgstr ""
 msgid "Insert Latex Entry"
 msgstr ""
 
+<<<<<<< .mine
 #: cantor_part.cpp:297 worksheet.cpp:1270
+||||||| .r1549247
+#: cantor_part.cpp:305 worksheet.cpp:1571
+=======
+#: cantor_part.cpp:305 worksheet.cpp:1575
+>>>>>>> .r1549342
 #, kde-format
 msgid "Insert Page Break"
 msgstr ""
 
+<<<<<<< .mine
 #: cantor_part.cpp:302 worksheet.cpp:1269
+||||||| .r1549247
+#: cantor_part.cpp:310 worksheet.cpp:1570
+=======
+#: cantor_part.cpp:310 worksheet.cpp:1574
+>>>>>>> .r1549342
 #, kde-format
 msgid "Insert Image"
 msgstr ""
@@ -2254,7 +2314,13 @@ msgstr ""
 msgid "Restart %1?"
 msgstr ""
 
+<<<<<<< .mine
 #: cantor_part.cpp:583 worksheet.cpp:1224
+||||||| .r1549247
+#: cantor_part.cpp:624 worksheet.cpp:1525
+=======
+#: cantor_part.cpp:624 worksheet.cpp:1529
+>>>>>>> .r1549342
 #, kde-format
 msgid "Interrupt"
 msgstr ""
@@ -3070,12 +3136,24 @@ msgstr ""
 msgid "The selected file is not a valid Cantor project file."
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1063
+||||||| .r1549247
+#: worksheet.cpp:1183 worksheet.cpp:1330
+=======
+#: worksheet.cpp:1183 worksheet.cpp:1334
+>>>>>>> .r1549342
 #, kde-format
 msgid "%1 backend was not found. Editing and executing entries is not possible"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1072
+||||||| .r1549247
+#: worksheet.cpp:1192 worksheet.cpp:1339
+=======
+#: worksheet.cpp:1192 worksheet.cpp:1343
+>>>>>>> .r1549342
 #, kde-format
 msgid ""
 "There are some problems with the %1 backend,\n"
@@ -3085,146 +3163,378 @@ msgstr ""
 
 #: worksheet.cpp:1232 worksheet.cpp:1243
 #, kde-format
+<<<<<<< .mine
+||||||| .r1549247
+msgid ""
+"The file is old Jupyter notebook (found version %1.%2), which isn't "
+"supported by Cantor"
+msgstr ""
+
+#: worksheet.cpp:1307
+#, kde-format
+msgid ""
+"Cantor doesn't support import Jupyter notebooks with version lower that 4.0 "
+"(detected %1.%2)"
+msgstr ""
+
+#: worksheet.cpp:1378
+#, kde-format
+msgid "an object with keys: %1"
+msgstr ""
+
+#: worksheet.cpp:1380
+#, kde-format
+msgid "non object JSON value"
+msgstr ""
+
+#: worksheet.cpp:1383
+#, kde-format
+msgid "found incorrect data (%1) that is not Jupyter cell"
+msgstr ""
+
+#: worksheet.cpp:1448
+#, kde-format
+msgid "The file is not valid Jupyter notebook"
+msgstr ""
+
+#: worksheet.cpp:1450
+#, kde-format
+msgid "Invalid Jupyter notebook scheme: %1"
+msgstr ""
+
+#: worksheet.cpp:1533 worksheet.cpp:1544
+#, kde-format
+=======
+msgid ""
+"The file is old Jupyter notebook (found version %1.%2), which isn't "
+"supported by Cantor"
+msgstr ""
+
+#: worksheet.cpp:1309
+#, kde-format
+msgid ""
+"Cantor doesn't support Jupyter notebooks with version higher 4.5 (detected "
+"%1.%2)"
+msgstr ""
+
+#: worksheet.cpp:1382
+#, kde-format
+msgid "an object with keys: %1"
+msgstr ""
+
+#: worksheet.cpp:1384
+#, kde-format
+msgid "non object JSON value"
+msgstr ""
+
+#: worksheet.cpp:1387
+#, kde-format
+msgid "found incorrect data (%1) that is not Jupyter cell"
+msgstr ""
+
+#: worksheet.cpp:1452
+#, kde-format
+msgid "The file is not valid Jupyter notebook"
+msgstr ""
+
+#: worksheet.cpp:1454
+#, kde-format
+msgid "Invalid Jupyter notebook scheme: %1"
+msgstr ""
+
+#: worksheet.cpp:1537 worksheet.cpp:1548
+#, kde-format
+>>>>>>> .r1549342
 msgid "Command Entry"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1233 worksheet.cpp:1244
+||||||| .r1549247
+#: worksheet.cpp:1534 worksheet.cpp:1545
+=======
+#: worksheet.cpp:1538 worksheet.cpp:1549
+>>>>>>> .r1549342
 #, kde-format
 msgid "Text Entry"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1235 worksheet.cpp:1246
+||||||| .r1549247
+#: worksheet.cpp:1536 worksheet.cpp:1547
+=======
+#: worksheet.cpp:1540 worksheet.cpp:1551
+>>>>>>> .r1549342
 #, kde-format
 msgid "Markdown Entry"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1238 worksheet.cpp:1249
+||||||| .r1549247
+#: worksheet.cpp:1539 worksheet.cpp:1550
+=======
+#: worksheet.cpp:1543 worksheet.cpp:1554
+>>>>>>> .r1549342
 #, kde-format
 msgid "LaTeX Entry"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1240 worksheet.cpp:1251
+||||||| .r1549247
+#: worksheet.cpp:1541 worksheet.cpp:1552
+=======
+#: worksheet.cpp:1545 worksheet.cpp:1556
+>>>>>>> .r1549342
 #, kde-format
 msgid "Image"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1241 worksheet.cpp:1252
+||||||| .r1549247
+#: worksheet.cpp:1542 worksheet.cpp:1553
+=======
+#: worksheet.cpp:1546 worksheet.cpp:1557
+>>>>>>> .r1549342
 #, kde-format
 msgid "Page Break"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1254
+||||||| .r1549247
+#: worksheet.cpp:1555
+=======
+#: worksheet.cpp:1559
+>>>>>>> .r1549342
 #, kde-format
 msgid "Insert Entry After"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1256
+||||||| .r1549247
+#: worksheet.cpp:1557
+=======
+#: worksheet.cpp:1561
+>>>>>>> .r1549342
 #, kde-format
 msgid "Insert Entry Before"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1267
+||||||| .r1549247
+#: worksheet.cpp:1568
+=======
+#: worksheet.cpp:1572
+>>>>>>> .r1549342
 #, kde-format
 msgid "Insert LaTeX Entry"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1324
+||||||| .r1549247
+#: worksheet.cpp:1625
+=======
+#: worksheet.cpp:1629
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action"
 msgid "Text &Color..."
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1325
+||||||| .r1549247
+#: worksheet.cpp:1626
+=======
+#: worksheet.cpp:1630
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@label text color"
 msgid "Color"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1333
+||||||| .r1549247
+#: worksheet.cpp:1634
+=======
+#: worksheet.cpp:1638
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action"
 msgid "Text &Highlight..."
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1340
+||||||| .r1549247
+#: worksheet.cpp:1641
+=======
+#: worksheet.cpp:1645
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action"
 msgid "&Font"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1347
+||||||| .r1549247
+#: worksheet.cpp:1648
+=======
+#: worksheet.cpp:1652
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action"
 msgid "Font &Size"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1356
+||||||| .r1549247
+#: worksheet.cpp:1657
+=======
+#: worksheet.cpp:1661
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action boldify selected text"
 msgid "&Bold"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1370
+||||||| .r1549247
+#: worksheet.cpp:1671
+=======
+#: worksheet.cpp:1675
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action italicize selected text"
 msgid "&Italic"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1384
+||||||| .r1549247
+#: worksheet.cpp:1685
+=======
+#: worksheet.cpp:1689
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action underline selected text"
 msgid "&Underline"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1397
+||||||| .r1549247
+#: worksheet.cpp:1698
+=======
+#: worksheet.cpp:1702
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action"
 msgid "&Strike Out"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1410
+||||||| .r1549247
+#: worksheet.cpp:1711
+=======
+#: worksheet.cpp:1715
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action"
 msgid "Align &Left"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1413
+||||||| .r1549247
+#: worksheet.cpp:1714
+=======
+#: worksheet.cpp:1718
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@label left justify"
 msgid "Left"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1422
+||||||| .r1549247
+#: worksheet.cpp:1723
+=======
+#: worksheet.cpp:1727
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action"
 msgid "Align &Center"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1425
+||||||| .r1549247
+#: worksheet.cpp:1726
+=======
+#: worksheet.cpp:1730
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@label center justify"
 msgid "Center"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1434
+||||||| .r1549247
+#: worksheet.cpp:1735
+=======
+#: worksheet.cpp:1739
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action"
 msgid "Align &Right"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1437
+||||||| .r1549247
+#: worksheet.cpp:1738
+=======
+#: worksheet.cpp:1742
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@label right justify"
 msgid "Right"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1446
+||||||| .r1549247
+#: worksheet.cpp:1747
+=======
+#: worksheet.cpp:1751
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@action"
 msgid "&Justify"
 msgstr ""
 
+<<<<<<< .mine
 #: worksheet.cpp:1449
+||||||| .r1549247
+#: worksheet.cpp:1750
+=======
+#: worksheet.cpp:1754
+>>>>>>> .r1549342
 #, kde-format
 msgctxt "@label justify fill"
 msgid "Justify"

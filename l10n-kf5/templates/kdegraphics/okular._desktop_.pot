@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2019-08-11 01:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -177,7 +177,7 @@ msgstr ""
 #: generators/comicbook/okularApplication_comicbook.desktop:168
 #: generators/comicbook/org.kde.mobile.okular_comicbook.desktop:159
 msgctxt "X-KDE-Keywords"
-msgid "cbr, cbz, cbt, Comic Book"
+msgid "cbr, cbz, cbt, cb7, Comic Book"
 msgstr ""
 
 #: generators/djvu/okularApplication_djvu.desktop:168

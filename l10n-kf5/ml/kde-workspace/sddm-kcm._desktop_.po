@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-08-11 01:17+0000\n"
 "PO-Revision-Date: 2018-10-11 02:02+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -28,24 +28,44 @@ msgctxt "Description"
 msgid "Save Settings in SDDM"
 msgstr ""
 
-#: kcm_sddm.actions:140
+#: kcm_sddm.actions:139
 msgctxt "Name"
 msgid "Install an SDDM theme"
 msgstr ""
 
-#: kcm_sddm.actions:178
+#: kcm_sddm.actions:177
 msgctxt "Description"
 msgid "Extracts a zip file containing an SDDM theme to the SDDM theme location"
 msgstr ""
 
-#: kcm_sddm.actions:220
+#: kcm_sddm.actions:218
 msgctxt "Name"
 msgid "Uninstall an SDDM theme"
 msgstr ""
 
-#: kcm_sddm.actions:258
+#: kcm_sddm.actions:256
 msgctxt "Description"
 msgid "Removes a previously installed SDDM theme"
+msgstr ""
+
+#: kcm_sddm.actions:297
+msgctxt "Name"
+msgid "Synchronize Settings"
+msgstr ""
+
+#: kcm_sddm.actions:319
+msgctxt "Description"
+msgid "Synchronizes user settings with SDDM settings"
+msgstr ""
+
+#: kcm_sddm.actions:343
+msgctxt "Name"
+msgid "Reset Settings"
+msgstr ""
+
+#: kcm_sddm.actions:365
+msgctxt "Description"
+msgid "Resets SDDM settings so there are not user settings"
 msgstr ""
 
 #: kcm_sddm.desktop:12

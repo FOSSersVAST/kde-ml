@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-23 03:24+0200\n"
+"POT-Creation-Date: 2019-08-11 03:11+0200\n"
 "PO-Revision-Date: 2019-03-17 03:38+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -145,15 +145,15 @@ msgstr ""
 msgid "No media playing"
 msgstr ""
 
-#: contents/lockscreen/MediaControls.qml:142
+#: contents/lockscreen/MediaControls.qml:141
 msgid "Previous track"
 msgstr ""
 
-#: contents/lockscreen/MediaControls.qml:150
+#: contents/lockscreen/MediaControls.qml:149
 msgid "Play or Pause media"
 msgstr ""
 
-#: contents/lockscreen/MediaControls.qml:158
+#: contents/lockscreen/MediaControls.qml:157
 msgid "Next track"
 msgstr ""
 

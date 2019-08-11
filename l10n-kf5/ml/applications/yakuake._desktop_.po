@@ -1,0 +1,69 @@
+#: data/org.kde.yakuake.desktop:2
+msgctxt "Name"
+msgid "Yakuake"
+msgstr ""
+
+#: data/org.kde.yakuake.desktop:58
+msgctxt "GenericName"
+msgid "Drop-down Terminal"
+msgstr ""
+
+#: data/org.kde.yakuake.desktop:111
+msgctxt "Comment"
+msgid "A drop-down terminal emulator based on KDE Konsole technology."
+msgstr "      "
+
+#: data/yakuake.notifyrc:4
+msgctxt "Comment"
+msgid "Yakuake"
+msgstr ""
+
+#: data/yakuake.notifyrc:54
+msgctxt "Name"
+msgid "Startup"
+msgstr ""
+
+#: data/yakuake.notifyrc:99
+msgctxt "Comment"
+msgid "Yakuake has started"
+msgstr ""
+
+#: data/yakuake.notifyrc:146
+msgctxt "Name"
+msgid "Silence detected"
+msgstr ""
+
+#: data/yakuake.notifyrc:190
+msgctxt "Comment"
+msgid "Silence detected in a monitored terminal or session"
+msgstr ""
+
+#: data/yakuake.notifyrc:236
+msgctxt "Name"
+msgid "Activity detected"
+msgstr ""
+
+#: data/yakuake.notifyrc:280
+msgctxt "Comment"
+msgid "Activity detected in a monitored terminal or session"
+msgstr ""
+
+#: data/yakuake.notifyrc:326
+msgctxt "Name"
+msgid "Bell in Visible Session"
+msgstr ""
+
+#: data/yakuake.notifyrc:371
+msgctxt "Comment"
+msgid "Bell emitted within a visible session"
+msgstr ""
+
+#: data/yakuake.notifyrc:419
+msgctxt "Name"
+msgid "Bell in Non-Visible Session"
+msgstr ""
+
+#: data/yakuake.notifyrc:464
+msgctxt "Comment"
+msgid "Bell emitted within a non-visible session"
+msgstr ""
