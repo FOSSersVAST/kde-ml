@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-26 01:24+0000\n"
+"POT-Creation-Date: 2019-09-09 01:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,12 +16,12 @@ msgctxt "Name"
 msgid "Document Actions"
 msgstr ""
 
-#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:42
+#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:44
 msgctxt "Name"
 msgid "Save Document"
 msgstr ""
 
-#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:79
+#: src/buffer/org.kde.ktexteditor.katetextbuffer.actions:83
 msgctxt "Description"
 msgid "Root privileges are needed to save this document"
 msgstr ""
@@ -46,7 +46,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/ktexteditor-plugin/ktexteditor-plugin.kdevtemplate:41
+#: templates/ktexteditor-plugin/ktexteditor-plugin.kdevtemplate:43
 msgctxt "Comment"
 msgid ""
 "Generates a KTextEditor C++ plugin to perform special operations on text in "

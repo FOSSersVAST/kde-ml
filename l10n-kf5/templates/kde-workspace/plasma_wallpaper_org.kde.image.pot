@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-08-29 03:11+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,138 +17,168 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: image.cpp:224
+#: image.cpp:251
 #, kde-format
 msgid "Recommended wallpaper file"
 msgstr ""
 
-#: image.cpp:358
+#: image.cpp:379
 #, kde-format
 msgid "Directory with the wallpaper to show slides from"
 msgstr ""
 
-#: image.cpp:644
+#: image.cpp:652
 #, kde-format
 msgid "Download Wallpapers"
 msgstr ""
 
-#: image.cpp:698
+#: image.cpp:697
 #, kde-format
 msgid "Open Image"
 msgstr ""
 
-#: image.cpp:700
+#: image.cpp:699
 #, kde-format
 msgid "Image Files"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:80
+#: imagepackage/contents/ui/config.qml:87
 #, kde-format
 msgid "Positioning:"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:83
+#: imagepackage/contents/ui/config.qml:90
 #, kde-format
 msgid "Scaled and Cropped"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:87
+#: imagepackage/contents/ui/config.qml:94
 #, kde-format
 msgid "Scaled"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:91
+#: imagepackage/contents/ui/config.qml:98
 #, kde-format
 msgid "Scaled, Keep Proportions"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:95
+#: imagepackage/contents/ui/config.qml:102
 #, kde-format
 msgid "Centered"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:99
+#: imagepackage/contents/ui/config.qml:106
 #, kde-format
 msgid "Tiled"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:124
+#: imagepackage/contents/ui/config.qml:129
 #, kde-format
-msgid "Background:"
+msgid "Order:"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:125
+#: imagepackage/contents/ui/config.qml:132
 #, kde-format
-msgid "Blur"
+msgid "Random"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:134
+#: imagepackage/contents/ui/config.qml:136
 #, kde-format
-msgid "Solid color"
+msgid "A to Z"
 msgstr ""
 
 #: imagepackage/contents/ui/config.qml:140
 #, kde-format
+msgid "Z to A"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:144
+#, kde-format
+msgid "Date modified (newest first)"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:148
+#, kde-format
+msgid "Date modified (oldest first)"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:171
+#, kde-format
+msgid "Background:"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:172
+#, kde-format
+msgid "Blur"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:181
+#, kde-format
+msgid "Solid color"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:187
+#, kde-format
 msgid "Select Background Color"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:158
+#: imagepackage/contents/ui/config.qml:205
 #, kde-format
 msgid "Change every:"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:168
+#: imagepackage/contents/ui/config.qml:215
 #, kde-format
 msgid "Hours"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:179
+#: imagepackage/contents/ui/config.qml:226
 #, kde-format
 msgid "Minutes"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:190
+#: imagepackage/contents/ui/config.qml:237
 #, kde-format
 msgid "Seconds"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:195
+#: imagepackage/contents/ui/config.qml:242
 #, kde-format
 msgid "Folders"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:217
+#: imagepackage/contents/ui/config.qml:264
 #, kde-format
 msgid "Remove Folder"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:222
+#: imagepackage/contents/ui/config.qml:269
 #, kde-format
 msgid "Open Folder"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:248
+#: imagepackage/contents/ui/config.qml:295
 #, kde-format
 msgid "Add Folder..."
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:254
-#: imagepackage/contents/ui/config.qml:319
+#: imagepackage/contents/ui/config.qml:301
+#: imagepackage/contents/ui/config.qml:369
 #, kde-format
 msgid "Get New Wallpapers..."
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:314
+#: imagepackage/contents/ui/config.qml:364
 #, kde-format
 msgid "Add Image..."
 msgstr ""
 
-#: imagepackage/contents/ui/main.qml:59
+#: imagepackage/contents/ui/main.qml:63
 #, kde-format
 msgid "Open Wallpaper Image"
 msgstr ""
 
-#: imagepackage/contents/ui/main.qml:60
+#: imagepackage/contents/ui/main.qml:64
 #, kde-format
 msgid "Next Wallpaper Image"
 msgstr ""

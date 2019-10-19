@@ -30,15 +30,23 @@ msgstr ""
 msgid "Document to open..."
 msgstr ""
 
-#: package/contents/ui/OkularDrawer.qml:73
+#: package/contents/ui/MainView.qml:36
+msgid "Remove bookmark"
+msgstr ""
+
+#: package/contents/ui/MainView.qml:36
+msgid "Bookmark this page"
+msgstr ""
+
+#: package/contents/ui/OkularDrawer.qml:71
 msgid "Thumbnails"
 msgstr ""
 
-#: package/contents/ui/OkularDrawer.qml:88
+#: package/contents/ui/OkularDrawer.qml:85
 msgid "Table of contents"
 msgstr ""
 
-#: package/contents/ui/OkularDrawer.qml:102
+#: package/contents/ui/OkularDrawer.qml:99
 msgid "Bookmarks"
 msgstr ""
 

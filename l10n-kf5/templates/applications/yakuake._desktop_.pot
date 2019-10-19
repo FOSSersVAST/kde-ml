@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-08 01:17+0000\n"
+"POT-Creation-Date: 2019-09-15 01:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,12 +16,12 @@ msgctxt "Name"
 msgid "Yakuake"
 msgstr ""
 
-#: data/org.kde.yakuake.desktop:59
+#: data/org.kde.yakuake.desktop:60
 msgctxt "GenericName"
 msgid "Drop-down Terminal"
 msgstr ""
 
-#: data/org.kde.yakuake.desktop:113
+#: data/org.kde.yakuake.desktop:115
 msgctxt "Comment"
 msgid "A drop-down terminal emulator based on KDE Konsole technology."
 msgstr ""
@@ -31,52 +31,52 @@ msgctxt "Comment"
 msgid "Yakuake"
 msgstr ""
 
-#: data/yakuake.notifyrc:55
+#: data/yakuake.notifyrc:57
 msgctxt "Name"
 msgid "Startup"
 msgstr ""
 
-#: data/yakuake.notifyrc:101
+#: data/yakuake.notifyrc:104
 msgctxt "Comment"
 msgid "Yakuake has started"
 msgstr ""
 
-#: data/yakuake.notifyrc:149
+#: data/yakuake.notifyrc:153
 msgctxt "Name"
 msgid "Silence detected"
 msgstr ""
 
-#: data/yakuake.notifyrc:194
+#: data/yakuake.notifyrc:199
 msgctxt "Comment"
 msgid "Silence detected in a monitored terminal or session"
 msgstr ""
 
-#: data/yakuake.notifyrc:241
+#: data/yakuake.notifyrc:246
 msgctxt "Name"
 msgid "Activity detected"
 msgstr ""
 
-#: data/yakuake.notifyrc:286
+#: data/yakuake.notifyrc:292
 msgctxt "Comment"
 msgid "Activity detected in a monitored terminal or session"
 msgstr ""
 
-#: data/yakuake.notifyrc:333
+#: data/yakuake.notifyrc:339
 msgctxt "Name"
 msgid "Bell in Visible Session"
 msgstr ""
 
-#: data/yakuake.notifyrc:379
+#: data/yakuake.notifyrc:387
 msgctxt "Comment"
 msgid "Bell emitted within a visible session"
 msgstr ""
 
-#: data/yakuake.notifyrc:428
+#: data/yakuake.notifyrc:438
 msgctxt "Name"
 msgid "Bell in Non-Visible Session"
 msgstr ""
 
-#: data/yakuake.notifyrc:474
+#: data/yakuake.notifyrc:486
 msgctxt "Comment"
 msgid "Bell emitted within a non-visible session"
 msgstr ""

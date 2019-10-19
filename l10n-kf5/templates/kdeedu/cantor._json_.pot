@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:35+0000\n"
+"POT-Creation-Date: 2019-09-15 03:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -39,11 +39,6 @@ msgstr ""
 #: src/backends/maxima/maximabackend.json
 msgctxt "Name"
 msgid "Maxima"
-msgstr ""
-
-#: src/backends/null/nullbackend.json
-msgctxt "Name"
-msgid "nullbackend"
 msgstr ""
 
 #: src/backends/sage/sagebackend.json
@@ -180,11 +175,6 @@ msgstr ""
 #: src/backends/maxima/maximabackend.json
 msgctxt "Description"
 msgid "Backend for the Maxima Computer Algebra System"
-msgstr ""
-
-#: src/backends/null/nullbackend.json
-msgctxt "Description"
-msgid "Backend for Cantor for testing purposes"
 msgstr ""
 
 #: src/backends/sage/sagebackend.json

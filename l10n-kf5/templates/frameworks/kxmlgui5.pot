@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kxmlgui\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-02 02:42+0200\n"
+"POT-Creation-Date: 2019-09-21 02:56+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -266,130 +266,130 @@ msgstr ""
 msgid "Ambiguous shortcut detected"
 msgstr ""
 
-#: kbugreport.cpp:104 kbugreport.cpp:133
+#: kbugreport.cpp:106 kbugreport.cpp:135
 #, kde-format
 msgid "Submit Bug Report"
 msgstr ""
 
-#: kbugreport.cpp:144
+#: kbugreport.cpp:146
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
 msgstr ""
 
-#: kbugreport.cpp:145
+#: kbugreport.cpp:147
 #, kde-format
 msgctxt "Email sender address"
 msgid "From:"
 msgstr ""
 
-#: kbugreport.cpp:153
+#: kbugreport.cpp:155
 #, kde-format
 msgid "Configure Email..."
 msgstr ""
 
-#: kbugreport.cpp:160
+#: kbugreport.cpp:162
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr ""
 
-#: kbugreport.cpp:161
+#: kbugreport.cpp:163
 #, kde-format
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr ""
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:172
 #, kde-format
 msgid "&Send"
 msgstr ""
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:172
 #, kde-format
 msgid "Send bug report."
 msgstr ""
 
-#: kbugreport.cpp:171
+#: kbugreport.cpp:173
 #, kde-format
 msgid "Send this bug report to %1."
 msgstr ""
 
-#: kbugreport.cpp:179
+#: kbugreport.cpp:181
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
 "please use the Report Bug menu item of the correct application"
 msgstr ""
 
-#: kbugreport.cpp:180
+#: kbugreport.cpp:182
 #, kde-format
 msgid "Application: "
 msgstr ""
 
-#: kbugreport.cpp:207
+#: kbugreport.cpp:209
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
 "available before sending a bug report"
 msgstr ""
 
-#: kbugreport.cpp:208
+#: kbugreport.cpp:210
 #, kde-format
 msgid "Version:"
 msgstr ""
 
-#: kbugreport.cpp:213
+#: kbugreport.cpp:215
 #, kde-format
 msgid "no version set (programmer error)"
 msgstr ""
 
-#: kbugreport.cpp:226
+#: kbugreport.cpp:227
 #, kde-format
 msgid "OS:"
 msgstr ""
 
-#: kbugreport.cpp:234
+#: kbugreport.cpp:235
 #, kde-format
 msgid "Compiler:"
 msgstr ""
 
-#: kbugreport.cpp:242
+#: kbugreport.cpp:243
 #, kde-format
 msgid "Se&verity"
 msgstr ""
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:247
 #, kde-format
 msgid "Critical"
 msgstr ""
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:248
 #, kde-format
 msgid "Grave"
 msgstr ""
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:249
 #, kde-format
 msgctxt "normal severity"
 msgid "Normal"
 msgstr ""
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:250
 #, kde-format
 msgid "Wishlist"
 msgstr ""
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:251
 #, kde-format
 msgid "Translation"
 msgstr ""
 
-#: kbugreport.cpp:262
+#: kbugreport.cpp:269
 #, kde-format
 msgid "S&ubject: "
 msgstr ""
 
-#: kbugreport.cpp:270
+#: kbugreport.cpp:277
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -398,7 +398,7 @@ msgid ""
 "program.\n"
 msgstr ""
 
-#: kbugreport.cpp:294
+#: kbugreport.cpp:301
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -407,37 +407,37 @@ msgid ""
 "be transferred to that server.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:299
+#: kbugreport.cpp:306
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
 "browser window on <a href=\"%1\">%2</a>.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:316
+#: kbugreport.cpp:323
 #, kde-format
 msgid "&Launch Bug Report Wizard"
 msgstr ""
 
-#: kbugreport.cpp:318
+#: kbugreport.cpp:325
 #, kde-format
 msgid "&Submit Bug Report"
 msgstr ""
 
-#: kbugreport.cpp:382
+#: kbugreport.cpp:389
 #, kde-format
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr ""
 
-#: kbugreport.cpp:441
+#: kbugreport.cpp:448
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr ""
 
-#: kbugreport.cpp:450
+#: kbugreport.cpp:457
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -449,7 +449,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:462
+#: kbugreport.cpp:469
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -461,7 +461,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:476
+#: kbugreport.cpp:483
 #, kde-format
 msgid ""
 "Unable to send the bug report.\n"
@@ -469,19 +469,19 @@ msgid ""
 "See https://bugs.kde.org/ for instructions."
 msgstr ""
 
-#: kbugreport.cpp:484
+#: kbugreport.cpp:491
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr ""
 
-#: kbugreport.cpp:493
+#: kbugreport.cpp:500
 #, kde-format
 msgid ""
 "Close and discard\n"
 "edited message?"
 msgstr ""
 
-#: kbugreport.cpp:494
+#: kbugreport.cpp:501
 #, kde-format
 msgid "Close Message"
 msgstr ""
@@ -570,7 +570,7 @@ msgstr ""
 msgid "Reset"
 msgstr ""
 
-#: kedittoolbar.cpp:1003
+#: kedittoolbar.cpp:1006
 #, kde-format
 msgid "&Toolbar:"
 msgstr ""
@@ -582,101 +582,101 @@ msgstr ""
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1018
+#: kedittoolbar.cpp:1021
 #, kde-format
 msgid "A&vailable actions:"
 msgstr ""
 
-#: kedittoolbar.cpp:1033 kedittoolbar.cpp:1052
+#: kedittoolbar.cpp:1036 kedittoolbar.cpp:1055
 #, kde-format
 msgid "Filter"
 msgstr ""
 
-#: kedittoolbar.cpp:1036
+#: kedittoolbar.cpp:1039
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr ""
 
-#: kedittoolbar.cpp:1055
+#: kedittoolbar.cpp:1058
 #, kde-format
 msgid "Change &Icon..."
 msgstr ""
 
-#: kedittoolbar.cpp:1063
+#: kedittoolbar.cpp:1066
 #, kde-format
 msgid "Change Te&xt..."
 msgstr ""
 
-#: kedittoolbar.cpp:1218
+#: kedittoolbar.cpp:1221
 #, kde-format
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr ""
 
-#: kedittoolbar.cpp:1245
+#: kedittoolbar.cpp:1248
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 
-#: kedittoolbar.cpp:1247
+#: kedittoolbar.cpp:1250
 #, kde-format
 msgid "<Merge>"
 msgstr ""
 
-#: kedittoolbar.cpp:1249
+#: kedittoolbar.cpp:1252
 #, kde-format
 msgid "<Merge %1>"
 msgstr ""
 
-#: kedittoolbar.cpp:1255
+#: kedittoolbar.cpp:1258
 #, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
 "will not be able to re-add it."
 msgstr ""
 
-#: kedittoolbar.cpp:1256
+#: kedittoolbar.cpp:1259
 #, kde-format
 msgid "ActionList: %1"
 msgstr ""
 
-#: kedittoolbar.cpp:1360 kedittoolbar.cpp:1387
+#: kedittoolbar.cpp:1365 kedittoolbar.cpp:1392
 #, kde-format
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr ""
 
-#: kedittoolbar.cpp:1616
+#: kedittoolbar.cpp:1621
 #, kde-format
 msgid "Change Icon"
 msgstr ""
 
-#: kgesture.cpp:505
+#: kgesture.cpp:503
 #, kde-format
 msgctxt "left mouse button"
 msgid "left button"
 msgstr ""
 
-#: kgesture.cpp:507
+#: kgesture.cpp:505
 #, kde-format
 msgctxt "middle mouse button"
 msgid "middle button"
 msgstr ""
 
-#: kgesture.cpp:509
+#: kgesture.cpp:507
 #, kde-format
 msgctxt "right mouse button"
 msgid "right button"
 msgstr ""
 
-#: kgesture.cpp:511
+#: kgesture.cpp:509
 #, kde-format
 msgctxt "a nonexistent value of mouse button"
 msgid "invalid button"
 msgstr ""
 
-#: kgesture.cpp:524
+#: kgesture.cpp:522
 #, kde-format
 msgctxt ""
 "a kind of mouse gesture: hold down one mouse button, then press another "
@@ -690,12 +690,12 @@ msgstr ""
 msgid "&Help"
 msgstr ""
 
-#: kkeysequencewidget.cpp:128
+#: kkeysequencewidget.cpp:129
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgstr ""
 
-#: kkeysequencewidget.cpp:138
+#: kkeysequencewidget.cpp:139
 #, kde-format
 msgctxt ""
 "%1 is the number of conflicts (hidden), %2 is the key sequence of the "
@@ -706,7 +706,7 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:144
+#: kkeysequencewidget.cpp:145
 #, kde-format
 msgctxt "%1 is the number of shortcuts with which there is a conflict"
 msgid "Conflict with Registered Global Shortcut"
@@ -714,13 +714,13 @@ msgid_plural "Conflict with Registered Global Shortcuts"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:146 kkeysequencewidget.cpp:234
-#: kkeysequencewidget.cpp:625 kshortcutseditor.cpp:635 kshortcutseditor.cpp:653
+#: kkeysequencewidget.cpp:147 kkeysequencewidget.cpp:235
+#: kkeysequencewidget.cpp:626 kshortcutseditor.cpp:637 kshortcutseditor.cpp:655
 #, kde-format
 msgid "Reassign"
 msgstr ""
 
-#: kkeysequencewidget.cpp:215
+#: kkeysequencewidget.cpp:216
 #, kde-format
 msgctxt "%1 is the number of conflicts"
 msgid "Shortcut Conflict"
@@ -728,12 +728,12 @@ msgid_plural "Shortcut Conflicts"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:219
+#: kkeysequencewidget.cpp:220
 #, kde-format
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr ""
 
-#: kkeysequencewidget.cpp:224
+#: kkeysequencewidget.cpp:225
 #, kde-format
 msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 msgid ""
@@ -747,31 +747,31 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:243
+#: kkeysequencewidget.cpp:244
 #, kde-format
 msgid "Shortcut conflict"
 msgstr ""
 
-#: kkeysequencewidget.cpp:244
+#: kkeysequencewidget.cpp:245
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
 "<br>Please select a different one.</qt>"
 msgstr ""
 
-#: kkeysequencewidget.cpp:274
+#: kkeysequencewidget.cpp:275
 #, kde-format
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
 "Example for Ctrl+A: hold the Ctrl key and press A."
 msgstr ""
 
-#: kkeysequencewidget.cpp:466
+#: kkeysequencewidget.cpp:467
 #, kde-format
 msgid "Reserved Shortcut"
 msgstr ""
 
-#: kkeysequencewidget.cpp:467
+#: kkeysequencewidget.cpp:468
 #, kde-format
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
@@ -779,12 +779,12 @@ msgid ""
 "Please choose another one."
 msgstr ""
 
-#: kkeysequencewidget.cpp:619
+#: kkeysequencewidget.cpp:620
 #, kde-format
 msgid "Conflict with Standard Application Shortcut"
 msgstr ""
 
-#: kkeysequencewidget.cpp:620
+#: kkeysequencewidget.cpp:621
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -792,13 +792,13 @@ msgid ""
 "Do you really want to use it as a global shortcut as well?"
 msgstr ""
 
-#: kkeysequencewidget.cpp:668
+#: kkeysequencewidget.cpp:669
 #, kde-format
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr ""
 
-#: kkeysequencewidget.cpp:675 kshortcuteditwidget.cpp:67
+#: kkeysequencewidget.cpp:676 kshortcuteditwidget.cpp:67
 #: kshortcuteditwidget.cpp:70
 #, kde-format
 msgctxt "No shortcut defined"
@@ -815,13 +815,13 @@ msgstr ""
 msgid "Unsupported Key"
 msgstr ""
 
-#: kmainwindow.cpp:247
+#: kmainwindow.cpp:249
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
-#: kmainwindow.cpp:248
+#: kmainwindow.cpp:250
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
@@ -832,7 +832,7 @@ msgstr ""
 msgid "Add to Toolbar"
 msgstr ""
 
-#: kmenumenuhandler_p.cpp:232
+#: kmenumenuhandler_p.cpp:235
 #, kde-format
 msgid "Configure Shortcut..."
 msgstr ""
@@ -892,89 +892,89 @@ msgstr ""
 msgid "Shortcut Schemes"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:65
+#: kshortcutschemeseditor.cpp:66
 #, kde-format
 msgid "Current scheme:"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:81
+#: kshortcutschemeseditor.cpp:82
 #, kde-format
 msgid "New..."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:84
+#: kshortcutschemeseditor.cpp:85
 #, kde-format
 msgid "Delete"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:87
+#: kshortcutschemeseditor.cpp:88
 #, kde-format
 msgid "More Actions"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:91
+#: kshortcutschemeseditor.cpp:92
 #, kde-format
 msgid "Save shortcuts to scheme"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:93
+#: kshortcutschemeseditor.cpp:94
 #, kde-format
 msgid "Export Scheme..."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:95
+#: kshortcutschemeseditor.cpp:96
 #, kde-format
 msgid "Import Scheme..."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:111
+#: kshortcutschemeseditor.cpp:117
 #, kde-format
 msgid "Name for New Scheme"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:112
+#: kshortcutschemeseditor.cpp:118
 #, kde-format
 msgid "Name for new scheme:"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:112
+#: kshortcutschemeseditor.cpp:118
 #, kde-format
 msgid "New Scheme"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:118
+#: kshortcutschemeseditor.cpp:124
 #, kde-format
 msgid "A scheme with this name already exists."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:148
+#: kshortcutschemeseditor.cpp:154
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
 "Note that this will not remove any system wide shortcut schemes."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:178
+#: kshortcutschemeseditor.cpp:185
 #, kde-format
 msgid "Export Shortcuts"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:178 kshortcutschemeseditor.cpp:189
+#: kshortcutschemeseditor.cpp:185 kshortcutschemeseditor.cpp:196
 #, kde-format
 msgid "Shortcuts (*.shortcuts)"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:189
+#: kshortcutschemeseditor.cpp:196
 #, kde-format
 msgid "Import Shortcuts"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:200
+#: kshortcutschemeseditor.cpp:207
 #, kde-format
 msgid "Shortcut scheme successfully saved."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:203
+#: kshortcutschemeseditor.cpp:210
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr ""
@@ -1055,64 +1055,64 @@ msgstr ""
 msgid "Mouse Shape Gesture"
 msgstr ""
 
-#: kshortcutseditor.cpp:630 kshortcutseditor.cpp:648
+#: kshortcutseditor.cpp:632 kshortcutseditor.cpp:650
 #, kde-format
 msgid "Key Conflict"
 msgstr ""
 
-#: kshortcutseditor.cpp:631
+#: kshortcutseditor.cpp:633
 #, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kshortcutseditor.cpp:649
+#: kshortcutseditor.cpp:651
 #, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kshortcutseditor.cpp:696
+#: kshortcutseditor.cpp:698
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:714 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:716 kshortcutwidget.ui:22
 #, kde-format
 msgid "Main:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:715 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:717 kshortcutwidget.ui:52
 #, kde-format
 msgid "Alternate:"
 msgstr ""
 
-#: kshortcutseditor.cpp:716
+#: kshortcutseditor.cpp:718
 #, kde-format
 msgid "Global:"
 msgstr ""
 
-#: kshortcutseditor.cpp:717
+#: kshortcutseditor.cpp:719
 #, kde-format
 msgid "Global alternate:"
 msgstr ""
 
-#: kshortcutseditor.cpp:732
+#: kshortcutseditor.cpp:734
 #, kde-format
 msgid "Action Name"
 msgstr ""
 
-#: kshortcutseditor.cpp:736
+#: kshortcutseditor.cpp:738
 #, kde-format
 msgid "Shortcuts"
 msgstr ""
 
-#: kshortcutseditor.cpp:740
+#: kshortcutseditor.cpp:742
 #, kde-format
 msgid "Description"
 msgstr ""
@@ -1228,63 +1228,63 @@ msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr ""
 
-#: ktoolbar.cpp:328
+#: ktoolbar.cpp:329
 #, kde-format
 msgid "Text Position"
 msgstr ""
 
-#: ktoolbar.cpp:330
+#: ktoolbar.cpp:331
 #, kde-format
 msgid "Icons Only"
 msgstr ""
 
-#: ktoolbar.cpp:331
+#: ktoolbar.cpp:332
 #, kde-format
 msgid "Text Only"
 msgstr ""
 
-#: ktoolbar.cpp:332
+#: ktoolbar.cpp:333
 #, kde-format
 msgid "Text Alongside Icons"
 msgstr ""
 
-#: ktoolbar.cpp:333
+#: ktoolbar.cpp:334
 #, kde-format
 msgid "Text Under Icons"
 msgstr ""
 
-#: ktoolbar.cpp:341
+#: ktoolbar.cpp:343
 #, kde-format
 msgid "Icon Size"
 msgstr ""
 
-#: ktoolbar.cpp:343
+#: ktoolbar.cpp:345
 #, kde-format
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr ""
 
-#: ktoolbar.cpp:360 ktoolbar.cpp:381
+#: ktoolbar.cpp:362 ktoolbar.cpp:383
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr ""
 
-#: ktoolbar.cpp:362 ktoolbar.cpp:383
+#: ktoolbar.cpp:364 ktoolbar.cpp:385
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr ""
 
-#: ktoolbar.cpp:364 ktoolbar.cpp:385
+#: ktoolbar.cpp:366 ktoolbar.cpp:387
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr ""
 
-#: ktoolbar.cpp:366 ktoolbar.cpp:387
+#: ktoolbar.cpp:368 ktoolbar.cpp:389
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr ""
 
-#: ktoolbar.cpp:409
+#: ktoolbar.cpp:412
 #, kde-format
 msgid "Lock Toolbar Positions"
 msgstr ""
@@ -1309,7 +1309,7 @@ msgstr ""
 msgid "No text"
 msgstr ""
 
-#: kxmlguiwindow.cpp:437
+#: kxmlguiwindow.cpp:439
 #, kde-format
 msgid ""
 "There are two actions (%1, %2) that want to use the same shortcut (%3). This "
@@ -1317,7 +1317,7 @@ msgid ""
 "org'>bugs.kde.org</a>"
 msgstr ""
 
-#: kxmlguiwindow.cpp:437
+#: kxmlguiwindow.cpp:439
 #, kde-format
 msgid "Ambiguous Shortcuts"
 msgstr ""
@@ -1354,25 +1354,25 @@ msgid "&View"
 msgstr ""
 
 #. i18n: ectx: Menu (go)
-#: ui_standards.rc:117
+#: ui_standards.rc:120
 #, kde-format
 msgid "&Go"
 msgstr ""
 
 #. i18n: ectx: Menu (bookmarks)
-#: ui_standards.rc:138
+#: ui_standards.rc:141
 #, kde-format
 msgid "&Bookmarks"
 msgstr ""
 
 #. i18n: ectx: Menu (tools)
-#: ui_standards.rc:144
+#: ui_standards.rc:147
 #, kde-format
 msgid "&Tools"
 msgstr ""
 
 #. i18n: ectx: Menu (settings)
-#: ui_standards.rc:148
+#: ui_standards.rc:151
 #, kde-format
 msgid "&Settings"
 msgstr ""

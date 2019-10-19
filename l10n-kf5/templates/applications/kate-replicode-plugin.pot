@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:39+0200\n"
+"POT-Creation-Date: 2019-09-17 02:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -291,118 +291,118 @@ msgstr ""
 msgid "Test models:"
 msgstr ""
 
-#: replicodeconfigpage.cpp:37
+#: replicodeconfigpage.cpp:39
 #, kde-format
 msgid "Path to replicode executor:"
 msgstr ""
 
-#: replicodeconfigpage.cpp:52
+#: replicodeconfigpage.cpp:54
 #, kde-format
 msgid "Replicode"
 msgstr ""
 
-#: replicodeconfigpage.cpp:57
+#: replicodeconfigpage.cpp:59
 #, kde-format
 msgid "Replicode configuration"
 msgstr ""
 
-#: replicodeview.cpp:56
+#: replicodeview.cpp:55
 #, kde-format
 msgid "Run replicode"
 msgstr ""
 
-#: replicodeview.cpp:60
+#: replicodeview.cpp:59
 #, kde-format
 msgid "Stop replicode"
 msgstr ""
 
-#: replicodeview.cpp:70
+#: replicodeview.cpp:64
 #, kde-format
 msgid "Replicode Output"
 msgstr ""
 
-#: replicodeview.cpp:81
+#: replicodeview.cpp:70
 #, kde-format
 msgid "Replicode Config"
 msgstr ""
 
-#: replicodeview.cpp:84
+#: replicodeview.cpp:73
 #, kde-format
 msgctxt "shortcut for action"
 msgid "Run (%1)"
 msgstr ""
 
-#: replicodeview.cpp:85
+#: replicodeview.cpp:74
 #, kde-format
 msgctxt "shortcut for action"
 msgid "Stop (%1)"
 msgstr ""
 
-#: replicodeview.cpp:120
+#: replicodeview.cpp:108
 #, kde-format
 msgctxt "@title:window"
 msgid "Active Document Not Found"
 msgstr ""
 
-#: replicodeview.cpp:121
+#: replicodeview.cpp:108
 #, kde-format
 msgid "Could not find an active document to run."
 msgstr ""
 
-#: replicodeview.cpp:127
+#: replicodeview.cpp:113
 #, kde-format
 msgctxt "@title:window"
 msgid "Empty Document"
 msgstr ""
 
-#: replicodeview.cpp:128
+#: replicodeview.cpp:113
 #, kde-format
 msgid "Cannot execute an empty document."
 msgstr ""
 
-#: replicodeview.cpp:136
+#: replicodeview.cpp:120
 #, kde-format
 msgctxt "@title:window"
 msgid "File Not Found"
 msgstr ""
 
-#: replicodeview.cpp:137
+#: replicodeview.cpp:120
 #, kde-format
 msgid "Unable to open source file for reading."
 msgstr ""
 
-#: replicodeview.cpp:145
+#: replicodeview.cpp:128
 #, kde-format
 msgctxt "@title:window"
 msgid "Replicode Executable Not Found"
 msgstr ""
 
-#: replicodeview.cpp:146
+#: replicodeview.cpp:129
 #, kde-format
 msgid ""
 "Unable to find replicode executor.\n"
 "Please go to settings and set the path to the Replicode executable."
 msgstr ""
 
-#: replicodeview.cpp:153
+#: replicodeview.cpp:136
 #, kde-format
 msgctxt "@title:window"
 msgid "User Operator Library Not Found"
 msgstr ""
 
-#: replicodeview.cpp:154
+#: replicodeview.cpp:137
 #, kde-format
 msgid ""
 "Unable to find user operator library.\n"
 "Please go to settings and set the path to the library."
 msgstr ""
 
-#: replicodeview.cpp:211
+#: replicodeview.cpp:198
 #, kde-format
 msgid "Replicode execution failed: %1"
 msgstr ""
 
-#: replicodeview.cpp:221
+#: replicodeview.cpp:208
 #, kde-format
 msgid "Replicode execution finished."
 msgstr ""

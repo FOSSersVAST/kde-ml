@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-10-02 01:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,7 +17,7 @@ msgctxt "Name"
 msgid "Breeze"
 msgstr ""
 
-#: colors/./BreezeDark.colors:107 lookandfeel.dark/metadata.desktop:27
+#: colors/./BreezeDark.colors:107 lookandfeel.dark/metadata.desktop:31
 msgctxt "Name"
 msgid "Breeze Dark"
 msgstr ""
@@ -34,13 +34,13 @@ msgctxt "Name"
 msgid "Breeze Light"
 msgstr ""
 
-#: cursors/Breeze/Breeze/index.theme:46 cursors/Breeze/src/index.theme:46
+#: cursors/Breeze/Breeze/index.theme:47 cursors/Breeze/src/index.theme:47
 msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr ""
 
-#: cursors/Breeze_Snow/Breeze_Snow/index.theme:29
-#: cursors/Breeze_Snow/src/index.theme:29
+#: cursors/Breeze_Snow/Breeze_Snow/index.theme:31
+#: cursors/Breeze_Snow/src/index.theme:31
 msgctxt "Comment"
 msgid "Breeze Light by the KDE VDG"
 msgstr ""
@@ -50,17 +50,17 @@ msgctxt "Name"
 msgid "Breeze Window Decoration"
 msgstr ""
 
-#: kdecoration/config/breezedecorationconfig.desktop:48
+#: kdecoration/config/breezedecorationconfig.desktop:50
 msgctxt "Comment"
 msgid "Modify the appearance of window decorations"
 msgstr ""
 
-#: kdecoration/config/breezedecorationconfig.desktop:90
+#: kdecoration/config/breezedecorationconfig.desktop:93
 msgctxt "X-KDE-Keywords"
 msgid "breeze,decoration"
 msgstr ""
 
-#: kstyle/breeze.themerc:47
+#: kstyle/breeze.themerc:48
 msgctxt "Comment"
 msgid "Widget style for KDE Frameworks"
 msgstr ""
@@ -70,12 +70,12 @@ msgctxt "Name"
 msgid "Breeze Widget Style"
 msgstr ""
 
-#: kstyle/config/breezestyleconfig.desktop:48
+#: kstyle/config/breezestyleconfig.desktop:50
 msgctxt "Comment"
 msgid "Modify the appearance of widgets"
 msgstr ""
 
-#: kstyle/config/breezestyleconfig.desktop:91
+#: kstyle/config/breezestyleconfig.desktop:94
 msgctxt "X-KDE-Keywords"
 msgid "breeze,widget,style"
 msgstr ""

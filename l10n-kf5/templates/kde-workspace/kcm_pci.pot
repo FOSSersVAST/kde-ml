@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kinfocenter\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-08-02 03:09+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -615,22 +615,22 @@ msgstr ""
 msgid "Power management events"
 msgstr ""
 
-#: kpci.cpp:530 kpci_private.h:763
+#: kpci.cpp:530 kpci_private.h:809
 #, kde-format
 msgid "D0"
 msgstr ""
 
-#: kpci.cpp:531 kpci_private.h:764
+#: kpci.cpp:531 kpci_private.h:810
 #, kde-format
 msgid "D1"
 msgstr ""
 
-#: kpci.cpp:532 kpci_private.h:765
+#: kpci.cpp:532 kpci_private.h:811
 #, kde-format
 msgid "D2"
 msgstr ""
 
-#: kpci.cpp:533 kpci_private.h:766
+#: kpci.cpp:533 kpci_private.h:812
 #, kde-format
 msgid "D3 hot"
 msgstr ""
@@ -645,7 +645,7 @@ msgstr ""
 msgid "Power state"
 msgstr ""
 
-#: kpci.cpp:538 kpci_private.h:680
+#: kpci.cpp:538 kpci_private.h:725
 #, kde-format
 msgid "Power management"
 msgstr ""
@@ -767,7 +767,7 @@ msgstr ""
 msgid "Configuration"
 msgstr ""
 
-#: kpci.cpp:590 kpci_private.h:681
+#: kpci.cpp:590 kpci_private.h:726
 #, kde-format
 msgid "AGP"
 msgstr ""
@@ -787,7 +787,7 @@ msgstr ""
 msgid "Message control"
 msgstr ""
 
-#: kpci.cpp:624 kpci_private.h:684
+#: kpci.cpp:624 kpci_private.h:729
 #, kde-format
 msgid "Message signaled interrupts"
 msgstr ""
@@ -893,1117 +893,1255 @@ msgctxt "state of PCI item"
 msgid "Unknown"
 msgstr ""
 
-#: kpci_private.h:439
+#: kpci_private.h:450
 #, kde-format
 msgid "Unclassified device"
 msgstr ""
 
-#: kpci_private.h:440 kpci_private.h:474
+#: kpci_private.h:451 kpci_private.h:491
 #, kde-format
 msgid "Mass storage controller"
 msgstr ""
 
-#: kpci_private.h:441 kpci_private.h:484
+#: kpci_private.h:452 kpci_private.h:503
 #, kde-format
 msgid "Network controller"
 msgstr ""
 
-#: kpci_private.h:442 kpci_private.h:490
+#: kpci_private.h:453 kpci_private.h:509
 #, kde-format
 msgid "Display controller"
 msgstr ""
 
-#: kpci_private.h:443 kpci_private.h:496
+#: kpci_private.h:454 kpci_private.h:516
 #, kde-format
 msgid "Multimedia controller"
 msgstr ""
 
-#: kpci_private.h:444 kpci_private.h:501
+#: kpci_private.h:455 kpci_private.h:521
 #, kde-format
 msgid "Memory controller"
 msgstr ""
 
-#: kpci_private.h:445 kpci_private.h:515 kpci_private.h:718
+#: kpci_private.h:456 kpci_private.h:535 kpci_private.h:764
 #, kde-format
 msgid "Bridge"
 msgstr ""
 
-#: kpci_private.h:446 kpci_private.h:524
+#: kpci_private.h:457 kpci_private.h:544
 #, kde-format
 msgid "Communication controller"
 msgstr ""
 
-#: kpci_private.h:447
+#: kpci_private.h:458
 #, kde-format
 msgid "Generic system peripheral"
 msgstr ""
 
-#: kpci_private.h:448 kpci_private.h:540
+#: kpci_private.h:459 kpci_private.h:562
 #, kde-format
 msgid "Input device controller"
 msgstr ""
 
-#: kpci_private.h:449 kpci_private.h:544
+#: kpci_private.h:460 kpci_private.h:566
 #, kde-format
 msgid "Docking station"
 msgstr ""
 
-#: kpci_private.h:450
+#: kpci_private.h:461
 #, kde-format
 msgid "Processor"
 msgstr ""
 
-#: kpci_private.h:451
+#: kpci_private.h:462
 #, kde-format
 msgid "Serial bus controller"
 msgstr ""
 
-#: kpci_private.h:452 kpci_private.h:575
+#: kpci_private.h:463 kpci_private.h:597
 #, kde-format
 msgid "Wireless controller"
 msgstr ""
 
-#: kpci_private.h:453
+#: kpci_private.h:464
 #, kde-format
 msgid "Intelligent controller"
 msgstr ""
 
-#: kpci_private.h:454
+#: kpci_private.h:465
 #, kde-format
 msgid "Satellite communications controller"
 msgstr ""
 
-#: kpci_private.h:455 kpci_private.h:589
+#: kpci_private.h:466 kpci_private.h:611
 #, kde-format
 msgid "Encryption controller"
 msgstr ""
 
-#: kpci_private.h:456 kpci_private.h:596
+#: kpci_private.h:467 kpci_private.h:618
 #, kde-format
 msgid "Signal processing controller"
 msgstr ""
 
-#: kpci_private.h:457
+#: kpci_private.h:468 kpci_private.h:621
 #, kde-format
-msgid "Unknown device class"
-msgstr ""
-
-#: kpci_private.h:463
-#, kde-format
-msgid "Non-VGA unclassified device"
-msgstr ""
-
-#: kpci_private.h:464
-#, kde-format
-msgid "VGA unclassified device"
-msgstr ""
-
-#: kpci_private.h:465
-#, kde-format
-msgid "Unknown unclassified device"
-msgstr ""
-
-#: kpci_private.h:467
-#, kde-format
-msgid "SCSI storage controller"
-msgstr ""
-
-#: kpci_private.h:468
-#, kde-format
-msgid "IDE controller"
+msgid "Processing accelerators"
 msgstr ""
 
 #: kpci_private.h:469
 #, kde-format
-msgid "Floppy disk controller"
+msgid "Non-Essential Instrumentation"
 msgstr ""
 
 #: kpci_private.h:470
 #, kde-format
-msgid "IPI bus controller"
+msgid "Coprocessor"
 msgstr ""
 
 #: kpci_private.h:471
 #, kde-format
-msgid "RAID bus controller"
+msgid "Unassigned class"
 msgstr ""
 
 #: kpci_private.h:472
 #, kde-format
-msgid "ATA controller"
-msgstr ""
-
-#: kpci_private.h:473
-#, kde-format
-msgid "Serial ATA direct port access"
-msgstr ""
-
-#: kpci_private.h:475
-#, kde-format
-msgid "Unknown storage controller"
-msgstr ""
-
-#: kpci_private.h:477
-#, kde-format
-msgid "Ethernet controller"
+msgid "Unknown device class"
 msgstr ""
 
 #: kpci_private.h:478
 #, kde-format
-msgid "Token ring network controller"
+msgid "Non-VGA unclassified device"
 msgstr ""
 
 #: kpci_private.h:479
 #, kde-format
-msgid "FDDI network controller"
+msgid "VGA unclassified device"
 msgstr ""
 
 #: kpci_private.h:480
 #, kde-format
-msgid "ATM network controller"
-msgstr ""
-
-#: kpci_private.h:481
-#, kde-format
-msgid "ISDN controller"
+msgid "Unknown unclassified device"
 msgstr ""
 
 #: kpci_private.h:482
 #, kde-format
-msgid "WorldFip controller"
+msgid "SCSI storage controller"
 msgstr ""
 
 #: kpci_private.h:483
 #, kde-format
-msgid "PICMG 2.14 multi computing"
+msgid "IDE controller"
+msgstr ""
+
+#: kpci_private.h:484
+#, kde-format
+msgid "Floppy disk controller"
 msgstr ""
 
 #: kpci_private.h:485
 #, kde-format
-msgid "Unknown network controller"
+msgid "IPI bus controller"
+msgstr ""
+
+#: kpci_private.h:486
+#, kde-format
+msgid "RAID bus controller"
 msgstr ""
 
 #: kpci_private.h:487
 #, kde-format
-msgid "VGA compatible controller"
+msgid "ATA controller"
 msgstr ""
 
 #: kpci_private.h:488
 #, kde-format
-msgid "XGA compatible controller"
+msgid "SATA controller"
 msgstr ""
 
 #: kpci_private.h:489
 #, kde-format
-msgid "3D controller"
+msgid "Serial Attached SCSI controller"
 msgstr ""
 
-#: kpci_private.h:491
+#: kpci_private.h:490
 #, kde-format
-msgid "Unknown display controller"
+msgid "Non-Volatile memory controller"
 msgstr ""
 
-#: kpci_private.h:493
+#: kpci_private.h:492
 #, kde-format
-msgid "Multimedia video controller"
+msgid "Unknown storage controller"
 msgstr ""
 
 #: kpci_private.h:494
 #, kde-format
-msgid "Multimedia audio controller"
+msgid "Ethernet controller"
 msgstr ""
 
 #: kpci_private.h:495
 #, kde-format
-msgid "Computer telephony device"
+msgid "Token ring network controller"
+msgstr ""
+
+#: kpci_private.h:496
+#, kde-format
+msgid "FDDI network controller"
 msgstr ""
 
 #: kpci_private.h:497
 #, kde-format
-msgid "Unknown multimedia controller"
+msgid "ATM network controller"
+msgstr ""
+
+#: kpci_private.h:498
+#, kde-format
+msgid "ISDN controller"
 msgstr ""
 
 #: kpci_private.h:499
 #, kde-format
-msgid "RAM memory"
+msgid "WorldFip controller"
 msgstr ""
 
 #: kpci_private.h:500
 #, kde-format
-msgid "FLASH memory"
+msgid "PICMG controller"
+msgstr ""
+
+#: kpci_private.h:501
+#, kde-format
+msgid "Infiniband controller"
 msgstr ""
 
 #: kpci_private.h:502
 #, kde-format
-msgid "Unknown memory controller"
+msgid "Fabric controller"
 msgstr ""
 
 #: kpci_private.h:504
 #, kde-format
-msgid "Host bridge"
-msgstr ""
-
-#: kpci_private.h:505
-#, kde-format
-msgid "ISA bridge"
+msgid "Unknown network controller"
 msgstr ""
 
 #: kpci_private.h:506
 #, kde-format
-msgid "EISA bridge"
+msgid "VGA compatible controller"
 msgstr ""
 
 #: kpci_private.h:507
 #, kde-format
-msgid "MicroChannel bridge"
+msgid "XGA compatible controller"
 msgstr ""
 
 #: kpci_private.h:508
 #, kde-format
-msgid "PCI bridge"
-msgstr ""
-
-#: kpci_private.h:509
-#, kde-format
-msgid "PCMCIA bridge"
+msgid "3D controller"
 msgstr ""
 
 #: kpci_private.h:510
 #, kde-format
-msgid "NuBus bridge"
-msgstr ""
-
-#: kpci_private.h:511
-#, kde-format
-msgid "CardBus bridge"
+msgid "Unknown display controller"
 msgstr ""
 
 #: kpci_private.h:512
 #, kde-format
-msgid "RACEway bridge"
+msgid "Multimedia video controller"
 msgstr ""
 
 #: kpci_private.h:513
 #, kde-format
-msgid "Semi-transparent PCI-to-PCI bridge"
+msgid "Multimedia audio controller"
 msgstr ""
 
 #: kpci_private.h:514
 #, kde-format
-msgid "InfiniBand to PCI host bridge"
+msgid "Computer telephony device"
 msgstr ""
 
-#: kpci_private.h:516
+#: kpci_private.h:515
 #, kde-format
-msgid "Unknown bridge"
+msgid "Audio device"
 msgstr ""
 
-#: kpci_private.h:518
+#: kpci_private.h:517
 #, kde-format
-msgid "Serial controller"
+msgid "Unknown multimedia controller"
 msgstr ""
 
 #: kpci_private.h:519
 #, kde-format
-msgid "Parallel controller"
+msgid "RAM memory"
 msgstr ""
 
 #: kpci_private.h:520
 #, kde-format
-msgid "Multiport serial controller"
-msgstr ""
-
-#: kpci_private.h:521
-#, kde-format
-msgid "Modem"
+msgid "FLASH memory"
 msgstr ""
 
 #: kpci_private.h:522
 #, kde-format
-msgid "GPIB (IEEE 488.1/2) controller"
+msgid "Unknown memory controller"
 msgstr ""
 
-#: kpci_private.h:523
+#: kpci_private.h:524
 #, kde-format
-msgid "Smart card"
+msgid "Host bridge"
 msgstr ""
 
 #: kpci_private.h:525
 #, kde-format
-msgid "Unknown communication controller"
+msgid "ISA bridge"
+msgstr ""
+
+#: kpci_private.h:526
+#, kde-format
+msgid "EISA bridge"
 msgstr ""
 
 #: kpci_private.h:527
 #, kde-format
-msgid "PIC"
+msgid "MicroChannel bridge"
 msgstr ""
 
 #: kpci_private.h:528
 #, kde-format
-msgid "DMA controller"
+msgid "PCI bridge"
 msgstr ""
 
 #: kpci_private.h:529
 #, kde-format
-msgid "Timer"
+msgid "PCMCIA bridge"
 msgstr ""
 
 #: kpci_private.h:530
 #, kde-format
-msgid "RTC"
+msgid "NuBus bridge"
 msgstr ""
 
 #: kpci_private.h:531
 #, kde-format
-msgid "PCI Hot-plug controller"
+msgid "CardBus bridge"
 msgstr ""
 
 #: kpci_private.h:532
 #, kde-format
-msgid "System peripheral"
+msgid "RACEway bridge"
 msgstr ""
 
 #: kpci_private.h:533
 #, kde-format
-msgid "Unknown system peripheral"
+msgid "Semi-transparent PCI-to-PCI bridge"
 msgstr ""
 
-#: kpci_private.h:535
+#: kpci_private.h:534
 #, kde-format
-msgid "Keyboard controller"
+msgid "InfiniBand to PCI host bridge"
 msgstr ""
 
 #: kpci_private.h:536
 #, kde-format
-msgid "Digitizer Pen"
-msgstr ""
-
-#: kpci_private.h:537
-#, kde-format
-msgid "Mouse controller"
+msgid "Unknown bridge"
 msgstr ""
 
 #: kpci_private.h:538
 #, kde-format
-msgid "Scanner controller"
+msgid "Serial controller"
 msgstr ""
 
 #: kpci_private.h:539
 #, kde-format
-msgid "Gameport controller"
+msgid "Parallel controller"
+msgstr ""
+
+#: kpci_private.h:540
+#, kde-format
+msgid "Multiport serial controller"
 msgstr ""
 
 #: kpci_private.h:541
 #, kde-format
-msgid "Unknown input device controller"
+msgid "Modem"
+msgstr ""
+
+#: kpci_private.h:542
+#, kde-format
+msgid "GPIB controller"
 msgstr ""
 
 #: kpci_private.h:543
 #, kde-format
-msgid "Generic docking station"
+msgid "Smart card controller"
 msgstr ""
 
 #: kpci_private.h:545
 #, kde-format
-msgid "Unknown docking station"
+msgid "Unknown communication controller"
 msgstr ""
 
 #: kpci_private.h:547
 #, kde-format
-msgid "386"
+msgid "PIC"
 msgstr ""
 
 #: kpci_private.h:548
 #, kde-format
-msgid "486"
+msgid "DMA controller"
 msgstr ""
 
 #: kpci_private.h:549
 #, kde-format
-msgid "Pentium"
+msgid "Timer"
 msgstr ""
 
 #: kpci_private.h:550
 #, kde-format
-msgid "Alpha"
+msgid "RTC"
 msgstr ""
 
 #: kpci_private.h:551
 #, kde-format
-msgid "Power PC"
+msgid "PCI Hot-plug controller"
 msgstr ""
 
-#: kpci_private.h:552
+#: kpci_private.h:552 kpci_private.h:553
 #, kde-format
-msgid "MIPS"
-msgstr ""
-
-#: kpci_private.h:553
-#, kde-format
-msgid "Co-processor"
+msgid "SD Host controller"
 msgstr ""
 
 #: kpci_private.h:554
 #, kde-format
-msgid "Unknown processor"
+msgid "IOMMU"
 msgstr ""
 
-#: kpci_private.h:556
+#: kpci_private.h:555
 #, kde-format
-msgid "FireWire (IEEE 1394)"
+msgid "Unknown system peripheral"
 msgstr ""
 
 #: kpci_private.h:557
 #, kde-format
-msgid "ACCESS bus"
+msgid "Keyboard controller"
 msgstr ""
 
 #: kpci_private.h:558
 #, kde-format
-msgid "SSA"
+msgid "Digitizer Pen"
 msgstr ""
 
 #: kpci_private.h:559
 #, kde-format
-msgid "USB controller"
+msgid "Mouse controller"
 msgstr ""
 
 #: kpci_private.h:560
 #, kde-format
-msgid "Fibre channel"
+msgid "Scanner controller"
 msgstr ""
 
 #: kpci_private.h:561
 #, kde-format
-msgid "SMBus"
-msgstr ""
-
-#: kpci_private.h:562
-#, kde-format
-msgid "InfiniBand"
+msgid "Gameport controller"
 msgstr ""
 
 #: kpci_private.h:563
 #, kde-format
-msgid "IPMI interface"
-msgstr ""
-
-#: kpci_private.h:564
-#, kde-format
-msgid "SERCOS interface"
+msgid "Unknown input device controller"
 msgstr ""
 
 #: kpci_private.h:565
 #, kde-format
-msgid "CANbus"
+msgid "Generic docking station"
 msgstr ""
 
-#: kpci_private.h:566
+#: kpci_private.h:567
 #, kde-format
-msgid "Unknown serial bus controller"
-msgstr ""
-
-#: kpci_private.h:568
-#, kde-format
-msgid "IRDA controller"
+msgid "Unknown docking station"
 msgstr ""
 
 #: kpci_private.h:569
 #, kde-format
-msgid "Consumer IR controller"
+msgid "386"
 msgstr ""
 
 #: kpci_private.h:570
 #, kde-format
-msgid "RF controller"
+msgid "486"
 msgstr ""
 
 #: kpci_private.h:571
 #, kde-format
-msgid "Bluetooth"
+msgid "Pentium"
 msgstr ""
 
 #: kpci_private.h:572
 #, kde-format
-msgid "Broadband"
+msgid "Alpha"
 msgstr ""
 
 #: kpci_private.h:573
 #, kde-format
-msgid "Ethernet (802.11a - 5 GHz)"
+msgid "Power PC"
 msgstr ""
 
 #: kpci_private.h:574
 #, kde-format
-msgid "Ethernet (802.11b - 2.4 GHz)"
+msgid "MIPS"
+msgstr ""
+
+#: kpci_private.h:575
+#, kde-format
+msgid "Co-processor"
 msgstr ""
 
 #: kpci_private.h:576
 #, kde-format
-msgid "Unknown wireless controller"
+msgid "Unknown processor"
 msgstr ""
 
 #: kpci_private.h:578
 #, kde-format
-msgid "I2O"
+msgid "FireWire (IEEE 1394)"
 msgstr ""
 
 #: kpci_private.h:579
 #, kde-format
-msgid "Unknown intelligent controller"
+msgid "ACCESS bus"
+msgstr ""
+
+#: kpci_private.h:580
+#, kde-format
+msgid "SSA"
 msgstr ""
 
 #: kpci_private.h:581
 #, kde-format
-msgid "Satellite TV controller"
+msgid "USB controller"
 msgstr ""
 
 #: kpci_private.h:582
 #, kde-format
-msgid "Satellite audio communication controller"
+msgid "Fibre channel"
 msgstr ""
 
 #: kpci_private.h:583
 #, kde-format
-msgid "Satellite voice communication controller"
+msgid "SMBus"
 msgstr ""
 
 #: kpci_private.h:584
 #, kde-format
-msgid "Satellite data communication controller"
+msgid "InfiniBand"
 msgstr ""
 
 #: kpci_private.h:585
 #, kde-format
-msgid "Unknown satellite communications controller"
+msgid "IPMI interface"
+msgstr ""
+
+#: kpci_private.h:586
+#, kde-format
+msgid "SERCOS interface"
 msgstr ""
 
 #: kpci_private.h:587
 #, kde-format
-msgid "Network and computing encryption device"
+msgid "CANbus"
 msgstr ""
 
 #: kpci_private.h:588
 #, kde-format
-msgid "Entertainment encryption device"
+msgid "Unknown serial bus controller"
 msgstr ""
 
 #: kpci_private.h:590
 #, kde-format
-msgid "Unknown encryption controller"
+msgid "IRDA controller"
+msgstr ""
+
+#: kpci_private.h:591
+#, kde-format
+msgid "Consumer IR controller"
 msgstr ""
 
 #: kpci_private.h:592
 #, kde-format
-msgid "DPIO module"
+msgid "RF controller"
 msgstr ""
 
 #: kpci_private.h:593
 #, kde-format
-msgid "Performance counters"
+msgid "Bluetooth"
 msgstr ""
 
 #: kpci_private.h:594
 #, kde-format
-msgid "Communication synchronizer"
+msgid "Broadband"
 msgstr ""
 
 #: kpci_private.h:595
 #, kde-format
-msgid "Management card"
+msgid "Ethernet (802.11a - 5 GHz)"
 msgstr ""
 
-#: kpci_private.h:597
+#: kpci_private.h:596
 #, kde-format
-msgid "Unknown signal processing controller"
+msgid "Ethernet (802.11b - 2.4 GHz)"
 msgstr ""
 
-#: kpci_private.h:599
+#: kpci_private.h:598
 #, kde-format
-msgid "Unknown subdevice class"
+msgid "Unknown wireless controller"
+msgstr ""
+
+#: kpci_private.h:600
+#, kde-format
+msgid "I2O"
+msgstr ""
+
+#: kpci_private.h:601
+#, kde-format
+msgid "Unknown intelligent controller"
+msgstr ""
+
+#: kpci_private.h:603
+#, kde-format
+msgid "Satellite TV controller"
+msgstr ""
+
+#: kpci_private.h:604
+#, kde-format
+msgid "Satellite audio communication controller"
+msgstr ""
+
+#: kpci_private.h:605
+#, kde-format
+msgid "Satellite voice communication controller"
 msgstr ""
 
 #: kpci_private.h:606
 #, kde-format
-msgid "single DMA"
+msgid "Satellite data communication controller"
 msgstr ""
 
 #: kpci_private.h:607
 #, kde-format
-msgid "chained DMA"
+msgid "Unknown satellite communications controller"
 msgstr ""
 
 #: kpci_private.h:609
 #, kde-format
-msgid "VGA compatible"
+msgid "Network and computing encryption device"
 msgstr ""
 
 #: kpci_private.h:610
 #, kde-format
-msgid "8514 compatible"
+msgid "Entertainment encryption device"
 msgstr ""
 
 #: kpci_private.h:612
 #, kde-format
-msgid "Normal decode"
+msgid "Unknown encryption controller"
 msgstr ""
 
-#: kpci_private.h:613
+#: kpci_private.h:614
 #, kde-format
-msgid "Subtractive decode"
+msgid "DPIO module"
 msgstr ""
 
 #: kpci_private.h:615
 #, kde-format
-msgid "Transparent mode"
+msgid "Performance counters"
 msgstr ""
 
 #: kpci_private.h:616
 #, kde-format
-msgid "Endpoint mode"
+msgid "Communication synchronizer"
 msgstr ""
 
-#: kpci_private.h:618
+#: kpci_private.h:617
 #, kde-format
-msgid "Primary bus towards host CPU"
+msgid "Signal processing management"
 msgstr ""
 
 #: kpci_private.h:619
 #, kde-format
-msgid "Secondary bus towards host CPU"
-msgstr ""
-
-#: kpci_private.h:621
-#, kde-format
-msgid "8250"
+msgid "Unknown signal processing controller"
 msgstr ""
 
 #: kpci_private.h:622
 #, kde-format
-msgid "16450"
-msgstr ""
-
-#: kpci_private.h:623
-#, kde-format
-msgid "16550"
+msgid "Unknown processing accelerator"
 msgstr ""
 
 #: kpci_private.h:624
 #, kde-format
-msgid "16650"
-msgstr ""
-
-#: kpci_private.h:625
-#, kde-format
-msgid "16750"
-msgstr ""
-
-#: kpci_private.h:626
-#, kde-format
-msgid "16850"
-msgstr ""
-
-#: kpci_private.h:627
-#, kde-format
-msgid "16950"
-msgstr ""
-
-#: kpci_private.h:629
-#, kde-format
-msgid "SPP"
-msgstr ""
-
-#: kpci_private.h:630
-#, kde-format
-msgid "BiDir"
+msgid "Unknown subdevice class"
 msgstr ""
 
 #: kpci_private.h:631
 #, kde-format
-msgid "ECP"
+msgid "ISA Compatibility mode-only controller"
 msgstr ""
 
 #: kpci_private.h:632
 #, kde-format
-msgid "IEEE1284"
+msgid "PCI native mode-only controller"
 msgstr ""
 
 #: kpci_private.h:633
 #, kde-format
-msgid "IEEE1284 Target"
+msgid ""
+"ISA Compatibility mode controller, supports both channels switched to PCI "
+"native mode"
 msgstr ""
 
-#: kpci_private.h:635 kpci_private.h:655 kpci_private.h:658 kpci_private.h:661
+#: kpci_private.h:634
 #, kde-format
-msgid "Generic"
+msgid ""
+"PCI native mode controller, supports both channels switched to ISA "
+"compatibility mode"
+msgstr ""
+
+#: kpci_private.h:635
+#, kde-format
+msgid "ISA Compatibility mode-only controller, supports bus mastering"
 msgstr ""
 
 #: kpci_private.h:636
 #, kde-format
-msgid "Hayes/16450"
+msgid "PCI native mode-only controller, supports bus mastering"
 msgstr ""
 
 #: kpci_private.h:637
 #, kde-format
-msgid "Hayes/16550"
+msgid ""
+"ISA Compatibility mode controller, supports both channels switched to PCI "
+"native mode, supports bus mastering"
 msgstr ""
 
 #: kpci_private.h:638
 #, kde-format
-msgid "Hayes/16650"
+msgid ""
+"PCI native mode controller, supports both channels switched to ISA "
+"compatibility mode, supports bus mastering"
 msgstr ""
 
-#: kpci_private.h:639
+#: kpci_private.h:640
 #, kde-format
-msgid "Hayes/16750"
+msgid "ADMA single stepping"
 msgstr ""
 
 #: kpci_private.h:641
 #, kde-format
-msgid "8259"
+msgid "ADMA continuous operation"
 msgstr ""
 
-#: kpci_private.h:642
-#, kde-format
-msgid "ISA PIC"
-msgstr ""
-
-#: kpci_private.h:643
-#, kde-format
-msgid "EISA PIC"
-msgstr ""
-
-#: kpci_private.h:644
-#, kde-format
-msgid "IO-APIC"
-msgstr ""
-
-#: kpci_private.h:645
-#, kde-format
-msgid "IO(X)-APIC"
-msgstr ""
-
-#: kpci_private.h:647
-#, kde-format
-msgid "8237"
-msgstr ""
-
-#: kpci_private.h:648
-#, kde-format
-msgid "ISA DMA"
-msgstr ""
-
-#: kpci_private.h:649
-#, kde-format
-msgid "EISA DMA"
-msgstr ""
-
-#: kpci_private.h:651
-#, kde-format
-msgid "8254"
-msgstr ""
-
-#: kpci_private.h:652
-#, kde-format
-msgid "ISA timer"
-msgstr ""
-
-#: kpci_private.h:653
-#, kde-format
-msgid "EISA timers"
-msgstr ""
-
-#: kpci_private.h:656
-#, kde-format
-msgid "ISA RTC"
-msgstr ""
-
-#: kpci_private.h:659
-#, kde-format
-msgid "Extended"
-msgstr ""
-
-#: kpci_private.h:662 kpci_private.h:665
-#, kde-format
-msgid "OHCI"
-msgstr ""
-
-#: kpci_private.h:664
-#, kde-format
-msgid "UHCI"
-msgstr ""
-
-#: kpci_private.h:666
-#, kde-format
-msgid "EHCI"
-msgstr ""
-
-#: kpci_private.h:667
-#, kde-format
-msgid "Unspecified"
-msgstr ""
-
-#: kpci_private.h:668
-#, kde-format
-msgid "USB Device"
-msgstr ""
-
-#: kpci_private.h:670
-#, kde-format
-msgid "SMIC"
-msgstr ""
-
-#: kpci_private.h:671
-#, kde-format
-msgid "Keyboard controller style"
-msgstr ""
-
-#: kpci_private.h:672
-#, kde-format
-msgid "Block transfer"
-msgstr ""
-
-#: kpci_private.h:682
-#, kde-format
-msgid "Vital product data"
-msgstr ""
-
-#: kpci_private.h:683
-#, kde-format
-msgid "Slot identification"
-msgstr ""
-
-#: kpci_private.h:685
-#, kde-format
-msgid "CompactPCI hot swap"
-msgstr ""
-
-#: kpci_private.h:686
-#, kde-format
-msgid "PCI-X"
-msgstr ""
-
-#: kpci_private.h:687
-#, kde-format
-msgid "HyperTransport"
-msgstr ""
-
-#: kpci_private.h:688
+#: kpci_private.h:643 kpci_private.h:733
 #, kde-format
 msgid "Vendor specific"
 msgstr ""
 
-#: kpci_private.h:689
+#: kpci_private.h:644
 #, kde-format
-msgid "Debug port"
+msgid "AHCI 1.0"
+msgstr ""
+
+#: kpci_private.h:645 kpci_private.h:647
+#, kde-format
+msgid "Serial Storage Bus"
+msgstr ""
+
+#: kpci_private.h:649
+#, kde-format
+msgid "NVMHCI"
+msgstr ""
+
+#: kpci_private.h:650
+#, kde-format
+msgid "NVM Express"
+msgstr ""
+
+#: kpci_private.h:652
+#, kde-format
+msgid "VGA controller"
+msgstr ""
+
+#: kpci_private.h:653
+#, kde-format
+msgid "8514 controller"
+msgstr ""
+
+#: kpci_private.h:655
+#, kde-format
+msgid "Normal decode"
+msgstr ""
+
+#: kpci_private.h:656
+#, kde-format
+msgid "Subtractive decode"
+msgstr ""
+
+#: kpci_private.h:658
+#, kde-format
+msgid "Transparent mode"
+msgstr ""
+
+#: kpci_private.h:659
+#, kde-format
+msgid "Endpoint mode"
+msgstr ""
+
+#: kpci_private.h:661
+#, kde-format
+msgid "Primary bus towards host CPU"
+msgstr ""
+
+#: kpci_private.h:662
+#, kde-format
+msgid "Secondary bus towards host CPU"
+msgstr ""
+
+#: kpci_private.h:664
+#, kde-format
+msgid "8250"
+msgstr ""
+
+#: kpci_private.h:665
+#, kde-format
+msgid "16450"
+msgstr ""
+
+#: kpci_private.h:666
+#, kde-format
+msgid "16550"
+msgstr ""
+
+#: kpci_private.h:667
+#, kde-format
+msgid "16650"
+msgstr ""
+
+#: kpci_private.h:668
+#, kde-format
+msgid "16750"
+msgstr ""
+
+#: kpci_private.h:669
+#, kde-format
+msgid "16850"
+msgstr ""
+
+#: kpci_private.h:670
+#, kde-format
+msgid "16950"
+msgstr ""
+
+#: kpci_private.h:672
+#, kde-format
+msgid "SPP"
+msgstr ""
+
+#: kpci_private.h:673
+#, kde-format
+msgid "BiDir"
+msgstr ""
+
+#: kpci_private.h:674
+#, kde-format
+msgid "ECP"
+msgstr ""
+
+#: kpci_private.h:675
+#, kde-format
+msgid "IEEE1284"
+msgstr ""
+
+#: kpci_private.h:676
+#, kde-format
+msgid "IEEE1284 Target"
+msgstr ""
+
+#: kpci_private.h:678 kpci_private.h:699 kpci_private.h:702 kpci_private.h:705
+#, kde-format
+msgid "Generic"
+msgstr ""
+
+#: kpci_private.h:679
+#, kde-format
+msgid "Hayes/16450"
+msgstr ""
+
+#: kpci_private.h:680
+#, kde-format
+msgid "Hayes/16550"
+msgstr ""
+
+#: kpci_private.h:681
+#, kde-format
+msgid "Hayes/16650"
+msgstr ""
+
+#: kpci_private.h:682
+#, kde-format
+msgid "Hayes/16750"
+msgstr ""
+
+#: kpci_private.h:684
+#, kde-format
+msgid "8259"
+msgstr ""
+
+#: kpci_private.h:685
+#, kde-format
+msgid "ISA PIC"
+msgstr ""
+
+#: kpci_private.h:686
+#, kde-format
+msgid "EISA PIC"
+msgstr ""
+
+#: kpci_private.h:687
+#, kde-format
+msgid "IO-APIC"
+msgstr ""
+
+#: kpci_private.h:688
+#, kde-format
+msgid "IO(X)-APIC"
 msgstr ""
 
 #: kpci_private.h:690
 #, kde-format
-msgid "CompactPCI central resource control"
+msgid "8237"
 msgstr ""
 
 #: kpci_private.h:691
 #, kde-format
-msgid "PCI hot-plug"
+msgid "ISA DMA"
 msgstr ""
 
 #: kpci_private.h:692
 #, kde-format
-msgid "AGP x8"
-msgstr ""
-
-#: kpci_private.h:693
-#, kde-format
-msgid "Secure device"
+msgid "EISA DMA"
 msgstr ""
 
 #: kpci_private.h:694
 #, kde-format
-msgid "PCI express"
+msgid "8254"
 msgstr ""
 
 #: kpci_private.h:695
 #, kde-format
-msgid "MSI-X"
+msgid "ISA timer"
 msgstr ""
 
-#: kpci_private.h:701
+#: kpci_private.h:696
 #, kde-format
-msgid "Fast"
+msgid "EISA timers"
 msgstr ""
 
-#: kpci_private.h:702
+#: kpci_private.h:697
 #, kde-format
-msgid "Medium"
+msgid "HPET"
+msgstr ""
+
+#: kpci_private.h:700
+#, kde-format
+msgid "ISA RTC"
 msgstr ""
 
 #: kpci_private.h:703
 #, kde-format
-msgid "Slow"
+msgid "Extended"
 msgstr ""
 
-#: kpci_private.h:709
+#: kpci_private.h:706 kpci_private.h:709
 #, kde-format
-msgid "32 bit"
+msgid "OHCI"
+msgstr ""
+
+#: kpci_private.h:708
+#, kde-format
+msgid "UHCI"
 msgstr ""
 
 #: kpci_private.h:710
 #, kde-format
-msgid "Below 1M"
+msgid "EHCI"
 msgstr ""
 
 #: kpci_private.h:711
 #, kde-format
-msgid "64 bit"
+msgid "XHCI"
+msgstr ""
+
+#: kpci_private.h:712
+#, kde-format
+msgid "Unspecified"
+msgstr ""
+
+#: kpci_private.h:713
+#, kde-format
+msgid "USB Device"
+msgstr ""
+
+#: kpci_private.h:715
+#, kde-format
+msgid "SMIC"
+msgstr ""
+
+#: kpci_private.h:716
+#, kde-format
+msgid "Keyboard controller style"
 msgstr ""
 
 #: kpci_private.h:717
 #, kde-format
-msgid "Standard"
-msgstr ""
-
-#: kpci_private.h:719
-#, kde-format
-msgid "CardBus"
-msgstr ""
-
-#: kpci_private.h:725
-#, kde-format
-msgid "1X"
-msgstr ""
-
-#: kpci_private.h:726
-#, kde-format
-msgid "2X"
+msgid "Block transfer"
 msgstr ""
 
 #: kpci_private.h:727
 #, kde-format
-msgid "1X & 2X"
+msgid "Vital product data"
 msgstr ""
 
-#: kpci_private.h:728 kpci_private.h:732
+#: kpci_private.h:728
 #, kde-format
-msgid "4X"
-msgstr ""
-
-#: kpci_private.h:729
-#, kde-format
-msgid "1X & 4X"
+msgid "Slot identification"
 msgstr ""
 
 #: kpci_private.h:730
 #, kde-format
-msgid "2X & 4X"
+msgid "CompactPCI hot swap"
 msgstr ""
 
 #: kpci_private.h:731
 #, kde-format
-msgid "1X & 2X & 4X"
+msgid "PCI-X"
 msgstr ""
 
-#: kpci_private.h:733
+#: kpci_private.h:732
 #, kde-format
-msgid "8X"
+msgid "HyperTransport"
 msgstr ""
 
 #: kpci_private.h:734
 #, kde-format
-msgid "4X & 8X"
+msgid "Debug port"
+msgstr ""
+
+#: kpci_private.h:735
+#, kde-format
+msgid "CompactPCI central resource control"
+msgstr ""
+
+#: kpci_private.h:736
+#, kde-format
+msgid "PCI hot-plug"
+msgstr ""
+
+#: kpci_private.h:737
+#, kde-format
+msgid "AGP x8"
+msgstr ""
+
+#: kpci_private.h:738
+#, kde-format
+msgid "Secure device"
+msgstr ""
+
+#: kpci_private.h:739
+#, kde-format
+msgid "PCI express"
 msgstr ""
 
 #: kpci_private.h:740
 #, kde-format
-msgid "4 ms"
+msgid "MSI-X"
 msgstr ""
 
 #: kpci_private.h:741
 #, kde-format
-msgid "16 ms"
+msgid "PCI Advanced Features"
 msgstr ""
 
-#: kpci_private.h:742
+#: kpci_private.h:747
 #, kde-format
-msgid "64 ms"
+msgid "Fast"
 msgstr ""
 
-#: kpci_private.h:743
+#: kpci_private.h:748
 #, kde-format
-msgid "256 ms"
+msgid "Medium"
 msgstr ""
 
-#: kpci_private.h:744
+#: kpci_private.h:749
 #, kde-format
-msgid "Not needed"
-msgstr ""
-
-#: kpci_private.h:750
-#, kde-format
-msgid "0 (self powered)"
-msgstr ""
-
-#: kpci_private.h:751
-#, kde-format
-msgid "55 mA"
-msgstr ""
-
-#: kpci_private.h:752
-#, kde-format
-msgid "100 mA"
-msgstr ""
-
-#: kpci_private.h:753
-#, kde-format
-msgid "160 mA"
-msgstr ""
-
-#: kpci_private.h:754
-#, kde-format
-msgid "220 mA"
+msgid "Slow"
 msgstr ""
 
 #: kpci_private.h:755
 #, kde-format
-msgid "270 mA"
+msgid "32 bit"
 msgstr ""
 
 #: kpci_private.h:756
 #, kde-format
-msgid "320 mA"
+msgid "Below 1M"
 msgstr ""
 
 #: kpci_private.h:757
 #, kde-format
-msgid "375 mA"
+msgid "64 bit"
+msgstr ""
+
+#: kpci_private.h:763
+#, kde-format
+msgid "Standard"
+msgstr ""
+
+#: kpci_private.h:765
+#, kde-format
+msgid "CardBus"
+msgstr ""
+
+#: kpci_private.h:771
+#, kde-format
+msgid "1X"
 msgstr ""
 
 #: kpci_private.h:772
 #, kde-format
-msgid "1 vector"
+msgid "2X"
 msgstr ""
 
 #: kpci_private.h:773
 #, kde-format
-msgid "2 vectors"
+msgid "1X & 2X"
 msgstr ""
 
-#: kpci_private.h:774
+#: kpci_private.h:774 kpci_private.h:778
 #, kde-format
-msgid "4 vectors"
+msgid "4X"
 msgstr ""
 
 #: kpci_private.h:775
 #, kde-format
-msgid "8 vectors"
+msgid "1X & 4X"
 msgstr ""
 
 #: kpci_private.h:776
 #, kde-format
-msgid "16 vectors"
+msgid "2X & 4X"
 msgstr ""
 
 #: kpci_private.h:777
+#, kde-format
+msgid "1X & 2X & 4X"
+msgstr ""
+
+#: kpci_private.h:779
+#, kde-format
+msgid "8X"
+msgstr ""
+
+#: kpci_private.h:780
+#, kde-format
+msgid "4X & 8X"
+msgstr ""
+
+#: kpci_private.h:786
+#, kde-format
+msgid "4 ms"
+msgstr ""
+
+#: kpci_private.h:787
+#, kde-format
+msgid "16 ms"
+msgstr ""
+
+#: kpci_private.h:788
+#, kde-format
+msgid "64 ms"
+msgstr ""
+
+#: kpci_private.h:789
+#, kde-format
+msgid "256 ms"
+msgstr ""
+
+#: kpci_private.h:790
+#, kde-format
+msgid "Not needed"
+msgstr ""
+
+#: kpci_private.h:796
+#, kde-format
+msgid "0 (self powered)"
+msgstr ""
+
+#: kpci_private.h:797
+#, kde-format
+msgid "55 mA"
+msgstr ""
+
+#: kpci_private.h:798
+#, kde-format
+msgid "100 mA"
+msgstr ""
+
+#: kpci_private.h:799
+#, kde-format
+msgid "160 mA"
+msgstr ""
+
+#: kpci_private.h:800
+#, kde-format
+msgid "220 mA"
+msgstr ""
+
+#: kpci_private.h:801
+#, kde-format
+msgid "270 mA"
+msgstr ""
+
+#: kpci_private.h:802
+#, kde-format
+msgid "320 mA"
+msgstr ""
+
+#: kpci_private.h:803
+#, kde-format
+msgid "375 mA"
+msgstr ""
+
+#: kpci_private.h:818
+#, kde-format
+msgid "1 vector"
+msgstr ""
+
+#: kpci_private.h:819
+#, kde-format
+msgid "2 vectors"
+msgstr ""
+
+#: kpci_private.h:820
+#, kde-format
+msgid "4 vectors"
+msgstr ""
+
+#: kpci_private.h:821
+#, kde-format
+msgid "8 vectors"
+msgstr ""
+
+#: kpci_private.h:822
+#, kde-format
+msgid "16 vectors"
+msgstr ""
+
+#: kpci_private.h:823
 #, kde-format
 msgid "32 vectors"
 msgstr ""

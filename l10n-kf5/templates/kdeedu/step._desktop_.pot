@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2019-08-03 01:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -11,17 +11,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: step/org.kde.step.desktop:8
+#: step/org.kde.step.desktop:9
 msgctxt "Name"
 msgid "Step"
 msgstr ""
 
-#: step/org.kde.step.desktop:59
+#: step/org.kde.step.desktop:60
 msgctxt "GenericName"
 msgid "Interactive Physical Simulator"
 msgstr ""
 
-#: step/org.kde.step.desktop:104
+#: step/org.kde.step.desktop:105
 msgctxt "Comment"
 msgid "Simulate physics experiments"
 msgstr ""

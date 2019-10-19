@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-07-28 03:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,55 +17,217 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: contents/ui/config.qml:76
+#: contents/ui/config.qml:77
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Provider:"
 msgstr ""
 
-#: contents/ui/config.qml:92
+#: contents/ui/config.qml:94
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Category:"
+msgstr ""
+
+#: contents/ui/config.qml:97
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "All"
+msgstr ""
+
+#: contents/ui/config.qml:101
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "1080p"
+msgstr ""
+
+#: contents/ui/config.qml:105
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "4K"
+msgstr ""
+
+#: contents/ui/config.qml:109
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Ultra Wide"
+msgstr ""
+
+#: contents/ui/config.qml:113
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Background"
+msgstr ""
+
+#: contents/ui/config.qml:117
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Lock Screen"
+msgstr ""
+
+#: contents/ui/config.qml:121
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Nature"
+msgstr ""
+
+#: contents/ui/config.qml:125
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Tumblr"
+msgstr ""
+
+#: contents/ui/config.qml:129
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Black"
+msgstr ""
+
+#: contents/ui/config.qml:133
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Flower"
+msgstr ""
+
+#: contents/ui/config.qml:137
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Funny"
+msgstr ""
+
+#: contents/ui/config.qml:141
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Cute"
+msgstr ""
+
+#: contents/ui/config.qml:145
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Cool"
+msgstr ""
+
+#: contents/ui/config.qml:149
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Fall"
+msgstr ""
+
+#: contents/ui/config.qml:153
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Love"
+msgstr ""
+
+#: contents/ui/config.qml:157
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Design"
+msgstr ""
+
+#: contents/ui/config.qml:161
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Christmas"
+msgstr ""
+
+#: contents/ui/config.qml:165
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Travel"
+msgstr ""
+
+#: contents/ui/config.qml:169
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Beach"
+msgstr ""
+
+#: contents/ui/config.qml:173
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Car"
+msgstr ""
+
+#: contents/ui/config.qml:177
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Sports"
+msgstr ""
+
+#: contents/ui/config.qml:181
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Animal"
+msgstr ""
+
+#: contents/ui/config.qml:185
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "People"
+msgstr ""
+
+#: contents/ui/config.qml:189
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Music"
+msgstr ""
+
+#: contents/ui/config.qml:193
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Summer"
+msgstr ""
+
+#: contents/ui/config.qml:197
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Galaxy"
+msgstr ""
+
+#: contents/ui/config.qml:222
 #, kde-format
 msgctxt "@label:listbox"
 msgid "Positioning:"
 msgstr ""
 
-#: contents/ui/config.qml:95
+#: contents/ui/config.qml:225
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Scaled and Cropped"
 msgstr ""
 
-#: contents/ui/config.qml:99
+#: contents/ui/config.qml:229
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Scaled"
 msgstr ""
 
-#: contents/ui/config.qml:103
+#: contents/ui/config.qml:233
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Scaled, Keep Proportions"
 msgstr ""
 
-#: contents/ui/config.qml:107
+#: contents/ui/config.qml:237
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Centered"
 msgstr ""
 
-#: contents/ui/config.qml:111
+#: contents/ui/config.qml:241
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Tiled"
 msgstr ""
 
-#: contents/ui/config.qml:132
+#: contents/ui/config.qml:262
 #, kde-format
 msgctxt "@label:chooser"
 msgid "Background color:"
 msgstr ""
 
-#: contents/ui/config.qml:133
+#: contents/ui/config.qml:263
 #, kde-format
 msgctxt "@title:window"
 msgid "Select Background Color"

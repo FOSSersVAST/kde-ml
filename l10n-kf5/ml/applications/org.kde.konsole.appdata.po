@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.konsole.appdata\n"
-"POT-Creation-Date: 2018-11-08 03:43+0100\n"
+"POT-Creation-Date: 2019-05-25 02:39+0200\n"
 "PO-Revision-Date: 2018-11-08 03:43+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -25,8 +25,8 @@ msgstr ""
 #. (itstool) path: description/p
 #: org.kde.konsole.appdata.xml:9
 msgid ""
-"Konsole is an X terminal emulator, often referred to as a terminal or a "
-"shell. It emulates a command line interface in a text only window."
+"Konsole is a terminal to run a command shell. It provides a command line "
+"interface for directly controlling your computer."
 msgstr ""
 
 #. (itstool) path: description/p

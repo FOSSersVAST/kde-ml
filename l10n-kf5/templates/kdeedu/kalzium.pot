@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalzium\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:01+0200\n"
+"POT-Creation-Date: 2019-10-14 02:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -62,7 +62,7 @@ msgstr ""
 msgid "(c) 2006, Carsten Niehaus"
 msgstr ""
 
-#: compoundviewer/kalziumglpart.cpp:30 src/main.cpp:59
+#: compoundviewer/kalziumglpart.cpp:30 src/main.cpp:56
 #, kde-format
 msgid "Carsten Niehaus"
 msgstr ""
@@ -243,7 +243,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, finalAmtType)
 #: data/knowledge.xml:66 data/knowledge.xml:131 src/calculator/nuclearCalculator.ui:334
 #: src/calculator/nuclearCalculator.ui:354
-#: src/detailinfodlg.cpp:353 src/exportdialog.cpp:151 src/settings_gradients.ui:74
+#: src/detailinfodlg.cpp:320 src/exportdialog.cpp:151 src/settings_gradients.ui:74
 #, kde-format
 msgid "Mass"
 msgstr ""
@@ -403,9 +403,9 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
-#: data/knowledge.xml:127 src/elementdataviewer.cpp:244
-#: src/kalziumgradienttype.cpp:291 src/plotsetupwidget.ui:59
-#: src/plotsetupwidget.ui:380
+#: data/knowledge.xml:127 src/elementdataviewer.cpp:256
+#: src/kalziumgradienttype.cpp:291 src/plotsetupwidget.ui:81
+#: src/plotsetupwidget.ui:402
 #, kde-format
 msgid "Atomic Mass"
 msgstr ""
@@ -449,7 +449,7 @@ msgid ""
 "internal masses, but is intrinsic to the particle itself."
 msgstr ""
 
-#: data/knowledge.xml:149 src/detailinfodlg.cpp:365
+#: data/knowledge.xml:149 src/detailinfodlg.cpp:332
 #, kde-format
 msgid "Magnetic Moment"
 msgstr ""
@@ -617,9 +617,9 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
 #: data/knowledge.xml:247 data/knowledge.xml:256 data/knowledge.xml:265
-#: data/knowledge.xml:271 src/detailinfodlg.cpp:257 src/elementdataviewer.cpp:277
+#: data/knowledge.xml:271 src/detailinfodlg.cpp:227 src/elementdataviewer.cpp:289
 #: src/exportdialog.cpp:156 src/kalziumgradienttype.cpp:176
-#: src/plotsetupwidget.ui:84 src/plotsetupwidget.ui:405
+#: src/plotsetupwidget.ui:106 src/plotsetupwidget.ui:427
 #: src/settings_gradients.ui:60
 #, kde-format
 msgid "Covalent Radius"
@@ -628,8 +628,8 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
 #: data/knowledge.xml:248 data/knowledge.xml:257 data/knowledge.xml:262
-#: data/knowledge.xml:274 src/elementdataviewer.cpp:270
-#: src/plotsetupwidget.ui:79 src/plotsetupwidget.ui:400
+#: data/knowledge.xml:274 src/elementdataviewer.cpp:282
+#: src/plotsetupwidget.ui:101 src/plotsetupwidget.ui:422
 #, kde-format
 msgid "Atomic Radius"
 msgstr ""
@@ -4176,39 +4176,34 @@ msgctxt "For example '1.0079u', the mass of an element in units"
 msgid "%1 u"
 msgstr ""
 
-#: src/detailinfodlg.cpp:60
+#: src/detailinfodlg.cpp:57
 #, kde-format
 msgctxt "Next element"
 msgid "Next"
 msgstr ""
 
-#: src/detailinfodlg.cpp:61
+#: src/detailinfodlg.cpp:58
 #, kde-format
 msgid "Goes to the next element"
 msgstr ""
 
-#: src/detailinfodlg.cpp:64
+#: src/detailinfodlg.cpp:61
 #, kde-format
 msgctxt "Previous element"
 msgid "Previous"
 msgstr ""
 
-#: src/detailinfodlg.cpp:65
+#: src/detailinfodlg.cpp:62
 #, kde-format
 msgid "Goes to the previous element"
 msgstr ""
 
-#: src/detailinfodlg.cpp:182
-#, kde-format
-msgid "Block: %1"
-msgstr ""
-
-#: src/detailinfodlg.cpp:195
+#: src/detailinfodlg.cpp:165
 #, kde-format
 msgid "It was discovered by %1."
 msgstr ""
 
-#: src/detailinfodlg.cpp:202
+#: src/detailinfodlg.cpp:172
 #, kde-format
 msgid "Origin of the name:<br/>%1"
 msgstr ""
@@ -4216,9 +4211,9 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicMeltingPointGradient)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
-#: src/detailinfodlg.cpp:229 src/elementdataviewer.cpp:256
+#: src/detailinfodlg.cpp:199 src/elementdataviewer.cpp:268
 #: src/exportdialog.cpp:158 src/kalziumgradienttype.cpp:400
-#: src/plotsetupwidget.ui:69 src/plotsetupwidget.ui:390
+#: src/plotsetupwidget.ui:91 src/plotsetupwidget.ui:412
 #: src/settings_gradients.ui:88
 #, kde-format
 msgid "Melting Point"
@@ -4227,41 +4222,41 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicBoilingPointGradient)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
-#: src/detailinfodlg.cpp:236 src/elementdataviewer.cpp:263
+#: src/detailinfodlg.cpp:206 src/elementdataviewer.cpp:275
 #: src/exportdialog.cpp:159 src/kalziumgradienttype.cpp:344
-#: src/plotsetupwidget.ui:74 src/plotsetupwidget.ui:395
+#: src/plotsetupwidget.ui:96 src/plotsetupwidget.ui:417
 #: src/settings_gradients.ui:81
 #, kde-format
 msgid "Boiling Point"
 msgstr ""
 
-#: src/detailinfodlg.cpp:243 src/exportdialog.cpp:154
+#: src/detailinfodlg.cpp:213 src/exportdialog.cpp:154
 #, kde-format
 msgid "Electron Affinity"
 msgstr ""
 
-#: src/detailinfodlg.cpp:250
+#: src/detailinfodlg.cpp:220
 #, kde-format
 msgid "Electronic configuration"
 msgstr ""
 
-#: src/detailinfodlg.cpp:264
+#: src/detailinfodlg.cpp:234
 #, kde-format
 msgid "van der Waals Radius"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QTableWidget, table)
-#: src/detailinfodlg.cpp:271 src/molcalcwidgetbase.ui:218
+#: src/detailinfodlg.cpp:241 src/molcalcwidgetbase.ui:218
 #, kde-format
 msgid "Atomic mass"
 msgstr ""
 
-#: src/detailinfodlg.cpp:278
+#: src/detailinfodlg.cpp:248
 #, kde-format
 msgid "Ionization energy"
 msgstr ""
 
-#: src/detailinfodlg.cpp:278
+#: src/detailinfodlg.cpp:248
 #, kde-format
 msgid "First Ionization energy"
 msgstr ""
@@ -4269,67 +4264,62 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicElectronegativityGradient)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
-#: src/detailinfodlg.cpp:285 src/elementdataviewer.cpp:250
-#: src/exportdialog.cpp:155 src/plotsetupwidget.ui:64 src/plotsetupwidget.ui:385
+#: src/detailinfodlg.cpp:255 src/elementdataviewer.cpp:262
+#: src/exportdialog.cpp:155 src/plotsetupwidget.ui:86 src/plotsetupwidget.ui:407
 #: src/settings_gradients.ui:95
 #, kde-format
 msgid "Electronegativity"
 msgstr ""
 
-#: src/detailinfodlg.cpp:292
+#: src/detailinfodlg.cpp:262
 #, kde-format
 msgid "Oxidation states"
 msgstr ""
 
-#: src/detailinfodlg.cpp:303
+#: src/detailinfodlg.cpp:273
 #, kde-format
 msgctxt "Link to element's Wikipedia page, %1 is localized language name"
 msgid "Wikipedia (%1)"
 msgstr ""
 
-#: src/detailinfodlg.cpp:351
-#, kde-format
-msgid "Isotope-Table"
-msgstr ""
-
-#: src/detailinfodlg.cpp:355
+#: src/detailinfodlg.cpp:322
 #, kde-format
 msgid "Neutrons"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QTableWidget, table)
-#: src/detailinfodlg.cpp:357 src/molcalcwidgetbase.ui:228
+#: src/detailinfodlg.cpp:324 src/molcalcwidgetbase.ui:228
 #, kde-format
 msgid "Percentage"
 msgstr ""
 
-#: src/detailinfodlg.cpp:359
+#: src/detailinfodlg.cpp:326
 #, kde-format
 msgid "Half-life period"
 msgstr ""
 
-#: src/detailinfodlg.cpp:361
+#: src/detailinfodlg.cpp:328
 #, kde-format
 msgid "Energy and Mode of Decay"
 msgstr ""
 
-#: src/detailinfodlg.cpp:363
+#: src/detailinfodlg.cpp:330
 #, kde-format
 msgid "Spin and Parity"
 msgstr ""
 
-#: src/detailinfodlg.cpp:371
+#: src/detailinfodlg.cpp:338
 #, kde-format
 msgid "%1 u"
 msgstr ""
 
-#: src/detailinfodlg.cpp:377
+#: src/detailinfodlg.cpp:344
 #, kde-format
 msgctxt "this can for example be '24%'"
 msgid "%1%"
 msgstr ""
 
-#: src/detailinfodlg.cpp:381
+#: src/detailinfodlg.cpp:348
 #, kde-format
 msgctxt ""
 "The first argument is the value, the second is the unit. For example '17 s' "
@@ -4337,46 +4327,241 @@ msgctxt ""
 msgid "%1 %2"
 msgstr ""
 
-#: src/detailinfodlg.cpp:386 src/detailinfodlg.cpp:398
-#: src/detailinfodlg.cpp:411 src/detailinfodlg.cpp:416
-#: src/detailinfodlg.cpp:427
+#: src/detailinfodlg.cpp:354 src/detailinfodlg.cpp:398
+#: src/detailinfodlg.cpp:442 src/detailinfodlg.cpp:485
+#: src/detailinfodlg.cpp:527 src/detailinfodlg.cpp:568
+#: src/detailinfodlg.cpp:608 src/detailinfodlg.cpp:647
+#: src/detailinfodlg.cpp:685 src/detailinfodlg.cpp:722
+#: src/detailinfodlg.cpp:758 src/detailinfodlg.cpp:793
+#: src/detailinfodlg.cpp:827 src/detailinfodlg.cpp:860
+#: src/detailinfodlg.cpp:892 src/detailinfodlg.cpp:923
+#: src/detailinfodlg.cpp:953 src/detailinfodlg.cpp:982
+#: src/detailinfodlg.cpp:1010 src/detailinfodlg.cpp:1037
+#: src/detailinfodlg.cpp:1063 src/detailinfodlg.cpp:1088
+#: src/detailinfodlg.cpp:1112 src/detailinfodlg.cpp:1135
+#: src/detailinfodlg.cpp:1157 src/detailinfodlg.cpp:1178
+#: src/detailinfodlg.cpp:1198 src/detailinfodlg.cpp:1217
+#: src/detailinfodlg.cpp:1235 src/detailinfodlg.cpp:1252
+#: src/detailinfodlg.cpp:1268 src/detailinfodlg.cpp:1283
+#: src/detailinfodlg.cpp:1297
 #, kde-format
 msgid "%1 MeV"
 msgstr ""
 
-#: src/detailinfodlg.cpp:388
+#: src/detailinfodlg.cpp:356
 #, kde-format
-msgid " %1"
+msgctxt "Spontaneous fission"
+msgid " SF"
 msgstr ""
 
-#: src/detailinfodlg.cpp:390 src/detailinfodlg.cpp:402
-#: src/detailinfodlg.cpp:421 src/detailinfodlg.cpp:431
+#: src/detailinfodlg.cpp:358 src/detailinfodlg.cpp:402
+#: src/detailinfodlg.cpp:446 src/detailinfodlg.cpp:489
+#: src/detailinfodlg.cpp:531 src/detailinfodlg.cpp:572
+#: src/detailinfodlg.cpp:612 src/detailinfodlg.cpp:651
+#: src/detailinfodlg.cpp:689 src/detailinfodlg.cpp:726
+#: src/detailinfodlg.cpp:762 src/detailinfodlg.cpp:797
+#: src/detailinfodlg.cpp:831 src/detailinfodlg.cpp:864
+#: src/detailinfodlg.cpp:896 src/detailinfodlg.cpp:927
+#: src/detailinfodlg.cpp:957 src/detailinfodlg.cpp:986
+#: src/detailinfodlg.cpp:1014 src/detailinfodlg.cpp:1041
+#: src/detailinfodlg.cpp:1067 src/detailinfodlg.cpp:1092
+#: src/detailinfodlg.cpp:1116 src/detailinfodlg.cpp:1139
+#: src/detailinfodlg.cpp:1161 src/detailinfodlg.cpp:1182
+#: src/detailinfodlg.cpp:1202 src/detailinfodlg.cpp:1221
+#: src/detailinfodlg.cpp:1239 src/detailinfodlg.cpp:1256
+#: src/detailinfodlg.cpp:1272 src/detailinfodlg.cpp:1287
+#: src/detailinfodlg.cpp:1301
 #, kde-format
 msgid "(%1%)"
 msgstr ""
 
-#: src/detailinfodlg.cpp:393 src/detailinfodlg.cpp:406
+#: src/detailinfodlg.cpp:393 src/detailinfodlg.cpp:437
+#: src/detailinfodlg.cpp:480 src/detailinfodlg.cpp:522
+#: src/detailinfodlg.cpp:563 src/detailinfodlg.cpp:603
+#: src/detailinfodlg.cpp:642 src/detailinfodlg.cpp:680
+#: src/detailinfodlg.cpp:717 src/detailinfodlg.cpp:753
+#: src/detailinfodlg.cpp:788 src/detailinfodlg.cpp:822
+#: src/detailinfodlg.cpp:855 src/detailinfodlg.cpp:887
+#: src/detailinfodlg.cpp:918 src/detailinfodlg.cpp:948
+#: src/detailinfodlg.cpp:977 src/detailinfodlg.cpp:1005
+#: src/detailinfodlg.cpp:1032 src/detailinfodlg.cpp:1058
+#: src/detailinfodlg.cpp:1083 src/detailinfodlg.cpp:1107
+#: src/detailinfodlg.cpp:1130 src/detailinfodlg.cpp:1152
+#: src/detailinfodlg.cpp:1173 src/detailinfodlg.cpp:1193
+#: src/detailinfodlg.cpp:1212 src/detailinfodlg.cpp:1230
+#: src/detailinfodlg.cpp:1247 src/detailinfodlg.cpp:1263
+#: src/detailinfodlg.cpp:1278 src/detailinfodlg.cpp:1292
 #, kde-format
 msgid ", "
 msgstr ""
 
 #: src/detailinfodlg.cpp:400
 #, kde-format
-msgid " %1<sup>-</sup>"
+msgctxt "Alpha decay"
+msgid " %1"
 msgstr ""
 
-#: src/detailinfodlg.cpp:413
+#: src/detailinfodlg.cpp:444
 #, kde-format
-msgid " %1<sup>+</sup>"
+msgctxt "Proton decay"
+msgid " p"
 msgstr ""
 
-#: src/detailinfodlg.cpp:418 src/detailinfodlg.cpp:429
+#: src/detailinfodlg.cpp:487
 #, kde-format
-msgctxt "Acronym of Electron Capture"
+msgid " 2p"
+msgstr ""
+
+#: src/detailinfodlg.cpp:529
+#, kde-format
+msgctxt "Neutron decay"
+msgid " n"
+msgstr ""
+
+#: src/detailinfodlg.cpp:570
+#, kde-format
+msgid " 2n"
+msgstr ""
+
+#: src/detailinfodlg.cpp:610
+#, kde-format
+msgctxt "Electron capture"
 msgid " EC"
 msgstr ""
 
-#: src/detailinfodlg.cpp:438
+#: src/detailinfodlg.cpp:649
+#, kde-format
+msgid " 2EC"
+msgstr ""
+
+#: src/detailinfodlg.cpp:687
+#, kde-format
+msgctxt "Electron emmision"
+msgid " %1<sup>-</sup>"
+msgstr ""
+
+#: src/detailinfodlg.cpp:724
+#, kde-format
+msgid " %1<sup>-</sup>, fission"
+msgstr ""
+
+#: src/detailinfodlg.cpp:760
+#, kde-format
+msgid " 2%1<sup>-</sup>"
+msgstr ""
+
+#: src/detailinfodlg.cpp:795
+#, kde-format
+msgctxt "Positron emission"
+msgid " %1<sup>+</sup>"
+msgstr ""
+
+#: src/detailinfodlg.cpp:829
+#, kde-format
+msgid " 2%1<sup>+</sup>"
+msgstr ""
+
+#: src/detailinfodlg.cpp:862
+#, kde-format
+msgid " %1 <sup>-</sup>n"
+msgstr ""
+
+#: src/detailinfodlg.cpp:894
+#, kde-format
+msgid " %1<sup>-</sup>2n"
+msgstr ""
+
+#: src/detailinfodlg.cpp:925
+#, kde-format
+msgid " %1<sup>-</sup>3n"
+msgstr ""
+
+#: src/detailinfodlg.cpp:955
+#, kde-format
+msgid " %1<sup>-</sup>4n"
+msgstr ""
+
+#: src/detailinfodlg.cpp:984
+#, kde-format
+msgid " %1<sup>-</sup>%2 n"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1012
+#, kde-format
+msgid " %1<sup>-</sup>%2"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1039
+#, kde-format
+msgid " %1<sup>-</sup>2%2"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1065
+#, kde-format
+msgid " %1<sup>-</sup>3%2"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1090
+#, kde-format
+msgid " %1<sup>+</sup>p"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1114
+#, kde-format
+msgid " %1<sup>+</sup>2p"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1137
+#, kde-format
+msgid " %1<sup>+</sup>%2"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1159
+#, kde-format
+msgid " %1<sup>+</sup>2%2"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1180
+#, kde-format
+msgid " %1<sup>+</sup>3%2"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1200
+#, kde-format
+msgid " %1 %2<sup>-</sup>"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1219
+#, kde-format
+msgid " p%1"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1237
+#, kde-format
+msgid " ECp"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1254
+#, kde-format
+msgid " EC2p"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1270
+#, kde-format
+msgid " EC3p"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1285
+#, kde-format
+msgid " EC%1"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1299
+#, kde-format
+msgid " EC%1 p"
+msgstr ""
+
+#: src/detailinfodlg.cpp:1459
 #, kde-format
 msgid "%1 %2<sub>n</sub>"
 msgstr ""
@@ -4385,7 +4570,7 @@ msgstr ""
 #. item->setHeader(i18n("Overview"));
 #. item->setIcon(QIcon("overview"));
 #. QVBoxLayout *overviewLayout = new QVBoxLayout(m_pOverviewTab);
-#. overviewLayout->setContentsMargins(0, 0, 0, 0);
+#. overviewLayout->setMargin(0);
 #. dTab = new DetailedGraphicalOverview(m_pOverviewTab);
 #. dTab->setObjectName("DetailedGraphicalOverview");
 #. overviewLayout->addWidget(dTab);
@@ -4395,53 +4580,53 @@ msgstr ""
 #. X      item->setHeader(i18n("What does this element look like?"));
 #. X      item->setIcon(QIcon("elempic"));
 #. X      QVBoxLayout *mainLayout = new QVBoxLayout(m_pPictureTab);
-#. X      mainLayout->setContentsMargins(0, 0, 0, 0);
+#. X      mainLayout->setMargin(0);
 #. X      piclabel = new QLabel(m_pPictureTab);
 #. X      piclabel->setMinimumSize(400, 350);
 #. X      mainLayout->addWidget(piclabel);
 #. html tab
-#: src/detailinfodlg.cpp:477
+#: src/detailinfodlg.cpp:1498
 #, kde-format
 msgid "Data Overview"
 msgstr ""
 
-#: src/detailinfodlg.cpp:481 src/detailinfodlg.cpp:482
+#: src/detailinfodlg.cpp:1502 src/detailinfodlg.cpp:1503
 #, kde-format
 msgid "Atom Model"
 msgstr ""
 
-#: src/detailinfodlg.cpp:490
+#: src/detailinfodlg.cpp:1511
 #, kde-format
 msgid "Isotopes"
 msgstr ""
 
-#: src/detailinfodlg.cpp:491
+#: src/detailinfodlg.cpp:1512
 #, kde-format
 msgid "Miscellaneous"
 msgstr ""
 
-#: src/detailinfodlg.cpp:496 src/detailinfodlg.cpp:497
+#: src/detailinfodlg.cpp:1516 src/detailinfodlg.cpp:1517
 #, kde-format
 msgid "Spectrum"
 msgstr ""
 
-#: src/detailinfodlg.cpp:510
+#: src/detailinfodlg.cpp:1530
 #, kde-format
 msgid "Extra information"
 msgstr ""
 
-#: src/detailinfodlg.cpp:510
+#: src/detailinfodlg.cpp:1530
 #, kde-format
 msgid "Extra Information"
 msgstr ""
 
-#: src/detailinfodlg.cpp:520
+#: src/detailinfodlg.cpp:1541
 #, kde-format
-msgctxt "For example Carbon (6)"
-msgid "%1 (%2)"
+msgctxt "For example: [C] Carbon (6 - Block p)"
+msgid "[%1] %2 (%3 - Block %4)"
 msgstr ""
 
-#: src/detailinfodlg.cpp:558
+#: src/detailinfodlg.cpp:1577
 #, kde-format
 msgid "No spectrum of %1 found."
 msgstr ""
@@ -4453,8 +4638,8 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
-#: src/elementdataviewer.cpp:238 src/exportdialog.cpp:148
-#: src/plotsetupwidget.ui:54 src/plotsetupwidget.ui:375
+#: src/elementdataviewer.cpp:250 src/exportdialog.cpp:148
+#: src/plotsetupwidget.ui:76 src/plotsetupwidget.ui:397
 #, kde-format
 msgid "Atomic Number"
 msgstr ""
@@ -4662,7 +4847,7 @@ msgid ""
 "<p>Scroll using left-clicking and dragging / scroll feature.</p>"
 msgstr ""
 
-#: src/isotopetable/isotopeitem.cpp:75
+#: src/isotopetable/isotopeitem.cpp:78
 #, kde-format
 msgid "Isotope of Element %1 (%2)"
 msgstr ""
@@ -4710,8 +4895,8 @@ msgstr ""
 
 #: src/isotopetable/isotopetabledialog.cpp:68
 #, kde-format
-msgctxt "Default colour"
-msgid "default"
+msgctxt "Unknown Decay"
+msgid "unknown"
 msgstr ""
 
 #: src/isotopetable/isotopetabledialog.cpp:87
@@ -4766,74 +4951,74 @@ msgstr ""
 msgid "Exact mass: %1 u"
 msgstr ""
 
-#: src/kalzium.cpp:130
+#: src/kalzium.cpp:129
 #, kde-format
 msgid "&Export Data..."
 msgstr ""
 
-#: src/kalzium.cpp:139
+#: src/kalzium.cpp:138
 #, kde-format
 msgid "&Scheme"
 msgstr ""
 
-#: src/kalzium.cpp:147
+#: src/kalzium.cpp:146
 #, kde-format
 msgid "&Gradients"
 msgstr ""
 
-#: src/kalzium.cpp:156
+#: src/kalzium.cpp:155
 #, kde-format
 msgid "&Tables"
 msgstr ""
 
-#: src/kalzium.cpp:163
+#: src/kalzium.cpp:162
 #, kde-format
 msgid "&Numeration"
 msgstr ""
 
-#: src/kalzium.cpp:170
+#: src/kalzium.cpp:169
 #, kde-format
 msgid "&Plot Data..."
 msgstr ""
 
-#: src/kalzium.cpp:176
+#: src/kalzium.cpp:175
 #, kde-format
 msgid "Perform &Calculations..."
 msgstr ""
 
-#: src/kalzium.cpp:178
+#: src/kalzium.cpp:177
 #, kde-format
 msgctxt "WhatsThis Help"
 msgid "This is the calculator, it performs basic chemical calculations."
 msgstr ""
 
-#: src/kalzium.cpp:182
+#: src/kalzium.cpp:181
 #, kde-format
 msgid "&Isotope Table..."
 msgstr ""
 
-#: src/kalzium.cpp:184
+#: src/kalzium.cpp:183
 #, kde-format
 msgctxt "WhatsThis Help"
 msgid "This table shows all of the known isotopes of the chemical elements."
 msgstr ""
 
-#: src/kalzium.cpp:188
+#: src/kalzium.cpp:187
 #, kde-format
 msgid "&Glossary..."
 msgstr ""
 
-#: src/kalzium.cpp:193
+#: src/kalzium.cpp:192
 #, kde-format
 msgid "&R/S Phrases..."
 msgstr ""
 
-#: src/kalzium.cpp:198
+#: src/kalzium.cpp:197
 #, kde-format
 msgid "Convert chemical files..."
 msgstr ""
 
-#: src/kalzium.cpp:200
+#: src/kalzium.cpp:199
 #, kde-format
 msgctxt "WhatsThis Help"
 msgid ""
@@ -4841,23 +5026,23 @@ msgid ""
 "various file formats."
 msgstr ""
 
-#: src/kalzium.cpp:207
+#: src/kalzium.cpp:206
 #, kde-format
 msgid "Molecular Editor..."
 msgstr ""
 
-#: src/kalzium.cpp:209
+#: src/kalzium.cpp:208
 #, kde-format
 msgctxt "WhatsThis Help"
 msgid "This tool allows you to view and edit 3D molecular structures."
 msgstr ""
 
-#: src/kalzium.cpp:216
+#: src/kalzium.cpp:215
 #, kde-format
 msgid "&Tables..."
 msgstr ""
 
-#: src/kalzium.cpp:218
+#: src/kalzium.cpp:217
 #, kde-format
 msgctxt "WhatsThis Help"
 msgid ""
@@ -4865,13 +5050,13 @@ msgid ""
 "chemistry."
 msgstr ""
 
-#: src/kalzium.cpp:226
+#: src/kalzium.cpp:225
 #, kde-format
 msgctxt "WhatsThis Help"
 msgid "This will show or hide the legend for the periodic table."
 msgstr ""
 
-#: src/kalzium.cpp:231
+#: src/kalzium.cpp:230
 #, kde-format
 msgctxt "WhatsThis Help"
 msgid ""
@@ -4879,90 +5064,90 @@ msgid ""
 "tools."
 msgstr ""
 
-#: src/kalzium.cpp:236
+#: src/kalzium.cpp:235
 #, kde-format
 msgctxt "WhatsThis Help"
 msgid ""
 "This will show or hide a sidebar with additional information about the table."
 msgstr ""
 
-#: src/kalzium.cpp:267
+#: src/kalzium.cpp:266
 #, kde-format
 msgid "Legend"
 msgstr ""
 
-#: src/kalzium.cpp:280
+#: src/kalzium.cpp:279
 #, kde-format
 msgid "Table Information"
 msgstr ""
 
-#: src/kalzium.cpp:286
+#: src/kalzium.cpp:285
 #, kde-format
 msgid "Information"
 msgstr ""
 
-#: src/kalzium.cpp:298
+#: src/kalzium.cpp:297
 #, kde-format
 msgid "Overview"
 msgstr ""
 
-#: src/kalzium.cpp:310
+#: src/kalzium.cpp:309
 #, kde-format
 msgid "View"
 msgstr ""
 
-#: src/kalzium.cpp:321
+#: src/kalzium.cpp:320
 #, kde-format
 msgid "Save Kalzium's Table In"
 msgstr ""
 
-#: src/kalzium.cpp:321
+#: src/kalzium.cpp:320
 #, kde-format
 msgid "Image files (*.png *.xpm *.jpg *.svg)"
 msgstr ""
 
-#: src/kalzium.cpp:342
+#: src/kalzium.cpp:341
 #, kde-format
 msgid "Knowledge"
 msgstr ""
 
-#: src/kalzium.cpp:347
+#: src/kalzium.cpp:346
 #, kde-format
 msgid "Tools"
 msgstr ""
 
-#: src/kalzium.cpp:377
+#: src/kalzium.cpp:376
 #, kde-format
 msgid "Kalzium Error"
 msgstr ""
 
-#: src/kalzium.cpp:377
+#: src/kalzium.cpp:376
 #, kde-format
 msgid "This system does not support OpenGL."
 msgstr ""
 
-#: src/kalzium.cpp:503
+#: src/kalzium.cpp:502
 #, kde-format
 msgid "Schemes"
 msgstr ""
 
-#: src/kalzium.cpp:510
+#: src/kalzium.cpp:509
 #, kde-format
 msgid "Gradients"
 msgstr ""
 
-#: src/kalzium.cpp:515
+#: src/kalzium.cpp:514
 #, kde-format
 msgid "Units"
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, calcTab)
-#: src/kalzium.cpp:520 src/molcalcwidgetbase.ui:24
+#: src/kalzium.cpp:519 src/molcalcwidgetbase.ui:24
 #, kde-format
 msgid "Calculator"
 msgstr ""
 
-#: src/kalzium.cpp:566
+#: src/kalzium.cpp:565
 #, kde-format
 msgctxt "For example: \"Carbon (6), Mass: 12.0107 u\""
 msgid "%1 (%2), Mass: %3 u"
@@ -5845,17 +6030,17 @@ msgstr ""
 msgid "No Data"
 msgstr ""
 
-#: src/kdeeduglossary.cpp:146 src/kdeeduglossary.cpp:322
+#: src/kdeeduglossary.cpp:142 src/kdeeduglossary.cpp:318
 #, kde-format
 msgid "Glossary"
 msgstr ""
 
-#: src/kdeeduglossary.cpp:504
+#: src/kdeeduglossary.cpp:494
 #, kde-format
 msgid "References"
 msgstr ""
 
-#: src/kdeeduglossary.cpp:508
+#: src/kdeeduglossary.cpp:498
 #, kde-format
 msgid "Go to '%1'"
 msgstr ""
@@ -5922,242 +6107,242 @@ msgstr ""
 msgid "Scheme: %1"
 msgstr ""
 
-#: src/main.cpp:51 src/tools/moleculeview.cpp:127
+#: src/main.cpp:48 src/tools/moleculeview.cpp:127
 #, kde-format
 msgid "Kalzium"
 msgstr ""
 
-#: src/main.cpp:53
+#: src/main.cpp:50
 #, kde-format
 msgid "A periodic table of the elements"
 msgstr ""
 
-#: src/main.cpp:55
+#: src/main.cpp:52
 #, kde-format
 msgid "(C) 2002-2016 Carsten Niehaus & the KDE Edu Developers"
 msgstr ""
 
-#: src/main.cpp:64
+#: src/main.cpp:61
 #, kde-format
 msgid "Pino Toscano"
 msgstr ""
 
-#: src/main.cpp:65
+#: src/main.cpp:62
 #, kde-format
 msgid "Large code contributions; resident guru helping the other developers"
 msgstr ""
 
-#: src/main.cpp:67
+#: src/main.cpp:64
 #, kde-format
 msgid "Benoit Jacob"
 msgstr ""
 
-#: src/main.cpp:68
+#: src/main.cpp:65
 #, kde-format
 msgid "Base work on the molecular viewer, mentored Marcus during his SoC"
 msgstr ""
 
-#: src/main.cpp:70
+#: src/main.cpp:67
 #, kde-format
 msgid "Marcus Hanwell"
 msgstr ""
 
-#: src/main.cpp:71
+#: src/main.cpp:68
 #, kde-format
 msgid "SoC on the molecular viewer and libavogadro porting/integration"
 msgstr ""
 
-#: src/main.cpp:73
+#: src/main.cpp:70
 #, kde-format
 msgid "Kashyap R Puranik"
 msgstr ""
 
-#: src/main.cpp:74
+#: src/main.cpp:71
 #, kde-format
 msgid "SoC on the calculator widget and a few smaller improvements"
 msgstr ""
 
-#: src/main.cpp:76
+#: src/main.cpp:73
 #, kde-format
 msgid "Thomas Nagy"
 msgstr ""
 
-#: src/main.cpp:77
+#: src/main.cpp:74
 #, kde-format
 msgid "EqChem, the equation solver"
 msgstr ""
 
-#: src/main.cpp:79
+#: src/main.cpp:76
 #, kde-format
 msgid "Inge Wallin"
 msgstr ""
 
-#: src/main.cpp:80
+#: src/main.cpp:77
 #, kde-format
 msgid ""
 "Code cleaning, parser for the molecule weight calculator, and a lot of "
 "smaller improvements"
 msgstr ""
 
-#: src/main.cpp:82
+#: src/main.cpp:79
 #, kde-format
 msgid "Anne-Marie Mahfouf"
 msgstr ""
 
-#: src/main.cpp:83
+#: src/main.cpp:80
 #, kde-format
 msgid "A lot of small things and the documentation"
 msgstr ""
 
-#: src/main.cpp:85
+#: src/main.cpp:82
 #, kde-format
 msgid "Johannes Simon"
 msgstr ""
 
-#: src/main.cpp:86
+#: src/main.cpp:83
 #, kde-format
 msgid ""
 "Code and documentation contributions to the equation solver and molecular "
 "viewer"
 msgstr ""
 
-#: src/main.cpp:88
+#: src/main.cpp:85
 #, kde-format
 msgid "Jarle Akselsen"
 msgstr ""
 
-#: src/main.cpp:89
+#: src/main.cpp:86
 #, kde-format
 msgid "Many beautiful element icons"
 msgstr ""
 
-#: src/main.cpp:91
+#: src/main.cpp:88
 #, kde-format
 msgid "Noémie Scherer"
 msgstr ""
 
-#: src/main.cpp:92
+#: src/main.cpp:89
 #, kde-format
 msgid "Many beautiful element icons, too!"
 msgstr ""
 
-#: src/main.cpp:94
+#: src/main.cpp:91
 #, kde-format
 msgid "Danny Allen"
 msgstr ""
 
-#: src/main.cpp:95
+#: src/main.cpp:92
 #, kde-format
 msgid "Several icons"
 msgstr ""
 
-#: src/main.cpp:97
+#: src/main.cpp:94
 #, kde-format
 msgid "Lee Olson"
 msgstr ""
 
-#: src/main.cpp:98
+#: src/main.cpp:95
 #, kde-format
 msgid "Several icons in the information dialog"
 msgstr ""
 
-#: src/main.cpp:100
+#: src/main.cpp:97
 #, kde-format
 msgid "Jörg Buchwald"
 msgstr ""
 
-#: src/main.cpp:101
+#: src/main.cpp:98
 #, kde-format
 msgid "Contributed most isotope information"
 msgstr ""
 
-#: src/main.cpp:103
+#: src/main.cpp:100
 #, kde-format
 msgid "Marco Martin"
 msgstr ""
 
-#: src/main.cpp:104
+#: src/main.cpp:101
 #, kde-format
 msgid "Some icons and inspiration for others"
 msgstr ""
 
-#: src/main.cpp:106
+#: src/main.cpp:103
 #, kde-format
 msgid "Daniel Haas"
 msgstr ""
 
-#: src/main.cpp:107
+#: src/main.cpp:104
 #, kde-format
 msgid "The design of the information dialog"
 msgstr ""
 
-#: src/main.cpp:109
+#: src/main.cpp:106
 #, kde-format
 msgid "Brian Beck"
 msgstr ""
 
-#: src/main.cpp:110
+#: src/main.cpp:107
 #, kde-format
 msgid "The orbits icon"
 msgstr ""
 
-#: src/main.cpp:112
+#: src/main.cpp:109
 #, kde-format
 msgid "Paulo Cattai"
 msgstr ""
 
-#: src/main.cpp:113 src/main.cpp:116 src/main.cpp:119 src/main.cpp:122
-#: src/main.cpp:125
+#: src/main.cpp:110 src/main.cpp:113 src/main.cpp:116 src/main.cpp:119
+#: src/main.cpp:122
 #, kde-format
 msgid "New interface design and usability improvements"
 msgstr ""
 
-#: src/main.cpp:115
+#: src/main.cpp:112
 #, kde-format
 msgid "Danilo Balzaque"
 msgstr ""
 
-#: src/main.cpp:118
+#: src/main.cpp:115
 #, kde-format
 msgid "Roberto Cunha"
 msgstr ""
 
-#: src/main.cpp:121
+#: src/main.cpp:118
 #, kde-format
 msgid "Tadeu Araujo"
 msgstr ""
 
-#: src/main.cpp:124
+#: src/main.cpp:121
 #, kde-format
 msgid "Tiago Porangaba"
 msgstr ""
 
-#: src/main.cpp:127
+#: src/main.cpp:124
 #, kde-format
 msgid "Etienne Rebetez"
 msgstr ""
 
-#: src/main.cpp:128
+#: src/main.cpp:125
 #, kde-format
 msgid "Adding new sizable Periodic System"
 msgstr ""
 
-#: src/main.cpp:141
+#: src/main.cpp:138
 #, kde-format
 msgid "[molecule]"
 msgstr ""
 
-#: src/main.cpp:141 src/main.cpp:143 src/main.cpp:151
+#: src/main.cpp:138 src/main.cpp:140 src/main.cpp:148
 #, kde-format
 msgid "Open the given molecule file"
 msgstr ""
 
-#: src/main.cpp:143
+#: src/main.cpp:140
 #, kde-format
 msgid "molecule"
 msgstr ""
 
-#: src/main.cpp:171
+#: src/main.cpp:168
 #, kde-format
 msgid "Can't open more than one molecule at a time"
 msgstr ""
@@ -6418,163 +6603,175 @@ msgstr ""
 msgid "Unknown Electron Distribution"
 msgstr ""
 
+#. i18n: ectx: property (accessibleName), widget (QPushButton, swapXYAxis)
+#: src/plotsetupwidget.ui:23
+#, kde-format
+msgid "Swap"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, swapXYAxis)
+#: src/plotsetupwidget.ui:29
+#, kde-format
+msgid "Swap X and Y axis"
+msgstr ""
+
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: src/plotsetupwidget.ui:17
+#: src/plotsetupwidget.ui:39
 #, kde-format
 msgid "X-Axis"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
 #. i18n: ectx: property (text), widget (QLabel, textLabel1_3)
-#: src/plotsetupwidget.ui:29 src/plotsetupwidget.ui:333
+#: src/plotsetupwidget.ui:51 src/plotsetupwidget.ui:355
 #, kde-format
 msgid "Average value:"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, KCB_x)
 #. i18n: ectx: property (whatsThis), widget (KComboBox, KCB_y)
-#: src/plotsetupwidget.ui:50 src/plotsetupwidget.ui:368
+#: src/plotsetupwidget.ui:72 src/plotsetupwidget.ui:390
 #, kde-format
 msgid "Here you can define what you want to plot"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #. i18n: ectx: property (text), widget (QLabel, textLabel2_2)
-#: src/plotsetupwidget.ui:92 src/plotsetupwidget.ui:347
+#: src/plotsetupwidget.ui:114 src/plotsetupwidget.ui:369
 #, kde-format
 msgid "Maximum value:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3_2)
 #. i18n: ectx: property (text), widget (QLabel, textLabel3_3)
-#: src/plotsetupwidget.ui:106 src/plotsetupwidget.ui:354
+#: src/plotsetupwidget.ui:128 src/plotsetupwidget.ui:376
 #, kde-format
 msgid "Minimum value:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: src/plotsetupwidget.ui:127
+#: src/plotsetupwidget.ui:149
 #, kde-format
 msgid "Display:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
-#: src/plotsetupwidget.ui:149
+#: src/plotsetupwidget.ui:171
 #, kde-format
 msgid "Element Type:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
-#: src/plotsetupwidget.ui:175
+#: src/plotsetupwidget.ui:197
 #, kde-format
 msgid "First element:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel4)
-#: src/plotsetupwidget.ui:182
+#: src/plotsetupwidget.ui:204
 #, kde-format
 msgid "Last element:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, full)
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:211 src/plotsetupwidget.ui:219
+#: src/plotsetupwidget.ui:233 src/plotsetupwidget.ui:241
 #, kde-format
 msgid "All elements"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:224
+#: src/plotsetupwidget.ui:246
 #, kde-format
 msgid "Metals"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:229
+#: src/plotsetupwidget.ui:251
 #, kde-format
 msgid "Non-Metals / Metalloids"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:234
+#: src/plotsetupwidget.ui:256
 #, kde-format
 msgid "s block elements"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:239
+#: src/plotsetupwidget.ui:261
 #, kde-format
 msgid "p block elements"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:244
+#: src/plotsetupwidget.ui:266
 #, kde-format
 msgid "d block elements"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:249
+#: src/plotsetupwidget.ui:271
 #, kde-format
 msgid "f block elements"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:254
+#: src/plotsetupwidget.ui:276
 #, kde-format
 msgid "Noble gases"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:259
+#: src/plotsetupwidget.ui:281
 #, kde-format
 msgid "Alkalie metals"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:264
+#: src/plotsetupwidget.ui:286
 #, kde-format
 msgid "Alkaline earth metals"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:269
+#: src/plotsetupwidget.ui:291
 #, kde-format
 msgid "Lanthanides"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:274
+#: src/plotsetupwidget.ui:296
 #, kde-format
 msgid "Actinides"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboElementType)
-#: src/plotsetupwidget.ui:279
+#: src/plotsetupwidget.ui:301
 #, kde-format
 msgid "Radio-active elements"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, comboElementLabels)
-#: src/plotsetupwidget.ui:294
+#: src/plotsetupwidget.ui:316
 #, kde-format
 msgid "No Labels"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, comboElementLabels)
-#: src/plotsetupwidget.ui:299
+#: src/plotsetupwidget.ui:321
 #, kde-format
 msgid "Element Names"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, comboElementLabels)
-#: src/plotsetupwidget.ui:304
+#: src/plotsetupwidget.ui:326
 #, kde-format
 msgid "Element Symbols"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: src/plotsetupwidget.ui:314
+#: src/plotsetupwidget.ui:336
 #, kde-format
 msgid "Y-Axis"
 msgstr ""
@@ -7073,7 +7270,7 @@ msgid ""
 "S64: If swallowed, rinse mouth with water ( only if the person is conscious )"
 msgstr ""
 
-#: src/rsdialog.cpp:237
+#: src/rsdialog.cpp:238
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7081,7 +7278,7 @@ msgctxt ""
 msgid "R1: Explosive when dry"
 msgstr ""
 
-#: src/rsdialog.cpp:238
+#: src/rsdialog.cpp:239
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7090,7 +7287,7 @@ msgid ""
 "R2: Risk of explosion by shock, friction, fire or other sources of ignition"
 msgstr ""
 
-#: src/rsdialog.cpp:239
+#: src/rsdialog.cpp:240
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7100,7 +7297,7 @@ msgid ""
 "ignition"
 msgstr ""
 
-#: src/rsdialog.cpp:240
+#: src/rsdialog.cpp:241
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7108,7 +7305,7 @@ msgctxt ""
 msgid "R4: Forms very sensitive explosive metallic compounds"
 msgstr ""
 
-#: src/rsdialog.cpp:241
+#: src/rsdialog.cpp:242
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7116,7 +7313,7 @@ msgctxt ""
 msgid "R5: Heating may cause an explosion"
 msgstr ""
 
-#: src/rsdialog.cpp:242
+#: src/rsdialog.cpp:243
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7124,7 +7321,7 @@ msgctxt ""
 msgid "R6: Explosive with or without contact with air"
 msgstr ""
 
-#: src/rsdialog.cpp:243
+#: src/rsdialog.cpp:244
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7132,7 +7329,7 @@ msgctxt ""
 msgid "R7: May cause fire"
 msgstr ""
 
-#: src/rsdialog.cpp:244
+#: src/rsdialog.cpp:245
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7140,7 +7337,7 @@ msgctxt ""
 msgid "R8: Contact with combustible material may cause fire"
 msgstr ""
 
-#: src/rsdialog.cpp:245
+#: src/rsdialog.cpp:246
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7148,7 +7345,7 @@ msgctxt ""
 msgid "R9: Explosive when mixed with combustible material"
 msgstr ""
 
-#: src/rsdialog.cpp:246
+#: src/rsdialog.cpp:247
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7156,7 +7353,7 @@ msgctxt ""
 msgid "R10: Flammable"
 msgstr ""
 
-#: src/rsdialog.cpp:247
+#: src/rsdialog.cpp:248
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7164,7 +7361,7 @@ msgctxt ""
 msgid "R11: Highly flammable"
 msgstr ""
 
-#: src/rsdialog.cpp:248
+#: src/rsdialog.cpp:249
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7172,7 +7369,7 @@ msgctxt ""
 msgid "R12: Extremely flammable"
 msgstr ""
 
-#: src/rsdialog.cpp:249
+#: src/rsdialog.cpp:250
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7180,7 +7377,7 @@ msgctxt ""
 msgid "R14: Reacts violently with water"
 msgstr ""
 
-#: src/rsdialog.cpp:250
+#: src/rsdialog.cpp:251
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7188,7 +7385,7 @@ msgctxt ""
 msgid "R15: Contact with water liberates extremely flammable gases"
 msgstr ""
 
-#: src/rsdialog.cpp:251
+#: src/rsdialog.cpp:252
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7196,7 +7393,7 @@ msgctxt ""
 msgid "R16: Explosive when mixed with oxidising substances"
 msgstr ""
 
-#: src/rsdialog.cpp:252
+#: src/rsdialog.cpp:253
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7204,7 +7401,7 @@ msgctxt ""
 msgid "R17: Spontaneously flammable in air"
 msgstr ""
 
-#: src/rsdialog.cpp:253
+#: src/rsdialog.cpp:254
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7212,7 +7409,7 @@ msgctxt ""
 msgid "R18: In use, may form flammable/explosive vapour-air mixture"
 msgstr ""
 
-#: src/rsdialog.cpp:254
+#: src/rsdialog.cpp:255
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7220,7 +7417,7 @@ msgctxt ""
 msgid "R19: May form explosive peroxides"
 msgstr ""
 
-#: src/rsdialog.cpp:255
+#: src/rsdialog.cpp:256
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7228,7 +7425,7 @@ msgctxt ""
 msgid "R20: Harmful by inhalation"
 msgstr ""
 
-#: src/rsdialog.cpp:256
+#: src/rsdialog.cpp:257
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7236,7 +7433,7 @@ msgctxt ""
 msgid "R21: Harmful in contact with skin"
 msgstr ""
 
-#: src/rsdialog.cpp:257
+#: src/rsdialog.cpp:258
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7244,7 +7441,7 @@ msgctxt ""
 msgid "R22: Harmful if swallowed"
 msgstr ""
 
-#: src/rsdialog.cpp:258
+#: src/rsdialog.cpp:259
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7252,7 +7449,7 @@ msgctxt ""
 msgid "R23: Toxic by inhalation"
 msgstr ""
 
-#: src/rsdialog.cpp:259
+#: src/rsdialog.cpp:260
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7260,7 +7457,7 @@ msgctxt ""
 msgid "R24: Toxic in contact with skin"
 msgstr ""
 
-#: src/rsdialog.cpp:260
+#: src/rsdialog.cpp:261
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7268,7 +7465,7 @@ msgctxt ""
 msgid "R25: Toxic if swallowed"
 msgstr ""
 
-#: src/rsdialog.cpp:261
+#: src/rsdialog.cpp:262
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7276,7 +7473,7 @@ msgctxt ""
 msgid "R26: Very toxic by inhalation"
 msgstr ""
 
-#: src/rsdialog.cpp:262
+#: src/rsdialog.cpp:263
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7284,7 +7481,7 @@ msgctxt ""
 msgid "R27: Very toxic in contact with skin"
 msgstr ""
 
-#: src/rsdialog.cpp:263
+#: src/rsdialog.cpp:264
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7292,7 +7489,7 @@ msgctxt ""
 msgid "R28: Very toxic if swallowed"
 msgstr ""
 
-#: src/rsdialog.cpp:264
+#: src/rsdialog.cpp:265
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7300,7 +7497,7 @@ msgctxt ""
 msgid "R29: Contact with water liberates toxic gas."
 msgstr ""
 
-#: src/rsdialog.cpp:265
+#: src/rsdialog.cpp:266
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7308,7 +7505,7 @@ msgctxt ""
 msgid "R30: Can become highly flammable in use"
 msgstr ""
 
-#: src/rsdialog.cpp:266
+#: src/rsdialog.cpp:267
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7316,7 +7513,7 @@ msgctxt ""
 msgid "R31: Contact with acids liberates toxic gas"
 msgstr ""
 
-#: src/rsdialog.cpp:267
+#: src/rsdialog.cpp:268
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7324,7 +7521,7 @@ msgctxt ""
 msgid "R32: Contact with acids liberates very toxic gas"
 msgstr ""
 
-#: src/rsdialog.cpp:268
+#: src/rsdialog.cpp:269
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7332,7 +7529,7 @@ msgctxt ""
 msgid "R33: Danger of cumulative effects"
 msgstr ""
 
-#: src/rsdialog.cpp:269
+#: src/rsdialog.cpp:270
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7340,7 +7537,7 @@ msgctxt ""
 msgid "R34: Causes burns"
 msgstr ""
 
-#: src/rsdialog.cpp:270
+#: src/rsdialog.cpp:271
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7348,7 +7545,7 @@ msgctxt ""
 msgid "R35: Causes severe burns"
 msgstr ""
 
-#: src/rsdialog.cpp:271
+#: src/rsdialog.cpp:272
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7356,7 +7553,7 @@ msgctxt ""
 msgid "R36: Irritating to eyes"
 msgstr ""
 
-#: src/rsdialog.cpp:272
+#: src/rsdialog.cpp:273
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7364,7 +7561,7 @@ msgctxt ""
 msgid "R37: Irritating to respiratory system"
 msgstr ""
 
-#: src/rsdialog.cpp:273
+#: src/rsdialog.cpp:274
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7372,7 +7569,7 @@ msgctxt ""
 msgid "R38: Irritating to skin"
 msgstr ""
 
-#: src/rsdialog.cpp:274
+#: src/rsdialog.cpp:275
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7380,7 +7577,7 @@ msgctxt ""
 msgid "R39: Danger of very serious irreversible effects"
 msgstr ""
 
-#: src/rsdialog.cpp:275
+#: src/rsdialog.cpp:276
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7388,7 +7585,7 @@ msgctxt ""
 msgid "R40: Limited evidence of a carcinogenic effect"
 msgstr ""
 
-#: src/rsdialog.cpp:276
+#: src/rsdialog.cpp:277
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7396,7 +7593,7 @@ msgctxt ""
 msgid "R41: Risk of serious damage to eyes"
 msgstr ""
 
-#: src/rsdialog.cpp:277
+#: src/rsdialog.cpp:278
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7404,7 +7601,7 @@ msgctxt ""
 msgid "R42: May cause sensitisation by inhalation"
 msgstr ""
 
-#: src/rsdialog.cpp:278
+#: src/rsdialog.cpp:279
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7412,7 +7609,7 @@ msgctxt ""
 msgid "R43: May cause sensitisation by skin contact"
 msgstr ""
 
-#: src/rsdialog.cpp:279
+#: src/rsdialog.cpp:280
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7420,7 +7617,7 @@ msgctxt ""
 msgid "R44: Risk of explosion if heated under confinement"
 msgstr ""
 
-#: src/rsdialog.cpp:280
+#: src/rsdialog.cpp:281
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7428,7 +7625,7 @@ msgctxt ""
 msgid "R45: May cause cancer"
 msgstr ""
 
-#: src/rsdialog.cpp:281
+#: src/rsdialog.cpp:282
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7436,7 +7633,7 @@ msgctxt ""
 msgid "R46: May cause heritable genetic damage"
 msgstr ""
 
-#: src/rsdialog.cpp:282
+#: src/rsdialog.cpp:283
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7444,7 +7641,7 @@ msgctxt ""
 msgid "R48: Danger of serious damage to health by prolonged exposure"
 msgstr ""
 
-#: src/rsdialog.cpp:283
+#: src/rsdialog.cpp:284
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7452,7 +7649,7 @@ msgctxt ""
 msgid "R49: May cause cancer by inhalation"
 msgstr ""
 
-#: src/rsdialog.cpp:284
+#: src/rsdialog.cpp:285
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7460,7 +7657,7 @@ msgctxt ""
 msgid "R50: Very toxic to aquatic organisms"
 msgstr ""
 
-#: src/rsdialog.cpp:285
+#: src/rsdialog.cpp:286
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7468,7 +7665,7 @@ msgctxt ""
 msgid "R51: Toxic to aquatic organisms"
 msgstr ""
 
-#: src/rsdialog.cpp:286
+#: src/rsdialog.cpp:287
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7476,7 +7673,7 @@ msgctxt ""
 msgid "R52: Harmful to aquatic organisms"
 msgstr ""
 
-#: src/rsdialog.cpp:287
+#: src/rsdialog.cpp:288
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7484,7 +7681,7 @@ msgctxt ""
 msgid "R53: May cause long-term adverse effects in the aquatic environment"
 msgstr ""
 
-#: src/rsdialog.cpp:288
+#: src/rsdialog.cpp:289
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7492,7 +7689,7 @@ msgctxt ""
 msgid "R54: Toxic to flora"
 msgstr ""
 
-#: src/rsdialog.cpp:289
+#: src/rsdialog.cpp:290
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7500,7 +7697,7 @@ msgctxt ""
 msgid "R55: Toxic to fauna"
 msgstr ""
 
-#: src/rsdialog.cpp:290
+#: src/rsdialog.cpp:291
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7508,7 +7705,7 @@ msgctxt ""
 msgid "R56: Toxic to soil organisms"
 msgstr ""
 
-#: src/rsdialog.cpp:291
+#: src/rsdialog.cpp:292
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7516,7 +7713,7 @@ msgctxt ""
 msgid "R57: Toxic to bees"
 msgstr ""
 
-#: src/rsdialog.cpp:292
+#: src/rsdialog.cpp:293
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7524,7 +7721,7 @@ msgctxt ""
 msgid "R58: May cause long-term adverse effects in the environment"
 msgstr ""
 
-#: src/rsdialog.cpp:293
+#: src/rsdialog.cpp:294
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7532,7 +7729,7 @@ msgctxt ""
 msgid "R59: Dangerous for the ozone layer"
 msgstr ""
 
-#: src/rsdialog.cpp:294
+#: src/rsdialog.cpp:295
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7540,7 +7737,7 @@ msgctxt ""
 msgid "R60: May impair fertility"
 msgstr ""
 
-#: src/rsdialog.cpp:295
+#: src/rsdialog.cpp:296
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7548,7 +7745,7 @@ msgctxt ""
 msgid "R61: May cause harm to the unborn child"
 msgstr ""
 
-#: src/rsdialog.cpp:296
+#: src/rsdialog.cpp:297
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7556,7 +7753,7 @@ msgctxt ""
 msgid "R62: Possible risk of impaired fertility"
 msgstr ""
 
-#: src/rsdialog.cpp:297
+#: src/rsdialog.cpp:298
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7564,7 +7761,7 @@ msgctxt ""
 msgid "R63: Possible risk of harm to the unborn child"
 msgstr ""
 
-#: src/rsdialog.cpp:298
+#: src/rsdialog.cpp:299
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7572,7 +7769,7 @@ msgctxt ""
 msgid "R64: May cause harm to breast-fed babies"
 msgstr ""
 
-#: src/rsdialog.cpp:299
+#: src/rsdialog.cpp:300
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7580,7 +7777,7 @@ msgctxt ""
 msgid "R65: Harmful: may cause lung damage if swallowed"
 msgstr ""
 
-#: src/rsdialog.cpp:300
+#: src/rsdialog.cpp:301
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7588,7 +7785,7 @@ msgctxt ""
 msgid "R66: Repeated exposure may cause skin dryness or cracking"
 msgstr ""
 
-#: src/rsdialog.cpp:301
+#: src/rsdialog.cpp:302
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7596,7 +7793,7 @@ msgctxt ""
 msgid "R67: Vapours may cause drowsiness and dizziness"
 msgstr ""
 
-#: src/rsdialog.cpp:302
+#: src/rsdialog.cpp:303
 #, kde-format
 msgctxt ""
 "Please take the official translations! You find them here: http://eur-lex."
@@ -7604,7 +7801,7 @@ msgctxt ""
 msgid "R68: Possible risk of irreversible effects"
 msgstr ""
 
-#: src/rsdialog.cpp:329
+#: src/rsdialog.cpp:331
 #, kde-format
 msgid "At least one of the specified phrases is invalid."
 msgstr ""

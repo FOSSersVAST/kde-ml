@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: okular\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:08+0200\n"
+"POT-Creation-Date: 2019-07-04 02:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -329,21 +329,21 @@ msgid ""
 "Expected a float to follow %1 in %2"
 msgstr ""
 
-#: special.cpp:434
+#: special.cpp:433
 #, kde-format
 msgid ""
 "File not found: \n"
 " %1"
 msgstr ""
 
-#: special.cpp:681
+#: special.cpp:679
 #, kde-format
 msgid ""
 "Error in DVIfile '%1', page %2. Could not interpret angle in text rotation "
 "special."
 msgstr ""
 
-#: special.cpp:704
+#: special.cpp:702
 #, kde-format
 msgid "The special command '%1' is not implemented."
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: oxygen\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-07-23 03:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -39,39 +39,39 @@ msgid ""
 "is changed"
 msgstr ""
 
-#: config/oxygenexceptionlistwidget.cpp:113
+#: config/oxygenexceptionlistwidget.cpp:112
 #, kde-format
 msgid "New Exception - Oxygen Settings"
 msgstr ""
 
-#: config/oxygenexceptionlistwidget.cpp:162
+#: config/oxygenexceptionlistwidget.cpp:161
 #, kde-format
 msgid "Edit Exception - Oxygen Settings"
 msgstr ""
 
-#: config/oxygenexceptionlistwidget.cpp:195
+#: config/oxygenexceptionlistwidget.cpp:194
 #, kde-format
 msgid "Question - Oxygen Settings"
 msgstr ""
 
-#: config/oxygenexceptionlistwidget.cpp:195
+#: config/oxygenexceptionlistwidget.cpp:194
 #, kde-format
 msgid "Remove selected exception?"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, removeButton)
-#: config/oxygenexceptionlistwidget.cpp:196
+#: config/oxygenexceptionlistwidget.cpp:195
 #: config/ui/oxygenexceptionlistwidget.ui:79
 #, kde-format
 msgid "Remove"
 msgstr ""
 
-#: config/oxygenexceptionlistwidget.cpp:340
+#: config/oxygenexceptionlistwidget.cpp:339
 #, kde-format
 msgid "Warning - Oxygen Settings"
 msgstr ""
 
-#: config/oxygenexceptionlistwidget.cpp:340
+#: config/oxygenexceptionlistwidget.cpp:339
 #, kde-format
 msgid "Regular Expression syntax is incorrect"
 msgstr ""

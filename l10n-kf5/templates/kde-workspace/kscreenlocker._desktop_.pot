@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-11 01:17+0000\n"
+"POT-Creation-Date: 2019-09-26 01:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,7 +16,7 @@ msgctxt "Name"
 msgid "Password dialog"
 msgstr ""
 
-#: greeter/themes/org.kde.passworddialog/metadata.desktop:44
+#: greeter/themes/org.kde.passworddialog/metadata.desktop:46
 msgctxt "Comment"
 msgid ""
 "Screen locker that provides a password dialog and an interface to switch the "
@@ -28,12 +28,12 @@ msgctxt "Name"
 msgid "Screen Locking"
 msgstr ""
 
-#: kcm/screenlocker.desktop:53
+#: kcm/screenlocker.desktop:55
 msgctxt "Comment"
-msgid "Configure Screen Locking"
+msgid "Configure screen locking"
 msgstr ""
 
-#: kcm/screenlocker.desktop:68
+#: kcm/screenlocker.desktop:82
 msgctxt "X-KDE-Keywords"
 msgid "lock,resume, screensaver, screenlock"
 msgstr ""
@@ -43,22 +43,22 @@ msgctxt "Comment"
 msgid "Screen Saver"
 msgstr ""
 
-#: kscreenlocker.notifyrc:47
+#: kscreenlocker.notifyrc:48
 msgctxt "Name"
 msgid "Screen locked"
 msgstr ""
 
-#: kscreenlocker.notifyrc:89
+#: kscreenlocker.notifyrc:92
 msgctxt "Comment"
 msgid "The screen has been locked"
 msgstr ""
 
-#: kscreenlocker.notifyrc:134
+#: kscreenlocker.notifyrc:138
 msgctxt "Name"
 msgid "Screen unlocked"
 msgstr ""
 
-#: kscreenlocker.notifyrc:176
+#: kscreenlocker.notifyrc:182
 msgctxt "Comment"
 msgid "The screen has been unlocked"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-sdk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-08-14 03:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -91,17 +91,17 @@ msgstr ""
 msgid "Data that should be passed to the applet as 'externalData' event"
 msgstr ""
 
-#: view.cpp:120
+#: view.cpp:132
 #, no-c-format, kde-format
 msgid "Applet %1 does not exist."
 msgstr ""
 
-#: view.cpp:137
+#: view.cpp:149
 #, no-c-format, kde-format
 msgid "Containment %1 does not exist."
 msgstr ""
 
-#: view.cpp:317
+#: view.cpp:329
 #, kde-format
 msgctxt "@title:window"
 msgid "Save Screenshot"

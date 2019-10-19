@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-23 01:29+0000\n"
+"POT-Creation-Date: 2019-09-30 01:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -37,19 +37,14 @@ msgctxt "Name"
 msgid "Bookmark Toolbar"
 msgstr ""
 
-#: org.kde.konqueror.desktop:97
+#: org.kde.konqueror.desktop:96
+msgctxt "GenericName"
+msgid "Web Browser, File Manager and Viewer"
+msgstr ""
+
+#: org.kde.konqueror.desktop:123
 msgctxt "Comment"
 msgid "KDE File Manager & Web Browser"
-msgstr ""
-
-#: plugins/adblock/plugin_adblock.desktop:2
-msgctxt "Name"
-msgid "Adblock"
-msgstr ""
-
-#: plugins/adblock/plugin_adblock.desktop:64
-msgctxt "Comment"
-msgid "Show all blockable html elements"
 msgstr ""
 
 #: plugins/akregator/akregator_konqfeedicon.desktop:2
@@ -100,16 +95,6 @@ msgstr ""
 #: plugins/dirfilter/dirfilterplugin.desktop:73
 msgctxt "Comment"
 msgid "Filter directory view using an attribute filter"
-msgstr ""
-
-#: plugins/domtreeviewer/plugin_domtreeviewer.desktop:12
-msgctxt "Name"
-msgid "DOM Tree Viewer"
-msgstr ""
-
-#: plugins/domtreeviewer/plugin_domtreeviewer.desktop:74
-msgctxt "Comment"
-msgid "View the DOM tree of the current page"
 msgstr ""
 
 #: plugins/fsview/fsview.desktop:9
@@ -202,36 +187,6 @@ msgctxt "Comment"
 msgid "An easy way to generate an HTML image gallery"
 msgstr ""
 
-#: plugins/microformat/mf_konqmficon.desktop:2
-msgctxt "Name"
-msgid "Microformat Icon"
-msgstr ""
-
-#: plugins/microformat/mf_konqmficon.desktop:64
-msgctxt "Comment"
-msgid "Displays an icon in the status bar if the page contains a microformat"
-msgstr ""
-
-#: plugins/minitools/minitoolsplugin.desktop:13
-msgctxt "Name"
-msgid "Bookmarklets"
-msgstr ""
-
-#: plugins/minitools/minitoolsplugin.desktop:73
-msgctxt "Comment"
-msgid "Enables the use of bookmarklets"
-msgstr ""
-
-#: plugins/rellinks/plugin_rellinks.desktop:13
-msgctxt "Name"
-msgid "Document Relations"
-msgstr ""
-
-#: plugins/rellinks/plugin_rellinks.desktop:75
-msgctxt "Comment"
-msgid "Displays the document relations of a document"
-msgstr ""
-
 #: plugins/searchbar/searchbar.desktop:14
 msgctxt "Name"
 msgid "Search Bar"
@@ -270,31 +225,6 @@ msgstr ""
 #: plugins/uachanger/uachangerplugin.desktop:73
 msgctxt "Comment"
 msgid "Allows the detected UserAgent to be modified"
-msgstr ""
-
-#: plugins/validators/plugin_validators.desktop:12
-msgctxt "Name"
-msgid "Website Validators"
-msgstr ""
-
-#: plugins/validators/plugin_validators.desktop:73
-msgctxt "Comment"
-msgid "CSS and HTML validation tools"
-msgstr ""
-
-#: plugins/webarchiver/plugin_webarchiver.desktop:12
-msgctxt "Name"
-msgid "Web Archiver"
-msgstr ""
-
-#: plugins/webarchiver/plugin_webarchiver.desktop:75
-msgctxt "Comment"
-msgid "Creates archives of websites"
-msgstr ""
-
-#: plugins/webarchiver/webarchivethumbnail.desktop:3
-msgctxt "Name"
-msgid "Web Archives"
 msgstr ""
 
 #: settings/bookmarks/bookmarks.desktop:12

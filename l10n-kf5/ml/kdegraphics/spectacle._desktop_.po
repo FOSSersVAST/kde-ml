@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2019-09-29 01:26+0000\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -23,85 +23,34 @@ msgctxt "Name"
 msgid "Spectacle"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop:81
+#: desktop/org.kde.spectacle.desktop:80
+msgctxt "Comment"
+msgid "Screenshot capture utility"
+msgstr ""
+
+#: desktop/org.kde.spectacle.desktop:109
 msgctxt "Keywords"
 msgid "snapshot;capture;print;screenshot;snipping;snip;"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop:113
+#: desktop/org.kde.spectacle.desktop:148
 msgctxt "Name"
 msgid "Capture Entire Desktop"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop:155
+#: desktop/org.kde.spectacle.desktop:191
 msgctxt "Name"
 msgid "Capture Current Monitor"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop:197
+#: desktop/org.kde.spectacle.desktop:234
 msgctxt "Name"
 msgid "Capture Active Window"
 msgstr ""
 
-#: desktop/org.kde.spectacle.desktop:239
+#: desktop/org.kde.spectacle.desktop:277
 msgctxt "Name"
 msgid "Capture Rectangular Region"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:9
-msgctxt "Comment"
-msgid "Shortcuts for taking screenshots"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:48
-msgctxt "Name"
-msgid "Screenshots"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:93
-msgctxt "Comment"
-msgid "Start the screenshot tool and show the GUI"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:130
-msgctxt "Name"
-msgid "Start Screenshot Tool"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:184 desktop/spectacle.khotkeys:316
-#: desktop/spectacle.khotkeys:448 desktop/spectacle.khotkeys:580
-msgctxt "Comment"
-msgid "Simple_action"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:227
-msgctxt "Comment"
-msgid "Take a full screen (all monitors) screenshot and save it"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:263
-msgctxt "Name"
-msgid "Take Full Screen Screenshot"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:359
-msgctxt "Comment"
-msgid "Take a screenshot of the currently active window and save it"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:395
-msgctxt "Name"
-msgid "Take Active Window Screenshot"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:491
-msgctxt "Comment"
-msgid "Take a screenshot of a rectangular region you specify and save it"
-msgstr ""
-
-#: desktop/spectacle.khotkeys:527
-msgctxt "Name"
-msgid "Take Rectangular Region Screenshot"
 msgstr ""
 
 #: desktop/spectacle.notifyrc:41

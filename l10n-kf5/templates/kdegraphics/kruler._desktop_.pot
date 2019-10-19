@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2019-09-05 01:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -11,17 +11,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kruler.notifyrc:3
+#: kruler.notifyrc:4
 msgctxt "Comment"
 msgid "On-Screen Ruler"
 msgstr ""
 
-#: kruler.notifyrc:59
+#: kruler.notifyrc:60
 msgctxt "Name"
 msgid "Moved by Cursor Keys"
 msgstr ""
 
-#: kruler.notifyrc:126
+#: kruler.notifyrc:127
 msgctxt "Comment"
 msgid "The ruler has moved pixelwise using the cursor keys"
 msgstr ""

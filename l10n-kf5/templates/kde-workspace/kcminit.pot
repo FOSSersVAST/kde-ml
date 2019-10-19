@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-10-12 03:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -27,27 +27,27 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: main.cpp:160
+#: main.cpp:170
 #, kde-format
 msgid "Module %1 not found"
 msgstr ""
 
-#: main.cpp:227
+#: main.cpp:237
 #, kde-format
 msgid "KCMInit"
 msgstr ""
 
-#: main.cpp:228
+#: main.cpp:238
 #, kde-format
 msgid "KCMInit - runs startup initialization for Control Modules."
 msgstr ""
 
-#: main.cpp:233
+#: main.cpp:243
 #, kde-format
 msgid "List modules that are run at startup"
 msgstr ""
 
-#: main.cpp:234
+#: main.cpp:244
 #, kde-format
 msgid "Configuration module to run"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-08-13 03:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,28 +17,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kcm.cpp:335
+#: kcm.cpp:330
 #, kde-format
 msgid "my_shared_connection"
 msgstr ""
 
-#: kcm.cpp:397
+#: kcm.cpp:392
 #, kde-format
 msgid "Export VPN Connection"
 msgstr ""
 
-#: kcm.cpp:417
+#: kcm.cpp:412
 #, kde-format
 msgid "Do you want to save changes made to the connection '%1'?"
 msgstr ""
 
-#: kcm.cpp:417
+#: kcm.cpp:412
 #, kde-format
 msgctxt "@title:window"
 msgid "Save Changes"
 msgstr ""
 
-#: kcm.cpp:506
+#: kcm.cpp:501
 #, kde-format
 msgid "Import VPN Connection"
 msgstr ""
@@ -80,27 +80,27 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: qml/main.qml:69
+#: qml/main.qml:68
 msgid "Search..."
 msgstr ""
 
-#: qml/main.qml:144
+#: qml/main.qml:143
 msgid "Add new connection"
 msgstr ""
 
-#: qml/main.qml:156
+#: qml/main.qml:155
 msgid "Remove selected connection"
 msgstr ""
 
-#: qml/main.qml:170
+#: qml/main.qml:169
 msgid "Export selected connection"
 msgstr ""
 
-#: qml/main.qml:186
+#: qml/main.qml:185
 msgctxt "@title:window"
 msgid "Remove Connection"
 msgstr ""
 
-#: qml/main.qml:187
+#: qml/main.qml:186
 msgid "Do you want to remove the connection '%1'?"
 msgstr ""

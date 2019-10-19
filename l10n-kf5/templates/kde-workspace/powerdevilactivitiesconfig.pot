@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-10-02 03:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -42,7 +42,7 @@ msgid ""
 "specific power management behavior."
 msgstr ""
 
-#: activitypage.cpp:244
+#: activitypage.cpp:245
 #, kde-format
 msgid ""
 "The Power Management Service appears not to be running.\n"
@@ -81,7 +81,7 @@ msgstr ""
 msgid "PC running on low battery"
 msgstr ""
 
-#: activitywidget.cpp:136
+#: activitywidget.cpp:138
 #, kde-format
 msgctxt "This is meant to be: Act like activity %1"
 msgid "Activity \"%1\""

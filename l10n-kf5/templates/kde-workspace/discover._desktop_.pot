@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-23 01:30+0000\n"
+"POT-Creation-Date: 2019-09-20 01:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -13,23 +13,23 @@ msgstr ""
 
 #: discover/org.kde.discover.desktop.cmake:2
 #: libdiscover/backends/FlatpakBackend/org.kde.discover-flatpak.desktop:2
+#: notifier/org.kde.discover.notifier.desktop.cmake:2
 msgctxt "Name"
 msgid "Discover"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:50
+#: discover/org.kde.discover.desktop.cmake:52
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:92
+#: discover/org.kde.discover.desktop.cmake:96
 msgctxt "Keywords"
 msgid ""
 "program;software;repository;package;install;remove;update;apps;applications;"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:133
-#: notifier/plasmoid/metadata.desktop:2
+#: discover/org.kde.discover.desktop.cmake:139
 msgctxt "Name"
 msgid "Updates"
 msgstr ""
@@ -44,7 +44,7 @@ msgctxt "Name"
 msgid "Snap login action"
 msgstr ""
 
-#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:37
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:39
 msgctxt "Description"
 msgid "Allows snap front-ends to log in"
 msgstr ""
@@ -54,17 +54,12 @@ msgctxt "Comment"
 msgid "Discover"
 msgstr ""
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:45
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:47
 msgctxt "Name"
 msgid "Updates Are Available"
 msgstr ""
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:87
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:92
 msgctxt "Comment"
 msgid "Updates Available"
-msgstr ""
-
-#: notifier/plasmoid/metadata.desktop:44
-msgctxt "Comment"
-msgid "Helps you keep your system up to date"
 msgstr ""

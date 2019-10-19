@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-09-20 03:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -249,42 +249,42 @@ msgctxt "Window caption for the application wide rules dialog"
 msgid "Edit Application-Specific Settings"
 msgstr ""
 
-#: main.cpp:240
+#: main.cpp:241
 #, kde-format
 msgid "KWin"
 msgstr ""
 
-#: main.cpp:247
+#: main.cpp:248
 #, kde-format
 msgid "KWin helper utility"
 msgstr ""
 
-#: main.cpp:248
+#: main.cpp:249
 #, kde-format
 msgid "KWin id of the window for special window settings."
 msgstr ""
 
-#: main.cpp:249
+#: main.cpp:250
 #, kde-format
 msgid "Whether the settings should affect all windows of the application."
 msgstr ""
 
-#: main.cpp:258
+#: main.cpp:259
 #, kde-format
 msgid "This helper utility is not supposed to be called directly."
 msgstr ""
 
-#: ruleslist.cpp:153
+#: ruleslist.cpp:152
 #, kde-format
 msgid "Export Rules"
 msgstr ""
 
-#: ruleslist.cpp:154 ruleslist.cpp:166
+#: ruleslist.cpp:153 ruleslist.cpp:165
 #, kde-format
 msgid "KWin Rules (*.kwinrule)"
 msgstr ""
 
-#: ruleslist.cpp:165
+#: ruleslist.cpp:164
 #, kde-format
 msgid "Import Rules"
 msgstr ""
@@ -331,14 +331,14 @@ msgstr ""
 msgid "&Export"
 msgstr ""
 
-#: ruleswidget.cpp:67
+#: ruleswidget.cpp:66
 #, kde-format
 msgid ""
 "Enable this checkbox to alter this window property for the specified "
 "window(s)."
 msgstr ""
 
-#: ruleswidget.cpp:69
+#: ruleswidget.cpp:68
 #, kde-format
 msgid ""
 "Specify how the window property should be affected:<ul><li><em>Do Not Affect:"
@@ -357,7 +357,7 @@ msgid ""
 "is hidden).</li></ul>"
 msgstr ""
 
-#: ruleswidget.cpp:84
+#: ruleswidget.cpp:83
 #, kde-format
 msgid ""
 "Specify how the window property should be affected:<ul><li><em>Do Not Affect:"
@@ -369,27 +369,27 @@ msgid ""
 "(this action will be deleted after the window is hidden).</li></ul>"
 msgstr ""
 
-#: ruleswidget.cpp:152
+#: ruleswidget.cpp:151
 #, kde-format
 msgid "All Desktops"
 msgstr ""
 
-#: ruleswidget.cpp:346
+#: ruleswidget.cpp:345
 #, kde-format
 msgid "All Activities"
 msgstr ""
 
-#: ruleswidget.cpp:791
+#: ruleswidget.cpp:790
 #, kde-format
 msgid "Settings for %1"
 msgstr ""
 
-#: ruleswidget.cpp:793
+#: ruleswidget.cpp:792
 #, kde-format
 msgid "Unnamed entry"
 msgstr ""
 
-#: ruleswidget.cpp:803
+#: ruleswidget.cpp:802
 #, kde-format
 msgid ""
 "You have specified the window class as unimportant.\n"
@@ -399,12 +399,12 @@ msgid ""
 "types."
 msgstr ""
 
-#: ruleswidget.cpp:832
+#: ruleswidget.cpp:831
 #, kde-format
 msgid "Edit Window-Specific Settings"
 msgstr ""
 
-#: ruleswidget.cpp:864
+#: ruleswidget.cpp:863
 #, kde-format
 msgid ""
 "This configuration dialog allows altering settings only for the selected "
@@ -413,12 +413,12 @@ msgid ""
 "affected and to which value."
 msgstr ""
 
-#: ruleswidget.cpp:868
+#: ruleswidget.cpp:867
 #, kde-format
 msgid "Consult the documentation for more details."
 msgstr ""
 
-#: ruleswidget.cpp:907
+#: ruleswidget.cpp:906
 #, kde-format
 msgid "Edit Shortcut"
 msgstr ""
@@ -884,19 +884,19 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
 #: ruleswidgetbase.ui:1066
 #, kde-format
-msgid "Smart"
+msgid "Minimal Overlapping"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
 #: ruleswidgetbase.ui:1071
 #, kde-format
-msgid "Maximizing"
+msgid "Maximized"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
 #: ruleswidgetbase.ui:1076
 #, kde-format
-msgid "Cascade"
+msgid "Cascaded"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
@@ -914,7 +914,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)
 #: ruleswidgetbase.ui:1091
 #, kde-format
-msgid "Top-Left Corner"
+msgid "In Top-Left Corner"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, placement)

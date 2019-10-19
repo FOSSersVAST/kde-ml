@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-09-28 01:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,17 +16,17 @@ msgctxt "Comment"
 msgid "PolicyKit authentication dialog"
 msgstr ""
 
-#: policykit1-kde.notifyrc:45
+#: policykit1-kde.notifyrc:46
 msgctxt "Name"
 msgid "policykit1-kde"
 msgstr ""
 
-#: policykit1-kde.notifyrc:88
+#: policykit1-kde.notifyrc:90
 msgctxt "Name"
 msgid "authenticate"
 msgstr ""
 
-#: policykit1-kde.notifyrc:131
+#: policykit1-kde.notifyrc:134
 msgctxt "Comment"
 msgid "You are required to authenticate"
 msgstr ""
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "PolicyKit Authentication Agent"
 msgstr ""
 
-#: polkit-kde-authentication-agent-1.desktop.cmake:39
+#: polkit-kde-authentication-agent-1.desktop.cmake:41
 msgctxt "Comment"
 msgid "PolicyKit Authentication Agent"
 msgstr ""

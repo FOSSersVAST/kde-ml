@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bluedevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:23+0200\n"
+"POT-Creation-Date: 2019-09-26 03:20+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -126,7 +126,7 @@ msgid "No Bluetooth adapters have been found."
 msgstr ""
 
 #: kcmodule/common/systemcheck.cpp:76 sendfile/discoverwidget.cpp:149
-#: wizard/pages/discover.cpp:274
+#: wizard/pages/discover.cpp:269
 #, kde-format
 msgid "Bluetooth is disabled."
 msgstr ""
@@ -149,7 +149,7 @@ msgid "Turn On"
 msgstr ""
 
 #: kcmodule/common/systemcheck.cpp:99 kcmodule/common/systemcheck.cpp:110
-#: kcmodule/common/systemcheck.cpp:121 wizard/pages/discover.cpp:279
+#: kcmodule/common/systemcheck.cpp:121 wizard/pages/discover.cpp:274
 #, kde-format
 msgctxt "Action to fix a problem"
 msgid "Fix it"
@@ -371,30 +371,41 @@ msgstr ""
 msgid "Bluetooth Devices Control Panel Module"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:214
+#: kcmodule/devices/devices.cpp:219
+#, kde-format
+msgid ""
+"Are you sure that you want to remove %1 device from the list of known "
+"devices?"
+msgid_plural ""
+"Are you sure that you want to remove %1 devices from the list of known "
+"devices?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: kcmodule/devices/devices.cpp:221
 #, kde-format
 msgid ""
 "Are you sure that you want to remove device \"%1\" from the list of known "
 "devices?"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:215
+#: kcmodule/devices/devices.cpp:224
 #, kde-format
 msgctxt "Title of window that asks for confirmation when removing a device"
 msgid "Device removal"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:270
+#: kcmodule/devices/devices.cpp:291
 #, kde-format
 msgid "Select a device to configure"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:285
+#: kcmodule/devices/devices.cpp:306
 #, kde-format
 msgid "No devices found"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:288
+#: kcmodule/devices/devices.cpp:309
 #, kde-format
 msgid "Add new device"
 msgstr ""
@@ -547,13 +558,13 @@ msgctxt ""
 msgid "Introduce PIN"
 msgstr ""
 
-#: kded/helpers/requestpin.cpp:75
+#: kded/helpers/requestpin.cpp:76
 #, kde-format
 msgctxt "Shown in the caption of a dialog where the user introduce the PIN"
 msgid "Introduce PIN"
 msgstr ""
 
-#: kded/helpers/requestpin.cpp:81
+#: kded/helpers/requestpin.cpp:82
 #, kde-format
 msgctxt ""
 "Shown in a dialog which asks to introduce a PIN that will be used to pair a "
@@ -804,25 +815,25 @@ msgstr ""
 msgid "Select a device"
 msgstr ""
 
-#: wizard/pages/discover.cpp:276
+#: wizard/pages/discover.cpp:271
 #, kde-format
 msgid "Your Bluetooth adapter is not pairable."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: wizard/pages/discover.ui:66
+#: wizard/pages/discover.ui:54
 #, kde-format
 msgid "Scanning..."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, manualPin)
-#: wizard/pages/discover.ui:86
+#: wizard/pages/discover.ui:74
 #, kde-format
 msgid "Manual PIN:"
 msgstr ""
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, pinText)
-#: wizard/pages/discover.ui:114
+#: wizard/pages/discover.ui:102
 #, kde-format
 msgid "0000"
 msgstr ""

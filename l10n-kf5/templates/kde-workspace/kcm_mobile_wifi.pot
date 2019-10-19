@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-10-15 03:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -32,109 +32,178 @@ msgstr ""
 msgid "Connection Editor"
 msgstr ""
 
-#: package/contents/ui/ConnectionEditor.qml:39
-#: package/contents/ui/TetheringSetting.qml:115
+#: package/contents/ui/ConnectionEditor.qml:36
+#: package/contents/ui/TetheringSetting.qml:67
 #, kde-format
 msgid "SSID"
 msgstr ""
 
-#: package/contents/ui/ConnectionEditor.qml:47
-#: package/contents/ui/WirelessSecuritySetting.qml:63
+#: package/contents/ui/ConnectionEditor.qml:44
+#: package/contents/ui/NetworkSettings.qml:95
 #, kde-format
 msgid "None"
 msgstr ""
 
-#: package/contents/ui/ConnectionEditor.qml:79
-#: package/contents/ui/NetworkSettings.qml:80
+#: package/contents/ui/ConnectionEditor.qml:68
+#: package/contents/ui/NetworkSettings.qml:49
 #, kde-format
 msgid "Save"
 msgstr ""
 
-#: package/contents/ui/ConnectionEditor.qml:96
-#: package/contents/ui/NetworkListView.qml:170
-#: package/contents/ui/NetworkSettings.qml:97
+#: package/contents/ui/ConnectionEditor.qml:77
+#: package/contents/ui/main.qml:193 package/contents/ui/TetheringSetting.qml:129
 #, kde-format
 msgid "Cancel"
 msgstr ""
 
-#: package/contents/ui/IPAddressSetting.qml:46
-#, kde-format
-msgid "IP settings"
-msgstr ""
-
-#: package/contents/ui/IPAddressSetting.qml:53
-#, kde-format
-msgid "Automatic"
-msgstr ""
-
-#: package/contents/ui/IPAddressSetting.qml:53
-#, kde-format
-msgid "Manual"
-msgstr ""
-
-#: package/contents/ui/IPAddressSetting.qml:72
-#, kde-format
-msgid "IP Address"
-msgstr ""
-
-#: package/contents/ui/IPAddressSetting.qml:85
-#, kde-format
-msgid "Gateway"
-msgstr ""
-
-#: package/contents/ui/IPAddressSetting.qml:98
-#, kde-format
-msgid "Network prefix length"
-msgstr ""
-
-#: package/contents/ui/IPAddressSetting.qml:109
-#, kde-format
-msgid "DNS"
-msgstr ""
-
-#: package/contents/ui/NetworkListView.qml:54
-#, kde-format
-msgid "Wi-fi"
-msgstr ""
-
-#: package/contents/ui/NetworkListView.qml:81
+#: package/contents/ui/main.qml:97
 #, kde-format
 msgid "Saved networks"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:81
+#: package/contents/ui/main.qml:97
 #, kde-format
 msgid "Available networks"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:93
+#: package/contents/ui/main.qml:106
+#, kde-format
+msgid "Disable Wi-Fi"
+msgstr ""
+
+#: package/contents/ui/main.qml:106
+#, kde-format
+msgid "Enable Wi-Fi"
+msgstr ""
+
+#: package/contents/ui/main.qml:114
 #, kde-format
 msgid "Add custom connection"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:102
+#: package/contents/ui/main.qml:123
 #, kde-format
 msgid "Create Hotspot"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:110
+#: package/contents/ui/main.qml:131
 #, kde-format
 msgid "Saved Connections"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:159
+#: package/contents/ui/main.qml:182
 #, kde-format
-msgid "Delete connection "
+msgid "Delete connection %1 from device?"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:162
+#: package/contents/ui/main.qml:185
 #, kde-format
 msgid "Delete"
 msgstr ""
 
-#: package/contents/ui/NetworkSettings.qml:40
+#: package/contents/ui/NetworkSettings.qml:65
 #, kde-format
 msgid "Connection Name"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:80
+#, kde-format
+msgid "Security"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:86
+#, kde-format
+msgid "Security type:"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:96
+#, kde-format
+msgid "WEP Key"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:97
+#, kde-format
+msgid "Dynamic WEP"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:98
+#, kde-format
+msgid "WPA/WPA2 Personal"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:99
+#, kde-format
+msgid "WPA/WPA2 Enterprise"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:110
+#, kde-format
+msgid "Password:"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:117
+#, kde-format
+msgid "Authentication:"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "TLS"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "LEAP"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "FAST"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "Tunneled TLS"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:119
+#, kde-format
+msgid "Protected EAP"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:135
+#, kde-format
+msgid "Automatic"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:135
+#, kde-format
+msgid "Manual"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:156
+#, kde-format
+msgid "IP Address:"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:167
+#, kde-format
+msgid "Gateway:"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:178
+#, kde-format
+msgid "Network prefix length:"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:187
+#, kde-format
+msgid "DNS:"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:229
+#, kde-format
+msgid "(Unchanged)"
 msgstr ""
 
 #: package/contents/ui/PasswordField.qml:28
@@ -142,126 +211,76 @@ msgstr ""
 msgid "Password..."
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:41
+#: package/contents/ui/TetheringSetting.qml:31
 #, kde-format
-msgid "Wi-fi hotspot"
+msgid "Wi-Fi Hotspot"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:103
+#: package/contents/ui/TetheringSetting.qml:55
 #, kde-format
 msgid "Configure"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:122
+#: package/contents/ui/TetheringSetting.qml:74
 #, kde-format
 msgid "My Hotspot"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:132
+#: package/contents/ui/TetheringSetting.qml:84
 #, kde-format
 msgid "Hide this network"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:142
+#: package/contents/ui/TetheringSetting.qml:94
 #, kde-format
 msgid "Protect hotspot with WPA2/PSK password"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:152
+#: package/contents/ui/TetheringSetting.qml:104
 #, kde-format
 msgid "Save Hotspot configuration"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:180
-#: package/contents/ui/TetheringSetting.qml:217
+#: package/contents/ui/TetheringSetting.qml:117
+#, kde-format
+msgid "Disable Wi-Fi Hotspot"
+msgstr ""
+
+#: package/contents/ui/TetheringSetting.qml:117
+#, kde-format
+msgid "Enable Wi-Fi Hotspot"
+msgstr ""
+
+#: package/contents/ui/TetheringSetting.qml:135
+#: package/contents/ui/TetheringSetting.qml:172
 #, kde-format
 msgid "Hotspot is inactive"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:187
+#: package/contents/ui/TetheringSetting.qml:142
 #, kde-format
 msgid "Not possible to start Access point."
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:196
-#: package/contents/ui/TetheringSetting.qml:210
+#: package/contents/ui/TetheringSetting.qml:151
+#: package/contents/ui/TetheringSetting.qml:165
 #, kde-format
 msgid "Access point running: %1"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:203
+#: package/contents/ui/TetheringSetting.qml:158
 #, kde-format
 msgid "No suitable configuration found."
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:251
+#: package/contents/ui/TetheringSetting.qml:206
 #, kde-format
 msgid "Access point available: %1"
 msgstr ""
 
-#: package/contents/ui/WirelessSecuritySetting.qml:46
-#, kde-format
-msgid "Security"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:64
-#, kde-format
-msgid "WEP Key"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:65
-#, kde-format
-msgid "Dynamic WEP"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:66
-#, kde-format
-msgid "WPA/WPA2 Personal"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:67
-#, kde-format
-msgid "WPA/WPA2 Enterprise"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:95
-#, kde-format
-msgid "Authentication"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:99
-#, kde-format
-msgid "TLS"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:99
-#, kde-format
-msgid "LEAP"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:99
-#, kde-format
-msgid "FAST"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:99
-#, kde-format
-msgid "Tunneled TLS"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:99
-#, kde-format
-msgid "Protected EAP"
-msgstr ""
-
-#: package/contents/ui/WirelessSecuritySetting.qml:151
-#, kde-format
-msgid "(Unchanged)"
-msgstr ""
-
 #: wifisettings.cpp:45
 #, kde-format
-msgid "Configure Wi-Fi networks"
+msgid "Wi-Fi networks"
 msgstr ""
 
 #: wifisettings.cpp:47

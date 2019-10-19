@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-10-01 01:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -41,17 +41,17 @@ msgctxt "Name"
 msgid "Information"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:11
+#: Modules/about-distro/src/about-distro.desktop:12
 msgctxt "X-KDE-Keywords"
-msgid "information,distribution,distro,system,kernel,qt,kde"
+msgid "about,info,information,distribution,distro,system,kernel,qt,kde"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:53
+#: Modules/about-distro/src/about-distro.desktop:41
 msgctxt "Name"
-msgid "About System"
+msgid "System Information"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:95
+#: Modules/about-distro/src/about-distro.desktop:68
 msgctxt "Comment"
 msgid "Information About This System"
 msgstr ""
@@ -77,17 +77,17 @@ msgctxt "Name"
 msgid "Energy Information"
 msgstr ""
 
-#: Modules/energy/kcm_energyinfo.desktop:50
+#: Modules/energy/kcm_energyinfo.desktop:51
 msgctxt "Comment"
 msgid "Energy Consumption Statistics"
 msgstr ""
 
-#: Modules/energy/kcm_energyinfo.desktop:91
+#: Modules/energy/kcm_energyinfo.desktop:93
 msgctxt "X-KDE-Keywords"
 msgid "Battery,Energy,Statistics,History,Power"
 msgstr ""
 
-#: Modules/energy/package/metadata.desktop:43
+#: Modules/energy/package/metadata.desktop:44
 msgctxt "Comment"
 msgid "Statistics about energy consumption"
 msgstr ""
@@ -118,12 +118,12 @@ msgctxt "Name"
 msgid "DMA-Channels"
 msgstr ""
 
-#: Modules/info/dma.desktop:106
+#: Modules/info/dma.desktop:105
 msgctxt "Comment"
 msgid "DMA information"
 msgstr ""
 
-#: Modules/info/dma.desktop:198
+#: Modules/info/dma.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "dma,DMA-Channels,System Information"
 msgstr ""
@@ -133,12 +133,12 @@ msgctxt "Name"
 msgid "Interrupts"
 msgstr ""
 
-#: Modules/info/interrupts.desktop:106
+#: Modules/info/interrupts.desktop:105
 msgctxt "Comment"
 msgid "Interrupt information"
 msgstr ""
 
-#: Modules/info/interrupts.desktop:198
+#: Modules/info/interrupts.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid "Interrupts,IRQ,System Information"
 msgstr ""
@@ -148,12 +148,12 @@ msgctxt "Name"
 msgid "IO-Ports"
 msgstr ""
 
-#: Modules/info/ioports.desktop:106
+#: Modules/info/ioports.desktop:105
 msgctxt "Comment"
 msgid "IO-port information"
 msgstr ""
 
-#: Modules/info/ioports.desktop:198
+#: Modules/info/ioports.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System Information"
 msgstr ""
@@ -183,7 +183,7 @@ msgctxt "Comment"
 msgid "X-Server information"
 msgstr ""
 
-#: Modules/info/xserver.desktop:197
+#: Modules/info/xserver.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid "X,X-Server,XServer,XFree86,Display,VideoCard,System Information"
 msgstr ""
@@ -198,7 +198,7 @@ msgctxt "Comment"
 msgid "Memory information"
 msgstr ""
 
-#: Modules/memory/kcm_memory.desktop:197
+#: Modules/memory/kcm_memory.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
@@ -257,7 +257,7 @@ msgctxt "Comment"
 msgid "Samba status monitor"
 msgstr ""
 
-#: Modules/samba/smbstatus.desktop:196
+#: Modules/samba/smbstatus.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "SMB,SAMBA,Windows network,LAN,System Information"
 msgstr ""
@@ -272,7 +272,7 @@ msgctxt "Comment"
 msgid "USB devices attached to this computer"
 msgstr ""
 
-#: Modules/usbview/kcmusb.desktop:187
+#: Modules/usbview/kcmusb.desktop:186
 msgctxt "X-KDE-Keywords"
 msgid "USB,devices,viewer,control"
 msgstr ""
@@ -297,12 +297,12 @@ msgctxt "Name"
 msgid "Info Center"
 msgstr ""
 
-#: org.kde.kinfocenter.desktop:49
+#: org.kde.kinfocenter.desktop:50
 msgctxt "GenericName"
 msgid "Info Center"
 msgstr ""
 
-#: org.kde.kinfocenter.desktop:139
+#: org.kde.kinfocenter.desktop:140
 msgctxt "Comment"
 msgid "Centralized and convenient overview of system information"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akregator_konqplugin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"POT-Creation-Date: 2019-07-28 02:23+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
@@ -50,12 +50,12 @@ msgid "Imported Feeds"
 msgstr "എടുത്ത ഫീഡുകള്‍"
 
 #: pluginutil.cpp:54
-#, kde-format
-msgid "Unable to contact Akregator via DBus"
+#, fuzzy, kde-format
+msgid "Unable to contact Akregator via D-Bus"
 msgstr "ഡിബസ് വഴി അക്രിഗേറ്ററെ ബന്ധപ്പെടാൻ കഴിഞ്ഞില്ല"
 
 #: pluginutil.cpp:55
-#, kde-format
+#, fuzzy, kde-format
 msgctxt "@title:window"
-msgid "DBus call failed"
+msgid "D-Bus call failed"
 msgstr "ഡിബസ് വിളി പരാജയപെട്ടു"

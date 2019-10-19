@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:39+0200\n"
+"POT-Creation-Date: 2019-09-17 02:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: plugin_katetextfilter.cpp:97
+#: plugin_katetextfilter.cpp:90
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -25,36 +25,36 @@ msgid ""
 "<nl />%2</code></pre>"
 msgstr ""
 
-#: plugin_katetextfilter.cpp:154
+#: plugin_katetextfilter.cpp:141
 #, kde-format
 msgid ""
 "You are not allowed to execute arbitrary external applications. If you want "
 "to be able to do this, contact your system administrator."
 msgstr ""
 
-#: plugin_katetextfilter.cpp:156
+#: plugin_katetextfilter.cpp:143
 #, kde-format
 msgid "Access Restrictions"
 msgstr ""
 
-#: plugin_katetextfilter.cpp:171 plugin_katetextfilter.cpp:258
+#: plugin_katetextfilter.cpp:159 plugin_katetextfilter.cpp:240
 #, kde-format
 msgid "Text Filter"
 msgstr ""
 
-#: plugin_katetextfilter.cpp:234
+#: plugin_katetextfilter.cpp:218
 #, kde-format
 msgid "Usage: textfilter COMMAND"
 msgstr ""
 
-#: plugin_katetextfilter.cpp:244
+#: plugin_katetextfilter.cpp:229
 #, kde-format
 msgid ""
 "<qt><p>Usage: <code>textfilter COMMAND</code></p><p>Replace the selection "
 "with the output of the specified shell command.</p></qt>"
 msgstr ""
 
-#: plugin_katetextfilter.cpp:263
+#: plugin_katetextfilter.cpp:245
 #, kde-format
 msgid "&Filter Through Command..."
 msgstr ""

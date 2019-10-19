@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2019-10-11 01:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,7 +16,7 @@ msgctxt "Name"
 msgid "Backtrace Browser"
 msgstr ""
 
-#: addons/backtracebrowser/katebacktracebrowserplugin.desktop:61
+#: addons/backtracebrowser/katebacktracebrowserplugin.desktop:62
 msgctxt "Comment"
 msgid "C/C++ Backtrace navigation tool view"
 msgstr ""
@@ -31,12 +31,22 @@ msgctxt "Comment"
 msgid "Close group of documents based on a common path or file extension"
 msgstr ""
 
+#: addons/externaltools/externaltoolsplugin.desktop:5
+msgctxt "Name"
+msgid "External Tools"
+msgstr ""
+
+#: addons/externaltools/externaltoolsplugin.desktop:45
+msgctxt "Comment"
+msgid "External Tools"
+msgstr ""
+
 #: addons/filebrowser/katefilebrowserplugin.desktop:5
 msgctxt "Name"
 msgid "File System Browser"
 msgstr ""
 
-#: addons/filebrowser/katefilebrowserplugin.desktop:32
+#: addons/filebrowser/katefilebrowserplugin.desktop:35
 msgctxt "Comment"
 msgid "File system browser tool view"
 msgstr ""
@@ -46,7 +56,7 @@ msgctxt "Name"
 msgid "Document Tree View"
 msgstr ""
 
-#: addons/filetree/katefiletreeplugin.desktop:31
+#: addons/filetree/katefiletreeplugin.desktop:35
 msgctxt "Comment"
 msgid "Displays the open documents in a file tree"
 msgstr ""
@@ -96,19 +106,19 @@ msgctxt "Name"
 msgid "Terminal Tool View"
 msgstr ""
 
-#: addons/konsole/katekonsoleplugin.desktop:31
+#: addons/konsole/katekonsoleplugin.desktop:34
 msgctxt "Comment"
 msgid "Have a terminal at the ready, using KDE's Konsole widget"
 msgstr ""
 
-#: addons/lumen/ktexteditor_lumen.desktop:6
+#: addons/lspclient/lspclientplugin.desktop:5
 msgctxt "Name"
-msgid "Lumen"
+msgid "LSP Client"
 msgstr ""
 
-#: addons/lumen/ktexteditor_lumen.desktop:49
+#: addons/lspclient/lspclientplugin.desktop:31
 msgctxt "Comment"
-msgid "Autocompletion Plugin for D, using the DCD autocompletion server"
+msgid "Language Server Protocol Client"
 msgstr ""
 
 #: addons/openheader/kateopenheaderplugin.desktop:5
@@ -141,19 +151,9 @@ msgctxt "Comment"
 msgid "Replicode (constructivist AI language and runtime)"
 msgstr ""
 
-#: addons/replicode/katereplicodeplugin.desktop:76
+#: addons/replicode/katereplicodeplugin.desktop:78
 msgctxt "GenericName"
 msgid "Replicode"
-msgstr ""
-
-#: addons/rustcompletion/kterustcompletionplugin.desktop:5
-msgctxt "Name"
-msgid "Rust code completion"
-msgstr ""
-
-#: addons/rustcompletion/kterustcompletionplugin.desktop:45
-msgctxt "Comment"
-msgid "Code completion for Rust source code"
 msgstr ""
 
 #: addons/search/katesearch.desktop:5
@@ -167,13 +167,13 @@ msgid "Search and replace in documents, folders, or projects"
 msgstr ""
 
 #: addons/sessionapplet/applet/metadata.desktop:2
-#: addons/sessionapplet/engine/plasma-dataengine-katesessions.desktop:2
+#: addons/sessionapplet/plasma-dataengine-katesessions.desktop:2
 msgctxt "Name"
 msgid "Kate Sessions"
 msgstr ""
 
 #: addons/sessionapplet/applet/metadata.desktop:45
-#: addons/sessionapplet/engine/plasma-dataengine-katesessions.desktop:45
+#: addons/sessionapplet/plasma-dataengine-katesessions.desktop:45
 msgctxt "Comment"
 msgid "Kate Session Launcher"
 msgstr ""
@@ -183,7 +183,7 @@ msgctxt "Name"
 msgid "Snippets Tool View"
 msgstr ""
 
-#: addons/snippets/katesnippetsplugin.desktop:32
+#: addons/snippets/katesnippetsplugin.desktop:35
 msgctxt "Comment"
 msgid "Manage your code snippets or download new ones"
 msgstr ""
@@ -203,7 +203,7 @@ msgctxt "Name"
 msgid "Document Switcher"
 msgstr ""
 
-#: addons/tabswitcher/tabswitcherplugin.desktop:32
+#: addons/tabswitcher/tabswitcherplugin.desktop:35
 msgctxt "Comment"
 msgid "Quick document switching with Alt+Tab behavior"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:39+0200\n"
+"POT-Creation-Date: 2019-09-29 02:28+0200\n"
 "PO-Revision-Date: 2008-11-29 23:46-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -72,22 +72,22 @@ msgstr "&സഹായം"
 msgid "Main Toolbar"
 msgstr "പ്രധാന ഉപകരണപ്പട്ട"
 
-#: kwrite.cpp:152
+#: kwrite.cpp:144
 #, fuzzy, kde-format
 msgid "Use this command to close the current document"
 msgstr "നിലവിലുള്ള രചന അടയ്ക്കാന്‍ ഇതുപയോഗിയ്ക്കുക"
 
-#: kwrite.cpp:157
+#: kwrite.cpp:148
 #, kde-format
 msgid "Use this command to create a new document"
 msgstr "ഈ കമാന്‍ഡ് ഉപയോഗിച്ചു് ഒരു പുതിയ രചന ഉണ്ടാക്കുക"
 
-#: kwrite.cpp:159
+#: kwrite.cpp:149
 #, kde-format
 msgid "Use this command to open an existing document for editing"
 msgstr "നിലവിലുള്ള ഒരു രചനയില്‍ മാറ്റം വരുത്തുന്നതിനായി ഈ കമാന്‍ഡ് ഉപയോഗിക്കുക"
 
-#: kwrite.cpp:163
+#: kwrite.cpp:153
 #, kde-format
 msgid ""
 "This lists files which you have opened recently, and allows you to easily "
@@ -96,416 +96,416 @@ msgstr ""
 "നിങ്ങള്‍ ഏറ്റവും ഒടുവില്‍ തുറന്ന ഫയലുകള്‍ ഇത് ലഭ്യമാക്കുന്നു. നിങ്ങള്‍ക്കു് ഇവ വീണ്ടും എളുപ്പത്തില്‍ ഇവിടെ "
 "നിന്നും തുറക്കുവാനും സാധിക്കുന്നു."
 
-#: kwrite.cpp:167
+#: kwrite.cpp:157
 #, kde-format
 msgid "&New Window"
 msgstr "&പുതിയ ജാലകം"
 
-#: kwrite.cpp:169
+#: kwrite.cpp:159
 #, kde-format
 msgid "Create another view containing the current document"
 msgstr "നിലവിലുള്ള രചന അടങ്ങുന്ന മറ്റൊരു കാഴ്ച ഉണ്ടാക്കുക"
 
-#: kwrite.cpp:172
+#: kwrite.cpp:161
 #, kde-format
 msgid "Close the current document view"
 msgstr "രചനയുടെ നിലവിലുള്ള കാഴ്ച അടയ്ക്കുക"
 
-#: kwrite.cpp:181
+#: kwrite.cpp:170
 #, kde-format
 msgid "Use this command to show or hide the view's statusbar"
 msgstr "കാഴ്ചയുടെ അവസ്ഥ കാണിയ്ക്കുന്ന ബാര്‍ കാണിക്കാനോ ഒളിപ്പിക്കാനോ ഈ ആജ്ഞ ഉപയോഗിക്കുക"
 
-#: kwrite.cpp:183
+#: kwrite.cpp:172
 #, fuzzy, kde-format
 msgid "Sho&w Path in Titlebar"
 msgstr "വഴി കാ&wണിക്കുക"
 
-#: kwrite.cpp:186
+#: kwrite.cpp:175
 #, kde-format
 msgid "Show the complete document path in the window caption"
 msgstr "ജാലകത്തിന്റെ തലക്കെട്ടില്‍ രചനയുടെ പൂര്‍ണ്ണ വഴി കാണിക്കുക"
 
-#: kwrite.cpp:189
+#: kwrite.cpp:178
 #, kde-format
 msgid "Configure the application's keyboard shortcut assignments."
 msgstr "പ്രയോഗത്തിന്റെ കീബോര്‍ഡ് കുറുക്കുവഴികള്‍ ക്രമികരിക്കുക."
 
-#: kwrite.cpp:193
+#: kwrite.cpp:181
 #, kde-format
 msgid "Configure which items should appear in the toolbar(s)."
 msgstr "ഉപകരണപട്ടയില്‍ ഏതെല്ലാം വസ്തുക്കള്‍ ആവശ്യമെന്നു് ക്രമികരിക്കുക."
 
-#: kwrite.cpp:196
+#: kwrite.cpp:184
 #, kde-format
 msgid "&About Editor Component"
 msgstr "എഡിറ്റര്‍ ഘടകത്തിനെ &സംബന്ധിച്ചു്"
 
-#: kwrite.cpp:251
+#: kwrite.cpp:239
 #, kde-format
 msgid "Open File"
 msgstr "ഫയല്‍ തുറക്കുക"
 
-#: kwrite.cpp:294
+#: kwrite.cpp:283
 #, kde-format
 msgid ""
 "This will hide the menu bar completely. You can show it again by typing %1."
 msgstr ""
 
-#: kwrite.cpp:296
+#: kwrite.cpp:286
 #, kde-format
 msgid "Hide menu bar"
 msgstr ""
 
-#: kwrite.cpp:507
+#: kwrite.cpp:450
 #, kde-format
 msgid " [read only]"
 msgstr ""
 
-#: kwrite.cpp:511
+#: kwrite.cpp:454
 #, kde-format
 msgid "Untitled"
 msgstr "തലക്കെട്ടില്ലാത്തത്"
 
-#: main.cpp:93
+#: main.cpp:94
 #, kde-format
 msgid "KWrite"
 msgstr "കെറൈറ്റ്"
 
-#: main.cpp:95
+#: main.cpp:94
 #, fuzzy, kde-format
 msgid "KWrite - Text Editor"
 msgstr "കെറൈറ്റ് - എഴുത്തിടം"
 
-#: main.cpp:96
+#: main.cpp:94
 #, fuzzy, kde-format
 msgid "(c) 2000-2019 The Kate Authors"
 msgstr "(c) 2000-2005 കേറ്റിന്റെ രചയിതാക്കള്‍"
 
-#: main.cpp:110
+#: main.cpp:109
 #, kde-format
 msgid "Christoph Cullmann"
 msgstr "ക്രിസ്റ്റോഫ് കള്‍മാന്‍"
 
-#: main.cpp:110
+#: main.cpp:109
 #, kde-format
 msgid "Maintainer"
 msgstr "പരിപാലകന്‍"
 
-#: main.cpp:111
+#: main.cpp:110
 #, kde-format
 msgid "Dominik Haumann"
 msgstr "ഡൊമിനിക് ഹൌമാന്‍"
 
-#: main.cpp:111 main.cpp:112 main.cpp:113 main.cpp:114 main.cpp:119
+#: main.cpp:110 main.cpp:111 main.cpp:112 main.cpp:113 main.cpp:118
 #, kde-format
 msgid "Core Developer"
 msgstr "പ്രധാന രചയിതാവു്"
 
-#: main.cpp:112
+#: main.cpp:111
 #, kde-format
 msgid "Anders Lund"
 msgstr "ആന്‍ഡേര്‍സ് ലന്‍ഡ്"
 
-#: main.cpp:113
+#: main.cpp:112
 #, kde-format
 msgid "Joseph Wenninger"
 msgstr "ജോസഫ് വെന്നിങര്‍"
 
-#: main.cpp:114
+#: main.cpp:113
 #, kde-format
 msgid "Hamish Rodda"
 msgstr "ഹാമിഷ് റോഡാ"
 
-#: main.cpp:115
+#: main.cpp:114
 #, kde-format
 msgid "Waldo Bastian"
 msgstr "വാള്‍ഡോ ബാസ്റ്റ്യന്‍"
 
-#: main.cpp:115
+#: main.cpp:114
 #, kde-format
 msgid "The cool buffersystem"
 msgstr "ആകര്‍ഷകമായ ബഫര്‍സിസ്റ്റം"
 
-#: main.cpp:116
+#: main.cpp:115
 #, kde-format
 msgid "Charles Samuels"
 msgstr "ചാള്‍സ് സാമുവല്‍സ്"
 
-#: main.cpp:116
+#: main.cpp:115
 #, kde-format
 msgid "The Editing Commands"
 msgstr "മാറ്റം വരുത്തുന്നതിനുള്ള കമാന്‍ഡുകള്‍"
 
-#: main.cpp:117
+#: main.cpp:116
 #, kde-format
 msgid "Matt Newell"
 msgstr "മാറ്റ് ന്യൂവല്‍"
 
-#: main.cpp:117
+#: main.cpp:116
 #, kde-format
 msgctxt ""
 "Credit text for someone that did testing and some other similar things"
 msgid "Testing, ..."
 msgstr "പരീക്ഷിക്കുന്നു, ..."
 
-#: main.cpp:118
+#: main.cpp:117
 #, kde-format
 msgid "Michael Bartl"
 msgstr "മൈക്കള്‍ ബാര്‍ട്ടില്‍"
 
-#: main.cpp:118
+#: main.cpp:117
 #, kde-format
 msgid "Former Core Developer"
 msgstr "മുന്‍കാല പ്രധാന രചയിതാവു്"
 
-#: main.cpp:119
+#: main.cpp:118
 #, kde-format
 msgid "Michael McCallum"
 msgstr "മൈക്കള്‍ മാക്കലം"
 
-#: main.cpp:120
+#: main.cpp:119
 #, kde-format
 msgid "Jochen Wilhemly"
 msgstr "ജോച്ചന്‍ വില്‍ഹെംലി"
 
-#: main.cpp:120
+#: main.cpp:119
 #, kde-format
 msgid "KWrite Author"
 msgstr "കെറൈറ്റ് രചയിതാവ്"
 
-#: main.cpp:121
+#: main.cpp:120
 #, kde-format
 msgid "Michael Koch"
 msgstr "മൌക്കിള്‍ കോച്ച്"
 
-#: main.cpp:121
+#: main.cpp:120
 #, kde-format
 msgid "KWrite port to KParts"
 msgstr "കെറൈറ്റിന്റെ കെപാര്‍ട്സിലേയ്ക്കുള്ള പോര്‍ട്ട്"
 
-#: main.cpp:122
+#: main.cpp:121
 #, kde-format
 msgid "Christian Gebauer"
 msgstr "ക്രിസ്റ്റ്യന്‍ ഗെബോര്‍"
 
-#: main.cpp:123
+#: main.cpp:122
 #, kde-format
 msgid "Simon Hausmann"
 msgstr "സിമണ്‍ ഹോസ്മാന്‍"
 
-#: main.cpp:124
+#: main.cpp:123
 #, kde-format
 msgid "Glen Parker"
 msgstr "ഗ്ലെന്‍ പാര്‍ക്കര്‍"
 
-#: main.cpp:124
+#: main.cpp:123
 #, kde-format
 msgid "KWrite Undo History, Kspell integration"
 msgstr "കെറൈറ്റിലെ വേണ്ടെന്നു് വയ്ക്കലിന്റെ ചരിത്രം, കെസ്പെല്‍ കൂട്ടിച്ചേര്‍ക്കല്‍"
 
-#: main.cpp:125
+#: main.cpp:124
 #, kde-format
 msgid "Scott Manson"
 msgstr "സ്കോട്ട് മാന്‍സണ്‍"
 
-#: main.cpp:125
+#: main.cpp:124
 #, kde-format
 msgid "KWrite XML Syntax highlighting support"
 msgstr "കെറൈറ്റില്‍ എക്സ്എംഎല്‍ സിന്റാക്സ് എടുത്തു് കാണിയ്ക്കുന്നതിനുള്ള പിന്തുണ"
 
-#: main.cpp:126
+#: main.cpp:125
 #, kde-format
 msgid "John Firebaugh"
 msgstr "ജോണ്‍ ഫയര്‍ബോഗ്"
 
-#: main.cpp:126
+#: main.cpp:125
 #, kde-format
 msgid "Patches and more"
 msgstr "പാച്ചുകളും വേറെയും"
 
-#: main.cpp:127
+#: main.cpp:126
 #, kde-format
 msgid "Gerald Senarclens de Grancy"
 msgstr ""
 
-#: main.cpp:127
+#: main.cpp:126
 #, kde-format
 msgid "QA and Scripting"
 msgstr ""
 
-#: main.cpp:129
+#: main.cpp:128
 #, kde-format
 msgid "Matteo Merli"
 msgstr "മാറ്റിയോ മെര്‍ലി"
 
-#: main.cpp:129
+#: main.cpp:128
 #, kde-format
 msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
 msgstr "ആര്‍പിഎം സ്പെക്-ഫയലുകള്‍, പേള്‍, ഡിഫ് എന്നിവയ്ക്കും മറ്റു പലതിനുമുള്ള എടുത്തുകാണിയ്ക്കല്‍"
 
-#: main.cpp:130
+#: main.cpp:129
 #, kde-format
 msgid "Rocky Scaletta"
 msgstr "റോക്കി സ്കലേറ്റാ"
 
-#: main.cpp:130
+#: main.cpp:129
 #, kde-format
 msgid "Highlighting for VHDL"
 msgstr "വിഎച്ച്ഡിഎല്‍ എടുത്തുകാണിയ്ക്കല്‍"
 
-#: main.cpp:131
+#: main.cpp:130
 #, kde-format
 msgid "Yury Lebedev"
 msgstr "യൂറി ലെബെഡേവ്"
 
-#: main.cpp:131
+#: main.cpp:130
 #, kde-format
 msgid "Highlighting for SQL"
 msgstr "എസ്‌ക്യൂഎല്‍ എടുത്തുകാണിയ്ക്കല്‍"
 
-#: main.cpp:132
+#: main.cpp:131
 #, kde-format
 msgid "Chris Ross"
 msgstr "ക്രിസ് റോസ്"
 
-#: main.cpp:132
+#: main.cpp:131
 #, kde-format
 msgid "Highlighting for Ferite"
 msgstr "ഫെറൈറ്റ് എടുത്തുകാണിയ്ക്കല്‍"
 
-#: main.cpp:133
+#: main.cpp:132
 #, kde-format
 msgid "Nick Roux"
 msgstr "നിക്ക് റോക്സ്"
 
-#: main.cpp:133
+#: main.cpp:132
 #, kde-format
 msgid "Highlighting for ILERPG"
 msgstr "ILERPG എടുത്തുകാണിയ്ക്കല്‍"
 
-#: main.cpp:134
+#: main.cpp:133
 #, kde-format
 msgid "Carsten Niehaus"
 msgstr "കാര്‍സ്റ്റെന്‍ നീഹോസ്"
 
-#: main.cpp:134
+#: main.cpp:133
 #, kde-format
 msgid "Highlighting for LaTeX"
 msgstr "ലാടെക്ക് എടുത്തുകാണിയ്ക്കല്‍"
 
-#: main.cpp:135
+#: main.cpp:134
 #, kde-format
 msgid "Per Wigren"
 msgstr "പെര്‍ വിഗ്രെന്‍"
 
-#: main.cpp:135
+#: main.cpp:134
 #, kde-format
 msgid "Highlighting for Makefiles, Python"
 msgstr "മേക്ക്ഫയല്‍, പൈത്തണ്‍ എന്നിവയുടെ എടുത്തുകാണിയ്ക്കല്‍"
 
-#: main.cpp:136
+#: main.cpp:135
 #, kde-format
 msgid "Jan Fritz"
 msgstr "ജാന്‍ ഫ്രിറ്റ്സ്"
 
-#: main.cpp:136
+#: main.cpp:135
 #, kde-format
 msgid "Highlighting for Python"
 msgstr "പൈത്തണ്‍ എടുത്തുകാണിയ്ക്കല്‍"
 
-#: main.cpp:137
+#: main.cpp:136
 #, kde-format
 msgid "Daniel Naber"
 msgstr "ഡാനിയല്‍ നാബെര്‍"
 
-#: main.cpp:138
+#: main.cpp:137
 #, kde-format
 msgid "Roland Pabel"
 msgstr "റോളന്‍ഡ് പാബെല്‍"
 
-#: main.cpp:138
+#: main.cpp:137
 #, kde-format
 msgid "Highlighting for Scheme"
 msgstr "സ്കീം എടുത്തുകാണിയ്ക്കല്‍"
 
-#: main.cpp:139
+#: main.cpp:138
 #, kde-format
 msgid "Cristi Dumitrescu"
 msgstr "ക്രിസ്റ്റി ഡ്യുമിട്രെസ്ക്യൂ"
 
-#: main.cpp:139
+#: main.cpp:138
 #, kde-format
 msgid "PHP Keyword/Datatype list"
 msgstr "പിഎച്ച്പിയിലെ ചുരുക്കവാക്ക്/ഡേറ്റാടൈപ് പട്ടിക"
 
-#: main.cpp:140
+#: main.cpp:139
 #, kde-format
 msgid "Carsten Pfeiffer"
 msgstr "കാര്‍സ്റ്റെന്‍ ഫെയിഫര്‍"
 
-#: main.cpp:140
+#: main.cpp:139
 #, kde-format
 msgctxt "Credit text for someone that helped a lot"
 msgid "Very nice help"
 msgstr "വളരെ നല്ല സഹായം"
 
-#: main.cpp:141
+#: main.cpp:140
 #, kde-format
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr "ഞാന്‍ ഉള്‍പ്പെടുത്തുവാന്‍ മറന്ന സംഭാവന ചെയ്ത എല്ലാവരും"
 
-#: main.cpp:165
+#: main.cpp:164
 #, fuzzy, kde-format
 msgid "Set encoding for the file to open."
 msgstr "ഫയല്‍ തുറക്കുന്നതിനായി എന്‍കോഡിങ് സജ്ജമാക്കുക"
 
-#: main.cpp:165
+#: main.cpp:164
 #, kde-format
 msgid "encoding"
 msgstr ""
 
-#: main.cpp:169
+#: main.cpp:168
 #, fuzzy, kde-format
 msgid "Navigate to this line."
 msgstr "ഈ വരിയിലേക്കു് പോകുക"
 
-#: main.cpp:169
+#: main.cpp:168
 #, kde-format
 msgid "line"
 msgstr ""
 
-#: main.cpp:173
+#: main.cpp:172
 #, fuzzy, kde-format
 msgid "Navigate to this column."
 msgstr "ഈ നിരയിലേക്കു് പോകുക"
 
-#: main.cpp:173
+#: main.cpp:172
 #, kde-format
 msgid "column"
 msgstr ""
 
-#: main.cpp:177
+#: main.cpp:176
 #, fuzzy, kde-format
 msgid "Read the contents of stdin."
 msgstr "stdin-ന്റെ ഉള്ളടക്കം വായിക്കുക"
 
-#: main.cpp:181
+#: main.cpp:180
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 
-#: main.cpp:185
+#: main.cpp:184
 #, fuzzy, kde-format
 msgid "Documents to open."
 msgstr "തുറക്കുന്നതിനുള്ള രചന"
 
-#: main.cpp:185
+#: main.cpp:184
 #, kde-format
 msgid "[urls...]"
 msgstr ""
 
-#: main.cpp:287
+#: main.cpp:288
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."

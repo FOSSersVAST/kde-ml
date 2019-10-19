@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: okular\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:08+0200\n"
+"POT-Creation-Date: 2019-08-10 02:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -34,7 +34,7 @@ msgid "Enhance thin lines:"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_EnhanceThinLines)
-#: conf/pdfsettingswidget.ui:23 generator_pdf.cpp:829
+#: conf/pdfsettingswidget.ui:23 generator_pdf.cpp:834
 #, kde-format
 msgid "No"
 msgstr ""
@@ -116,48 +116,48 @@ msgstr ""
 msgid "Scale mode:"
 msgstr ""
 
-#: generator_pdf.cpp:827
+#: generator_pdf.cpp:832
 #, kde-format
 msgctxt "PDF v. <version>"
 msgid "PDF v. %1.%2"
 msgstr ""
 
-#: generator_pdf.cpp:827
+#: generator_pdf.cpp:832
 #, kde-format
 msgid "Format"
 msgstr ""
 
-#: generator_pdf.cpp:828
+#: generator_pdf.cpp:833
 #, kde-format
 msgid "Encrypted"
 msgstr ""
 
-#: generator_pdf.cpp:828
+#: generator_pdf.cpp:833
 #, kde-format
 msgid "Unencrypted"
 msgstr ""
 
-#: generator_pdf.cpp:828
+#: generator_pdf.cpp:833
 #, kde-format
 msgid "Security"
 msgstr ""
 
-#: generator_pdf.cpp:829
+#: generator_pdf.cpp:834
 #, kde-format
 msgid "Yes"
 msgstr ""
 
-#: generator_pdf.cpp:829
+#: generator_pdf.cpp:834
 #, kde-format
 msgid "Optimized"
 msgstr ""
 
-#: generator_pdf.cpp:1567
+#: generator_pdf.cpp:1575
 #, kde-format
 msgid "Using Poppler %1"
 msgstr ""
 
-#: generator_pdf.cpp:1569
+#: generator_pdf.cpp:1577
 #, kde-format
 msgid ""
 "Using Poppler %1\n"
@@ -165,12 +165,12 @@ msgid ""
 "Built against Poppler %2"
 msgstr ""
 
-#: generator_pdf.cpp:1619
+#: generator_pdf.cpp:1627
 #, kde-format
 msgid "PDF"
 msgstr ""
 
-#: generator_pdf.cpp:1619
+#: generator_pdf.cpp:1627
 #, kde-format
 msgid "PDF Backend Configuration"
 msgstr ""

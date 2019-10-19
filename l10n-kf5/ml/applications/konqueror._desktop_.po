@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-23 01:29+0000\n"
+"POT-Creation-Date: 2019-09-30 01:22+0000\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -49,21 +49,15 @@ msgctxt "Name"
 msgid "Bookmark Toolbar"
 msgstr "പണിയായുധനിര"
 
-#: org.kde.konqueror.desktop:97
+#: org.kde.konqueror.desktop:96
+msgctxt "GenericName"
+msgid "Web Browser, File Manager and Viewer"
+msgstr ""
+
+#: org.kde.konqueror.desktop:123
 msgctxt "Comment"
 msgid "KDE File Manager & Web Browser"
 msgstr "കെഡിഇയിലെ ഫയലുകളുടെ നടത്തിപ്പുകാരനും വെബ് ബ്രൌസറും"
-
-#: plugins/adblock/plugin_adblock.desktop:2
-#, fuzzy
-msgctxt "Name"
-msgid "Adblock"
-msgstr "ഘടികാരം"
-
-#: plugins/adblock/plugin_adblock.desktop:64
-msgctxt "Comment"
-msgid "Show all blockable html elements"
-msgstr ""
 
 #: plugins/akregator/akregator_konqfeedicon.desktop:2
 #, fuzzy
@@ -117,17 +111,6 @@ msgstr "തട്ടുകളുടെ നിരീക്ഷകന്‍"
 #: plugins/dirfilter/dirfilterplugin.desktop:73
 msgctxt "Comment"
 msgid "Filter directory view using an attribute filter"
-msgstr ""
-
-#: plugins/domtreeviewer/plugin_domtreeviewer.desktop:12
-#, fuzzy
-msgctxt "Name"
-msgid "DOM Tree Viewer"
-msgstr "ചിത്രദര്‍ശിനി"
-
-#: plugins/domtreeviewer/plugin_domtreeviewer.desktop:74
-msgctxt "Comment"
-msgid "View the DOM tree of the current page"
 msgstr ""
 
 #: plugins/fsview/fsview.desktop:9
@@ -225,39 +208,6 @@ msgctxt "Comment"
 msgid "An easy way to generate an HTML image gallery"
 msgstr ""
 
-#: plugins/microformat/mf_konqmficon.desktop:2
-#, fuzzy
-msgctxt "Name"
-msgid "Microformat Icon"
-msgstr "ഡിഎംഎ വിവരം"
-
-#: plugins/microformat/mf_konqmficon.desktop:64
-msgctxt "Comment"
-msgid "Displays an icon in the status bar if the page contains a microformat"
-msgstr ""
-
-#: plugins/minitools/minitoolsplugin.desktop:13
-#, fuzzy
-msgctxt "Name"
-msgid "Bookmarklets"
-msgstr "ഓര്‍മ്മക്കുറിപ്പുകള്‍"
-
-#: plugins/minitools/minitoolsplugin.desktop:73
-msgctxt "Comment"
-msgid "Enables the use of bookmarklets"
-msgstr ""
-
-#: plugins/rellinks/plugin_rellinks.desktop:13
-#, fuzzy
-msgctxt "Name"
-msgid "Document Relations"
-msgstr "കെഡിഇ എപിഐ വിവരണം"
-
-#: plugins/rellinks/plugin_rellinks.desktop:75
-msgctxt "Comment"
-msgid "Displays the document relations of a document"
-msgstr ""
-
 #: plugins/searchbar/searchbar.desktop:14
 #, fuzzy
 msgctxt "Name"
@@ -299,33 +249,6 @@ msgstr "യൂസര്‍ഏജന്റ് വാക്യങ്ങള്‍"
 msgctxt "Comment"
 msgid "Allows the detected UserAgent to be modified"
 msgstr ""
-
-#: plugins/validators/plugin_validators.desktop:12
-msgctxt "Name"
-msgid "Website Validators"
-msgstr ""
-
-#: plugins/validators/plugin_validators.desktop:73
-msgctxt "Comment"
-msgid "CSS and HTML validation tools"
-msgstr ""
-
-#: plugins/webarchiver/plugin_webarchiver.desktop:12
-#, fuzzy
-msgctxt "Name"
-msgid "Web Archiver"
-msgstr "എഫ്‌ടിപി ശേഖരങ്ങള്‍"
-
-#: plugins/webarchiver/plugin_webarchiver.desktop:75
-msgctxt "Comment"
-msgid "Creates archives of websites"
-msgstr ""
-
-#: plugins/webarchiver/webarchivethumbnail.desktop:3
-#, fuzzy
-msgctxt "Name"
-msgid "Web Archives"
-msgstr "എഫ്‌ടിപി ശേഖരങ്ങള്‍"
 
 #: settings/bookmarks/bookmarks.desktop:12
 #: sidebar/default_entries/bookmarks.desktop:5
@@ -670,6 +593,41 @@ msgstr ""
 msgctxt "Name"
 msgid "WebEngine"
 msgstr "തെരച്ചില്‍ എഞ്ചിന്‍"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Bookmarklets"
+#~ msgstr "ഓര്‍മ്മക്കുറിപ്പുകള്‍"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Document Relations"
+#~ msgstr "കെഡിഇ എപിഐ വിവരണം"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Web Archiver"
+#~ msgstr "എഫ്‌ടിപി ശേഖരങ്ങള്‍"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Web Archives"
+#~ msgstr "എഫ്‌ടിപി ശേഖരങ്ങള്‍"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Adblock"
+#~ msgstr "ഘടികാരം"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Microformat Icon"
+#~ msgstr "ഡിഎംഎ വിവരം"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "DOM Tree Viewer"
+#~ msgstr "ചിത്രദര്‍ശിനി"
 
 #~ msgctxt "Name"
 #~ msgid "Change Password"

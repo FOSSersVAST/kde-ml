@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-08-23 03:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -832,1843 +832,1861 @@ msgctxt "weather condition"
 msgid "Heavy Snowshower"
 msgstr ""
 
-#: envcan_i18n.dat:32
+#: envcan_i18n.dat:32 noaa_i18n.dat:225
 #, kde-format
 msgctxt "weather condition"
-msgid "Heavy Thunderstorm with Hail"
+msgid "Thunderstorm"
 msgstr ""
 
 #: envcan_i18n.dat:33
 #, kde-format
 msgctxt "weather condition"
+msgid "Heavy Thunderstorm with Hail"
+msgstr ""
+
+#: envcan_i18n.dat:34
+#, kde-format
+msgctxt "weather condition"
 msgid "Heavy Thunderstorm with Rain"
 msgstr ""
 
-#: envcan_i18n.dat:34 noaa_i18n.dat:101
+#: envcan_i18n.dat:35 noaa_i18n.dat:101
 #, kde-format
 msgctxt "weather condition"
 msgid "Ice Crystals"
 msgstr ""
 
-#: envcan_i18n.dat:35 noaa_i18n.dat:102
+#: envcan_i18n.dat:36 noaa_i18n.dat:102
 #, kde-format
 msgctxt "weather condition"
 msgid "Ice Pellets"
 msgstr ""
 
-#: envcan_i18n.dat:36
+#: envcan_i18n.dat:37
 #, kde-format
 msgctxt "weather condition"
 msgid "Increasing Cloud"
 msgstr ""
 
-#: envcan_i18n.dat:37 noaa_i18n.dat:106
+#: envcan_i18n.dat:38 noaa_i18n.dat:106
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:38 noaa_i18n.dat:111
+#: envcan_i18n.dat:39 noaa_i18n.dat:111
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Freezing Drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:39 noaa_i18n.dat:115
+#: envcan_i18n.dat:40 noaa_i18n.dat:115
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Freezing Rain"
 msgstr ""
 
-#: envcan_i18n.dat:40 noaa_i18n.dat:121
+#: envcan_i18n.dat:41 noaa_i18n.dat:121
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Rain"
 msgstr ""
 
-#: envcan_i18n.dat:41
+#: envcan_i18n.dat:42
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Rainshower"
 msgstr ""
 
-#: envcan_i18n.dat:42 noaa_i18n.dat:137
+#: envcan_i18n.dat:43 noaa_i18n.dat:137
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Snow"
 msgstr ""
 
-#: envcan_i18n.dat:43
+#: envcan_i18n.dat:44
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Snow Pellets"
 msgstr ""
 
-#: envcan_i18n.dat:44
+#: envcan_i18n.dat:45
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Snowshower"
 msgstr ""
 
-#: envcan_i18n.dat:45
+#: envcan_i18n.dat:46
 #, kde-format
 msgctxt "weather condition"
 msgid "Lightning Visible"
 msgstr ""
 
-#: envcan_i18n.dat:46
+#: envcan_i18n.dat:47
 #, kde-format
 msgctxt "weather condition"
 msgid "Mainly Clear"
 msgstr ""
 
-#: envcan_i18n.dat:47
+#: envcan_i18n.dat:48
 #, kde-format
 msgctxt "weather condition"
 msgid "Mainly Sunny"
 msgstr ""
 
-#: envcan_i18n.dat:48
+#: envcan_i18n.dat:49
 #, kde-format
 msgctxt "weather condition"
 msgid "Mist"
 msgstr ""
 
-#: envcan_i18n.dat:49
+#: envcan_i18n.dat:50
 #, kde-format
 msgctxt "weather condition"
 msgid "Mixed Rain and Drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:50
+#: envcan_i18n.dat:51
 #, kde-format
 msgctxt "weather condition"
 msgid "Mixed Rain and Snow Shower"
 msgstr ""
 
-#: envcan_i18n.dat:51 noaa_i18n.dat:164
+#: envcan_i18n.dat:52 noaa_i18n.dat:164
 #, kde-format
 msgctxt "weather condition"
 msgid "Mostly Cloudy"
 msgstr ""
 
-#: envcan_i18n.dat:52
+#: envcan_i18n.dat:53
 #, kde-format
 msgctxt "weather condition"
 msgid "Not Reported"
 msgstr ""
 
-#: envcan_i18n.dat:53 noaa_i18n.dat:174
+#: envcan_i18n.dat:54 noaa_i18n.dat:174
 #, kde-format
 msgctxt "weather condition"
 msgid "Partly Cloudy"
 msgstr ""
 
-#: envcan_i18n.dat:54
-#, kde-format
-msgctxt "weather condition"
-msgid "Rain"
-msgstr ""
-
 #: envcan_i18n.dat:55
 #, kde-format
 msgctxt "weather condition"
-msgid "Rain and Snow"
+msgid "Rain"
 msgstr ""
 
 #: envcan_i18n.dat:56
 #, kde-format
 msgctxt "weather condition"
-msgid "Rainshower"
+msgid "Rain and Snow"
 msgstr ""
 
 #: envcan_i18n.dat:57
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Drizzle"
+msgid "Rainshower"
 msgstr ""
 
 #: envcan_i18n.dat:58
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Dust or Sand Storm"
+msgid "Recent Drizzle"
 msgstr ""
 
 #: envcan_i18n.dat:59
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Fog"
+msgid "Recent Dust or Sand Storm"
 msgstr ""
 
 #: envcan_i18n.dat:60
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Freezing Precipitation"
+msgid "Recent Fog"
 msgstr ""
 
 #: envcan_i18n.dat:61
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Hail"
+msgid "Recent Freezing Precipitation"
 msgstr ""
 
 #: envcan_i18n.dat:62
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Rain"
+msgid "Recent Hail"
 msgstr ""
 
 #: envcan_i18n.dat:63
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Rain and Snow"
+msgid "Recent Rain"
 msgstr ""
 
 #: envcan_i18n.dat:64
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Rainshower"
+msgid "Recent Rain and Snow"
 msgstr ""
 
 #: envcan_i18n.dat:65
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Snow"
+msgid "Recent Rainshower"
 msgstr ""
 
 #: envcan_i18n.dat:66
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Snowshower"
+msgid "Recent Snow"
 msgstr ""
 
 #: envcan_i18n.dat:67
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Thunderstorm"
+msgid "Recent Snowshower"
 msgstr ""
 
 #: envcan_i18n.dat:68
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Thunderstorm with Hail"
+msgid "Recent Thunderstorm"
 msgstr ""
 
 #: envcan_i18n.dat:69
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Thunderstorm with Heavy Hail"
+msgid "Recent Thunderstorm with Hail"
 msgstr ""
 
 #: envcan_i18n.dat:70
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Thunderstorm with Heavy Rain"
+msgid "Recent Thunderstorm with Heavy Hail"
 msgstr ""
 
 #: envcan_i18n.dat:71
 #, kde-format
 msgctxt "weather condition"
-msgid "Recent Thunderstorm with Rain"
+msgid "Recent Thunderstorm with Heavy Rain"
 msgstr ""
 
 #: envcan_i18n.dat:72
 #, kde-format
 msgctxt "weather condition"
-msgid "Sand or Dust Storm"
+msgid "Recent Thunderstorm with Rain"
 msgstr ""
 
 #: envcan_i18n.dat:73
 #, kde-format
 msgctxt "weather condition"
+msgid "Sand or Dust Storm"
+msgstr ""
+
+#: envcan_i18n.dat:74
+#, kde-format
+msgctxt "weather condition"
 msgid "Severe Sand or Dust Storm"
 msgstr ""
 
-#: envcan_i18n.dat:74 noaa_i18n.dat:194
+#: envcan_i18n.dat:75 noaa_i18n.dat:194
 #, kde-format
 msgctxt "weather condition"
 msgid "Shallow Fog"
 msgstr ""
 
-#: envcan_i18n.dat:75 noaa_i18n.dat:208
+#: envcan_i18n.dat:76 noaa_i18n.dat:208
 #, kde-format
 msgctxt "weather condition"
 msgid "Smoke"
 msgstr ""
 
-#: envcan_i18n.dat:76 noaa_i18n.dat:209
+#: envcan_i18n.dat:77 noaa_i18n.dat:209
 #, kde-format
 msgctxt "weather condition"
 msgid "Snow"
 msgstr ""
 
-#: envcan_i18n.dat:77
+#: envcan_i18n.dat:78
 #, kde-format
 msgctxt "weather condition"
 msgid "Snow Crystals"
 msgstr ""
 
-#: envcan_i18n.dat:78 noaa_i18n.dat:216
+#: envcan_i18n.dat:79 noaa_i18n.dat:216
 #, kde-format
 msgctxt "weather condition"
 msgid "Snow Grains"
 msgstr ""
 
-#: envcan_i18n.dat:79
+#: envcan_i18n.dat:80
 #, kde-format
 msgctxt "weather condition"
 msgid "Squalls"
 msgstr ""
 
-#: envcan_i18n.dat:80
-#, kde-format
-msgctxt "weather condition"
-msgid "Sunny"
-msgstr ""
-
 #: envcan_i18n.dat:81
 #, kde-format
 msgctxt "weather condition"
-msgid "Thunderstorm with Hail"
+msgid "Sunny"
 msgstr ""
 
 #: envcan_i18n.dat:82
 #, kde-format
 msgctxt "weather condition"
-msgid "Thunderstorm with Rain"
+msgid "Thunderstorm with Hail"
 msgstr ""
 
 #: envcan_i18n.dat:83
 #, kde-format
 msgctxt "weather condition"
-msgid "Thunderstorm with Sand or Dust Storm"
+msgid "Thunderstorm with Rain"
 msgstr ""
 
 #: envcan_i18n.dat:84
 #, kde-format
 msgctxt "weather condition"
-msgid "Thunderstorm without Precipitation"
+msgid "Thunderstorm with light rainshowers"
 msgstr ""
 
 #: envcan_i18n.dat:85
 #, kde-format
 msgctxt "weather condition"
-msgid "Tornado"
+msgid "Thunderstorm with heavy rainshowers"
 msgstr ""
 
 #: envcan_i18n.dat:86
 #, kde-format
-msgctxt "weather forecast"
-msgid "A few clouds"
+msgctxt "weather condition"
+msgid "Thunderstorm with Sand or Dust Storm"
 msgstr ""
 
 #: envcan_i18n.dat:87
 #, kde-format
-msgctxt "weather forecast"
-msgid "A few flurries"
+msgctxt "weather condition"
+msgid "Thunderstorm without Precipitation"
 msgstr ""
 
 #: envcan_i18n.dat:88
 #, kde-format
-msgctxt "weather forecast"
-msgid "A few flurries mixed with ice pellets"
+msgctxt "weather condition"
+msgid "Tornado"
 msgstr ""
 
 #: envcan_i18n.dat:89
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few flurries or rain showers"
+msgid "A few clouds"
 msgstr ""
 
 #: envcan_i18n.dat:90
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few flurries or thundershowers"
+msgid "A few flurries"
 msgstr ""
 
 #: envcan_i18n.dat:91
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few rain showers or flurries"
+msgid "A few flurries mixed with ice pellets"
 msgstr ""
 
 #: envcan_i18n.dat:92
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few rain showers or wet flurries"
+msgid "A few flurries or rain showers"
 msgstr ""
 
 #: envcan_i18n.dat:93
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few showers"
+msgid "A few flurries or thundershowers"
 msgstr ""
 
 #: envcan_i18n.dat:94
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few showers or drizzle"
+msgid "A few rain showers or flurries"
 msgstr ""
 
 #: envcan_i18n.dat:95
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few showers or thundershowers"
+msgid "A few rain showers or wet flurries"
 msgstr ""
 
 #: envcan_i18n.dat:96
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few showers or thunderstorms"
+msgid "A few showers"
 msgstr ""
 
 #: envcan_i18n.dat:97
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few thundershowers"
+msgid "A few showers or drizzle"
 msgstr ""
 
 #: envcan_i18n.dat:98
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few thunderstorms"
+msgid "A few showers or thundershowers"
 msgstr ""
 
 #: envcan_i18n.dat:99
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few wet flurries"
+msgid "A few showers or thunderstorms"
 msgstr ""
 
 #: envcan_i18n.dat:100
 #, kde-format
 msgctxt "weather forecast"
-msgid "A few wet flurries or rain showers"
+msgid "A few thundershowers"
 msgstr ""
 
 #: envcan_i18n.dat:101
 #, kde-format
 msgctxt "weather forecast"
-msgid "A mix of sun and cloud"
+msgid "A few thunderstorms"
 msgstr ""
 
 #: envcan_i18n.dat:102
 #, kde-format
 msgctxt "weather forecast"
-msgid "Blizzard"
+msgid "A few wet flurries"
 msgstr ""
 
 #: envcan_i18n.dat:103
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of drizzle"
+msgid "A few wet flurries or rain showers"
 msgstr ""
 
 #: envcan_i18n.dat:104
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of drizzle mixed with freezing drizzle"
+msgid "A mix of sun and cloud"
 msgstr ""
 
 #: envcan_i18n.dat:105
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of drizzle mixed with rain"
+msgid "Blizzard"
 msgstr ""
 
 #: envcan_i18n.dat:106
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of drizzle or rain"
+msgid "Chance of drizzle"
 msgstr ""
 
 #: envcan_i18n.dat:107
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of flurries"
+msgid "Chance of drizzle mixed with freezing drizzle"
 msgstr ""
 
 #: envcan_i18n.dat:108
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of flurries at times heavy"
+msgid "Chance of drizzle mixed with rain"
 msgstr ""
 
 #: envcan_i18n.dat:109
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of flurries mixed with ice pellets"
+msgid "Chance of drizzle or rain"
 msgstr ""
 
 #: envcan_i18n.dat:110
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of flurries or ice pellets"
+msgid "Chance of flurries"
 msgstr ""
 
 #: envcan_i18n.dat:111
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of flurries or rain showers"
+msgid "Chance of flurries at times heavy"
 msgstr ""
 
 #: envcan_i18n.dat:112
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of flurries or thundershowers"
+msgid "Chance of flurries mixed with ice pellets"
 msgstr ""
 
 #: envcan_i18n.dat:113
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of freezing drizzle"
+msgid "Chance of flurries or ice pellets"
 msgstr ""
 
 #: envcan_i18n.dat:114
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of freezing rain"
+msgid "Chance of flurries or rain showers"
 msgstr ""
 
 #: envcan_i18n.dat:115
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of freezing rain mixed with snow"
+msgid "Chance of flurries or thundershowers"
 msgstr ""
 
 #: envcan_i18n.dat:116
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of freezing rain or rain"
+msgid "Chance of freezing drizzle"
 msgstr ""
 
 #: envcan_i18n.dat:117
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of freezing rain or snow"
+msgid "Chance of freezing rain"
 msgstr ""
 
 #: envcan_i18n.dat:118
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of light snow"
+msgid "Chance of freezing rain mixed with snow"
 msgstr ""
 
 #: envcan_i18n.dat:119
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of light snow and blowing snow"
+msgid "Chance of freezing rain or rain"
 msgstr ""
 
 #: envcan_i18n.dat:120
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of light snow mixed with freezing drizzle"
+msgid "Chance of freezing rain or snow"
 msgstr ""
 
 #: envcan_i18n.dat:121
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of light snow mixed with ice pellets"
+msgid "Chance of light snow"
 msgstr ""
 
 #: envcan_i18n.dat:122
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of light snow mixed with rain"
+msgid "Chance of light snow and blowing snow"
 msgstr ""
 
 #: envcan_i18n.dat:123
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of light snow or freezing rain"
+msgid "Chance of light snow mixed with freezing drizzle"
 msgstr ""
 
 #: envcan_i18n.dat:124
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of light snow or ice pellets"
+msgid "Chance of light snow mixed with ice pellets"
 msgstr ""
 
 #: envcan_i18n.dat:125
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of light snow or rain"
+msgid "Chance of light snow mixed with rain"
 msgstr ""
 
 #: envcan_i18n.dat:126
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of light wet snow"
+msgid "Chance of light snow or freezing rain"
 msgstr ""
 
 #: envcan_i18n.dat:127
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of rain"
+msgid "Chance of light snow or ice pellets"
 msgstr ""
 
 #: envcan_i18n.dat:128
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of rain at times heavy"
+msgid "Chance of light snow or rain"
 msgstr ""
 
 #: envcan_i18n.dat:129
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of rain mixed with snow"
+msgid "Chance of light wet snow"
 msgstr ""
 
 #: envcan_i18n.dat:130
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of rain or drizzle"
+msgid "Chance of rain"
 msgstr ""
 
 #: envcan_i18n.dat:131
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of rain or freezing rain"
+msgid "Chance of rain at times heavy"
 msgstr ""
 
 #: envcan_i18n.dat:132
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of rain or snow"
+msgid "Chance of rain mixed with snow"
 msgstr ""
 
 #: envcan_i18n.dat:133
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of rain showers or flurries"
+msgid "Chance of rain or drizzle"
 msgstr ""
 
 #: envcan_i18n.dat:134
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of rain showers or wet flurries"
+msgid "Chance of rain or freezing rain"
 msgstr ""
 
 #: envcan_i18n.dat:135
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of severe thunderstorms"
+msgid "Chance of rain or snow"
 msgstr ""
 
 #: envcan_i18n.dat:136
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of showers"
+msgid "Chance of rain showers or flurries"
 msgstr ""
 
 #: envcan_i18n.dat:137
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of showers at times heavy"
+msgid "Chance of rain showers or wet flurries"
 msgstr ""
 
 #: envcan_i18n.dat:138
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of showers at times heavy or thundershowers"
+msgid "Chance of severe thunderstorms"
 msgstr ""
 
 #: envcan_i18n.dat:139
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of showers at times heavy or thunderstorms"
+msgid "Chance of showers"
 msgstr ""
 
 #: envcan_i18n.dat:140
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of showers or drizzle"
+msgid "Chance of showers at times heavy"
 msgstr ""
 
 #: envcan_i18n.dat:141
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of showers or thundershowers"
+msgid "Chance of showers at times heavy or thundershowers"
 msgstr ""
 
 #: envcan_i18n.dat:142
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of showers or thunderstorms"
+msgid "Chance of showers at times heavy or thunderstorms"
 msgstr ""
 
 #: envcan_i18n.dat:143
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of snow"
+msgid "Chance of showers or drizzle"
 msgstr ""
 
 #: envcan_i18n.dat:144
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of snow and blizzard"
+msgid "Chance of showers or thundershowers"
 msgstr ""
 
 #: envcan_i18n.dat:145
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of snow mixed with freezing drizzle"
+msgid "Chance of showers or thunderstorms"
 msgstr ""
 
 #: envcan_i18n.dat:146
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of snow mixed with freezing rain"
+msgid "Chance of snow"
 msgstr ""
 
 #: envcan_i18n.dat:147
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of snow mixed with rain"
+msgid "Chance of snow and blizzard"
 msgstr ""
 
 #: envcan_i18n.dat:148
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of snow or rain"
+msgid "Chance of snow mixed with freezing drizzle"
 msgstr ""
 
 #: envcan_i18n.dat:149
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of snow squalls"
+msgid "Chance of snow mixed with freezing rain"
 msgstr ""
 
 #: envcan_i18n.dat:150
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of thundershowers"
+msgid "Chance of snow mixed with rain"
 msgstr ""
 
 #: envcan_i18n.dat:151
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of thunderstorms"
+msgid "Chance of snow or rain"
 msgstr ""
 
 #: envcan_i18n.dat:152
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of thunderstorms and possible hail"
+msgid "Chance of snow squalls"
 msgstr ""
 
 #: envcan_i18n.dat:153
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of wet flurries"
+msgid "Chance of thundershowers"
 msgstr ""
 
 #: envcan_i18n.dat:154
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of wet flurries at times heavy"
+msgid "Chance of thunderstorms"
 msgstr ""
 
 #: envcan_i18n.dat:155
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of wet flurries or rain showers"
+msgid "Chance of thunderstorms and possible hail"
 msgstr ""
 
 #: envcan_i18n.dat:156
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of wet snow"
+msgid "Chance of wet flurries"
 msgstr ""
 
 #: envcan_i18n.dat:157
 #, kde-format
 msgctxt "weather forecast"
-msgid "Chance of wet snow mixed with rain"
+msgid "Chance of wet flurries at times heavy"
 msgstr ""
 
 #: envcan_i18n.dat:158
 #, kde-format
 msgctxt "weather forecast"
+msgid "Chance of wet flurries or rain showers"
+msgstr ""
+
+#: envcan_i18n.dat:159
+#, kde-format
+msgctxt "weather forecast"
+msgid "Chance of wet snow"
+msgstr ""
+
+#: envcan_i18n.dat:160
+#, kde-format
+msgctxt "weather forecast"
+msgid "Chance of wet snow mixed with rain"
+msgstr ""
+
+#: envcan_i18n.dat:161
+#, kde-format
+msgctxt "weather forecast"
 msgid "Chance of wet snow or rain"
 msgstr ""
 
-#: envcan_i18n.dat:159 noaa_i18n.dat:355
+#: envcan_i18n.dat:162 noaa_i18n.dat:355
 #, kde-format
 msgctxt "weather forecast"
 msgid "Clear"
 msgstr ""
 
-#: envcan_i18n.dat:160 noaa_i18n.dat:350
+#: envcan_i18n.dat:163 noaa_i18n.dat:350
 #, kde-format
 msgctxt "weather forecast"
 msgid "Clearing"
 msgstr ""
 
-#: envcan_i18n.dat:161 noaa_i18n.dat:342
+#: envcan_i18n.dat:164 noaa_i18n.dat:342
 #, kde-format
 msgctxt "weather forecast"
 msgid "Cloudy"
 msgstr ""
 
-#: envcan_i18n.dat:162
+#: envcan_i18n.dat:165
 #, kde-format
 msgctxt "weather forecast"
 msgid "Partly cloudy"
 msgstr ""
 
-#: envcan_i18n.dat:163
+#: envcan_i18n.dat:166
 #, kde-format
 msgctxt "weather forecast"
 msgid "Mainly cloudy"
 msgstr ""
 
-#: envcan_i18n.dat:164
+#: envcan_i18n.dat:167
 #, kde-format
 msgctxt "weather forecast"
 msgid "Cloudy periods"
 msgstr ""
 
-#: envcan_i18n.dat:165
+#: envcan_i18n.dat:168
 #, kde-format
 msgctxt "weather forecast"
 msgid "Cloudy with sunny periods"
 msgstr ""
 
-#: envcan_i18n.dat:166 noaa_i18n.dat:317
+#: envcan_i18n.dat:169 noaa_i18n.dat:317
 #, kde-format
 msgctxt "weather forecast"
 msgid "Drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:167
+#: envcan_i18n.dat:170
 #, kde-format
 msgctxt "weather forecast"
 msgid "Drizzle mixed with freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:168
+#: envcan_i18n.dat:171
 #, kde-format
 msgctxt "weather forecast"
 msgid "Drizzle mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:169
+#: envcan_i18n.dat:172
 #, kde-format
 msgctxt "weather forecast"
 msgid "Drizzle or freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:170
+#: envcan_i18n.dat:173
 #, kde-format
 msgctxt "weather forecast"
 msgid "Drizzle or rain"
 msgstr ""
 
-#: envcan_i18n.dat:171 noaa_i18n.dat:309
+#: envcan_i18n.dat:174 noaa_i18n.dat:309
 #, kde-format
 msgctxt "weather forecast"
 msgid "Flurries"
 msgstr ""
 
-#: envcan_i18n.dat:172
+#: envcan_i18n.dat:175
 #, kde-format
 msgctxt "weather forecast"
 msgid "Flurries at times heavy"
 msgstr ""
 
-#: envcan_i18n.dat:173
+#: envcan_i18n.dat:176
 #, kde-format
 msgctxt "weather forecast"
 msgid "Flurries at times heavy or rain showers"
 msgstr ""
 
-#: envcan_i18n.dat:174
+#: envcan_i18n.dat:177
 #, kde-format
 msgctxt "weather forecast"
 msgid "Flurries mixed with ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:175
+#: envcan_i18n.dat:178
 #, kde-format
 msgctxt "weather forecast"
 msgid "Flurries or ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:176
+#: envcan_i18n.dat:179
 #, kde-format
 msgctxt "weather forecast"
 msgid "Flurries or rain showers"
 msgstr ""
 
-#: envcan_i18n.dat:177
+#: envcan_i18n.dat:180
 #, kde-format
 msgctxt "weather forecast"
 msgid "Flurries or thundershowers"
 msgstr ""
 
-#: envcan_i18n.dat:178 noaa_i18n.dat:336
+#: envcan_i18n.dat:181 noaa_i18n.dat:336
 #, kde-format
 msgctxt "weather forecast"
 msgid "Fog"
 msgstr ""
 
-#: envcan_i18n.dat:179
+#: envcan_i18n.dat:182
 #, kde-format
 msgctxt "weather forecast"
 msgid "Fog developing"
 msgstr ""
 
-#: envcan_i18n.dat:180
+#: envcan_i18n.dat:183
 #, kde-format
 msgctxt "weather forecast"
 msgid "Fog dissipating"
 msgstr ""
 
-#: envcan_i18n.dat:181
+#: envcan_i18n.dat:184
 #, kde-format
 msgctxt "weather forecast"
 msgid "Fog patches"
 msgstr ""
 
-#: envcan_i18n.dat:182
+#: envcan_i18n.dat:185
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:183
+#: envcan_i18n.dat:186
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:184
+#: envcan_i18n.dat:187
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain mixed with ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:185
+#: envcan_i18n.dat:188
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:186
+#: envcan_i18n.dat:189
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain mixed with snow"
 msgstr ""
 
-#: envcan_i18n.dat:187
+#: envcan_i18n.dat:190
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain or ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:188
+#: envcan_i18n.dat:191
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain or rain"
 msgstr ""
 
-#: envcan_i18n.dat:189
+#: envcan_i18n.dat:192
 #, kde-format
 msgctxt "weather forecast"
 msgid "Freezing rain or snow"
 msgstr ""
 
-#: envcan_i18n.dat:190
+#: envcan_i18n.dat:193
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice fog"
 msgstr ""
 
-#: envcan_i18n.dat:191
+#: envcan_i18n.dat:194
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice fog developing"
 msgstr ""
 
-#: envcan_i18n.dat:192
+#: envcan_i18n.dat:195
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice fog dissipating"
 msgstr ""
 
-#: envcan_i18n.dat:193
+#: envcan_i18n.dat:196
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:194
+#: envcan_i18n.dat:197
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:195
+#: envcan_i18n.dat:198
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets mixed with snow"
 msgstr ""
 
-#: envcan_i18n.dat:196
+#: envcan_i18n.dat:199
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:197
+#: envcan_i18n.dat:200
 #, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets or snow"
 msgstr ""
 
-#: envcan_i18n.dat:198
+#: envcan_i18n.dat:201
 #, kde-format
 msgctxt "weather forecast"
 msgid "Increasing cloudiness"
 msgstr ""
 
-#: envcan_i18n.dat:199
+#: envcan_i18n.dat:202
 #, kde-format
 msgctxt "weather forecast"
 msgid "Increasing clouds"
 msgstr ""
 
-#: envcan_i18n.dat:200
+#: envcan_i18n.dat:203
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow"
 msgstr ""
 
-#: envcan_i18n.dat:201
+#: envcan_i18n.dat:204
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow and blizzard"
 msgstr ""
 
-#: envcan_i18n.dat:202
+#: envcan_i18n.dat:205
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow and blizzard and blowing snow"
 msgstr ""
 
-#: envcan_i18n.dat:203
+#: envcan_i18n.dat:206
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow and blowing snow"
 msgstr ""
 
-#: envcan_i18n.dat:204
+#: envcan_i18n.dat:207
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow mixed with freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:205
+#: envcan_i18n.dat:208
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:206
+#: envcan_i18n.dat:209
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow mixed with ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:207
+#: envcan_i18n.dat:210
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:208
+#: envcan_i18n.dat:211
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow or freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:209
+#: envcan_i18n.dat:212
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:210
+#: envcan_i18n.dat:213
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow or ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:211
+#: envcan_i18n.dat:214
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light snow or rain"
 msgstr ""
 
-#: envcan_i18n.dat:212
+#: envcan_i18n.dat:215
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light wet snow"
 msgstr ""
 
-#: envcan_i18n.dat:213
+#: envcan_i18n.dat:216
 #, kde-format
 msgctxt "weather forecast"
 msgid "Light wet snow or rain"
 msgstr ""
 
-#: envcan_i18n.dat:214
+#: envcan_i18n.dat:217
 #, kde-format
 msgctxt "weather forecast"
 msgid "Local snow squalls"
 msgstr ""
 
-#: envcan_i18n.dat:215
+#: envcan_i18n.dat:218
 #, kde-format
 msgctxt "weather forecast"
 msgid "Near blizzard"
 msgstr ""
 
-#: envcan_i18n.dat:216
+#: envcan_i18n.dat:219
 #, kde-format
 msgctxt "weather forecast"
 msgid "Overcast"
 msgstr ""
 
-#: envcan_i18n.dat:217
+#: envcan_i18n.dat:220
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:218
+#: envcan_i18n.dat:221
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle mixed with freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:219
+#: envcan_i18n.dat:222
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:220
+#: envcan_i18n.dat:223
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle or freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:221
+#: envcan_i18n.dat:224
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of drizzle or rain"
 msgstr ""
 
-#: envcan_i18n.dat:222
+#: envcan_i18n.dat:225
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:223
+#: envcan_i18n.dat:226
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing drizzle or drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:224
+#: envcan_i18n.dat:227
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing drizzle or rain"
 msgstr ""
 
-#: envcan_i18n.dat:225
+#: envcan_i18n.dat:228
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:226
+#: envcan_i18n.dat:229
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing rain mixed with ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:227
+#: envcan_i18n.dat:230
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing rain mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:228
+#: envcan_i18n.dat:231
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing rain mixed with snow"
 msgstr ""
 
-#: envcan_i18n.dat:229
+#: envcan_i18n.dat:232
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing rain or ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:230
+#: envcan_i18n.dat:233
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing rain or rain"
 msgstr ""
 
-#: envcan_i18n.dat:231
+#: envcan_i18n.dat:234
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of freezing rain or snow"
 msgstr ""
 
-#: envcan_i18n.dat:232
+#: envcan_i18n.dat:235
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:233
+#: envcan_i18n.dat:236
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:234
+#: envcan_i18n.dat:237
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets mixed with snow"
 msgstr ""
 
-#: envcan_i18n.dat:235
+#: envcan_i18n.dat:238
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:236
+#: envcan_i18n.dat:239
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets or snow"
 msgstr ""
 
-#: envcan_i18n.dat:237
+#: envcan_i18n.dat:240
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow"
 msgstr ""
 
-#: envcan_i18n.dat:238
+#: envcan_i18n.dat:241
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow and blizzard"
 msgstr ""
 
-#: envcan_i18n.dat:239
+#: envcan_i18n.dat:242
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow and blizzard and blowing snow"
 msgstr ""
 
-#: envcan_i18n.dat:240
+#: envcan_i18n.dat:243
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow and blowing snow"
 msgstr ""
 
-#: envcan_i18n.dat:241
+#: envcan_i18n.dat:244
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow mixed with freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:242
+#: envcan_i18n.dat:245
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:243
+#: envcan_i18n.dat:246
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow mixed with ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:244
+#: envcan_i18n.dat:247
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:245
+#: envcan_i18n.dat:248
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow or freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:246
+#: envcan_i18n.dat:249
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:247
+#: envcan_i18n.dat:250
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow or ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:248
+#: envcan_i18n.dat:251
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow or rain"
 msgstr ""
 
-#: envcan_i18n.dat:249
+#: envcan_i18n.dat:252
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light wet snow"
 msgstr ""
 
-#: envcan_i18n.dat:250
+#: envcan_i18n.dat:253
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light wet snow mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:251
+#: envcan_i18n.dat:254
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light wet snow or rain"
 msgstr ""
 
-#: envcan_i18n.dat:252
+#: envcan_i18n.dat:255
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of rain"
 msgstr ""
 
-#: envcan_i18n.dat:253
+#: envcan_i18n.dat:256
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of rain mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:254
+#: envcan_i18n.dat:257
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of rain mixed with snow"
 msgstr ""
 
-#: envcan_i18n.dat:255
+#: envcan_i18n.dat:258
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of rain or drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:256
+#: envcan_i18n.dat:259
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of rain or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:257
+#: envcan_i18n.dat:260
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of rain or snow"
 msgstr ""
 
-#: envcan_i18n.dat:258
+#: envcan_i18n.dat:261
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of rain or thundershowers"
 msgstr ""
 
-#: envcan_i18n.dat:259
+#: envcan_i18n.dat:262
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of rain or thunderstorms"
 msgstr ""
 
-#: envcan_i18n.dat:260
+#: envcan_i18n.dat:263
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow"
 msgstr ""
 
-#: envcan_i18n.dat:261
+#: envcan_i18n.dat:264
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow and blizzard"
 msgstr ""
 
-#: envcan_i18n.dat:262
+#: envcan_i18n.dat:265
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow and blizzard and blowing snow"
 msgstr ""
 
-#: envcan_i18n.dat:263
+#: envcan_i18n.dat:266
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow and blowing snow"
 msgstr ""
 
-#: envcan_i18n.dat:264
+#: envcan_i18n.dat:267
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow mixed with freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:265
+#: envcan_i18n.dat:268
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:266
+#: envcan_i18n.dat:269
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow mixed with ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:267
+#: envcan_i18n.dat:270
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:268
+#: envcan_i18n.dat:271
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow or freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:269
+#: envcan_i18n.dat:272
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:270
+#: envcan_i18n.dat:273
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow or ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:271
+#: envcan_i18n.dat:274
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of snow or rain"
 msgstr ""
 
-#: envcan_i18n.dat:272
+#: envcan_i18n.dat:275
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of wet snow"
 msgstr ""
 
-#: envcan_i18n.dat:273
+#: envcan_i18n.dat:276
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of wet snow mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:274
+#: envcan_i18n.dat:277
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of wet snow or rain"
 msgstr ""
 
-#: envcan_i18n.dat:275 noaa_i18n.dat:321
+#: envcan_i18n.dat:278 noaa_i18n.dat:321
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain"
 msgstr ""
 
-#: envcan_i18n.dat:276
+#: envcan_i18n.dat:279
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain at times heavy"
 msgstr ""
 
-#: envcan_i18n.dat:277
+#: envcan_i18n.dat:280
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain at times heavy mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:278
+#: envcan_i18n.dat:281
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain at times heavy mixed with snow"
 msgstr ""
 
-#: envcan_i18n.dat:279
+#: envcan_i18n.dat:282
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain at times heavy or drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:280
+#: envcan_i18n.dat:283
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain at times heavy or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:281
+#: envcan_i18n.dat:284
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain at times heavy or snow"
 msgstr ""
 
-#: envcan_i18n.dat:282
+#: envcan_i18n.dat:285
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain at times heavy or thundershowers"
 msgstr ""
 
-#: envcan_i18n.dat:283
+#: envcan_i18n.dat:286
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain at times heavy or thunderstorms"
 msgstr ""
 
-#: envcan_i18n.dat:284
+#: envcan_i18n.dat:287
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:285
+#: envcan_i18n.dat:288
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain mixed with snow"
 msgstr ""
 
-#: envcan_i18n.dat:286
+#: envcan_i18n.dat:289
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain or drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:287
+#: envcan_i18n.dat:290
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:288
+#: envcan_i18n.dat:291
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain or snow"
 msgstr ""
 
-#: envcan_i18n.dat:289
+#: envcan_i18n.dat:292
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain or thundershowers"
 msgstr ""
 
-#: envcan_i18n.dat:290
+#: envcan_i18n.dat:293
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain or thunderstorms"
 msgstr ""
 
-#: envcan_i18n.dat:291
+#: envcan_i18n.dat:294
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain showers or flurries"
 msgstr ""
 
-#: envcan_i18n.dat:292
+#: envcan_i18n.dat:295
 #, kde-format
 msgctxt "weather forecast"
 msgid "Rain showers or wet flurries"
 msgstr ""
 
-#: envcan_i18n.dat:293
+#: envcan_i18n.dat:296
 #, kde-format
 msgctxt "weather forecast"
 msgid "Showers"
 msgstr ""
 
-#: envcan_i18n.dat:294
+#: envcan_i18n.dat:297
 #, kde-format
 msgctxt "weather forecast"
 msgid "Showers at times heavy"
 msgstr ""
 
-#: envcan_i18n.dat:295
+#: envcan_i18n.dat:298
 #, kde-format
 msgctxt "weather forecast"
 msgid "Showers at times heavy or thundershowers"
 msgstr ""
 
-#: envcan_i18n.dat:296
+#: envcan_i18n.dat:299
 #, kde-format
 msgctxt "weather forecast"
 msgid "Showers at times heavy or thunderstorms"
 msgstr ""
 
-#: envcan_i18n.dat:297
+#: envcan_i18n.dat:300
 #, kde-format
 msgctxt "weather forecast"
 msgid "Showers or drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:298
+#: envcan_i18n.dat:301
 #, kde-format
 msgctxt "weather forecast"
 msgid "Showers or thundershowers"
 msgstr ""
 
-#: envcan_i18n.dat:299
+#: envcan_i18n.dat:302
 #, kde-format
 msgctxt "weather forecast"
 msgid "Showers or thunderstorms"
 msgstr ""
 
-#: envcan_i18n.dat:300 noaa_i18n.dat:328
+#: envcan_i18n.dat:303 noaa_i18n.dat:328
 #, kde-format
 msgctxt "weather forecast"
 msgid "Smoke"
 msgstr ""
 
-#: envcan_i18n.dat:301 noaa_i18n.dat:304
+#: envcan_i18n.dat:304 noaa_i18n.dat:304
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow"
 msgstr ""
 
-#: envcan_i18n.dat:302
+#: envcan_i18n.dat:305
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow and blizzard"
 msgstr ""
 
-#: envcan_i18n.dat:303
+#: envcan_i18n.dat:306
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow and blizzard and blowing snow"
 msgstr ""
 
-#: envcan_i18n.dat:304
+#: envcan_i18n.dat:307
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow and blowing snow"
 msgstr ""
 
-#: envcan_i18n.dat:305
+#: envcan_i18n.dat:308
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy"
 msgstr ""
 
-#: envcan_i18n.dat:306
+#: envcan_i18n.dat:309
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy and blizzard"
 msgstr ""
 
-#: envcan_i18n.dat:307
+#: envcan_i18n.dat:310
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy and blowing snow"
 msgstr ""
 
-#: envcan_i18n.dat:308
+#: envcan_i18n.dat:311
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy mixed with freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:309
+#: envcan_i18n.dat:312
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:310
+#: envcan_i18n.dat:313
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy mixed with ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:311
+#: envcan_i18n.dat:314
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:312
+#: envcan_i18n.dat:315
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:313
+#: envcan_i18n.dat:316
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy or ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:314
+#: envcan_i18n.dat:317
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow at times heavy or rain"
 msgstr ""
 
-#: envcan_i18n.dat:315
+#: envcan_i18n.dat:318
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow mixed with freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:316
+#: envcan_i18n.dat:319
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow mixed with freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:317
+#: envcan_i18n.dat:320
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow mixed with ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:318
+#: envcan_i18n.dat:321
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:319
+#: envcan_i18n.dat:322
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow or freezing drizzle"
 msgstr ""
 
-#: envcan_i18n.dat:320
+#: envcan_i18n.dat:323
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow or freezing rain"
 msgstr ""
 
-#: envcan_i18n.dat:321
+#: envcan_i18n.dat:324
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow or ice pellets"
 msgstr ""
 
-#: envcan_i18n.dat:322
+#: envcan_i18n.dat:325
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow or rain"
 msgstr ""
 
-#: envcan_i18n.dat:323
+#: envcan_i18n.dat:326
 #, kde-format
 msgctxt "weather forecast"
 msgid "Snow squalls"
 msgstr ""
 
-#: envcan_i18n.dat:324 noaa_i18n.dat:347
+#: envcan_i18n.dat:327 noaa_i18n.dat:347
 #, kde-format
 msgctxt "weather forecast"
 msgid "Sunny"
 msgstr ""
 
-#: envcan_i18n.dat:325
+#: envcan_i18n.dat:328
 #, kde-format
 msgctxt "weather forecast"
 msgid "Mainly sunny"
 msgstr ""
 
-#: envcan_i18n.dat:326
+#: envcan_i18n.dat:329
 #, kde-format
 msgctxt "weather forecast"
 msgid "Sunny with cloudy periods"
 msgstr ""
 
-#: envcan_i18n.dat:327 noaa_i18n.dat:273
+#: envcan_i18n.dat:330 noaa_i18n.dat:273
 #, kde-format
 msgctxt "weather forecast"
 msgid "Thunderstorms"
 msgstr ""
 
-#: envcan_i18n.dat:328
+#: envcan_i18n.dat:331
 #, kde-format
 msgctxt "weather forecast"
 msgid "Thunderstorms and possible hail"
 msgstr ""
 
-#: envcan_i18n.dat:329
+#: envcan_i18n.dat:332
 #, kde-format
 msgctxt "weather forecast"
 msgid "Wet flurries"
 msgstr ""
 
-#: envcan_i18n.dat:330
+#: envcan_i18n.dat:333
 #, kde-format
 msgctxt "weather forecast"
 msgid "Wet flurries at times heavy"
 msgstr ""
 
-#: envcan_i18n.dat:331
+#: envcan_i18n.dat:334
 #, kde-format
 msgctxt "weather forecast"
 msgid "Wet flurries at times heavy or rain showers"
 msgstr ""
 
-#: envcan_i18n.dat:332
+#: envcan_i18n.dat:335
 #, kde-format
 msgctxt "weather forecast"
 msgid "Wet flurries or rain showers"
 msgstr ""
 
-#: envcan_i18n.dat:333
+#: envcan_i18n.dat:336
 #, kde-format
 msgctxt "weather forecast"
 msgid "Wet snow"
 msgstr ""
 
-#: envcan_i18n.dat:334
+#: envcan_i18n.dat:337
 #, kde-format
 msgctxt "weather forecast"
 msgid "Wet snow at times heavy"
 msgstr ""
 
-#: envcan_i18n.dat:335
+#: envcan_i18n.dat:338
 #, kde-format
 msgctxt "weather forecast"
 msgid "Wet snow at times heavy mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:336
+#: envcan_i18n.dat:339
 #, kde-format
 msgctxt "weather forecast"
 msgid "Wet snow mixed with rain"
 msgstr ""
 
-#: envcan_i18n.dat:337
+#: envcan_i18n.dat:340
 #, kde-format
 msgctxt "weather forecast"
 msgid "Wet snow or rain"
 msgstr ""
 
-#: envcan_i18n.dat:338 noaa_i18n.dat:337
+#: envcan_i18n.dat:341 noaa_i18n.dat:337
 #, kde-format
 msgctxt "weather forecast"
 msgid "Windy"
@@ -2696,43 +2714,43 @@ msgctxt "Short for Tonight"
 msgid "Tonight"
 msgstr ""
 
-#: ions/bbcukmet/ion_bbcukmet.cpp:1005 ions/envcan/ion_envcan.cpp:1580
+#: ions/bbcukmet/ion_bbcukmet.cpp:1005 ions/envcan/ion_envcan.cpp:1583
 #, kde-format
 msgctxt "Short for Saturday"
 msgid "Sat"
 msgstr ""
 
-#: ions/bbcukmet/ion_bbcukmet.cpp:1006 ions/envcan/ion_envcan.cpp:1581
+#: ions/bbcukmet/ion_bbcukmet.cpp:1006 ions/envcan/ion_envcan.cpp:1584
 #, kde-format
 msgctxt "Short for Sunday"
 msgid "Sun"
 msgstr ""
 
-#: ions/bbcukmet/ion_bbcukmet.cpp:1007 ions/envcan/ion_envcan.cpp:1582
+#: ions/bbcukmet/ion_bbcukmet.cpp:1007 ions/envcan/ion_envcan.cpp:1585
 #, kde-format
 msgctxt "Short for Monday"
 msgid "Mon"
 msgstr ""
 
-#: ions/bbcukmet/ion_bbcukmet.cpp:1008 ions/envcan/ion_envcan.cpp:1583
+#: ions/bbcukmet/ion_bbcukmet.cpp:1008 ions/envcan/ion_envcan.cpp:1586
 #, kde-format
 msgctxt "Short for Tuesday"
 msgid "Tue"
 msgstr ""
 
-#: ions/bbcukmet/ion_bbcukmet.cpp:1009 ions/envcan/ion_envcan.cpp:1584
+#: ions/bbcukmet/ion_bbcukmet.cpp:1009 ions/envcan/ion_envcan.cpp:1587
 #, kde-format
 msgctxt "Short for Wednesday"
 msgid "Wed"
 msgstr ""
 
-#: ions/bbcukmet/ion_bbcukmet.cpp:1010 ions/envcan/ion_envcan.cpp:1585
+#: ions/bbcukmet/ion_bbcukmet.cpp:1010 ions/envcan/ion_envcan.cpp:1588
 #, kde-format
 msgctxt "Short for Thursday"
 msgid "Thu"
 msgstr ""
 
-#: ions/bbcukmet/ion_bbcukmet.cpp:1011 ions/envcan/ion_envcan.cpp:1586
+#: ions/bbcukmet/ion_bbcukmet.cpp:1011 ions/envcan/ion_envcan.cpp:1589
 #, kde-format
 msgctxt "Short for Friday"
 msgid "Fri"
@@ -2744,44 +2762,44 @@ msgctxt "credit line, keep string short"
 msgid "Data from BBC Weather"
 msgstr ""
 
-#: ions/envcan/ion_envcan.cpp:925 ions/envcan/ion_envcan.cpp:927
-#: ions/envcan/ion_envcan.cpp:1431 ions/envcan/ion_envcan.cpp:1573
-#: ions/envcan/ion_envcan.cpp:1588 ions/noaa/ion_noaa.cpp:385
-#: ions/noaa/ion_noaa.cpp:574
+#: ions/envcan/ion_envcan.cpp:928 ions/envcan/ion_envcan.cpp:930
+#: ions/envcan/ion_envcan.cpp:1434 ions/envcan/ion_envcan.cpp:1576
+#: ions/envcan/ion_envcan.cpp:1591 ions/noaa/ion_noaa.cpp:385
+#: ions/noaa/ion_noaa.cpp:573
 #, kde-format
 msgid "N/A"
 msgstr ""
 
-#: ions/envcan/ion_envcan.cpp:1577
+#: ions/envcan/ion_envcan.cpp:1580
 #, kde-format
 msgid "day"
 msgstr ""
 
-#: ions/envcan/ion_envcan.cpp:1578
+#: ions/envcan/ion_envcan.cpp:1581
 #, kde-format
 msgctxt "Short for tonight"
 msgid "nite"
 msgstr ""
 
-#: ions/envcan/ion_envcan.cpp:1579
+#: ions/envcan/ion_envcan.cpp:1582
 #, kde-format
 msgctxt "Short for night, appended to the end of the weekday"
 msgid "nt"
 msgstr ""
 
-#: ions/envcan/ion_envcan.cpp:1623
+#: ions/envcan/ion_envcan.cpp:1626
 #, kde-format
 msgctxt "precipitation total, very little"
 msgid "Trace"
 msgstr ""
 
-#: ions/envcan/ion_envcan.cpp:1650
+#: ions/envcan/ion_envcan.cpp:1653
 #, kde-format
 msgctxt "credit line, keep string short"
-msgid "Data from Environment Canada"
+msgid "Data from Environment and Climate Change Canada"
 msgstr ""
 
-#: ions/noaa/ion_noaa.cpp:664
+#: ions/noaa/ion_noaa.cpp:663
 #, kde-format
 msgctxt "credit line, keep string short)"
 msgid "Data from NOAA National Weather Service"
@@ -4140,12 +4158,6 @@ msgstr ""
 #, kde-format
 msgctxt "weather condition"
 msgid "Snow Showers in Vicinity Fog/Mist"
-msgstr ""
-
-#: noaa_i18n.dat:225
-#, kde-format
-msgctxt "weather condition"
-msgid "Thunderstorm"
 msgstr ""
 
 #: noaa_i18n.dat:226

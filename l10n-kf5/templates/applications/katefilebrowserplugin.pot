@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:39+0200\n"
+"POT-Creation-Date: 2019-10-06 02:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -18,64 +18,64 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: katefilebrowser.cpp:105
+#: katefilebrowser.cpp:106
 #, kde-format
 msgid "Search"
 msgstr ""
 
-#: katefilebrowser.cpp:119
+#: katefilebrowser.cpp:117
 #, kde-format
 msgid "Enter a name filter to limit which files are displayed."
 msgstr ""
 
-#: katefilebrowser.cpp:243
+#: katefilebrowser.cpp:241
 #, kde-format
 msgid "You are trying to open 1 file, are you sure?"
 msgid_plural "You are trying to open %1 files, are you sure?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: katefilebrowser.cpp:303
+#: katefilebrowser.cpp:296
 #, kde-format
 msgid "Bookmarks"
 msgstr ""
 
-#: katefilebrowser.cpp:311
+#: katefilebrowser.cpp:304
 #, kde-format
 msgid "Current Document Folder"
 msgstr ""
 
-#: katefilebrowser.cpp:319
+#: katefilebrowser.cpp:312
 #, kde-format
 msgid "Options"
 msgstr ""
 
-#: katefilebrowser.cpp:331
+#: katefilebrowser.cpp:324
 #, kde-format
 msgid "Automatically synchronize with current document"
 msgstr ""
 
-#: katefilebrowserconfig.cpp:79
+#: katefilebrowserconfig.cpp:75
 #, kde-format
 msgid "Toolbar"
 msgstr ""
 
-#: katefilebrowserconfig.cpp:81
+#: katefilebrowserconfig.cpp:77
 #, kde-format
 msgid "A&vailable actions:"
 msgstr ""
 
-#: katefilebrowserconfig.cpp:82
+#: katefilebrowserconfig.cpp:78
 #, kde-format
 msgid "S&elected actions:"
 msgstr ""
 
-#: katefilebrowserconfig.cpp:102 katefilebrowserplugin.cpp:80
+#: katefilebrowserconfig.cpp:98 katefilebrowserplugin.cpp:73
 #, kde-format
 msgid "Filesystem Browser"
 msgstr ""
 
-#: katefilebrowserconfig.cpp:107
+#: katefilebrowserconfig.cpp:103
 #, kde-format
 msgid "Filesystem Browser Settings"
 msgstr ""

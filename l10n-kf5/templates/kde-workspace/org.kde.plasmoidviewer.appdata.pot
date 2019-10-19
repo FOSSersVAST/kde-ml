@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-03-02 03:34+0100\n"
+"POT-Creation-Date: 2019-05-24 03:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 
 #. (itstool) path: component/name
 #: org.kde.plasmoidviewer.appdata.xml:6
-msgid "Plasmoidviewer"
+msgid "Plasmoid Viewer"
 msgstr ""
 
 #. (itstool) path: component/summary
@@ -21,5 +21,5 @@ msgstr ""
 
 #. (itstool) path: description/p
 #: org.kde.plasmoidviewer.appdata.xml:9
-msgid "Plasmoidviewer is a graphical tool allowing developers to test Plasma applets."
+msgid "Plasmoid Viewer is a graphical tool allowing developers to test Plasma applets."
 msgstr ""

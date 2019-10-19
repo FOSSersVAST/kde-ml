@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: blinken\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:00+0200\n"
+"POT-Creation-Date: 2019-06-02 02:58+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -221,49 +221,49 @@ msgctxt "@title:group High scores Level ? tab tible"
 msgid "Level ?"
 msgstr ""
 
-#: main.cpp:30
+#: main.cpp:32
 #, kde-format
 msgid "Blinken"
 msgstr ""
 
-#: main.cpp:30
+#: main.cpp:32
 #, kde-format
 msgid "A memory enhancement game"
 msgstr ""
 
-#: main.cpp:30
+#: main.cpp:32
 #, kde-format
 msgid ""
 "© 2005-2007 Albert Astals Cid\n"
 "© 2005-2007 Danny Allen"
 msgstr ""
 
-#: main.cpp:31
+#: main.cpp:33
 #, kde-format
 msgid "Albert Astals Cid"
 msgstr ""
 
-#: main.cpp:31
+#: main.cpp:33
 #, kde-format
 msgid "Coding"
 msgstr ""
 
-#: main.cpp:32
+#: main.cpp:34
 #, kde-format
 msgid "Danny Allen"
 msgstr ""
 
-#: main.cpp:32
+#: main.cpp:34
 #, kde-format
 msgid "Design, Graphics and Sounds"
 msgstr ""
 
-#: main.cpp:33
+#: main.cpp:35
 #, kde-format
 msgid "Steve Jordi"
 msgstr ""
 
-#: main.cpp:33
+#: main.cpp:35
 #, kde-format
 msgid "GPL'ed his 'Steve' font so that we could use it"
 msgstr ""

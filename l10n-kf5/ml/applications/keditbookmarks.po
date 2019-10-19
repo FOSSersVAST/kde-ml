@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: keditbookmarks\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:39+0200\n"
+"POT-Creation-Date: 2019-07-12 02:38+0200\n"
 "PO-Revision-Date: 2008-12-07 15:10-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -230,32 +230,32 @@ msgctxt "(qtundo-format)"
 msgid "Delete Items"
 msgstr "വസ്തുക്കള്‍ വെട്ടിമാറ്റുക"
 
-#: bookmarkinfowidget.cpp:239
+#: bookmarkinfowidget.cpp:238
 #, kde-format
 msgid "Name:"
 msgstr "പേരു്:"
 
-#: bookmarkinfowidget.cpp:246
+#: bookmarkinfowidget.cpp:245
 #, kde-format
 msgid "Location:"
 msgstr "സ്ഥാനം:"
 
-#: bookmarkinfowidget.cpp:253
+#: bookmarkinfowidget.cpp:252
 #, kde-format
 msgid "Comment:"
 msgstr "അഭിപ്രായം:"
 
-#: bookmarkinfowidget.cpp:259
+#: bookmarkinfowidget.cpp:258
 #, kde-format
 msgid "First viewed:"
 msgstr "ആദ്യം കണ്ടതു്:"
 
-#: bookmarkinfowidget.cpp:262
+#: bookmarkinfowidget.cpp:261
 #, kde-format
 msgid "Viewed last:"
 msgstr "അവസാനം കണ്ടതു്:"
 
-#: bookmarkinfowidget.cpp:265
+#: bookmarkinfowidget.cpp:264
 #, kde-format
 msgid "Times visited:"
 msgstr "എത്ര തവണ കണ്ടു:"
@@ -280,44 +280,44 @@ msgstr "ഫാവിക്കോണ്‍ പരിഷ്കരിക്കു�
 msgid "%1; no HTML component found (%2)"
 msgstr ""
 
-#: importers.cpp:57
+#: importers.cpp:56
 #, fuzzy, kde-format
 msgctxt "(qtundo-format)"
 msgid "Import %1 Bookmarks"
 msgstr "%1 ഓര്‍മ്മക്കുറിപ്പുകള്‍ അകത്തേക്കെടുക്കുക"
 
-#: importers.cpp:61
+#: importers.cpp:60
 #, kde-format
 msgid "%1 Bookmarks"
 msgstr "%1 ഓര്‍മ്മക്കുറിപ്പുകള്‍"
 
-#: importers.cpp:93
+#: importers.cpp:92
 #, kde-format
 msgid "Import as a new subfolder or replace all the current bookmarks?"
 msgstr "പുതിയ ഒരു ഉള്ളറയായി അകത്തെടുക്കണമോ അതോ നിലവിലുള്ള ഓര്‍മ്മക്കുറിപ്പുകള്‍ മാറ്റിയെഴുതണമോ?"
 
-#: importers.cpp:94
+#: importers.cpp:93
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "%1 Import"
 msgstr "%1 അകത്തേക്കെടുക്കുക"
 
-#: importers.cpp:95
+#: importers.cpp:94
 #, kde-format
 msgid "As New Folder"
 msgstr "പുതിയ അറയായി"
 
-#: importers.cpp:95
+#: importers.cpp:94
 #, kde-format
 msgid "Replace"
 msgstr "മാറ്റിയെഴുതുക"
 
-#: importers.cpp:202
+#: importers.cpp:201
 #, fuzzy, kde-format
 msgid "Galeon Bookmark Files (*.xbel)"
 msgstr "*.xbel|Galeon ഓര്‍മ്മക്കുറിപ്പു് ഫയലുകള്‍ (*.xbel)"
 
-#: importers.cpp:210
+#: importers.cpp:209
 #, fuzzy, kde-format
 msgid "KDE Bookmark Files (*.xml)"
 msgstr "*.xml|കെഡിഇയിലെ ഓര്‍മ്മക്കുറിപ്പു് ഫയലുകള്‍ (*.xml)"
@@ -352,34 +352,34 @@ msgstr "ഐഇ"
 msgid "Opera"
 msgstr "ഓപ്പെറാ"
 
-#: kbookmarkmerger.cpp:47
+#: kbookmarkmerger.cpp:48
 #, kde-format
 msgid "KBookmarkMerger"
 msgstr "KBookmarkMerger"
 
-#: kbookmarkmerger.cpp:49
+#: kbookmarkmerger.cpp:50
 #, kde-format
 msgid "Merges bookmarks installed by 3rd parties into the user's bookmarks"
 msgstr ""
 "വേറെ മൂന്നാം കക്ഷികള്‍ വക ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെട്ട ഓര്‍മ്മകുറിപ്പുകള്‍ ഉപയോക്താവിന്റെ "
 "ഓര്‍മ്മകുറിപ്പുകളിലേയ്ക്കു് ചേര്‍ക്കുന്നു"
 
-#: kbookmarkmerger.cpp:51
+#: kbookmarkmerger.cpp:52
 #, kde-format
 msgid "Copyright © 2005 Frerich Raabe"
 msgstr "പകര്‍പ്പവകാശം © 2005 ഫ്രെറിക് റാബെ"
 
-#: kbookmarkmerger.cpp:52
+#: kbookmarkmerger.cpp:53
 #, kde-format
 msgid "Frerich Raabe"
 msgstr "ഫ്രെറിക് റാബെ"
 
-#: kbookmarkmerger.cpp:52
+#: kbookmarkmerger.cpp:53
 #, kde-format
 msgid "Original author"
 msgstr "ആദ്യത്തെ രചയിതാവു്"
 
-#: kbookmarkmerger.cpp:58
+#: kbookmarkmerger.cpp:59
 #, kde-format
 msgid "Directory to scan for extra bookmarks"
 msgstr "കൂടുതല്‍ ഓര്‍മ്മക്കുറിപ്പുകള്‍ തെരയുന്നതിനുള്ള തട്ടു്"
@@ -456,31 +456,31 @@ msgctxt "(qtundo-format)"
 msgid "Move Items"
 msgstr "വസ്തുക്കള്‍ നീക്കുക"
 
-#: kbookmarkmodel/model.cpp:115
+#: kbookmarkmodel/model.cpp:114
 #, fuzzy, kde-format
 msgctxt "name of the container of all browser bookmarks"
 msgid "Bookmarks"
 msgstr "ഓര്‍മ്മക്കുറിപ്പുകള്‍"
 
-#: kbookmarkmodel/model.cpp:219
+#: kbookmarkmodel/model.cpp:218
 #, fuzzy, kde-format
 msgctxt "@title:column name of a bookmark"
 msgid "Name"
 msgstr "പേരു്:"
 
-#: kbookmarkmodel/model.cpp:223
+#: kbookmarkmodel/model.cpp:222
 #, fuzzy, kde-format
 msgctxt "@title:column name of a bookmark"
 msgid "Location"
 msgstr "സ്ഥാനം:"
 
-#: kbookmarkmodel/model.cpp:227
+#: kbookmarkmodel/model.cpp:226
 #, fuzzy, kde-format
 msgctxt "@title:column comment for a bookmark"
 msgid "Comment"
 msgstr "അഭിപ്രായം"
 
-#: kbookmarkmodel/model.cpp:231
+#: kbookmarkmodel/model.cpp:230
 #, fuzzy, kde-format
 msgctxt "@title:column status of a bookmark"
 msgid "Status"
@@ -567,7 +567,7 @@ msgstr "&പുറത്തുവയ്ക്കുക"
 msgid "&Tools"
 msgstr "&ഉപകരണങ്ങള്‍"
 
-#: main.cpp:66
+#: main.cpp:67
 #, kde-format
 msgid ""
 "Another instance of %1 is already running. Do you really want to open "
@@ -579,132 +579,132 @@ msgstr ""
 "ദയവായി ശ്രദ്ധിക്കുക, നിര്‍ഭാഗ്യവശാല്‍, രണ്ടാമത് തുറക്കുന്ന ദ്രശ്യങ്ങളെല്ലാം കാണുവാന്‍ "
 "മാത്രമുള്ളവയായിരിയ്ക്കും."
 
-#: main.cpp:69
+#: main.cpp:70
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Warning"
 msgstr "മുന്നറിയിപ്പു്"
 
-#: main.cpp:70
+#: main.cpp:71
 #, kde-format
 msgid "Run Another"
 msgstr "മറ്റൊന്നു് പ്രവര്‍ത്തിപ്പിക്കുക"
 
-#: main.cpp:71
+#: main.cpp:72
 #, kde-format
 msgid "Continue in Same"
 msgstr "ഇതില്‍ തന്നെ തുടരുക"
 
-#: main.cpp:105
+#: main.cpp:106
 #, kde-format
 msgid "Bookmark Editor"
 msgstr "ഓര്‍മ്മക്കുറിപ്പുകള്‍ ചിട്ടപ്പെടുത്താന്‍"
 
-#: main.cpp:107
+#: main.cpp:108
 #, kde-format
 msgid "Bookmark Organizer and Editor"
 msgstr "ഓര്‍മ്മക്കുറിപ്പുകള്‍ അടുക്കിവയ്ക്കാനും ചിട്ടപ്പെടുത്താനും"
 
-#: main.cpp:109
+#: main.cpp:110
 #, fuzzy, kde-format
 msgid "Copyright 2000-2017, KDE developers"
 msgstr "Copyright 2000-2007, കെഡിഇയുടെ രചയിതാക്കള്‍"
 
-#: main.cpp:110
+#: main.cpp:111
 #, kde-format
 msgid "David Faure"
 msgstr "ഡേവിഡ് ഫൌര്‍"
 
-#: main.cpp:110
+#: main.cpp:111
 #, kde-format
 msgid "Initial author"
 msgstr "ആദ്യത്തെ രചയിതാവു്"
 
-#: main.cpp:111
+#: main.cpp:112
 #, kde-format
 msgid "Alexander Kellett"
 msgstr "അലക്സാണ്ടര്‍ കെല്ലെറ്റ്"
 
-#: main.cpp:111
+#: main.cpp:112
 #, kde-format
 msgid "Author"
 msgstr "രചയിതാവു്"
 
-#: main.cpp:122
+#: main.cpp:123
 #, kde-format
 msgid "Import bookmarks from a file in Mozilla format"
 msgstr "മോസിലാ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലില്‍ നിന്നും ഓര്‍മ്മക്കുറിപ്പുകള്‍ എടുക്കുക"
 
-#: main.cpp:123
+#: main.cpp:124
 #, kde-format
 msgid "Import bookmarks from a file in Netscape (4.x and earlier) format"
 msgstr ""
 "നെറ്റ്സ്കെയിപ് (4.x അല്ലെങ്കില്‍ അതിനു് മുമ്പുള്ള) ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലില്‍ നിന്നും ഓര്‍മ്മക്കുറിപ്പുകള്‍ "
 "എടുക്കുക"
 
-#: main.cpp:124
+#: main.cpp:125
 #, kde-format
 msgid "Import bookmarks from a file in Internet Explorer's Favorites format"
 msgstr "ഇന്റര്‍നെറ്റ് എക്സ്‌പ്ലോറര്‍ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലില്‍ നിന്നും ഓര്‍മ്മക്കുറിപ്പുകള്‍ എടുക്കുക"
 
-#: main.cpp:125
+#: main.cpp:126
 #, kde-format
 msgid "Import bookmarks from a file in Opera format"
 msgstr "ഓപ്പെറാ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലില്‍ നിന്നും ഓര്‍മ്മക്കുറിപ്പുകള്‍ എടുക്കുക"
 
-#: main.cpp:126
+#: main.cpp:127
 #, fuzzy, kde-format
 msgid "Import bookmarks from a file in KDE2 format"
 msgstr "ഓപ്പെറാ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലില്‍ നിന്നും ഓര്‍മ്മക്കുറിപ്പുകള്‍ എടുക്കുക"
 
-#: main.cpp:127
+#: main.cpp:128
 #, fuzzy, kde-format
 msgid "Import bookmarks from a file in Galeon format"
 msgstr "ഓപ്പെറാ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലില്‍ നിന്നും ഓര്‍മ്മക്കുറിപ്പുകള്‍ എടുക്കുക"
 
-#: main.cpp:128
+#: main.cpp:129
 #, kde-format
 msgid "Export bookmarks to a file in Mozilla format"
 msgstr "മോസിലാ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലിലേയ്ക്കു് ഓര്‍മ്മക്കുറിപ്പുകള്‍ വയ്ക്കുക"
 
-#: main.cpp:129
+#: main.cpp:130
 #, kde-format
 msgid "Export bookmarks to a file in Netscape (4.x and earlier) format"
 msgstr ""
 "നെറ്റ്സ്കെയിപ് (4.x അല്ലെങ്കില്‍ അതിനു് മുമ്പുള്ള) ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലേയ്ക്കു് ഓര്‍മ്മക്കുറിപ്പുകള്‍ "
 "വയ്ക്കുക"
 
-#: main.cpp:130
+#: main.cpp:131
 #, kde-format
 msgid "Export bookmarks to a file in a printable HTML format"
 msgstr "അച്ചടിയ്ക്കാവുന്ന എച്ച്ടിഎംഎല്‍ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലിലേയ്ക്കു് ഓര്‍മ്മക്കുറിപ്പുകള്‍ വയ്ക്കുക"
 
-#: main.cpp:131
+#: main.cpp:132
 #, kde-format
 msgid "Export bookmarks to a file in Internet Explorer's Favorites format"
 msgstr "ഇന്റര്‍നെറ്റ് എക്സ്‌പ്ലോറര്‍ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലിലേയ്ക്കു് ഓര്‍മ്മക്കുറിപ്പുകള്‍ വയ്ക്കുക"
 
-#: main.cpp:132
+#: main.cpp:133
 #, kde-format
 msgid "Export bookmarks to a file in Opera format"
 msgstr "ഓപ്പെറാ ഫോര്‍മാറ്റിലുള്ള ഒരു ഫയലിലേയ്ക്കു് ഓര്‍മ്മക്കുറിപ്പുകള്‍ വയ്ക്കുക"
 
-#: main.cpp:133
+#: main.cpp:134
 #, kde-format
 msgid "Open at the given position in the bookmarks file"
 msgstr "ഓര്‍മ്മക്കുറിപ്പുകളുടെ ഫയല്‍ പറഞ്ഞ സ്ഥാനത്തു് തുറക്കുക"
 
-#: main.cpp:134
+#: main.cpp:135
 #, kde-format
 msgid "Set the user-readable caption, for example \"Konsole\""
 msgstr "ഉപയുക്താവിനു്‌ വായിക്കാവുന്ന കാപ്ഷന്‍ (പേരു്‌) സജ്ജീകരിയ്ക്കുക, ഉദാഹരണത്തിനു്‌ \"കോണ്‍സോള്‍\""
 
-#: main.cpp:135
+#: main.cpp:136
 #, kde-format
 msgid "Hide all browser related functions"
 msgstr "ബ്രൌസര്‍ സംബന്ധിച്ചുള്ള ഫംഗ്ഷനുകളെല്ലാം മറയ്ക്കുക"
 
-#: main.cpp:136
+#: main.cpp:137
 #, fuzzy, kde-format
 msgid ""
 "A unique name that represents this bookmark collection, usually the "
@@ -719,17 +719,17 @@ msgstr ""
 "\"kfile\" എന്നും പോലെയുള്ളതാണു്.\n"
 "/KBookmarkManager/dbusObjectName എന്നതായിരിയ്ക്കും അവസാനത്തെ DBus object path"
 
-#: main.cpp:139
+#: main.cpp:140
 #, kde-format
 msgid "File to edit"
 msgstr "ചിട്ടപ്പെടുത്താനുള്ള ഫയല്‍"
 
-#: main.cpp:182
+#: main.cpp:183
 #, kde-format
 msgid "You may only specify a single --export option."
 msgstr "ഒറ്റ --export ഐച്ഛികമേ നല്‍കാവൂ."
 
-#: main.cpp:189
+#: main.cpp:190
 #, kde-format
 msgid "You may only specify a single --import option."
 msgstr "ഒറ്റ --imort ഐച്ഛികമേ നല്‍കാവൂ."

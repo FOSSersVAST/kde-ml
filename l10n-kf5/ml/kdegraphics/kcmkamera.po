@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kamera\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:07+0200\n"
+"POT-Creation-Date: 2019-09-30 02:55+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -93,12 +93,12 @@ msgstr "റദ്ദാക്കുക"
 msgid "Click this button to cancel the current camera operation."
 msgstr "നിലവിലെ ക്യാമറ പ്രവർത്തനം റദ്ദാക്കാൻ ഈ ബട്ടണിൽ ക്ലിക്കുചെയ്യുക"
 
-#: kamera.cpp:357
+#: kamera.cpp:370
 #, kde-format
 msgid "Camera test was successful."
 msgstr "ക്യാമറ വിജയകരമായി പരിശോധിച്ചു"
 
-#: kamera.cpp:440
+#: kamera.cpp:453
 #, kde-format
 msgid ""
 "<h1>Digital Camera</h1>\n"
@@ -123,12 +123,12 @@ msgstr ""
 "കോണ്ക്വററിലും മറ്റു കെഡിഇ പ്രയോഗങ്ങളിലും <a href=\"camera:/\"> ക്യാമറ: / </a> "
 "സന്ദർശിക്കുക."
 
-#: kameraconfigdialog.cpp:257
+#: kameraconfigdialog.cpp:256
 #, kde-format
 msgid "Button (not supported by KControl)"
 msgstr ""
 
-#: kameraconfigdialog.cpp:265
+#: kameraconfigdialog.cpp:264
 #, kde-format
 msgid "Date (not supported by KControl)"
 msgstr ""
@@ -143,7 +143,7 @@ msgstr ""
 msgid "Could not load ability list."
 msgstr ""
 
-#: kameradevice.cpp:103 kameradevice.cpp:518 kameradevice.cpp:534
+#: kameradevice.cpp:103 kameradevice.cpp:517 kameradevice.cpp:533
 #, kde-format
 msgid ""
 "Description of abilities for camera %1 is not available. Configuration "
@@ -194,7 +194,7 @@ msgstr "അജ്ഞാത പോർട്ട്"
 msgid "Select Camera Device"
 msgstr "ക്യാമറ ഉപകരണം തിരഞ്ഞെടുക്കുക"
 
-#: kameradevice.cpp:319
+#: kameradevice.cpp:320
 #, kde-format
 msgctxt "@title:column"
 msgid "Supported Cameras"
@@ -228,22 +228,22 @@ msgstr ""
 msgid "Port Settings"
 msgstr "പോർട്ട് ക്രമീകരണങ്ങൾ"
 
-#: kameradevice.cpp:371
+#: kameradevice.cpp:370
 #, kde-format
 msgid "No port type selected."
 msgstr "പോർട്ട് തരം തിരഞ്ഞെടുത്തിട്ടില്ല"
 
-#: kameradevice.cpp:379
+#: kameradevice.cpp:378
 #, kde-format
 msgid "Port:"
 msgstr "പോർട്ട്:"
 
-#: kameradevice.cpp:382
+#: kameradevice.cpp:381
 #, kde-format
 msgid "Specify here the serial port to which you connect the camera."
 msgstr "നിങ്ങൾ ക്യാമറയുമായി ബന്ധിപ്പിക്കുന്ന സീരിയൽ പോർട്ട് ഇവിടെ വ്യക്തമാക്കുക"
 
-#: kameradevice.cpp:390
+#: kameradevice.cpp:389
 #, kde-format
 msgid "No further configuration is required for USB cameras."
 msgstr "യു എസ് ബി ക്യാമരകൾക് തുടർക്രമീകരണങ്ങൾ ആവശ്യമില്ല"

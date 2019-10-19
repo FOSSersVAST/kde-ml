@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xdg-desktop-portal-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:27+0200\n"
+"POT-Creation-Date: 2019-07-04 03:13+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/accessdialog.cpp:42
+#: src/accessdialog.cpp:41
 #, kde-format
 msgid "Request device access"
 msgstr ""
@@ -46,7 +46,7 @@ msgstr ""
 msgid "TextLabel"
 msgstr ""
 
-#: src/appchooserdialog.cpp:56
+#: src/appchooserdialog.cpp:55
 #, kde-format
 msgid ""
 "Select application to open \"%1\". Other applications are available in <a "
@@ -54,7 +54,7 @@ msgid ""
 "a>."
 msgstr ""
 
-#: src/appchooserdialog.cpp:84
+#: src/appchooserdialog.cpp:83
 #, kde-format
 msgid "Open with"
 msgstr ""

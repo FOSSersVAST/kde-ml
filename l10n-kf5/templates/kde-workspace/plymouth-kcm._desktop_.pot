@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-09-26 01:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,49 +16,49 @@ msgctxt "Name"
 msgid "Plymouth Control Module"
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:41
+#: src/kcmplymouth_actions.actions:42
 msgctxt "Name"
 msgid "Save the Plymouth Theme"
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:76
+#: src/kcmplymouth_actions.actions:78
 msgctxt "Description"
 msgid "System policies prevent you from applying the Plymouth theme."
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:114
+#: src/kcmplymouth_actions.actions:117
 msgctxt "Name"
 msgid "Install a new Plymouth Theme"
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:149
+#: src/kcmplymouth_actions.actions:153
 msgctxt "Description"
 msgid "System policies prevent you from installing a Plymouth theme."
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:187
+#: src/kcmplymouth_actions.actions:192
 msgctxt "Name"
 msgid "Uninstall a new Plymouth Theme"
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:222
+#: src/kcmplymouth_actions.actions:228
 msgctxt "Description"
 msgid "System policies prevent you from uninstalling a Plymouth theme."
 msgstr ""
 
 #: src/kcm_plymouth.desktop:14
 msgctxt "Name"
-msgid "Boot Splash"
+msgid "Boot Splash Screen"
 msgstr ""
 
-#: src/kcm_plymouth.desktop:50
+#: src/kcm_plymouth.desktop:40
 msgctxt "Comment"
-msgid "Plymouth Splash Screen"
+msgid "Choose Plymouth boot splash screen"
 msgstr ""
 
-#: src/kcm_plymouth.desktop:86
+#: src/kcm_plymouth.desktop:66
 msgctxt "X-KDE-Keywords"
-msgid "plymouth,splash,splash screen"
+msgid "plymouth,splash,splash screen,boot splash"
 msgstr ""
 
 #: src/package/metadata.desktop:2
@@ -66,7 +66,7 @@ msgctxt "Name"
 msgid "System Splash"
 msgstr ""
 
-#: src/package/metadata.desktop:38
+#: src/package/metadata.desktop:39
 msgctxt "Comment"
 msgid "Plymouth splash screen"
 msgstr ""

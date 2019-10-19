@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:36+0000\n"
+"POT-Creation-Date: 2019-07-13 03:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -34,6 +34,11 @@ msgstr ""
 #: dataengines/potd/noaaprovider.json
 msgctxt "Name"
 msgid "NOAA Environmental Visualization Laboratory Picture of the Day"
+msgstr ""
+
+#: dataengines/potd/unsplashprovider.json
+msgctxt "Name"
+msgid "Unsplash Wallpapers"
 msgstr ""
 
 #: dataengines/potd/apodprovider.json
@@ -69,6 +74,11 @@ msgstr ""
 #: dataengines/potd/noaaprovider.json
 msgctxt "Description"
 msgid "NOAA Provider"
+msgstr ""
+
+#: dataengines/potd/unsplashprovider.json
+msgctxt "Description"
+msgid "Unsplash Wallpaper Provider"
 msgstr ""
 
 #: dataengines/potd/apodprovider.json

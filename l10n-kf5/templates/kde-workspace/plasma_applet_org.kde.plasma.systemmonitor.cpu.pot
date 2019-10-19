@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-06-17 03:18+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #. i18nc("CPU usage: %1 is the value, %2 the unit datatype", "%1 %2")
 #. return i18n("%1 %2", Math.round(data.value), data.units);
-#: contents/ui/cpu.qml:45
+#: contents/ui/cpu.qml:49
 #, kde-format
 msgctxt "CPU usage: %1 is the value, %2 the unit datatype"
 msgid "%1 %2"

@@ -52,12 +52,12 @@ msgctxt "AboutPage|"
 msgid "Translators"
 msgstr ""
 
-#: controls/ContextDrawer.qml:78
+#: controls/ContextDrawer.qml:79
 msgctxt "ContextDrawer|"
 msgid "Actions"
 msgstr ""
 
-#: controls/GlobalDrawer.qml:446
+#: controls/GlobalDrawer.qml:450
 msgctxt "GlobalDrawer|"
 msgid "Back"
 msgstr ""
@@ -67,7 +67,7 @@ msgctxt "PasswordField|"
 msgid "Password"
 msgstr ""
 
-#: controls/private/globaltoolbar/ToolBarPageHeader.qml:107
+#: controls/private/globaltoolbar/ToolBarPageHeader.qml:116
 msgctxt "ToolBarPageHeader|"
 msgid "More Actions"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:39+0200\n"
+"POT-Creation-Date: 2019-10-07 02:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: kateproject.cpp:338
+#: kateproject.cpp:381
 #, kde-format
 msgid "<untracked>"
 msgstr ""
@@ -56,12 +56,28 @@ msgstr ""
 msgid "&Mercurial"
 msgstr ""
 
-#: kateprojectconfigpage.cpp:65 kateprojectpluginview.cpp:148
+#: kateprojectconfigpage.cpp:56
+#, kde-format
+msgctxt "Groupbox title"
+msgid "Project Index"
+msgstr ""
+
+#: kateprojectconfigpage.cpp:57
+#, kde-format
+msgid "Project ctags index settings"
+msgstr ""
+
+#: kateprojectconfigpage.cpp:58
+#, kde-format
+msgid "Enable indexing"
+msgstr ""
+
+#: kateprojectconfigpage.cpp:84 kateprojectpluginview.cpp:62
 #, kde-format
 msgid "Projects"
 msgstr ""
 
-#: kateprojectconfigpage.cpp:70
+#: kateprojectconfigpage.cpp:89
 #, kde-format
 msgctxt "Groupbox title"
 msgid "Projects Properties"
@@ -119,21 +135,21 @@ msgstr ""
 msgid "Message"
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:112
+#: kateprojectinfoviewcodeanalysis.cpp:108
 #, kde-format
 msgid ""
 "%1<br/><br/>The tool will be run on all project files which match this list "
 "of file extensions:<br/><br/><b>%2</b>"
 msgstr ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:247
+#: kateprojectinfoviewcodeanalysis.cpp:240
 #, kde-format
 msgid "Analysis on %1 file finished."
 msgid_plural "Analysis on %1 files finished."
 msgstr[0] ""
 msgstr[1] ""
 
-#: kateprojectinfoviewcodeanalysis.cpp:252
+#: kateprojectinfoviewcodeanalysis.cpp:245
 #, kde-format
 msgid "Analysis on %1 file failed with exit code %2."
 msgid_plural "Analysis on %1 files failed with exit code %2."
@@ -150,14 +166,33 @@ msgstr ""
 msgid "Kind"
 msgstr ""
 
-#: kateprojectinfoviewindex.cpp:44 kateprojectview.cpp:54
+#: kateprojectinfoviewindex.cpp:44
 #, kde-format
 msgid "Search"
 msgstr ""
 
-#: kateprojectinfoviewindex.cpp:155
+#: kateprojectinfoviewindex.cpp:158
 #, kde-format
 msgid "The index could not be created. Please install 'ctags'."
+msgstr ""
+
+#: kateprojectinfoviewindex.cpp:160
+#, kde-format
+msgid ""
+"The index is not enabled. Please add '\"index\": true' to your .kateproject "
+"file."
+msgstr ""
+
+#: kateprojectplugin.cpp:404
+#, kde-format
+msgid "Full path to current project excluding the file name."
+msgstr ""
+
+#: kateprojectplugin.cpp:419
+#, kde-format
+msgid ""
+"Full path to current project excluding the file name, with native path "
+"separator (backslash on Windows)."
 msgstr ""
 
 #: kateprojectpluginview.cpp:56
@@ -165,19 +200,19 @@ msgstr ""
 msgid "Kate Project Manager"
 msgstr ""
 
-#: kateprojectpluginview.cpp:95
+#: kateprojectpluginview.cpp:63
+#, kde-format
+msgid "Current Project"
+msgstr ""
+
+#: kateprojectpluginview.cpp:124
 #, kde-format
 msgid "Project"
 msgstr ""
 
-#: kateprojectpluginview.cpp:98 kateprojectpluginview.cpp:523
+#: kateprojectpluginview.cpp:127 kateprojectpluginview.cpp:472
 #, kde-format
 msgid "Lookup: %1"
-msgstr ""
-
-#: kateprojectpluginview.cpp:149
-#, kde-format
-msgid "Current Project"
 msgstr ""
 
 #: kateprojecttreeviewcontextmenu.cpp:86
@@ -190,19 +225,24 @@ msgstr ""
 msgid "Open With"
 msgstr ""
 
-#: kateprojecttreeviewcontextmenu.cpp:110
+#: kateprojecttreeviewcontextmenu.cpp:109
 #, kde-format
 msgid "&Open Containing Folder"
 msgstr ""
 
-#: kateprojecttreeviewcontextmenu.cpp:115
+#: kateprojecttreeviewcontextmenu.cpp:114
 #, kde-format
 msgid "Properties"
 msgstr ""
 
-#: kateprojecttreeviewcontextmenu.cpp:125
+#: kateprojecttreeviewcontextmenu.cpp:123
 #, kde-format
 msgid "Git:"
+msgstr ""
+
+#: kateprojectview.cpp:57
+#, kde-format
+msgid "Filter..."
 msgstr ""
 
 #. i18n: ectx: Menu (projects)

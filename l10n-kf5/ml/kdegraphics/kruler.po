@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kruler\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:07+0200\n"
+"POT-Creation-Date: 2019-10-14 02:59+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -63,220 +63,220 @@ msgstr ""
 msgid "Show tray icon"
 msgstr ""
 
-#: klineal.cpp:94
+#: klineal.cpp:89
 #, kde-format
 msgctxt "@title:window"
 msgid "KRuler"
 msgstr ""
 
-#: klineal.cpp:98
+#: klineal.cpp:93
 #, kde-format
 msgid ""
 "This is a tool to measure pixel distances on the screen. It is useful for "
 "working on layouts of dialogs, web pages etc."
 msgstr ""
 
-#: klineal.cpp:124
+#: klineal.cpp:119
 #, kde-format
 msgid "Rotate"
 msgstr ""
 
-#: klineal.cpp:127
+#: klineal.cpp:122
 #, kde-format
 msgid "&Scale"
 msgstr ""
 
-#: klineal.cpp:128 klineal.cpp:350
+#: klineal.cpp:123 klineal.cpp:345
 #, kde-format
 msgid "Right to Left"
 msgstr ""
 
-#: klineal.cpp:130
+#: klineal.cpp:125
 #, kde-format
 msgid "Center Origin"
 msgstr ""
 
-#: klineal.cpp:133
+#: klineal.cpp:128
 #, kde-format
 msgid "Offset..."
 msgstr ""
 
-#: klineal.cpp:137
+#: klineal.cpp:132
 #, kde-format
 msgid "Percentage"
 msgstr ""
 
-#: klineal.cpp:145
+#: klineal.cpp:140
 #, kde-format
 msgid "O&pacity"
 msgstr ""
 
-#: klineal.cpp:350
+#: klineal.cpp:345
 #, kde-format
 msgid "Left to Right"
 msgstr ""
 
-#: klineal.cpp:352
+#: klineal.cpp:347
 #, kde-format
 msgid "Bottom to Top"
 msgstr ""
 
-#: klineal.cpp:352
+#: klineal.cpp:347
 #, kde-format
 msgid "Top to Bottom"
 msgstr ""
 
-#: klineal.cpp:397
+#: klineal.cpp:392
 #, kde-format
 msgctxt "@title:window"
 msgid "Scale Offset"
 msgstr ""
 
-#: klineal.cpp:398
+#: klineal.cpp:393
 #, kde-format
 msgid "Offset:"
 msgstr ""
 
-#: klineal.cpp:428
+#: klineal.cpp:423
 #, kde-format
 msgid "Appearance"
 msgstr ""
 
-#: klineal.cpp:436
+#: klineal.cpp:431
 #, kde-format
 msgid "Advanced"
 msgstr ""
 
-#: klineal.cpp:530
+#: klineal.cpp:525
 #, kde-format
 msgid "%1 px"
 msgstr ""
 
-#: klineal.cpp:537
+#: klineal.cpp:532
 #, kde-format
 msgid "%1%"
 msgstr ""
 
 #. i18n: ectx: label, entry (BgColor), group (StoredSettings)
-#: kruler.kcfg:8
+#: kruler.kcfg:11
 #, kde-format
 msgid "Background color of the ruler."
 msgstr ""
 
 #. i18n: ectx: label, entry (Length), group (StoredSettings)
-#: kruler.kcfg:12
+#: kruler.kcfg:15
 #, kde-format
 msgid "Length of the ruler."
 msgstr ""
 
 #. i18n: ectx: label, entry (ScaleFont), group (StoredSettings)
-#: kruler.kcfg:16
+#: kruler.kcfg:19
 #, kde-format
 msgid "Font of the text on the ruler scale."
 msgstr ""
 
 #. i18n: ectx: label, entry (Horizontal), group (StoredSettings)
-#: kruler.kcfg:20
+#: kruler.kcfg:23
 #, kde-format
 msgid "Horizontal ruler"
 msgstr ""
 
 #. i18n: ectx: label, entry (LeftToRight), group (StoredSettings)
-#: kruler.kcfg:24
+#: kruler.kcfg:27
 #, kde-format
 msgid "Direction of the ruler"
 msgstr ""
 
 #. i18n: ectx: label, entry (Offset), group (StoredSettings)
-#: kruler.kcfg:28
+#: kruler.kcfg:31
 #, kde-format
 msgid "Offset of the origin"
 msgstr ""
 
 #. i18n: ectx: label, entry (RelativeScale), group (StoredSettings)
-#: kruler.kcfg:32
+#: kruler.kcfg:35
 #, kde-format
 msgid "Is the scale of the ruler relative (percentage)"
 msgstr ""
 
 #. i18n: ectx: label, entry (TrayIcon), group (StoredSettings)
-#: kruler.kcfg:36
+#: kruler.kcfg:39
 #, kde-format
 msgid "Is a tray icon used"
 msgstr ""
 
 #. i18n: ectx: label, entry (Opacity), group (StoredSettings)
-#: kruler.kcfg:40
+#: kruler.kcfg:43
 #, kde-format
 msgid "Opacity of the window"
 msgstr ""
 
 #. i18n: ectx: label, entry (NativeMoving), group (StoredSettings)
-#: kruler.kcfg:44
+#: kruler.kcfg:47
 #, kde-format
 msgid "Is native moving (possibly wobbling windows) active"
 msgstr ""
 
 #. i18n: ectx: label, entry (AlwaysOnTop), group (StoredSettings)
-#: kruler.kcfg:48
+#: kruler.kcfg:51
 #, kde-format
 msgid "Is always on top"
 msgstr ""
 
-#: krulersystemtray.cpp:28 main.cpp:35
+#: krulersystemtray.cpp:28 main.cpp:37
 #, kde-format
 msgid "KDE Screen Ruler"
 msgstr ""
 
-#: main.cpp:37
+#: main.cpp:39
 #, kde-format
 msgid "A screen ruler by KDE"
 msgstr ""
 
-#: main.cpp:39
+#: main.cpp:41
 #, kde-format
 msgid ""
 "(c) 2000 - 2008, Till Krech\n"
 "(c) 2009, Mathias Soeken"
 msgstr ""
 
-#: main.cpp:40
+#: main.cpp:42
 #, kde-format
 msgid "Mathias Soeken"
 msgstr ""
 
-#: main.cpp:40
+#: main.cpp:42
 #, kde-format
 msgid "Maintainer"
 msgstr ""
 
-#: main.cpp:41
+#: main.cpp:43
 #, kde-format
 msgid "Till Krech"
 msgstr ""
 
-#: main.cpp:41
+#: main.cpp:43
 #, kde-format
 msgid "Former Maintainer and Developer"
 msgstr ""
 
-#: main.cpp:42
+#: main.cpp:44
 #, kde-format
 msgid "Gunnstein Lye"
 msgstr ""
 
-#: main.cpp:42
+#: main.cpp:44
 #, kde-format
 msgid "Initial port to KDE 2"
 msgstr ""
 
-#: main.cpp:43
+#: main.cpp:45
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
-#: main.cpp:43
+#: main.cpp:45
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"

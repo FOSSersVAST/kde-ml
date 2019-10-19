@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-02 00:43+0000\n"
+"POT-Creation-Date: 2019-08-19 01:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,202 +16,202 @@ msgctxt "Comment"
 msgid "Plasma Workspace"
 msgstr ""
 
-#: plasma_workspace.notifyrc:50
+#: plasma_workspace.notifyrc:52
 msgctxt "Name"
 msgid "Trash: Emptied"
 msgstr ""
 
-#: plasma_workspace.notifyrc:95
+#: plasma_workspace.notifyrc:99
 msgctxt "Comment"
 msgid "The trash has been emptied"
 msgstr ""
 
-#: plasma_workspace.notifyrc:144
+#: plasma_workspace.notifyrc:150
 msgctxt "Name"
 msgid "Textcompletion: Rotation"
 msgstr ""
 
-#: plasma_workspace.notifyrc:188
+#: plasma_workspace.notifyrc:195
 msgctxt "Comment"
 msgid "The end of the list of matches has been reached"
 msgstr ""
 
-#: plasma_workspace.notifyrc:236
+#: plasma_workspace.notifyrc:245
 msgctxt "Name"
 msgid "Textcompletion: No Match"
 msgstr ""
 
-#: plasma_workspace.notifyrc:280
+#: plasma_workspace.notifyrc:291
 msgctxt "Comment"
 msgid "No matching completion was found"
 msgstr ""
 
-#: plasma_workspace.notifyrc:328
+#: plasma_workspace.notifyrc:341
 msgctxt "Name"
 msgid "Textcompletion: Partial Match"
 msgstr ""
 
-#: plasma_workspace.notifyrc:372
+#: plasma_workspace.notifyrc:387
 msgctxt "Comment"
 msgid "There is more than one possible match"
 msgstr ""
 
-#: plasma_workspace.notifyrc:420
+#: plasma_workspace.notifyrc:437
 msgctxt "Name"
 msgid "Fatal Error"
 msgstr ""
 
-#: plasma_workspace.notifyrc:464
+#: plasma_workspace.notifyrc:483
 msgctxt "Comment"
 msgid "There was a serious error causing the program to exit"
 msgstr ""
 
-#: plasma_workspace.notifyrc:513
+#: plasma_workspace.notifyrc:534
 msgctxt "Name"
 msgid "Notification"
 msgstr ""
 
-#: plasma_workspace.notifyrc:558
+#: plasma_workspace.notifyrc:581
 msgctxt "Comment"
 msgid "Something special happened in the program"
 msgstr ""
 
-#: plasma_workspace.notifyrc:606
+#: plasma_workspace.notifyrc:631
 msgctxt "Name"
 msgid "Warning"
 msgstr ""
 
-#: plasma_workspace.notifyrc:651
+#: plasma_workspace.notifyrc:678
 msgctxt "Comment"
 msgid "There was an error in the program which may cause problems"
 msgstr ""
 
-#: plasma_workspace.notifyrc:699
+#: plasma_workspace.notifyrc:727
 msgctxt "Name"
 msgid "Catastrophe"
 msgstr ""
 
-#: plasma_workspace.notifyrc:743
+#: plasma_workspace.notifyrc:773
 msgctxt "Comment"
 msgid "A very serious error occurred, at least causing the program to exit"
 msgstr ""
 
-#: plasma_workspace.notifyrc:791
+#: plasma_workspace.notifyrc:823
 msgctxt "Name"
 msgid "Application Crash"
 msgstr ""
 
-#: plasma_workspace.notifyrc:832
+#: plasma_workspace.notifyrc:866
 msgctxt "Comment"
 msgid "An application just closed unexpectedly"
 msgstr ""
 
-#: plasma_workspace.notifyrc:876
+#: plasma_workspace.notifyrc:912
 msgctxt "Name"
 msgid "Login"
 msgstr ""
 
-#: plasma_workspace.notifyrc:921
+#: plasma_workspace.notifyrc:959
 msgctxt "Comment"
 msgid "A new session is starting"
 msgstr ""
 
-#: plasma_workspace.notifyrc:969
+#: plasma_workspace.notifyrc:1009
 msgctxt "Name"
 msgid "Logout"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1014
+#: plasma_workspace.notifyrc:1056
 msgctxt "Comment"
 msgid "Session is exiting"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1063
+#: plasma_workspace.notifyrc:1107
 msgctxt "Name"
 msgid "Logout Canceled"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1108
+#: plasma_workspace.notifyrc:1154
 msgctxt "Comment"
 msgid "Plasma logout was canceled"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1156
+#: plasma_workspace.notifyrc:1204
 msgctxt "Name"
 msgid "Print Error"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1201
+#: plasma_workspace.notifyrc:1251
 msgctxt "Comment"
 msgid "A print error has occurred"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1249
+#: plasma_workspace.notifyrc:1301
 msgctxt "Name"
 msgid "Information Message"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1294
+#: plasma_workspace.notifyrc:1348
 msgctxt "Comment"
 msgid "An information message is being shown"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1342
+#: plasma_workspace.notifyrc:1398
 msgctxt "Name"
 msgid "Warning Message"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1387
+#: plasma_workspace.notifyrc:1445
 msgctxt "Comment"
 msgid "A warning message is being shown"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1435
+#: plasma_workspace.notifyrc:1495
 msgctxt "Name"
 msgid "Critical Message"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1480
+#: plasma_workspace.notifyrc:1542
 msgctxt "Comment"
 msgid "A critical message is being shown"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1528
+#: plasma_workspace.notifyrc:1592
 msgctxt "Name"
 msgid "Question"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1573
+#: plasma_workspace.notifyrc:1639
 msgctxt "Comment"
 msgid "A question is being asked"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1622
+#: plasma_workspace.notifyrc:1690
 msgctxt "Name"
 msgid "Beep"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1667
+#: plasma_workspace.notifyrc:1737
 msgctxt "Comment"
 msgid "Sound bell"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1715
+#: plasma_workspace.notifyrc:1787
 msgctxt "Name"
 msgid "Widget failed to install"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1756
+#: plasma_workspace.notifyrc:1830
 msgctxt "Comment"
 msgid "A widget could not be installed"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1800
+#: plasma_workspace.notifyrc:1876
 msgctxt "Name"
 msgid "Widget deleted"
 msgstr ""
 
-#: plasma_workspace.notifyrc:1842
+#: plasma_workspace.notifyrc:1920
 msgctxt "Comment"
 msgid "A widget has been deleted"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-10-03 03:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -42,51 +42,51 @@ msgstr ""
 msgid "Plasma Shell"
 msgstr ""
 
-#: main.cpp:96
+#: main.cpp:101
 #, kde-format
 msgid "Enable QML Javascript debugger"
 msgstr ""
 
-#: main.cpp:100
+#: main.cpp:105
 #, kde-format
 msgid "Do not restart plasma-shell automatically after a crash"
 msgstr ""
 
-#: main.cpp:103
+#: main.cpp:108
 #, kde-format
 msgid "Force loading the given shell plugin"
 msgstr ""
 
-#: main.cpp:107
+#: main.cpp:112
 #, kde-format
 msgid ""
 "Load plasmashell as a standalone application, needs the shell-plugin option "
 "to be specified"
 msgstr ""
 
-#: main.cpp:110
+#: main.cpp:115
 #, kde-format
 msgid "Replace an existing instance"
 msgstr ""
 
-#: main.cpp:113
+#: main.cpp:118
 #, kde-format
 msgid ""
 "Enables test mode and specifies the layout javascript file to set up the "
 "testing environment"
 msgstr ""
 
-#: main.cpp:113
+#: main.cpp:118
 #, kde-format
 msgid "file"
 msgstr ""
 
-#: main.cpp:204
+#: main.cpp:208
 #, kde-format
 msgid "Plasma Failed To Start"
 msgstr ""
 
-#: main.cpp:205
+#: main.cpp:209
 #, kde-format
 msgid ""
 "Plasma is unable to start as it could not correctly use OpenGL 2 or software "
@@ -201,39 +201,19 @@ msgstr ""
 msgid "Activate Task Manager Entry %1"
 msgstr ""
 
-#: shellcorona.cpp:1364
+#: shellcorona.cpp:1417
 #, kde-format
 msgid "Unable to load script file: %1"
 msgstr ""
 
-#: shellcorona.cpp:1731 shellcorona.cpp:1737
+#: shellcorona.cpp:1787 shellcorona.cpp:1793
 #, kde-format
 msgid "Add Panel"
 msgstr ""
 
-#: shellcorona.cpp:1779
+#: shellcorona.cpp:1835
 #, kde-format
 msgid "Empty %1"
-msgstr ""
-
-#: shellmanager.cpp:178
-#, kde-format
-msgctxt "Fatal error message body"
-msgid ""
-"All shell packages missing.\n"
-"This is an installation issue, please contact your distribution"
-msgstr ""
-
-#: shellmanager.cpp:179 shellmanager.cpp:195
-#, kde-format
-msgctxt "Fatal error message title"
-msgid "Plasma Cannot Start"
-msgstr ""
-
-#: shellmanager.cpp:194
-#, kde-format
-msgctxt "Fatal error message body"
-msgid "Shell package %1 cannot be found"
 msgstr ""
 
 #: softwarerendernotifier.cpp:27

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kscreenlocker\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-08-16 03:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -18,94 +18,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
+#: kcm.cpp:56
+#, kde-format
+msgctxt "Spinbox suffix"
+msgid " minute"
+msgid_plural " minutes"
+msgstr[0] ""
+msgstr[1] ""
+
 #: kcm.cpp:58
 #, kde-format
-msgctxt "Spinbox suffix. Short for minutes"
-msgid " min"
-msgid_plural " mins"
+msgctxt "Spinbox suffix"
+msgid " second"
+msgid_plural " seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kcm.cpp:60
-#, kde-format
-msgctxt "Spinbox suffix. Short for seconds"
-msgid " sec"
-msgid_plural " secs"
-msgstr[0] ""
-msgstr[1] ""
-
-#: kcm.cpp:79
+#: kcm.cpp:77
 #, kde-format
 msgid "Lock Session"
 msgstr ""
 
-#: kcm.cpp:158
+#: kcm.cpp:156
 #, kde-format
 msgid "Error"
 msgstr ""
 
-#: kcm.cpp:158
+#: kcm.cpp:156
 #, kde-format
 msgid "Failed to successfully test the screen locker."
 msgstr ""
 
-#. i18n: ectx: attribute (title), widget (QWidget, tab)
-#: kcm.ui:36
+#. i18n: ectx: attribute (title), widget (QWidget, tab_1)
+#: kcm.ui:19
 #, kde-format
 msgid "Activation"
 msgstr ""
 
+#. i18n: ectx: property (text), widget (QLabel, label_1)
+#: kcm.ui:28
+#, kde-format
+msgid "Lock screen:"
+msgstr ""
+
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_Autolock)
-#: kcm.ui:50
+#: kcm.ui:40
 #, kde-format
-msgid "Lock screen automatically after:"
+msgid "Automatically after:"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: kcm.ui:73
-#, kde-format
-msgid "Re&quire password after locking:"
-msgstr ""
-
-#. i18n: ectx: property (specialValueText), widget (KPluralHandlingSpinBox, kcfg_LockGrace)
-#: kcm.ui:89
-#, kde-format
-msgid "Immediately"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QLabel, label_5)
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_LockOnResume)
-#: kcm.ui:102 kcm.ui:115
+#: kcm.ui:59
 #, kde-format
 msgid "Lock screen when waking up from suspension"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_5)
-#: kcm.ui:105
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LockOnResume)
+#: kcm.ui:62
 #, kde-format
-msgid "&Lock screen on resume:"
+msgid "After waking from sleep"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QLabel, label_7)
-#: kcm.ui:128
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: kcm.ui:69
+#, kde-format
+msgid "Allow unlocking without password for:"
+msgstr ""
+
+#. i18n: ectx: property (specialValueText), widget (KPluralHandlingSpinBox, kcfg_LockGrace)
+#: kcm.ui:79
+#, kde-format
+msgid "Immediately"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label_3)
+#: kcm.ui:92
 #, kde-format
 msgid "The global keyboard shortcut to lock the screen."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_7)
-#: kcm.ui:131
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: kcm.ui:95
 #, kde-format
 msgid "Keyboard shortcut:"
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
-#: kcm.ui:141
+#: kcm.ui:106
 #, kde-format
 msgid "Appearance"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: kcm.ui:176
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: kcm.ui:141
 #, kde-format
-msgid "Wallpaper &Type:"
+msgid "Wallpaper &type:"
 msgstr ""

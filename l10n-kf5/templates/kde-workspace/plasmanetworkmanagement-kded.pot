@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-08-15 03:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -747,7 +747,7 @@ msgstr ""
 msgid "You need to log in to this network"
 msgstr ""
 
-#: secretagent.cpp:413
+#: secretagent.cpp:414
 #, kde-format
 msgid "Authentication to %1 failed. Wrong password?"
 msgstr ""

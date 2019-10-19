@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-11 03:11+0200\n"
+"POT-Creation-Date: 2019-10-08 03:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -34,45 +34,45 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:191 contents/lockscreen/LockScreenUi.qml:234
+#: ../sddm-theme/Main.qml:193 contents/lockscreen/LockScreenUi.qml:234
 msgid "Caps Lock is on"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:203 ../sddm-theme/Main.qml:376
+#: ../sddm-theme/Main.qml:205 ../sddm-theme/Main.qml:385
 #: contents/logout/Logout.qml:177
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:210 ../sddm-theme/Main.qml:383
+#: ../sddm-theme/Main.qml:212 ../sddm-theme/Main.qml:392
 #: contents/logout/Logout.qml:195
 msgid "Restart"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:217 ../sddm-theme/Main.qml:390
+#: ../sddm-theme/Main.qml:219 ../sddm-theme/Main.qml:399
 #: contents/logout/Logout.qml:205
 msgid "Shut Down"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:224
+#: ../sddm-theme/Main.qml:226
 msgctxt "For switching to a username and password prompt"
 msgid "Other..."
 msgstr ""
 
-#: ../sddm-theme/Main.qml:364
+#: ../sddm-theme/Main.qml:373
 msgid "Type in Username and Password"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:397
+#: ../sddm-theme/Main.qml:406
 msgid "List Users"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:422 contents/lockscreen/LockScreenUi.qml:456
+#: ../sddm-theme/Main.qml:431 contents/lockscreen/LockScreenUi.qml:499
 msgctxt "Button to show/hide virtual keyboard"
 msgid "Virtual Keyboard"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:446
+#: ../sddm-theme/Main.qml:456
 msgid "Login Failed"
 msgstr ""
 
@@ -113,8 +113,13 @@ msgctxt "Username (location)"
 msgid "%1 (%2)"
 msgstr ""
 
-#: contents/lockscreen/config.qml:15
-msgid "Show media controls:"
+#: contents/lockscreen/config.qml:13
+msgid "Media controls:"
+msgstr ""
+
+#: contents/lockscreen/config.qml:17
+msgctxt "verb, to show something"
+msgid "Show"
 msgstr ""
 
 #: contents/lockscreen/LockScreenUi.qml:42
@@ -125,15 +130,15 @@ msgstr ""
 msgid "Switch User"
 msgstr ""
 
-#: contents/lockscreen/LockScreenUi.qml:422
+#: contents/lockscreen/LockScreenUi.qml:447
+msgid "Switch to This Session"
+msgstr ""
+
+#: contents/lockscreen/LockScreenUi.qml:455
 msgid "Start New Session"
 msgstr ""
 
-#: contents/lockscreen/LockScreenUi.qml:422
-msgid "Switch Session"
-msgstr ""
-
-#: contents/lockscreen/LockScreenUi.qml:429
+#: contents/lockscreen/LockScreenUi.qml:468
 msgid "Back"
 msgstr ""
 
@@ -227,24 +232,24 @@ msgctxt "Textfield placeholder text"
 msgid "Search..."
 msgstr ""
 
-#: contents/runcommand/RunCommand.qml:173
-#: contents/runcommand/RunCommand.qml:175
+#: contents/runcommand/RunCommand.qml:199
+#: contents/runcommand/RunCommand.qml:201
 msgid "Close"
 msgstr ""
 
-#: contents/runcommand/RunCommand.qml:174
+#: contents/runcommand/RunCommand.qml:200
 msgid "Close Search"
 msgstr ""
 
-#: contents/runcommand/RunCommand.qml:234
+#: contents/runcommand/RunCommand.qml:260
 msgid "Recent Queries"
 msgstr ""
 
-#: contents/runcommand/RunCommand.qml:237
+#: contents/runcommand/RunCommand.qml:263
 msgid "Remove"
 msgstr ""
 
-#: contents/runcommand/RunCommand.qml:239
+#: contents/runcommand/RunCommand.qml:265
 msgid "in category recent queries"
 msgstr ""
 

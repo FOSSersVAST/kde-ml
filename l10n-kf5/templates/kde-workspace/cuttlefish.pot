@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-sdk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-10-02 03:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,92 +17,167 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: package/contents/ui/Preview.qml:134
+#: package/contents/ui/GlobalMenuBar.qml:34
 #, kde-format
-msgid "Name:"
+msgid "File"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:141
+#: package/contents/ui/GlobalMenuBar.qml:36
 #, kde-format
-msgid "Filename:"
+msgid "Export Montage with Color Scheme..."
 msgstr ""
 
-#: package/contents/ui/Preview.qml:149
+#: package/contents/ui/GlobalMenuBar.qml:38
+#: package/contents/ui/ResponsivePreview.qml:91
 #, kde-format
-msgid "Category:"
+msgid "Active Color Scheme"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:156
+#: package/contents/ui/GlobalMenuBar.qml:42
 #, kde-format
-msgid "Scalable:"
+msgid "Breeze (Normal)"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:159
+#: package/contents/ui/GlobalMenuBar.qml:46
 #, kde-format
-msgid "yes"
+msgid "Breeze Dark"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:159
+#: package/contents/ui/GlobalMenuBar.qml:50
+#: package/contents/ui/ResponsivePreview.qml:87
 #, kde-format
-msgid "no"
+msgid "Breeze (Normal) and Breeze Dark"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:162
+#: package/contents/ui/GlobalMenuBar.qml:57
 #, kde-format
-msgid "Sizes:"
+msgid "Quit"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:172
+#: package/contents/ui/GlobalMenuBar.qml:63
 #, kde-format
-msgid "Insert icon name"
+msgid "View"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:172
+#: package/contents/ui/GlobalMenuBar.qml:66
+#, kde-format
+msgid "Zoom In"
+msgstr ""
+
+#: package/contents/ui/GlobalMenuBar.qml:72
+#, kde-format
+msgid "Zoom Out"
+msgstr ""
+
+#: package/contents/ui/Menu.qml:35 package/contents/ui/Preview.qml:263
+#: package/contents/ui/ResponsivePreview.qml:67
 #, kde-format
 msgid "Copy icon name to clipboard"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:178
+#: package/contents/ui/Menu.qml:38 package/contents/ui/Preview.qml:267
+#: package/contents/ui/ResponsivePreview.qml:71
 #, kde-format
-msgid "Insert QtQuick code"
+msgid "Icon name copied to clipboard"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:178
+#: package/contents/ui/Menu.qml:43 package/contents/ui/Preview.qml:257
+#: package/contents/ui/ResponsivePreview.qml:62
 #, kde-format
-msgid "Copy QtQuick code to clipboard"
+msgid "Open icon with external program"
 msgstr ""
 
-#: package/contents/ui/Preview.qml:195
+#: package/contents/ui/Preview.qml:104 package/contents/ui/ResponsivePreview.qml:113
 #, kde-format
-msgid "Update preview on hover"
+msgid "File name:"
 msgstr ""
 
-#: package/contents/ui/Tools.qml:122
+#: package/contents/ui/Preview.qml:109 package/contents/ui/ResponsivePreview.qml:118
 #, kde-format
-msgid "Inverted"
+msgid "Category:"
 msgstr ""
 
-#: package/contents/ui/Tools.qml:128
+#: package/contents/ui/Preview.qml:114 package/contents/ui/ResponsivePreview.qml:123
 #, kde-format
-msgid "Monochrome"
+msgid "Scalable:"
 msgstr ""
 
-#: src/main.cpp:45
+#: package/contents/ui/Preview.qml:115 package/contents/ui/ResponsivePreview.qml:124
+#, kde-format
+msgid "yes"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:115 package/contents/ui/ResponsivePreview.qml:124
+#, kde-format
+msgid "no"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:274
+#, kde-format
+msgid "Create screenshot of icon"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:283
+#, kde-format
+msgid "Screenshot with Breeze Colors"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:289
+#, kde-format
+msgid "Screenshot with Breeze Dark Colors"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:295
+#, kde-format
+msgid "Screenshot with Breeze (Normal) and Breeze Dark"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:301
+#, kde-format
+msgid "Screenshot with Active Color Scheme"
+msgstr ""
+
+#: package/contents/ui/Preview.qml:310 package/contents/ui/ResponsivePreview.qml:95
+#, kde-format
+msgid "View icon in other themes"
+msgstr ""
+
+#: package/contents/ui/ResponsivePreview.qml:76
+#, kde-format
+msgid "Create screenshot of icon with..."
+msgstr ""
+
+#: package/contents/ui/ResponsivePreview.qml:78
+#, kde-format
+msgid "Breeze Colors"
+msgstr ""
+
+#: package/contents/ui/ResponsivePreview.qml:82
+#, kde-format
+msgid "Breeze Dark Colors"
+msgstr ""
+
+#: package/contents/ui/Tools.qml:126
+#, kde-format
+msgid "Color scheme:"
+msgstr ""
+
+#: src/main.cpp:84
 #, kde-format
 msgid "Start with category"
 msgstr ""
 
-#: src/main.cpp:45
+#: src/main.cpp:84
 #, kde-format
 msgid "category"
 msgstr ""
 
-#: src/main.cpp:49
+#: src/main.cpp:88
 #, kde-format
 msgid "Start full-screen"
 msgstr ""
 
-#: src/main.cpp:53
+#: src/main.cpp:92
 #, kde-format
 msgid "Run in icon-picker mode"
 msgstr ""

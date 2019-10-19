@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-09-29 01:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -11,20 +11,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: kcm/kcm_kscreen.desktop.cmake:12
+#: kcm/kcm_kscreen.desktop:11 plasmoid/package/metadata.desktop:2
 msgctxt "Name"
-msgid "Displays"
+msgid "Display Configuration"
 msgstr ""
 
-#: kcm/kcm_kscreen.desktop.cmake:51
+#: kcm/kcm_kscreen.desktop:49 kcm/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Manage and configure monitors and displays"
 msgstr ""
 
-#: kcm/kcm_kscreen.desktop.cmake:95
+#: kcm/kcm_kscreen.desktop:94
 msgctxt "X-KDE-Keywords"
 msgid ""
 "display,monitor,scale,scaling,resolution,orientation,outputs,screen,refresh"
+msgstr ""
+
+#: kcm/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Displays"
 msgstr ""
 
 #: kded/kscreen.desktop.cmake:2
@@ -32,7 +37,7 @@ msgctxt "Name"
 msgid "KScreen 2"
 msgstr ""
 
-#: kded/kscreen.desktop.cmake:46
+#: kded/kscreen.desktop.cmake:47
 msgctxt "Comment"
 msgid "Screen management"
 msgstr ""
@@ -42,17 +47,12 @@ msgctxt "Name"
 msgid "Quick Display Configuration"
 msgstr ""
 
-#: plasma/plasma-applet-kscreen.desktop.cmake:40
+#: plasma/plasma-applet-kscreen.desktop.cmake:41
 msgctxt "Comment"
 msgid "Quick configuration of a new display"
 msgstr ""
 
-#: plasmoid/package/metadata.desktop:2
-msgctxt "Name"
-msgid "Display Configuration"
-msgstr ""
-
-#: plasmoid/package/metadata.desktop:39
+#: plasmoid/package/metadata.desktop:40
 msgctxt "Comment"
 msgid "Quickly switch between screen layouts and presentation mode"
 msgstr ""

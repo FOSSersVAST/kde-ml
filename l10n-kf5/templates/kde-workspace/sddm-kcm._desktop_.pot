@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-11 01:17+0000\n"
+"POT-Creation-Date: 2019-10-13 01:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,52 +16,52 @@ msgctxt "Name"
 msgid "SDDM"
 msgstr ""
 
-#: kcm_sddm.actions:49
+#: kcm_sddm.actions:50
 msgctxt "Name"
 msgid "Save Settings"
 msgstr ""
 
-#: kcm_sddm.actions:93
+#: kcm_sddm.actions:95
 msgctxt "Description"
 msgid "Save Settings in SDDM"
 msgstr ""
 
-#: kcm_sddm.actions:139
+#: kcm_sddm.actions:142
 msgctxt "Name"
 msgid "Install an SDDM theme"
 msgstr ""
 
-#: kcm_sddm.actions:177
+#: kcm_sddm.actions:181
 msgctxt "Description"
 msgid "Extracts a zip file containing an SDDM theme to the SDDM theme location"
 msgstr ""
 
-#: kcm_sddm.actions:218
+#: kcm_sddm.actions:223
 msgctxt "Name"
 msgid "Uninstall an SDDM theme"
 msgstr ""
 
-#: kcm_sddm.actions:256
+#: kcm_sddm.actions:262
 msgctxt "Description"
 msgid "Removes a previously installed SDDM theme"
 msgstr ""
 
-#: kcm_sddm.actions:297
+#: kcm_sddm.actions:304
 msgctxt "Name"
 msgid "Synchronize Settings"
 msgstr ""
 
-#: kcm_sddm.actions:319
+#: kcm_sddm.actions:331
 msgctxt "Description"
 msgid "Synchronizes user settings with SDDM settings"
 msgstr ""
 
-#: kcm_sddm.actions:343
+#: kcm_sddm.actions:361
 msgctxt "Name"
 msgid "Reset Settings"
 msgstr ""
 
-#: kcm_sddm.actions:365
+#: kcm_sddm.actions:388
 msgctxt "Description"
 msgid "Resets SDDM settings so there are not user settings"
 msgstr ""
@@ -71,12 +71,12 @@ msgctxt "X-KDE-Keywords"
 msgid "sddm,display manager,theme"
 msgstr ""
 
-#: kcm_sddm.desktop:56
+#: kcm_sddm.desktop:57
 msgctxt "Name"
 msgid "Login Screen (SDDM)"
 msgstr ""
 
-#: kcm_sddm.desktop:100
+#: kcm_sddm.desktop:102
 msgctxt "Comment"
 msgid "Configure Login Manager"
 msgstr ""

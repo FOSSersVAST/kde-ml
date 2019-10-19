@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfindpart\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:39+0200\n"
+"POT-Creation-Date: 2019-08-23 02:21+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -19,150 +19,150 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: kfinddlg.cpp:47
+#: kfinddlg.cpp:43
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Find Files/Folders"
 msgstr "ഫയലുകള്‍/അറകള്‍ കണ്ടുപിടിക്കുക"
 
-#: kfinddlg.cpp:66 kfinddlg.cpp:215
+#: kfinddlg.cpp:62 kfinddlg.cpp:211
 #, kde-format
 msgctxt "the application is currently idle, there is no active search"
 msgid "Idle."
 msgstr "നിശ്‌ചലം."
 
 #. i18n as below
-#: kfinddlg.cpp:151
+#: kfinddlg.cpp:147
 #, kde-format
 msgid "0 items found"
 msgstr "ഒന്നും കണ്ടുകിട്ടിയില്ല"
 
-#: kfinddlg.cpp:190
+#: kfinddlg.cpp:186
 #, kde-format
 msgid "Searching..."
 msgstr "തെരയുന്നു..."
 
-#: kfinddlg.cpp:217
+#: kfinddlg.cpp:213
 #, kde-format
 msgid "Canceled."
 msgstr "റദ്ദാക്കിയിരിക്കുന്നു."
 
-#: kfinddlg.cpp:219 kfinddlg.cpp:222 kfinddlg.cpp:225
+#: kfinddlg.cpp:215 kfinddlg.cpp:218 kfinddlg.cpp:221
 #, kde-format
 msgid "Error."
 msgstr "പിശകു്."
 
-#: kfinddlg.cpp:220
+#: kfinddlg.cpp:216
 #, kde-format
 msgid "Please specify an absolute path in the \"Look in\" box."
 msgstr "\"ഇതില്‍ നോക്കുക\" കളത്തില്‍ ഒരു പൂര്‍ണമായ സ്ഥാന പേരു്‌ വ്യക്തമാക്കുക."
 
-#: kfinddlg.cpp:223
+#: kfinddlg.cpp:219
 #, kde-format
 msgid "Could not find the specified folder."
 msgstr "പറഞ്ഞിരിക്കുന്ന അറ ലഭ്യമാക്കുവാന്‍ സാധ്യമായില്ല."
 
-#: kfinddlg.cpp:246 kfinddlg.cpp:270
+#: kfinddlg.cpp:242 kfinddlg.cpp:266
 #, kde-format
 msgid "one item found"
 msgid_plural "%1 items found"
 msgstr[0] "ഒരു ഫയല്‍ കണ്ടെത്തി"
 msgstr[1] "%1 ഫയലുകള്‍ കണ്ടെത്തി"
 
-#: kfindtreeview.cpp:51
+#: kfindtreeview.cpp:50
 #, kde-format
 msgid "Read-write"
 msgstr "റീഡ്-റൈറ്റ്"
 
-#: kfindtreeview.cpp:52
+#: kfindtreeview.cpp:51
 #, kde-format
 msgid "Read-only"
 msgstr "റീഡ്-ഒണ്‍ലി"
 
-#: kfindtreeview.cpp:53
+#: kfindtreeview.cpp:52
 #, kde-format
 msgid "Write-only"
 msgstr "റൈറ്റ്-ഒണ്‍ലി"
 
-#: kfindtreeview.cpp:54
+#: kfindtreeview.cpp:53
 #, kde-format
 msgid "Inaccessible"
 msgstr "ലഭ്യമല്ലാത്ത"
 
-#: kfindtreeview.cpp:74
+#: kfindtreeview.cpp:73
 #, kde-format
 msgctxt "file name column"
 msgid "Name"
 msgstr "പേര്"
 
-#: kfindtreeview.cpp:76
+#: kfindtreeview.cpp:75
 #, fuzzy, kde-format
 msgctxt "name of the containing folder"
 msgid "In Subfolder"
 msgstr "ഉപഫോള്‍ഡറില്‍"
 
-#: kfindtreeview.cpp:78
+#: kfindtreeview.cpp:77
 #, kde-format
 msgctxt "file size column"
 msgid "Size"
 msgstr "വലിപ്പം"
 
-#: kfindtreeview.cpp:80
+#: kfindtreeview.cpp:79
 #, kde-format
 msgctxt "modified date column"
 msgid "Modified"
 msgstr "പരിഷ്കരിച്ചത്"
 
-#: kfindtreeview.cpp:82
+#: kfindtreeview.cpp:81
 #, kde-format
 msgctxt "file permissions column"
 msgid "Permissions"
 msgstr "അനുമതികള്‍"
 
-#: kfindtreeview.cpp:84
+#: kfindtreeview.cpp:83
 #, fuzzy, kde-format
 msgctxt "first matching line of the query string in this file"
 msgid "First Matching Line"
 msgstr "ചേരുന്ന ആദ്യത്തെ വരി"
 
-#: kfindtreeview.cpp:346
+#: kfindtreeview.cpp:345
 #, kde-format
 msgid "&Open containing folder(s)"
 msgstr ""
 
-#: kfindtreeview.cpp:350
+#: kfindtreeview.cpp:349
 #, fuzzy, kde-format
 msgid "&Delete"
 msgstr "വെട്ടിമാറ്റുക"
 
-#: kfindtreeview.cpp:354
+#: kfindtreeview.cpp:353
 #, kde-format
 msgid "&Move to Trash"
 msgstr ""
 
-#: kfindtreeview.cpp:431
+#: kfindtreeview.cpp:430
 #, kde-format
 msgctxt "@title:window"
 msgid "Save Results As"
 msgstr "ഫലങ്ങള്‍ സൂക്ഷിക്കേണ്ട പേര്"
 
-#: kfindtreeview.cpp:456
+#: kfindtreeview.cpp:455
 #, kde-format
 msgid "Unable to save results."
 msgstr "ഫലങ്ങള്‍ സൂക്ഷിക്കുവാന്‍ സാധ്യമായില്ല."
 
-#: kfindtreeview.cpp:471
+#: kfindtreeview.cpp:470
 #, kde-format
 msgid "KFind Results File"
 msgstr "KFind ഫലങ്ങളുടെ ഫയല്‍"
 
-#: kfindtreeview.cpp:486
+#: kfindtreeview.cpp:485
 #, kde-format
 msgctxt "%1=filename"
 msgid "Results were saved to: %1"
 msgstr "ഫലങ്ങള്‍ സൂക്ഷിച്ചിരിക്കുന്നത്: %1"
 
-#: kfindtreeview.cpp:574 kftabdlg.cpp:437
+#: kfindtreeview.cpp:573 kftabdlg.cpp:437
 #, kde-format
 msgid "&Properties"
 msgstr "&ഗുണഗണങ്ങള്‍"
@@ -530,145 +530,145 @@ msgid_plural "years"
 msgstr[0] "വര്‍ഷങ്ങള്‍"
 msgstr[1] "വര്‍ഷങ്ങള്‍"
 
-#: kquery.cpp:600
+#: kquery.cpp:599
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Error while using locate"
 msgstr "locate ഉപയോഗിക്കുമ്പോള്‍ പിശകു്"
 
-#: main.cpp:41
+#: main.cpp:40
 #, kde-format
 msgid "KFind"
 msgstr "KFind"
 
-#: main.cpp:42
+#: main.cpp:41
 #, kde-format
 msgid "KDE file find utility"
 msgstr "കെഡിഇയിലെ ഫയല്‍ തെരയുന്നതിനുള്ള പ്രയോഗം"
 
-#: main.cpp:43
+#: main.cpp:42
 #, fuzzy, kde-format
 msgid "(c) 1998-2017, The KDE Developers"
 msgstr "(c) 1998-2003, കെഡിഇ രചയിതാക്കള്‍"
 
-#: main.cpp:45
+#: main.cpp:44
 #, kde-format
 msgid "Kai-Uwe Broulik"
 msgstr ""
 
-#: main.cpp:45
+#: main.cpp:44
 #, kde-format
 msgid "Current Maintainer"
 msgstr "നിലവിലുള്ള പരിപാലകന്‍"
 
-#: main.cpp:46
+#: main.cpp:45
 #, kde-format
 msgid "Eric Coquelle"
 msgstr "എറിക് കോക്വല്‍"
 
-#: main.cpp:46
+#: main.cpp:45
 #, fuzzy, kde-format
 msgid "Former Maintainer"
 msgstr "നിലവിലുള്ള പരിപാലകന്‍"
 
-#: main.cpp:47
+#: main.cpp:46
 #, kde-format
 msgid "Mark W. Webb"
 msgstr "മാര്‍ക് ഡബ്ല്യൂ വെബ്"
 
-#: main.cpp:47
+#: main.cpp:46
 #, kde-format
 msgid "Developer"
 msgstr "രചയിതാവു്"
 
-#: main.cpp:48
+#: main.cpp:47
 #, kde-format
 msgid "Beppe Grimaldi"
 msgstr "ബീപ്പ് ഗ്രിമാള്‍ഡി"
 
-#: main.cpp:48
+#: main.cpp:47
 #, kde-format
 msgid "UI Design & more search options"
 msgstr "യുഐ ഡിസൈനും കൂടുതല്‍ തെരച്ചില്‍ രീതികളും"
 
-#: main.cpp:49
+#: main.cpp:48
 #, kde-format
 msgid "Martin Hartig"
 msgstr "മാര്‍ട്ടിന്‍ ഹാര്‍ട്ടിഗ്"
 
-#: main.cpp:50
+#: main.cpp:49
 #, kde-format
 msgid "Stephan Kulow"
 msgstr "സ്റ്റീഫന്‍ കുലൌ"
 
-#: main.cpp:51
+#: main.cpp:50
 #, kde-format
 msgid "Mario Weilguni"
 msgstr "മാറിയോ വെയില്‍ഗുനി"
 
-#: main.cpp:52
+#: main.cpp:51
 #, kde-format
 msgid "Alex Zepeda"
 msgstr "അലക്സ് സെപ്പെഡാ"
 
-#: main.cpp:53
+#: main.cpp:52
 #, kde-format
 msgid "Miroslav Flídr"
 msgstr "മിറോസ്ലാവ് ഫ്ലിഡര്‍"
 
-#: main.cpp:54
+#: main.cpp:53
 #, kde-format
 msgid "Harri Porten"
 msgstr "ഹാരി പോര്‍ട്ടന്‍"
 
-#: main.cpp:55
+#: main.cpp:54
 #, kde-format
 msgid "Dima Rogozin"
 msgstr "ഡിമോ റോഗോസിന്‍"
 
-#: main.cpp:56
+#: main.cpp:55
 #, kde-format
 msgid "Carsten Pfeiffer"
 msgstr "കാര്‍സ്റ്റന്‍ ഫൈഫെര്‍"
 
-#: main.cpp:57
+#: main.cpp:56
 #, kde-format
 msgid "Hans Petter Bieker"
 msgstr "ഹാന്‍സ് പെറ്റര്‍ ബെയിക്കര്‍"
 
-#: main.cpp:58
+#: main.cpp:57
 #, kde-format
 msgid "Waldo Bastian"
 msgstr "വാള്‍ഡോ ബാസ്റ്റന്‍"
 
-#: main.cpp:58
+#: main.cpp:57
 #, kde-format
 msgid "UI Design"
 msgstr "യുഐ ഡിസൈന്‍"
 
-#: main.cpp:59
+#: main.cpp:58
 #, kde-format
 msgid "Alexander Neundorf"
 msgstr "അലക്സാണ്ടര്‍ ന്യൂണ്‍ഡോര്‍ഫ്"
 
-#: main.cpp:60
+#: main.cpp:59
 #, kde-format
 msgid "Clarence Dang"
 msgstr "ക്ലാറന്‍സ് ഡാങ്"
 
-#: main.cpp:61
+#: main.cpp:60
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "അനി പീറ്റര്‍, ഹരി വിഷ്ണു"
 
-#: main.cpp:61
+#: main.cpp:60
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "peter.ani@gmail.com,harivishnu@gmail.com"
 
-#: main.cpp:67
+#: main.cpp:66
 #, kde-format
 msgid "Path(s) to search"
 msgstr "തെരയേണ്ട പാത്ത്"

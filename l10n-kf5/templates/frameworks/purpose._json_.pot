@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-24 03:30+0000\n"
+"POT-Creation-Date: 2019-10-08 03:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: src/plugins/pastebin/pastebinplugin.json
 msgctxt "X-Purpose-ActionDisplay"
-msgid "Pastebin"
+msgid "Pastebin..."
 msgstr ""
 
 #: src/plugins/kdeconnect_sms/kdeconnectsmsplugin.json
@@ -23,7 +23,7 @@ msgstr ""
 
 #: src/plugins/nextcloud/nextcloudplugin.json
 msgctxt "X-Purpose-ActionDisplay"
-msgid "NextCloud..."
+msgid "Nextcloud..."
 msgstr ""
 
 #: src/plugins/telegram/telegramplugin.json
@@ -58,7 +58,7 @@ msgstr ""
 
 #: src/plugins/imgur/imgurplugin.json
 msgctxt "X-Purpose-ActionDisplay"
-msgid "Imgur"
+msgid "Imgur..."
 msgstr ""
 
 #: src/plugins/bluetooth/bluetoothplugin.json
@@ -141,7 +141,7 @@ msgstr ""
 
 #: src/plugins/nextcloud/nextcloudplugin.json
 msgctxt "Name"
-msgid "NextCloud"
+msgid "Nextcloud"
 msgstr ""
 
 #: src/plugins/telegram/telegramplugin.json

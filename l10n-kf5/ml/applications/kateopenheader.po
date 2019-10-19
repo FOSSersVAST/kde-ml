@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:39+0200\n"
+"POT-Creation-Date: 2019-09-17 02:29+0200\n"
 "PO-Revision-Date: 2018-08-16 08:58+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -28,17 +28,17 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: plugin_kateopenheader.cpp:50
+#: plugin_kateopenheader.cpp:48
 #, kde-format
 msgid "Open Header"
 msgstr ""
 
-#: plugin_kateopenheader.cpp:53
+#: plugin_kateopenheader.cpp:51
 #, kde-format
 msgid "Open .h/.cpp/.c"
 msgstr ""
 
-#: plugin_kateopenheader.cpp:221
+#: plugin_kateopenheader.cpp:220
 #, kde-format
 msgid ""
 "<p><b>toggle-header &mdash; switch between header and corresponding c/cpp "

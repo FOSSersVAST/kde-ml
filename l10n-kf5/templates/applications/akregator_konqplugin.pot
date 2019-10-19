@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:40+0200\n"
+"POT-Creation-Date: 2019-07-28 02:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -50,11 +50,11 @@ msgstr ""
 
 #: pluginutil.cpp:54
 #, kde-format
-msgid "Unable to contact Akregator via DBus"
+msgid "Unable to contact Akregator via D-Bus"
 msgstr ""
 
 #: pluginutil.cpp:55
 #, kde-format
 msgctxt "@title:window"
-msgid "DBus call failed"
+msgid "D-Bus call failed"
 msgstr ""

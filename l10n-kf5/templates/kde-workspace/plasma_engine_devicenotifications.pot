@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-07-08 03:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -18,38 +18,38 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: ksolidnotify.cpp:162
+#: ksolidnotify.cpp:163
 #, kde-format
 msgid "This device can now be safely removed."
 msgstr ""
 
-#: ksolidnotify.cpp:169
+#: ksolidnotify.cpp:170
 #, kde-format
 msgid "You are not authorized to mount this device."
 msgstr ""
 
-#: ksolidnotify.cpp:172
+#: ksolidnotify.cpp:173
 #, kde-format
 msgctxt "Remove is less technical for unmount"
 msgid "You are not authorized to remove this device."
 msgstr ""
 
-#: ksolidnotify.cpp:175
+#: ksolidnotify.cpp:176
 #, kde-format
 msgid "You are not authorized to eject this disc."
 msgstr ""
 
-#: ksolidnotify.cpp:182
+#: ksolidnotify.cpp:183
 #, kde-format
 msgid "Could not mount this device as it is busy."
 msgstr ""
 
-#: ksolidnotify.cpp:212
+#: ksolidnotify.cpp:213
 #, kde-format
 msgid "One or more files on this device are open within an application."
 msgstr ""
 
-#: ksolidnotify.cpp:214
+#: ksolidnotify.cpp:215
 #, kde-format
 msgid "One or more files on this device are opened in application \"%2\"."
 msgid_plural ""
@@ -57,24 +57,24 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: ksolidnotify.cpp:216
+#: ksolidnotify.cpp:217
 #, kde-format
 msgctxt "separator in list of apps blocking device unmount"
 msgid ", "
 msgstr ""
 
-#: ksolidnotify.cpp:233
+#: ksolidnotify.cpp:234
 #, kde-format
 msgid "Could not mount this device."
 msgstr ""
 
-#: ksolidnotify.cpp:236
+#: ksolidnotify.cpp:237
 #, kde-format
 msgctxt "Remove is less technical for unmount"
 msgid "Could not remove this device."
 msgstr ""
 
-#: ksolidnotify.cpp:239
+#: ksolidnotify.cpp:240
 #, kde-format
 msgid "Could not eject this disc."
 msgstr ""

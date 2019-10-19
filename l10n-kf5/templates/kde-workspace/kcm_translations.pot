@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-07-19 03:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -78,6 +78,12 @@ msgid_plural ""
 "languages again."
 msgstr[0] ""
 msgstr[1] ""
+
+#: package/contents/ui/main.qml:164
+#, kde-format
+msgctxt "@info separator in list of language codes"
+msgid "', '"
+msgstr ""
 
 #: package/contents/ui/main.qml:174
 #, kde-format

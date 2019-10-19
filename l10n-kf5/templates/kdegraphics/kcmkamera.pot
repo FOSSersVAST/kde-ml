@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kamera\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:07+0200\n"
+"POT-Creation-Date: 2019-09-30 02:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -88,12 +88,12 @@ msgstr ""
 msgid "Click this button to cancel the current camera operation."
 msgstr ""
 
-#: kamera.cpp:357
+#: kamera.cpp:370
 #, kde-format
 msgid "Camera test was successful."
 msgstr ""
 
-#: kamera.cpp:440
+#: kamera.cpp:453
 #, kde-format
 msgid ""
 "<h1>Digital Camera</h1>\n"
@@ -107,12 +107,12 @@ msgid ""
 "<a href=\"camera:/\">camera:/</a> in Konqueror and other KDE applications."
 msgstr ""
 
-#: kameraconfigdialog.cpp:257
+#: kameraconfigdialog.cpp:256
 #, kde-format
 msgid "Button (not supported by KControl)"
 msgstr ""
 
-#: kameraconfigdialog.cpp:265
+#: kameraconfigdialog.cpp:264
 #, kde-format
 msgid "Date (not supported by KControl)"
 msgstr ""
@@ -127,7 +127,7 @@ msgstr ""
 msgid "Could not load ability list."
 msgstr ""
 
-#: kameradevice.cpp:103 kameradevice.cpp:518 kameradevice.cpp:534
+#: kameradevice.cpp:103 kameradevice.cpp:517 kameradevice.cpp:533
 #, kde-format
 msgid ""
 "Description of abilities for camera %1 is not available. Configuration "
@@ -176,7 +176,7 @@ msgstr ""
 msgid "Select Camera Device"
 msgstr ""
 
-#: kameradevice.cpp:319
+#: kameradevice.cpp:320
 #, kde-format
 msgctxt "@title:column"
 msgid "Supported Cameras"
@@ -206,22 +206,22 @@ msgstr ""
 msgid "Port Settings"
 msgstr ""
 
-#: kameradevice.cpp:371
+#: kameradevice.cpp:370
 #, kde-format
 msgid "No port type selected."
 msgstr ""
 
-#: kameradevice.cpp:379
+#: kameradevice.cpp:378
 #, kde-format
 msgid "Port:"
 msgstr ""
 
-#: kameradevice.cpp:382
+#: kameradevice.cpp:381
 #, kde-format
 msgid "Specify here the serial port to which you connect the camera."
 msgstr ""
 
-#: kameradevice.cpp:390
+#: kameradevice.cpp:389
 #, kde-format
 msgid "No further configuration is required for USB cameras."
 msgstr ""

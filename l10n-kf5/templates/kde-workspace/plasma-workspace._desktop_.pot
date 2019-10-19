@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-10-17 01:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "Global Menu"
 msgstr ""
 
-#: applets/appmenu/package/metadata.desktop:41
+#: applets/appmenu/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Global menubar on top of the screen"
 msgstr ""
@@ -46,12 +46,12 @@ msgctxt "Name"
 msgid "Battery and Brightness"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:44
+#: applets/batterymonitor/package/metadata.desktop:45
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:116
+#: applets/batterymonitor/package/metadata.desktop:117
 msgctxt "Keywords"
 msgid "Power Management;Battery;System;Energy;"
 msgstr ""
@@ -72,7 +72,7 @@ msgctxt "Name"
 msgid "Clipboard"
 msgstr ""
 
-#: applets/clipboard/metadata.desktop:47
+#: applets/clipboard/metadata.desktop:48
 msgctxt "Comment"
 msgid "Provides access to the clipboard history"
 msgstr ""
@@ -82,7 +82,7 @@ msgctxt "Name"
 msgid "Device Notifier"
 msgstr ""
 
-#: applets/devicenotifier/package/metadata.desktop:78
+#: applets/devicenotifier/package/metadata.desktop:77
 msgctxt "Comment"
 msgid "Notifications and access for new devices"
 msgstr ""
@@ -122,7 +122,7 @@ msgctxt "Comment"
 msgid "Lock the screen or log out"
 msgstr ""
 
-#: applets/lock_logout/metadata.desktop:158
+#: applets/lock_logout/metadata.desktop:157
 msgctxt "Keywords"
 msgid "Lock;Logout;Sleep;Hibernate;Switch User;"
 msgstr ""
@@ -132,7 +132,7 @@ msgctxt "Name"
 msgid "Media Player"
 msgstr ""
 
-#: applets/mediacontroller/metadata.desktop:48
+#: applets/mediacontroller/metadata.desktop:49
 msgctxt "Comment"
 msgid "Media Player Controls"
 msgstr ""
@@ -152,7 +152,7 @@ msgctxt "Name"
 msgid "Panel Spacer"
 msgstr ""
 
-#: applets/panelspacer/metadata.desktop:67
+#: applets/panelspacer/metadata.desktop:66
 msgctxt "Comment"
 msgid "Reserve empty spaces within the panel."
 msgstr ""
@@ -162,7 +162,7 @@ msgctxt "Name"
 msgid "CPU Load Monitor"
 msgstr ""
 
-#: applets/systemmonitor/cpu/metadata.desktop:44
+#: applets/systemmonitor/cpu/metadata.desktop:45
 msgctxt "Comment"
 msgid "Monitor the load of the CPUs"
 msgstr ""
@@ -172,7 +172,7 @@ msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
 msgstr ""
 
-#: applets/systemmonitor/diskactivity/metadata.desktop:54
+#: applets/systemmonitor/diskactivity/metadata.desktop:55
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr ""
@@ -192,7 +192,7 @@ msgctxt "Name"
 msgid "Memory Status"
 msgstr ""
 
-#: applets/systemmonitor/memory/metadata.desktop:65
+#: applets/systemmonitor/memory/metadata.desktop:64
 msgctxt "Comment"
 msgid "A RAM usage monitor"
 msgstr ""
@@ -213,7 +213,7 @@ msgctxt "Name"
 msgid "System Tray"
 msgstr ""
 
-#: applets/systemtray/container/package/metadata.desktop:89
+#: applets/systemtray/container/package/metadata.desktop:88
 msgctxt "Comment"
 msgid "Access hidden applications minimized in the system tray"
 msgstr ""
@@ -223,7 +223,7 @@ msgctxt "Name"
 msgid "Application menus daemon"
 msgstr ""
 
-#: appmenu/appmenu.desktop:52
+#: appmenu/appmenu.desktop:53
 msgctxt "Comment"
 msgid "Transfers application's menu to the desktop"
 msgstr ""
@@ -243,7 +243,7 @@ msgctxt "Name"
 msgid "Application Launcher"
 msgstr ""
 
-#: containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:89
+#: containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:88
 msgctxt "Comment"
 msgid "Simple application launcher"
 msgstr ""
@@ -303,7 +303,7 @@ msgctxt "Name"
 msgid "Activities Engine"
 msgstr ""
 
-#: dataengines/activities/plasma-dataengine-activities.desktop:61
+#: dataengines/activities/plasma-dataengine-activities.desktop:62
 msgctxt "Comment"
 msgid "Information on Plasma Activities"
 msgstr ""
@@ -313,7 +313,7 @@ msgctxt "Name"
 msgid "Application Job Information"
 msgstr ""
 
-#: dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:73
+#: dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:72
 msgctxt "Comment"
 msgid "Application job updates (via kuiserver)"
 msgstr ""
@@ -353,7 +353,7 @@ msgctxt "Name"
 msgid "Run Commands"
 msgstr ""
 
-#: dataengines/executable/plasma-dataengine-executable.desktop:76
+#: dataengines/executable/plasma-dataengine-executable.desktop:75
 msgctxt "Comment"
 msgid "Run Executable Data Engine"
 msgstr ""
@@ -363,7 +363,7 @@ msgctxt "Name"
 msgid "Favicons"
 msgstr ""
 
-#: dataengines/favicons/plasma-dataengine-favicons.desktop:76
+#: dataengines/favicons/plasma-dataengine-favicons.desktop:75
 msgctxt "Comment"
 msgid "Data Engine for getting favicons of web sites"
 msgstr ""
@@ -373,7 +373,7 @@ msgctxt "Name"
 msgid "Files and Directories"
 msgstr ""
 
-#: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:76
+#: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:77
 msgctxt "Comment"
 msgid "Information about files and directories."
 msgstr ""
@@ -418,7 +418,7 @@ msgctxt "Name"
 msgid "Hotplug Events"
 msgstr ""
 
-#: dataengines/hotplug/plasma-dataengine-hotplug.desktop:71
+#: dataengines/hotplug/plasma-dataengine-hotplug.desktop:70
 msgctxt "Comment"
 msgid "Tracks hot-pluggable devices as they appear and disappear."
 msgstr ""
@@ -438,7 +438,7 @@ msgctxt "Name"
 msgid "Pointer Position"
 msgstr ""
 
-#: dataengines/mouse/plasma-dataengine-mouse.desktop:73
+#: dataengines/mouse/plasma-dataengine-mouse.desktop:72
 msgctxt "Comment"
 msgid "Mouse position and cursor"
 msgstr ""
@@ -448,7 +448,7 @@ msgctxt "Name"
 msgid "MPRIS2"
 msgstr ""
 
-#: dataengines/mpris2/plasma-dataengine-mpris2.desktop:51
+#: dataengines/mpris2/plasma-dataengine-mpris2.desktop:52
 msgctxt "Comment"
 msgid "Provides information from and control over media players via MPRIS2"
 msgstr ""
@@ -494,136 +494,6 @@ msgctxt "Comment"
 msgid "Battery, AC, sleep and PowerDevil information."
 msgstr ""
 
-#: dataengines/share/backends/im9/metadata.desktop:2
-msgctxt "Name"
-msgid "im9.eu"
-msgstr ""
-
-#: dataengines/share/backends/im9/metadata.desktop:49
-msgctxt "Comment"
-msgid "Allows images to be shared using the im9.eu service"
-msgstr ""
-
-#: dataengines/share/backends/imgsusepasteorg/metadata.desktop:2
-msgctxt "Name"
-msgid "img.susepaste.org"
-msgstr ""
-
-#: dataengines/share/backends/imgsusepasteorg/metadata.desktop:56
-msgctxt "Comment"
-msgid "Allows images to be shared using the susepaste.org service"
-msgstr ""
-
-#: dataengines/share/backends/imgur/metadata.desktop:2
-msgctxt "Name"
-msgid "Imgur"
-msgstr ""
-
-#: dataengines/share/backends/imgur/metadata.desktop:61
-msgctxt "Comment"
-msgid "Allows images to be shared using the imgur service"
-msgstr ""
-
-#: dataengines/share/backends/kde/metadata.desktop:2
-msgctxt "Name"
-msgid "paste.kde.org"
-msgstr ""
-
-#: dataengines/share/backends/kde/metadata.desktop:50
-msgctxt "Comment"
-msgid "Allows text to be shared using the kde.org service"
-msgstr ""
-
-#: dataengines/share/backends/pastebincom/metadata.desktop:2
-msgctxt "Name"
-msgid "pastebin.com"
-msgstr ""
-
-#: dataengines/share/backends/pastebincom/metadata.desktop:61
-msgctxt "Comment"
-msgid "Allows text to be shared using the pastebin.com service"
-msgstr ""
-
-#: dataengines/share/backends/pasteopensuseorg/metadata.desktop:2
-msgctxt "Name"
-msgid "paste.opensuse.org"
-msgstr ""
-
-#: dataengines/share/backends/pasteopensuseorg/metadata.desktop:61
-msgctxt "Comment"
-msgid "Paste text with openSUSE"
-msgstr ""
-
-#: dataengines/share/backends/pasteubuntucom/metadata.desktop:2
-msgctxt "Name"
-msgid "paste.ubuntu.com"
-msgstr ""
-
-#: dataengines/share/backends/privatepaste/metadata.desktop:2
-msgctxt "Name"
-msgid "privatepaste.com"
-msgstr ""
-
-#: dataengines/share/backends/privatepaste/metadata.desktop:60
-msgctxt "Comment"
-msgid "Paste text with the PrivatePaste.com service"
-msgstr ""
-
-#: dataengines/share/backends/simplestimagehosting/metadata.desktop:2
-msgctxt "Name"
-msgid "Simplest Image Hosting"
-msgstr ""
-
-#: dataengines/share/backends/simplestimagehosting/metadata.desktop:58
-msgctxt "Comment"
-msgid "Allows images to be shared using the Simplest Image Hosting service"
-msgstr ""
-
-#: dataengines/share/backends/wklej/metadata.desktop:2
-msgctxt "Name"
-msgid "wklej.org"
-msgstr ""
-
-#: dataengines/share/backends/wklej/metadata.desktop:61
-msgctxt "Comment"
-msgid "Allows text to be shared using the wklej.org service"
-msgstr ""
-
-#: dataengines/share/backends/wstaw/metadata.desktop:2
-msgctxt "Name"
-msgid "wstaw.org"
-msgstr ""
-
-#: dataengines/share/backends/wstaw/metadata.desktop:62
-msgctxt "Comment"
-msgid "Allows images to be shared using the wstaw.org service"
-msgstr ""
-
-#: dataengines/share/data/plasma_shareprovider.desktop:4
-msgctxt "Comment"
-msgid "Plugin for Plasma Sharebin"
-msgstr ""
-
-#: dataengines/share/packagestructure/plasma-packagestructure-share.desktop:2
-msgctxt "Name"
-msgid "ShareProvider"
-msgstr ""
-
-#: dataengines/share/packagestructure/plasma-packagestructure-share.desktop:57
-msgctxt "Comment"
-msgid "Share Package Structure"
-msgstr ""
-
-#: dataengines/share/plasma-dataengine-share.desktop:2
-msgctxt "Name"
-msgid "Share Services"
-msgstr ""
-
-#: dataengines/share/plasma-dataengine-share.desktop:61
-msgctxt "Comment"
-msgid "Engine to share content using different services"
-msgstr ""
-
 #: dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:2
 msgctxt "Name"
 msgid "Device Information"
@@ -639,7 +509,7 @@ msgctxt "Name"
 msgid "Status Notifier Information"
 msgstr ""
 
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:59
+#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:60
 msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
@@ -652,7 +522,7 @@ msgctxt "Name"
 msgid "System Monitor"
 msgstr ""
 
-#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:84
+#: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:85
 msgctxt "Comment"
 msgid "System status information"
 msgstr ""
@@ -662,7 +532,7 @@ msgctxt "Name"
 msgid "Date and Time"
 msgstr ""
 
-#: dataengines/time/plasma-dataengine-time.desktop:79
+#: dataengines/time/plasma-dataengine-time.desktop:80
 msgctxt "Comment"
 msgid "Date and time by timezone"
 msgstr ""
@@ -672,7 +542,7 @@ msgctxt "Name"
 msgid "BBC Weather"
 msgstr ""
 
-#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:26
+#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:31
 msgctxt "Comment"
 msgid "XML Data from the British Broadcasting Corporation"
 msgstr ""
@@ -682,7 +552,7 @@ msgctxt "Name"
 msgid "Environment Canada"
 msgstr ""
 
-#: dataengines/weather/ions/envcan/ion-envcan.desktop:73
+#: dataengines/weather/ions/envcan/ion-envcan.desktop:72
 msgctxt "Comment"
 msgid "XML Data from Environment Canada"
 msgstr ""
@@ -692,7 +562,7 @@ msgctxt "Name"
 msgid "NOAA's National Weather Service"
 msgstr ""
 
-#: dataengines/weather/ions/noaa/ion-noaa.desktop:73
+#: dataengines/weather/ions/noaa/ion-noaa.desktop:72
 msgctxt "Comment"
 msgid "XML Data from NOAA's National Weather Service"
 msgstr ""
@@ -742,17 +612,17 @@ msgctxt "Name"
 msgid "Warning"
 msgstr ""
 
-#: freespacenotifier/freespacenotifier.notifyrc:218
+#: freespacenotifier/freespacenotifier.notifyrc:217
 msgctxt "Comment"
 msgid "Used for warning notifications"
 msgstr ""
 
-#: freespacenotifier/freespacenotifier.notifyrc:292
+#: freespacenotifier/freespacenotifier.notifyrc:290
 msgctxt "Name"
 msgid "Running low on disk space"
 msgstr ""
 
-#: freespacenotifier/freespacenotifier.notifyrc:354
+#: freespacenotifier/freespacenotifier.notifyrc:352
 msgctxt "Comment"
 msgid "You are running low on disk space"
 msgstr ""
@@ -762,10 +632,30 @@ msgctxt "Name"
 msgid "GMenuDBusMenuProxy"
 msgstr ""
 
+#: kcms/feedback/kcm_feedback.desktop:13
+msgctxt "Name"
+msgid "User Feedback"
+msgstr ""
+
+#: kcms/feedback/kcm_feedback.desktop:32
+msgctxt "Comment"
+msgid "Configure user feedback settings"
+msgstr ""
+
+#: kcms/feedback/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Feedback"
+msgstr ""
+
 #: kcms/translations/kcm_translations.desktop:14
 #: kcms/translations/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Language"
+msgstr ""
+
+#: kcms/translations/kcm_translations.desktop:43
+msgctxt "Comment"
+msgid "Change workspace and application languages"
 msgstr ""
 
 #: kioslave/desktop/desktopnotifier.desktop:3
@@ -783,7 +673,7 @@ msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: kioslave/desktop/./directory.trash:44
+#: kioslave/desktop/./directory.trash:45
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr ""
@@ -793,12 +683,12 @@ msgctxt "Name"
 msgid "Klipper"
 msgstr ""
 
-#: klipper/klipper.desktop:91 klipper/org.kde.klipper.desktop:91
+#: klipper/klipper.desktop:90 klipper/org.kde.klipper.desktop:90
 msgctxt "GenericName"
 msgid "Clipboard Tool"
 msgstr ""
 
-#: klipper/klipper.desktop:191 klipper/org.kde.klipper.desktop:191
+#: klipper/klipper.desktop:193 klipper/org.kde.klipper.desktop:193
 msgctxt "Comment"
 msgid "A cut & paste history utility"
 msgstr ""
@@ -813,96 +703,101 @@ msgctxt "Description"
 msgid "Launch &Gwenview"
 msgstr ""
 
-#: klipper/klipperrc.desktop:190
+#: klipper/klipperrc.desktop:189
 msgctxt "Description"
 msgid "Web-URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:283 klipper/klipperrc.desktop:1949
+#: klipper/klipperrc.desktop:281 klipper/klipperrc.desktop:1932
 msgctxt "Description"
 msgid "Open with &default Browser"
 msgstr ""
 
-#: klipper/klipperrc.desktop:365 klipper/klipperrc.desktop:2031
+#: klipper/klipperrc.desktop:362 klipper/klipperrc.desktop:2013
 msgctxt "Description"
 msgid "Open with &Konqueror"
 msgstr ""
 
-#: klipper/klipperrc.desktop:459 klipper/klipperrc.desktop:2124
+#: klipper/klipperrc.desktop:455 klipper/klipperrc.desktop:2105
 msgctxt "Description"
 msgid "Open with &Mozilla"
 msgstr ""
 
-#: klipper/klipperrc.desktop:552 klipper/klipperrc.desktop:1388
-#: klipper/klipperrc.desktop:1668 klipper/klipperrc.desktop:2217
+#: klipper/klipperrc.desktop:547 klipper/klipperrc.desktop:1375
+#: klipper/klipperrc.desktop:1653 klipper/klipperrc.desktop:2197
 msgctxt "Description"
 msgid "Send &URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:647
+#: klipper/klipperrc.desktop:641
 msgctxt "Description"
 msgid "Open with &Firefox"
 msgstr ""
 
-#: klipper/klipperrc.desktop:737
+#: klipper/klipperrc.desktop:730
 msgctxt "Description"
 msgid "Send &Page"
 msgstr ""
 
-#: klipper/klipperrc.desktop:830
+#: klipper/klipperrc.desktop:822
 msgctxt "Description"
 msgid "Mail-URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:923
+#: klipper/klipperrc.desktop:914
 msgctxt "Description"
 msgid "Launch &Kmail"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1016
+#: klipper/klipperrc.desktop:1006
 msgctxt "Description"
 msgid "Launch &mutt"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1107
+#: klipper/klipperrc.desktop:1096
 msgctxt "Description"
 msgid "Text File"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1202
+#: klipper/klipperrc.desktop:1191
 msgctxt "Description"
 msgid "Launch K&Write"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1294
+#: klipper/klipperrc.desktop:1282
 msgctxt "Description"
 msgid "Local file URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1482 klipper/klipperrc.desktop:1762
-#: klipper/klipperrc.desktop:2311
+#: klipper/klipperrc.desktop:1468 klipper/klipperrc.desktop:1746
+#: klipper/klipperrc.desktop:2290
 msgctxt "Description"
 msgid "Send &File"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1575
+#: klipper/klipperrc.desktop:1561
 msgctxt "Description"
 msgid "Gopher URL"
 msgstr ""
 
-#: klipper/klipperrc.desktop:1855
+#: klipper/klipperrc.desktop:1839
 msgctxt "Description"
 msgid "ftp URL"
 msgstr ""
 
-#: klipper/plasma-dataengine-clipboard.desktop:47
+#: klipper/plasma-dataengine-clipboard.desktop:48
 msgctxt "Comment"
 msgid "Clipboard Tool."
 msgstr ""
 
-#: krunner/krunner.desktop:3
+#: krunner/krunner.desktop.cmake:3
 msgctxt "Name"
 msgid "KRunner"
+msgstr ""
+
+#: krunner/krunner.desktop.cmake:58
+msgctxt "Name"
+msgid "Run command on clipboard contents"
 msgstr ""
 
 #: ktimezoned/ktimezoned.desktop:9
@@ -920,9 +815,37 @@ msgctxt "Name"
 msgid "ColorCorrect Geolocation Updater"
 msgstr ""
 
-#: libcolorcorrect/kded/colorcorrectlocationupdater.desktop:38
+#: libcolorcorrect/kded/colorcorrectlocationupdater.desktop:40
 msgctxt "Comment"
 msgid "Sends updated location data to the compositor"
+msgstr ""
+
+#: login-sessions/plasma.desktop.cmake:6
+msgctxt "Name"
+msgid "Plasma"
+msgstr ""
+
+#: login-sessions/plasma.desktop.cmake:52
+#: login-sessions/plasmawayland.desktop.cmake:51
+#: login-sessions/plasmawayland-dev.desktop.cmake:29
+#: login-sessions/plasmax11-dev.desktop.cmake:30
+msgctxt "Comment"
+msgid "Plasma by KDE"
+msgstr ""
+
+#: login-sessions/plasmawayland.desktop.cmake:5
+msgctxt "Name"
+msgid "Plasma (Wayland)"
+msgstr ""
+
+#: login-sessions/plasmawayland-dev.desktop.cmake:4
+msgctxt "Name"
+msgid "Plasma (Development, Wayland ${CMAKE_INSTALL_FULL_BINDIR})"
+msgstr ""
+
+#: login-sessions/plasmax11-dev.desktop.cmake:5
+msgctxt "Name"
+msgid "Plasma (Development, X11 ${CMAKE_INSTALL_FULL_BINDIR})"
 msgstr ""
 
 #: lookandfeel/metadata.desktop:2
@@ -930,14 +853,14 @@ msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr ""
 
-#: lookandfeel/metadata.desktop:26
+#: lookandfeel/metadata.desktop:30
 msgctxt "Keywords"
 msgid ""
 "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;"
 "Hibernate;"
 msgstr ""
 
-#: lookandfeel/metadata.desktop:65 sddm-theme/metadata.desktop:2
+#: lookandfeel/metadata.desktop:69 sddm-theme/metadata.desktop:2
 msgctxt "Name"
 msgid "Breeze"
 msgstr ""
@@ -1068,6 +991,11 @@ msgctxt "Name"
 msgid "Multimedia"
 msgstr ""
 
+#: menu/desktop/kf5-network.directory:3
+msgctxt "Name"
+msgid "Network"
+msgstr ""
+
 #: menu/desktop/kf5-office.directory:3
 msgctxt "Name"
 msgid "Office"
@@ -1113,7 +1041,7 @@ msgctxt "Name"
 msgid "Desktop"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-desktop.directory:52
+#: menu/desktop/kf5-utilities-desktop.directory:53
 msgctxt "Comment"
 msgid "Desktop"
 msgstr ""
@@ -1133,7 +1061,7 @@ msgctxt "Name"
 msgid "File"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-file.directory:54
+#: menu/desktop/kf5-utilities-file.directory:55
 msgctxt "Comment"
 msgid "File"
 msgstr ""
@@ -1143,7 +1071,7 @@ msgctxt "Name"
 msgid "Peripherals"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-peripherals.directory:93
+#: menu/desktop/kf5-utilities-peripherals.directory:92
 msgctxt "Comment"
 msgid "Peripherals"
 msgstr ""
@@ -1153,7 +1081,7 @@ msgctxt "Name"
 msgid "PIM"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-pim.directory:89
+#: menu/desktop/kf5-utilities-pim.directory:88
 msgctxt "Comment"
 msgid "PIM"
 msgstr ""
@@ -1183,7 +1111,7 @@ msgctxt "Name"
 msgid "Application"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:122
+#: phonon/platform_kde/phonon.notifyrc:123
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
@@ -1191,16 +1119,6 @@ msgstr ""
 #: phonon/platform_kde/phonon.notifyrc:186
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
-msgstr ""
-
-#: plasma.desktop.cmake:6 plasmawayland.desktop.cmake:5
-msgctxt "Name"
-msgid "Plasma"
-msgstr ""
-
-#: plasma.desktop.cmake:51 plasmawayland.desktop.cmake:50
-msgctxt "Comment"
-msgid "Plasma by KDE"
 msgstr ""
 
 #: plasma-windowed/plasma-windowed.desktop:2
@@ -1218,7 +1136,7 @@ msgctxt "Name"
 msgid "Activities"
 msgstr ""
 
-#: runners/activities/plasma-runner-activityrunner.desktop:60
+#: runners/activities/plasma-runner-activityrunner.desktop:61
 msgctxt "Comment"
 msgid "List and switch between desktop activities"
 msgstr ""
@@ -1238,7 +1156,7 @@ msgctxt "Name"
 msgid "Desktop Search"
 msgstr ""
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:47
+#: runners/baloo/plasma-runner-baloosearch.desktop:48
 msgctxt "Comment"
 msgid "Searches through files, emails and contacts"
 msgstr ""
@@ -1273,7 +1191,7 @@ msgctxt "Name"
 msgid "Terminate Applications"
 msgstr ""
 
-#: runners/kill/plasma-runner-kill.desktop:71
+#: runners/kill/plasma-runner-kill.desktop:70
 msgctxt "Comment"
 msgid "Stop applications that are currently running"
 msgstr ""
@@ -1298,7 +1216,7 @@ msgctxt "Comment"
 msgid "Basic Power Management Operations"
 msgstr ""
 
-#: runners/powerdevil/plasma-runner-powerdevil.desktop:75
+#: runners/powerdevil/plasma-runner-powerdevil.desktop:74
 msgctxt "Name"
 msgid "Power"
 msgstr ""
@@ -1338,22 +1256,12 @@ msgctxt "Comment"
 msgid "Executes shell commands"
 msgstr ""
 
-#: runners/solid/plasma-runner-solid.desktop:3
-msgctxt "Name|plasma runner"
-msgid "Devices"
-msgstr ""
-
-#: runners/solid/plasma-runner-solid.desktop:73
-msgctxt "Comment"
-msgid "Manage removable devices"
-msgstr ""
-
 #: runners/webshortcuts/plasma-runner-webshortcuts.desktop:3
 msgctxt "Name|plasma runner"
 msgid "Web Shortcuts"
 msgstr ""
 
-#: runners/webshortcuts/plasma-runner-webshortcuts.desktop:72
+#: runners/webshortcuts/plasma-runner-webshortcuts.desktop:71
 msgctxt "Comment"
 msgid "Allows user to use Konqueror's web shortcuts"
 msgstr ""
@@ -1373,17 +1281,17 @@ msgctxt "Name|plasma runner"
 msgid "Windows"
 msgstr ""
 
-#: runners/windows/plasma-runner-windows.desktop:72
+#: runners/windows/plasma-runner-windows.desktop:71
 msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr ""
 
-#: sddm-theme/metadata.desktop:46
+#: sddm-theme/metadata.desktop:47
 msgctxt "Description"
 msgid "Breeze"
 msgstr ""
 
-#: shell/org.kde.plasmashell.desktop:4
+#: shell/org.kde.plasmashell.desktop.cmake:4
 msgctxt "Name"
 msgid "Plasma Desktop Workspace"
 msgstr ""
@@ -1418,7 +1326,7 @@ msgctxt "Name"
 msgid "Drive Ejector"
 msgstr ""
 
-#: solidautoeject/solidautoeject.desktop:71
+#: solidautoeject/solidautoeject.desktop:70
 msgctxt "Comment"
 msgid "Automatically releases drives when their eject button is pushed"
 msgstr ""
@@ -1438,7 +1346,7 @@ msgctxt "Name"
 msgid "Status Notifier Manager"
 msgstr ""
 
-#: statusnotifierwatcher/statusnotifierwatcher.desktop:63
+#: statusnotifierwatcher/statusnotifierwatcher.desktop:62
 msgctxt "Comment"
 msgid "Manages services that provide status notifier user interfaces"
 msgstr ""
@@ -1458,7 +1366,7 @@ msgctxt "Name"
 msgid "Plasma Weather Ion Dataengine"
 msgstr ""
 
-#: templates/ion-dataengine/ion-dataengine.kdevtemplate:40
+#: templates/ion-dataengine/ion-dataengine.kdevtemplate:41
 msgctxt "Comment"
 msgid ""
 "A special Plasma sub-dataengine for the Plasma Weather dataengine, providing "
@@ -1470,7 +1378,7 @@ msgctxt "Name"
 msgid "CDE"
 msgstr ""
 
-#: themes/qtcde.themerc:91
+#: themes/qtcde.themerc:90
 msgctxt "Comment"
 msgid "Built-in unthemed CDE style"
 msgstr ""
@@ -1510,7 +1418,7 @@ msgctxt "Name"
 msgid "Motif"
 msgstr ""
 
-#: themes/qtmotif.themerc:86
+#: themes/qtmotif.themerc:85
 msgctxt "Comment"
 msgid "Built-in unthemed Motif style"
 msgstr ""
@@ -1520,7 +1428,7 @@ msgctxt "Name"
 msgid "Plastique"
 msgstr ""
 
-#: themes/qtplastique.themerc:70
+#: themes/qtplastique.themerc:69
 msgctxt "Comment"
 msgid "Built-in unthemed style similar to Plastik from KDE3"
 msgstr ""
@@ -1570,7 +1478,7 @@ msgctxt "Name"
 msgid "Color"
 msgstr ""
 
-#: wallpapers/color/plasma-wallpaper-color.desktop:51
+#: wallpapers/color/plasma-wallpaper-color.desktop:52
 msgctxt "Comment"
 msgid "A plain color or gradient"
 msgstr ""
@@ -1590,7 +1498,7 @@ msgctxt "Name"
 msgid "Slideshow"
 msgstr ""
 
-#: wallpapers/image/slideshowpackage/metadata.desktop:79
+#: wallpapers/image/slideshowpackage/metadata.desktop:78
 msgctxt "Comment"
 msgid "Slideshow wallpaper"
 msgstr ""
