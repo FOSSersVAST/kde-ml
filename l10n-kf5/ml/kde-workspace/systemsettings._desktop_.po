@@ -1,40 +1,33 @@
-# Translation of desktop_kdebase to Malayalam
-# Copyright (C) 2008-2010 This_file_is_part_of_KDE
-# This file is distributed under the same license as the desktop_kdebase package.
-# Santhosh Thottingal <santhosh.thottingal@gmail.com>, 2008.
-# Ani Peter <peter.ani@gmail.com>, 2008.
-# Hari Vishnu <harivishnu@gmail.com>, 2008.
-# SANKARANARAYANAN <snalledam@dataone.in>, 2009.
-# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008, 2009, 2010.
-# seshagiri prabhu <seshagiriprabhu@gmail.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: desktop_kdebase\n"
+"Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
-"PO-Revision-Date: 2010-07-01 15:48+0530\n"
-"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
-"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"POT-Creation-Date: 2019-11-01 02:36+0000\n"
+"PO-Revision-Date: 2019-11-17 16:09+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /ml/l10n-kf5/kde-workspace/systemsettings._desktop_.po\n"
+"X-Pootle-Revision: 4754\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: ml\n"
+"X-Source-Language: C\n"
 
 #: app/kdesystemsettings.desktop:8
-#, fuzzy
 msgctxt "GenericName"
 msgid "KDE System Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
 
-#: app/kdesystemsettings.desktop:63
-#, fuzzy
+#: app/kdesystemsettings.desktop:66
 msgctxt "Name"
 msgid "KDE System Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
 
-#: app/kdesystemsettings.desktop:118 app/systemsettings.desktop:175
+#: app/kdesystemsettings.desktop:124 app/systemsettings.desktop:177
 msgctxt "Comment"
 msgid "Configuration tools for your computer"
 msgstr ""
@@ -44,7 +37,7 @@ msgctxt "GenericName"
 msgid "System Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
 
-#: app/systemsettings.desktop:90
+#: app/systemsettings.desktop:91
 msgctxt "Name"
 msgid "System Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
@@ -52,26 +45,23 @@ msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
 #: categories/hidden.desktop:7
 msgctxt "Name"
 msgid "Hidden"
-msgstr ""
+msgstr "Hidden"
 
 #: categories/old/settings-account-details.desktop:8
 #: categories/settings-personalization-accountdetails.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Account Details"
-msgstr "വിശദവിവരങ്ങള്‍"
+msgstr "അക്കൗണ്ട് വിശദാംശങ്ങൾ"
 
 #: categories/old/settings-application-and-system-notifications.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Application and System Notifications"
-msgstr "പ്രയോഗ അറിയിപ്പുകള്‍"
+msgstr "പ്രയോഗത്തിന്റെയും സിസ്റ്റത്തിന്റെയും അറിയിപ്പുകൾ"
 
 #: categories/old/settings-application-appearance.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Application Appearance"
-msgstr "പ്രയോഗവിക്ഷേപിണി"
+msgstr "അപ്ലിക്കേഷൻ രൂപം"
 
 #: categories/old/settings-audio-and-video.desktop:9
 #: categories/settings-hardware-multimedia.desktop:9
@@ -86,26 +76,23 @@ msgid "Bluetooth"
 msgstr "ബ്ലൂടൂത്ത്"
 
 #: categories/old/settings-desktop-appearance.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Workspace Appearance"
-msgstr "പ്രയോഗവിക്ഷേപിണി"
+msgstr "വർക്ക്‌സ്‌പെയ്‌സ് രൂപം"
 
-#: categories/old/settings-desktop-appearance.desktop:72
-#, fuzzy
+#: categories/old/settings-desktop-appearance.desktop:73
 msgctxt "Comment"
 msgid "Customize the appearance of your desktop"
-msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
+msgstr "നിങ്ങളുടെ ഡെസ്ക്ടോപ്പിന്റെ രൂപം ഇച്ഛാനുസൃതമാക്കുക"
 
 #: categories/old/settings-display.desktop:8
 #: categories/settings-hardware-display.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Display and Monitor"
-msgstr "ഫയല്‍ നടത്തിപ്പ്"
+msgstr "മോണിറ്ററും ഡിസ്‌പ്ലേയും"
 
-#: categories/old/settings-display.desktop:69
-#: categories/settings-hardware-display.desktop:70
+#: categories/old/settings-display.desktop:71
+#: categories/settings-hardware-display.desktop:72
 msgctxt "Comment"
 msgid "Display Settings"
 msgstr "പ്രദര്‍ശനത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
@@ -118,25 +105,21 @@ msgstr "ഹാര്‍ഡ്‌വെയര്‍"
 
 #: categories/old/settings-input-devices.desktop:8
 #: categories/settings-hardware-input.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Input Devices"
-msgstr "ഉപകരണങ്ങള്‍"
+msgstr "Input Devices"
 
 #: categories/old/settings-locale.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Locale"
-msgstr "ബുദ്ധി ഉപയോഗിച്ചുള്ള കളി"
+msgstr "പ്രാദേശികം"
 
 #: categories/old/settings-lost-and-found.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Lost and Found"
 msgstr "പോയതും കണ്ടതും"
 
 #: categories/old/settings-network-and-connectivity.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Network and Connectivity"
 msgstr "ശൃംഖലയും ബന്ധവും"
@@ -147,16 +130,14 @@ msgid "Network Settings"
 msgstr "ശൃംഖലയുടെ സജ്ജീകരണങ്ങള്‍"
 
 #: categories/old/settings-permissions.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Permissions"
-msgstr "ഡിസ്ക് ഭാഗങ്ങള്‍"
+msgstr "അനുമതികൾ"
 
 #: categories/old/settings-personal-information.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Personal Information"
-msgstr "പ്രൊസസ്സറിന്റെ വിവരങ്ങള്‍"
+msgstr "സ്വകാര്യ വിവരം"
 
 #: categories/old/settings-power-management.desktop:8
 #: categories/settings-hardware-powermanagement.desktop:9
@@ -170,16 +151,15 @@ msgid "Sharing"
 msgstr "പങ്കിടല്‍"
 
 #: categories/old/settings-shortcuts-and-gestures.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Shortcuts and Gestures"
-msgstr "കുറുക്കുവഴിചിഹ്ന പിന്തുണ"
+msgstr "കുറുക്കുവഴികളും ആംഗ്യങ്ങളും"
 
 #: categories/old/settings-startup-and-shutdown.desktop:8
 #: categories/settings-workspace-session.desktop:9
 msgctxt "Name"
 msgid "Startup and Shutdown"
-msgstr ""
+msgstr "സ്റ്റാർട്ടപ്പും ഷട്ട്ഡൗണും"
 
 #: categories/old/settings-system-administration.desktop:9
 #, fuzzy
@@ -193,43 +173,39 @@ msgid "Window Behavior"
 msgstr "ജാലകത്തിന്റെ വിശേഷത"
 
 #: categories/old/settings-workspace-appearance-and-behavior.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Workspace Appearance and Behavior"
-msgstr "പ്രയോഗവിക്ഷേപിണി"
+msgstr "വർക്ക്‌സ്‌പെയ്‌സ് രൂപവും പെരുമാറ്റവും"
 
 #: categories/old/settings-workspace-behavior.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Workspace Behavior"
-msgstr "വെബിലെ പെരുമാറ്റം"
+msgstr "വർക്ക്സ്പേസിന്റെ പെരുമാറ്റം"
 
 #: categories/settings-appearance-applicationstyle.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Application Style"
-msgstr "പ്രയോഗവിക്ഷേപിണി"
+msgstr "പ്രയോഗ ശൈലി"
 
 #: categories/settings-appearance-color.desktop:9
 msgctxt "Name"
 msgid "Colors"
-msgstr ""
+msgstr "Colors"
 
 #: categories/settings-appearance.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Appearance"
-msgstr "പ്രയോഗവിക്ഷേപിണി"
+msgstr "Appearance"
 
 #: categories/settings-appearance-font.desktop:9
 msgctxt "Name"
 msgid "Fonts"
-msgstr ""
+msgstr "Fonts"
 
 #: categories/settings-appearance-icons.desktop:9
 msgctxt "Name"
 msgid "Icons"
-msgstr ""
+msgstr "ഐക്കണുകൾ"
 
 #: categories/settings-appearance-workspacetheme.desktop:9
 #, fuzzy
@@ -240,31 +216,27 @@ msgstr "പ്രയോഗവിക്ഷേപിണി"
 #: categories/settings-hardware-peripherals.desktop:9
 msgctxt "Name"
 msgid "Peripherals"
-msgstr ""
+msgstr "അനുബന്ധ ഉപകരണങ്ങൾ"
 
 #: categories/settings-hardware-removable-storage.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Removable Storage"
-msgstr "നീക്കം ചെയ്യാവുന്ന ഉപകരണങ്ങള്‍"
+msgstr "നീക്കംചെയ്യാവുന്ന സ്റ്റോറേജ്"
 
 #: categories/settings-network-connectivity.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Connectivity"
-msgstr "ശൃംഖലയും ബന്ധവും"
+msgstr "കണക്റ്റിവിറ്റി"
 
 #: categories/settings-network.desktop:8
-#, fuzzy
 msgctxt "Name"
 msgid "Network"
-msgstr "ശൃംഖലയുടെ സജ്ജീകരണങ്ങള്‍"
+msgstr "ശൃംഖല"
 
 #: categories/settings-network-networksettings.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Settings"
-msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
+msgstr "സജ്ജീകരണങ്ങൾ"
 
 #: categories/settings-personalization-accessibility.desktop:8
 msgctxt "Name"
@@ -272,56 +244,49 @@ msgid "Accessibility"
 msgstr "സാമീപ്യത"
 
 #: categories/settings-personalization-applications.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Applications"
-msgstr "പ്രയോഗവിക്ഷേപിണി"
+msgstr "പ്രയോഗങ്ങൾ"
 
 #: categories/settings-personalization.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Personalization"
-msgstr "പ്രൊസസ്സറിന്റെ വിവരങ്ങള്‍"
+msgstr "വ്യക്തിഗതമാക്കൽ"
 
 #: categories/settings-personalization-notification.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Notifications"
-msgstr "പ്രയോഗവിക്ഷേപിണി"
+msgstr "അറിയിപ്പുകൾ"
 
 #: categories/settings-personalization-regionalsettings.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Regional Settings"
-msgstr "ശൃംഖലയുടെ സജ്ജീകരണങ്ങള്‍"
+msgstr "പ്രാദേശിക സജ്ജീകരണങ്ങൾ"
 
 #: categories/settings-workspace.desktop:9
-#, fuzzy
 msgctxt "Name"
-msgid "Workspace"
-msgstr "വെബിലെ പെരുമാറ്റം"
+msgid "System Administration"
+msgstr "System Administration"
 
 #: categories/settings-workspace-desktopbehavior.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Desktop Behavior"
-msgstr "വെബിലെ പെരുമാറ്റം"
+msgstr "വർക്ക്‌സ്‌പെയ്‌സ്"
 
 #: categories/settings-workspace-search.desktop:9
 msgctxt "Name"
 msgid "Search"
-msgstr ""
+msgstr "Search"
 
 #: categories/settings-workspace-shortcuts.desktop:9
 msgctxt "Name"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Shortcuts"
 
 #: categories/settings-workspace-windowmanagement.desktop:9
-#, fuzzy
 msgctxt "Name"
 msgid "Window Management"
-msgstr "വൈദ്യുതി നടത്തിപ്പു്"
+msgstr "വിൻഡോ നടത്തിപ്പ്"
 
 #: categories/systemsettingscategory.desktop:4
 msgctxt "Name"
@@ -356,33 +321,54 @@ msgctxt "Name"
 msgid "System Settings View"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങളുടെ അവതരണരീതി"
 
-#: icons/settings-icon-view.desktop:64
+#: icons/settings-icon-view.desktop:7 sidebar/settings-sidebar-view.desktop:7
+msgctxt "X-KDE-Keywords"
+msgid "System Settings"
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
+
+#: icons/settings-icon-view.desktop:66
 msgctxt "Name"
 msgid "Icon View"
 msgstr "ചിഹ്നങ്ങളായ അവതരണരീതി"
 
-#: icons/settings-icon-view.desktop:141
+#: icons/settings-icon-view.desktop:144
 msgctxt "Comment"
 msgid "The KDE 4 icon view style"
 msgstr "കെഡിഇ 4 ചിഹ്ന പ്രദര്‍ശന ശൈലി"
 
-#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:64
+#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:66
 msgctxt "Name"
 msgid "Sidebar View"
-msgstr ""
+msgstr "സൈഡ്‌ബാർ കാഴ്ച"
 
-#: sidebar/package/metadata.desktop:40
-#: sidebar/settings-sidebar-view.desktop:102
+#: sidebar/package/metadata.desktop:44
+#: sidebar/settings-sidebar-view.desktop:108
 msgctxt "Comment"
 msgid "Categorized sidebar style"
-msgstr ""
+msgstr "വർഗ്ഗീകരിച്ച സൈഡ്‌ബാർ ശൈലി"
+
+#~ msgctxt "Name"
+#~ msgid "Tree View"
+#~ msgstr "വൃക്ഷ കാഴ്ച"
+
+#~ msgctxt "Comment"
+#~ msgid "A Classic KDE 3 KControl style system settings view."
+#~ msgstr "കെഡിഈ 3ലെ കെ നിയന്ത്രണരീതിയിലുള്ള വ്യവസ്ഥ ഒരുക്കുന്നതിന്റെ ക്ലാസിക് കാഴ്ച"
+
+#~ msgctxt "Name"
+#~ msgid "Workspace Theme"
+#~ msgstr "വർക്ക്‌സ്‌പെയ്‌സ് തീം"
+
+#~ msgctxt "Name"
+#~ msgid "Desktop Behavior"
+#~ msgstr "ഡെസ്ക്ടോപ്പ് പെരുമാറ്റം"
 
 #, fuzzy
 #~ msgctxt "Name"
 #~ msgid "Human Input Devices"
-#~ msgstr "ഉപകരണങ്ങള്‍"
+#~ msgstr "Input Devices"
 
 #, fuzzy
 #~ msgctxt "Name"
 #~ msgid "Common Appearance and Behavior"
-#~ msgstr "പ്രയോഗവിക്ഷേപിണി"
+#~ msgstr "വർക്ക്‌സ്‌പെയ്‌സ് രൂപവും പെരുമാറ്റവും"

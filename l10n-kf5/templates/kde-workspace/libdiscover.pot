@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-10 03:32+0200\n"
+"POT-Creation-Date: 2019-11-09 03:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -466,14 +466,13 @@ msgctxt "Category"
 msgid "System Settings"
 msgstr ""
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:393
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:395
 #, kde-format
 msgid "Local bundle"
 msgstr ""
 
-#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1214
-#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:475
-#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:489
+#: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:1220
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:488
 #, kde-format
 msgid "Malformed appstream url '%1'"
 msgstr ""
@@ -513,13 +512,12 @@ msgstr ""
 msgid "Add Flathub"
 msgstr ""
 
-#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:103
-#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:114
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:102
 #, kde-format
 msgid "Could not add the source %1"
 msgstr ""
 
-#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:299
+#: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:297
 #, kde-format
 msgid "Flatpak repository URI (*.flatpakrepo)"
 msgstr ""
@@ -530,7 +528,7 @@ msgid "Adding remote '%1' in %2 from %3"
 msgstr ""
 
 #: libdiscover/backends/FwupdBackend/FwupdSourcesBackend.cpp:123
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:329
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:330
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:274
 #, kde-format
 msgid "Accept EULA"
@@ -618,7 +616,7 @@ msgstr ""
 msgid "Log in information for %1"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/AppPackageKitResource.cpp:233
+#: libdiscover/backends/PackageKitBackend/AppPackageKitResource.cpp:240
 #, kde-format
 msgid "Cannot launch %1"
 msgstr ""
@@ -641,7 +639,7 @@ msgctxt "Category"
 msgid "Fonts"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:173
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:174
 #, kde-format
 msgid "Please make sure that Appstream is properly set up on your system"
 msgstr ""
@@ -1271,12 +1269,15 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:123
+#: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:141
 #, kde-format
+msgctxt "@action:button"
 msgid "Open Discover"
 msgstr ""
 
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:123
 #, kde-format
+msgctxt "@action:button"
 msgid "Repair System"
 msgstr ""
 
@@ -1346,12 +1347,12 @@ msgstr[1] ""
 msgid "Repository URL:"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:213
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:214
 #, kde-format
 msgid "Packages to remove"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:213
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:214
 #, kde-format
 msgid ""
 "The following packages will be removed by the update:\n"
@@ -1360,12 +1361,12 @@ msgid ""
 "<ul><li>%2</li></ul>"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:229
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:230
 #, kde-format
 msgid "Please restart the computer to finish the update"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:316
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:317
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:289
 #, kde-format
 msgid ""
@@ -1373,7 +1374,7 @@ msgid ""
 "%2"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:329
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:330
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:274
 #, kde-format
 msgid ""
@@ -1381,13 +1382,13 @@ msgid ""
 " %3"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:423
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:424
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:301
 #, kde-format
 msgid "Missing signature for %1 in %2"
 msgstr ""
 
-#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:424
+#: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:425
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:302
 #, kde-format
 msgid ""
@@ -1416,7 +1417,7 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: libdiscover/backends/SnapBackend/SnapBackend.cpp:50
+#: libdiscover/backends/SnapBackend/SnapBackend.cpp:51
 #, kde-format
 msgid "Snap"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-11-01 03:28+0100\n"
 "PO-Revision-Date: 2008-11-27 16:14-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -34,10 +34,6 @@ msgstr "ചിഹ്നങ്ങള്‍"
 #, fuzzy
 msgid "Filter"
 msgstr "ഫില്‍റ്റര്‍"
-
-#: package/contents/config/config.qml:50
-msgid "Tweaks"
-msgstr ""
 
 #: package/contents/ui/AppletHandle.qml:105
 msgid "Resize"
@@ -329,19 +325,12 @@ msgstr ""
 msgid "Enter custom title..."
 msgstr ""
 
-#: package/contents/ui/ConfigTweaks.qml:43
-msgid ""
-"With the Desktop Toolbox hidden, right-click on the desktop and choose "
-"'Configure Desktop...' to access this configuration window in the future"
+#: package/contents/ui/ConfigOverlay.qml:101
+msgid "Rotate"
 msgstr ""
 
-#: package/contents/ui/ConfigTweaks.qml:54
-#, fuzzy
-msgid "Show the desktop toolbox"
-msgstr "പണിയിട അറ കാണിയ്ക്കുക"
-
-#: package/contents/ui/ConfigTweaks.qml:72
-msgid "Press and hold widgets to move them and reveal their handles"
+#: package/contents/ui/ConfigOverlay.qml:228
+msgid "Remove"
 msgstr ""
 
 #: package/contents/ui/FolderItemPreviewPluginsDialog.qml:36
@@ -357,19 +346,7 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: package/contents/ui/main.qml:382
-msgid "Widgets unlocked"
-msgstr ""
-
-#: package/contents/ui/main.qml:383
-msgid "You can press and hold widgets to move them and reveal their handles."
-msgstr ""
-
-#: package/contents/ui/main.qml:384
-msgid "Got it"
-msgstr ""
-
-#: package/contents/ui/main.qml:597
+#: package/contents/ui/main.qml:361
 #, fuzzy
 msgid "Configure Desktop..."
 msgstr "പണിയിടം &പുതുക്കുക"
@@ -479,6 +456,10 @@ msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര�
 #, kde-format
 msgid "Locked"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Show the desktop toolbox"
+#~ msgstr "പണിയിട അറ കാണിയ്ക്കുക"
 
 #~ msgid "Show All Files"
 #~ msgstr "എല്ലാ ഫയലുകളും കാണിയ്ക്കുക"

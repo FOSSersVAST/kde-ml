@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-11-14 02:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -24,4 +24,14 @@ msgstr ""
 #: keditfiletype/filetypes.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid "Filetypes,File Associations,Mime Types,File Patterns,Files,Pattern"
+msgstr ""
+
+#: keditfiletype/org.kde.keditfiletype.desktop:2
+msgctxt "Name"
+msgid "keditfiletype"
+msgstr ""
+
+#: keditfiletype/org.kde.keditfiletype.desktop:26
+msgctxt "GenericName"
+msgid "File Type Editor"
 msgstr ""

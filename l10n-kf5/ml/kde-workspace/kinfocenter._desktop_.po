@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-11-16 02:15+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -62,12 +62,13 @@ msgctxt "X-KDE-Keywords"
 msgid "information,distribution,distro,system,kernel,qt,kde"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:53
+#: Modules/about-distro/src/about-distro.desktop:43
+#, fuzzy
 msgctxt "Name"
 msgid "About System"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:95
+#: Modules/about-distro/src/about-distro.desktop:72
 #, fuzzy
 msgctxt "Comment"
 msgid "Information About This System"

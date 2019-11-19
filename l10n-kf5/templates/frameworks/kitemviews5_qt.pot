@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 
-#: kfilterproxysearchline.cpp:73
+#: kfilterproxysearchline.cpp:75
 msgctxt "KFilterProxySearchLine|"
 msgid "Search"
 msgstr ""

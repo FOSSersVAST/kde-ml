@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KDE Malayalam\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-11-15 03:34+0100\n"
 "PO-Revision-Date: 2008-07-11 15:31+0530\n"
 "Last-Translator: മണിലാല്‍ കെ.എം|Manilal K M <libregeek@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് "
@@ -15,28 +15,28 @@ msgstr ""
 "X-Poedit-Language: Malayalam\n"
 "X-Poedit-Country: INDIA\n"
 
-#: compositing.cpp:378
+#: compositing.cpp:388
 #, fuzzy, kde-format
 msgid "OpenGL 3.1"
 msgstr "ഓപ്പണ്‍ജിഎല്‍"
 
-#: compositing.cpp:379
+#: compositing.cpp:389
 #, fuzzy, kde-format
 msgid "OpenGL 2.0"
 msgstr "ഓപ്പണ്‍ജിഎല്‍"
 
-#: compositing.cpp:380
+#: compositing.cpp:390
 #, kde-format
 msgid "XRender"
 msgstr "എക്സ്‌റെന്‍ഡര്‍"
 
-#: compositing.cpp:479
+#: compositing.cpp:489
 #, kde-format
 msgctxt "OpenGL Platform Interface"
 msgid "EGL"
 msgstr ""
 
-#: compositing.cpp:481
+#: compositing.cpp:491
 #, kde-format
 msgctxt "OpenGL Platform Interface"
 msgid "GLX"
@@ -139,56 +139,55 @@ msgid "Tearing prevention (\"vsync\"):"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, tearingPrevention)
-#. i18n: ectx: property (text), item, widget (QComboBox, windowThumbnail)
-#: compositing.ui:221 compositing.ui:257
-#, kde-format
-msgid "Never"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (QComboBox, tearingPrevention)
-#: compositing.ui:226
+#: compositing.ui:170
 #, kde-format
 msgid "Automatic"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, tearingPrevention)
-#: compositing.ui:231
+#: compositing.ui:226
 #, kde-format
 msgid "Only when cheap"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, tearingPrevention)
-#: compositing.ui:236
+#: compositing.ui:231
 #, kde-format
 msgid "Full screen repaints"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, tearingPrevention)
-#: compositing.ui:241
+#: compositing.ui:236
 #, kde-format
 msgid "Re-use screen content"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
-#: compositing.ui:249
+#: compositing.ui:193
 #, kde-format
 msgid "Keep window thumbnails:"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, windowThumbnail)
-#: compositing.ui:262
+#: compositing.ui:201
+#, kde-format
+msgid "Never"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, windowThumbnail)
+#: compositing.ui:206
 #, kde-format
 msgid "Only for Shown Windows"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, windowThumbnail)
-#: compositing.ui:267
+#: compositing.ui:211
 #, kde-format
 msgid "Always"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, windowsBlockCompositing)
-#: compositing.ui:277
+#: compositing.ui:221
 #, kde-format
 msgid ""
 "Applications can set a hint to block compositing when the window is open.\n"
@@ -197,12 +196,24 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, windowsBlockCompositing)
-#: compositing.ui:280
+#: compositing.ui:224
 #, kde-format
 msgid "Allow applications to block compositing"
 msgstr ""
 
-#: main.cpp:55
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: compositing.ui:261
+#, kde-format
+msgid "Very slow"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: compositing.ui:281
+#, kde-format
+msgid "Instant"
+msgstr ""
+
+#: main.cpp:60
 #, kde-format
 msgid "Re-enable OpenGL detection"
 msgstr ""

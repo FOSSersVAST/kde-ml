@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-framework\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-27 02:46+0200\n"
+"POT-Creation-Date: 2019-10-22 02:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -108,13 +108,19 @@ msgctxt "%1 is the name of the applet"
 msgid "Remove %1"
 msgstr ""
 
-#: plasma/containment.cpp:125 plasma/private/applet_p.cpp:129
+#: plasma/containment.cpp:126
+#, kde-format
+msgctxt "%1 is the name of the containment"
+msgid "Edit %1..."
+msgstr ""
+
+#: plasma/containment.cpp:129 plasma/private/applet_p.cpp:129
 #, kde-format
 msgctxt "%1 is the name of the applet"
 msgid "Configure %1..."
 msgstr ""
 
-#: plasma/corona.cpp:368 plasma/corona.cpp:460
+#: plasma/corona.cpp:368 plasma/corona.cpp:487
 #, kde-format
 msgid "Lock Widgets"
 msgstr ""
@@ -122,6 +128,16 @@ msgstr ""
 #: plasma/corona.cpp:368
 #, kde-format
 msgid "Unlock Widgets"
+msgstr ""
+
+#: plasma/corona.cpp:417
+#, kde-format
+msgid "Finish Customizing Layout"
+msgstr ""
+
+#: plasma/corona.cpp:419 plasma/corona.cpp:502
+#, kde-format
+msgid "Customize Layout..."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (CachePolicies)
@@ -427,7 +443,7 @@ msgstr ""
 msgid "Tasks"
 msgstr ""
 
-#: plasma/pluginloader.cpp:592 plasma/pluginloader.cpp:593
+#: plasma/pluginloader.cpp:590 plasma/pluginloader.cpp:591
 #, kde-format
 msgctxt "misc category"
 msgid "Miscellaneous"
@@ -804,10 +820,4 @@ msgstr ""
 #, kde-format
 msgctxt "Set wallpaper"
 msgid "Set %1"
-msgstr ""
-
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:1132
-#, kde-format
-msgctxt "%1 is the name of the containment"
-msgid "%1 Options"
 msgstr ""

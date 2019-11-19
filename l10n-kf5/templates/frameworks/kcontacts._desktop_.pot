@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-15 01:30+0000\n"
+"POT-Creation-Date: 2019-11-14 02:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,7 +16,7 @@ msgctxt "Comment"
 msgid "AIM Protocol"
 msgstr ""
 
-#: src/improtocols/aim.desktop:33
+#: src/improtocols/aim.desktop:37
 msgctxt "Name"
 msgid "AIM"
 msgstr ""
@@ -26,7 +26,7 @@ msgctxt "Comment"
 msgid "Facebook Protocol"
 msgstr ""
 
-#: src/improtocols/facebook.desktop:31
+#: src/improtocols/facebook.desktop:35
 msgctxt "Name"
 msgid "Facebook"
 msgstr ""
@@ -36,7 +36,7 @@ msgctxt "Comment"
 msgid "Gadu-Gadu Protocol"
 msgstr ""
 
-#: src/improtocols/gg.desktop:33
+#: src/improtocols/gg.desktop:37
 msgctxt "Name"
 msgid "Gadu-Gadu"
 msgstr ""
@@ -46,7 +46,7 @@ msgctxt "Comment"
 msgid "Google Talk"
 msgstr ""
 
-#: src/improtocols/googletalk.desktop:32
+#: src/improtocols/googletalk.desktop:36
 msgctxt "Name"
 msgid "Google Talk"
 msgstr ""
@@ -56,7 +56,7 @@ msgctxt "Comment"
 msgid "Novell GroupWise Messenger"
 msgstr ""
 
-#: src/improtocols/groupwise.desktop:32
+#: src/improtocols/groupwise.desktop:36
 msgctxt "Name"
 msgid "GroupWise"
 msgstr ""
@@ -66,7 +66,7 @@ msgctxt "Comment"
 msgid "ICQ Protocol"
 msgstr ""
 
-#: src/improtocols/icq.desktop:33
+#: src/improtocols/icq.desktop:37
 msgctxt "Name"
 msgid "ICQ"
 msgstr ""
@@ -76,7 +76,7 @@ msgctxt "Comment"
 msgid "Internet Relay Chat"
 msgstr ""
 
-#: src/improtocols/irc.desktop:32
+#: src/improtocols/irc.desktop:36
 msgctxt "Name"
 msgid "IRC"
 msgstr ""
@@ -86,7 +86,7 @@ msgctxt "Comment"
 msgid "Meanwhile Protocol"
 msgstr ""
 
-#: src/improtocols/meanwhile.desktop:33
+#: src/improtocols/meanwhile.desktop:37
 msgctxt "Name"
 msgid "Meanwhile"
 msgstr ""
@@ -96,7 +96,7 @@ msgctxt "Comment"
 msgid "MSN Messenger"
 msgstr ""
 
-#: src/improtocols/msn.desktop:33
+#: src/improtocols/msn.desktop:37
 msgctxt "Name"
 msgid "MSN Messenger"
 msgstr ""
@@ -106,7 +106,7 @@ msgctxt "Comment"
 msgid "Tencent QQ Messaging"
 msgstr ""
 
-#: src/improtocols/qq.desktop:31
+#: src/improtocols/qq.desktop:35
 msgctxt "Name"
 msgid "QQ"
 msgstr ""
@@ -116,7 +116,7 @@ msgctxt "Comment"
 msgid "Session Initiation Protocol"
 msgstr ""
 
-#: src/improtocols/sip.desktop:31
+#: src/improtocols/sip.desktop:35
 msgctxt "Name"
 msgid "SIP"
 msgstr ""
@@ -126,7 +126,7 @@ msgctxt "Comment"
 msgid "Skype Internet Telephony"
 msgstr ""
 
-#: src/improtocols/skype.desktop:33
+#: src/improtocols/skype.desktop:37
 msgctxt "Name"
 msgid "Skype"
 msgstr ""
@@ -136,7 +136,7 @@ msgctxt "Comment"
 msgid "SMS Protocol"
 msgstr ""
 
-#: src/improtocols/sms.desktop:33
+#: src/improtocols/sms.desktop:37
 msgctxt "Name"
 msgid "SMS"
 msgstr ""
@@ -146,7 +146,7 @@ msgctxt "Comment"
 msgid "Twitter Protocol"
 msgstr ""
 
-#: src/improtocols/twitter.desktop:31
+#: src/improtocols/twitter.desktop:35
 msgctxt "Name"
 msgid "Twitter"
 msgstr ""
@@ -156,7 +156,7 @@ msgctxt "Comment"
 msgid "Jabber Protocol"
 msgstr ""
 
-#: src/improtocols/xmpp.desktop:33
+#: src/improtocols/xmpp.desktop:37
 msgctxt "Name"
 msgid "Jabber"
 msgstr ""
@@ -166,7 +166,7 @@ msgctxt "Comment"
 msgid "Yahoo Protocol"
 msgstr ""
 
-#: src/improtocols/ymsgr.desktop:33
+#: src/improtocols/ymsgr.desktop:37
 msgctxt "Name"
 msgid "Yahoo"
 msgstr ""

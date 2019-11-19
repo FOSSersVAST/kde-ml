@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-07 02:28+0200\n"
+"POT-Creation-Date: 2019-10-21 02:26+0200\n"
 "PO-Revision-Date: 2019-03-17 02:54+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -72,12 +72,34 @@ msgstr ""
 msgid "Enable indexing"
 msgstr ""
 
-#: kateprojectconfigpage.cpp:84 kateprojectpluginview.cpp:62
+#: kateprojectconfigpage.cpp:71
+#, kde-format
+msgctxt "Groupbox title"
+msgid "Cross-Project Functionality"
+msgstr ""
+
+#: kateprojectconfigpage.cpp:72
+#, kde-format
+msgid ""
+"Project plugin is able to perform some operations across multiple projects"
+msgstr ""
+
+#: kateprojectconfigpage.cpp:73
+#, kde-format
+msgid "Cross-Project Completion"
+msgstr ""
+
+#: kateprojectconfigpage.cpp:75
+#, kde-format
+msgid "Cross-Project Goto Symbol"
+msgstr ""
+
+#: kateprojectconfigpage.cpp:97 kateprojectpluginview.cpp:65
 #, kde-format
 msgid "Projects"
 msgstr ""
 
-#: kateprojectconfigpage.cpp:89
+#: kateprojectconfigpage.cpp:102
 #, kde-format
 msgctxt "Groupbox title"
 msgid "Projects Properties"
@@ -169,48 +191,63 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
-#: kateprojectinfoviewindex.cpp:158
+#: kateprojectinfoviewindex.cpp:185
 #, kde-format
 msgid "The index could not be created. Please install 'ctags'."
 msgstr ""
 
-#: kateprojectinfoviewindex.cpp:160
+#: kateprojectinfoviewindex.cpp:187
 #, kde-format
 msgid ""
 "The index is not enabled. Please add '\"index\": true' to your .kateproject "
 "file."
 msgstr ""
 
-#: kateprojectplugin.cpp:404
+#: kateprojectplugin.cpp:431
 #, kde-format
 msgid "Full path to current project excluding the file name."
 msgstr ""
 
-#: kateprojectplugin.cpp:419
+#: kateprojectplugin.cpp:446
 #, kde-format
 msgid ""
 "Full path to current project excluding the file name, with native path "
 "separator (backslash on Windows)."
 msgstr ""
 
-#: kateprojectpluginview.cpp:56
+#: kateprojectpluginview.cpp:59
 #, kde-format
 msgid "Kate Project Manager"
 msgstr ""
 
-#: kateprojectpluginview.cpp:63
+#: kateprojectpluginview.cpp:66
 #, kde-format
 msgid "Current Project"
 msgstr ""
 
-#: kateprojectpluginview.cpp:124
+#: kateprojectpluginview.cpp:125
+#, kde-format
+msgid "Lookup"
+msgstr ""
+
+#: kateprojectpluginview.cpp:130
 #, kde-format
 msgid "Project"
 msgstr ""
 
-#: kateprojectpluginview.cpp:127 kateprojectpluginview.cpp:472
+#: kateprojectpluginview.cpp:133 kateprojectpluginview.cpp:518
 #, kde-format
 msgid "Lookup: %1"
+msgstr ""
+
+#: kateprojectpluginview.cpp:134 kateprojectpluginview.cpp:519
+#, kde-format
+msgid "Goto: %1"
+msgstr ""
+
+#: kateprojectpluginview.cpp:183
+#, kde-format
+msgid "Projects Index"
 msgstr ""
 
 #: kateprojecttreeviewcontextmenu.cpp:86

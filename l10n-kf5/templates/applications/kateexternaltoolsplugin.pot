@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-08 02:24+0200\n"
+"POT-Creation-Date: 2019-11-12 02:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -81,6 +81,18 @@ msgctxt "External tool name"
 msgid "Qt Quick 2 Preview (qmlscene)"
 msgstr ""
 
+#. i18n: file: 149
+#, kde-format
+msgctxt "External tool name"
+msgid "JSON Format Full File"
+msgstr ""
+
+#. i18n: file: 164
+#, kde-format
+msgctxt "External tool name"
+msgid "XML Format Full File"
+msgstr ""
+
 #. i18n: file: 8
 #. i18n: file: 23
 #. i18n: file: 38
@@ -94,6 +106,8 @@ msgstr ""
 #. i18n: file: 83
 #. i18n: file: 98
 #. i18n: file: 113
+#. i18n: file: 143
+#. i18n: file: 158
 #, kde-format
 msgctxt "External tool category"
 msgid "Tools"

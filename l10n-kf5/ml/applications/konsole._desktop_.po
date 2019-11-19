@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-02 01:39+0000\n"
+"POT-Creation-Date: 2019-10-31 02:31+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -43,74 +43,74 @@ msgctxt "Name"
 msgid "Bell in Focused Session"
 msgstr "കാണാവുന്നൊരു സെഷനില്‍ മണിനാദം"
 
-#: desktop/konsole.notifyrc:130
+#: desktop/konsole.notifyrc:131
 #, fuzzy
 msgctxt "Comment"
 msgid "Bell emitted within a focused session"
 msgstr "കാണാവുന്നൊരു സെഷനില്‍ പുറപ്പെടുവിയ്ക്കുന്ന മണിനാദം"
 
-#: desktop/konsole.notifyrc:167
+#: desktop/konsole.notifyrc:169
 #, fuzzy
 msgctxt "Name"
 msgid "Bell in Non-Focused Session"
 msgstr "കാണാത്ത സെഷനില്‍ പുറപ്പെടുവിയ്ക്കുന്ന മണിനാദം"
 
-#: desktop/konsole.notifyrc:201
+#: desktop/konsole.notifyrc:204
 #, fuzzy
 msgctxt "Comment"
 msgid "Bell emitted within a non-focused session"
 msgstr "കാണാത്ത സെഷനില്‍ പുറപ്പെടുവിയ്ക്കുന്ന മണിനാദം"
 
-#: desktop/konsole.notifyrc:239
+#: desktop/konsole.notifyrc:243
 #, fuzzy
 msgctxt "Name"
 msgid "Activity in Non-Focused Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ പ്രവര്‍ത്തനം"
 
-#: desktop/konsole.notifyrc:273
+#: desktop/konsole.notifyrc:278
 #, fuzzy
 msgctxt "Comment"
 msgid "Activity detected in a non-focused monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ പ്രവര്‍ത്തനം"
 
-#: desktop/konsole.notifyrc:310
+#: desktop/konsole.notifyrc:316
 msgctxt "Name"
 msgid "Activity in Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ പ്രവര്‍ത്തനം"
 
-#: desktop/konsole.notifyrc:390
+#: desktop/konsole.notifyrc:396
 msgctxt "Comment"
 msgid "Activity detected in a monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ പ്രവര്‍ത്തനം"
 
-#: desktop/konsole.notifyrc:477
+#: desktop/konsole.notifyrc:483
 #, fuzzy
 msgctxt "Name"
 msgid "Silence in Non-Focused Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
-#: desktop/konsole.notifyrc:511
+#: desktop/konsole.notifyrc:518
 #, fuzzy
 msgctxt "Comment"
 msgid "Silence detected in a non-focused monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
-#: desktop/konsole.notifyrc:548
+#: desktop/konsole.notifyrc:556
 msgctxt "Name"
 msgid "Silence in Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
-#: desktop/konsole.notifyrc:628
+#: desktop/konsole.notifyrc:636
 msgctxt "Comment"
 msgid "Silence detected in a monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
-#: desktop/konsole.notifyrc:715
+#: desktop/konsole.notifyrc:723
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr "ശൂന്യമല്ലാത്തൊരു ഫലത്തോടെ സെഷന്‍ പുറത്തുകടന്നിരിയ്ക്കുന്നു"
 
-#: desktop/konsole.notifyrc:798
+#: desktop/konsole.notifyrc:806
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr "ശൂന്യമല്ലാത്തൊരു ഫലത്തോടെ സെഷന്‍ പുറത്തുകടന്നിരിയ്ക്കുന്നു"

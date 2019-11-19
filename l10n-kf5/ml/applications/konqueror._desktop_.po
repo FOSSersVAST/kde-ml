@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-30 01:22+0000\n"
+"POT-Creation-Date: 2019-11-07 02:40+0000\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -54,7 +54,7 @@ msgctxt "GenericName"
 msgid "Web Browser, File Manager and Viewer"
 msgstr ""
 
-#: org.kde.konqueror.desktop:123
+#: org.kde.konqueror.desktop:125
 msgctxt "Comment"
 msgid "KDE File Manager & Web Browser"
 msgstr "കെഡിഇയിലെ ഫയലുകളുടെ നടത്തിപ്പുകാരനും വെബ് ബ്രൌസറും"

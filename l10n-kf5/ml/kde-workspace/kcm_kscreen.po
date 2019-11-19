@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kscreen\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-18 03:32+0200\n"
+"POT-Creation-Date: 2019-11-12 03:34+0100\n"
 "PO-Revision-Date: 2019-01-10 03:16+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -105,7 +105,7 @@ msgstr ""
 msgid "An output has been removed. Settings have been reloaded."
 msgstr ""
 
-#: package/contents/ui/Output.qml:147
+#: package/contents/ui/Output.qml:149
 #, kde-format
 msgid "Replicas"
 msgstr ""
@@ -204,12 +204,12 @@ msgstr ""
 msgid "No Rotation"
 msgstr ""
 
-#: package/contents/ui/Screen.qml:62
+#: package/contents/ui/Screen.qml:63
 #, kde-format
-msgid "Identify"
+msgid "Drag screens to re-arrange them"
 msgstr ""
 
-#: package/contents/ui/Screen.qml:70
+#: package/contents/ui/Screen.qml:76
 #, kde-format
-msgid "Center View"
+msgid "Identify"
 msgstr ""

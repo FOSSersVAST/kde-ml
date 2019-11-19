@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-11-01 02:36+0000\n"
 "PO-Revision-Date: 2019-04-09 01:54+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -78,7 +78,7 @@ msgctxt "Name"
 msgid "Wireless"
 msgstr ""
 
-#: daemon/actions/bundled/powerdevilwirelesspowersavingaction.desktop:45
+#: daemon/actions/bundled/powerdevilwirelesspowersavingaction.desktop:48
 msgctxt "Comment"
 msgid "Turns off signal-transmitting devices"
 msgstr ""
@@ -145,7 +145,7 @@ msgctxt "Name"
 msgid "Check existence of discrete gpu"
 msgstr ""
 
-#: daemon/backends/upower/discretegpu_helper_actions.actions:89
+#: daemon/backends/upower/discretegpu_helper_actions.actions:91
 msgctxt "Description"
 msgid ""
 "System policies prevent you from checking the existence of discrete gpu."

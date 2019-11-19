@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-10-23 03:30+0200\n"
 "PO-Revision-Date: 2018-08-16 09:16+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -145,47 +145,47 @@ msgctxt "Note this is a KRunner keyword"
 msgid "role"
 msgstr ""
 
-#: windowsrunner.cpp:410
+#: windowsrunner.cpp:415
 #, kde-format
 msgid "Switch to desktop %1"
 msgstr ""
 
-#: windowsrunner.cpp:434
+#: windowsrunner.cpp:439
 #, kde-format
 msgid "Close running window on %1"
 msgstr ""
 
-#: windowsrunner.cpp:437
+#: windowsrunner.cpp:442
 #, kde-format
 msgid "(Un)minimize running window on %1"
 msgstr ""
 
-#: windowsrunner.cpp:440
+#: windowsrunner.cpp:445
 #, kde-format
 msgid "Maximize/restore running window on %1"
 msgstr ""
 
-#: windowsrunner.cpp:443
+#: windowsrunner.cpp:448
 #, kde-format
 msgid "Toggle fullscreen for running window on %1"
 msgstr ""
 
-#: windowsrunner.cpp:446
+#: windowsrunner.cpp:451
 #, kde-format
 msgid "(Un)shade running window on %1"
 msgstr ""
 
-#: windowsrunner.cpp:449
+#: windowsrunner.cpp:454
 #, kde-format
 msgid "Toggle keep above for running window on %1"
 msgstr ""
 
-#: windowsrunner.cpp:452
+#: windowsrunner.cpp:457
 #, kde-format
 msgid "Toggle keep below running window on %1"
 msgstr ""
 
-#: windowsrunner.cpp:456
+#: windowsrunner.cpp:461
 #, kde-format
 msgid "Activate running window on %1"
 msgstr ""

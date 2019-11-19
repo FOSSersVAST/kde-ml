@@ -211,37 +211,37 @@ msgid ""
 "as possible, which is most likely a full hard drive."
 msgstr ""
 
-#: kbookmarkmenu.cpp:277
+#: kbookmarkmenu.cpp:281
 msgctxt "KBookmarkMenu|"
 msgid "Open Folder in Tabs"
 msgstr ""
 
-#: kbookmarkmenu.cpp:281
+#: kbookmarkmenu.cpp:285
 msgctxt "KBookmarkMenu|"
 msgid "Open all bookmarks in this folder as a new tab."
 msgstr ""
 
-#: kbookmarkmenu.cpp:297
+#: kbookmarkmenu.cpp:301
 msgctxt "KBookmarkMenu|"
 msgid "Bookmark Tabs as Folder..."
 msgstr ""
 
-#: kbookmarkmenu.cpp:301
+#: kbookmarkmenu.cpp:305
 msgctxt "KBookmarkMenu|"
 msgid "Add a folder of bookmarks for all open tabs."
 msgstr ""
 
-#: kbookmarkmenu.cpp:341
+#: kbookmarkmenu.cpp:345
 msgctxt "KBookmarkMenu|"
 msgid "Edit your bookmark collection in a separate window"
 msgstr ""
 
-#: kbookmarkmenu.cpp:353
+#: kbookmarkmenu.cpp:357
 msgctxt "KBookmarkMenu|"
 msgid "New Bookmark Folder..."
 msgstr ""
 
-#: kbookmarkmenu.cpp:355
+#: kbookmarkmenu.cpp:359
 msgctxt "KBookmarkMenu|"
 msgid "Create a new bookmark folder in this menu"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-11-14 03:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -63,12 +63,12 @@ msgstr ""
 msgid "Unable to connect to server.  Please check your settings and try again."
 msgstr ""
 
-#: knetattach.cpp:354
+#: knetattach.cpp:356
 #, kde-format
 msgid "Save && C&onnect"
 msgstr ""
 
-#: knetattach.cpp:356
+#: knetattach.cpp:358
 #, kde-format
 msgid "C&onnect"
 msgstr ""

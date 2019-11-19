@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-23 03:24+0200\n"
+"POT-Creation-Date: 2019-10-30 03:40+0100\n"
 "PO-Revision-Date: 2018-08-16 09:16+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -36,25 +36,25 @@ msgctxt "plasma_containmentactions_contextmenu"
 msgid "Leave..."
 msgstr ""
 
-#: menu.cpp:254
+#: menu.cpp:259
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Configure Contextual Menu Plugin"
 msgstr ""
 
-#: menu.cpp:264
+#: menu.cpp:269
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "[Other Actions]"
 msgstr ""
 
-#: menu.cpp:267
+#: menu.cpp:272
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Wallpaper Actions"
 msgstr ""
 
-#: menu.cpp:271
+#: menu.cpp:276
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "[Separator]"

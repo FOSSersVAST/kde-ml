@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcm_desktopthemedetails trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-10-31 03:24+0100\n"
 "PO-Revision-Date: 2008-12-16 01:08+0730\n"
 "Last-Translator: Hari|ഹരി  Vishnu | വിഷ്ണു <harivishnu@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -30,42 +30,42 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "snalledam@dataone.in, pravi.a@gmail.com, harivishnu@gmail.com"
 
-#: kcm.cpp:61
+#: kcm.cpp:60
 #, fuzzy, kde-format
 msgid "Plasma Theme"
 msgstr "പുതിയ പ്രമേയം എടുക്കുക..."
 
-#: kcm.cpp:63
+#: kcm.cpp:62
 #, kde-format
 msgid "David Rosca"
 msgstr ""
 
-#: kcm.cpp:139
+#: kcm.cpp:126
 #, fuzzy, kde-format
 msgid "Download New Plasma Themes"
 msgstr "പണിയിടത്തിന്റെ പ്രമേയം മാറ്റുന്നതെങ്ങനെ"
 
-#: kcm.cpp:165
+#: kcm.cpp:152
 #, fuzzy, kde-format
 msgid "Unable to create a temporary file."
 msgstr "പ്രമേയം സൂക്ഷിക്കാന്‍ കഴിയില്ല."
 
-#: kcm.cpp:177
+#: kcm.cpp:164
 #, fuzzy, kde-format
 msgid "Unable to download the theme: %1"
 msgstr "പ്രമേയം സൂക്ഷിക്കാന്‍ കഴിയില്ല."
 
-#: kcm.cpp:200
+#: kcm.cpp:187
 #, kde-format
 msgid "Theme installed successfully."
 msgstr ""
 
-#: kcm.cpp:203 kcm.cpp:211
+#: kcm.cpp:190 kcm.cpp:198
 #, kde-format
 msgid "Theme installation failed."
 msgstr ""
 
-#: kcm.cpp:360
+#: kcm.cpp:341
 #, kde-format
 msgid "Removing theme failed: %1"
 msgstr ""

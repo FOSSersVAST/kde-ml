@@ -21,7 +21,7 @@ msgstr ""
 "X-Generator: Lokalize 0.3\n"
 "X-Qt-Contexts: true\n"
 
-#: core/kconfig.cpp:924
+#: core/kconfig.cpp:939
 msgctxt "KConfig|"
 msgid "Please contact your system administrator."
 msgstr ""
@@ -529,6 +529,11 @@ msgstr ""
 "എടുക്കപെടും"
 
 #: kreadconfig/kwriteconfig.cpp:39
+msgctxt "main|"
+msgid "Delete the designated key if enabled"
+msgstr ""
+
+#: kreadconfig/kwriteconfig.cpp:40
 #, fuzzy
 msgctxt "main|"
 msgid "The value to write. Mandatory, on a shell use '' for empty"

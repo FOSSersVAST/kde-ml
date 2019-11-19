@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_runner_kill\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-11-14 03:36+0100\n"
 "PO-Revision-Date: 2010-07-01 00:50+0530\n"
 "Last-Translator: Hrishikesh K Bhaskaran <hrishi.kb@gmail.com>\n"
 "Language-Team: Swathanthra Malayalam Computing <smc-discuss@googlegroups."
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: killrunner.cpp:63 killrunner_config.cpp:62 killrunner_config.cpp:88
+#: killrunner.cpp:63 killrunner_config.cpp:68 killrunner_config.cpp:94
 #, kde-format
 msgid "kill"
 msgstr "ഇല്ലാതാക്കുക"
@@ -52,17 +52,17 @@ msgstr "SIGTERM അയയ്ക്കുക"
 msgid "Send SIGKILL"
 msgstr "SIGKILL അയയ്ക്കുക"
 
-#: killrunner_config.cpp:42
+#: killrunner_config.cpp:43
 #, kde-format
 msgid "CPU usage"
 msgstr "സിപിയു ഉപയോഗം"
 
-#: killrunner_config.cpp:43
+#: killrunner_config.cpp:44
 #, kde-format
 msgid "inverted CPU usage"
 msgstr "തലതിരിച്ച സിപിയു ഉപയോഗം"
 
-#: killrunner_config.cpp:44
+#: killrunner_config.cpp:45
 #, kde-format
 msgid "nothing"
 msgstr "ഒന്നും ഇല്ല"

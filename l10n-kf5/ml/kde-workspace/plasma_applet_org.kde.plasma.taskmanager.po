@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_tasks trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-10-21 03:23+0200\n"
 "PO-Revision-Date: 2008-11-25 02:43-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -88,12 +88,12 @@ msgstr "ഏറ്റവും കൂടുതല്‍ ആകാവുന്ന 
 
 #: package/contents/ui/ConfigAppearance.qml:111
 #, kde-format
-msgid "Always arrange tasks in as many rows as columns"
+msgid "Always arrange tasks in rows of as many columns"
 msgstr ""
 
 #: package/contents/ui/ConfigAppearance.qml:111
 #, kde-format
-msgid "Always arrange tasks in as many columns as rows"
+msgid "Always arrange tasks in columns of as many rows"
 msgstr ""
 
 #: package/contents/ui/ConfigBehavior.qml:52

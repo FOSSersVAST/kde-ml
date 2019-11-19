@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-11-10 02:40+0000\n"
 "PO-Revision-Date: 2018-10-11 02:02+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -18,32 +18,32 @@ msgctxt "Name"
 msgid "Plymouth Control Module"
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:41
+#: src/kcmplymouth_actions.actions:43
 msgctxt "Name"
 msgid "Save the Plymouth Theme"
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:76
+#: src/kcmplymouth_actions.actions:80
 msgctxt "Description"
 msgid "System policies prevent you from applying the Plymouth theme."
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:114
+#: src/kcmplymouth_actions.actions:120
 msgctxt "Name"
 msgid "Install a new Plymouth Theme"
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:149
+#: src/kcmplymouth_actions.actions:157
 msgctxt "Description"
 msgid "System policies prevent you from installing a Plymouth theme."
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:187
+#: src/kcmplymouth_actions.actions:197
 msgctxt "Name"
 msgid "Uninstall a new Plymouth Theme"
 msgstr ""
 
-#: src/kcmplymouth_actions.actions:222
+#: src/kcmplymouth_actions.actions:234
 msgctxt "Description"
 msgid "System policies prevent you from uninstalling a Plymouth theme."
 msgstr ""
@@ -53,12 +53,12 @@ msgctxt "Name"
 msgid "Boot Splash"
 msgstr ""
 
-#: src/kcm_plymouth.desktop:50
+#: src/kcm_plymouth.desktop:41
 msgctxt "Comment"
 msgid "Plymouth Splash Screen"
 msgstr ""
 
-#: src/kcm_plymouth.desktop:86
+#: src/kcm_plymouth.desktop:68
 msgctxt "X-KDE-Keywords"
 msgid "plymouth,splash,splash screen"
 msgstr ""
@@ -68,7 +68,7 @@ msgctxt "Name"
 msgid "System Splash"
 msgstr ""
 
-#: src/package/metadata.desktop:38
+#: src/package/metadata.desktop:40
 msgctxt "Comment"
 msgid "Plymouth splash screen"
 msgstr ""

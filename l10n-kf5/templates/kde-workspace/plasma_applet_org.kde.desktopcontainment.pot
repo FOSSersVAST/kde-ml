@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-03 03:23+0200\n"
+"POT-Creation-Date: 2019-11-01 03:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -28,10 +28,6 @@ msgstr ""
 
 #: package/contents/config/config.qml:43
 msgid "Filter"
-msgstr ""
-
-#: package/contents/config/config.qml:50
-msgid "Tweaks"
 msgstr ""
 
 #: package/contents/ui/BackButtonItem.qml:116
@@ -293,22 +289,8 @@ msgstr ""
 msgid "Rotate"
 msgstr ""
 
-#: package/contents/ui/ConfigOverlay.qml:224
+#: package/contents/ui/ConfigOverlay.qml:228
 msgid "Remove"
-msgstr ""
-
-#: package/contents/ui/ConfigTweaks.qml:43
-msgid ""
-"With the Desktop Toolbox hidden, right-click on the desktop and choose "
-"'Configure Desktop...' to access this configuration window in the future"
-msgstr ""
-
-#: package/contents/ui/ConfigTweaks.qml:54
-msgid "Show the desktop toolbox"
-msgstr ""
-
-#: package/contents/ui/ConfigTweaks.qml:72
-msgid "Press and hold widgets to move them and reveal their handles"
 msgstr ""
 
 #: package/contents/ui/FolderItemPreviewPluginsDialog.qml:36
@@ -323,19 +305,7 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: package/contents/ui/main.qml:277
-msgid "Widgets unlocked"
-msgstr ""
-
-#: package/contents/ui/main.qml:278
-msgid "You can press and hold widgets to move them and reveal their handles."
-msgstr ""
-
-#: package/contents/ui/main.qml:279
-msgid "Got it"
-msgstr ""
-
-#: package/contents/ui/main.qml:403
+#: package/contents/ui/main.qml:361
 msgid "Configure Desktop..."
 msgstr ""
 

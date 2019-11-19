@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-11-10 03:33+0100\n"
 "PO-Revision-Date: 2019-03-31 04:35+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -28,14 +28,14 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: activitypage.cpp:75
+#: activitypage.cpp:74
 #, kde-format
 msgid ""
 "The activity service is running with bare functionalities.\n"
 "Names and icons of the activities might not be available."
 msgstr ""
 
-#: activitypage.cpp:149
+#: activitypage.cpp:148
 #, kde-format
 msgid ""
 "The activity service is not running.\n"

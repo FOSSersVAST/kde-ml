@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-18 02:52+0200\n"
+"POT-Creation-Date: 2019-11-18 02:47+0100\n"
 "PO-Revision-Date: 2008-07-22 15:30+0530\n"
 "Last-Translator: സ്മിത ബി ആര്‍ <smitha.br@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -65,7 +65,8 @@ msgstr "യൂണിയന്‍സ്"
 msgid "Functions"
 msgstr "ഫംഗ്ഷന്‍സ്"
 
-#: completion/katecompletionmodel.cpp:799
+#: completion/katecompletionmodel.cpp:804
+#: utils/katevariableexpansionhelpers.cpp:230
 #, kde-format
 msgid "Variables"
 msgstr "വേരിയബിള്‍സ്"
@@ -222,7 +223,7 @@ msgstr ""
 msgid "Unknown Property"
 msgstr ""
 
-#: completion/katekeywordcompletion.cpp:150
+#: completion/katekeywordcompletion.cpp:146
 #, kde-format
 msgid "Language keywords"
 msgstr ""
@@ -997,7 +998,7 @@ msgid "Delete the current file type."
 msgstr "നിലവിലുള്ള ഫയല്‍തരം വെട്ടിമാറ്റുക."
 
 #. i18n: ectx: property (text), widget (QPushButton, btnDelete)
-#: dialogs/filetypeconfigwidget.ui:44 schema/kateschemaconfig.cpp:923
+#: dialogs/filetypeconfigwidget.ui:44 schema/kateschemaconfig.cpp:894
 #, kde-format
 msgid "&Delete"
 msgstr "&വെട്ടിമാറ്റുക"
@@ -1585,7 +1586,7 @@ msgid "Text selection mode:"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cbTextSelectionMode)
-#: dialogs/navigationconfigwidget.ui:103 inputmode/katenormalinputmode.cpp:82
+#: dialogs/navigationconfigwidget.ui:103 inputmode/katenormalinputmode.cpp:84
 #: mode/katemodemanager.cpp:146
 #, fuzzy, kde-format
 msgid "Normal"
@@ -1984,7 +1985,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, spacesComboBox)
 #: dialogs/textareaappearanceconfigwidget.ui:156
-#: syntax/katehighlightmenu.cpp:56
+#: syntax/katehighlightmenu.cpp:57
 #, fuzzy, kde-format
 msgid "None"
 msgstr "ശൂന്യം"
@@ -2016,7 +2017,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: dialogs/textareaappearanceconfigwidget.ui:209
 #, fuzzy, kde-format
-msgid "Whitepaces"
+msgid "Whitespaces"
 msgstr "മാറ്റുക"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, chkShowTabs)
@@ -2120,13 +2121,13 @@ msgstr ""
 msgid "Show line count"
 msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
-#: document/katebuffer.cpp:179
+#: document/katebuffer.cpp:177
 #, fuzzy, kde-format
 msgctxt "short translation, user created new file"
 msgid "New file"
 msgstr "പുതിയ തരത്തിലുള്ള ഫയല്‍"
 
-#: document/katebuffer.cpp:187
+#: document/katebuffer.cpp:184
 #, kde-format
 msgid "The file %1 does not exist."
 msgstr ""
@@ -2380,12 +2381,12 @@ msgstr ""
 msgid "&Abort Loading"
 msgstr ""
 
-#: inputmode/katenormalinputmode.cpp:92
+#: inputmode/katenormalinputmode.cpp:94
 #, kde-format
 msgid "OVERWRITE"
 msgstr ""
 
-#: inputmode/katenormalinputmode.cpp:92
+#: inputmode/katenormalinputmode.cpp:94
 #, kde-format
 msgid "INSERT"
 msgstr ""
@@ -2395,48 +2396,48 @@ msgstr ""
 msgid "Normal Mode"
 msgstr "സാധാരണ വാചകം:"
 
-#: inputmode/kateviinputmode.cpp:40
+#: inputmode/kateviinputmode.cpp:43
 #, kde-format
 msgid "VI: INSERT MODE"
 msgstr ""
 
-#: inputmode/kateviinputmode.cpp:43
+#: inputmode/kateviinputmode.cpp:46
 #, kde-format
 msgid "VI: NORMAL MODE"
 msgstr ""
 
-#: inputmode/kateviinputmode.cpp:46
+#: inputmode/kateviinputmode.cpp:49
 #, kde-format
 msgid "VI: VISUAL"
 msgstr ""
 
-#: inputmode/kateviinputmode.cpp:49
+#: inputmode/kateviinputmode.cpp:52
 #, kde-format
 msgid "VI: VISUAL BLOCK"
 msgstr ""
 
-#: inputmode/kateviinputmode.cpp:52
+#: inputmode/kateviinputmode.cpp:55
 #, kde-format
 msgid "VI: VISUAL LINE"
 msgstr ""
 
-#: inputmode/kateviinputmode.cpp:55
+#: inputmode/kateviinputmode.cpp:58
 #, kde-format
 msgid "VI: REPLACE"
 msgstr ""
 
-#: inputmode/kateviinputmode.cpp:160
+#: inputmode/kateviinputmode.cpp:161
 #, kde-format
 msgid "vi-mode"
 msgstr ""
 
-#: inputmode/kateviinputmode.cpp:173
+#: inputmode/kateviinputmode.cpp:174
 #, fuzzy, kde-format
 msgid "recording"
 msgstr "എ&ന്‍കോഡിങു്"
 
-#: inputmode/kateviinputmodefactory.cpp:55 utils/kateglobal.cpp:220
-#: vimode/config/configtab.cpp:249
+#: inputmode/kateviinputmodefactory.cpp:57 utils/kateglobal.cpp:120
+#: vimode/config/configtab.cpp:246
 #, kde-format
 msgid "Vi Input Mode"
 msgstr ""
@@ -2479,13 +2480,13 @@ msgstr "Mime തരത്തിലുള്ളവ തിരഞ്ഞെടുക
 msgid "Modes && Filetypes"
 msgstr "പുതിയ തരത്തിലുള്ള ഫയല്‍"
 
-#: mode/katemodemenulist.cpp:84
+#: mode/katemodemenulist.cpp:147
 #, kde-format
 msgctxt "Placeholder in search bar"
 msgid "Search..."
 msgstr ""
 
-#: mode/katemodemenulist.cpp:85
+#: mode/katemodemenulist.cpp:148
 #, kde-format
 msgctxt "ToolTip of the search bar of modes of syntax highlighting"
 msgid ""
@@ -2493,10 +2494,28 @@ msgid ""
 "example, C++ or .cpp)"
 msgstr ""
 
-#: mode/katemodemenulist.cpp:385
+#: mode/katemodemenulist.cpp:544
 #, kde-format
 msgctxt "A search yielded no results"
 msgid "No items matching your search"
+msgstr ""
+
+#: mode/katemodemenulist.cpp:1056
+#, kde-format
+msgctxt ""
+"Title (in singular) of the best result in an item search. Please, that the "
+"translation doesn't have more than 34 characters, since the menu where it's "
+"displayed is small and fixed."
+msgid "Best Search Match"
+msgstr ""
+
+#: mode/katemodemenulist.cpp:1059
+#, kde-format
+msgctxt ""
+"Title (in plural) of the best results in an item search. Please, that the "
+"translation doesn't have more than 34 characters, since the menu where it's "
+"displayed is small and fixed."
+msgid "Best Search Matches"
 msgstr ""
 
 #: printing/printconfigwidgets.cpp:49
@@ -2679,7 +2698,7 @@ msgstr ""
 msgid "L&ayout"
 msgstr "മാ&തൃക"
 
-#: printing/printconfigwidgets.cpp:505 schema/kateschemaconfig.cpp:910
+#: printing/printconfigwidgets.cpp:504 schema/kateschemaconfig.cpp:881
 #, kde-format
 msgid "&Schema:"
 msgstr "&സ്കീമാ:"
@@ -2777,7 +2796,7 @@ msgid "Replace current schema?"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioReplaceExisting)
-#: schema/howtoimportschema.ui:34 schema/kateschemaconfig.cpp:1068
+#: schema/howtoimportschema.ui:34 schema/kateschemaconfig.cpp:1036
 #, no-c-format, kde-format
 msgid "Replace existing schema %1"
 msgstr ""
@@ -2788,37 +2807,37 @@ msgstr ""
 msgid "Import as new schema:"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
-#: schema/katecolortreewidget.cpp:51 schema/katecolortreewidget.cpp:78
+#: schema/katecolortreewidget.cpp:52 schema/katecolortreewidget.cpp:79
 #, kde-format
 msgid "Use default color from the KDE color scheme"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:59
+#: schema/kateschemaconfig.cpp:60
 #, fuzzy, kde-format
 msgid "Use KDE Color Scheme"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
-#: schema/kateschemaconfig.cpp:86
+#: schema/kateschemaconfig.cpp:87
 #, fuzzy, kde-format
 msgid "Editor Background Colors"
 msgstr "&പശ്ചാത്തലത്തിലുള്ള നിറം..."
 
-#: schema/kateschemaconfig.cpp:88
+#: schema/kateschemaconfig.cpp:89
 #, kde-format
 msgid "Text Area"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:90
+#: schema/kateschemaconfig.cpp:91
 #, kde-format
 msgid "<p>Sets the background color of the editing area.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:94
+#: schema/kateschemaconfig.cpp:95
 #, fuzzy, kde-format
 msgid "Selected Text"
 msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 
-#: schema/kateschemaconfig.cpp:96
+#: schema/kateschemaconfig.cpp:97
 #, kde-format
 msgid ""
 "<p>Sets the background color of the selection.</p><p>To set the text color "
@@ -2826,93 +2845,93 @@ msgid ""
 "</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:100
+#: schema/kateschemaconfig.cpp:101
 #, fuzzy, kde-format
 msgid "Current Line"
 msgstr "വരി നീക്കം ചെയ്യുക"
 
-#: schema/kateschemaconfig.cpp:102
+#: schema/kateschemaconfig.cpp:103
 #, kde-format
 msgid ""
 "<p>Sets the background color of the currently active line, which means the "
 "line where your cursor is positioned.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:106
+#: schema/kateschemaconfig.cpp:107
 #, kde-format
 msgid "Search Highlight"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:108
+#: schema/kateschemaconfig.cpp:109
 #, kde-format
 msgid "<p>Sets the background color of search results.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:112
+#: schema/kateschemaconfig.cpp:113
 #, fuzzy, kde-format
 msgid "Replace Highlight"
 msgstr "&എല്ലാം മാറ്റുക"
 
-#: schema/kateschemaconfig.cpp:114
+#: schema/kateschemaconfig.cpp:115
 #, kde-format
 msgid "<p>Sets the background color of replaced text.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:121
+#: schema/kateschemaconfig.cpp:122
 #, fuzzy, kde-format
 msgid "Icon Border"
 msgstr "അതിരുകള്‍"
 
-#: schema/kateschemaconfig.cpp:123
+#: schema/kateschemaconfig.cpp:124
 #, fuzzy, kde-format
 msgid "Background Area"
 msgstr "പശ്ചാത്തലം"
 
-#: schema/kateschemaconfig.cpp:125
+#: schema/kateschemaconfig.cpp:126
 #, kde-format
 msgid "<p>Sets the background color of the icon border.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:129
+#: schema/kateschemaconfig.cpp:130
 #, fuzzy, kde-format
 msgid "Line Numbers"
 msgstr "&വരിയുടെ അക്കം കാണിക്കുക"
 
-#: schema/kateschemaconfig.cpp:131
+#: schema/kateschemaconfig.cpp:132
 #, kde-format
 msgid "<p>This color will be used to draw the line numbers (if enabled).</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:135
+#: schema/kateschemaconfig.cpp:136
 #, fuzzy, kde-format
 msgid "Current Line Number"
 msgstr "വരി നീക്കം ചെയ്യുക"
 
-#: schema/kateschemaconfig.cpp:137
+#: schema/kateschemaconfig.cpp:138
 #, kde-format
 msgid ""
 "<p>This color will be used to draw the number of the current line (if "
 "enabled).</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:141
+#: schema/kateschemaconfig.cpp:142
 #, kde-format
 msgid "Separator"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:143
+#: schema/kateschemaconfig.cpp:144
 #, kde-format
 msgid ""
 "<p>This color will be used to draw the line between line numbers and the "
 "icon borders, if both are enabled.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:147
+#: schema/kateschemaconfig.cpp:148
 #, kde-format
 msgid "Word Wrap Marker"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:149
+#: schema/kateschemaconfig.cpp:151
 #, kde-format
 msgid ""
 "<p>Sets the color of Word Wrap-related markers:</p><dl><dt>Static Word Wrap</"
@@ -2921,96 +2940,96 @@ msgid ""
 "visually-wrapped lines</dd></dl>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:153
+#: schema/kateschemaconfig.cpp:156
 #, kde-format
 msgid "Code Folding"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:155
+#: schema/kateschemaconfig.cpp:158
 #, fuzzy, kde-format
 msgid "<p>Sets the color of the code folding bar.</p>"
 msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായി നിറങ്ങള്‍ തിരഞ്ഞെടുക്കുക."
 
-#: schema/kateschemaconfig.cpp:159
+#: schema/kateschemaconfig.cpp:162
 #, fuzzy, kde-format
 msgid "Modified Lines"
 msgstr "അടുത്ത വരിയിലേക്കു് നീങ്ങുക"
 
-#: schema/kateschemaconfig.cpp:161
+#: schema/kateschemaconfig.cpp:164
 #, kde-format
 msgid ""
 "<p>Sets the color of the line modification marker for modified lines.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:165
+#: schema/kateschemaconfig.cpp:168
 #, fuzzy, kde-format
 msgid "Saved Lines"
 msgstr "ഫയല്‍ സൂക്ഷിക്കുക"
 
-#: schema/kateschemaconfig.cpp:167
+#: schema/kateschemaconfig.cpp:170
 #, kde-format
 msgid "<p>Sets the color of the line modification marker for saved lines.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:174
+#: schema/kateschemaconfig.cpp:177
 #, kde-format
 msgid "Text Decorations"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:176
+#: schema/kateschemaconfig.cpp:179
 #, kde-format
 msgid "Spelling Mistake Line"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:178
+#: schema/kateschemaconfig.cpp:181
 #, kde-format
 msgid ""
 "<p>Sets the color of the line that is used to indicate spelling mistakes.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:182
+#: schema/kateschemaconfig.cpp:185
 #, kde-format
 msgid "Tab and Space Markers"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:184
+#: schema/kateschemaconfig.cpp:187
 #, kde-format
 msgid "<p>Sets the color of the tabulator marks.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:188
+#: schema/kateschemaconfig.cpp:191
 #, kde-format
 msgid "Indentation Line"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:190
+#: schema/kateschemaconfig.cpp:193
 #, fuzzy, kde-format
 msgid "<p>Sets the color of the vertical indentation lines.</p>"
 msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായി നിറങ്ങള്‍ തിരഞ്ഞെടുക്കുക."
 
-#: schema/kateschemaconfig.cpp:194
+#: schema/kateschemaconfig.cpp:197
 #, kde-format
 msgid "Bracket Highlight"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:196
+#: schema/kateschemaconfig.cpp:199
 #, kde-format
 msgid ""
 "<p>Sets the bracket matching color. This means, if you place the cursor e.g. "
 "at a <b>(</b>, the matching <b>)</b> will be highlighted with this color.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:203
+#: schema/kateschemaconfig.cpp:206
 #, fuzzy, kde-format
 msgid "Marker Colors"
 msgstr "നിറങ്ങള്‍"
 
-#: schema/kateschemaconfig.cpp:206 view/kateviewhelpers.cpp:1446
+#: schema/kateschemaconfig.cpp:208 view/kateviewhelpers.cpp:1428
 #, kde-format
 msgid "Bookmark"
 msgstr "ഓര്‍മ്മക്കുറിപ്പു്"
 
-#: schema/kateschemaconfig.cpp:207
+#: schema/kateschemaconfig.cpp:208
 #, kde-format
 msgid "Active Breakpoint"
 msgstr ""
@@ -3020,59 +3039,59 @@ msgstr ""
 msgid "Reached Breakpoint"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:209
+#: schema/kateschemaconfig.cpp:208
 #, kde-format
 msgid "Disabled Breakpoint"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:210
+#: schema/kateschemaconfig.cpp:208
 #, kde-format
 msgid "Execution"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:211
+#: schema/kateschemaconfig.cpp:208
 #, kde-format
 msgid "Warning"
 msgstr "മുന്നറിയിപ്പു്"
 
-#: schema/kateschemaconfig.cpp:212
+#: schema/kateschemaconfig.cpp:208
 #, kde-format
 msgid "Error"
 msgstr "പിശകു്"
 
-#: schema/kateschemaconfig.cpp:215
+#: schema/kateschemaconfig.cpp:210
 #, kde-format
 msgid ""
 "<p>Sets the background color of mark type.</p><p><b>Note</b>: The marker "
 "color is displayed lightly because of transparency.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:226
+#: schema/kateschemaconfig.cpp:221
 #, kde-format
 msgid "Text Templates & Snippets"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:230
+#: schema/kateschemaconfig.cpp:225
 #, fuzzy, kde-format
 msgid "Background"
 msgstr "പശ്ചാത്തലം"
 
-#: schema/kateschemaconfig.cpp:235
+#: schema/kateschemaconfig.cpp:230
 #, kde-format
 msgid "Editable Placeholder"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:240
+#: schema/kateschemaconfig.cpp:235
 #, kde-format
 msgid "Focused Editable Placeholder"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:245
+#: schema/kateschemaconfig.cpp:240
 #, kde-format
 msgid "Not Editable Placeholder"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:470
+#: schema/kateschemaconfig.cpp:464
 #, kde-format
 msgid ""
 "<p>This list displays the default styles for the current schema and offers "
@@ -3082,52 +3101,52 @@ msgid ""
 "Background colors from the popup menu when appropriate.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:505
+#: schema/kateschemaconfig.cpp:499
 #, kde-format
 msgctxt "@item:intable"
 msgid "Normal Text & Source Code"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:514
+#: schema/kateschemaconfig.cpp:506
 #, kde-format
 msgctxt "@item:intable"
 msgid "Numbers, Types & Constants"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:523
+#: schema/kateschemaconfig.cpp:513
 #, fuzzy, kde-format
 msgctxt "@item:intable"
 msgid "Strings & Characters"
 msgstr " അക്ഷരങ്ങള്‍"
 
-#: schema/kateschemaconfig.cpp:532
+#: schema/kateschemaconfig.cpp:520
 #, fuzzy, kde-format
 msgctxt "@item:intable"
 msgid "Comments & Documentation"
 msgstr "രേഖ അടയ്ക്കുക"
 
-#: schema/kateschemaconfig.cpp:541
+#: schema/kateschemaconfig.cpp:527
 #, kde-format
 msgctxt "@item:intable"
 msgid "Miscellaneous"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:614
+#: schema/kateschemaconfig.cpp:598
 #, kde-format
 msgid "H&ighlight:"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:624 schema/kateschemaconfig.cpp:927
+#: schema/kateschemaconfig.cpp:608 schema/kateschemaconfig.cpp:898
 #, fuzzy, kde-format
 msgid "Export..."
 msgstr "HTML ആയി &ലഭ്യമാക്കുക..."
 
-#: schema/kateschemaconfig.cpp:628 schema/kateschemaconfig.cpp:931
+#: schema/kateschemaconfig.cpp:612 schema/kateschemaconfig.cpp:902
 #, kde-format
 msgid "Import..."
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:661
+#: schema/kateschemaconfig.cpp:646
 #, kde-format
 msgid ""
 "<p>This list displays the contexts of the current syntax highlight mode and "
@@ -3139,263 +3158,263 @@ msgid ""
 "context menu when appropriate.</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:682
+#: schema/kateschemaconfig.cpp:667
 #, kde-format
 msgid "Loading all highlightings for schema"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:793
+#: schema/kateschemaconfig.cpp:778
 #, kde-format
 msgid "Importing colors for single highlighting"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:795 schema/kateschemaconfig.cpp:865
-#: schema/kateschemaconfig.cpp:984 schema/kateschemaconfig.cpp:1115
+#: schema/kateschemaconfig.cpp:778 schema/kateschemaconfig.cpp:837
+#: schema/kateschemaconfig.cpp:952 schema/kateschemaconfig.cpp:1080
 #, fuzzy, kde-format
 msgid "Kate color schema"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
-#: schema/kateschemaconfig.cpp:809
+#: schema/kateschemaconfig.cpp:790
 #, kde-format
 msgid "File is not a single highlighting color file"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:810 schema/kateschemaconfig.cpp:1126
+#: schema/kateschemaconfig.cpp:790 schema/kateschemaconfig.cpp:1090
 #, fuzzy, kde-format
 msgid "Fileformat error"
 msgstr "ഫയലിന്റെ രീതി"
 
-#: schema/kateschemaconfig.cpp:819
+#: schema/kateschemaconfig.cpp:797
 #, kde-format
 msgid "The selected file contains colors for a non existing highlighting:%1"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:820
+#: schema/kateschemaconfig.cpp:797
 #, kde-format
 msgid "Import failure"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:843
+#: schema/kateschemaconfig.cpp:817
 #, kde-format
 msgid "Colors have been imported for highlighting: %1"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:844
+#: schema/kateschemaconfig.cpp:817
 #, kde-format
 msgid "Import has finished"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:863
+#: schema/kateschemaconfig.cpp:835
 #, kde-format
 msgid "Exporting colors for single highlighting: %1"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:919
+#: schema/kateschemaconfig.cpp:890
 #, kde-format
 msgid "&New..."
 msgstr "&പുതിയ..."
 
-#: schema/kateschemaconfig.cpp:942
+#: schema/kateschemaconfig.cpp:913
 #, kde-format
 msgid "Colors"
 msgstr "നിറങ്ങള്‍"
 
-#: schema/kateschemaconfig.cpp:946
+#: schema/kateschemaconfig.cpp:917
 #, kde-format
 msgid "Font"
 msgstr "ലിപി"
 
-#: schema/kateschemaconfig.cpp:950
+#: schema/kateschemaconfig.cpp:921
 #, kde-format
 msgid "Default Text Styles"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:954
+#: schema/kateschemaconfig.cpp:925
 #, kde-format
 msgid "Highlighting Text Styles"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:960
+#: schema/kateschemaconfig.cpp:931
 #, kde-format
 msgid "&Default schema for %1:"
 msgstr "%1-നു് &സ്വതവേയുള്ള സ്കീമാ:"
 
-#: schema/kateschemaconfig.cpp:982
+#: schema/kateschemaconfig.cpp:952
 #, fuzzy, kde-format
 msgid "Exporting color schema: %1"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
-#: schema/kateschemaconfig.cpp:1014
+#: schema/kateschemaconfig.cpp:982
 #, kde-format
 msgid "Exporting schema"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:1113
+#: schema/kateschemaconfig.cpp:1080
 #, fuzzy, kde-format
 msgid "Importing Color Schema"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
-#: schema/kateschemaconfig.cpp:1125
+#: schema/kateschemaconfig.cpp:1090
 #, kde-format
 msgid "The file does not contain a full color schema."
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:1132
+#: schema/kateschemaconfig.cpp:1096
 #, kde-format
 msgid "Name unspecified"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:1181
+#: schema/kateschemaconfig.cpp:1145
 #, kde-format
 msgid "Importing schema"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:1323
+#: schema/kateschemaconfig.cpp:1287
 #, kde-format
 msgid "Name for New Schema"
 msgstr "പുതിയ സ്കീമായുടെ പേരു്"
 
-#: schema/kateschemaconfig.cpp:1323
+#: schema/kateschemaconfig.cpp:1287
 #, kde-format
 msgid "Name:"
 msgstr "പേരു്: "
 
-#: schema/kateschemaconfig.cpp:1323 schema/kateschemaconfig.cpp:1331
+#: schema/kateschemaconfig.cpp:1287 schema/kateschemaconfig.cpp:1295
 #, kde-format
 msgid "New Schema"
 msgstr "പുതിയ സ്കീമാ"
 
-#: schema/kateschemaconfig.cpp:1331
+#: schema/kateschemaconfig.cpp:1295
 #, kde-format
 msgid ""
 "<p>The schema %1 already exists.</p><p>Please choose a different schema name."
 "</p>"
 msgstr ""
 
-#: schema/kateschemaconfig.cpp:1366
+#: schema/kateschemaconfig.cpp:1330
 #, kde-format
 msgid "Fonts & Colors"
 msgstr "ലിപികളും നിറങ്ങളും"
 
-#: schema/kateschemaconfig.cpp:1371
+#: schema/kateschemaconfig.cpp:1335
 #, kde-format
 msgid "Font & Color Schemas"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:138
+#: schema/katestyletreewidget.cpp:129
 #, kde-format
 msgctxt "@title:column Meaning of text in editor"
 msgid "Context"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:138
+#: schema/katestyletreewidget.cpp:129
 #, kde-format
 msgctxt "@title:column Text style"
 msgid "Normal"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:138
+#: schema/katestyletreewidget.cpp:129
 #, kde-format
 msgctxt "@title:column Text style"
 msgid "Selected"
 msgstr "തിരഞ്ഞെടുത്തവ"
 
-#: schema/katestyletreewidget.cpp:138
+#: schema/katestyletreewidget.cpp:130
 #, kde-format
 msgctxt "@title:column Text style"
 msgid "Background"
 msgstr "പശ്ചാത്തലം"
 
-#: schema/katestyletreewidget.cpp:138
+#: schema/katestyletreewidget.cpp:130
 #, kde-format
 msgctxt "@title:column Text style"
 msgid "Background Selected"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:140
+#: schema/katestyletreewidget.cpp:132
 #, kde-format
 msgid "Use Default Style"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:235
+#: schema/katestyletreewidget.cpp:227
 #, kde-format
 msgid "&Bold"
 msgstr "&തടിച്ച"
 
-#: schema/katestyletreewidget.cpp:240
+#: schema/katestyletreewidget.cpp:232
 #, kde-format
 msgid "&Italic"
 msgstr "&ചരിഞ്ഞ"
 
-#: schema/katestyletreewidget.cpp:245
+#: schema/katestyletreewidget.cpp:237
 #, kde-format
 msgid "&Underline"
 msgstr "&അടിവര"
 
-#: schema/katestyletreewidget.cpp:250
+#: schema/katestyletreewidget.cpp:242
 #, kde-format
 msgid "S&trikeout"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:257
+#: schema/katestyletreewidget.cpp:249
 #, kde-format
 msgid "Normal &Color..."
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:260
+#: schema/katestyletreewidget.cpp:252
 #, kde-format
 msgid "&Selected Color..."
 msgstr "&തിരഞ്ഞെടുത്ത നിറം..."
 
-#: schema/katestyletreewidget.cpp:263
+#: schema/katestyletreewidget.cpp:255
 #, kde-format
 msgid "&Background Color..."
 msgstr "&പശ്ചാത്തലത്തിലുള്ള നിറം..."
 
-#: schema/katestyletreewidget.cpp:266
+#: schema/katestyletreewidget.cpp:258
 #, kde-format
 msgid "S&elected Background Color..."
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:272
+#: schema/katestyletreewidget.cpp:264
 #, kde-format
 msgid "Unset Normal Color"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:275
+#: schema/katestyletreewidget.cpp:267
 #, fuzzy, kde-format
 msgid "Unset Selected Color"
 msgstr "&തിരഞ്ഞെടുത്ത നിറം..."
 
-#: schema/katestyletreewidget.cpp:281
+#: schema/katestyletreewidget.cpp:273
 #, kde-format
 msgid "Unset Background Color"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:286
+#: schema/katestyletreewidget.cpp:278
 #, kde-format
 msgid "Unset Selected Background Color"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:292
+#: schema/katestyletreewidget.cpp:284
 #, kde-format
 msgid "Use &Default Style"
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:403
+#: schema/katestyletreewidget.cpp:395
 #, fuzzy, kde-format
 msgctxt "No text or background color set"
 msgid "None set"
 msgstr "ശൂന്യം"
 
-#: schema/katestyletreewidget.cpp:636
+#: schema/katestyletreewidget.cpp:619
 #, kde-format
 msgid ""
 "\"Use Default Style\" will be automatically unset when you change any style "
 "properties."
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:637
+#: schema/katestyletreewidget.cpp:619
 #, kde-format
 msgid "Kate Styles"
 msgstr ""
@@ -3957,23 +3976,27 @@ msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കു�
 msgid "No help specified for command '%1' in script %2"
 msgstr ""
 
-#: script/katescript.cpp:224
+#: script/katescript.cpp:222
 #, fuzzy, kde-format
 msgid "Error loading script %1\n"
 msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
-#: script/katescript.cpp:225
+#: script/katescript.cpp:223
 #, kde-format
 msgid "Error loading script %1"
 msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കുന്നതില്‍ പിശകു്"
 
-#: script/katescriptmanager.cpp:324 script/katescriptmanager.cpp:337
-#: script/katescriptview.cpp:136
+#: script/katescriptmanager.cpp:329
+#, kde-format
+msgid "Reload all JavaScript files (indenters, command line scripts, etc)."
+msgstr ""
+
+#: script/katescriptview.cpp:138
 #, kde-format
 msgid "Command not found: %1"
 msgstr "കമാന്‍ഡ് ലഭ്യമായില്ല: %1"
 
-#: script/katescriptmanager.cpp:334
+#: search/katesearchbar.cpp:88
 #, kde-format
 msgid "Reload all JavaScript files (indenters, command line scripts, etc)."
 msgstr ""
@@ -3983,7 +4006,7 @@ msgstr ""
 msgid "Add..."
 msgstr "ചേര്‍ക്കുക..."
 
-#: search/katesearchbar.cpp:291
+#: search/katesearchbar.cpp:285
 #, fuzzy, kde-format
 msgctxt "short translation"
 msgid "1 replacement made"
@@ -3991,7 +4014,7 @@ msgid_plural "%1 replacements made"
 msgstr[0] "മാറ്റുക"
 msgstr[1] "മാറ്റുക"
 
-#: search/katesearchbar.cpp:293
+#: search/katesearchbar.cpp:287
 #, fuzzy, kde-format
 msgctxt "short translation"
 msgid "1 match found"
@@ -3999,217 +4022,217 @@ msgid_plural "%1 matches found"
 msgstr[0] "ലഭ്യമല്ല"
 msgstr[1] "ലഭ്യമല്ല"
 
-#: search/katesearchbar.cpp:316
+#: search/katesearchbar.cpp:308
 #, kde-format
 msgid "Search wrapped"
 msgstr ""
 
-#: search/katesearchbar.cpp:387
+#: search/katesearchbar.cpp:378
 #, kde-format
 msgid "Reached top, continued from bottom"
 msgstr ""
 
-#: search/katesearchbar.cpp:389
+#: search/katesearchbar.cpp:380
 #, kde-format
 msgid "Reached bottom, continued from top"
 msgstr ""
 
-#: search/katesearchbar.cpp:394
+#: search/katesearchbar.cpp:385
 #, kde-format
 msgid "Not found"
 msgstr "ലഭ്യമല്ല"
 
-#: search/katesearchbar.cpp:642
+#: search/katesearchbar.cpp:628
 #, kde-format
 msgid "Bottom of file reached. Continue from top?"
 msgstr ""
 
-#: search/katesearchbar.cpp:643
+#: search/katesearchbar.cpp:628
 #, kde-format
 msgid "Top of file reached. Continue from bottom?"
 msgstr ""
 
-#: search/katesearchbar.cpp:644
+#: search/katesearchbar.cpp:629
 #, kde-format
 msgid "Continue search?"
 msgstr ""
 
-#: search/katesearchbar.cpp:950
+#: search/katesearchbar.cpp:908
 #, fuzzy, kde-format
 msgid "SearchHighLight"
 msgstr "&എല്ലാം മാറ്റുക"
 
-#: search/katesearchbar.cpp:1194
+#: search/katesearchbar.cpp:1146
 #, kde-format
 msgid "Beginning of line"
 msgstr "വരിയുടെ ആരംഭം"
 
-#: search/katesearchbar.cpp:1195
+#: search/katesearchbar.cpp:1147
 #, kde-format
 msgid "End of line"
 msgstr "വരിയുടെ അവസാനം"
 
-#: search/katesearchbar.cpp:1197
+#: search/katesearchbar.cpp:1149
 #, kde-format
 msgid "Any single character (excluding line breaks)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1199
+#: search/katesearchbar.cpp:1151
 #, kde-format
 msgid "One or more occurrences"
 msgstr ""
 
-#: search/katesearchbar.cpp:1200
+#: search/katesearchbar.cpp:1152
 #, kde-format
 msgid "Zero or more occurrences"
 msgstr ""
 
-#: search/katesearchbar.cpp:1201
+#: search/katesearchbar.cpp:1153
 #, kde-format
 msgid "Zero or one occurrences"
 msgstr ""
 
-#: search/katesearchbar.cpp:1202
+#: search/katesearchbar.cpp:1154
 #, kde-format
 msgid "<a> through <b> occurrences"
 msgstr ""
 
-#: search/katesearchbar.cpp:1204
+#: search/katesearchbar.cpp:1156
 #, kde-format
 msgid "Group, capturing"
 msgstr ""
 
-#: search/katesearchbar.cpp:1205
+#: search/katesearchbar.cpp:1157
 #, kde-format
 msgid "Or"
 msgstr "അല്ലെങ്കില്‍"
 
-#: search/katesearchbar.cpp:1206
+#: search/katesearchbar.cpp:1158
 #, kde-format
 msgid "Set of characters"
 msgstr ""
 
-#: search/katesearchbar.cpp:1207
+#: search/katesearchbar.cpp:1159
 #, kde-format
 msgid "Negative set of characters"
 msgstr ""
 
-#: search/katesearchbar.cpp:1211
+#: search/katesearchbar.cpp:1163
 #, kde-format
 msgid "Whole match reference"
 msgstr ""
 
-#: search/katesearchbar.cpp:1224
+#: search/katesearchbar.cpp:1173
 #, kde-format
 msgid "Reference"
 msgstr ""
 
-#: search/katesearchbar.cpp:1231
+#: search/katesearchbar.cpp:1180
 #, kde-format
 msgid "Line break"
 msgstr ""
 
-#: search/katesearchbar.cpp:1232
+#: search/katesearchbar.cpp:1181
 #, kde-format
 msgid "Tab"
 msgstr "ടാബ്"
 
-#: search/katesearchbar.cpp:1235
+#: search/katesearchbar.cpp:1184
 #, kde-format
 msgid "Word boundary"
 msgstr ""
 
-#: search/katesearchbar.cpp:1236
+#: search/katesearchbar.cpp:1185
 #, kde-format
 msgid "Not word boundary"
 msgstr ""
 
-#: search/katesearchbar.cpp:1237
+#: search/katesearchbar.cpp:1186
 #, kde-format
 msgid "Digit"
 msgstr "അക്കം"
 
-#: search/katesearchbar.cpp:1238
+#: search/katesearchbar.cpp:1187
 #, kde-format
 msgid "Non-digit"
 msgstr ""
 
-#: search/katesearchbar.cpp:1239
+#: search/katesearchbar.cpp:1188
 #, kde-format
 msgid "Whitespace (excluding line breaks)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1240
+#: search/katesearchbar.cpp:1189
 #, kde-format
 msgid "Non-whitespace (excluding line breaks)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1241
+#: search/katesearchbar.cpp:1190
 #, kde-format
 msgid "Word character (alphanumerics plus '_')"
 msgstr ""
 
-#: search/katesearchbar.cpp:1242
+#: search/katesearchbar.cpp:1191
 #, kde-format
 msgid "Non-word character"
 msgstr ""
 
-#: search/katesearchbar.cpp:1245
+#: search/katesearchbar.cpp:1194
 #, kde-format
 msgid "Octal character 000 to 377 (2^8-1)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1246
+#: search/katesearchbar.cpp:1195
 #, kde-format
 msgid "Hex character 0000 to FFFF (2^16-1)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1247
+#: search/katesearchbar.cpp:1196
 #, kde-format
 msgid "Backslash"
 msgstr "ബാക്ക് സ്ലാഷു്"
 
-#: search/katesearchbar.cpp:1251
+#: search/katesearchbar.cpp:1200
 #, kde-format
 msgid "Group, non-capturing"
 msgstr ""
 
-#: search/katesearchbar.cpp:1252
+#: search/katesearchbar.cpp:1201
 #, kde-format
 msgid "Lookahead"
 msgstr ""
 
-#: search/katesearchbar.cpp:1253
+#: search/katesearchbar.cpp:1202
 #, kde-format
 msgid "Negative lookahead"
 msgstr ""
 
-#: search/katesearchbar.cpp:1258
+#: search/katesearchbar.cpp:1207
 #, kde-format
 msgid "Begin lowercase conversion"
 msgstr ""
 
-#: search/katesearchbar.cpp:1259
+#: search/katesearchbar.cpp:1208
 #, kde-format
 msgid "Begin uppercase conversion"
 msgstr ""
 
-#: search/katesearchbar.cpp:1260
+#: search/katesearchbar.cpp:1209
 #, kde-format
 msgid "End case conversion"
 msgstr ""
 
-#: search/katesearchbar.cpp:1261
+#: search/katesearchbar.cpp:1210
 #, kde-format
 msgid "Lowercase first character conversion"
 msgstr ""
 
-#: search/katesearchbar.cpp:1262
+#: search/katesearchbar.cpp:1211
 #, kde-format
 msgid "Uppercase first character conversion"
 msgstr ""
 
-#: search/katesearchbar.cpp:1263
+#: search/katesearchbar.cpp:1212
 #, kde-format
 msgid "Replacement counter (for Replace All)"
 msgstr ""
@@ -4355,24 +4378,24 @@ msgstr ""
 msgid "Text to replace with"
 msgstr ""
 
-#: spellcheck/spellcheckbar.cpp:149
+#: spellcheck/spellcheckbar.cpp:160
 #, kde-format
 msgid "Spell check canceled."
 msgstr ""
 
-#: spellcheck/spellcheckbar.cpp:257
+#: spellcheck/spellcheckbar.cpp:258
 #, kde-format
 msgctxt "progress label"
 msgid "Spell checking in progress..."
 msgstr ""
 
-#: spellcheck/spellcheckbar.cpp:258 spellcheck/spellcheckbar.cpp:451
+#: spellcheck/spellcheckbar.cpp:259 spellcheck/spellcheckbar.cpp:448
 #, kde-format
 msgctxt "@title:window"
 msgid "Check Spelling"
 msgstr ""
 
-#: spellcheck/spellcheckbar.cpp:448 spellcheck/spellcheckbar.cpp:451
+#: spellcheck/spellcheckbar.cpp:445 spellcheck/spellcheckbar.cpp:448
 #, kde-format
 msgid "Spell check complete."
 msgstr ""
@@ -4783,57 +4806,57 @@ msgctxt "Autoindent mode"
 msgid "Normal"
 msgstr ""
 
-#: utils/katebookmarks.cpp:62
+#: utils/katebookmarks.cpp:64
 #, kde-format
 msgid "Set &Bookmark"
 msgstr "&ഓര്‍മ്മക്കുറിപ്പു് സജ്ജമാക്കുക"
 
-#: utils/katebookmarks.cpp:66
+#: utils/katebookmarks.cpp:68
 #, kde-format
 msgid "If a line has no bookmark then add one, otherwise remove it."
 msgstr ""
 
-#: utils/katebookmarks.cpp:69
+#: utils/katebookmarks.cpp:71
 #, kde-format
 msgid "Clear &All Bookmarks"
 msgstr "&എല്ലാ ഓര്‍മ്മക്കുറിപ്പുകളും വെടിപ്പാക്കുക"
 
-#: utils/katebookmarks.cpp:72
+#: utils/katebookmarks.cpp:74
 #, kde-format
 msgid "Remove all bookmarks of the current document."
 msgstr ""
 
-#: utils/katebookmarks.cpp:75 utils/katebookmarks.cpp:247
+#: utils/katebookmarks.cpp:77 utils/katebookmarks.cpp:236
 #, kde-format
 msgid "Next Bookmark"
 msgstr "അടുത്ത ഓര്‍മ്മക്കുറിപ്പു്"
 
-#: utils/katebookmarks.cpp:79
+#: utils/katebookmarks.cpp:81
 #, kde-format
 msgid "Go to the next bookmark."
 msgstr "അടുത്ത ഓര്‍മ്മക്കുറിപ്പിലേക്കു് പോകുക"
 
-#: utils/katebookmarks.cpp:82 utils/katebookmarks.cpp:248
+#: utils/katebookmarks.cpp:84 utils/katebookmarks.cpp:237
 #, kde-format
 msgid "Previous Bookmark"
 msgstr "മുമ്പുള്ള ഓര്‍മ്മക്കുറിപ്പു്"
 
-#: utils/katebookmarks.cpp:86
+#: utils/katebookmarks.cpp:88
 #, kde-format
 msgid "Go to the previous bookmark."
 msgstr "മുമ്പുള്ള ഓര്‍മ്മക്കുറിപ്പിലേക്കു് പോകുക."
 
-#: utils/katebookmarks.cpp:89
+#: utils/katebookmarks.cpp:91
 #, kde-format
 msgid "&Bookmarks"
 msgstr "&ഓര്‍മ്മക്കുറിപ്പുകള്‍"
 
-#: utils/katebookmarks.cpp:208
+#: utils/katebookmarks.cpp:200
 #, kde-format
 msgid "&Next: %1 - \"%2\""
 msgstr "&അടുത്തതു്: %1 - \"%2\""
 
-#: utils/katebookmarks.cpp:215
+#: utils/katebookmarks.cpp:206
 #, kde-format
 msgid "&Previous: %1 - \"%2\""
 msgstr "&മുമ്പുള്ളതു്: %1 - \"%2\""
@@ -5654,13 +5677,181 @@ msgid_plural "%1 replacements done on %2"
 msgstr[0] ""
 msgstr[1] ""
 
-#: utils/katesedcmd.cpp:279
+#: utils/katevariableexpansionhelpers.cpp:142
 #, kde-format
 msgctxt "substituted into the previous message"
 msgid "1 line"
 msgid_plural "%1 lines"
 msgstr[0] ""
 msgstr[1] ""
+
+#: utils/katevariableexpansionhelpers.cpp:226
+#, fuzzy, kde-format
+msgid "Insert variable"
+msgstr "വേരിയബിള്‍"
+
+#: utils/katevariableexpansionhelpers.cpp:234
+#, kde-format
+msgid "Filter"
+msgstr ""
+
+#: utils/katevariableexpansionhelpers.cpp:253
+#: utils/katevariableexpansionhelpers.cpp:272
+#, kde-format
+msgid "Please select a variable."
+msgstr ""
+
+#: utils/katevariableexpansionhelpers.cpp:265
+#, kde-format
+msgid "Current value: %1<value>"
+msgstr ""
+
+#: utils/katevariableexpansionhelpers.cpp:269
+#, fuzzy, kde-format
+msgid "Current value: %1"
+msgstr "വരി നീക്കം ചെയ്യുക"
+
+#: utils/katevariableexpansionmanager.cpp:46
+#, fuzzy, kde-format
+msgid "File base name without path and suffix of the current document."
+msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:54
+#, fuzzy, kde-format
+msgid "File extension of the current document."
+msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:62
+#, fuzzy, kde-format
+msgid "File name without path of the current document."
+msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:70
+#, fuzzy, kde-format
+msgid "Full path of the current document including the file name."
+msgstr "ഡിസ്കില്‍ നിന്നും നിലവിലുള്ള രേഖ വീണ്ടും ലഭ്യമാക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:77
+#, fuzzy, kde-format
+msgid "Contents of the current document."
+msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ചെയ്യുക."
+
+#: utils/katevariableexpansionmanager.cpp:80
+#, fuzzy, kde-format
+msgid "Full path of the current document excluding the file name."
+msgstr "ഡിസ്കില്‍ നിന്നും നിലവിലുള്ള രേഖ വീണ്ടും ലഭ്യമാക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:88
+#, kde-format
+msgid ""
+"Full document path including file name, with native path separator "
+"(backslash on Windows)."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:96
+#, kde-format
+msgid ""
+"Full document path excluding file name, with native path separator "
+"(backslash on Windows)."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:104
+#, kde-format
+msgid ""
+"Line number of the text cursor position in current document (starts with 0)."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:109
+#, kde-format
+msgid ""
+"Column number of the text cursor position in current document (starts with "
+"0)."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:114
+#, kde-format
+msgid "X component in global screen coordinates of the cursor position."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:119
+#, kde-format
+msgid "Y component in global screen coordinates of the cursor position."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:123
+#, fuzzy, kde-format
+msgid "Text selection of the current document."
+msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:126
+#, fuzzy, kde-format
+msgid "Start line of selected text of the current document."
+msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:131
+#, fuzzy, kde-format
+msgid "Start column of selected text of the current document."
+msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:136
+#, fuzzy, kde-format
+msgid "End line of selected text of the current document."
+msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:141
+#, fuzzy, kde-format
+msgid "End column of selected text of the current document."
+msgstr "നിലവിലുള്ള രേഖയുടെ വാചകം മൊത്തമായി തിരഞ്ഞെടുക്കുക."
+
+#: utils/katevariableexpansionmanager.cpp:145
+#, fuzzy, kde-format
+msgid "Number of rows of the current document."
+msgstr "നിലവിലുള്ള രേഖ അടയ്ക്കുന്നതിനായി ഇതു് ഉപയോഗിക്കുക"
+
+#: utils/katevariableexpansionmanager.cpp:148
+#, kde-format
+msgid "The current date in current locale format."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:150
+#, kde-format
+msgid "The current date (ISO)."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:152
+#, kde-format
+msgid "The current date (QDate formatstring)."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:155
+#, kde-format
+msgid "The current time in current locale format."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:157
+#, kde-format
+msgid "The current time (ISO)."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:159
+#, kde-format
+msgid "The current time (QTime formatstring)."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:162
+#, kde-format
+msgid "Access to environment variables."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:166
+#, kde-format
+msgid "Evaluate simple JavaScript statements."
+msgstr ""
+
+#: utils/katevariableexpansionmanager.cpp:175
+#, kde-format
+msgid "Generate a new UUID."
+msgstr ""
 
 #: variableeditor/katehelpbutton.cpp:34
 #, kde-format
@@ -7093,17 +7284,17 @@ msgstr ""
 msgid "Disable Annotation Bar"
 msgstr ""
 
-#: vimode/appcommands.cpp:76
+#: vimode/appcommands.cpp:79
 #, fuzzy, kde-format
 msgid "All documents written to disk"
 msgstr "തുറക്കുന്നതിനുള്ള രേഖ"
 
-#: vimode/appcommands.cpp:79
+#: vimode/appcommands.cpp:82
 #, fuzzy, kde-format
 msgid "Document written to disk"
 msgstr "തുറക്കുന്നതിനുള്ള രേഖ"
 
-#: vimode/appcommands.cpp:207
+#: vimode/appcommands.cpp:214
 #, kde-format
 msgid ""
 "<p><b>w/wa &mdash; write document(s) to disk</b></p><p>Usage: <tt><b>w[a]</"
@@ -7113,7 +7304,7 @@ msgid ""
 "associated with the document, a file dialog will be shown.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:217
+#: vimode/appcommands.cpp:225
 #, kde-format
 msgid ""
 "<p><b>q/qa/wq/wqa &mdash; [write and] quit</b></p><p>Usage: <tt><b>[w]q[a]</"
@@ -7128,7 +7319,7 @@ msgid ""
 "disk, a file dialog will be shown.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:231
+#: vimode/appcommands.cpp:240
 #, kde-format
 msgid ""
 "<p><b>x/xa &mdash; write and quit</b></p><p>Usage: <tt><b>x[a]</b></tt></"
@@ -7141,7 +7332,7 @@ msgid ""
 "command only writes the document if it is modified.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:244
+#: vimode/appcommands.cpp:254
 #, kde-format
 msgid ""
 "<p><b>sp,split&mdash; Split horizontally the current view into two</b></"
@@ -7149,7 +7340,7 @@ msgid ""
 "same document.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:249
+#: vimode/appcommands.cpp:260
 #, kde-format
 msgid ""
 "<p><b>vs,vsplit&mdash; Split vertically the current view into two</b></"
@@ -7157,14 +7348,14 @@ msgid ""
 "same document.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:254
+#: vimode/appcommands.cpp:266
 #, kde-format
 msgid ""
 "<p><b>clo[se]&mdash; Close the current view</b></p><p>Usage: <tt><b>clo[se]</"
 "b></tt></p><p>After executing it, the current view will be closed.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:259
+#: vimode/appcommands.cpp:272
 #, kde-format
 msgid ""
 "<p><b>[v]new &mdash; split view and create new document</b></p><p>Usage: "
@@ -7175,7 +7366,7 @@ msgid ""
 "document.<br /></p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:268
+#: vimode/appcommands.cpp:282
 #, kde-format
 msgid ""
 "<p><b>e[dit] &mdash; reload current document</b></p><p>Usage: <tt><b>e[dit]</"
@@ -7184,14 +7375,14 @@ msgid ""
 "program.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:485
+#: vimode/appcommands.cpp:512
 #, kde-format
 msgid ""
 "<p><b>b,buffer &mdash; Edit document N from the document list</b></"
 "p><p>Usage: <tt><b>b[uffer] [N]</b></tt></p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:490
+#: vimode/appcommands.cpp:517
 #, kde-format
 msgid ""
 "<p><b>bp,bprev &mdash; previous buffer</b></p><p>Usage: <tt><b>bp[revious] "
@@ -7200,7 +7391,7 @@ msgid ""
 "around the start of the document list.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:498
+#: vimode/appcommands.cpp:525
 #, kde-format
 msgid ""
 "<p><b>bn,bnext &mdash; switch to next document</b></p><p>Usage: "
@@ -7209,7 +7400,7 @@ msgid ""
 "p><p>Wraps around the end of the document list.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:506
+#: vimode/appcommands.cpp:533
 #, kde-format
 msgid ""
 "<p><b>bf,bfirst &mdash; first document</b></p><p>Usage: <tt><b>bf[irst]</b></"
@@ -7217,7 +7408,7 @@ msgid ""
 "list.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:512
+#: vimode/appcommands.cpp:539
 #, kde-format
 msgid ""
 "<p><b>bl,blast &mdash; last document</b></p><p>Usage: <tt><b>bl[ast]</b></"
@@ -7225,7 +7416,7 @@ msgid ""
 "list.</p>"
 msgstr ""
 
-#: vimode/appcommands.cpp:517
+#: vimode/appcommands.cpp:545
 #, kde-format
 msgid "<p><b>ls</b></p><p>list current buffers<p>"
 msgstr ""
@@ -7381,7 +7572,7 @@ msgstr ""
 msgid "Mark set: %1"
 msgstr "ചേര്‍ക്കുക: %1"
 
-#: vimode/marks.cpp:174
+#: vimode/marks.cpp:172
 #, fuzzy, kde-format
 msgid "There are no more chars for the next bookmark."
 msgstr "അടുത്ത ഓര്‍മ്മക്കുറിപ്പിലേക്കു് പോകുക"

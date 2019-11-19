@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-09 02:27+0200\n"
+"POT-Creation-Date: 2019-11-03 02:27+0100\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -1151,8 +1151,9 @@ msgstr "തുടക്കത്തിലെ തട്ടിനു് വേണ�
 
 #. i18n: ectx: property (text), widget (QCheckBox, startInSameDirButton)
 #: EditProfileGeneralPage.ui:155
-#, kde-format
-msgid "Start in same directory as current tab"
+#, fuzzy, kde-format
+#| msgid "Start in same directory as current tab"
+msgid "Start in same directory as current session"
 msgstr "നിലവിലുള്ള കിളിവാതിലിലെ അതേ തട്ടില്‍ തന്നെ തുടങ്ങുക"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
@@ -1666,43 +1667,37 @@ msgctxt "Do not save any lines to the scrollback history"
 msgid "None"
 msgstr "&ഒന്നുമില്ല"
 
-#: IncrementalSearchBar.cpp:56
-#, fuzzy, kde-format
-msgctxt "@info:tooltip"
-msgid "Close the search bar"
-msgstr "തെരയാനുള്ള പട്ട അടയ്ക്കുക"
-
-#: IncrementalSearchBar.cpp:64
+#: IncrementalSearchBar.cpp:60
 #, fuzzy, kde-format
 msgctxt "@label:textbox"
 msgid "Find..."
 msgstr "കണ്ടുപിടിയ്ക്കുക:"
 
-#: IncrementalSearchBar.cpp:66
+#: IncrementalSearchBar.cpp:62
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Enter the text to search for here"
 msgstr "തെരയേണ്ട പദാവലി ഇവിടെ നല്‍കുക"
 
-#: IncrementalSearchBar.cpp:90
+#: IncrementalSearchBar.cpp:88
 #, fuzzy, kde-format
 msgctxt "@action:button Go to the next phrase"
 msgid "Next"
 msgstr "അടുത്തതു്"
 
-#: IncrementalSearchBar.cpp:94
+#: IncrementalSearchBar.cpp:92
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Find the next match for the current search phrase"
 msgstr "ഇപ്പോള്‍ നല്‍കിയ വാചകത്തിന്റെ അടുത്ത പൊരുത്തം കണ്ടുപിടിയ്ക്കുക"
 
-#: IncrementalSearchBar.cpp:101
+#: IncrementalSearchBar.cpp:100
 #, fuzzy, kde-format
 msgctxt "@action:button Go to the previous phrase"
 msgid "Previous"
 msgstr "മുമ്പത്തെ"
 
-#: IncrementalSearchBar.cpp:104
+#: IncrementalSearchBar.cpp:103
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Find the previous match for the current search phrase"
@@ -1714,55 +1709,61 @@ msgctxt "@info:tooltip"
 msgid "Display the options menu"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:128
+#: IncrementalSearchBar.cpp:127
+#, fuzzy, kde-format
+msgctxt "@info:tooltip"
+msgid "Close the search bar"
+msgstr "തെരയാനുള്ള പട്ട അടയ്ക്കുക"
+
+#: IncrementalSearchBar.cpp:137
 #, fuzzy, kde-format
 msgctxt "@item:inmenu"
 msgid "Case sensitive"
 msgstr "സജീവമായതടയ്ക്കുക"
 
-#: IncrementalSearchBar.cpp:130
+#: IncrementalSearchBar.cpp:139
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Sets whether the search is case sensitive"
 msgstr "തെരയുമ്പോള്‍ വലിയക്ഷര-ചെറിയക്ഷര വ്യത്യാസം പരിഗണിയ്ക്കുക"
 
-#: IncrementalSearchBar.cpp:134
+#: IncrementalSearchBar.cpp:143
 #, fuzzy, kde-format
 msgctxt "@item:inmenu"
 msgid "Match regular expression"
 msgstr "റെഗുലര്‍ എക്സ്‌പ്രഷന്‍ വച്ചു് പൊരുത്തം നോക്കുക"
 
-#: IncrementalSearchBar.cpp:139
+#: IncrementalSearchBar.cpp:148
 #, fuzzy, kde-format
 msgctxt "@item:inmenu"
 msgid "Highlight all matches"
 msgstr "എല്ലാം എടുത്തു് കാണിയ്ക്കുക"
 
-#: IncrementalSearchBar.cpp:142
+#: IncrementalSearchBar.cpp:151
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Sets whether matching text should be highlighted"
 msgstr "പൊരുത്തമുള്ള പദാവലി എടുത്തു് കാണിയ്ക്കണമോ എന്നു് സജ്ജീകരിയ്ക്കുന്നു"
 
-#: IncrementalSearchBar.cpp:146
+#: IncrementalSearchBar.cpp:155
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Search backwards"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:149
+#: IncrementalSearchBar.cpp:158
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Sets whether search should start from the bottom"
 msgstr "ഇപ്പോള്‍ നല്‍കിയ വാചകത്തിന്റെ അടുത്ത പൊരുത്തം കണ്ടുപിടിയ്ക്കുക"
 
-#: IncrementalSearchBar.cpp:180
+#: IncrementalSearchBar.cpp:189
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Search for the current search phrase from the bottom"
 msgstr "ഇപ്പോള്‍ നല്‍കിയ വാചകത്തിന്റെ അടുത്ത പൊരുത്തം കണ്ടുപിടിയ്ക്കുക"
 
-#: IncrementalSearchBar.cpp:186
+#: IncrementalSearchBar.cpp:195
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Search for the current search phrase from the top"
@@ -2137,7 +2138,7 @@ msgctxt "@item"
 msgid "Activate Menu"
 msgstr ""
 
-#: MainWindow.cpp:605 MainWindow.cpp:624
+#: MainWindow.cpp:600 MainWindow.cpp:619
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "There is a process running in this window. Do you still want to quit?"
@@ -2146,49 +2147,49 @@ msgid_plural ""
 msgstr[0] "ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 msgstr[1] "ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 
-#: MainWindow.cpp:611 MainWindow.cpp:630 MainWindow.cpp:648
+#: MainWindow.cpp:606 MainWindow.cpp:625 MainWindow.cpp:643
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Confirm Close"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: MainWindow.cpp:613 MainWindow.cpp:632 MainWindow.cpp:649
+#: MainWindow.cpp:608 MainWindow.cpp:627 MainWindow.cpp:644
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Close &Window"
 msgstr "കണ്‍സോള്‍"
 
-#: MainWindow.cpp:635 MainWindow.cpp:652
+#: MainWindow.cpp:630 MainWindow.cpp:647
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Close Current &Tab"
 msgstr "ഇപ്പോഴത്തെ കിളിവാതില്‍ അടയ്ക്കുക"
 
-#: MainWindow.cpp:645
+#: MainWindow.cpp:640
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "There are %1 open terminals in this window. Do you still want to quit?"
 msgstr "ഈ ജാലകത്തില്‍ %1 കിളിവാതിലുകളുണ്ട്, പുറത്തുകടക്കണമെന്ന് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 
-#: MainWindow.cpp:759
+#: MainWindow.cpp:754
 #, fuzzy, kde-format
 msgctxt "@title Preferences page name"
 msgid "General"
 msgstr "പൊതുവായുള്ള"
 
-#: MainWindow.cpp:764 Part.cpp:332
+#: MainWindow.cpp:759 Part.cpp:332
 #, fuzzy, kde-format
 msgctxt "@title Preferences page name"
 msgid "Profiles"
 msgstr "പുതിയ പ്രൊഫൈല്‍"
 
-#: MainWindow.cpp:769
+#: MainWindow.cpp:764
 #, fuzzy, kde-format
 msgctxt "@title Preferences page name"
 msgid "Tab Bar"
 msgstr "കിളിവാതിലുകളുടെ പട്ട"
 
-#: MainWindow.cpp:774
+#: MainWindow.cpp:769
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "Temporary Files"
@@ -2370,18 +2371,18 @@ msgstr "ലിനക്സ് കണ്‍സോള്‍"
 msgid "Solaris console"
 msgstr "സോളാരിസ് കണ്‍സോള്‍"
 
-#: Session.cpp:389
+#: Session.cpp:390
 #, kde-format
 msgid "Could not find binary: "
 msgstr "ബൈനറി കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല: "
 
-#: Session.cpp:398
+#: Session.cpp:399
 #, kde-format
 msgctxt "@info:shell Alert the user with red color text"
 msgid "Warning: "
 msgstr "മുന്നറിയിപ്പു്:"
 
-#: Session.cpp:456
+#: Session.cpp:457
 #, kde-format
 msgid ""
 "Could not find '%1', starting '%2' instead.  Please check your profile "
@@ -2390,32 +2391,32 @@ msgstr ""
 "'%1' കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, ഇതിനുപകരം '%2' തുടങ്ങുന്നു. നിങ്ങളുടെ പ്രൊഫൈലിന്റെ "
 "സജ്ജീകരണം പരിശോധിയ്ക്കുക."
 
-#: Session.cpp:459
+#: Session.cpp:460
 #, kde-format
 msgid "Could not find an interactive shell to start."
 msgstr "പരസ്പരവിനിമയത്തിനു് കഴിവുള്ളൊരു ഷെല്‍ തുടങ്ങാന്‍ സാധിച്ചില്ല."
 
-#: Session.cpp:497
+#: Session.cpp:498
 #, kde-format
 msgid "Could not start program '%1' with arguments '%2'."
 msgstr "'%2' ഐച്ഛികങ്ങളുപയോഗിച്ചു് '%1' എന്ന പ്രോഗ്രാം തുടങ്ങാന്‍ സാധിച്ചില്ല."
 
-#: Session.cpp:633
+#: Session.cpp:634
 #, kde-format
 msgid "Silence in session '%1'"
 msgstr "'%1' സെഷനില്‍ നിശബ്ദത"
 
-#: Session.cpp:693
+#: Session.cpp:694
 #, kde-format
 msgid "Bell in session '%1'"
 msgstr "'%1' സെഷനില്‍ മണിയടിച്ചു"
 
-#: Session.cpp:706
+#: Session.cpp:707
 #, kde-format
 msgid "Activity in session '%1'"
 msgstr "'%1' സെഷനില്‍ മാറ്റങ്ങള്‍"
 
-#: Session.cpp:917
+#: Session.cpp:918
 #, kde-format
 msgid ""
 "The D-Bus methods sendText/runCommand were just used.  There are security "
@@ -2424,23 +2425,23 @@ msgid ""
 "warning will only show once for this Konsole instance.</p>"
 msgstr ""
 
-#: Session.cpp:945
+#: Session.cpp:946
 #, kde-format
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr "പൂര്‍ണ്ണമായി"
 
-#: Session.cpp:959 Session.cpp:972
+#: Session.cpp:960 Session.cpp:973
 #, kde-format
 msgid "Program '%1' crashed."
 msgstr "'%1' എന്ന പ്രോഗ്രാം തകര്‍ന്നു."
 
-#: Session.cpp:961
+#: Session.cpp:962
 #, kde-format
 msgid "Program '%1' exited with status %2."
 msgstr "%2 എന്ന വിലയോടെ '%1' എന്ന പ്രോഗ്രാം പുറത്തു വന്നു."
 
-#: Session.cpp:1402
+#: Session.cpp:1403
 #, kde-format
 msgid "ZModem Progress"
 msgstr "ഇസഡ്‌മോഡത്തിന്റെ പുരോഗതി"
@@ -3367,90 +3368,90 @@ msgstr "വലിപ്പം: XXX x XXX"
 msgid "Size: %1 x %2"
 msgstr "വലിപ്പം: %1 x %2"
 
-#: TerminalDisplay.cpp:3144
+#: TerminalDisplay.cpp:3156
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3147
+#: TerminalDisplay.cpp:3159
 #, fuzzy, kde-format
 msgid "Confirm Paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3161
+#: TerminalDisplay.cpp:3173
 #, kde-format
 msgid "^C Interrupt: May abort the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3164
+#: TerminalDisplay.cpp:3176
 #, kde-format
 msgid "^D End of transmission: May exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3167
+#: TerminalDisplay.cpp:3179
 #, kde-format
 msgid "^G Bell: Will try to emit an audible warning"
 msgstr ""
 
-#: TerminalDisplay.cpp:3170
+#: TerminalDisplay.cpp:3182
 #, kde-format
 msgid "^H Backspace"
 msgstr ""
 
-#: TerminalDisplay.cpp:3173
+#: TerminalDisplay.cpp:3185
 #, kde-format
 msgid "^S Scroll lock: Locks terminal output"
 msgstr ""
 
-#: TerminalDisplay.cpp:3176
+#: TerminalDisplay.cpp:3188
 #, kde-format
 msgid "^Z Suspend: Stops current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3179
+#: TerminalDisplay.cpp:3191
 #, kde-format
 msgid "ESC: Used for special commands to the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3182
+#: TerminalDisplay.cpp:3194
 #, kde-format
 msgid "Other unprintable character (\\x%1)"
 msgstr ""
 
-#: TerminalDisplay.cpp:3192
+#: TerminalDisplay.cpp:3204
 #, kde-format
 msgid ""
 "The text you're trying to paste contains hidden unprintable characters, do "
 "you want to filter them out?"
 msgstr ""
 
-#: TerminalDisplay.cpp:3195
+#: TerminalDisplay.cpp:3207
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Filter"
 msgstr "അരിപ്പ:"
 
-#: TerminalDisplay.cpp:3197
+#: TerminalDisplay.cpp:3209
 #, kde-format
 msgctxt "@action:button"
 msgid "&Remove unprintable"
 msgstr ""
 
-#: TerminalDisplay.cpp:3200
+#: TerminalDisplay.cpp:3212
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Confirm &paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3203
+#: TerminalDisplay.cpp:3215
 #, kde-format
 msgctxt "@action:button"
 msgid "&Cancel paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3430
+#: TerminalDisplay.cpp:3442
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
@@ -3461,17 +3462,17 @@ msgstr ""
 "Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> അമര്‍"
 "ത്തുക.</qt>"
 
-#: TerminalDisplay.cpp:3468
+#: TerminalDisplay.cpp:3480
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3763
+#: TerminalDisplay.cpp:3775
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: TerminalDisplay.cpp:3795
+#: TerminalDisplay.cpp:3807
 #, fuzzy, kde-format
 msgid "&Paste Location"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
@@ -3626,7 +3627,7 @@ msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
 msgstr "ടാബ് %1-ലേക്ക് മാറുക"
 
-#: Vt102Emulation.cpp:1230
+#: Vt102Emulation.cpp:1245
 #, kde-format
 msgid ""
 "No keyboard translator available.  The information needed to convert key "

@@ -1,114 +1,114 @@
-# Malayalam translations for plasma-workspace package.
-# Copyright (C) 2019 This file is copyright:
-# This file is distributed under the same license as the plasma-workspace package.
-# Automatically generated, 2019.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: plasma-workspace\n"
+"Project-Id-Version: kdeplasma-addons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:26+0200\n"
-"PO-Revision-Date: 2019-03-15 03:40+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-11-17 15:50+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /ml/l10n-kf5/kde-workspace/plasma_applet_org.kde.plasma."
+"lock_logout.po\n"
+"X-Pootle-Revision: 2293\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: ml_IN\n"
+"X-Source-Language: C\n"
 
 #: contents/config/config.qml:26
 #, kde-format
 msgid "General"
-msgstr ""
+msgstr "ജനറൽ"
 
 #: contents/ui/ConfigGeneral.qml:50
 #, kde-format
 msgctxt ""
 "Heading for a list of actions (leave, lock, switch user, hibernate, suspend)"
 msgid "Show actions:"
-msgstr ""
+msgstr "പ്രവർത്തനങ്ങൾ കാണിക്കുക:"
 
 #: contents/ui/ConfigGeneral.qml:51
 #, kde-format
 msgid "Leave"
-msgstr ""
+msgstr "പോവുക"
 
 #: contents/ui/ConfigGeneral.qml:57 contents/ui/data.js:4
 #, kde-format
 msgid "Lock"
-msgstr ""
+msgstr "പൂട്ടുക"
 
 #: contents/ui/ConfigGeneral.qml:62
 #, kde-format
 msgid "Switch User"
-msgstr ""
+msgstr "ഉപയോക്താവിനെ മാറ്റുക"
 
 #: contents/ui/ConfigGeneral.qml:67 contents/ui/data.js:26
 #: contents/ui/lockout.qml:125
 #, kde-format
 msgid "Hibernate"
-msgstr ""
+msgstr "ഹൈബർ‌നേറ്റ്"
 
 #: contents/ui/ConfigGeneral.qml:72 contents/ui/data.js:20
 #: contents/ui/lockout.qml:141
 #, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
-msgstr ""
+msgstr "സ്ലീപ്"
 
 #: contents/ui/data.js:5
 #, kde-format
 msgid "Lock the screen"
-msgstr ""
+msgstr "സ്ക്രീൻ പൂട്ടുക"
 
 #: contents/ui/data.js:10
 #, kde-format
 msgid "Switch user"
-msgstr ""
+msgstr "ഉപയോക്താവിനെ മാറ്റുക"
 
 #: contents/ui/data.js:11
 #, kde-format
 msgid "Start a parallel session as a different user"
-msgstr ""
+msgstr "മറ്റൊരു ഉപയോക്താവായി ഒരു സമാന്തര സെഷൻ ആരംഭിക്കുക"
 
 #: contents/ui/data.js:15
 #, kde-format
 msgid "Leave..."
-msgstr ""
+msgstr "പോവുക..."
 
 #: contents/ui/data.js:16
 #, kde-format
 msgid "Log out, turn off or restart the computer"
-msgstr ""
+msgstr "കമ്പ്യൂട്ടറിൽ നിന്ന് പുറത്ത് കടക്കുക, ഓഫാക്കുക അല്ലെങ്കിൽ പുനരാരംഭിക്കുക"
 
 #: contents/ui/data.js:21
 #, kde-format
 msgid "Sleep (suspend to RAM)"
-msgstr ""
+msgstr "സ്ലീപ്(റാമിലേക്ക് താൽക്കാലികമായി നിർത്തുക)"
 
 #: contents/ui/data.js:27
 #, kde-format
 msgid "Hibernate (suspend to disk)"
-msgstr ""
+msgstr "ഹൈബർ‌നേറ്റ് (ഡിസ്കിലേക്ക് സസ്‌പെൻഡ് ചെയ്യുക)"
 
 #: contents/ui/lockout.qml:126
 #, kde-format
 msgid "Do you want to suspend to disk (hibernate)?"
-msgstr ""
+msgstr "ഡിസ്കിലേക്ക് താൽ‌ക്കാലികമായി നിർ‌ത്താൻ‌ നിങ്ങൾ‌ താൽ‌പ്പര്യപ്പെടുന്നോ (ഹൈബർ‌നേറ്റ്)?"
 
 #: contents/ui/lockout.qml:129 contents/ui/lockout.qml:145
 #, kde-format
 msgid "Yes"
-msgstr ""
+msgstr "അതെ"
 
 #: contents/ui/lockout.qml:130 contents/ui/lockout.qml:146
 #, kde-format
 msgid "No"
-msgstr ""
+msgstr "ഇല്ല"
 
 #: contents/ui/lockout.qml:142
 #, kde-format
 msgid "Do you want to suspend to RAM (sleep)?"
-msgstr ""
+msgstr "റാമിലേക്ക് താൽക്കാലികമായി നിർത്താൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ (സ്ലീപ്)?"

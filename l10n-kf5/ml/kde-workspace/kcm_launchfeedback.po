@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-10-22 03:13+0200\n"
 "PO-Revision-Date: 2010-12-16 22:42+0530\n"
 "Last-Translator: Anish A <anish.nl@gmail.com>\n"
 "Language-Team: Swathantra Malayalam Computing | സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് "
@@ -79,7 +79,7 @@ msgstr "പ്രാവര്‍ത്തികമാക്കുക ടാസ�
 msgid "Stop animation after:"
 msgstr "&തുടക്കം സൂചന തരുന്ന സമയം"
 
-#: package/contents/ui/main.qml:113
+#: package/contents/ui/main.qml:114
 #, fuzzy, kde-format
 msgid "%1 sec"
 msgid_plural "%1 secs"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: artikulate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-07 02:52+0200\n"
+"POT-Creation-Date: 2019-11-11 03:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -184,7 +184,7 @@ msgstr ""
 msgid "Please select a course"
 msgstr ""
 
-#: src/core/resources/editablecourseresource.cpp:273
+#: src/core/resources/editablecourseresource.cpp:279
 #, kde-format
 msgid "New Unit"
 msgstr ""
@@ -302,13 +302,13 @@ msgctxt "@item:inmenu"
 msgid "Learner Profile"
 msgstr ""
 
-#: src/mainwindow.cpp:127 src/mainwindow_editor.cpp:119
+#: src/mainwindow.cpp:127 src/mainwindow_editor.cpp:116
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Sound Devices"
 msgstr ""
 
-#: src/mainwindow.cpp:127 src/mainwindow_editor.cpp:119
+#: src/mainwindow.cpp:127 src/mainwindow_editor.cpp:116
 #, kde-format
 msgctxt "@title:tab"
 msgid "Sound Device Settings"
@@ -373,7 +373,7 @@ msgctxt "@title:column"
 msgid "Phoneme Unit"
 msgstr ""
 
-#: src/models/phraselistmodel.cpp:188 src/models/phrasemodel.cpp:301
+#: src/models/phraselistmodel.cpp:188 src/models/phrasemodel.cpp:302
 #, kde-format
 msgctxt "@title:column"
 msgid "Phrase"
@@ -407,7 +407,7 @@ msgstr ""
 msgid "Download Training"
 msgstr ""
 
-#: src/qml/ArtikulateDrawer.qml:145 src/qml/EditorDrawer.qml:150
+#: src/qml/ArtikulateDrawer.qml:145 src/qml/EditorDrawer.qml:161
 #, kde-format
 msgid "About"
 msgstr ""
@@ -521,6 +521,27 @@ msgstr ""
 msgid "Switch to next phrase."
 msgstr ""
 
+#: src/qml/EditCoursePage.qml:49 src/qml/ProfileUserItem.qml:87
+#: src/qml/ProfileUserItem.qml:184
+#, kde-format
+msgid "Delete"
+msgstr ""
+
+#: src/qml/EditCoursePage.qml:50
+#, kde-format
+msgid "Delete this phrase."
+msgstr ""
+
+#: src/qml/EditCoursePage.qml:58
+#, kde-format
+msgid "Create Phrase"
+msgstr ""
+
+#: src/qml/EditCoursePage.qml:59
+#, kde-format
+msgid "Create phrase after current phrase."
+msgstr ""
+
 #: src/qml/EditorCourseSelectionPage.qml:29
 #, kde-format
 msgid "Welcome to Artikulate Course Editor"
@@ -549,6 +570,11 @@ msgstr ""
 msgid "Repository"
 msgstr ""
 
+#: src/qml/EditorDrawer.qml:135
+#, kde-format
+msgid "Save"
+msgstr ""
+
 #: src/qml/EditorSkeletonSelectionPage.qml:29
 #, kde-format
 msgid "Select Prototype"
@@ -568,17 +594,12 @@ msgstr ""
 
 #: src/qml/PhraseEditor.qml:63
 #, kde-format
-msgid "Original Phrase: <i>%1</i>"
+msgid "Original Phrase:"
 msgstr ""
 
 #: src/qml/PhraseEditor.qml:154
 #, kde-format
 msgid "Unit Title:"
-msgstr ""
-
-#: src/qml/PhraseEditor.qml:166
-#, kde-format
-msgid "Create Phrase"
 msgstr ""
 
 #: src/qml/PhraseEditorEditStateComponent.qml:62
@@ -702,11 +723,6 @@ msgstr ""
 #: src/qml/ProfileSettingsPage.qml:115 src/qml/ProfileUserItem.qml:131
 #, kde-format
 msgid "Name"
-msgstr ""
-
-#: src/qml/ProfileUserItem.qml:87 src/qml/ProfileUserItem.qml:184
-#, kde-format
-msgid "Delete"
 msgstr ""
 
 #: src/qml/ProfileUserItem.qml:93

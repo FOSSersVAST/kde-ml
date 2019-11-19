@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-11-13 02:49+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -110,7 +110,7 @@ msgctxt "Name"
 msgid "Fading Popups"
 msgstr "പൊങ്ങി വരുന്നവ തെന്നി നീങ്ങുന്നു"
 
-#: effects/fadingpopups/package/metadata.desktop:27
+#: effects/fadingpopups/package/metadata.desktop:32
 #, fuzzy
 msgctxt "Comment"
 msgid "Make popups smoothly fade in and out when they are shown or hidden"
@@ -126,7 +126,7 @@ msgctxt "Name"
 msgid "Desaturate Unresponsive Applications"
 msgstr ""
 
-#: effects/frozenapp/package/metadata.desktop:38
+#: effects/frozenapp/package/metadata.desktop:40
 msgctxt "Comment"
 msgid "Desaturate windows of unresponsive (frozen) applications"
 msgstr ""
@@ -163,7 +163,7 @@ msgctxt "Name"
 msgid "Logout"
 msgstr "പുറത്തിറങ്ങുക"
 
-#: effects/logout/package/metadata.desktop:32
+#: effects/logout/package/metadata.desktop:34
 #, fuzzy
 msgctxt "Comment"
 msgid "Smoothly fade to the logout screen"
@@ -234,11 +234,21 @@ msgctxt "Name"
 msgid "Scale"
 msgstr "ആനുപാതികമാക്കുക"
 
-#: effects/scale/package/metadata.desktop:32
+#: effects/scale/package/metadata.desktop:34
 #, fuzzy
 msgctxt "Comment"
 msgid "Make windows smoothly scale in and out when they are shown or hidden"
 msgstr "ജാലകങ്ങള്‍ ഒളിപ്പിയ്ക്കുമ്പോഴോ കാണിയ്ക്കുമ്പോഴോ മങ്ങുന്നതും തെളിയുന്നതും പോലെ തോന്നിയ്ക്കുക"
+
+#: effects/sessionquit/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Session Quit"
+msgstr ""
+
+#: effects/sessionquit/package/metadata.desktop:23
+msgctxt "Comment"
+msgid "Keep the desktop background alive during logout until the end"
+msgstr ""
 
 #: effects/showfps/showfps_config.desktop:8
 msgctxt "Name"
@@ -261,7 +271,7 @@ msgctxt "Comment"
 msgid "Squash windows when they are minimized"
 msgstr "അനങ്ങുംബോള്‍ ജാലകങ്ങളുടെ ആക്രതി മാറുന്നു"
 
-#: effects/squash/package/metadata.desktop:27
+#: effects/squash/package/metadata.desktop:31
 msgctxt "Name"
 msgid "Squash"
 msgstr ""
@@ -346,7 +356,7 @@ msgctxt "Comment"
 msgid "Configure window titlebars and borders"
 msgstr "ജാലകത്തിന്റെ വിശേഷത ക്രമീകരിക്കുക"
 
-#: kcmkwin/kwindecoration/kwindecoration.desktop:97
+#: kcmkwin/kwindecoration/kwindecoration.desktop:106
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,border,style,theme,look,feel,layout,button,handle,edge,"
@@ -366,7 +376,7 @@ msgctxt "Comment"
 msgid "Navigation, Number and Layout of Virtual Desktops"
 msgstr ""
 
-#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:121
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:103
 msgctxt "X-KDE-Keywords"
 msgid ""
 "desktop,desktops,number,virtual desktop,multiple desktops,pager,pager widget,"
@@ -387,7 +397,7 @@ msgctxt "Comment"
 msgid "Desktop Effects"
 msgstr "പണിയിടം ക്യൂബ്"
 
-#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:107
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:91
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,3D effects,2D effects,graphical effects,desktop "
@@ -418,13 +428,13 @@ msgctxt "Name"
 msgid "Actions"
 msgstr "പ്രവര്‍ത്തനങ്ങള്‍"
 
-#: kcmkwin/kwinoptions/kwinactions.desktop:102
+#: kcmkwin/kwinoptions/kwinactions.desktop:39
 #, fuzzy
 msgctxt "Comment"
 msgid "Mouse Actions on Windows"
 msgstr "ഇന്‍പുട്ട് പ്രവര്‍ത്തന സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
 
-#: kcmkwin/kwinoptions/kwinactions.desktop:147
+#: kcmkwin/kwinoptions/kwinactions.desktop:66
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shade,maximise,maximize,minimize,minimise,lower,operations menu,titlebar,"
@@ -436,13 +446,13 @@ msgctxt "Name"
 msgid "Advanced"
 msgstr "സങ്കീര്‍ണ്ണമായ"
 
-#: kcmkwin/kwinoptions/kwinadvanced.desktop:101
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:38
 #, fuzzy
 msgctxt "Comment"
 msgid "Advanced Window Management Features"
 msgstr "സങ്കീര്‍ണ്ണമായ ജാലകപാലക സവിശേഷതകള്‍ സജ്ജീകരിക്കുക"
 
-#: kcmkwin/kwinoptions/kwinadvanced.desktop:146
+#: kcmkwin/kwinoptions/kwinadvanced.desktop:65
 msgctxt "X-KDE-Keywords"
 msgid ""
 "shading,border,hover,active borders,tiling,tabs,tabbing,window tabbing,"
@@ -455,12 +465,15 @@ msgctxt "Name"
 msgid "Focus"
 msgstr "ഫോക്കസ്"
 
-#: kcmkwin/kwinoptions/kwinfocus.desktop:99
+#: kcmkwin/kwinoptions/kwinfocus.desktop:37
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the window focus policy"
 msgctxt "Comment"
 msgid "Active Window Policy"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinfocus.desktop:142
+#: kcmkwin/kwinoptions/kwinfocus.desktop:62
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,placement,auto raise,raise,click raise,keyboard,CDE,alt-tab,all "
@@ -473,13 +486,13 @@ msgctxt "Name"
 msgid "Moving"
 msgstr "നീക്കുന്നു"
 
-#: kcmkwin/kwinoptions/kwinmoving.desktop:100
+#: kcmkwin/kwinoptions/kwinmoving.desktop:38
 #, fuzzy
 msgctxt "Comment"
 msgid "Window Moving"
 msgstr "വിന്‍ഡോ വിവരം"
 
-#: kcmkwin/kwinoptions/kwinmoving.desktop:145
+#: kcmkwin/kwinoptions/kwinmoving.desktop:64
 msgctxt "X-KDE-Keywords"
 msgid "moving,smart,cascade,maximize,maximise,snap zone,snap,border"
 msgstr ""
@@ -495,7 +508,7 @@ msgctxt "Comment"
 msgid "Window Actions and Behavior"
 msgstr "ജാലകത്തിന്റെ വിശേഷത"
 
-#: kcmkwin/kwinoptions/kwinoptions.desktop:148
+#: kcmkwin/kwinoptions/kwinoptions.desktop:129
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,placement,window behavior,window actions,animation,raise,auto raise,"
@@ -531,7 +544,7 @@ msgctxt "Comment"
 msgid "Active Screen Corners and Edges"
 msgstr ""
 
-#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:126
+#: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:110
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,corner,edge,border,action,switch,desktop,kwin "
@@ -544,12 +557,12 @@ msgctxt "Name"
 msgid "Touch Screen"
 msgstr ""
 
-#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:51
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:52
 msgctxt "Comment"
 msgid "Touch screen swipe gestures"
 msgstr ""
 
-#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:87
+#: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:79
 msgctxt "X-KDE-Keywords"
 msgid ""
 "kwin,window,manager,effect,edge,border,action,switch,desktop,desktop edges,"

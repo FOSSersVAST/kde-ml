@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-11-14 03:35+0100\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -29,47 +29,47 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "peter.ani@gmail.com, harivishnu@gmail.com, pravi.a@gmail.com"
 
-#: colors.cpp:69 editor/scmeditordialog.cpp:80
+#: colors.cpp:71 editor/scmeditordialog.cpp:80
 #, kde-format
 msgid "Colors"
 msgstr "നിറങ്ങള്‍"
 
-#: colors.cpp:71
+#: colors.cpp:73
 #, kde-format
 msgid "Kai Uwe Broulik"
 msgstr ""
 
-#: colors.cpp:110
+#: colors.cpp:117
 #, fuzzy, kde-format
 msgid "Download New Color Schemes"
 msgstr "&പുതിയ നിറക്കൂട്ടുകള്‍ ലഭ്യമാക്കുക..."
 
-#: colors.cpp:166
+#: colors.cpp:173
 #, kde-format
 msgid "Unable to create a temporary file."
 msgstr ""
 
-#: colors.cpp:180
+#: colors.cpp:187
 #, kde-format
 msgid "Unable to download the color scheme: %1"
 msgstr "നിറങ്ങളെ ഡൗണ്‍ലോഡ് ചെയ്യാന്‍ കഴിഞില്ല: %1"
 
-#: colors.cpp:198
+#: colors.cpp:205
 #, fuzzy, kde-format
 msgid "This file is not a color scheme file."
 msgstr "ഒരു ഫയലില്‍ നിന്നും നിറക്കൂട്ടു് എടുക്കുക"
 
-#: colors.cpp:218
+#: colors.cpp:225
 #, kde-format
 msgid "Failed to create 'color-scheme' data folder."
 msgstr ""
 
-#: colors.cpp:225
+#: colors.cpp:232
 #, kde-format
 msgid "Failed to copy color scheme into 'color-scheme' data folder."
 msgstr ""
 
-#: colors.cpp:242
+#: colors.cpp:249
 #, kde-format
 msgid "Color scheme installed successfully."
 msgstr ""

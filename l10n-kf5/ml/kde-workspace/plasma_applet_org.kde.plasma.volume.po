@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-pa\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-10-22 03:14+0200\n"
 "PO-Revision-Date: 2019-02-18 03:11+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -28,22 +28,22 @@ msgstr ""
 msgid "Maximum volume:"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:57
+#: contents/ui/ConfigGeneral.qml:61
 #, kde-format
 msgid "Volume step:"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:76
+#: contents/ui/ConfigGeneral.qml:84
 #, kde-format
 msgid "Provide visual feedback:"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:78
+#: contents/ui/ConfigGeneral.qml:86
 #, kde-format
 msgid "When volume changes"
 msgstr ""
 
-#: contents/ui/ConfigGeneral.qml:84
+#: contents/ui/ConfigGeneral.qml:92
 #, kde-format
 msgid "When default output device changes"
 msgstr ""

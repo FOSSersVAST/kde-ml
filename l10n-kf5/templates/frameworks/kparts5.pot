@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kparts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-10 02:45+0200\n"
+"POT-Creation-Date: 2019-11-04 02:53+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -117,12 +117,12 @@ msgstr ""
 msgid "Execute"
 msgstr ""
 
-#: browserrun.cpp:405
+#: browserrun.cpp:407
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr ""
 
-#: browserrun.cpp:406
+#: browserrun.cpp:408
 #, kde-format
 msgid ""
 "Try to reinstall it  \n"
@@ -130,7 +130,7 @@ msgid ""
 "The integration with Konqueror will be disabled."
 msgstr ""
 
-#: browserrun.cpp:432
+#: browserrun.cpp:434
 #, kde-format
 msgid "Save As"
 msgstr ""

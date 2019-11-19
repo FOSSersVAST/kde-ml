@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: knewstuff\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-28 02:47+0200\n"
+"POT-Creation-Date: 2019-11-09 02:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -90,59 +90,59 @@ msgstr ""
 msgid "Initializing"
 msgstr ""
 
-#: core/engine.cpp:130
+#: core/engine.cpp:133
 #, kde-format
 msgid "Configuration file exists, but cannot be opened: \"%1\""
 msgstr ""
 
-#: core/engine.cpp:143
+#: core/engine.cpp:146
 #, kde-format
 msgid "Configuration file is invalid: \"%1\""
 msgstr ""
 
-#: core/engine.cpp:213
+#: core/engine.cpp:216
 #, kde-format
 msgid "Loading provider information"
 msgstr ""
 
-#: core/engine.cpp:242
+#: core/engine.cpp:245
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: core/engine.cpp:265
+#: core/engine.cpp:268
 #, kde-format
 msgid "Error initializing provider."
 msgstr ""
 
-#: core/engine.cpp:269 core/engine.cpp:684
+#: core/engine.cpp:272 core/engine.cpp:687
 #, kde-format
 msgid "Loading data"
 msgstr ""
 
-#: core/engine.cpp:306
+#: core/engine.cpp:309
 #, kde-format
 msgid "Loading data from provider"
 msgstr ""
 
-#: core/engine.cpp:311
+#: core/engine.cpp:314
 #, kde-format
 msgid "Loading of providers from file: %1 failed"
 msgstr ""
 
-#: core/engine.cpp:644
+#: core/engine.cpp:647
 #, kde-format
 msgid "Re: %1"
 msgstr ""
 
-#: core/engine.cpp:686
+#: core/engine.cpp:689
 #, kde-format
 msgid "Loading one preview"
 msgid_plural "Loading %1 previews"
 msgstr[0] ""
 msgstr[1] ""
 
-#: core/engine.cpp:688 ui/itemsgridviewdelegate.cpp:342
+#: core/engine.cpp:691 ui/itemsgridviewdelegate.cpp:342
 #: ui/itemsviewdelegate.cpp:133
 #, kde-format
 msgid "Installing"
@@ -450,20 +450,20 @@ msgstr ""
 
 #: kmoretools/kmoretoolsmenufactory.cpp:185
 #, kde-format
-msgctxt "@action:inmenu"
-msgid "$GenericName - current folder"
+msgctxt "@action:inmenu %1=\"$GenericName\""
+msgid "%1 - current folder"
 msgstr ""
 
 #: kmoretools/kmoretoolsmenufactory.cpp:193
 #, kde-format
-msgctxt "@action:inmenu"
-msgid "$GenericName - current device"
+msgctxt "@action:inmenu %1=\"$GenericName\""
+msgid "%1 - current device"
 msgstr ""
 
 #: kmoretools/kmoretoolsmenufactory.cpp:208
 #, kde-format
-msgctxt "@action:inmenu"
-msgid "$GenericName - all devices"
+msgctxt "@action:inmenu %1=\"$GenericName\""
+msgid "%1 - all devices"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbMainSection)
@@ -572,7 +572,7 @@ msgid ""
 "this through the naming of the items."
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:63 qtquick/qml/Page.qml:206
+#: qtquick/qml/EntryDetails.qml:63
 #, kde-format
 msgctxt ""
 "A passive notification shown when installation of an item is initiated"
@@ -612,7 +612,7 @@ msgctxt ""
 msgid "%1 by %2"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:114 qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:64
+#: qtquick/qml/EntryDetails.qml:97 qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:64
 #: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:57
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:65
 #, kde-format
@@ -622,7 +622,7 @@ msgctxt ""
 msgid "Install"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:114 qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:64
+#: qtquick/qml/EntryDetails.qml:97 qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:64
 #: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:57
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:65
 #, kde-format
@@ -631,7 +631,7 @@ msgctxt ""
 msgid "Install..."
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:129 qtquick/qml/NewStuffItem.qml:44
+#: qtquick/qml/EntryDetails.qml:112 qtquick/qml/NewStuffItem.qml:44
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:79
 #: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:72
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:80
@@ -640,19 +640,19 @@ msgctxt "Request updating of this item"
 msgid "Update"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:136 qtquick/qml/NewStuffItem.qml:51
+#: qtquick/qml/EntryDetails.qml:119 qtquick/qml/NewStuffItem.qml:51
 #: qtquick/qml/Page.qml:77
 #, kde-format
 msgctxt "Request uninstallation of this item"
 msgid "Uninstall"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:192
+#: qtquick/qml/EntryDetails.qml:176
 #, kde-format
 msgid "Comments and Reviews:"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:194
+#: qtquick/qml/EntryDetails.qml:178
 #, kde-format
 msgctxt ""
 "A link which, when clicked, opens a new sub page with reviews (comments) for "
@@ -660,17 +660,17 @@ msgctxt ""
 msgid "%1 Reviews"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:199
+#: qtquick/qml/EntryDetails.qml:183
 #, kde-format
 msgid "Rating:"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:203
+#: qtquick/qml/EntryDetails.qml:187
 #, kde-format
 msgid "Homepage:"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:204
+#: qtquick/qml/EntryDetails.qml:188
 #, kde-format
 msgctxt ""
 "A link which, when clicked, opens the website associated with the entry "
@@ -679,12 +679,12 @@ msgctxt ""
 msgid "Open the homepage for %2"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:208
+#: qtquick/qml/EntryDetails.qml:192
 #, kde-format
 msgid "How To Donate:"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:209
+#: qtquick/qml/EntryDetails.qml:193
 #, kde-format
 msgctxt ""
 "A link which, when clicked, opens a website with information on donation in "
@@ -698,20 +698,20 @@ msgctxt "Request installation of this item"
 msgid "Install"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:83 qtquick/qml/Page.qml:172
+#: qtquick/qml/NewStuffList.qml:83 qtquick/qml/Page.qml:179
 #, kde-format
 msgctxt "List option which will set the filter to show everything"
 msgid "Show Everything"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:84 qtquick/qml/Page.qml:173
+#: qtquick/qml/NewStuffList.qml:84 qtquick/qml/Page.qml:180
 #, kde-format
 msgctxt ""
 "List option which will set the filter so only installed items are shown"
 msgid "Installed Only"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:85 qtquick/qml/Page.qml:174
+#: qtquick/qml/NewStuffList.qml:85 qtquick/qml/Page.qml:181
 #, kde-format
 msgctxt ""
 "List option which will set the filter so only installed items with updates "
@@ -719,7 +719,7 @@ msgctxt ""
 msgid "Updateable Only"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:97 qtquick/qml/Page.qml:186
+#: qtquick/qml/NewStuffList.qml:97 qtquick/qml/Page.qml:193
 #, kde-format
 msgctxt ""
 "List option which will set the sort order to based on when items were most "
@@ -727,7 +727,7 @@ msgctxt ""
 msgid "Show most recent first"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:98 qtquick/qml/Page.qml:187
+#: qtquick/qml/NewStuffList.qml:98 qtquick/qml/Page.qml:194
 #, kde-format
 msgctxt ""
 "List option which will set the sort order to be alphabetical based on the "
@@ -735,13 +735,13 @@ msgctxt ""
 msgid "Sort alphabetically"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:99 qtquick/qml/Page.qml:188
+#: qtquick/qml/NewStuffList.qml:99 qtquick/qml/Page.qml:195
 #, kde-format
 msgctxt "List option which will set the sort order to based on user ratings"
 msgid "Show highest rated first"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:100 qtquick/qml/Page.qml:189
+#: qtquick/qml/NewStuffList.qml:100 qtquick/qml/Page.qml:196
 #, kde-format
 msgctxt ""
 "List option which will set the sort order to based on number of downloads"
@@ -756,9 +756,16 @@ msgctxt ""
 msgid "Use"
 msgstr ""
 
-#: qtquick/qml/Page.qml:139
+#: qtquick/qml/Page.qml:146
 #, kde-format
 msgid "Search..."
+msgstr ""
+
+#: qtquick/qml/Page.qml:243
+#, kde-format
+msgctxt ""
+"A text shown beside a busy indicator suggesting that data is being fetched"
+msgid "Loading more..."
 msgstr ""
 
 #: qtquick/qml/private/EntryCommentDelegate.qml:125
@@ -798,6 +805,36 @@ msgctxt ""
 msgid "By <i>%1</i>"
 msgstr ""
 
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:59
+#, kde-format
+msgctxt "Label for the busy indicator showing an item is being installed"
+msgid "Installing..."
+msgstr ""
+
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:61
+#, kde-format
+msgctxt ""
+"Label for the busy indicator showing an item is in the process of being "
+"updated"
+msgid "Updating..."
+msgstr ""
+
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:63
+#, kde-format
+msgctxt ""
+"Label for the busy indicator which should only be shown when the entry has "
+"been given some unknown or invalid status."
+msgid ""
+"Invalid or unknown state. Please report this to the KDE Community in a bug "
+"report."
+msgstr ""
+
+#: qtquick/qml/private/entrygriddelegates/FeedbackOverlay.qml:75
+#, kde-format
+msgctxt "Label for the busy indicator showing an item is installing"
+msgid "Installing..."
+msgstr ""
+
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:94
 #, kde-format
 msgctxt "Show a page with details for this item"
@@ -809,7 +846,7 @@ msgstr ""
 msgid "None"
 msgstr ""
 
-#: qtquick/quickengine.cpp:97
+#: qtquick/quickengine.cpp:111
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
@@ -819,7 +856,7 @@ msgid ""
 "please contact the person in charge of your permissions."
 msgstr ""
 
-#: qtquick/quickitemsmodel.cpp:418
+#: qtquick/quickitemsmodel.cpp:428
 #, kde-format
 msgid "Using %1"
 msgstr ""

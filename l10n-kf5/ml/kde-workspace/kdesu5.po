@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdesu trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:23+0200\n"
+"POT-Creation-Date: 2019-11-08 03:31+0100\n"
 "PO-Revision-Date: 2010-06-01 21:13+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -178,17 +178,17 @@ msgstr "റിയല്‍ടൈം:"
 msgid "Priority:"
 msgstr "മുന്‍ഗണന"
 
-#: sudlg.cpp:30
+#: sudlg.cpp:34
 #, kde-format
 msgid "Run as %1"
 msgstr "%1 ആയി പ്രവര്‍ത്തിപ്പിക്കുക"
 
-#: sudlg.cpp:34
+#: sudlg.cpp:38
 #, kde-format
 msgid "Please enter your password below."
 msgstr "ദയവായി നിങ്ങളുടെ അടയാളവാക്കു് താഴെ നല്‍കുക."
 
-#: sudlg.cpp:38
+#: sudlg.cpp:42
 #, kde-format
 msgid ""
 "The action you requested needs <b>root privileges</b>. Please enter "
@@ -199,7 +199,7 @@ msgstr ""
 "അടയാളവാക്കു് നല്‍കുകയോ അവഗണിയ്ക്കുക എന്ന ബട്ടണ്‍ ഞെക്കി നിങ്ങളുടെ ഇപ്പോഴത്തെ അധികാരവുമായി "
 "തുടരുകയോ ചെയ്യുക."
 
-#: sudlg.cpp:42
+#: sudlg.cpp:46
 #, kde-format
 msgid ""
 "The action you requested needs <b>root privileges</b>. Please enter "
@@ -208,7 +208,7 @@ msgstr ""
 "ഈ പ്രവൃത്തി ചെയ്യുന്നതിന് <b>റൂട്ടിന്റെ അധികാരം</b> ആവശ്യമാണ്. ദയവായി <b>റൂട്ടിന്റെ</b> "
 "അടയാളവാക്കു് താഴെ നല്‍കുക "
 
-#: sudlg.cpp:46
+#: sudlg.cpp:50
 #, kde-format
 msgid ""
 "The action you requested needs additional privileges. Please enter the "
@@ -218,7 +218,7 @@ msgstr ""
 "ഈ പ്രവൃത്തി ചെയ്യുന്നതിന് കൂടുതല്‍ അധികാരം ആവശ്യമാണ്. ദയവായി <b>%1</b> ന്റെ അടയാളവാക്കു് താഴെ "
 "നല്‍കുകയോ അവഗണിയ്ക്കുക എന്ന ബട്ടണ്‍ ഞെക്കി നിങ്ങളുടെ ഇപ്പോഴത്തെ അധികാരവുമായി തുടരുകയോ ചെയ്യുക."
 
-#: sudlg.cpp:51
+#: sudlg.cpp:55
 #, kde-format
 msgid ""
 "The action you requested needs additional privileges. Please enter the "
@@ -227,18 +227,18 @@ msgstr ""
 "ഈ പ്രവൃത്തി ചെയ്യുന്നതിന് കൂടുതല്‍ അധികാരം ആവശ്യമാണ്. ദയവായി <b>%1</b> ന്റെ അടയാളവാക്കു് താഴെ "
 "നല്‍കുക."
 
-#: sudlg.cpp:75
+#: sudlg.cpp:79
 #, kde-format
 msgid "Conversation with su failed."
 msgstr "su ഉമായുള്ള വിനിമയം പരാജയപ്പെട്ടിരിക്കുന്നു."
 
-#: sudlg.cpp:82
+#: sudlg.cpp:86
 #, kde-format
 msgid ""
 "The program 'su' could not be found.<br />Ensure your PATH is set correctly."
 msgstr "su എന്ന പ്രോഗ്രാം കാണുന്നില്ല <br /> PATH ശരിയായി നല്കിയിട്ടുണ്ടെന്ന് ഉറപ്പു വരുത്തുക."
 
-#: sudlg.cpp:92
+#: sudlg.cpp:96
 #, kde-format
 msgid ""
 "Permission denied.<br />Possibly incorrect password, please try again.<br /"
@@ -246,7 +246,7 @@ msgid ""
 "this program."
 msgstr ""
 
-#: sudlg.cpp:99
+#: sudlg.cpp:103
 #, kde-format
 msgid "Internal error: illegal return from SuProcess::checkInstall()"
 msgstr ""

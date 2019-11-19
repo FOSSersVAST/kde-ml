@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmenuedit\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-15 03:22+0200\n"
+"POT-Creation-Date: 2019-10-29 03:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -286,7 +286,7 @@ msgstr ""
 msgid "Menu entry to pre-select"
 msgstr ""
 
-#: menufile.cpp:101 menufile.cpp:113
+#: menufile.cpp:105 menufile.cpp:117
 #, kde-format
 msgid "Could not write to %1"
 msgstr ""

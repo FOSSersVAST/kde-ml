@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-11 03:15+0200\n"
+"POT-Creation-Date: 2019-11-02 03:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: logout.cpp:401
+#: logout.cpp:408
 #, kde-format
 msgid "Logout canceled by '%1'"
 msgstr ""
@@ -135,22 +135,22 @@ msgid ""
 "the lock screen."
 msgstr ""
 
-#: server.cpp:1003
+#: server.cpp:1004
 #, kde-format
 msgid "Log Out"
 msgstr ""
 
-#: server.cpp:1008
+#: server.cpp:1009
 #, kde-format
 msgid "Log Out Without Confirmation"
 msgstr ""
 
-#: server.cpp:1013
+#: server.cpp:1014
 #, kde-format
 msgid "Halt Without Confirmation"
 msgstr ""
 
-#: server.cpp:1018
+#: server.cpp:1019
 #, kde-format
 msgid "Reboot Without Confirmation"
 msgstr ""

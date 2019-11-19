@@ -1,108 +1,108 @@
-# Malayalam translations for plasma-desktop package.
-# Copyright (C) 2019 This file is copyright:
-# This file is distributed under the same license as the plasma-desktop package.
-# Automatically generated, 2019.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: plasma-desktop\n"
+"Project-Id-Version: kdeplasma-addons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:25+0200\n"
-"PO-Revision-Date: 2019-02-22 03:30+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-11-17 15:50+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /ml/l10n-kf5/kde-workspace/plasma_applet_org.kde.plasma."
+"kickoff.po\n"
+"X-Pootle-Revision: 4374\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: ml\n"
+"X-Source-Language: C\n"
 
 #: package/contents/config/config.qml:25
 #, kde-format
 msgid "General"
-msgstr ""
+msgstr "സാധാരണ"
 
 #: package/contents/ui/ApplicationsView.qml:121
 #, kde-format
 msgid "All Applications"
-msgstr ""
+msgstr "എല്ലാ പ്രയോഗങ്ങളും"
 
 #: package/contents/ui/ApplicationsView.qml:270
 #, kde-format
 msgid "Applications updated."
-msgstr ""
+msgstr "പ്രയോഗങ്ങൾ പുതുക്കി"
 
 #: package/contents/ui/code/tools.js:55
 #, kde-format
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "ഇഷ്ടപെട്ടവയിൽ നിന്നും നീക്കംചെയ്യുക"
 
 #: package/contents/ui/code/tools.js:59
 #, kde-format
 msgid "Add to Favorites"
-msgstr ""
+msgstr "ഇഷ്ടപെട്ടവയിലേക്ക് ചേർക്കുക"
 
 #: package/contents/ui/code/tools.js:83
 #, kde-format
 msgid "On All Activities"
-msgstr ""
+msgstr "എല്ലാ പ്രവർത്തനങ്ങളിലും"
 
 #: package/contents/ui/code/tools.js:133
-#, kde-format
+#, fuzzy, kde-format
 msgid "On The Current Activity"
-msgstr ""
+msgstr "നിലവിലെ പ്രവർത്തനത്തിൽ"
 
 #: package/contents/ui/code/tools.js:147
-#, kde-format
+#, fuzzy, kde-format
 msgid "Show In Favorites"
-msgstr ""
+msgstr "ഇഷ്ടപെട്ടവയിൽ കാണിക്കുക"
 
 #: package/contents/ui/ConfigButtons.qml:36
 #: package/contents/ui/FullRepresentation.qml:748
 #, kde-format
 msgid "Favorites"
-msgstr ""
+msgstr "ഇഷ്ടപെട്ടവ"
 
 #: package/contents/ui/ConfigButtons.qml:37
 #: package/contents/ui/FullRepresentation.qml:750
 #, kde-format
 msgid "Applications"
-msgstr ""
+msgstr "പ്രയോഗങ്ങൾ"
 
 #: package/contents/ui/ConfigButtons.qml:38
 #: package/contents/ui/FullRepresentation.qml:752
 #, kde-format
 msgid "Computer"
-msgstr ""
+msgstr "കമ്പ്യൂട്ടർ"
 
 #: package/contents/ui/ConfigButtons.qml:39
 #: package/contents/ui/FullRepresentation.qml:754
 #, kde-format
 msgid "History"
-msgstr ""
+msgstr "ചരിത്രം"
 
 #: package/contents/ui/ConfigButtons.qml:40
 #: package/contents/ui/FullRepresentation.qml:756
 #, kde-format
 msgid "Often Used"
-msgstr ""
+msgstr "കൂടുതൽ ഉപോയോഗിക്കുന്നത് "
 
 #: package/contents/ui/ConfigButtons.qml:41
 #: package/contents/ui/FullRepresentation.qml:758
 #, kde-format
 msgid "Leave"
-msgstr ""
+msgstr "പോവുക"
 
 #: package/contents/ui/ConfigButtons.qml:215
 #, kde-format
 msgid "Active Tabs"
-msgstr ""
+msgstr "സജീവ ടാബുകൾ"
 
 #: package/contents/ui/ConfigButtons.qml:221
 #, kde-format
 msgid "Inactive Tabs"
-msgstr ""
+msgstr "നിഷ്‌ക്രിയ ടാബുകൾ"
 
 #: package/contents/ui/ConfigGeneral.qml:41
 #, kde-format
@@ -129,22 +129,22 @@ msgstr ""
 #: package/contents/ui/ConfigGeneral.qml:97
 #, kde-format
 msgid "Switch tabs on hover"
-msgstr ""
+msgstr "ഹോവറിൽ ടാബുകൾ സ്വിച്ചുചെയ്യുക"
 
 #: package/contents/ui/ConfigGeneral.qml:102
 #, kde-format
 msgid "Show applications by name"
-msgstr ""
+msgstr "പേരുകൾ പ്രകാരം പ്രയോഗങ്ങൾ കാണിക്കുക"
 
 #: package/contents/ui/ConfigGeneral.qml:107
 #, kde-format
 msgid "Expand search to bookmarks, files and emails"
-msgstr ""
+msgstr "ബുക്ക്മാർക്കുകൾ, ഫയലുകൾ, ഇമെയിലുകൾ എന്നിവയിലേക്ക് തിരയൽ വിപുലീകരിക്കുക"
 
 #: package/contents/ui/ConfigGeneral.qml:112
 #, kde-format
 msgid "Sort alphabetically"
-msgstr ""
+msgstr "അക്ഷരമാലാക്രമത്തിൽ അടുക്കുക"
 
 #: package/contents/ui/ConfigGeneral.qml:126
 #, kde-format
@@ -152,23 +152,25 @@ msgid ""
 "Drag tabs between the boxes to show/hide them, or reorder the visible tabs "
 "by dragging."
 msgstr ""
+"കാണിക്കുന്നതിനോ മറയ്ക്കുന്നതിനോ ബോക്സുകൾക്കിടയിൽ ടാബുകൾ വലിച്ചിടുക,അല്ലെങ്കിൽ വലിച്ചിട്ടുകൊണ്ട് "
+"ദൃശ്യമായാ ടാബുകൾ പുനർക്രമീകരിക്കുക."
 
 #: package/contents/ui/Header.qml:136
 #, kde-format
 msgid "%2@%3 (%1)"
-msgstr ""
+msgstr "%2@%3 (%1)"
 
 #: package/contents/ui/Header.qml:136
 #, kde-format
 msgid "%1@%2"
-msgstr ""
+msgstr "%1@%2"
 
 #: package/contents/ui/Header.qml:167
 #, kde-format
 msgid "Search..."
-msgstr ""
+msgstr "തിരയുക..."
 
 #: package/contents/ui/Kickoff.qml:145
 #, kde-format
 msgid "Edit Applications..."
-msgstr ""
+msgstr "പ്രയോഗങ്ങൾ തിരുത്തുക"

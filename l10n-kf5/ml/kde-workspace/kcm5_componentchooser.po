@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcomponentchooser\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-11-14 03:35+0100\n"
 "PO-Revision-Date: 2010-01-20 10:37+0530\n"
 "Last-Translator: seshagiri prabhu <seshagiriprabhu@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -250,17 +250,17 @@ msgstr "ഈ ഫയല്‍ കാര്യസ്ഥന്‍ ഉപയോഗി
 msgid "Other: click Add... in the dialog shown here:"
 msgstr "വേറെ: ഇവിടെ കാണിക്കുന്ന ഡയലോഗ് ബോക്സില്‍ ചേര്‍ക്കുക... എന്നമര്‍ത്തുക:"
 
-#: kcm_componentchooser.cpp:44
+#: kcm_componentchooser.cpp:43
 #, kde-format
 msgid "Component Chooser"
 msgstr "ഘടകം തിരഞ്ഞെടുക്കുന്നതിനുള്ള ഉപാധി"
 
-#: kcm_componentchooser.cpp:46
+#: kcm_componentchooser.cpp:45
 #, kde-format
 msgid "(c), 2002 Joseph Wenninger"
 msgstr "(c), 2002 ജോസഫ് വെന്നിങര്‍"
 
-#: kcm_componentchooser.cpp:48
+#: kcm_componentchooser.cpp:47
 #, kde-format
 msgid "Joseph Wenninger"
 msgstr "ജോസഫ് വെന്നിങര്‍"

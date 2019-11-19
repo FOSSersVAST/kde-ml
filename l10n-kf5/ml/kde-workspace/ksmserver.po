@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-11-02 03:32+0100\n"
 "PO-Revision-Date: 2008-10-22 00:45+0530\n"
 "Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Country: INDIA\n"
 
-#: logout.cpp:399
+#: logout.cpp:408
 #, kde-format
 msgid "Logout canceled by '%1'"
 msgstr "പുറത്തിറങ്ങുന്നതു് %1 റദ്ദാക്കി"
@@ -139,22 +139,22 @@ msgid ""
 "the lock screen."
 msgstr ""
 
-#: server.cpp:1040
+#: server.cpp:1004
 #, fuzzy, kde-format
 msgid "Log Out"
 msgstr "&പുറത്തിറങ്ങുക"
 
-#: server.cpp:1045
+#: server.cpp:1009
 #, kde-format
 msgid "Log Out Without Confirmation"
 msgstr ""
 
-#: server.cpp:1050
+#: server.cpp:1014
 #, kde-format
 msgid "Halt Without Confirmation"
 msgstr ""
 
-#: server.cpp:1055
+#: server.cpp:1019
 #, kde-format
 msgid "Reboot Without Confirmation"
 msgstr ""

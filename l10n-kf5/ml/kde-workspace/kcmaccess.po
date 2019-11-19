@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmaccess\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-11-14 03:35+0100\n"
 "PO-Revision-Date: 2008-11-16 19:27-0800\n"
 "Last-Translator: പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍ <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -419,82 +419,82 @@ msgid ""
 "work properly."
 msgstr ""
 
-#: kcmaccess.cpp:121
+#: kcmaccess.cpp:120
 #, kde-format
 msgid "AltGraph"
 msgstr "ആള്‍ട്ട്ഗ്രാഫ്"
 
-#: kcmaccess.cpp:123
+#: kcmaccess.cpp:122
 #, kde-format
 msgid "Hyper"
 msgstr "ഹൈപ്പര്‍"
 
-#: kcmaccess.cpp:125
+#: kcmaccess.cpp:124
 #, kde-format
 msgid "Super"
 msgstr "സൂപ്പര്‍"
 
-#: kcmaccess.cpp:139
+#: kcmaccess.cpp:138
 #, kde-format
 msgid "Press %1 while NumLock, CapsLock and ScrollLock are active"
 msgstr "NumLock, CapsLock ,ScrollLock എന്നിവ പ്രവര്‍ത്തനസജ്ജമായിരിക്കുമ്പോള്‍ %1 അമര്‍ത്തുക "
 
-#: kcmaccess.cpp:141
+#: kcmaccess.cpp:140
 #, kde-format
 msgid "Press %1 while CapsLock and ScrollLock are active"
 msgstr "CapsLock ,ScrollLock എന്നിവ പ്രവര്‍ത്തനസജ്ജമായിരിക്കുമ്പോള്‍ %1 അമര്‍ത്തുക "
 
-#: kcmaccess.cpp:143
+#: kcmaccess.cpp:142
 #, kde-format
 msgid "Press %1 while NumLock and ScrollLock are active"
 msgstr "NumLock, ScrollLock എന്നിവ പ്രവര്‍ത്തനസജ്ജമായിരിക്കുമ്പോള്‍ %1 അമര്‍ത്തുക "
 
-#: kcmaccess.cpp:145
+#: kcmaccess.cpp:144
 #, kde-format
 msgid "Press %1 while ScrollLock is active"
 msgstr "ScrollLock പ്രവര്‍ത്തനസജ്ജമായിരിക്കുമ്പോള്‍ %1 അമര്‍ത്തുക "
 
-#: kcmaccess.cpp:148
+#: kcmaccess.cpp:147
 #, kde-format
 msgid "Press %1 while NumLock and CapsLock are active"
 msgstr "NumLock, CapsLock എന്നിവ പ്രവര്‍ത്തനസജ്ജമായിരിക്കുമ്പോള്‍ %1 അമര്‍ത്തുക "
 
-#: kcmaccess.cpp:150
+#: kcmaccess.cpp:149
 #, kde-format
 msgid "Press %1 while CapsLock is active"
 msgstr "CapsLock പ്രവര്‍ത്തനസജ്ജമായിരിക്കുമ്പോള്‍ %1 അമര്‍ത്തുക "
 
-#: kcmaccess.cpp:152
+#: kcmaccess.cpp:151
 #, kde-format
 msgid "Press %1 while NumLock is active"
 msgstr "NumLock പ്രവര്‍ത്തനസജ്ജമായിരിക്കുമ്പോള്‍ %1 അമര്‍ത്തുക "
 
-#: kcmaccess.cpp:154
+#: kcmaccess.cpp:153
 #, kde-format
 msgid "Press %1"
 msgstr "%1 അമര്‍ത്തുക"
 
-#: kcmaccess.cpp:163
+#: kcmaccess.cpp:162
 #, kde-format
 msgid "KDE Accessibility Tool"
 msgstr "കെഡിഇ സാമീപ്യതാ പണിയായുധം"
 
-#: kcmaccess.cpp:164
+#: kcmaccess.cpp:163
 #, kde-format
 msgid "(c) 2000, Matthias Hoelzer-Kluepfel"
 msgstr "(c) 2000 മത്തിയാസ് ഹൊള്‍സ്നര്‍-ക്ളുപ്ഫെല്‍"
 
-#: kcmaccess.cpp:166
+#: kcmaccess.cpp:165
 #, kde-format
 msgid "Matthias Hoelzer-Kluepfel"
 msgstr "മത്തിയാസ് ഹൊള്‍സ്നര്‍-ക്ളുപ്ഫെല്‍"
 
-#: kcmaccess.cpp:166
+#: kcmaccess.cpp:165
 #, kde-format
 msgid "Author"
 msgstr "രചയിതാവ്"
 
-#: kcmaccess.cpp:221
+#: kcmaccess.cpp:220
 #, kde-format
 msgid ""
 "Here you can activate keyboard gestures that turn on the following "
@@ -506,7 +506,7 @@ msgstr ""
 "സ്റ്റിക്കി കീകള്‍: 5 തവണ തുടര്‍ച്ചയായി ഷിഷ്റ്റ് അമര്‍ത്തുക\n"
 "വേഗം കുറഞ്ഞ കീകള്‍: 8 സെക്കന്റ് നേരം ഷിഫ്റ്റ് കീ അമര്‍ത്തിപിടിയ്ക്കുക"
 
-#: kcmaccess.cpp:225
+#: kcmaccess.cpp:224
 #, kde-format
 msgid ""
 "Here you can activate keyboard gestures that turn on the following "
@@ -521,12 +521,12 @@ msgstr ""
 "സ്റ്റിക്കി കീകള്‍: ഷിഫ്റ്റ് കീ 5 തവണ അടുപ്പിച്ച് അമര്‍ത്തുക\n"
 "സ്ലോ കീകള്‍: ഷിഫ്റ്റ് കീ 8 സെക്കന്‍ഡ് നേരം അടുപ്പിച്ച് അമര്‍ത്തി പിടിക്കുക"
 
-#: kcmaccess.cpp:261
+#: kcmaccess.cpp:268
 #, kde-format
 msgid "Could not set gsettings for Orca: \"%1\" failed"
 msgstr ""
 
-#: kcmaccess.cpp:268
+#: kcmaccess.cpp:275
 #, kde-format
 msgid "Error: Could not launch \"orca --setup\""
 msgstr ""

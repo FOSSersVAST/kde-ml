@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-10-25 03:34+0200\n"
 "PO-Revision-Date: 2019-03-05 03:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -39,8 +39,8 @@ msgstr ""
 msgid "SSID"
 msgstr ""
 
-#: package/contents/ui/ConnectionEditor.qml:47
-#: package/contents/ui/WirelessSecuritySetting.qml:63
+#: package/contents/ui/ConnectionEditor.qml:44
+#: package/contents/ui/NetworkSettings.qml:81
 #, kde-format
 msgid "None"
 msgstr ""
@@ -51,161 +51,143 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: package/contents/ui/ConnectionEditor.qml:96
-#: package/contents/ui/NetworkListView.qml:170
-#: package/contents/ui/NetworkSettings.qml:97
+#: package/contents/ui/ConnectionEditor.qml:77
+#: package/contents/ui/TetheringSetting.qml:129
 #, kde-format
 msgid "Cancel"
 msgstr ""
 
-#: package/contents/ui/IPAddressSetting.qml:46
-#, kde-format
-msgid "IP settings"
-msgstr ""
-
-#: package/contents/ui/IPAddressSetting.qml:53
-#, kde-format
-msgid "Automatic"
-msgstr ""
-
-#: package/contents/ui/IPAddressSetting.qml:53
+#: package/contents/ui/main.qml:100
 #, kde-format
 msgid "Manual"
 msgstr ""
 
-#: package/contents/ui/IPAddressSetting.qml:72
+#: package/contents/ui/main.qml:100
 #, kde-format
 msgid "IP Address"
 msgstr ""
 
-#: package/contents/ui/IPAddressSetting.qml:85
+#: package/contents/ui/main.qml:108
 #, kde-format
 msgid "Gateway"
 msgstr ""
 
-#: package/contents/ui/IPAddressSetting.qml:98
+#: package/contents/ui/main.qml:117
 #, kde-format
 msgid "Network prefix length"
 msgstr ""
 
-#: package/contents/ui/IPAddressSetting.qml:109
+#: package/contents/ui/main.qml:125
 #, kde-format
 msgid "DNS"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:54
-#, kde-format
-msgid "Wi-fi"
-msgstr ""
-
-#: package/contents/ui/NetworkListView.qml:81
-#, kde-format
-msgid "Saved networks"
-msgstr ""
-
-#: package/contents/ui/NetworkListView.qml:81
+#: package/contents/ui/NetworkSettings.qml:58
 #, kde-format
 msgid "Available networks"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:93
+#: package/contents/ui/NetworkSettings.qml:66
 #, kde-format
 msgid "Add custom connection"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:102
+#: package/contents/ui/NetworkSettings.qml:72
 #, kde-format
 msgid "Create Hotspot"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:110
+#: package/contents/ui/NetworkSettings.qml:82
 #, kde-format
 msgid "Saved Connections"
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:159
+#: package/contents/ui/NetworkSettings.qml:83
 #, kde-format
 msgid "Delete connection "
 msgstr ""
 
-#: package/contents/ui/NetworkListView.qml:162
+#: package/contents/ui/NetworkSettings.qml:84
 #, kde-format
 msgid "Delete"
 msgstr ""
 
-#: package/contents/ui/NetworkSettings.qml:40
+#: package/contents/ui/NetworkSettings.qml:85
 #, kde-format
 msgid "Connection Name"
 msgstr ""
 
-#: package/contents/ui/PasswordField.qml:28
+#: package/contents/ui/NetworkSettings.qml:96
 #, kde-format
 msgid "Password..."
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:41
+#: package/contents/ui/NetworkSettings.qml:103
 #, kde-format
 msgid "Wi-fi hotspot"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:103
+#: package/contents/ui/NetworkSettings.qml:105
 #, kde-format
 msgid "Configure"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:122
+#: package/contents/ui/NetworkSettings.qml:105
 #, kde-format
 msgid "My Hotspot"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:132
+#: package/contents/ui/NetworkSettings.qml:105
 #, kde-format
 msgid "Hide this network"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:142
+#: package/contents/ui/NetworkSettings.qml:105
 #, kde-format
 msgid "Protect hotspot with WPA2/PSK password"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:152
+#: package/contents/ui/NetworkSettings.qml:105
 #, kde-format
 msgid "Save Hotspot configuration"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:180
-#: package/contents/ui/TetheringSetting.qml:217
+#: package/contents/ui/NetworkSettings.qml:114
 #, kde-format
-msgid "Hotspot is inactive"
+msgid "IP settings"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:187
+#: package/contents/ui/NetworkSettings.qml:121
+#, kde-format
+msgid "Automatic"
+msgstr ""
+
+#: package/contents/ui/NetworkSettings.qml:121
 #, kde-format
 msgid "Not possible to start Access point."
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:196
-#: package/contents/ui/TetheringSetting.qml:210
+#: package/contents/ui/NetworkSettings.qml:142
 #, kde-format
 msgid "Access point running: %1"
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:203
+#: package/contents/ui/NetworkSettings.qml:153
 #, kde-format
 msgid "No suitable configuration found."
 msgstr ""
 
-#: package/contents/ui/TetheringSetting.qml:251
+#: package/contents/ui/NetworkSettings.qml:164
 #, kde-format
 msgid "Access point available: %1"
 msgstr ""
 
-#: package/contents/ui/WirelessSecuritySetting.qml:46
+#: package/contents/ui/NetworkSettings.qml:173
 #, kde-format
 msgid "Security"
 msgstr ""
 
-#: package/contents/ui/WirelessSecuritySetting.qml:64
+#: package/contents/ui/NetworkSettings.qml:215
 #, kde-format
 msgid "WEP Key"
 msgstr ""

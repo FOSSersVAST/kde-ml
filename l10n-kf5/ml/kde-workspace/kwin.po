@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-11-15 03:34+0100\n"
 "PO-Revision-Date: 2008-07-08 18:58+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -38,7 +38,7 @@ msgstr ""
 msgid "unknown"
 msgstr ""
 
-#: composite.cpp:569
+#: composite.cpp:875
 #, kde-format
 msgid ""
 "Desktop effects have been suspended by another application.<br/>You can "
@@ -1575,7 +1575,7 @@ msgstr ""
 msgid "Automatic screen rotation is disabled"
 msgstr ""
 
-#: plugins/scenes/opengl/scene_opengl.cpp:577
+#: plugins/scenes/opengl/scene_opengl.cpp:568
 #, kde-format
 msgid "Desktop effects were restarted due to a graphics reset"
 msgstr ""
@@ -1978,7 +1978,7 @@ msgstr ""
 msgid "Whether to show the virtual keyboard on demand."
 msgstr ""
 
-#: workspace.cpp:1329
+#: workspace.cpp:1348
 #, kde-format
 msgctxt "Introductory text shown in the support information."
 msgid ""

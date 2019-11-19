@@ -62,7 +62,7 @@ msgctxt "ContextDrawer|"
 msgid "Actions"
 msgstr ""
 
-#: controls/GlobalDrawer.qml:446
+#: controls/GlobalDrawer.qml:451
 msgctxt "GlobalDrawer|"
 msgid "Back"
 msgstr ""
@@ -70,11 +70,6 @@ msgstr ""
 #: controls/PasswordField.qml:45
 msgctxt "PasswordField|"
 msgid "Password"
-msgstr ""
-
-#: controls/private/globaltoolbar/ToolBarPageHeader.qml:107
-msgctxt "ToolBarPageHeader|"
-msgid "More Actions"
 msgstr ""
 
 #: controls/SearchField.qml:44
@@ -100,4 +95,22 @@ msgstr ""
 #: controls/UrlButton.qml:51
 msgctxt "UrlButton|"
 msgid "Copy link address"
+msgstr ""
+
+#: settings.cpp:155
+#, qt-format
+msgctxt "Settings|"
+msgid "KDE Frameworks %1"
+msgstr ""
+
+#: settings.cpp:157
+#, qt-format
+msgctxt "Settings|"
+msgid "The %1 windowing system"
+msgstr ""
+
+#: settings.cpp:158
+#, qt-format
+msgctxt "Settings|"
+msgid "Qt %2 (built against %3)"
 msgstr ""

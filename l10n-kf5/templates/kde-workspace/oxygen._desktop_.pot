@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-12 01:36+0000\n"
+"POT-Creation-Date: 2019-11-01 02:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -69,12 +69,12 @@ msgctxt "Name"
 msgid "Oxygen Window Decoration"
 msgstr ""
 
-#: kdecoration/config/oxygendecorationconfig.desktop:50
+#: kdecoration/config/oxygendecorationconfig.desktop:51
 msgctxt "Comment"
 msgid "Modify the appearance of window decorations"
 msgstr ""
 
-#: kdecoration/config/oxygendecorationconfig.desktop:88
+#: kdecoration/config/oxygendecorationconfig.desktop:89
 msgctxt "X-KDE-Keywords"
 msgid "oxygen,decoration"
 msgstr ""
@@ -84,12 +84,12 @@ msgctxt "Name"
 msgid "Oxygen Widget Style"
 msgstr ""
 
-#: kstyle/config/oxygenstyleconfig.desktop:49
+#: kstyle/config/oxygenstyleconfig.desktop:50
 msgctxt "Comment"
 msgid "Modify the appearance of widgets"
 msgstr ""
 
-#: kstyle/config/oxygenstyleconfig.desktop:90
+#: kstyle/config/oxygenstyleconfig.desktop:91
 msgctxt "X-KDE-Keywords"
 msgid "oxygen,widget,style"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: knetattach\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-11-14 03:35+0100\n"
 "PO-Revision-Date: 2008-11-21 01:51+0730\n"
 "Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -78,12 +78,12 @@ msgstr ""
 "സര്‍വറുമായി ബന്ധം സ്ഥാപിക്കുവാന്‍ സാധ്യമായില്ല. ദയവായി നിങ്ങളുടെ സജ്ജീകരണങ്ങള്‍ പരിശോധിച്ചശേഷം "
 "വീണ്ടും ശ്രമിക്കുക."
 
-#: knetattach.cpp:354
+#: knetattach.cpp:356
 #, kde-format
 msgid "Save && C&onnect"
 msgstr "സൂക്ഷിച്ചശേഷം &കണക്ട് ചെയ്യുക"
 
-#: knetattach.cpp:356
+#: knetattach.cpp:358
 #, kde-format
 msgid "C&onnect"
 msgstr "ബന്ധം &സ്ഥാപിക്കുക"

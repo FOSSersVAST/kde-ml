@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ktextwidgets\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:58+0200\n"
+"POT-Creation-Date: 2019-10-31 02:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -662,32 +662,32 @@ msgctxt "@action"
 msgid "Superscript"
 msgstr ""
 
-#: widgets/ktextedit.cpp:163
+#: widgets/ktextedit.cpp:162
 #, kde-format
 msgid "Nothing to spell check."
 msgstr ""
 
-#: widgets/ktextedit.cpp:563
+#: widgets/ktextedit.cpp:559
 #, kde-format
 msgid "Check Spelling..."
 msgstr ""
 
-#: widgets/ktextedit.cpp:568
+#: widgets/ktextedit.cpp:564
 #, kde-format
 msgid "Spell Checking Language"
 msgstr ""
 
-#: widgets/ktextedit.cpp:591
+#: widgets/ktextedit.cpp:587
 #, kde-format
 msgid "Auto Spell Check"
 msgstr ""
 
-#: widgets/ktextedit.cpp:597
+#: widgets/ktextedit.cpp:593
 #, kde-format
 msgid "Allow Tabulations"
 msgstr ""
 
-#: widgets/ktextedit.cpp:630
+#: widgets/ktextedit.cpp:626
 #, kde-format
 msgid "Speak Text"
 msgstr ""

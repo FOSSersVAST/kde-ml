@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-14 03:30+0200\n"
+"POT-Creation-Date: 2019-10-25 03:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -172,31 +172,31 @@ msgstr ""
 
 #: editor/connectioneditorbase.cpp:232 editor/settings/teamwidget.cpp:52
 #: models/creatableconnectionsmodel.cpp:144
-#: models/networkmodelitem.cpp:626 uiutils.cpp:230
+#: models/networkmodelitem.cpp:633 uiutils.cpp:230
 #, kde-format
 msgid "Infiniband"
 msgstr ""
 
 #: editor/connectioneditorbase.cpp:235 models/creatableconnectionsmodel.cpp:179
-#: models/networkmodelitem.cpp:632 uiutils.cpp:219
+#: models/networkmodelitem.cpp:639 uiutils.cpp:219
 #, kde-format
 msgid "Bond"
 msgstr ""
 
 #: editor/connectioneditorbase.cpp:238 models/creatableconnectionsmodel.cpp:185
-#: models/networkmodelitem.cpp:638 uiutils.cpp:222
+#: models/networkmodelitem.cpp:645 uiutils.cpp:222
 #, kde-format
 msgid "Bridge"
 msgstr ""
 
 #: editor/connectioneditorbase.cpp:241 models/creatableconnectionsmodel.cpp:197
-#: models/networkmodelitem.cpp:644
+#: models/networkmodelitem.cpp:651
 #, kde-format
 msgid "Vlan"
 msgstr ""
 
 #: editor/connectioneditorbase.cpp:244 models/creatableconnectionsmodel.cpp:191
-#: models/networkmodelitem.cpp:654 uiutils.cpp:251
+#: models/networkmodelitem.cpp:661 uiutils.cpp:251
 #, kde-format
 msgid "Team"
 msgstr ""
@@ -2300,52 +2300,52 @@ msgctxt "Remove a selected row"
 msgid "R&emove"
 msgstr ""
 
-#: handler.cpp:130
+#: handler.cpp:128
 #, kde-format
 msgid "Missing VPN plugin"
 msgstr ""
 
-#: handler.cpp:553
+#: handler.cpp:608
 #, kde-format
 msgid "Failed to activate %1"
 msgstr ""
 
-#: handler.cpp:557
+#: handler.cpp:612
 #, kde-format
 msgid "Failed to add %1"
 msgstr ""
 
-#: handler.cpp:561
+#: handler.cpp:616
 #, kde-format
 msgid "Failed to add connection %1"
 msgstr ""
 
-#: handler.cpp:565
+#: handler.cpp:620
 #, kde-format
 msgid "Failed to deactivate %1"
 msgstr ""
 
-#: handler.cpp:569
+#: handler.cpp:624
 #, kde-format
 msgid "Failed to remove %1"
 msgstr ""
 
-#: handler.cpp:573
+#: handler.cpp:628
 #, kde-format
 msgid "Failed to update connection %1"
 msgstr ""
 
-#: handler.cpp:599
+#: handler.cpp:654
 #, kde-format
 msgid "Connection %1 has been added"
 msgstr ""
 
-#: handler.cpp:603
+#: handler.cpp:658
 #, kde-format
 msgid "Connection %1 has been removed"
 msgstr ""
 
-#: handler.cpp:607
+#: handler.cpp:662
 #, kde-format
 msgid "Connection %1 has been updated"
 msgstr ""
@@ -2464,97 +2464,97 @@ msgstr ""
 msgid "Available connections"
 msgstr ""
 
-#: models/networkmodelitem.cpp:536
+#: models/networkmodelitem.cpp:543
 #, kde-format
 msgid "IPv4 Address"
 msgstr ""
 
-#: models/networkmodelitem.cpp:545
+#: models/networkmodelitem.cpp:552
 #, kde-format
 msgid "IPv6 Address"
 msgstr ""
 
-#: models/networkmodelitem.cpp:553 models/networkmodelitem.cpp:568
+#: models/networkmodelitem.cpp:560 models/networkmodelitem.cpp:575
 #, kde-format
 msgid "Connection speed"
 msgstr ""
 
-#: models/networkmodelitem.cpp:555 models/networkmodelitem.cpp:570
-#: models/networkmodelitem.cpp:621 models/networkmodelitem.cpp:628
-#: models/networkmodelitem.cpp:634 models/networkmodelitem.cpp:640
-#: models/networkmodelitem.cpp:647 models/networkmodelitem.cpp:656
+#: models/networkmodelitem.cpp:562 models/networkmodelitem.cpp:577
+#: models/networkmodelitem.cpp:628 models/networkmodelitem.cpp:635
+#: models/networkmodelitem.cpp:641 models/networkmodelitem.cpp:647
+#: models/networkmodelitem.cpp:654 models/networkmodelitem.cpp:663
 #, kde-format
 msgid "MAC Address"
 msgstr ""
 
-#: models/networkmodelitem.cpp:559
+#: models/networkmodelitem.cpp:566
 #, kde-format
 msgid "Access point (SSID)"
 msgstr ""
 
-#: models/networkmodelitem.cpp:561
+#: models/networkmodelitem.cpp:568
 #, kde-format
 msgid "Signal strength"
 msgstr ""
 
-#: models/networkmodelitem.cpp:564
+#: models/networkmodelitem.cpp:571
 #, kde-format
 msgid "Security type"
 msgstr ""
 
-#: models/networkmodelitem.cpp:583
+#: models/networkmodelitem.cpp:590
 #, kde-format
 msgid "Operator"
 msgstr ""
 
-#: models/networkmodelitem.cpp:587
+#: models/networkmodelitem.cpp:594
 #, kde-format
 msgid "Network ID"
 msgstr ""
 
-#: models/networkmodelitem.cpp:591
+#: models/networkmodelitem.cpp:598
 #, kde-format
 msgid "Signal Quality"
 msgstr ""
 
-#: models/networkmodelitem.cpp:592
+#: models/networkmodelitem.cpp:599
 #, kde-format
 msgid "Access Technology"
 msgstr ""
 
-#: models/networkmodelitem.cpp:598
+#: models/networkmodelitem.cpp:605
 #, kde-format
 msgid "VPN plugin"
 msgstr ""
 
-#: models/networkmodelitem.cpp:609
+#: models/networkmodelitem.cpp:616
 #, kde-format
 msgid "Banner"
 msgstr ""
 
-#: models/networkmodelitem.cpp:615
+#: models/networkmodelitem.cpp:622
 #, kde-format
 msgid "Name"
 msgstr ""
 
-#: models/networkmodelitem.cpp:617 models/networkmodelitem.cpp:619
+#: models/networkmodelitem.cpp:624 models/networkmodelitem.cpp:626
 #, kde-format
 msgid "Capabilities"
 msgstr ""
 
-#: models/networkmodelitem.cpp:626 models/networkmodelitem.cpp:632
-#: models/networkmodelitem.cpp:638 models/networkmodelitem.cpp:644
-#: models/networkmodelitem.cpp:650 models/networkmodelitem.cpp:654
+#: models/networkmodelitem.cpp:633 models/networkmodelitem.cpp:639
+#: models/networkmodelitem.cpp:645 models/networkmodelitem.cpp:651
+#: models/networkmodelitem.cpp:657 models/networkmodelitem.cpp:661
 #, kde-format
 msgid "Type"
 msgstr ""
 
-#: models/networkmodelitem.cpp:646
+#: models/networkmodelitem.cpp:653
 #, kde-format
 msgid "Vlan ID"
 msgstr ""
 
-#: models/networkmodelitem.cpp:650
+#: models/networkmodelitem.cpp:657
 #, kde-format
 msgid "Adsl"
 msgstr ""

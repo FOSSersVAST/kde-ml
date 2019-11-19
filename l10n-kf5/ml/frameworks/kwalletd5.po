@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwalletd\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-08 02:43+0200\n"
+"POT-Creation-Date: 2019-10-27 02:51+0200\n"
 "PO-Revision-Date: 2010-06-30 16:26+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -300,9 +300,9 @@ msgstr ""
 "വാല്ലെറ്റിന്റെ അടയാളവാക്ക് താഴെ ചേര്‍ക്കുക.</qt>"
 
 #. i18n( "&Open" ), "wallet-open"));
-#: kwalletd.cpp:634 kwalletd.cpp:779 kwalletd.cpp:897 kwalletd.cpp:1026
-#: kwalletd.cpp:1053 kwalletd.cpp:1067 kwalletd.cpp:1076 kwalletd.cpp:1627
-#: main.cpp:176 main.cpp:181 main.cpp:183
+#: kwalletd.cpp:635 kwalletd.cpp:778 kwalletd.cpp:894 kwalletd.cpp:1023
+#: kwalletd.cpp:1050 kwalletd.cpp:1064 kwalletd.cpp:1073 kwalletd.cpp:1624
+#: main.cpp:178 main.cpp:184 main.cpp:186
 #, kde-format
 msgid "KDE Wallet Service"
 msgstr "കെഡി‌ഇ വാല്ലെറ്റ് സേവനം"
@@ -628,52 +628,52 @@ msgstr ""
 msgid "What kind of encryption do you wish?"
 msgstr ""
 
-#: main.cpp:180
+#: main.cpp:183
 #, fuzzy, kde-format
 msgid "kwalletd"
 msgstr "കെവാലെറ്റ്"
 
-#: main.cpp:185
+#: main.cpp:188
 #, kde-format
 msgid "(C) 2002-2013, The KDE Developers"
 msgstr ""
 
-#: main.cpp:186
+#: main.cpp:189
 #, kde-format
 msgid "Valentin Rusu"
 msgstr ""
 
-#: main.cpp:186
+#: main.cpp:189
 #, kde-format
 msgid "Maintainer, GPG backend support"
 msgstr ""
 
-#: main.cpp:187
+#: main.cpp:190
 #, kde-format
 msgid "Michael Leupold"
 msgstr "മിക്കേല്‍ ലുപോള്‍ഡ്"
 
-#: main.cpp:187
+#: main.cpp:190
 #, fuzzy, kde-format
 msgid "Former Maintainer"
 msgstr "മുന്‍ പരിപാലകന്‍"
 
-#: main.cpp:188
+#: main.cpp:191
 #, kde-format
 msgid "George Staikos"
 msgstr "ജോര്‍ജ്ജ് സ്ടൈകോസ്"
 
-#: main.cpp:188
+#: main.cpp:191
 #, kde-format
 msgid "Former maintainer"
 msgstr "മുന്‍ പരിപാലകന്‍"
 
-#: main.cpp:189
+#: main.cpp:192
 #, kde-format
 msgid "Thiago Maceira"
 msgstr "തയാഗൊ മഷീറ"
 
-#: main.cpp:189
+#: main.cpp:192
 #, kde-format
 msgid "D-Bus Interface"
 msgstr "ഡിബസ് വിനിമയതലം"

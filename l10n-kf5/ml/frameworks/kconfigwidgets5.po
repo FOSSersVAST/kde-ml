@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-05 02:40+0200\n"
+"POT-Creation-Date: 2019-11-05 02:49+0100\n"
 "PO-Revision-Date: 2010-12-29 15:32+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -35,12 +35,12 @@ msgstr ""
 "pravi.a@gmail.com, peter.ani@gmail.com, maxinbjohn@gmail.com, gnuanu@gmail."
 "com, manusmad@gmail.com"
 
-#: kcmodule.cpp:170
+#: kcmodule.cpp:176
 #, kde-format
 msgid "You will be asked to authenticate before saving"
 msgstr "സൂക്ഷിയ്ക്കുന്നതിനു് മുമ്പു് നിങ്ങളെ തിരിച്ചറിയേണ്ടി വരും"
 
-#: kcmodule.cpp:174
+#: kcmodule.cpp:180
 #, kde-format
 msgid "You are not allowed to save the configuration"
 msgstr "ക്രമീകരണം സൂക്ഷിയ്ക്കാന്‍ നിങ്ങള്‍ക്കനുവാദമില്ല"

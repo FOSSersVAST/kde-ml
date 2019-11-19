@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: artikulate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:00+0200\n"
+"POT-Creation-Date: 2019-11-11 03:00+0100\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -187,6 +187,11 @@ msgstr ""
 
 #: src/core/course.cpp:194 src/qml/Editor.qml:245
 #, kde-format
+msgid "Please select a course"
+msgstr ""
+
+#: src/core/resources/editablecourseresource.cpp:279
+#, kde-format
 msgid "New Unit"
 msgstr "പുതിയ യൂണിറ്റ് "
 
@@ -309,13 +314,13 @@ msgctxt "@item:inmenu"
 msgid "Learner Profile"
 msgstr ""
 
-#: src/mainwindow.cpp:167 src/mainwindow_editor.cpp:157
+#: src/mainwindow.cpp:127 src/mainwindow_editor.cpp:116
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Sound Devices"
 msgstr "ശബ്ദ ഉപകരണങ്ങൾ"
 
-#: src/mainwindow.cpp:167 src/mainwindow_editor.cpp:157
+#: src/mainwindow.cpp:127 src/mainwindow_editor.cpp:116
 #, kde-format
 msgctxt "@title:tab"
 msgid "Sound Device Settings"
@@ -413,7 +418,7 @@ msgctxt "@title:column"
 msgid "Phoneme Unit"
 msgstr ""
 
-#: src/models/phraselistmodel.cpp:190 src/models/phrasemodel.cpp:293
+#: src/models/phraselistmodel.cpp:188 src/models/phrasemodel.cpp:302
 #, kde-format
 msgctxt "@title:column"
 msgid "Phrase"
@@ -447,7 +452,7 @@ msgstr ""
 msgid "Course Prototype:"
 msgstr ""
 
-#: src/qml/Editor.qml:95
+#: src/qml/ArtikulateDrawer.qml:145 src/qml/EditorDrawer.qml:161
 #, kde-format
 msgid "Edit Prototype"
 msgstr ""
@@ -533,7 +538,29 @@ msgstr ""
 msgid "Show Menubar"
 msgstr ""
 
-#: src/qml/MainMenuBar.qml:72 src/qml/MainToolBar.qml:123
+#: src/qml/EditCoursePage.qml:49 src/qml/ProfileUserItem.qml:87
+#: src/qml/ProfileUserItem.qml:184
+#, kde-format
+msgid "Delete"
+msgstr "നീക്കം ചെയ്യുക"
+
+#: src/qml/EditCoursePage.qml:50
+#, fuzzy, kde-format
+#| msgid "Delete"
+msgid "Delete this phrase."
+msgstr "നീക്കം ചെയ്യുക"
+
+#: src/qml/EditCoursePage.qml:58
+#, kde-format
+msgid "Create Phrase"
+msgstr ""
+
+#: src/qml/EditCoursePage.qml:59
+#, kde-format
+msgid "Create phrase after current phrase."
+msgstr ""
+
+#: src/qml/EditorCourseSelectionPage.qml:29
 #, kde-format
 msgid "Help"
 msgstr "സഹായം"
@@ -558,7 +585,12 @@ msgstr ""
 msgid "About KDE"
 msgstr ""
 
-#: src/qml/NewUserWelcome.qml:36
+#: src/qml/EditorDrawer.qml:135
+#, kde-format
+msgid "Save"
+msgstr ""
+
+#: src/qml/EditorSkeletonSelectionPage.qml:29
 #, kde-format
 msgid "Welcome to Artikulate!"
 msgstr ""
@@ -574,8 +606,15 @@ msgid "You can install them now from the Internet:"
 msgstr ""
 
 #: src/qml/PhraseEditor.qml:63
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "@info:credit Role"
+#| msgid "Original Author"
 msgid "Original Phrase:"
+msgstr "യഥാർത്ഥ രചയിതാവ്"
+
+#: src/qml/PhraseEditor.qml:154
+#, kde-format
+msgid "Unit Title:"
 msgstr ""
 
 #: src/qml/PhraseEditorEditStateComponent.qml:62
@@ -682,11 +721,6 @@ msgstr ""
 #, kde-format
 msgid "Edit"
 msgstr "എഡിറ്റ് ചെയ്യുക"
-
-#: src/qml/ProfileUserItem.qml:87 src/qml/ProfileUserItem.qml:184
-#, kde-format
-msgid "Delete"
-msgstr "നീക്കം ചെയ്യുക"
 
 #: src/qml/ProfileUserItem.qml:93
 #, kde-format

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-09 02:26+0200\n"
+"POT-Creation-Date: 2019-11-12 02:33+0100\n"
 "PO-Revision-Date: 2019-04-18 03:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -88,7 +88,7 @@ msgstr ""
 msgid "&Status Bar Items"
 msgstr ""
 
-#: kateapp.cpp:202 kateapp.cpp:323
+#: kateapp.cpp:209 kateapp.cpp:330
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
@@ -694,67 +694,67 @@ msgstr ""
 msgid " [read only]"
 msgstr ""
 
-#: katemdi.cpp:114
+#: katemdi.cpp:115
 #, kde-format
 msgid "Tool &Views"
 msgstr ""
 
-#: katemdi.cpp:116
+#: katemdi.cpp:117
 #, kde-format
 msgid "Show Side&bars"
 msgstr ""
 
-#: katemdi.cpp:162
+#: katemdi.cpp:163
 #, kde-format
 msgid "Show %1"
 msgstr ""
 
-#: katemdi.cpp:541
+#: katemdi.cpp:542
 #, kde-format
 msgid "Configure ..."
 msgstr ""
 
-#: katemdi.cpp:545
+#: katemdi.cpp:546
 #, kde-format
 msgid "Behavior"
 msgstr ""
 
-#: katemdi.cpp:547
+#: katemdi.cpp:548
 #, kde-format
 msgid "Make Non-Persistent"
 msgstr ""
 
-#: katemdi.cpp:547
+#: katemdi.cpp:548
 #, kde-format
 msgid "Make Persistent"
 msgstr ""
 
-#: katemdi.cpp:549
+#: katemdi.cpp:550
 #, kde-format
 msgid "Move To"
 msgstr ""
 
-#: katemdi.cpp:552
+#: katemdi.cpp:553
 #, kde-format
 msgid "Left Sidebar"
 msgstr ""
 
-#: katemdi.cpp:556
+#: katemdi.cpp:557
 #, kde-format
 msgid "Right Sidebar"
 msgstr ""
 
-#: katemdi.cpp:560
+#: katemdi.cpp:561
 #, kde-format
 msgid "Top Sidebar"
 msgstr ""
 
-#: katemdi.cpp:564
+#: katemdi.cpp:565
 #, kde-format
 msgid "Bottom Sidebar"
 msgstr ""
 
-#: katemdi.cpp:895
+#: katemdi.cpp:896
 #, kde-format
 msgid ""
 "<qt>You are about to hide the sidebars. With hidden sidebars it is not "
@@ -863,7 +863,7 @@ msgstr ""
 msgid "Diff Output"
 msgstr ""
 
-#: katequickopen.cpp:64
+#: katequickopen.cpp:65
 #, kde-format
 msgid "Quick Open Search"
 msgstr ""

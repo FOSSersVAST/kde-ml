@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kscreenlocker\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-11-14 03:33+0100\n"
 "PO-Revision-Date: 2018-08-16 09:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: kcm.cpp:58
+#: kcm.cpp:55
 #, kde-format
 msgctxt "Spinbox suffix. Short for minutes"
 msgid " min"
@@ -26,7 +26,7 @@ msgid_plural " mins"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kcm.cpp:60
+#: kcm.cpp:57
 #, kde-format
 msgctxt "Spinbox suffix. Short for seconds"
 msgid " sec"
@@ -34,17 +34,12 @@ msgid_plural " secs"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kcm.cpp:79
-#, kde-format
-msgid "Lock Session"
-msgstr ""
-
-#: kcm.cpp:158
+#: kcm.cpp:132
 #, kde-format
 msgid "Error"
 msgstr ""
 
-#: kcm.cpp:158
+#: kcm.cpp:132
 #, kde-format
 msgid "Failed to successfully test the screen locker."
 msgstr ""

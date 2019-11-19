@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: baloo-widgets\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-12 02:32+0200\n"
+"POT-Creation-Date: 2019-11-14 02:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -18,8 +18,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: src/filemetadataprovider.cpp:173 src/filemetadataprovider.cpp:179
-#: src/filemetadataprovider.cpp:235 src/filemetadataprovider.cpp:238
+#: src/filemetadataprovider.cpp:162 src/filemetadataprovider.cpp:168
+#: src/filemetadataprovider.cpp:229 src/filemetadataprovider.cpp:232
 #, kde-format
 msgctxt "@item:intable"
 msgid "%1 item"
@@ -27,91 +27,91 @@ msgid_plural "%1 items"
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/filemetadataprovider.cpp:185
+#: src/filemetadataprovider.cpp:179
 #, kde-format
 msgctxt "unknown file size"
 msgid "Unknown"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:410 src/filemetadataprovider.cpp:425
+#: src/filemetadataprovider.cpp:407 src/filemetadataprovider.cpp:422
 #, kde-format
 msgctxt "@label"
 msgid "Comment"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:411
+#: src/filemetadataprovider.cpp:408
 #, kde-format
 msgctxt "@label"
 msgid "Created"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:412
+#: src/filemetadataprovider.cpp:409
 #, kde-format
 msgctxt "@label"
 msgid "Accessed"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:413
+#: src/filemetadataprovider.cpp:410
 #, kde-format
 msgctxt "@label"
 msgid "Modified"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:414
+#: src/filemetadataprovider.cpp:411
 #, kde-format
 msgctxt "@label"
 msgid "Owner"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:415
+#: src/filemetadataprovider.cpp:412
 #, kde-format
 msgctxt "@label"
 msgid "Group"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:416
+#: src/filemetadataprovider.cpp:413
 #, kde-format
 msgctxt "@label"
 msgid "Permissions"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:417 src/filemetadataprovider.cpp:424
+#: src/filemetadataprovider.cpp:414 src/filemetadataprovider.cpp:421
 #, kde-format
 msgctxt "@label"
 msgid "Rating"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:418
+#: src/filemetadataprovider.cpp:415
 #, kde-format
 msgctxt "@label"
 msgid "Size"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:419 src/filemetadataprovider.cpp:423
+#: src/filemetadataprovider.cpp:416 src/filemetadataprovider.cpp:420
 #, kde-format
 msgctxt "@label"
 msgid "Tags"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:420
+#: src/filemetadataprovider.cpp:417
 #, kde-format
 msgctxt "@label"
 msgid "Total Size"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:421
+#: src/filemetadataprovider.cpp:418
 #, kde-format
 msgctxt "@label"
 msgid "Hidden items"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:422
+#: src/filemetadataprovider.cpp:419
 #, kde-format
 msgctxt "@label"
 msgid "Type"
 msgstr ""
 
-#: src/filemetadataprovider.cpp:426
+#: src/filemetadataprovider.cpp:423
 #, kde-format
 msgctxt "@label"
 msgid "Downloaded From"
@@ -196,7 +196,7 @@ msgstr ""
 msgid "New tag:"
 msgstr ""
 
-#: src/widgetfactory.cpp:89 src/widgetfactory.cpp:96
+#: src/widgetfactory.cpp:85 src/widgetfactory.cpp:95
 #, kde-format
 msgctxt "String list separator"
 msgid ", "

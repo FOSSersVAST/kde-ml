@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-09 02:27+0200\n"
+"POT-Creation-Date: 2019-11-03 02:27+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1140,7 +1140,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, startInSameDirButton)
 #: EditProfileGeneralPage.ui:155
 #, kde-format
-msgid "Start in same directory as current tab"
+msgid "Start in same directory as current session"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
@@ -1648,43 +1648,37 @@ msgctxt "Do not save any lines to the scrollback history"
 msgid "None"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:56
-#, kde-format
-msgctxt "@info:tooltip"
-msgid "Close the search bar"
-msgstr ""
-
-#: IncrementalSearchBar.cpp:64
+#: IncrementalSearchBar.cpp:60
 #, kde-format
 msgctxt "@label:textbox"
 msgid "Find..."
 msgstr ""
 
-#: IncrementalSearchBar.cpp:66
+#: IncrementalSearchBar.cpp:62
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Enter the text to search for here"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:90
+#: IncrementalSearchBar.cpp:88
 #, kde-format
 msgctxt "@action:button Go to the next phrase"
 msgid "Next"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:94
+#: IncrementalSearchBar.cpp:92
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Find the next match for the current search phrase"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:101
+#: IncrementalSearchBar.cpp:100
 #, kde-format
 msgctxt "@action:button Go to the previous phrase"
 msgid "Previous"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:104
+#: IncrementalSearchBar.cpp:103
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Find the previous match for the current search phrase"
@@ -1696,55 +1690,61 @@ msgctxt "@info:tooltip"
 msgid "Display the options menu"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:128
+#: IncrementalSearchBar.cpp:127
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Close the search bar"
+msgstr ""
+
+#: IncrementalSearchBar.cpp:137
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Case sensitive"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:130
+#: IncrementalSearchBar.cpp:139
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Sets whether the search is case sensitive"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:134
+#: IncrementalSearchBar.cpp:143
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Match regular expression"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:139
+#: IncrementalSearchBar.cpp:148
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Highlight all matches"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:142
+#: IncrementalSearchBar.cpp:151
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Sets whether matching text should be highlighted"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:146
+#: IncrementalSearchBar.cpp:155
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "Search backwards"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:149
+#: IncrementalSearchBar.cpp:158
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Sets whether search should start from the bottom"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:180
+#: IncrementalSearchBar.cpp:189
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Search for the current search phrase from the bottom"
 msgstr ""
 
-#: IncrementalSearchBar.cpp:186
+#: IncrementalSearchBar.cpp:195
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Search for the current search phrase from the top"
@@ -2113,7 +2113,7 @@ msgctxt "@item"
 msgid "Activate Menu"
 msgstr ""
 
-#: MainWindow.cpp:605 MainWindow.cpp:624
+#: MainWindow.cpp:600 MainWindow.cpp:619
 #, kde-format
 msgctxt "@info"
 msgid "There is a process running in this window. Do you still want to quit?"
@@ -2122,49 +2122,49 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: MainWindow.cpp:611 MainWindow.cpp:630 MainWindow.cpp:648
+#: MainWindow.cpp:606 MainWindow.cpp:625 MainWindow.cpp:643
 #, kde-format
 msgctxt "@title"
 msgid "Confirm Close"
 msgstr ""
 
-#: MainWindow.cpp:613 MainWindow.cpp:632 MainWindow.cpp:649
+#: MainWindow.cpp:608 MainWindow.cpp:627 MainWindow.cpp:644
 #, kde-format
 msgctxt "@action:button"
 msgid "Close &Window"
 msgstr ""
 
-#: MainWindow.cpp:635 MainWindow.cpp:652
+#: MainWindow.cpp:630 MainWindow.cpp:647
 #, kde-format
 msgctxt "@action:button"
 msgid "Close Current &Tab"
 msgstr ""
 
-#: MainWindow.cpp:645
+#: MainWindow.cpp:640
 #, kde-format
 msgctxt "@info"
 msgid "There are %1 open terminals in this window. Do you still want to quit?"
 msgstr ""
 
-#: MainWindow.cpp:759
+#: MainWindow.cpp:754
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "General"
 msgstr ""
 
-#: MainWindow.cpp:764 Part.cpp:332
+#: MainWindow.cpp:759 Part.cpp:332
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "Profiles"
 msgstr ""
 
-#: MainWindow.cpp:769
+#: MainWindow.cpp:764
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "Tab Bar"
 msgstr ""
 
-#: MainWindow.cpp:774
+#: MainWindow.cpp:769
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "Temporary Files"
@@ -2342,50 +2342,50 @@ msgstr ""
 msgid "Solaris console"
 msgstr ""
 
-#: Session.cpp:389
+#: Session.cpp:390
 #, kde-format
 msgid "Could not find binary: "
 msgstr ""
 
-#: Session.cpp:398
+#: Session.cpp:399
 #, kde-format
 msgctxt "@info:shell Alert the user with red color text"
 msgid "Warning: "
 msgstr ""
 
-#: Session.cpp:456
+#: Session.cpp:457
 #, kde-format
 msgid ""
 "Could not find '%1', starting '%2' instead.  Please check your profile "
 "settings."
 msgstr ""
 
-#: Session.cpp:459
+#: Session.cpp:460
 #, kde-format
 msgid "Could not find an interactive shell to start."
 msgstr ""
 
-#: Session.cpp:497
+#: Session.cpp:498
 #, kde-format
 msgid "Could not start program '%1' with arguments '%2'."
 msgstr ""
 
-#: Session.cpp:633
+#: Session.cpp:634
 #, kde-format
 msgid "Silence in session '%1'"
 msgstr ""
 
-#: Session.cpp:693
+#: Session.cpp:694
 #, kde-format
 msgid "Bell in session '%1'"
 msgstr ""
 
-#: Session.cpp:706
+#: Session.cpp:707
 #, kde-format
 msgid "Activity in session '%1'"
 msgstr ""
 
-#: Session.cpp:917
+#: Session.cpp:918
 #, kde-format
 msgid ""
 "The D-Bus methods sendText/runCommand were just used.  There are security "
@@ -2394,23 +2394,23 @@ msgid ""
 "warning will only show once for this Konsole instance.</p>"
 msgstr ""
 
-#: Session.cpp:945
+#: Session.cpp:946
 #, kde-format
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr ""
 
-#: Session.cpp:959 Session.cpp:972
+#: Session.cpp:960 Session.cpp:973
 #, kde-format
 msgid "Program '%1' crashed."
 msgstr ""
 
-#: Session.cpp:961
+#: Session.cpp:962
 #, kde-format
 msgid "Program '%1' exited with status %2."
 msgstr ""
 
-#: Session.cpp:1402
+#: Session.cpp:1403
 #, kde-format
 msgid "ZModem Progress"
 msgstr ""
@@ -3335,90 +3335,90 @@ msgstr ""
 msgid "Size: %1 x %2"
 msgstr ""
 
-#: TerminalDisplay.cpp:3144
+#: TerminalDisplay.cpp:3156
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3147
+#: TerminalDisplay.cpp:3159
 #, kde-format
 msgid "Confirm Paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3161
+#: TerminalDisplay.cpp:3173
 #, kde-format
 msgid "^C Interrupt: May abort the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3164
+#: TerminalDisplay.cpp:3176
 #, kde-format
 msgid "^D End of transmission: May exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3167
+#: TerminalDisplay.cpp:3179
 #, kde-format
 msgid "^G Bell: Will try to emit an audible warning"
 msgstr ""
 
-#: TerminalDisplay.cpp:3170
+#: TerminalDisplay.cpp:3182
 #, kde-format
 msgid "^H Backspace"
 msgstr ""
 
-#: TerminalDisplay.cpp:3173
+#: TerminalDisplay.cpp:3185
 #, kde-format
 msgid "^S Scroll lock: Locks terminal output"
 msgstr ""
 
-#: TerminalDisplay.cpp:3176
+#: TerminalDisplay.cpp:3188
 #, kde-format
 msgid "^Z Suspend: Stops current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3179
+#: TerminalDisplay.cpp:3191
 #, kde-format
 msgid "ESC: Used for special commands to the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3182
+#: TerminalDisplay.cpp:3194
 #, kde-format
 msgid "Other unprintable character (\\x%1)"
 msgstr ""
 
-#: TerminalDisplay.cpp:3192
+#: TerminalDisplay.cpp:3204
 #, kde-format
 msgid ""
 "The text you're trying to paste contains hidden unprintable characters, do "
 "you want to filter them out?"
 msgstr ""
 
-#: TerminalDisplay.cpp:3195
+#: TerminalDisplay.cpp:3207
 #, kde-format
 msgctxt "@title"
 msgid "Filter"
 msgstr ""
 
-#: TerminalDisplay.cpp:3197
+#: TerminalDisplay.cpp:3209
 #, kde-format
 msgctxt "@action:button"
 msgid "&Remove unprintable"
 msgstr ""
 
-#: TerminalDisplay.cpp:3200
+#: TerminalDisplay.cpp:3212
 #, kde-format
 msgctxt "@action:button"
 msgid "Confirm &paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3203
+#: TerminalDisplay.cpp:3215
 #, kde-format
 msgctxt "@action:button"
 msgid "&Cancel paste"
 msgstr ""
 
-#: TerminalDisplay.cpp:3430
+#: TerminalDisplay.cpp:3442
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
@@ -3426,17 +3426,17 @@ msgid ""
 "b> to resume.</qt>"
 msgstr ""
 
-#: TerminalDisplay.cpp:3468
+#: TerminalDisplay.cpp:3480
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3763
+#: TerminalDisplay.cpp:3775
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: TerminalDisplay.cpp:3795
+#: TerminalDisplay.cpp:3807
 #, kde-format
 msgid "&Paste Location"
 msgstr ""
@@ -3591,7 +3591,7 @@ msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
 msgstr ""
 
-#: Vt102Emulation.cpp:1230
+#: Vt102Emulation.cpp:1245
 #, kde-format
 msgid ""
 "No keyboard translator available.  The information needed to convert key "

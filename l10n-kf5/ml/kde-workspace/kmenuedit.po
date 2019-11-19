@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KDE Malayalam\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-10-29 03:30+0100\n"
 "PO-Revision-Date: 2008-11-21 01:36+0730\n"
 "Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
@@ -302,7 +302,7 @@ msgstr "സബ്-മെനു പ്രി(പൂര്‍വ)-തിരഞ്�
 msgid "Menu entry to pre-select"
 msgstr "മെനു എന്‍ട്രി പ്രി(പൂര്‍വ)-തിരഞ്ഞെടുക്കലിനായ്"
 
-#: menufile.cpp:102 menufile.cpp:114
+#: menufile.cpp:105 menufile.cpp:117
 #, kde-format
 msgid "Could not write to %1"
 msgstr "%1 ലേക്ക് എഴുതാന്‍ പറ്റുന്നില്ല"

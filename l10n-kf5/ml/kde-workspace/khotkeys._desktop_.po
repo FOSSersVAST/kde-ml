@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-11-13 02:49+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -47,10 +47,10 @@ msgctxt "Name"
 msgid "Search"
 msgstr "തെരച്ചില്‍"
 
-#: data/defaults.khotkeys:309 data/kde32b1.khotkeys:521
-#: data/kde32b1.khotkeys:761 data/kde32b1.khotkeys:1018
-#: data/kde32b1.khotkeys:1483 data/kde32b1.khotkeys:1899
-#: data/kde32b1.khotkeys:3307
+#: data/defaults.khotkeys:306 data/kde32b1.khotkeys:518
+#: data/kde32b1.khotkeys:756 data/kde32b1.khotkeys:1010
+#: data/kde32b1.khotkeys:1472 data/kde32b1.khotkeys:1884
+#: data/kde32b1.khotkeys:3251
 msgctxt "Comment"
 msgid "Simple_action"
 msgstr "ലഘു പ്രവൃത്തി"
@@ -263,64 +263,64 @@ msgstr ""
 "വിഷമിപ്പിക്കുന്നതാണ്.\\n\\n എല്ലാ ആംഗ്യ‌ങ്ങള്‍ക്കുമുള്ള വ്യവസ്ഥകള്‍ ഈ ഗ്രൂപ്പില്‍ നിര്‍വ്വചിച്ചിട്ടുണ്ട്. "
 "കോണ്‍ക്വറര്‍ സജീവജാലകമാണെങ്കില്‍ മാത്രമേഈ ആംഗ്യ‌ങ്ങള്‍ സജീവമാകുകയുള്ളു.(കോണ്‍ക്വറര്‍ ഉള്‍പ്പെട്ട ക്ലാസ്)."
 
-#: data/kde32b1.khotkeys:2042
+#: data/kde32b1.khotkeys:1997
 msgctxt "Name"
 msgid "Konqi Gestures"
 msgstr "കോങ്ക്വി ആംഗ്യങ്ങള്‍"
 
-#: data/kde32b1.khotkeys:2123 data/konqueror_gestures_kde321.khotkeys:168
+#: data/kde32b1.khotkeys:2077 data/konqueror_gestures_kde321.khotkeys:166
 msgctxt "Comment"
 msgid "Konqueror window"
 msgstr "കോണ്‍ക്വറിന്റെ ജാലകം"
 
-#: data/kde32b1.khotkeys:2213 data/kde32b1.khotkeys:2303
-#: data/konqueror_gestures_kde321.khotkeys:258
-#: data/konqueror_gestures_kde321.khotkeys:348
+#: data/kde32b1.khotkeys:2166 data/kde32b1.khotkeys:2255
+#: data/konqueror_gestures_kde321.khotkeys:255
+#: data/konqueror_gestures_kde321.khotkeys:344
 msgctxt "Comment"
 msgid "Konqueror"
 msgstr "കോണ്‍ക്വറര്‍"
 
-#: data/kde32b1.khotkeys:2398 data/konqueror_gestures_kde321.khotkeys:520
+#: data/kde32b1.khotkeys:2349 data/konqueror_gestures_kde321.khotkeys:514
 msgctxt "Name"
 msgid "Back"
 msgstr "പുറകോട്ടു്"
 
-#: data/kde32b1.khotkeys:2499 data/kde32b1.khotkeys:2687
-#: data/kde32b1.khotkeys:2875 data/kde32b1.khotkeys:3063
-#: data/konqueror_gestures_kde321.khotkeys:779
-#: data/konqueror_gestures_kde321.khotkeys:1026
-#: data/konqueror_gestures_kde321.khotkeys:1260
-#: data/konqueror_gestures_kde321.khotkeys:1515
-#: data/konqueror_gestures_kde321.khotkeys:1769
-#: data/konqueror_gestures_kde321.khotkeys:1858
-#: data/konqueror_gestures_kde321.khotkeys:2109
-#: data/konqueror_gestures_kde321.khotkeys:2360
-#: data/konqueror_gestures_kde321.khotkeys:2616
-#: data/konqueror_gestures_kde321.khotkeys:2872
-#: data/konqueror_gestures_kde321.khotkeys:3124
-#: data/konqueror_gestures_kde321.khotkeys:3375
-#: data/konqueror_gestures_kde321.khotkeys:3635
-#: data/konqueror_gestures_kde321.khotkeys:3891
+#: data/kde32b1.khotkeys:2450 data/kde32b1.khotkeys:2637
+#: data/kde32b1.khotkeys:2824 data/kde32b1.khotkeys:3010
+#: data/konqueror_gestures_kde321.khotkeys:772
+#: data/konqueror_gestures_kde321.khotkeys:1018
+#: data/konqueror_gestures_kde321.khotkeys:1251
+#: data/konqueror_gestures_kde321.khotkeys:1503
+#: data/konqueror_gestures_kde321.khotkeys:1754
+#: data/konqueror_gestures_kde321.khotkeys:1842
+#: data/konqueror_gestures_kde321.khotkeys:2090
+#: data/konqueror_gestures_kde321.khotkeys:2338
+#: data/konqueror_gestures_kde321.khotkeys:2592
+#: data/konqueror_gestures_kde321.khotkeys:2846
+#: data/konqueror_gestures_kde321.khotkeys:3096
+#: data/konqueror_gestures_kde321.khotkeys:3345
+#: data/konqueror_gestures_kde321.khotkeys:3602
+#: data/konqueror_gestures_kde321.khotkeys:3855
 msgctxt "Comment"
 msgid "Gesture_triggers"
 msgstr "Gesture_triggers"
 
-#: data/kde32b1.khotkeys:2586 data/konqueror_gestures_kde321.khotkeys:2515
+#: data/kde32b1.khotkeys:2536 data/konqueror_gestures_kde321.khotkeys:2491
 msgctxt "Name"
 msgid "Forward"
 msgstr "മുന്നോട്ടു്"
 
-#: data/kde32b1.khotkeys:2774 data/konqueror_gestures_kde321.khotkeys:925
+#: data/kde32b1.khotkeys:2723 data/konqueror_gestures_kde321.khotkeys:917
 msgctxt "Name"
 msgid "Up"
 msgstr "മുകളിലോട്ടു്"
 
-#: data/kde32b1.khotkeys:2962 data/konqueror_gestures_kde321.khotkeys:3790
+#: data/kde32b1.khotkeys:2910 data/konqueror_gestures_kde321.khotkeys:3755
 msgctxt "Name"
 msgid "Reload"
 msgstr "പുതുക്കുക"
 
-#: data/kde32b1.khotkeys:3148
+#: data/kde32b1.khotkeys:3094
 msgctxt "Comment"
 msgid ""
 "After pressing Win+E (Tux+E) a WWW browser will be launched, and it will "
@@ -331,7 +331,7 @@ msgstr ""
 "പ്രത്യക്ഷപെടും.നിങ്ങള്‍ക്ക് മിനിസിഎല്‍ഐ (Alt+F2) ഉപയോഗിച്ച് പ്രവര്‍ത്തിപ്പിയ്ക്കാവുന്ന എല്ലാ തരം "
 "ആജ്ഞകളും പ്രവര്‍ത്തിപ്പിയ്ക്കാവുന്നതാണു്."
 
-#: data/kde32b1.khotkeys:3212
+#: data/kde32b1.khotkeys:3157
 msgctxt "Name"
 msgid "Go to KDE Website"
 msgstr "കെഡിഇ വെബ്സൈറ്റിലേക്കു് പോകുക"

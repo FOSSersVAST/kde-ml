@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-25 02:26+0200\n"
+"POT-Creation-Date: 2019-10-21 02:26+0200\n"
 "PO-Revision-Date: 2019-03-19 02:56+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -291,7 +291,7 @@ msgid_plural "<b><i>%1 matches (%4) found in project %2 (%3)</i></b>"
 msgstr[0] ""
 msgstr[1] ""
 
-#: plugin_search.cpp:1680
+#: plugin_search.cpp:1679
 #, kde-format
 msgid ""
 "<b><i>One match (%3) found in all open projects (common parent: %2)</i></b>"
@@ -300,62 +300,62 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: plugin_search.cpp:1805
+#: plugin_search.cpp:1804
 #, kde-format
 msgid "Starting from first match"
 msgstr ""
 
-#: plugin_search.cpp:1814
+#: plugin_search.cpp:1813
 #, kde-format
 msgid "Next from cursor"
 msgstr ""
 
-#: plugin_search.cpp:1823
+#: plugin_search.cpp:1822
 #, kde-format
 msgid "Continuing from first match"
 msgstr ""
 
-#: plugin_search.cpp:1916
+#: plugin_search.cpp:1915
 #, kde-format
 msgid "Continuing from last match"
 msgstr ""
 
-#: plugin_search.cpp:2167 plugin_search.cpp:2187
+#: plugin_search.cpp:2166 plugin_search.cpp:2186
 #, kde-format
 msgid "Add..."
 msgstr ""
 
-#: plugin_search.cpp:2235
+#: plugin_search.cpp:2234
 #, kde-format
 msgid "In Current Project"
 msgstr ""
 
-#: plugin_search.cpp:2243
+#: plugin_search.cpp:2242
 #, kde-format
 msgid "In All Open Projects"
 msgstr ""
 
-#: plugin_search.cpp:2303
+#: plugin_search.cpp:2302
 #, kde-format
 msgid "Usage: grep [pattern to search for in folder]"
 msgstr ""
 
-#: plugin_search.cpp:2305
+#: plugin_search.cpp:2304
 #, kde-format
 msgid "Usage: newGrep [pattern to search for in folder]"
 msgstr ""
 
-#: plugin_search.cpp:2309 plugin_search.cpp:2311
+#: plugin_search.cpp:2308 plugin_search.cpp:2310
 #, kde-format
 msgid "Usage: search [pattern to search for in open files]"
 msgstr ""
 
-#: plugin_search.cpp:2315
+#: plugin_search.cpp:2314
 #, kde-format
 msgid "Usage: pgrep [pattern to search for in current project]"
 msgstr ""
 
-#: plugin_search.cpp:2317
+#: plugin_search.cpp:2316
 #, kde-format
 msgid "Usage: newPGrep [pattern to search for in current project]"
 msgstr ""

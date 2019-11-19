@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-28 01:31+0000\n"
+"POT-Creation-Date: 2019-11-11 02:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -26,22 +26,22 @@ msgctxt "Name"
 msgid "Connections"
 msgstr ""
 
-#: kcm/kcm_networkmanagement.desktop:53
+#: kcm/kcm_networkmanagement.desktop:54
 msgctxt "Comment"
 msgid "Edit your Network Connections"
 msgstr ""
 
-#: kcm/kcm_networkmanagement.desktop:94
+#: kcm/kcm_networkmanagement.desktop:96
 msgctxt "X-KDE-Keywords"
 msgid "network,wifi,ethernet,mobile,broadband,vpn,internet,traffic"
 msgstr ""
 
 #: kded/networkmanagement.desktop:2
 msgctxt "Name"
-msgid "Plasma Networkmanagement module"
+msgid "Plasma Network Management module"
 msgstr ""
 
-#: kded/networkmanagement.desktop:48
+#: kded/networkmanagement.desktop:25
 msgctxt "Comment"
 msgid "Provides secrets to the NetworkManager daemon"
 msgstr ""
@@ -51,82 +51,82 @@ msgctxt "Name"
 msgid "Network management"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:49
+#: kded/networkmanagement.notifyrc:50
 msgctxt "Comment"
 msgid "Network management"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:97
+#: kded/networkmanagement.notifyrc:99
 msgctxt "Name"
 msgid "Connection activated"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:148
+#: kded/networkmanagement.notifyrc:150
 msgctxt "Name"
 msgid "Connection deactivated"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:199
+#: kded/networkmanagement.notifyrc:201
 msgctxt "Name"
 msgid "Connection added"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:249
+#: kded/networkmanagement.notifyrc:251
 msgctxt "Name"
 msgid "Connection removed"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:299
+#: kded/networkmanagement.notifyrc:301
 msgctxt "Name"
 msgid "Connection updated"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:349
+#: kded/networkmanagement.notifyrc:351
 msgctxt "Name"
 msgid "Device failed"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:398
+#: kded/networkmanagement.notifyrc:400
 msgctxt "Name"
 msgid "Failed to activate connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:448
+#: kded/networkmanagement.notifyrc:450
 msgctxt "Name"
 msgid "Failed to add connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:498
+#: kded/networkmanagement.notifyrc:500
 msgctxt "Name"
 msgid "Failed to deactivate connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:548
+#: kded/networkmanagement.notifyrc:550
 msgctxt "Name"
 msgid "Failed to remove connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:598
+#: kded/networkmanagement.notifyrc:600
 msgctxt "Name"
 msgid "Failed to get secrets"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:648
+#: kded/networkmanagement.notifyrc:650
 msgctxt "Name"
 msgid "Failed to update connection"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:698
+#: kded/networkmanagement.notifyrc:700
 msgctxt "Name"
 msgid "Missing VPN plugin"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:748
+#: kded/networkmanagement.notifyrc:750
 msgctxt "Name"
 msgid "No longer connected to a network"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:792
+#: kded/networkmanagement.notifyrc:794
 msgctxt "Name"
 msgid "Captive portal detected"
 msgstr ""
@@ -146,13 +146,13 @@ msgctxt "Name"
 msgid "Mobile broadband"
 msgstr ""
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:31
-#: mobile/broadband/package/metadata.desktop:31
+#: mobile/broadband/mobilebroadbandsettings.desktop:32
+#: mobile/broadband/package/metadata.desktop:32
 msgctxt "Comment"
 msgid "Mobile broadband setting"
 msgstr ""
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:72
+#: mobile/broadband/mobilebroadbandsettings.desktop:74
 msgctxt "X-KDE-Keywords"
 msgid "mobile,data,network"
 msgstr ""
@@ -167,12 +167,12 @@ msgctxt "Name"
 msgid "Wi-Fi"
 msgstr ""
 
-#: mobile/wifi/package/metadata.desktop:32 mobile/wifi/wifisettings.desktop:32
+#: mobile/wifi/package/metadata.desktop:33 mobile/wifi/wifisettings.desktop:33
 msgctxt "Comment"
 msgid "Wireless network setting"
 msgstr ""
 
-#: mobile/wifi/wifisettings.desktop:74
+#: mobile/wifi/wifisettings.desktop:76
 msgctxt "X-KDE-Keywords"
 msgid "wifi,network"
 msgstr ""
@@ -182,7 +182,7 @@ msgctxt "Name"
 msgid "Fortinet SSLVPN (fortisslvpn)"
 msgstr ""
 
-#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:52
+#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:54
 msgctxt "Comment"
 msgid "Fortinet SSLVPN virtual private networks"
 msgstr ""
@@ -192,7 +192,7 @@ msgctxt "Name"
 msgid "Iodine DNS tunnel (iodine)"
 msgstr ""
 
-#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:52
+#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:53
 msgctxt "Comment"
 msgid "Tunnel connections via DNS"
 msgstr ""
@@ -212,7 +212,7 @@ msgctxt "Name"
 msgid "PAN Global Protect (openconnect)"
 msgstr ""
 
-#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:44
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:45
 msgctxt "Comment"
 msgid "Compatible with PAN GlobalProtect SSL VPN"
 msgstr ""
@@ -222,7 +222,7 @@ msgctxt "Name"
 msgid "Juniper SSL VPN / Pulse Connect Secure (openconnect)"
 msgstr ""
 
-#: vpn/openconnect/plasmanetworkmanagement_openconnect_juniperui.desktop:53
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_juniperui.desktop:54
 msgctxt "Comment"
 msgid "Compatible with Juniper SSL VPN and Pulse Connect Secure"
 msgstr ""

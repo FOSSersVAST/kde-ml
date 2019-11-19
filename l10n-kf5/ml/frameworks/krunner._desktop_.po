@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2019-11-02 02:38+0000\n"
 "PO-Revision-Date: 2019-05-20 01:32+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -22,7 +22,7 @@ msgctxt "Name"
 msgid "C++"
 msgstr ""
 
-#: templates/runner/runner.kdevtemplate:42
+#: templates/runner/runner.kdevtemplate:44
 msgctxt "Comment"
 msgid "Plasma Runner Template. A plasma runner template"
 msgstr ""

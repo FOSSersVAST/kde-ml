@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-11-01 02:36+0000\n"
 "PO-Revision-Date: 2018-10-24 02:07+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -54,7 +54,12 @@ msgctxt "Name"
 msgid "Plasma Engine Explorer"
 msgstr ""
 
-#: engineexplorer/org.kde.plasmaengineexplorer.desktop:30
+#: engineexplorer/org.kde.plasmaengineexplorer.desktop:32
+msgctxt "GenericName"
+msgid "Plasma Data Engines Viewing Tool"
+msgstr ""
+
+#: engineexplorer/org.kde.plasmaengineexplorer.desktop:59
 msgctxt "Comment"
 msgid "Explorer for the data published by Plasma DataEngines"
 msgstr ""
@@ -74,7 +79,12 @@ msgctxt "Name"
 msgid "Plasmoidviewer"
 msgstr ""
 
-#: plasmoidviewer/org.kde.plasmoidviewer.desktop:31
+#: plasmoidviewer/org.kde.plasmoidviewer.desktop:33
+msgctxt "GenericName"
+msgid "Plasma Widget Testing Tool"
+msgstr ""
+
+#: plasmoidviewer/org.kde.plasmoidviewer.desktop:61
 msgctxt "Comment"
 msgid "Testing tool for Plasma applets"
 msgstr ""

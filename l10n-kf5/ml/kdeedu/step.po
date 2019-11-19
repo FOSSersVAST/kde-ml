@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: step\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:03+0200\n"
+"POT-Creation-Date: 2019-11-12 03:04+0100\n"
 "PO-Revision-Date: 2008-07-22 21:36+0530\n"
 "Last-Translator: Sankaranaarayanan.N.M <snalledam@dataone.in>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -446,7 +446,7 @@ msgstr "%1-നുള്ള വിവരണക്കുറിപ്പു് ല�
 #: step/infobrowser.cc:186
 #, fuzzy, kde-format
 msgid ""
-"You can help <a href=\"http://edu.kde.org/step\">Step</a> by writing it!"
+"You can help <a href=\"https://edu.kde.org/step\">Step</a> by writing it!"
 msgstr ""
 "<a href=\"http;//edu.kde.org/step\">നിര്‍ദ്ദേശങ്ങള്‍ക്കു്</a> വിവരണമെഴുതി നിങ്ങള്‍ക്കും "
 "സഹായിക്കാം!"
@@ -558,7 +558,7 @@ msgstr "(c) 2007 വ്ളാദിമര്‍ കുഷ്നെറ്റ്�
 
 #: step/main.cc:59
 #, kde-format
-msgid "http://edu.kde.org/step"
+msgid "https://edu.kde.org/step"
 msgstr ""
 
 #: step/main.cc:64

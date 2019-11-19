@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-17 03:24+0200\n"
+"POT-Creation-Date: 2019-10-31 03:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -27,42 +27,42 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: kcm.cpp:65
+#: kcm.cpp:60
 #, kde-format
 msgid "Plasma Style"
 msgstr ""
 
-#: kcm.cpp:67
+#: kcm.cpp:62
 #, kde-format
 msgid "David Rosca"
 msgstr ""
 
-#: kcm.cpp:129
+#: kcm.cpp:126
 #, kde-format
 msgid "Download New Plasma Styles"
 msgstr ""
 
-#: kcm.cpp:155
+#: kcm.cpp:152
 #, kde-format
 msgid "Unable to create a temporary file."
 msgstr ""
 
-#: kcm.cpp:167
+#: kcm.cpp:164
 #, kde-format
 msgid "Unable to download the theme: %1"
 msgstr ""
 
-#: kcm.cpp:190
+#: kcm.cpp:187
 #, kde-format
 msgid "Theme installed successfully."
 msgstr ""
 
-#: kcm.cpp:193 kcm.cpp:201
+#: kcm.cpp:190 kcm.cpp:198
 #, kde-format
 msgid "Theme installation failed."
 msgstr ""
 
-#: kcm.cpp:345
+#: kcm.cpp:341
 #, kde-format
 msgid "Removing theme failed: %1"
 msgstr ""

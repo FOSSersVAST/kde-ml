@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-21 02:31+0200\n"
+"POT-Creation-Date: 2019-11-04 02:30+0100\n"
 "PO-Revision-Date: 2019-01-11 02:54+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -28,7 +28,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: src/settings/webenginesettings.cpp:890
+#: src/settings/webenginesettings.cpp:904
 #, kde-format
 msgid "Filter error"
 msgstr ""
@@ -276,31 +276,31 @@ msgstr ""
 msgid "Attachment Removed"
 msgstr ""
 
-#: src/webenginepage.cpp:788
+#: src/webenginepage.cpp:790
 #, kde-format
 msgid ""
 "This site is requesting to open a new popup window.\n"
 "Do you want to allow this?"
 msgstr ""
 
-#: src/webenginepage.cpp:790
+#: src/webenginepage.cpp:792
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open a popup window to<p>%1</p><br/>Do you "
 "want to allow this?</qt>"
 msgstr ""
 
-#: src/webenginepage.cpp:794
+#: src/webenginepage.cpp:796
 #, kde-format
 msgid "Javascript Popup Confirmation"
 msgstr ""
 
-#: src/webenginepage.cpp:795
+#: src/webenginepage.cpp:797
 #, kde-format
 msgid "Allow"
 msgstr ""
 
-#: src/webenginepage.cpp:796
+#: src/webenginepage.cpp:798
 #, kde-format
 msgid "Do Not Allow"
 msgstr ""
