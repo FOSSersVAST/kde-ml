@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkio trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-17 02:44+0100\n"
+"POT-Creation-Date: 2019-11-20 02:48+0100\n"
 "PO-Revision-Date: 2008-07-10 11:17+0530\n"
 "Last-Translator: Manu S Madhav | മനു എസ് മാധവ് <manusmad@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -2259,17 +2259,17 @@ msgstr ""
 msgid "Can not find io-slave for protocol '%1'."
 msgstr ""
 
-#: core/slave.cpp:518
+#: core/slave.cpp:524
 #, kde-format
 msgid "Can not find 'kioslave' executable at '%1'"
 msgstr ""
 
-#: core/slave.cpp:534
+#: core/slave.cpp:540
 #, kde-format
 msgid "Cannot talk to klauncher: %1"
 msgstr ""
 
-#: core/slave.cpp:541
+#: core/slave.cpp:547
 #, kde-format
 msgid "klauncher said: %1"
 msgstr ""

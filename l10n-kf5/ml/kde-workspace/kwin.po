@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-15 03:34+0100\n"
+"POT-Creation-Date: 2019-11-19 03:36+0100\n"
 "PO-Revision-Date: 2008-07-08 18:58+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -1643,62 +1643,62 @@ msgctxt "Special entry in alt+tab list for minimizing all windows"
 msgid "Show Desktop"
 msgstr "പണിയിടം ഗ്രിഡ് കാണിക്കുക"
 
-#: tabbox/tabbox.cpp:541
+#: tabbox/tabbox.cpp:536
 #, kde-format
 msgid "Walk Through Windows"
 msgstr ""
 
-#: tabbox/tabbox.cpp:542
+#: tabbox/tabbox.cpp:537
 #, kde-format
 msgid "Walk Through Windows (Reverse)"
 msgstr ""
 
-#: tabbox/tabbox.cpp:543
+#: tabbox/tabbox.cpp:538
 #, kde-format
 msgid "Walk Through Windows Alternative"
 msgstr ""
 
-#: tabbox/tabbox.cpp:544
+#: tabbox/tabbox.cpp:539
 #, kde-format
 msgid "Walk Through Windows Alternative (Reverse)"
 msgstr ""
 
-#: tabbox/tabbox.cpp:545
+#: tabbox/tabbox.cpp:540
 #, kde-format
 msgid "Walk Through Windows of Current Application"
 msgstr ""
 
-#: tabbox/tabbox.cpp:546
+#: tabbox/tabbox.cpp:541
 #, kde-format
 msgid "Walk Through Windows of Current Application (Reverse)"
 msgstr ""
 
-#: tabbox/tabbox.cpp:547
+#: tabbox/tabbox.cpp:542
 #, kde-format
 msgid "Walk Through Windows of Current Application Alternative"
 msgstr ""
 
-#: tabbox/tabbox.cpp:548
+#: tabbox/tabbox.cpp:543
 #, kde-format
 msgid "Walk Through Windows of Current Application Alternative (Reverse)"
 msgstr ""
 
-#: tabbox/tabbox.cpp:549
+#: tabbox/tabbox.cpp:544
 #, kde-format
 msgid "Walk Through Desktops"
 msgstr ""
 
-#: tabbox/tabbox.cpp:550
+#: tabbox/tabbox.cpp:545
 #, kde-format
 msgid "Walk Through Desktops (Reverse)"
 msgstr ""
 
-#: tabbox/tabbox.cpp:551
+#: tabbox/tabbox.cpp:546
 #, kde-format
 msgid "Walk Through Desktop List"
 msgstr ""
 
-#: tabbox/tabbox.cpp:552
+#: tabbox/tabbox.cpp:547
 #, kde-format
 msgid "Walk Through Desktop List (Reverse)"
 msgstr ""

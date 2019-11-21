@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeclarative\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-31 02:45+0100\n"
+"POT-Creation-Date: 2019-11-20 02:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -97,12 +97,12 @@ msgstr ""
 msgid "Unsupported Key"
 msgstr ""
 
-#: quickaddons/configmodule.cpp:175
+#: quickaddons/configmodule.cpp:176
 #, kde-format
 msgid "Invalid KPackage"
 msgstr ""
 
-#: quickaddons/configmodule.cpp:181
+#: quickaddons/configmodule.cpp:182
 #, kde-format
 msgid "No QML file provided"
 msgstr ""

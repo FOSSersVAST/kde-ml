@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-08 03:30+0100\n"
+"POT-Creation-Date: 2019-11-20 03:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -18,24 +18,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: discover/DiscoverObject.cpp:161
+#: discover/DiscoverObject.cpp:164
 #, kde-format
 msgid "No application back-ends found, please report to your distribution."
 msgstr ""
 
-#: discover/DiscoverObject.cpp:232
+#: discover/DiscoverObject.cpp:235
 #, kde-format
 msgid "Could not find category '%1'"
 msgstr ""
 
-#: discover/DiscoverObject.cpp:267
+#: discover/DiscoverObject.cpp:270
 #, kde-format
 msgid ""
 "Cannot interact with flatpak resources without the flatpak backend %1. "
 "Please install it first."
 msgstr ""
 
-#: discover/DiscoverObject.cpp:270 discover/DiscoverObject.cpp:298
+#: discover/DiscoverObject.cpp:273 discover/DiscoverObject.cpp:301
 #, kde-format
 msgid "Couldn't open %1"
 msgstr ""
@@ -132,7 +132,7 @@ msgstr ""
 msgid "Available backends:\n"
 msgstr ""
 
-#: discover/main.cpp:151
+#: discover/main.cpp:157
 #, kde-format
 msgid "Available modes:\n"
 msgstr ""
@@ -717,64 +717,64 @@ msgstr[1] ""
 msgid "Restart"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:257
+#: discover/qml/UpdatesPage.qml:256
 #, kde-format
 msgid "%1"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:270
+#: discover/qml/UpdatesPage.qml:269
 #, kde-format
 msgid "Update to version %1"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:280
+#: discover/qml/UpdatesPage.qml:279
 #, kde-format
 msgctxt "Do not translate or alter \\x9"
 msgid "%1 → %2%1 → %2%2"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:293
+#: discover/qml/UpdatesPage.qml:292
 #, kde-format
 msgid "Installing"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:324
+#: discover/qml/UpdatesPage.qml:323
 #, kde-format
 msgid "More Information..."
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:352
+#: discover/qml/UpdatesPage.qml:351
 #, kde-format
 msgctxt "@info"
 msgid "Fetching Updates..."
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:364
+#: discover/qml/UpdatesPage.qml:363
 #, kde-format
 msgctxt "@info"
 msgid "Updates"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:370
+#: discover/qml/UpdatesPage.qml:369
 #, kde-format
 msgctxt "@info"
 msgid "The system requires a restart to apply updates"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:374 discover/qml/UpdatesPage.qml:379
-#: discover/qml/UpdatesPage.qml:384
+#: discover/qml/UpdatesPage.qml:373 discover/qml/UpdatesPage.qml:378
+#: discover/qml/UpdatesPage.qml:383
 #, kde-format
 msgctxt "@info"
 msgid "Up to Date"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:389
+#: discover/qml/UpdatesPage.qml:388
 #, kde-format
 msgctxt "@info"
 msgid "Should check for updates"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:394
+#: discover/qml/UpdatesPage.qml:393
 #, kde-format
 msgctxt "@info"
 msgid "It is unknown when the last check for updates was"
