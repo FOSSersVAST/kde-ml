@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-18 02:31+0000\n"
+"POT-Creation-Date: 2019-11-24 02:36+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -373,7 +373,7 @@ msgctxt "Name"
 msgid "Search"
 msgstr "ഫയല്‍ വഴി"
 
-#: kcms/baloo/package/metadata.desktop:26
+#: kcms/baloo/package/metadata.desktop:27
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure the File Indexer"
@@ -957,14 +957,14 @@ msgctxt "Name"
 msgid "Look and Feel"
 msgstr ""
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:44
-#: kcms/lookandfeel/package/metadata.desktop:32
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:45
+#: kcms/lookandfeel/package/metadata.desktop:33
 #, fuzzy
 msgctxt "Comment"
 msgid "Choose Look and Feel theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:73
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:74
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr ""
@@ -1088,7 +1088,7 @@ msgstr "തരം"
 #: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:868
 #: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:655
 #: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:147
-#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:284
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:285
 #: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:146
 #: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:364
 #: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:437
@@ -1250,7 +1250,7 @@ msgctxt "Name"
 msgid "Max Speed"
 msgstr "കൂടിയ വേഗം"
 
-#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:211
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:212
 msgctxt "Name"
 msgid "Number"
 msgstr "അക്കം"

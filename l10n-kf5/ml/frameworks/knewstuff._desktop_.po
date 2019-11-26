@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-20 02:43+0000\n"
+"POT-Creation-Date: 2019-11-23 02:40+0000\n"
 "PO-Revision-Date: 2019-05-20 01:32+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -42,12 +42,12 @@ msgctxt "Name"
 msgid "OBS Studio"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:20
+#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:22
 msgctxt "GenericName"
 msgid "Streaming/Recording Software"
 msgstr ""
 
-#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:38
+#: data/kmoretools-desktopfiles/com.obsproject.Studio.desktop:42
 msgctxt "Comment"
 msgid "Free and Open Source Streaming/Recording Software"
 msgstr ""

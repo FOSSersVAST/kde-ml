@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-15 03:36+0100\n"
+"POT-Creation-Date: 2019-11-26 03:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -34,7 +34,7 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:193 contents/lockscreen/LockScreenUi.qml:237
+#: ../sddm-theme/Main.qml:193 contents/lockscreen/LockScreenUi.qml:248
 msgid "Caps Lock is on"
 msgstr ""
 
@@ -67,7 +67,7 @@ msgstr ""
 msgid "List Users"
 msgstr ""
 
-#: ../sddm-theme/Main.qml:471 contents/lockscreen/LockScreenUi.qml:502
+#: ../sddm-theme/Main.qml:471 contents/lockscreen/LockScreenUi.qml:513
 msgctxt "Button to show/hide virtual keyboard"
 msgid "Virtual Keyboard"
 msgstr ""
@@ -135,19 +135,19 @@ msgstr ""
 msgid "Unlocking failed"
 msgstr ""
 
-#: contents/lockscreen/LockScreenUi.qml:253
+#: contents/lockscreen/LockScreenUi.qml:264
 msgid "Switch User"
 msgstr ""
 
-#: contents/lockscreen/LockScreenUi.qml:450
+#: contents/lockscreen/LockScreenUi.qml:461
 msgid "Switch to This Session"
 msgstr ""
 
-#: contents/lockscreen/LockScreenUi.qml:458
+#: contents/lockscreen/LockScreenUi.qml:469
 msgid "Start New Session"
 msgstr ""
 
-#: contents/lockscreen/LockScreenUi.qml:471
+#: contents/lockscreen/LockScreenUi.qml:482
 msgid "Back"
 msgstr ""
 
@@ -159,15 +159,15 @@ msgstr ""
 msgid "No media playing"
 msgstr ""
 
-#: contents/lockscreen/MediaControls.qml:141
+#: contents/lockscreen/MediaControls.qml:143
 msgid "Previous track"
 msgstr ""
 
-#: contents/lockscreen/MediaControls.qml:149
+#: contents/lockscreen/MediaControls.qml:151
 msgid "Play or Pause media"
 msgstr ""
 
-#: contents/lockscreen/MediaControls.qml:157
+#: contents/lockscreen/MediaControls.qml:159
 msgid "Next track"
 msgstr ""
 

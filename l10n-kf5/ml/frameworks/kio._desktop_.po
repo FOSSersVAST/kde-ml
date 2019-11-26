@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-02 02:38+0000\n"
+"POT-Creation-Date: 2019-11-24 02:35+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -475,7 +475,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "കൂട..."
 
-#: src/new_file_templates/Directory.desktop:85
+#: src/new_file_templates/Directory.desktop:86
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr "അറയുടെ പേരു്:"
@@ -485,7 +485,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr "എച്ച്ടിഎംഎല്‍ ഫയല്‍..."
 
-#: src/new_file_templates/HTMLFile.desktop:85
+#: src/new_file_templates/HTMLFile.desktop:86
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr "എച്ച്‌ടിഎംഎല്‍ ഫയലിന്റെ പേരു്:"
@@ -495,7 +495,7 @@ msgctxt "Name"
 msgid "Basic link to file or directory..."
 msgstr "ഫയല്‍, തട്ടു് മുതലായവയിലേക്കുള്ള ലളിതമായ ലിങ്ക്"
 
-#: src/new_file_templates/linkPath.desktop:63
+#: src/new_file_templates/linkPath.desktop:64
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr "ഫയല്‍ അല്ലെങ്കില്‍‍ തട്ടിലേയ്ക്കുള്ള വഴി നല്‍കുക:"
@@ -505,7 +505,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "പ്രയോഗത്തിലേക്കുള്ള കണ്ണി..."
 
-#: src/new_file_templates/linkProgram.desktop:80
+#: src/new_file_templates/linkProgram.desktop:81
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "പുതിയ പ്രയോഗത്തിലേക്കുള്ള കണ്ണി..."
@@ -515,7 +515,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr "സ്ഥലത്തിലേയ്ക്കുള്ള (യുആര്‍എല്‍) കണ്ണി..."
 
-#: src/new_file_templates/linkURL.desktop:84
+#: src/new_file_templates/linkURL.desktop:85
 msgctxt "Comment"
 msgid "Enter link to location (URL):"
 msgstr "പുതിയ സ്ഥലത്തിലേയ്ക്കുള്ള (യുആര്‍എല്‍) കണ്ണി..."
@@ -525,7 +525,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "പദാവലി ഫയല്‍..."
 
-#: src/new_file_templates/TextFile.desktop:84
+#: src/new_file_templates/TextFile.desktop:85
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr "രചനയുടെ പേരു്:"

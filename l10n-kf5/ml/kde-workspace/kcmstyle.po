@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmstyle\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-01 03:28+0100\n"
+"POT-Creation-Date: 2019-11-26 03:33+0100\n"
 "PO-Revision-Date: 2008-07-10 01:54+0530\n"
 "Last-Translator: ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -29,7 +29,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "peter.ani@gmail.com"
 
-#: kcmstyle.cpp:88
+#: kcmstyle.cpp:89
 #, kde-format
 msgid ""
 "This module allows you to modify the visual appearance of applications' user "
@@ -41,33 +41,33 @@ msgstr ""
 msgid "Application Style"
 msgstr ""
 
-#: kcmstyle.cpp:90
+#: kcmstyle.cpp:91
 #, fuzzy, kde-format
 #| msgid "(c) 2002 Karol Szwed, Daniel Molkentin"
 msgid "(c) 2002 Karol Szwed, Daniel Molkentin, (c) 2019 Kai Uwe Broulik"
 msgstr "(c) 2002 കാരള്‍ സ്വെഡ്, ഡാനിയല്‍ മോല്‍ക്കെന്‍ടിന്‍"
 
-#: kcmstyle.cpp:92
+#: kcmstyle.cpp:93
 #, kde-format
 msgid "Karol Szwed"
 msgstr "കാരള്‍ സ്വെഡ്"
 
-#: kcmstyle.cpp:93
+#: kcmstyle.cpp:94
 #, kde-format
 msgid "Daniel Molkentin"
 msgstr "ഡാനിയല്‍ മോല്‍ക്കെന്‍ടിന്‍"
 
-#: kcmstyle.cpp:94
+#: kcmstyle.cpp:95
 #, kde-format
 msgid "Preview"
 msgstr "കണ്ടുനോക്കുക"
 
-#: kcmstyle.cpp:169 kcmstyle.cpp:176
+#: kcmstyle.cpp:172 kcmstyle.cpp:179
 #, kde-format
 msgid "There was an error loading the configuration dialog for this style."
 msgstr "ഈ രിതിയ്ക്കുള്ള ക്രമീകരണ ഡയലോഗ് ലഭ്യമാക്കുന്നതില്‍ പിശകു്."
 
-#: kcmstyle.cpp:258
+#: kcmstyle.cpp:255
 #, kde-format
 msgid "Unable to Load Dialog"
 msgstr "ഡയലോഗ് ലഭ്യമാക്കുവാന്‍ സാധ്യമല്ല"

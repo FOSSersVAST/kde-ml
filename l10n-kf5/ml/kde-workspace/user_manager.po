@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: user-manager\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:27+0200\n"
+"POT-Creation-Date: 2019-11-23 03:33+0100\n"
 "PO-Revision-Date: 2018-08-16 09:16+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -73,48 +73,60 @@ msgstr ""
 msgid "MyPassword"
 msgstr ""
 
-#: src/accountinfo.cpp:66
+#: src/accountinfo.cpp:65
 #, kde-format
 msgid "Choose from Gallery..."
 msgstr ""
 
-#: src/accountinfo.cpp:70
+#: src/accountinfo.cpp:69
 #, kde-format
 msgid "Load from file..."
 msgstr ""
 
-#: src/accountinfo.cpp:74
+#: src/accountinfo.cpp:73
 #, kde-format
 msgid "Clear Avatar"
 msgstr ""
 
-#: src/accountinfo.cpp:301
+#: src/accountinfo.cpp:122
+#, kde-format
+msgctxt "@label:button"
+msgid "Change Password"
+msgstr ""
+
+#: src/accountinfo.cpp:125
+#, kde-format
+msgctxt "@label:button"
+msgid "Set Password"
+msgstr ""
+
+#: src/accountinfo.cpp:294
 #, kde-format
 msgid "This username is already used"
 msgstr ""
 
-#: src/accountinfo.cpp:311
+#: src/accountinfo.cpp:304
 #, kde-format
 msgid "The username must start with a letter"
 msgstr ""
 
-#: src/accountinfo.cpp:329
+#: src/accountinfo.cpp:322
 #, kde-format
 msgid ""
 "The username can contain only letters, numbers, score, underscore and dot"
 msgstr ""
 
-#: src/accountinfo.cpp:343
+#: src/accountinfo.cpp:336
 #, kde-format
 msgid "The username is too long"
 msgstr ""
 
-#: src/accountinfo.cpp:381
+#: src/accountinfo.cpp:374
 #, kde-format
 msgid "This e-mail address is incorrect"
 msgstr ""
 
-#: src/accountinfo.cpp:426
+#: src/accountinfo.cpp:420
 #, kde-format
 msgctxt "@title:window"
 msgid "Choose Image"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kiten\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-13 03:03+0100\n"
+"POT-Creation-Date: 2019-11-22 02:58+0100\n"
 "PO-Revision-Date: 2018-12-13 03:12+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -214,66 +214,66 @@ msgid ""
 "%1"
 msgstr ""
 
-#: app/kiten.cpp:187
+#: app/kiten.cpp:186
 #, kde-format
 msgid "Radical Selector"
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, KanjiBrowserView)
-#: app/kiten.cpp:193 kanjibrowser/kanjibrowserview.ui:26
+#: app/kiten.cpp:192 kanjibrowser/kanjibrowserview.ui:26
 #, kde-format
 msgid "Kanji Browser"
 msgstr ""
 
 #. i18n: ectx: Menu (search)
-#: app/kiten.cpp:201 app/kitenui.rc:15
+#: app/kiten.cpp:200 app/kitenui.rc:15
 #, kde-format
 msgid "S&earch"
 msgstr ""
 
-#: app/kiten.cpp:219
+#: app/kiten.cpp:218
 #, kde-format
 msgid "&Automatically Search Clipboard Selections"
 msgstr ""
 
-#: app/kiten.cpp:222
+#: app/kiten.cpp:221
 #, kde-format
 msgid "Search &in Results"
 msgstr ""
 
-#: app/kiten.cpp:231
+#: app/kiten.cpp:230
 #, kde-format
 msgid "Focus result view"
 msgstr ""
 
-#: app/kiten.cpp:261
+#: app/kiten.cpp:260
 #, kde-format
 msgid "Export List"
 msgstr ""
 
-#: app/kiten.cpp:292
+#: app/kiten.cpp:291
 #, kde-format
 msgid "Initializing Dictionaries"
 msgstr ""
 
-#: app/kiten.cpp:307
+#: app/kiten.cpp:306
 #, kde-format
 msgid "Welcome to Kiten"
 msgstr ""
 
-#: app/kiten.cpp:409 app/kiten.cpp:473
+#: app/kiten.cpp:408 app/kiten.cpp:472
 #, kde-format
 msgid "Searching..."
 msgstr ""
 
-#: app/kiten.cpp:494
+#: app/kiten.cpp:493
 #, kde-format
 msgid "Found 1 result"
 msgid_plural "Found %1 results"
 msgstr[0] ""
 msgstr[1] ""
 
-#: app/kiten.cpp:498
+#: app/kiten.cpp:497
 #, kde-format
 msgid "No results found"
 msgstr ""

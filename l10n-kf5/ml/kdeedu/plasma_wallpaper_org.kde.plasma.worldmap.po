@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: marble\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:03+0200\n"
+"POT-Creation-Date: 2019-11-24 03:00+0100\n"
 "PO-Revision-Date: 2018-08-16 09:07+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -18,43 +18,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. i18nd, as textdomain otherwise would be defined by config containment
-#: contents/ui/config.qml:50
+#: contents/ui/config.qml:34
 #, kde-format
 msgid "Projection:"
 msgstr ""
 
-#: contents/ui/config.qml:55
+#: contents/ui/config.qml:36
 #, kde-format
 msgid "Equirectangular"
 msgstr ""
 
-#: contents/ui/config.qml:56
+#: contents/ui/config.qml:37
 #, kde-format
 msgid "Mercator"
 msgstr ""
 
-#: contents/ui/config.qml:76
+#: contents/ui/config.qml:49
 #, kde-format
 msgid "Center on:"
 msgstr ""
 
-#: contents/ui/config.qml:82
+#: contents/ui/config.qml:51
 #, kde-format
 msgid "Daylight"
 msgstr ""
 
-#: contents/ui/config.qml:83
+#: contents/ui/config.qml:52
 #, kde-format
 msgid "Longitude"
 msgstr ""
 
-#: contents/ui/config.qml:84
+#: contents/ui/config.qml:53
 #, kde-format
 msgid "Location"
 msgstr ""
 
-#: contents/ui/config.qml:106
+#: contents/ui/config.qml:65
 #, kde-format
 msgid "Longitude:"
 msgstr ""

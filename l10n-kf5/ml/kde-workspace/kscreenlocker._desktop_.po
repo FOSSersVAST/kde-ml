@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-14 02:43+0000\n"
+"POT-Creation-Date: 2019-11-24 02:36+0000\n"
 "PO-Revision-Date: 2018-10-21 02:00+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -35,7 +35,7 @@ msgctxt "Comment"
 msgid "Configure Screen Locking"
 msgstr ""
 
-#: kcm/screenlocker.desktop:84
+#: kcm/screenlocker.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid "lock,resume, screensaver, screenlock"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-18 02:24+0100\n"
+"POT-Creation-Date: 2019-11-24 02:29+0100\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -34,37 +34,37 @@ msgstr ""
 "abrahamraji99@gmail.com,mujeebcpy@gmail.com,arpapps843@gmail.com,"
 "lakshmisunil12@gmail.com,aathira1042k@gmail.com"
 
-#: dolphincontextmenu.cpp:145 panels/places/placespanel.cpp:179
+#: dolphincontextmenu.cpp:144 panels/places/placespanel.cpp:179
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "ചവറ്റുകുട്ട കാലിയാക്കുക"
 
-#: dolphincontextmenu.cpp:166
+#: dolphincontextmenu.cpp:165
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Restore"
 msgstr "തിരികെ കൊണ്ടുവരിക"
 
-#: dolphincontextmenu.cpp:221 dolphinmainwindow.cpp:1294
+#: dolphincontextmenu.cpp:220 dolphinmainwindow.cpp:1294
 #, kde-format
 msgctxt "@title:menu Create new folder, file, link, etc."
 msgid "Create New"
 msgstr "പുതിയതായി ഉണ്ടാക്കുക"
 
-#: dolphincontextmenu.cpp:231
+#: dolphincontextmenu.cpp:230
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path"
 msgstr "പാത തുറക്കൂ"
 
-#: dolphincontextmenu.cpp:237
+#: dolphincontextmenu.cpp:236
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path in New Window"
 msgstr "പുതിയ ജാലകത്തില്‍ തുറക്കുക"
 
-#: dolphincontextmenu.cpp:243
+#: dolphincontextmenu.cpp:242
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Open Path in New Tab"

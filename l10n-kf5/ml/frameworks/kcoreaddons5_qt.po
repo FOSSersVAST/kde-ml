@@ -150,7 +150,7 @@ msgctxt "KAboutLicense|@item license"
 msgid "Not specified"
 msgstr "വ്യക്തമാക്കിയിട്ടില്ല"
 
-#: lib/kaboutdata.cpp:937
+#: lib/kaboutdata.cpp:945
 #, fuzzy
 msgctxt "KAboutData|replace this with information about your translation team"
 msgid ""
@@ -164,35 +164,35 @@ msgstr ""
 "പ്രവര്‍ത്തനങ്ങളില്‍ പങ്കുചേരാനും <a href=\"http://smc.org.in\">http://smc.org.in </a> "
 "എന്ന വെബ്സൈറ്റ് സന്ദര്‍ശിയ്ക്കുക</p>"
 
-#: lib/kaboutdata.cpp:1168
+#: lib/kaboutdata.cpp:1176
 #, fuzzy
 msgctxt "KAboutData CLI|"
 msgid "Show author information."
 msgstr "രചയിതാവിനെക്കുറിച്ചുള്ള വിവരം കാണിയ്ക്കുക"
 
-#: lib/kaboutdata.cpp:1169
+#: lib/kaboutdata.cpp:1177
 #, fuzzy
 msgctxt "KAboutData CLI|"
 msgid "Show license information."
 msgstr "അനുമതി പത്രത്തെക്കുറിച്ചുള്ള വിവരം കാണിയ്ക്കുക"
 
-#: lib/kaboutdata.cpp:1171
+#: lib/kaboutdata.cpp:1179
 msgctxt "KAboutData CLI|"
 msgid "The base file name of the desktop entry for this application."
 msgstr ""
 
-#: lib/kaboutdata.cpp:1172
+#: lib/kaboutdata.cpp:1180
 msgctxt "KAboutData CLI|"
 msgid "file name"
 msgstr ""
 
-#: lib/kaboutdata.cpp:1181
+#: lib/kaboutdata.cpp:1189
 #, fuzzy
 msgctxt "KAboutData CLI|"
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "പേര് വെളിപ്പെടുത്താനാഗ്രഹിയ്ക്കാത്തോരാളാണ് ഈ പ്രയോഗമെഴുതിയിട്ടുള്ളത്."
 
-#: lib/kaboutdata.cpp:1183
+#: lib/kaboutdata.cpp:1191
 #, fuzzy, qt-format
 msgctxt "KAboutData CLI|"
 msgid "%1 was written by:"
@@ -200,13 +200,13 @@ msgstr ""
 "%2 ആണു് %1\n"
 "എഴുതിയതു്"
 
-#: lib/kaboutdata.cpp:1194
+#: lib/kaboutdata.cpp:1202
 #, fuzzy
 msgctxt "KAboutData CLI|"
 msgid "Please use https://bugs.kde.org to report bugs."
 msgstr "ദയവായി പിഴവുകളറിയിയ്ക്കാനായി http://bugs.kde.org ഉപയോഗിയ്ക്കുക.\n"
 
-#: lib/kaboutdata.cpp:1196
+#: lib/kaboutdata.cpp:1204
 #, fuzzy, qt-format
 msgctxt "KAboutData CLI|"
 msgid "Please report bugs to %1."

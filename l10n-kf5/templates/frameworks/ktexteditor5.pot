@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ktexteditor\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-18 02:47+0100\n"
+"POT-Creation-Date: 2019-11-24 02:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -292,7 +292,7 @@ msgstr ""
 #. i18n: ectx: property (title), widget (QGroupBox, gbBorders)
 #. i18n: ectx: Menu (view_menu_borders)
 #: data/katepart5ui.rc:73 dialogs/bordersappearanceconfigwidget.ui:17
-#: dialogs/katedialogs.cpp:697
+#: dialogs/katedialogs.cpp:695
 #, kde-format
 msgid "Borders"
 msgstr ""
@@ -473,7 +473,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbShowScrollbars)
 #: dialogs/bordersappearanceconfigwidget.ui:216
-#: dialogs/katedialogs.cpp:701
+#: dialogs/katedialogs.cpp:699
 #, kde-format
 msgid "Always On"
 msgstr ""
@@ -622,8 +622,8 @@ msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbViInputMode)
 #. i18n: ectx: property (title), widget (QGroupBox, gbGeneral)
-#: dialogs/completionconfigtab.ui:20 dialogs/katedialogs.cpp:562
-#: dialogs/katedialogs.cpp:693 dialogs/katedialogs.cpp:897
+#: dialogs/completionconfigtab.ui:20 dialogs/katedialogs.cpp:560
+#: dialogs/katedialogs.cpp:691 dialogs/katedialogs.cpp:895
 #: vimode/config/configwidget.ui:29
 #, kde-format
 msgid "General"
@@ -1290,34 +1290,34 @@ msgstr ""
 msgid "Increase indentation level if in l&eading blank space"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:197 dialogs/katedialogs.cpp:199
+#: dialogs/katedialogs.cpp:195 dialogs/katedialogs.cpp:197
 #, kde-format
 msgid " character"
 msgid_plural " characters"
 msgstr[0] ""
 msgstr[1] ""
 
-#: dialogs/katedialogs.cpp:223
+#: dialogs/katedialogs.cpp:221
 #, kde-format
 msgid "Indentation"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:296
+#: dialogs/katedialogs.cpp:294
 #, kde-format
 msgid "Auto Completion"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:364
+#: dialogs/katedialogs.cpp:362
 #, kde-format
 msgid "Spellcheck"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:438
+#: dialogs/katedialogs.cpp:436
 #, kde-format
 msgid "Text Navigation"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:536
+#: dialogs/katedialogs.cpp:534
 #, kde-format
 msgctxt "Wrap words at (value is at 20 or larger)"
 msgid " character"
@@ -1325,189 +1325,189 @@ msgid_plural " characters"
 msgstr[0] ""
 msgstr[1] ""
 
-#: dialogs/katedialogs.cpp:541
+#: dialogs/katedialogs.cpp:539
 #, kde-format
 msgid "Feature is not active"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:543
+#: dialogs/katedialogs.cpp:541
 #, kde-format
 msgid "Disable Feature"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:545
+#: dialogs/katedialogs.cpp:543
 #, kde-format
 msgid "May be handy with Markdown"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:547
+#: dialogs/katedialogs.cpp:545
 #, kde-format
 msgid "Mirror characters, similar but not exactly like auto brackets"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:549
+#: dialogs/katedialogs.cpp:547
 #, kde-format
 msgid "Non letter character"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:665
+#: dialogs/katedialogs.cpp:663
 #, kde-format
 msgid "Editing"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:670
+#: dialogs/katedialogs.cpp:668
 #, kde-format
 msgid "Editing Options"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:699
+#: dialogs/katedialogs.cpp:697
 #, kde-format
 msgid "Off"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:700
+#: dialogs/katedialogs.cpp:698
 #, kde-format
 msgid "Follow Line Numbers"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:829 dialogs/katedialogs.cpp:834
+#: dialogs/katedialogs.cpp:827 dialogs/katedialogs.cpp:832
 #, kde-format
 msgid "Appearance"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: dialogs/katedialogs.cpp:898 dialogs/textareaappearanceconfigwidget.ui:236
+#: dialogs/katedialogs.cpp:896 dialogs/textareaappearanceconfigwidget.ui:236
 #, kde-format
 msgid "Advanced"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:963
+#: dialogs/katedialogs.cpp:961
 #, kde-format
 msgid ""
 "You did not provide a backup suffix or prefix. Using default suffix: '~'"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:963
+#: dialogs/katedialogs.cpp:961
 #, kde-format
 msgid "No Backup Suffix or Prefix"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1085
+#: dialogs/katedialogs.cpp:1083
 #, kde-format
 msgid "Open/Save"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1090
+#: dialogs/katedialogs.cpp:1088
 #, kde-format
 msgid "File Opening & Saving"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1113
+#: dialogs/katedialogs.cpp:1111
 #, kde-format
 msgid "&Line:"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1114
+#: dialogs/katedialogs.cpp:1112
 #, kde-format
 msgid "Go to line number from clipboard"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1126
+#: dialogs/katedialogs.cpp:1124
 #, kde-format
 msgid "Go to"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1202
+#: dialogs/katedialogs.cpp:1200
 #, kde-format
 msgid "No valid line number found in clipboard"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1257
+#: dialogs/katedialogs.cpp:1255
 #, kde-format
 msgid "Dictionary:"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1309
+#: dialogs/katedialogs.cpp:1307
 #, kde-format
 msgid "Enable Auto Reload"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1311
+#: dialogs/katedialogs.cpp:1309
 #, kde-format
 msgid "Will never again warn about on disk changes but always reload."
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1316
+#: dialogs/katedialogs.cpp:1314
 #, kde-format
 msgid "View &Difference"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1317
+#: dialogs/katedialogs.cpp:1315
 #, kde-format
 msgid "Shows a diff of the changes"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1322
+#: dialogs/katedialogs.cpp:1320
 #, kde-format
 msgid "&Reload"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1324
+#: dialogs/katedialogs.cpp:1322
 #, kde-format
 msgid "Reload the file from disk. Unsaved changes will be lost."
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1328
+#: dialogs/katedialogs.cpp:1326
 #, kde-format
 msgctxt "@action:button closes the opened file"
 msgid "&Close File"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1330
+#: dialogs/katedialogs.cpp:1328
 #, kde-format
 msgid "Close the file, discarding its content."
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1334
+#: dialogs/katedialogs.cpp:1332
 #, kde-format
 msgid "&Save As..."
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1336
+#: dialogs/katedialogs.cpp:1334
 #, kde-format
 msgid "Lets you select a location and save the file again."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, m_skipBtn)
-#: dialogs/katedialogs.cpp:1341 spellcheck/spellcheckbar.ui:143
+#: dialogs/katedialogs.cpp:1339 spellcheck/spellcheckbar.ui:143
 #, kde-format
 msgid "&Ignore"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1342
+#: dialogs/katedialogs.cpp:1340
 #, kde-format
 msgid "Ignores the changes on disk without any action."
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1408 swapfile/kateswapdiffcreator.cpp:139
+#: dialogs/katedialogs.cpp:1406 swapfile/kateswapdiffcreator.cpp:139
 #, kde-format
 msgid ""
 "The diff command failed. Please make sure that diff(1) is installed and in "
 "your PATH."
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1410 swapfile/kateswapdiffcreator.cpp:107
+#: dialogs/katedialogs.cpp:1408 swapfile/kateswapdiffcreator.cpp:107
 #: swapfile/kateswapdiffcreator.cpp:141
 #, kde-format
 msgid "Error Creating Diff"
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1417 swapfile/kateswapdiffcreator.cpp:148
+#: dialogs/katedialogs.cpp:1415 swapfile/kateswapdiffcreator.cpp:148
 #, kde-format
 msgid "The files are identical."
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1417 swapfile/kateswapdiffcreator.cpp:148
+#: dialogs/katedialogs.cpp:1415 swapfile/kateswapdiffcreator.cpp:148
 #, kde-format
 msgid "Diff Output"
 msgstr ""
@@ -2146,30 +2146,30 @@ msgstr ""
 msgid "Automatic reload the document when it was changed on disk"
 msgstr ""
 
-#: document/katedocument.cpp:2269
+#: document/katedocument.cpp:2268
 #, kde-format
 msgid ""
 "The file %1 could not be loaded, as it was not possible to read from it.<br /"
 ">Check if you have read access to this file."
 msgstr ""
 
-#: document/katedocument.cpp:2271
+#: document/katedocument.cpp:2270
 #, kde-format
 msgctxt "translators: you can also translate 'Try Again' with 'Reload'"
 msgid "Try Again"
 msgstr ""
 
-#: document/katedocument.cpp:2274 document/katedocument.cpp:6031
+#: document/katedocument.cpp:2273 document/katedocument.cpp:6038
 #, kde-format
 msgid "&Close"
 msgstr ""
 
-#: document/katedocument.cpp:2275 document/katedocument.cpp:6032
+#: document/katedocument.cpp:2274 document/katedocument.cpp:6039
 #, kde-format
 msgid "Close message"
 msgstr ""
 
-#: document/katedocument.cpp:2286
+#: document/katedocument.cpp:2285
 #, kde-format
 msgid ""
 "The file %1 could not be loaded, as it was not possible to read from it.\n"
@@ -2177,7 +2177,7 @@ msgid ""
 "Check if you have read access to this file."
 msgstr ""
 
-#: document/katedocument.cpp:2400
+#: document/katedocument.cpp:2399
 #, kde-format
 msgid ""
 "The file %1 was opened with %2 encoding but contained invalid characters."
@@ -2186,7 +2186,7 @@ msgid ""
 "write mode again in the tools menu to be able to edit it."
 msgstr ""
 
-#: document/katedocument.cpp:2412
+#: document/katedocument.cpp:2411
 #, kde-format
 msgid ""
 "The file %1 was opened with %2 encoding but contained invalid characters. It "
@@ -2195,7 +2195,7 @@ msgid ""
 "again in the tools menu to be able to edit it."
 msgstr ""
 
-#: document/katedocument.cpp:2424
+#: document/katedocument.cpp:2423
 #, kde-format
 msgid ""
 "The file %1 was opened and contained lines longer than the configured Line "
@@ -2204,17 +2204,17 @@ msgid ""
 "only mode, as saving will modify its content."
 msgstr ""
 
-#: document/katedocument.cpp:2431
+#: document/katedocument.cpp:2430
 #, kde-format
 msgid "Temporarily raise limit and reload file"
 msgstr ""
 
-#: document/katedocument.cpp:2434
+#: document/katedocument.cpp:2433
 #, kde-format
 msgid "Close"
 msgstr ""
 
-#: document/katedocument.cpp:2441
+#: document/katedocument.cpp:2440
 #, kde-format
 msgid ""
 "The file %1 was opened and contained lines longer than the configured Line "
@@ -2223,45 +2223,45 @@ msgid ""
 "only mode, as saving will modify its content."
 msgstr ""
 
-#: document/katedocument.cpp:2467
+#: document/katedocument.cpp:2466
 #, kde-format
 msgid ""
 "Do you really want to save this unmodified file? You could overwrite changed "
 "data in the file on disk."
 msgstr ""
 
-#: document/katedocument.cpp:2467
+#: document/katedocument.cpp:2466
 #, kde-format
 msgid "Trying to Save Unmodified File"
 msgstr ""
 
-#: document/katedocument.cpp:2467 document/katedocument.cpp:2475
-#: document/katedocument.cpp:2489
+#: document/katedocument.cpp:2466 document/katedocument.cpp:2474
+#: document/katedocument.cpp:2488
 #, kde-format
 msgid "Save Nevertheless"
 msgstr ""
 
-#: document/katedocument.cpp:2473
+#: document/katedocument.cpp:2472
 #, kde-format
 msgid ""
 "Do you really want to save this file? Both your open file and the file on "
 "disk were changed. There could be some data lost."
 msgstr ""
 
-#: document/katedocument.cpp:2474 document/katedocument.cpp:2488
-#: document/katedocument.cpp:2793
+#: document/katedocument.cpp:2473 document/katedocument.cpp:2487
+#: document/katedocument.cpp:2792
 #, kde-format
 msgid "Possible Data Loss"
 msgstr ""
 
-#: document/katedocument.cpp:2487
+#: document/katedocument.cpp:2486
 #, kde-format
 msgid ""
 "The selected encoding cannot encode every Unicode character in this "
 "document. Do you really want to save it? There could be some data lost."
 msgstr ""
 
-#: document/katedocument.cpp:2531
+#: document/katedocument.cpp:2530
 #, kde-format
 msgid ""
 "The document could not be saved, as it was not possible to write to %1.\n"
@@ -2271,7 +2271,7 @@ msgid ""
 "the file is successfully written."
 msgstr ""
 
-#: document/katedocument.cpp:2665
+#: document/katedocument.cpp:2664
 #, kde-format
 msgid ""
 "For file %1 no backup copy could be created before saving. If an error "
@@ -2280,48 +2280,48 @@ msgid ""
 "only for you."
 msgstr ""
 
-#: document/katedocument.cpp:2669
+#: document/katedocument.cpp:2668
 #, kde-format
 msgid "Failed to create backup copy."
 msgstr ""
 
-#: document/katedocument.cpp:2670
+#: document/katedocument.cpp:2669
 #, kde-format
 msgid "Try to Save Nevertheless"
 msgstr ""
 
-#: document/katedocument.cpp:2792
+#: document/katedocument.cpp:2791
 #, kde-format
 msgid "Do you really want to continue to close this file? Data loss may occur."
 msgstr ""
 
-#: document/katedocument.cpp:2794
+#: document/katedocument.cpp:2793
 #, kde-format
 msgid "Close Nevertheless"
 msgstr ""
 
-#: document/katedocument.cpp:4244
+#: document/katedocument.cpp:4243
 #, kde-format
 msgid "Untitled"
 msgstr ""
 
-#: document/katedocument.cpp:4292 document/katedocument.cpp:4476
-#: document/katedocument.cpp:4486 document/katedocument.cpp:5196
+#: document/katedocument.cpp:4291 document/katedocument.cpp:4475
+#: document/katedocument.cpp:4485 document/katedocument.cpp:5203
 #, kde-format
 msgid "Save File"
 msgstr ""
 
-#: document/katedocument.cpp:4295
+#: document/katedocument.cpp:4294
 #, kde-format
 msgid "Save failed"
 msgstr ""
 
-#: document/katedocument.cpp:4497
+#: document/katedocument.cpp:4496
 #, kde-format
 msgid "Save Copy of File"
 msgstr ""
 
-#: document/katedocument.cpp:4510
+#: document/katedocument.cpp:4509
 #, kde-format
 msgid ""
 "The document could not be saved, as it was not possible to write to %1.\n"
@@ -2330,7 +2330,7 @@ msgid ""
 "available."
 msgstr ""
 
-#: document/katedocument.cpp:4749
+#: document/katedocument.cpp:4748
 #, kde-format
 msgid ""
 "Using deprecated modeline 'remove-trailing-space'. Please replace with "
@@ -2338,7 +2338,7 @@ msgid ""
 "applications/katepart/config-variables.html#variable-remove-trailing-spaces"
 msgstr ""
 
-#: document/katedocument.cpp:4755
+#: document/katedocument.cpp:4754
 #, kde-format
 msgid ""
 "Using deprecated modeline 'replace-trailing-space-save'. Please replace with "
@@ -2346,39 +2346,39 @@ msgid ""
 "applications/katepart/config-variables.html#variable-remove-trailing-spaces"
 msgstr ""
 
-#: document/katedocument.cpp:5080
+#: document/katedocument.cpp:5079
 #, kde-format
 msgid "The file '%1' was modified by another program."
 msgstr ""
 
-#: document/katedocument.cpp:5083
+#: document/katedocument.cpp:5082
 #, kde-format
 msgid "The file '%1' was created by another program."
 msgstr ""
 
-#: document/katedocument.cpp:5086
+#: document/katedocument.cpp:5085
 #, kde-format
 msgid "The file '%1' was deleted by another program."
 msgstr ""
 
-#: document/katedocument.cpp:5361
+#: document/katedocument.cpp:5368
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
 "Do you want to save your changes or discard them?"
 msgstr ""
 
-#: document/katedocument.cpp:5364
+#: document/katedocument.cpp:5371
 #, kde-format
 msgid "Close Document"
 msgstr ""
 
-#: document/katedocument.cpp:5498
+#: document/katedocument.cpp:5505
 #, kde-format
 msgid "The file <a href=\"%1\">%2</a> is still loading."
 msgstr ""
 
-#: document/katedocument.cpp:5505
+#: document/katedocument.cpp:5512
 #, kde-format
 msgid "&Abort Loading"
 msgstr ""
@@ -5720,7 +5720,7 @@ msgstr ""
 msgid "Generate a new UUID."
 msgstr ""
 
-#: variableeditor/katehelpbutton.cpp:34
+#: variableeditor/katehelpbutton.cpp:33
 #, kde-format
 msgid "Kate Handbook."
 msgstr ""

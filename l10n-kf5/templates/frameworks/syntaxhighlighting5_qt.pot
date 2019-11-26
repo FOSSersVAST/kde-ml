@@ -462,7 +462,7 @@ msgid "Javadoc"
 msgstr ""
 
 msgctxt "Language|"
-msgid "JavaScript React"
+msgid "JavaScript React (JSX)"
 msgstr ""
 
 msgctxt "Language|"
@@ -1042,7 +1042,7 @@ msgid "txt2tags"
 msgstr ""
 
 msgctxt "Language|"
-msgid "TypeScript React"
+msgid "TypeScript React (TSX)"
 msgstr ""
 
 msgctxt "Language|"
