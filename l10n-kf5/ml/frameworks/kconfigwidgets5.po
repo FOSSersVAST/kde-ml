@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-05 02:49+0100\n"
+"POT-Creation-Date: 2019-11-26 02:51+0100\n"
 "PO-Revision-Date: 2010-12-29 15:32+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -63,12 +63,12 @@ msgctxt "@title:window"
 msgid "Configure"
 msgstr "ക്രമീകരിയ്ക്കുക"
 
-#: krecentfilesaction.cpp:77
+#: krecentfilesaction.cpp:78
 #, kde-format
 msgid "No Entries"
 msgstr "എന്‍ട്രികള്‍ ലഭ്യമല്ല"
 
-#: krecentfilesaction.cpp:83
+#: krecentfilesaction.cpp:84
 #, kde-format
 msgid "Clear List"
 msgstr "പട്ടിക വെടിപ്പാക്കുക"

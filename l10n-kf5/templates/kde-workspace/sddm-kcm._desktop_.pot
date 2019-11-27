@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-08 02:42+0000\n"
+"POT-Creation-Date: 2019-11-24 02:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -51,17 +51,17 @@ msgctxt "Name"
 msgid "Synchronize Settings"
 msgstr ""
 
-#: kcm_sddm.actions:337
+#: kcm_sddm.actions:338
 msgctxt "Description"
 msgid "Synchronizes user settings with SDDM settings"
 msgstr ""
 
-#: kcm_sddm.actions:369
+#: kcm_sddm.actions:371
 msgctxt "Name"
 msgid "Reset Settings"
 msgstr ""
 
-#: kcm_sddm.actions:398
+#: kcm_sddm.actions:401
 msgctxt "Description"
 msgid "Resets SDDM settings so there are not user settings"
 msgstr ""

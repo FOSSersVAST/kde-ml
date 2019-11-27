@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-08 02:53+0100\n"
+"POT-Creation-Date: 2019-11-25 02:49+0100\n"
 "PO-Revision-Date: 2010-12-29 15:32+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -474,12 +474,6 @@ msgstr "തെരയുക"
 msgid "About"
 msgstr "&സംബന്ധിച്ചു്"
 
-#: kpluginselector.cpp:818
-#, kde-format
-msgctxt "Used only for plugins"
-msgid "About %1"
-msgstr "%1 സംബന്ധിച്ചു്"
-
 #: ksettings/componentsdialog.cpp:56
 #, kde-format
 msgid "Select Components"
@@ -489,6 +483,10 @@ msgstr "ഘടകങ്ങള്‍ തെരഞ്ഞെടുക്കുക"
 #, kde-format
 msgid "Enable component"
 msgstr "ഘടകം സജ്ജമാക്കുക"
+
+#~ msgctxt "Used only for plugins"
+#~ msgid "About %1"
+#~ msgstr "%1 സംബന്ധിച്ചു്"
 
 #~ msgid "Search Plugins"
 #~ msgstr "പ്ലഗിനുകള്‍ തെരയുക"

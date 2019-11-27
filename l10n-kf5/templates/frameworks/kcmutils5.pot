@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmutils\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-08 02:53+0100\n"
+"POT-Creation-Date: 2019-11-25 02:49+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -454,12 +454,6 @@ msgstr ""
 #: kpluginselector.cpp:718
 #, kde-format
 msgid "About"
-msgstr ""
-
-#: kpluginselector.cpp:821
-#, kde-format
-msgctxt "Used only for plugins"
-msgid "About %1"
 msgstr ""
 
 #: ksettings/componentsdialog.cpp:56

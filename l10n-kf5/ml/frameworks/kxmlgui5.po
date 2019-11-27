@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-03 02:50+0100\n"
+"POT-Creation-Date: 2019-11-25 02:54+0100\n"
 "PO-Revision-Date: 2010-12-29 15:32+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -23,76 +23,49 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "X-Poedit-Country: INDIA\n"
 
-#: kaboutapplicationdialog.cpp:81 khelpmenu.cpp:280
+#: kaboutapplicationdialog.cpp:70 kaboutplugindialog.cpp:75 khelpmenu.cpp:280
 #, kde-format
 msgid "About %1"
 msgstr "%1 സംബന്ധിച്ചു്"
 
-#: kaboutapplicationdialog.cpp:98
+#: kaboutapplicationdialog.cpp:102 kaboutplugindialog.cpp:92
 #, fuzzy, kde-format
-msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
-msgstr " <html><font size=\"5\">%1</font><br/><b>ലക്കം %2</b><br/>&nbsp;</html>"
-
-#: kaboutapplicationdialog.cpp:136
-#, kde-format
-msgid "License: %1"
-msgstr "ലൈസന്‍സ്: %1"
-
-#: kaboutapplicationdialog.cpp:148
-#, kde-format
-msgid "&About"
+#| msgid "&About"
+msgid "About"
 msgstr "&സംബന്ധിച്ചു്"
 
-#: kaboutapplicationdialog.cpp:155
+#: kaboutapplicationdialog.cpp:109
 #, kde-format
 msgid ""
 "<ul><li>KDE Frameworks %1</li><li>Qt %2 (built against %3)</li><li>The <em>"
 "%4</em> windowing system</li></ul>"
 msgstr ""
 
-#: kaboutapplicationdialog.cpp:165
+#: kaboutapplicationdialog.cpp:119
 #, fuzzy, kde-format
-msgid "&Libraries"
+msgid "Libraries"
 msgstr "ലൈബ്രറികള്‍"
 
-#: kaboutapplicationdialog.cpp:186
+#: kaboutapplicationdialog.cpp:129 kaboutplugindialog.cpp:103
 #, fuzzy, kde-format
-msgid ""
-"Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to "
-"report bugs.\n"
-msgstr ""
-"ദയവായി പിശകുകള്‍ രേഖപ്പെടുത്തുന്നതിനായി <a href=\"http://bugs.kde.org\">http://bugs."
-"kde.org</a> ഉപയോഗിക്കുക.\n"
+#| msgid "Author"
+msgid "Author"
+msgid_plural "Authors"
+msgstr[0] "രചയിതാവ്"
+msgstr[1] "രചയിതാവ്"
 
-#: kaboutapplicationdialog.cpp:192
+#: kaboutapplicationdialog.cpp:136 kaboutplugindialog.cpp:110
 #, fuzzy, kde-format
-msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
-msgstr "ദയവായി പിശകുകള്‍ <a href=\"mailto:%1\">%2</a>-ലേക്കു് രേഖപ്പെടുത്തുക.\n"
-
-#: kaboutapplicationdialog.cpp:218
-#, kde-format
-msgid "A&uthor"
-msgstr "&രചയിതാവു്"
-
-#: kaboutapplicationdialog.cpp:218
-#, kde-format
-msgid "A&uthors"
-msgstr "&രചയിതാക്കള്‍"
-
-#: kaboutapplicationdialog.cpp:245
-#, kde-format
-msgid "&Thanks To"
+#| msgid "&Thanks To"
+msgid "Thanks To"
 msgstr "&നന്ദി "
 
-#: kaboutapplicationdialog.cpp:284
+#
+#: kaboutapplicationdialog.cpp:143 kaboutplugindialog.cpp:116
+#: kbugreport.cpp:251
 #, kde-format
-msgid "T&ranslation"
-msgstr "തര്‍&ജ്ജമ"
-
-#: kaboutapplicationdialog.cpp:316
-#, kde-format
-msgid "License Agreement"
-msgstr "ലൈസന്‍സ് എഗ്രിമെന്റ്"
+msgid "Translation"
+msgstr "തര്‍ജ്ജമ"
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:62
 #, fuzzy, kde-format
@@ -279,6 +252,30 @@ msgstr "കെഡിഇയില്‍ &ചേരുക"
 msgid "&Support KDE"
 msgstr "കെഡിഇയെ &പിന്തുണയ്ക്കുക"
 
+#: kabstractaboutdialog_p.cpp:47
+#, fuzzy, kde-format
+msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
+msgstr " <html><font size=\"5\">%1</font><br/><b>ലക്കം %2</b><br/>&nbsp;</html>"
+
+#: kabstractaboutdialog_p.cpp:92
+#, kde-format
+msgid "License: %1"
+msgstr "ലൈസന്‍സ്: %1"
+
+#: kabstractaboutdialog_p.cpp:124
+#, fuzzy, kde-format
+msgid ""
+"Please use <a href=\"https://bugs.kde.org\">https://bugs.kde.org</a> to "
+"report bugs.\n"
+msgstr ""
+"ദയവായി പിശകുകള്‍ രേഖപ്പെടുത്തുന്നതിനായി <a href=\"http://bugs.kde.org\">http://bugs."
+"kde.org</a> ഉപയോഗിക്കുക.\n"
+
+#: kabstractaboutdialog_p.cpp:130
+#, fuzzy, kde-format
+msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
+msgstr "ദയവായി പിശകുകള്‍ <a href=\"mailto:%1\">%2</a>-ലേക്കു് രേഖപ്പെടുത്തുക.\n"
+
 #: kactionconflictdetector.cpp:50
 #, kde-format
 msgid ""
@@ -408,12 +405,6 @@ msgstr "സാധാരണ"
 #, kde-format
 msgid "Wishlist"
 msgstr "മോഹം"
-
-#
-#: kbugreport.cpp:244
-#, kde-format
-msgid "Translation"
-msgstr "തര്‍ജ്ജമ"
 
 #: kbugreport.cpp:262
 #, kde-format
@@ -852,7 +843,12 @@ msgstr "നിങ്ങള്‍ അമര്‍ത്തിയ കീ ക്യ
 msgid "Unsupported Key"
 msgstr "പിന്തുണയില്ലാത്ത കീ"
 
-#: kmainwindow.cpp:247
+#: klicensedialog_p.cpp:44
+#, kde-format
+msgid "License Agreement"
+msgstr "ലൈസന്‍സ് എഗ്രിമെന്റ്"
+
+#: kmainwindow.cpp:249
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
@@ -1431,6 +1427,15 @@ msgstr "&സജ്ജീകരണങ്ങള്‍"
 msgid "Main Toolbar"
 msgstr "പ്രധാന പണിയായുധനിര"
 
+#~ msgid "A&uthor"
+#~ msgstr "&രചയിതാവു്"
+
+#~ msgid "A&uthors"
+#~ msgstr "&രചയിതാക്കള്‍"
+
+#~ msgid "T&ranslation"
+#~ msgstr "തര്‍&ജ്ജമ"
+
 #~ msgctxt "@action:intoolbar Text label of toolbar button"
 #~ msgid "%1"
 #~ msgstr "%1"
@@ -1564,9 +1569,6 @@ msgstr "പ്രധാന പണിയായുധനിര"
 
 #~ msgid "&License Agreement"
 #~ msgstr "അനുമതിപത്രവുമായുള്ള യോജിപ്പ് &l"
-
-#~ msgid "Author"
-#~ msgstr "രചയിതാവ്"
 
 #~ msgid "Email"
 #~ msgstr "ഇമെയില്‍"

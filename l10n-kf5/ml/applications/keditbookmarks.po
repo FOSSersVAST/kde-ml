@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: keditbookmarks\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-12 02:38+0200\n"
+"POT-Creation-Date: 2019-11-24 02:30+0100\n"
 "PO-Revision-Date: 2008-12-07 15:10-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -275,7 +275,7 @@ msgstr "ശരി"
 msgid "Updating favicon..."
 msgstr "ഫാവിക്കോണ്‍ പരിഷ്കരിക്കുന്നു..."
 
-#: faviconupdater.cpp:83
+#: faviconupdater.cpp:81
 #, kde-format
 msgid "%1; no HTML component found (%2)"
 msgstr ""

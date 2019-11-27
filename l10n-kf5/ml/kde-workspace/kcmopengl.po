@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmopengl trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-11-24 03:27+0100\n"
 "PO-Revision-Date: 2008-07-11 23:23+0530\n"
 "Last-Translator: ആഷിക് എസ് | Ashik S<aashiks@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -75,8 +75,9 @@ msgid "Brian Paul"
 msgstr "ബ്രയാന്‍ പോള്‍"
 
 #: opengl.cpp:100
-#, kde-format
-msgid "Author of glxinfo Mesa demos (http://www.mesa3d.org)"
+#, fuzzy, kde-format
+#| msgid "Author of glxinfo Mesa demos (http://www.mesa3d.org)"
+msgid "Author of glxinfo Mesa demos (https://www.mesa3d.org)"
 msgstr "ജിയെല്ലെക്സിന്‍ഫോ മെസാ ഡെമോകളുടെ രചയിതാവ് (http://www.mesa3d.org)"
 
 #: opengl.cpp:397

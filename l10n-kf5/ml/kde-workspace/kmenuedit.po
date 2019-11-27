@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KDE Malayalam\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-29 03:30+0100\n"
+"POT-Creation-Date: 2019-11-19 03:35+0100\n"
 "PO-Revision-Date: 2008-11-21 01:36+0730\n"
 "Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
@@ -30,27 +30,27 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "libregeek@gmail.comharivishnu@gmail.com"
 
-#: basictab.cpp:70
+#: basictab.cpp:61
 #, kde-format
 msgid "&Name:"
 msgstr "പേരു്"
 
-#: basictab.cpp:78
+#: basictab.cpp:70
 #, kde-format
 msgid "&Description:"
 msgstr "വിവരണം"
 
-#: basictab.cpp:86
+#: basictab.cpp:78
 #, kde-format
 msgid "&Comment:"
 msgstr "കുറിപ്പ്"
 
-#: basictab.cpp:94
+#: basictab.cpp:86
 #, kde-format
 msgid "Co&mmand:"
 msgstr "ആജ്ഞ"
 
-#: basictab.cpp:99
+#: basictab.cpp:91
 #, kde-format
 msgid ""
 "Following the command, you can have several place holders which will be "
@@ -78,69 +78,65 @@ msgstr ""
 "%m - കുഞ്ഞു പ്രതിരൂപം\n"
 "%c - തലക്കെട്ട്"
 
-#: basictab.cpp:114
+#: basictab.cpp:106
 #, kde-format
 msgid "Enable &launch feedback"
 msgstr "അഭിപ്രായം രേഖപ്പെടുത്താനുള്ള ഉപാധി പ്രവര്‍ത്തിപ്പിക്കുക"
 
-#: basictab.cpp:118
+#: basictab.cpp:110
 #, kde-format
 msgid "Only show in KDE"
 msgstr "കെഡിഇ ല്‍ മാത്രം കാണിക്കൂ"
 
-#: basictab.cpp:122
+#: basictab.cpp:114
 #, kde-format
 msgid "Hidden entry"
 msgstr "മറച്ചുവെച്ച ഇനം"
 
-#: basictab.cpp:134 preferencesdlg.cpp:75
+#: basictab.cpp:126 preferencesdlg.cpp:75
 #, kde-format
 msgid "General"
 msgstr "പൊതുവായ"
 
-#: basictab.cpp:148
+#: basictab.cpp:138
 #, kde-format
 msgid "&Work path:"
 msgstr "പ്രവര്‍ത്തനത്തിനുള്ള വഴി"
 
-#: basictab.cpp:162
+#: basictab.cpp:150
 #, kde-format
 msgid "Run in term&inal"
 msgstr "ടെര്‍മിനലില്‍ പ്രവര്‍ത്തിപ്പിക്കുക"
 
-#: basictab.cpp:168
+#: basictab.cpp:155
 #, kde-format
 msgid "Terminal &options:"
 msgstr "ടെര്‍മിനല്‍ ഐച്ഛികങ്ങള്‍"
 
-#: basictab.cpp:183
+#: basictab.cpp:169
 #, kde-format
 msgid "&Run as a different user"
 msgstr "മറ്റൊരു ഉപയോക്താവായി പ്രവര്‍ത്തിപ്പിക്കുക"
 
-#: basictab.cpp:189
+#: basictab.cpp:174
 #, kde-format
 msgid "&Username:"
 msgstr "ഉപയോക്താവിന്റെ പേര്:"
 
-#: basictab.cpp:204
+#: basictab.cpp:188
 #, kde-format
 msgid "Current shortcut &key:"
 msgstr "ഇപ്പോഴത്തെ "
 
-#: basictab.cpp:215
+#: basictab.cpp:199
 #, kde-format
 msgid "Advanced"
 msgstr "സങ്കീര്‍ണ്ണമായ"
 
-#: khotkeys.cpp:53
-#, fuzzy, kde-format
-msgid ""
-"Unable to contact khotkeys. Your changes are saved, but they could not be "
-"activated."
+#: globalaccel.cpp:39
+#, kde-format
+msgid "Launch %1"
 msgstr ""
-"കെ-ഹോട്കീസ്(കുറുക്കുകീകള്‍) ആയി ബന്ധപെടാന്‍ കഴിഞ്ഞില്ല. നിങ്ങളുടെ മാറ്റങ്ങള്‍ സംരക്ഷിച്ചിട്ടുണ്ട് "
-"പക്ഷെ എനിക്കവ സജീവമാക്കാന്‍ കഴിഞ്ഞില്ല"
 
 #: kmenuedit.cpp:68
 #, kde-format
@@ -242,62 +238,62 @@ msgstr "&ചിട്ടപ്പെടുത്തുക"
 msgid "Main Toolbar"
 msgstr "പ്രധാന ഉപകരണപ്പട്ട"
 
-#: main.cpp:34
+#: main.cpp:31
 #, kde-format
 msgid "KDE menu editor"
 msgstr "കെഡിഇ മെനു ചിട്ടപ്പെടുത്തല്‍"
 
-#: main.cpp:47 main.cpp:70 main.cpp:82
+#: main.cpp:44 main.cpp:59 main.cpp:71
 #, kde-format
 msgid "KDE Menu Editor"
 msgstr "കെഡിഇ മെനു ചിട്ടപ്പെടുത്തല്‍"
 
-#: main.cpp:72
+#: main.cpp:61
 #, kde-format
 msgid "(C) 2000-2003, Waldo Bastian, Raffaele Sandrini, Matthias Elter"
 msgstr "(C) 2000-2004, വാള്‍ഡോ ബാസ്റ്റ്യന്‍, റാഫേല്‍ സാന്‍ഡ്രിനി, മാത്തിയസ് എല്‍ട്ടര്‍"
 
-#: main.cpp:73
+#: main.cpp:62
 #, kde-format
 msgid "Waldo Bastian"
 msgstr "വാള്‍ഡോ ബാസ്റ്റ്യന്‍"
 
-#: main.cpp:73
+#: main.cpp:62
 #, kde-format
 msgid "Maintainer"
 msgstr "പാലകര്‍"
 
-#: main.cpp:74
+#: main.cpp:63
 #, kde-format
 msgid "Raffaele Sandrini"
 msgstr "റാഫേല്‍ സാന്‍ഡ്രിനി"
 
-#: main.cpp:74
+#: main.cpp:63
 #, kde-format
 msgid "Previous Maintainer"
 msgstr "മുന്‍പുള്ള പാലകര്‍"
 
-#: main.cpp:75
+#: main.cpp:64
 #, kde-format
 msgid "Matthias Elter"
 msgstr "മാത്തിയസ് എല്‍ട്ടര്‍"
 
-#: main.cpp:75
+#: main.cpp:64
 #, kde-format
 msgid "Original Author"
 msgstr "പ്രസിദ്ധീകരിക്കുന്ന രചയിതാവ്"
 
-#: main.cpp:76
+#: main.cpp:65
 #, kde-format
 msgid "Montel Laurent"
 msgstr "മൊണ്ടെല്‍ ലോറന്റ്"
 
-#: main.cpp:84
+#: main.cpp:73
 #, kde-format
 msgid "Sub menu to pre-select"
 msgstr "സബ്-മെനു പ്രി(പൂര്‍വ)-തിരഞ്ഞെടുക്കലിനായ്"
 
-#: main.cpp:87
+#: main.cpp:76
 #, kde-format
 msgid "Menu entry to pre-select"
 msgstr "മെനു എന്‍ട്രി പ്രി(പൂര്‍വ)-തിരഞ്ഞെടുക്കലിനായ്"
@@ -369,6 +365,14 @@ msgid ""
 "menus."
 msgstr ""
 "സിസ്റ്റം മെനു തിരിച്ചുകൊണ്ടു വരണോ ? മുന്നറിയിപ്പ് : നിങ്ങള്‍ ഉണ്ടാക്കിയ എല്ലാ മെനുവും നഷ്ടപ്പെടും"
+
+#, fuzzy
+#~ msgid ""
+#~ "Unable to contact khotkeys. Your changes are saved, but they could not be "
+#~ "activated."
+#~ msgstr ""
+#~ "കെ-ഹോട്കീസ്(കുറുക്കുകീകള്‍) ആയി ബന്ധപെടാന്‍ കഴിഞ്ഞില്ല. നിങ്ങളുടെ മാറ്റങ്ങള്‍ സംരക്ഷിച്ചിട്ടുണ്ട് "
+#~ "പക്ഷെ എനിക്കവ സജീവമാക്കാന്‍ കഴിഞ്ഞില്ല"
 
 #~ msgid "&Place in system tray"
 #~ msgstr "സിസ്റ്റം ട്രേയില്‍ വയ്ക്കൂ"

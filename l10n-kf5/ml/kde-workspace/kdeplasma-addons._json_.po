@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:36+0000\n"
+"POT-Creation-Date: 2019-11-19 03:51+0000\n"
 "PO-Revision-Date: 2018-04-13 03:47+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -15,65 +15,35 @@ msgstr ""
 
 #: dataengines/potd/bingprovider.json
 msgctxt "Name"
-msgid "Bing's Picture of the Day"
+msgid "Bing"
 msgstr ""
 
 #: dataengines/potd/wcpotdprovider.json
 msgctxt "Name"
-msgid "Wikimedia Picture of the Day"
+msgid "Wikimedia Commons"
 msgstr ""
 
 #: dataengines/potd/flickrprovider.json
 msgctxt "Name"
-msgid "Flickr Picture of the Day"
+msgid "Flickr"
 msgstr ""
 
 #: dataengines/potd/epodprovider.json
 msgctxt "Name"
-msgid "Earth Science Picture of the Day"
+msgid "Earth Science (USRA)"
 msgstr ""
 
 #: dataengines/potd/noaaprovider.json
 msgctxt "Name"
-msgid "NOAA Environmental Visualization Laboratory Picture of the Day"
+msgid "Weather Satellite (NOAA)"
 msgstr ""
 
 #: dataengines/potd/apodprovider.json
 msgctxt "Name"
-msgid "Astronomy Picture of the Day"
+msgid "Astronomy (NASA)"
 msgstr ""
 
 #: dataengines/potd/natgeoprovider.json
 msgctxt "Name"
 msgid "National Geographic"
-msgstr ""
-
-#: dataengines/potd/bingprovider.json
-msgctxt "Description"
-msgid "Bing Provider"
-msgstr ""
-
-#: dataengines/potd/wcpotdprovider.json
-msgctxt "Description"
-msgid "Wcpotd Provider"
-msgstr ""
-
-#: dataengines/potd/flickrprovider.json
-msgctxt "Description"
-msgid "Flickr Provider"
-msgstr ""
-
-#: dataengines/potd/epodprovider.json
-msgctxt "Description"
-msgid "Epod Provider"
-msgstr ""
-
-#: dataengines/potd/noaaprovider.json
-msgctxt "Description"
-msgid "NOAA Provider"
-msgstr ""
-
-#: dataengines/potd/apodprovider.json
-msgctxt "Description"
-msgid "Apod Provider"
 msgstr ""

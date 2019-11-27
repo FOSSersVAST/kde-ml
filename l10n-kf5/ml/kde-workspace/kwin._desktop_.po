@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-13 02:49+0000\n"
+"POT-Creation-Date: 2019-11-21 02:39+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -245,7 +245,7 @@ msgctxt "Name"
 msgid "Session Quit"
 msgstr ""
 
-#: effects/sessionquit/package/metadata.desktop:23
+#: effects/sessionquit/package/metadata.desktop:24
 msgctxt "Comment"
 msgid "Keep the desktop background alive during logout until the end"
 msgstr ""
@@ -473,7 +473,7 @@ msgctxt "Comment"
 msgid "Active Window Policy"
 msgstr ""
 
-#: kcmkwin/kwinoptions/kwinfocus.desktop:62
+#: kcmkwin/kwinoptions/kwinfocus.desktop:63
 msgctxt "X-KDE-Keywords"
 msgid ""
 "focus,placement,auto raise,raise,click raise,keyboard,CDE,alt-tab,all "

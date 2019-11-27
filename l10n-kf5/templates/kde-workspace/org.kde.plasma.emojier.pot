@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-30 03:39+0100\n"
+"POT-Creation-Date: 2019-11-26 03:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -39,12 +39,12 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: emojier.cpp:283
+#: emojier.cpp:284
 #, kde-format
 msgid "Replace an existing instance"
 msgstr ""
 
-#: ui/CategoryPage.qml:36 ui/CategoryPage.qml:53
+#: ui/CategoryPage.qml:36 ui/CategoryPage.qml:54
 #, kde-format
 msgid "Search..."
 msgstr ""

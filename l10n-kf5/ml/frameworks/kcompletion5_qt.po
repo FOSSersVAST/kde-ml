@@ -30,61 +30,61 @@ msgctxt "KHistoryComboBox|"
 msgid "Clear &History"
 msgstr "&നാള്‍വഴി വൃത്തിയാക്കുക"
 
-#: klineedit.cpp:109
+#: klineedit.cpp:110
 #, fuzzy
 msgctxt "KLineEdit|Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "1"
 
-#: klineedit.cpp:927
+#: klineedit.cpp:937
 #, fuzzy
 msgctxt "KLineEdit|"
 msgid "C&lear"
 msgstr "വൃത്തിയാക്കുക &l"
 
-#: klineedit.cpp:941
+#: klineedit.cpp:951
 #, fuzzy
 msgctxt "KLineEdit|@title:menu"
 msgid "Text Completion"
 msgstr "വാക്കുമുഴുമിപ്പിയ്ക്കല്‍"
 
-#: klineedit.cpp:948
+#: klineedit.cpp:958
 #, fuzzy
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "None"
 msgstr "ഒന്നുമില്ല"
 
-#: klineedit.cpp:949
+#: klineedit.cpp:959
 #, fuzzy
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "മാനുവല്‍"
 
-#: klineedit.cpp:950
+#: klineedit.cpp:960
 #, fuzzy
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "തനിയെയുള്ള"
 
-#: klineedit.cpp:951
+#: klineedit.cpp:961
 #, fuzzy
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "താഴ്ന്നുവരുന്ന പട്ടിക"
 
-#: klineedit.cpp:952
+#: klineedit.cpp:962
 #, fuzzy
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "സ്വയമേയുള്ള പ്രവേശനാനുവാദം"
 
-#: klineedit.cpp:953
+#: klineedit.cpp:963
 #, fuzzy
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "താഴ്ന്നുവരുന്ന പട്ടിക && തനിയെയുള്ള"
 
-#: klineedit.cpp:983
+#: klineedit.cpp:993
 #, fuzzy
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Default"

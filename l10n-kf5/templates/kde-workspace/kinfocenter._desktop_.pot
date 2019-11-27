@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-16 02:15+0000\n"
+"POT-Creation-Date: 2019-11-24 02:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -46,12 +46,12 @@ msgctxt "X-KDE-Keywords"
 msgid "about,info,information,distribution,distro,system,kernel,qt,kde"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:43
+#: Modules/about-distro/src/about-distro.desktop:44
 msgctxt "Name"
 msgid "System Information"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:72
+#: Modules/about-distro/src/about-distro.desktop:74
 msgctxt "Comment"
 msgid "Information About This System"
 msgstr ""

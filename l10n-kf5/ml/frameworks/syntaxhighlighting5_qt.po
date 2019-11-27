@@ -541,7 +541,7 @@ msgstr "ജാവാ"
 
 #, fuzzy
 msgctxt "Language|"
-msgid "JavaScript React"
+msgid "JavaScript React (JSX)"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy
@@ -1142,7 +1142,7 @@ msgstr ""
 
 #, fuzzy
 msgctxt "Language|"
-msgid "TypeScript React"
+msgid "TypeScript React (TSX)"
 msgstr "സ്ക്രിപ്റ്റുകള്‍"
 
 #, fuzzy

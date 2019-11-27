@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-11 02:46+0000\n"
+"POT-Creation-Date: 2019-11-24 02:36+0000\n"
 "PO-Revision-Date: 2019-04-13 01:41+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -214,7 +214,7 @@ msgctxt "Name"
 msgid "PAN Global Protect (openconnect)"
 msgstr ""
 
-#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:45
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:46
 msgctxt "Comment"
 msgid "Compatible with PAN GlobalProtect SSL VPN"
 msgstr ""
