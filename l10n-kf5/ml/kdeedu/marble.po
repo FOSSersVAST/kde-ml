@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: marble\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:03+0200\n"
-"PO-Revision-Date: 2008-07-19 22:19+0530\n"
-"Last-Translator: ANI PETER|അനി പീറ്റര്‍ <apeter@redhat.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-11-28 11:53+0000\n"
+"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -1156,7 +1156,7 @@ msgstr "പ്ലഗിനുകള്‍"
 #: marble_part.rc:6 marbleui.rc:5
 #, kde-format
 msgid "&File"
-msgstr "&ഫയല്‍"
+msgstr "ഫയല്‍ (&F)"
 
 #. i18n: ectx: Menu (edit)
 #: marble_part.rc:21 marbleui.rc:14
@@ -1186,7 +1186,7 @@ msgstr ""
 #: marble_part.rc:55 marbleui.rc:31
 #, kde-format
 msgid "&Settings"
-msgstr "&സജ്ജീകരണങ്ങള്‍"
+msgstr "സജ്ജീകരണങ്ങള്‍ (&S)"
 
 #. i18n: ectx: Menu (panels)
 #: marble_part.rc:59
