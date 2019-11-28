@@ -7434,9 +7434,6 @@ msgstr ""
 #~ msgid "Installing"
 #~ msgstr "ഇന്‍സ്റ്റാള്‍ ചെയ്തുകൊണ്ടിരിയ്ക്കുന്നു"
 
-#~ msgid "Invalid item."
-#~ msgstr "തെറ്റായ വസ്തു."
-
 #~ msgid "Possibly bad download link"
 #~ msgstr "ഒരു പക്ഷേ തെറ്റായ ഡൌണ്‍ലോഡ് ചെയ്യാനുള്ള കണ്ണി"
 

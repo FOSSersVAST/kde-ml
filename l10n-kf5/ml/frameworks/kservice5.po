@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-31 02:52+0200\n"
+"POT-Creation-Date: 2019-10-13 02:52+0200\n"
 "PO-Revision-Date: 2010-12-29 15:32+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -134,7 +134,7 @@ msgid ""
 "%2\n"
 msgstr ""
 
-#: kdeinit/ktoolinvocation_x11.cpp:250
+#: kdeinit/ktoolinvocation_x11.cpp:247
 #, kde-format
 msgid ""
 "Could not launch the mail client:\n"
@@ -145,7 +145,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:251
+#: kdeinit/ktoolinvocation_x11.cpp:248
 #, kde-format
 msgid "Could not launch Mail Client"
 msgstr "മെയില്‍ ക്ലയന്റ് തുടങ്ങുവാന്‍ സാധിച്ചില്ല"
@@ -153,8 +153,8 @@ msgstr "മെയില്‍ ക്ലയന്റ് തുടങ്ങുവ�
 #. i18n("Could not launch %1:\n\n%2", exe, error),
 #. i18n("Could not launch %1:\n\n%2", htmlApp->exec(), error),
 #. i18n("Could not launch %1:\n\n%2", exe, error),
-#: kdeinit/ktoolinvocation_x11.cpp:300 kdeinit/ktoolinvocation_x11.cpp:325
-#: kdeinit/ktoolinvocation_x11.cpp:344
+#: kdeinit/ktoolinvocation_x11.cpp:298 kdeinit/ktoolinvocation_x11.cpp:323
+#: kdeinit/ktoolinvocation_x11.cpp:342
 #, kde-format
 msgid ""
 "Could not launch the browser:\n"
@@ -165,13 +165,13 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:301 kdeinit/ktoolinvocation_x11.cpp:326
-#: kdeinit/ktoolinvocation_x11.cpp:345
+#: kdeinit/ktoolinvocation_x11.cpp:299 kdeinit/ktoolinvocation_x11.cpp:324
+#: kdeinit/ktoolinvocation_x11.cpp:343
 #, kde-format
 msgid "Could not launch Browser"
 msgstr "ബ്രൌസര്‍ തുടങ്ങുവാന്‍ സാധിച്ചില്ല"
 
-#: kdeinit/ktoolinvocation_x11.cpp:384
+#: kdeinit/ktoolinvocation_x11.cpp:383
 #, kde-format
 msgid ""
 "Could not launch the terminal client:\n"
@@ -182,22 +182,22 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:385
+#: kdeinit/ktoolinvocation_x11.cpp:384
 #, kde-format
 msgid "Could not launch Terminal Client"
 msgstr "ടെര്‍മിനല്‍ ക്ലയന്റ് തുടങ്ങുവാന്‍ സാധിച്ചില്ല"
 
-#: plugin/kdbusservicestarter.cpp:77
+#: plugin/kdbusservicestarter.cpp:79
 #, kde-format
 msgid "No service implementing %1"
 msgstr ""
 
-#: services/kservice.cpp:1019
+#: services/kservice.cpp:1031
 #, kde-format
 msgid "The provided service is not valid"
 msgstr "നല്‍കിയ സേവനം സാധുവല്ല"
 
-#: services/kservice.cpp:1023
+#: services/kservice.cpp:1035
 #, fuzzy, kde-format
 msgid "The service '%1' provides no library or the Library key is missing"
 msgstr "'%1' എന്ന സേവനം ലൈബ്രറിയൊന്നും നല്‍കുന്നില്ല അഥവാ ലൈബ്രറി കീ കാണാനില്ലാത്തതു് "

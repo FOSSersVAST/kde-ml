@@ -32,18 +32,6 @@ msgstr ""
 
 #: fonts.cpp:505
 #, kde-format
-msgid "Font Settings Changed"
-msgstr "അക്ഷരസഞ്ചയ ക്രമീകരണങ്ങളില്‍ മാറ്റം വരുത്തിയിരിക്കുന്നു"
-
-#: fonts.cpp:288
-#, kde-format
-msgid ""
-"<p>Some changes such as DPI will only affect newly started applications.</p>"
-msgstr ""
-"<p>ഡിപിഐ പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ മാത്രമേ ലഭ്യമാകുള്ളൂ.</p>"
-
-#: fonts.cpp:440
-#, kde-format
 msgid "Fonts"
 msgstr ""
 
@@ -52,63 +40,63 @@ msgstr ""
 msgid "Antonis Tsiapaliokas"
 msgstr ""
 
-#: kxftconfig.cpp:444
+#: kxftconfig.cpp:480
 #, fuzzy, kde-format
 msgctxt "use system subpixel setting"
 msgid "Vendor default"
 msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
 
-#: kxftconfig.cpp:446
+#: kxftconfig.cpp:482
 #, fuzzy, kde-format
 msgctxt "no subpixel rendering"
 msgid "None"
 msgstr "ഒന്നുമല്ല"
 
-#: kxftconfig.cpp:448
+#: kxftconfig.cpp:484
 #, kde-format
 msgid "RGB"
 msgstr "ആര്‍ജിബി"
 
-#: kxftconfig.cpp:450
+#: kxftconfig.cpp:486
 #, kde-format
 msgid "BGR"
 msgstr "ബിജിആര്‍"
 
-#: kxftconfig.cpp:452
+#: kxftconfig.cpp:488
 #, kde-format
 msgid "Vertical RGB"
 msgstr "വെര്‍ട്ടിക്കല്‍ ആര്‍ജിബി"
 
-#: kxftconfig.cpp:454
+#: kxftconfig.cpp:490
 #, kde-format
 msgid "Vertical BGR"
 msgstr "വെര്‍ട്ടിക്കല്‍ ബിജിആര്‍"
 
-#: kxftconfig.cpp:482
+#: kxftconfig.cpp:518
 #, fuzzy, kde-format
 msgctxt "use system hinting settings"
 msgid "Vendor default"
 msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
 
-#: kxftconfig.cpp:484
+#: kxftconfig.cpp:520
 #, fuzzy, kde-format
 msgctxt "medium hinting"
 msgid "Medium"
 msgstr "മദ്ധ്യം"
 
-#: kxftconfig.cpp:486
+#: kxftconfig.cpp:522
 #, fuzzy, kde-format
 msgctxt "no hinting"
 msgid "None"
 msgstr "ഒന്നുമല്ല"
 
-#: kxftconfig.cpp:488
+#: kxftconfig.cpp:524
 #, fuzzy, kde-format
 msgctxt "slight hinting"
 msgid "Slight"
 msgstr "ചെറുതായി"
 
-#: kxftconfig.cpp:490
+#: kxftconfig.cpp:526
 #, fuzzy, kde-format
 msgctxt "full hinting"
 msgid "Full"
@@ -119,68 +107,66 @@ msgstr "പൂര്‍ണ്ണം"
 msgid "Select %1 Font..."
 msgstr ""
 
-#: package/contents/ui/main.qml:30
+#: package/contents/ui/main.qml:31
 #, kde-format
 msgid "This module lets you configure the system fonts."
 msgstr ""
 
-#: package/contents/ui/main.qml:40
+#: package/contents/ui/main.qml:39
+#, fuzzy, kde-format
+msgid ""
+"Some changes such as anti-aliasing or DPI will only affect newly started "
+"applications."
+msgstr ""
+"<p>ആന്റി-അലിയാസിങ് പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ മാത്രമേ ലഭ്യമാകുള്ളൂ.</"
+"p>"
+
+#: package/contents/ui/main.qml:55
 #, fuzzy, kde-format
 msgid "&Adjust All Fonts..."
 msgstr "എല്ലാ അക്ഷരസഞ്ചയങ്ങളും ആ&വശ്യാനുസൃതമാക്കുക..."
 
-#: package/contents/ui/main.qml:47
+#: package/contents/ui/main.qml:62
 #, fuzzy, kde-format
 msgid "General:"
 msgstr "സാധാരണ"
 
-#: package/contents/ui/main.qml:52
+#: package/contents/ui/main.qml:67
 #, fuzzy, kde-format
 msgid "Fixed width:"
 msgstr "തുല്ല്യ വീതി"
 
-#: package/contents/ui/main.qml:57
+#: package/contents/ui/main.qml:72
 #, fuzzy, kde-format
 msgid "Small:"
 msgstr "ചെറിയ"
 
-#: package/contents/ui/main.qml:62
+#: package/contents/ui/main.qml:77
 #, fuzzy, kde-format
 msgid "Toolbar:"
 msgstr "ഉപകരണപട്ട"
 
-#: package/contents/ui/main.qml:67
+#: package/contents/ui/main.qml:82
 #, fuzzy, kde-format
 msgid "Menu:"
 msgstr "മെനു"
 
-#: package/contents/ui/main.qml:72
+#: package/contents/ui/main.qml:87
 #, fuzzy, kde-format
 msgid "Window title:"
 msgstr "ജാലകത്തിനുള്ള തലക്കെട്ടു്"
 
-#: package/contents/ui/main.qml:84
+#: package/contents/ui/main.qml:100
 #, fuzzy, kde-format
-msgctxt "Used as a noun, and precedes a combobox full of options"
-msgid "Anti-aliasing:"
+msgid "Anti-Aliasing:"
 msgstr "&ആന്റി-അലിയാസിങ് ഉപയോഗിക്കുക:"
 
-#: package/contents/ui/main.qml:86
+#: package/contents/ui/main.qml:101
 #, fuzzy, kde-format
-msgid "Enabled"
+msgid "Enable"
 msgstr "പ്രവര്‍ത്തന സജ്ജം"
 
-#: package/contents/ui/main.qml:86
-#, fuzzy, kde-format
-msgid "Vendor default"
-msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
-
-#: package/contents/ui/main.qml:86
-#, fuzzy, kde-format
-msgid "Disabled"
-msgstr "പ്രവര്‍ത്തന രഹിതം"
-
-#: package/contents/ui/main.qml:96
+#: package/contents/ui/main.qml:109
 #, kde-format
 msgid "Exclude range from anti-aliasing"
 msgstr ""
@@ -216,6 +202,23 @@ msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ ന�
 #, kde-format
 msgid "Select Font"
 msgstr ""
+
+#~ msgid "Font Settings Changed"
+#~ msgstr "അക്ഷരസഞ്ചയ ക്രമീകരണങ്ങളില്‍ മാറ്റം വരുത്തിയിരിക്കുന്നു"
+
+#~ msgid ""
+#~ "<p>Some changes such as DPI will only affect newly started applications.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>ഡിപിഐ പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ മാത്രമേ ലഭ്യമാകുള്ളൂ.</p>"
+
+#, fuzzy
+#~ msgid "Vendor default"
+#~ msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
+
+#, fuzzy
+#~ msgid "Disabled"
+#~ msgstr "പ്രവര്‍ത്തന രഹിതം"
 
 #, fuzzy
 #~ msgid "Configure the system fonts"

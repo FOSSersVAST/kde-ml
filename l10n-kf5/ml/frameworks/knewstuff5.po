@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-09 02:48+0100\n"
+"POT-Creation-Date: 2019-11-27 03:01+0100\n"
 "PO-Revision-Date: 2010-12-29 15:32+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -23,12 +23,12 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 "X-Poedit-Country: INDIA\n"
 
-#: attica/atticaprovider.cpp:166
+#: attica/atticaprovider.cpp:169
 #, fuzzy, kde-format
 msgid "All categories are missing"
 msgstr "എല്ലാ വിഭാഗങ്ങളും"
 
-#: attica/atticaprovider.cpp:362
+#: attica/atticaprovider.cpp:438
 #, kde-format
 msgctxt ""
 "the price of a download item, parameter 1 is the currency, 2 is the price"
@@ -37,7 +37,7 @@ msgid ""
 "Do you want to buy it?"
 msgstr ""
 
-#: attica/atticaprovider.cpp:376
+#: attica/atticaprovider.cpp:452
 #, kde-format
 msgid ""
 "Your account balance is too low:\n"
@@ -45,35 +45,35 @@ msgid ""
 "Price: %2"
 msgstr ""
 
-#: attica/atticaprovider.cpp:418
+#: attica/atticaprovider.cpp:494
 #, kde-format
 msgctxt "voting for an item (good/bad)"
 msgid "Your vote was recorded."
 msgstr "നിങ്ങളുടെ വോട്ട് റിക്കോര്‍ഡ് ചെയ്തിരിയ്ക്കുന്നു."
 
-#: attica/atticaprovider.cpp:433
+#: attica/atticaprovider.cpp:509
 #, kde-format
 msgid "You are now a fan."
 msgstr "നിങ്ങളിപ്പോള്‍ ഒരു ആരാധകനാണു്."
 
-#: attica/atticaprovider.cpp:444
+#: attica/atticaprovider.cpp:520
 #, fuzzy, kde-format
 msgid "Network error %1: %2"
 msgstr "നെറ്റ്‌വര്‍ക്ക് പിശക്. (%1)"
 
-#: attica/atticaprovider.cpp:448
+#: attica/atticaprovider.cpp:524
 #, kde-format
 msgid "Too many requests to server. Please try again in a few minutes."
 msgstr ""
 
-#: attica/atticaprovider.cpp:450
+#: attica/atticaprovider.cpp:526
 #, kde-format
 msgid ""
 "The Open Collaboration Services instance %1 does not support the attempted "
 "function."
 msgstr ""
 
-#: attica/atticaprovider.cpp:452
+#: attica/atticaprovider.cpp:528
 #, kde-format
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr ""
@@ -83,7 +83,15 @@ msgstr ""
 msgid "Download New Stuff..."
 msgstr "പുതിയവ ഇറക്കുക..."
 
-#: core/engine.cpp:106
+#: core/commentsmodel.cpp:185
+#, fuzzy, kde-format
+#| msgid "Unknown socket error"
+msgctxt ""
+"The value returned for an unknown role when requesting data from the model."
+msgid "Unknown CommentsModel role"
+msgstr "അപരിചിതമായ സോക്കറ്റിലെ തെറ്റു്"
+
+#: core/engine.cpp:109
 #, kde-format
 msgid "Initializing"
 msgstr "ആരംഭിയ്ക്കുന്നു"
@@ -186,15 +194,19 @@ msgstr "%1 ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന�
 
 #: core/installation.cpp:539
 #, kde-format
-msgid "Overwrite existing file?"
-msgstr "നിലവിലുള്ള ഫയല്‍ മാറ്റിയെഴുതണമോ?"
+msgid ""
+"This file already exists on disk (possibly due to an earlier failed download "
+"attempt). Continuing means overwriting it. Do you wish to overwrite the "
+"existing file?"
+msgstr ""
 
 #: core/installation.cpp:540
 #, fuzzy, kde-format
-msgid "Download File"
-msgstr "ഫയല്‍ ഡൌണ്‍ലോട് ചെയ്യുക:"
+#| msgid "Overwrite File?"
+msgid "Overwrite File"
+msgstr "ഫയല്‍ മാറ്റിയെഴുതണമോ?"
 
-#: core/security.cpp:84
+#: core/security.cpp:83
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
@@ -202,14 +214,14 @@ msgid ""
 "not be possible.</qt>"
 msgstr ""
 
-#: core/security.cpp:208
+#: core/security.cpp:207
 #, kde-format
 msgid ""
 "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;%3&gt;</"
 "i><br />:</qt>"
 msgstr ""
 
-#: core/security.cpp:286
+#: core/security.cpp:285
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
@@ -217,85 +229,85 @@ msgid ""
 "will not be possible.</qt>"
 msgstr ""
 
-#: core/security.cpp:341
+#: core/security.cpp:340
 #, kde-format
 msgid "Key used for signing:"
 msgstr "ഒപ്പുവയ്ക്കാനുപയോഗിയ്ക്കുന്ന കീ:"
 
-#: core/security.cpp:342
+#: core/security.cpp:341
 #, kde-format
 msgid "Select Signing Key"
 msgstr "ഒപ്പുവയ്ക്കാനുള്ള കീ തെരഞ്ഞെടുക്കുക"
 
-#: core/security.cpp:377
+#: core/security.cpp:376
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
 
-#: downloaddialog.cpp:83 downloadwidget.cpp:223
+#: downloaddialog.cpp:79 downloadwidget.cpp:222
 #, kde-format
 msgid "Get Hot New Stuff"
 msgstr "കിടിലന്‍ സാധനങ്ങളെടുത്തോളൂ"
 
-#: downloaddialog.cpp:101
+#: downloaddialog.cpp:97
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr "%1 കൂട്ടിച്ചേര്‍ക്കല്‍ ഇന്‍സ്റ്റോളര്‍"
 
-#: downloadwidget.cpp:132
+#: downloadwidget.cpp:131
 #, kde-format
 msgid "Timeout. Check Internet connection."
 msgstr "സമയം തീര്‍ന്നു. ഇന്റര്‍നെറ്റ് ബന്ധം പരിശോധിയ്ക്കുക."
 
-#: downloadwidget.cpp:195
+#: downloadwidget.cpp:194
 #, kde-format
 msgid "Server: %1"
 msgstr "സേവകന്‍: %1"
 
-#: downloadwidget.cpp:196
+#: downloadwidget.cpp:195
 #, kde-format
 msgid "<br />Provider: %1"
 msgstr "<br />ദാതാവ്: %1"
 
-#: downloadwidget.cpp:197
+#: downloadwidget.cpp:196
 #, kde-format
 msgid "<br />Version: %1"
 msgstr "<br />ലക്കം: %1"
 
-#: downloadwidget.cpp:201
+#: downloadwidget.cpp:200
 #, kde-format
 msgid "Provider information"
 msgstr "ദാതാവിനെക്കുറിച്ചുള്ള വിവരം"
 
-#: downloadwidget.cpp:212
+#: downloadwidget.cpp:211
 #, kde-format
 msgid "Could not install %1"
 msgstr "%1 ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമായില്ല"
 
-#: downloadwidget.cpp:213
+#: downloadwidget.cpp:212
 #, kde-format
 msgid "Get Hot New Stuff!"
 msgstr "കിടിലന്‍ സാധനങ്ങളെടുത്തോളൂ!"
 
-#: downloadwidget.cpp:268
+#: downloadwidget.cpp:267
 #, kde-format
 msgid "Icons view mode"
 msgstr ""
 
-#: downloadwidget.cpp:270
+#: downloadwidget.cpp:269
 #, kde-format
 msgid "Details view mode"
 msgstr ""
 
-#: downloadwidget.cpp:285
+#: downloadwidget.cpp:284
 #, kde-format
 msgid "All Providers"
 msgstr "എല്ലാ ദാതാക്കളും"
 
-#: downloadwidget.cpp:292
+#: downloadwidget.cpp:291
 #, kde-format
 msgid "All Categories"
 msgstr "എല്ലാ വിഭാഗങ്ങളും"
@@ -370,15 +382,15 @@ msgstr "<a href=\"http://opendesktop.org\">പൂമുഖം</a>"
 
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
 #. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
-#: downloadwidget.ui:566 ui/itemsgridviewdelegate.cpp:338
-#: ui/itemsviewdelegate.cpp:129 uploaddialog.ui:171
+#: downloadwidget.ui:566 ui/itemsgridviewdelegate.cpp:337
+#: ui/itemsviewdelegate.cpp:128 uploaddialog.ui:171
 #, kde-format
 msgid "Update"
 msgstr "പുതുക്കല്‍"
 
 #. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
-#: downloadwidget.ui:576 ui/itemsgridviewdelegate.cpp:334
-#: ui/itemsviewdelegate.cpp:125
+#: downloadwidget.ui:576 ui/itemsgridviewdelegate.cpp:333
+#: ui/itemsviewdelegate.cpp:124
 #, kde-format
 msgid "Uninstall"
 msgstr "അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുക"
@@ -390,26 +402,26 @@ msgid "Become a Fan"
 msgstr "ആരാധകനാവുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
-#: downloadwidget.ui:590 ui/itemsgridviewdelegate.cpp:353
-#: ui/itemsgridviewdelegate.cpp:363 ui/itemsviewdelegate.cpp:144
-#: ui/itemsviewdelegate.cpp:154
+#: downloadwidget.ui:590 qtquick/qml/DownloadItemsSheet.qml:72
+#: ui/itemsgridviewdelegate.cpp:352 ui/itemsgridviewdelegate.cpp:362
+#: ui/itemsviewdelegate.cpp:143 ui/itemsviewdelegate.cpp:153
 #, kde-format
 msgid "Install"
 msgstr "ഇന്‍സ്റ്റാള്‍ ചെയ്യുക"
 
-#: kmoretools/kmoretools.cpp:571
+#: kmoretools/kmoretools.cpp:570
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "ഇന്‍സ്റ്റാള്‍ ചെയ്തതു്"
 
-#: kmoretools/kmoretools.cpp:671
+#: kmoretools/kmoretools.cpp:670
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "More"
 msgstr "കൂടുതല്‍..."
 
-#: kmoretools/kmoretools.cpp:709
+#: kmoretools/kmoretools.cpp:708
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "Configure..."
@@ -433,17 +445,17 @@ msgctxt "@action:inmenu"
 msgid "No further information available."
 msgstr "പൊരുത്തമുള്ള ഇനമൊന്നും ലഭ്യമല്ല.\n"
 
-#: kmoretools/kmoretoolsconfigdialog_p.cpp:187
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:186
 #, fuzzy, kde-format
 msgid "Configure menu"
 msgstr "ക്രമീകരിയ്ക്കുക"
 
-#: kmoretools/kmoretoolsconfigdialog_p.cpp:189
+#: kmoretools/kmoretoolsconfigdialog_p.cpp:188
 #, fuzzy, kde-format
 msgid "Configure menu - %1"
 msgstr "%1 ക്രമീകരിയ്ക്കുക &c..."
 
-#: kmoretools/kmoretoolsmenufactory.cpp:186
+#: kmoretools/kmoretoolsmenufactory.cpp:185
 #, fuzzy, kde-format
 #| msgid "%1 folder"
 #| msgid_plural "%1 folders"
@@ -451,13 +463,13 @@ msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current folder"
 msgstr "%1 ഫോള്‍ഡര്‍"
 
-#: kmoretools/kmoretoolsmenufactory.cpp:194
+#: kmoretools/kmoretoolsmenufactory.cpp:193
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current device"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:209
+#: kmoretools/kmoretoolsmenufactory.cpp:208
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - all devices"
@@ -519,7 +531,7 @@ msgstr ""
 msgid "More tools..."
 msgstr "കൂടുതല്‍..."
 
-#: qtquick/qml/NewStuffItem.qml:35
+#: qtquick/categoriesmodel.cpp:79
 #, fuzzy, kde-format
 #| msgid "All Categories"
 msgctxt ""
@@ -659,12 +671,12 @@ msgstr ""
 
 #: qtquick/qml/EntryDetails.qml:178
 #, fuzzy, kde-format
-#| msgid "No Preview"
+#| msgid "View Comments"
 msgctxt ""
-"A link which, when clicked, opens a new sub page with reviews (comments) for "
-"this entry"
-msgid "%1 Reviews"
-msgstr "അച്ചടിയ്ക്കുന്നതിന് മുമ്പ് കണ്ടുനോക്കുന്നതു് സാധ്യമല്ല"
+"A link which, when clicked, opens a new sub page with comments (comments "
+"with or without ratings) for this entry"
+msgid "%1 Reviews and Comments"
+msgstr "അഭിപ്രായങ്ങള്‍ കാണുക"
 
 #: qtquick/qml/EntryDetails.qml:183
 #, fuzzy, kde-format
@@ -805,6 +817,29 @@ msgctxt "Title for the page containing a view of the comments for the entry"
 msgid "Comments and Reviews for %1"
 msgstr ""
 
+#: qtquick/qml/private/EntryCommentsPage.qml:45
+#, fuzzy, kde-format
+#| msgid "All Categories"
+msgctxt "Title for the item which is checked when all comments should be shown"
+msgid "Show All Comments"
+msgstr "എല്ലാ വിഭാഗങ്ങളും"
+
+#: qtquick/qml/private/EntryCommentsPage.qml:51
+#, kde-format
+msgctxt ""
+"Title for the item which is checked when only comments which are reviews "
+"should be shown"
+msgid "Show Reviews Only"
+msgstr ""
+
+#: qtquick/qml/private/EntryCommentsPage.qml:57
+#, kde-format
+msgctxt ""
+"Title for the item which is checked when comments which are reviews, and "
+"their children should be shown"
+msgid "Show Reviews and Replies"
+msgstr ""
+
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:180
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:198
 #, fuzzy, kde-format
@@ -926,26 +961,26 @@ msgctxt "Tooltip for a link in a dialog"
 msgid "Opens in a browser window"
 msgstr "ഒരു ബ്രൌസറില്‍ തുറക്കുന്നു"
 
-#: ui/itemsgridviewdelegate.cpp:102 ui/itemsviewdelegate.cpp:282
+#: ui/itemsgridviewdelegate.cpp:101 ui/itemsviewdelegate.cpp:281
 #, kde-format
 msgid "Rating: %1%"
 msgstr "നിലവാരം: %1%"
 
-#: ui/itemsgridviewdelegate.cpp:139
+#: ui/itemsgridviewdelegate.cpp:138
 #, fuzzy, kde-format
 msgctxt "Show the size of the file in a list"
 msgid "<br />Size: %1"
 msgstr "<br />ദാതാവ്: %1"
 
-#: ui/itemsgridviewdelegate.cpp:160 ui/itemsgridviewdelegate.cpp:162
-#: ui/itemsgridviewdelegate.cpp:164 ui/itemsviewdelegate.cpp:242
-#: ui/itemsviewdelegate.cpp:244 ui/itemsviewdelegate.cpp:246
+#: ui/itemsgridviewdelegate.cpp:159 ui/itemsgridviewdelegate.cpp:161
+#: ui/itemsgridviewdelegate.cpp:163 ui/itemsviewdelegate.cpp:241
+#: ui/itemsviewdelegate.cpp:243 ui/itemsviewdelegate.cpp:245
 #, kde-format
 msgctxt "Show the author of this item in a list"
 msgid "By <i>%1</i>"
 msgstr "<i>%1</i> അണിയിച്ചൊരുക്കിയതു്"
 
-#: ui/itemsgridviewdelegate.cpp:187 ui/itemsviewdelegate.cpp:260
+#: ui/itemsgridviewdelegate.cpp:186 ui/itemsviewdelegate.cpp:259
 #, kde-format
 msgctxt "fan as in supporter"
 msgid "1 fan"
@@ -953,134 +988,134 @@ msgid_plural "%1 fans"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ui/itemsgridviewdelegate.cpp:190 ui/itemsviewdelegate.cpp:263
+#: ui/itemsgridviewdelegate.cpp:189 ui/itemsviewdelegate.cpp:262
 #, kde-format
 msgid "1 download"
 msgid_plural "%1 downloads"
 msgstr[0] "1 ഡൌണ്‍ലോഡ്"
 msgstr[1] "%1 ഡൌണ്‍ലോഡുകള്‍"
 
-#: ui/itemsgridviewdelegate.cpp:256 ui/itemsviewdelegate.cpp:336
+#: ui/itemsgridviewdelegate.cpp:255 ui/itemsviewdelegate.cpp:335
 #, kde-format
 msgid "Loading Preview"
 msgstr "അച്ചടിയ്ക്കുന്നതിന് മുമ്പ് കണ്ടുനോക്കുന്നു"
 
-#: ui/itemsgridviewdelegate.cpp:283 ui/itemsviewdelegate.cpp:187
+#: ui/itemsgridviewdelegate.cpp:282 ui/itemsviewdelegate.cpp:186
 #, kde-format
 msgid "Details"
 msgstr "വിശദാംശങ്ങള്‍"
 
-#: ui/itemsgridviewdelegate.cpp:348 ui/itemsviewdelegate.cpp:139
+#: ui/itemsgridviewdelegate.cpp:347 ui/itemsviewdelegate.cpp:138
 #, kde-format
 msgid "Updating"
 msgstr "പുതുക്കിക്കൊണ്ടിരിയ്ക്കുന്നു"
 
-#: ui/itemsgridviewdelegate.cpp:358 ui/itemsviewdelegate.cpp:149
+#: ui/itemsgridviewdelegate.cpp:357 ui/itemsviewdelegate.cpp:148
 #, kde-format
 msgid "Install Again"
 msgstr "വീണ്ടും ഇന്‍സ്റ്റോള്‍ ചെയ്യുക"
 
-#: ui/itemsviewdelegate.cpp:175
+#: ui/itemsviewdelegate.cpp:174
 #, kde-format
 msgid "Use"
 msgstr ""
 
-#: ui/itemsviewdelegate.cpp:231
+#: ui/itemsviewdelegate.cpp:230
 #, fuzzy, kde-format
 msgctxt "Show the size of the file in a list"
 msgid "<p>Size: %1</p>"
 msgstr "<p>ഡൌണ്‍ലോടുകള്‍: %1</p>\n"
 
-#: uploaddialog.cpp:66
+#: uploaddialog.cpp:63
 #, kde-format
 msgctxt "Opposite to Back"
 msgid "Next"
 msgstr "അടുത്തതു്"
 
-#: uploaddialog.cpp:71
+#: uploaddialog.cpp:68
 #, kde-format
 msgid "Finish"
 msgstr "പൂര്‍ത്തിയാക്കുക"
 
-#: uploaddialog.cpp:183
+#: uploaddialog.cpp:180
 #, fuzzy, kde-format
 msgid "Fetching provider information..."
 msgstr "പ്രൊവൈഡര്‍ സംബന്ധിച്ചുള്ള വിവരം ലഭ്യമാക്കുന്നു"
 
-#: uploaddialog.cpp:190
+#: uploaddialog.cpp:187
 #, kde-format
 msgid "Fetching license data from server..."
 msgstr "സെര്‍വറില്‍ നിന്നം കലാസൃഷ്ടിയുടെ അനുമതിപത്ര വിവരങ്ങള്‍ എടുത്തുകൊണ്ടിരിയ്ക്കുന്നു..."
 
-#: uploaddialog.cpp:197
+#: uploaddialog.cpp:194
 #, kde-format
 msgid "Fetching content data from server..."
 msgstr "സെര്‍വറില്‍ നിന്നം കലാസൃഷ്ടി എടുത്തുകൊണ്ടിരിയ്ക്കുന്നു..."
 
-#: uploaddialog.cpp:272
+#: uploaddialog.cpp:269
 #, fuzzy, kde-format
 msgid "Could not fetch provider information."
 msgstr "പ്രൊവൈഡര്‍ സംബന്ധിച്ചുള്ള വിവരം ലഭ്യമാക്കുന്നു"
 
-#: uploaddialog.cpp:296
+#: uploaddialog.cpp:293
 #, kde-format
 msgid "Register a new account"
 msgstr ""
 
-#: uploaddialog.cpp:320
+#: uploaddialog.cpp:317
 #, kde-format
 msgid "Checking login..."
 msgstr "ലോഗിന്‍ പരിശോധിയ്ക്കുന്നു..."
 
-#: uploaddialog.cpp:342
+#: uploaddialog.cpp:339
 #, kde-format
 msgid "Fetching your previously updated content..."
 msgstr "നിങ്ങള്‍ മുമ്പു് പുതുക്കിയ കലാസൃഷ്ടി എടുത്തുകൊണ്ടിരിയ്ക്കുന്നു..."
 
-#: uploaddialog.cpp:345
+#: uploaddialog.cpp:342
 #, kde-format
 msgid "Could not verify login, please try again."
 msgstr "ലോഗിന്‍ ശരിയോണെയെന്നു് നോക്കാന്‍ സാധ്യമായില്ല, ദയവായി വീണ്ടും ശ്രമിയ്ക്കുക."
 
-#: uploaddialog.cpp:364
+#: uploaddialog.cpp:361
 #, kde-format
 msgid "Fetching your previously updated content finished."
 msgstr "നിങ്ങള്‍ മുമ്പു് പുതുക്കിയ കലാസൃഷ്ടി എടുക്കുന്നതു് പൂര്‍ത്തിയായി."
 
-#: uploaddialog.cpp:382
+#: uploaddialog.cpp:379
 #, kde-format
 msgid "Fetching content data from server finished."
 msgstr "നിങ്ങള്‍ മുമ്പു് പുതുക്കിയ കലാസൃഷ്ടി എടുക്കുന്നതു് പൂര്‍ത്തിയായി..."
 
-#: uploaddialog.cpp:405 uploaddialog.cpp:845
+#: uploaddialog.cpp:402 uploaddialog.cpp:842
 #, kde-format
 msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr "വെബ്സൈറ്റ് സന്ദര്‍ശിയ്ക്കുക"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
-#: uploaddialog.cpp:451 uploaddialog.ui:14
+#: uploaddialog.cpp:448 uploaddialog.ui:14
 #, kde-format
 msgid "Share Hot New Stuff"
 msgstr "കിടിലന്‍ സാധനങ്ങള്‍ പങ്കു് വയ്ക്കുക"
 
-#: uploaddialog.cpp:474
+#: uploaddialog.cpp:471
 #, kde-format
 msgctxt "Program name followed by 'Add On Uploader'"
 msgid "%1 Add-On Uploader"
 msgstr "%1 കൂട്ടിച്ചേര്‍ക്കല്‍ അപ്‌ലോഡര്‍"
 
-#: uploaddialog.cpp:494 uploaddialog.cpp:770
+#: uploaddialog.cpp:491 uploaddialog.cpp:767
 #, kde-format
 msgid "File not found: %1"
 msgstr "ഫയല്‍ ലഭ്യമായില്ല: %1"
 
-#: uploaddialog.cpp:494 uploaddialog.cpp:621 uploaddialog.cpp:770
+#: uploaddialog.cpp:491 uploaddialog.cpp:618 uploaddialog.cpp:767
 #, kde-format
 msgid "Upload Failed"
 msgstr "കയറ്റാന്‍ സാധിച്ചില്ല"
 
-#: uploaddialog.cpp:574
+#: uploaddialog.cpp:571
 #, kde-format
 msgid ""
 "The server does not recognize the category %2 to which you are trying to "
@@ -1091,37 +1126,37 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: uploaddialog.cpp:577
+#: uploaddialog.cpp:574
 #, kde-format
 msgid "Error"
 msgstr "തെറ്റ്"
 
-#: uploaddialog.cpp:621
+#: uploaddialog.cpp:618
 #, kde-format
 msgid "The selected category \"%1\" is invalid."
 msgstr "തെരഞ്ഞെടുത്ത \"%1\" വിഭാഗം അസാധുവാണു്."
 
-#: uploaddialog.cpp:670 uploaddialog.cpp:685 uploaddialog.cpp:699
+#: uploaddialog.cpp:667 uploaddialog.cpp:682 uploaddialog.cpp:696
 #, kde-format
 msgid "Select preview image"
 msgstr "ചിത്രത്തിന്റെ തിരനോട്ടം തെരഞ്ഞെടുക്കുക"
 
-#: uploaddialog.cpp:714
+#: uploaddialog.cpp:711
 #, kde-format
 msgid "There was a network error."
 msgstr "ശൃംഖലയിലൊരു തകരാറുണ്ടായി."
 
-#: uploaddialog.cpp:714 uploaddialog.cpp:719
+#: uploaddialog.cpp:711 uploaddialog.cpp:716
 #, kde-format
 msgid "Uploading Failed"
 msgstr "അപ്‌ലോഡ് ചെയ്യുന്നതു്പരാജയപ്പെട്ടു"
 
-#: uploaddialog.cpp:719
+#: uploaddialog.cpp:716
 #, kde-format
 msgid "Authentication error."
 msgstr "തിരിച്ചറിയുന്നതില്‍ തെറ്റു്."
 
-#: uploaddialog.cpp:729
+#: uploaddialog.cpp:726
 #, kde-format
 msgid "Upload failed: %1"
 msgstr "കയറ്റുന്നതു്പരാജയപ്പെട്ടു: %1"
@@ -1309,6 +1344,21 @@ msgstr ""
 msgid "Start Upload"
 msgstr "കയറ്റല്‍ തുടങ്ങുക"
 
+#, fuzzy
+#~| msgid "No Preview"
+#~ msgctxt ""
+#~ "A link which, when clicked, opens a new sub page with reviews (comments) "
+#~ "for this entry"
+#~ msgid "%1 Reviews"
+#~ msgstr "അച്ചടിയ്ക്കുന്നതിന് മുമ്പ് കണ്ടുനോക്കുന്നതു് സാധ്യമല്ല"
+
+#~ msgid "Overwrite existing file?"
+#~ msgstr "നിലവിലുള്ള ഫയല്‍ മാറ്റിയെഴുതണമോ?"
+
+#, fuzzy
+#~ msgid "Download File"
+#~ msgstr "ഫയല്‍ ഡൌണ്‍ലോട് ചെയ്യുക:"
+
 #~ msgid "Configuration file not found: \"%1\""
 #~ msgstr "ക്രമീകരണ ഫയല്‍ ലഭ്യമല്ല: \"%1\""
 
@@ -1433,9 +1483,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 #~ msgid "Email"
 #~ msgstr "ഇമെയില്‍"
 
-#~ msgid "Homepage"
-#~ msgstr "പൂമുഖം"
-
 #~ msgid "Task"
 #~ msgstr "ജോലി"
 
@@ -1475,9 +1522,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 
 #~ msgid "&Redo: %1"
 #~ msgstr "വീണ്ടും &r: %1"
-
-#~ msgid "Close"
-#~ msgstr "അടയ്ക്കുക"
 
 #~ msgctxt "Freeze the window geometry"
 #~ msgid "Freeze"
@@ -2812,10 +2856,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 #~ msgid "Note: %1"
 #~ msgstr "കുറിപ്പു്: %1"
 
-#~ msgctxt "@note/rich"
-#~ msgid "<i>Note</i>: %1"
-#~ msgstr "<i>കുറിപ്പു്</i>: %1"
-
 #~ msgctxt ""
 #~ "@note-with-label/plain\n"
 #~ "%1 is the note label, %2 is the text"
@@ -3289,9 +3329,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 #~ msgid "Connection timed out"
 #~ msgstr "അനുവദിച്ച സമയത്തിനുള്ളില്‍ ബന്ധപ്പെടാന്‍ സാധിച്ചില്ല"
 
-#~ msgid "Unknown error"
-#~ msgstr "അപരിചിതമായ പിശകു്"
-
 #~ msgid "Could not set non-blocking mode"
 #~ msgstr "തടയാത്ത ദശയാക്കാന്‍ സാധിച്ചില്ല"
 
@@ -3309,9 +3346,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 
 #~ msgid "Read-only filesystem"
 #~ msgstr "വായിയ്ക്കാന്‍ മാത്രം സാധിയ്ക്കുന്ന ഫയല്‍ സിസ്റ്റം"
-
-#~ msgid "Unknown socket error"
-#~ msgstr "അപരിചിതമായ സോക്കറ്റിലെ തെറ്റു്"
 
 #~ msgid "Operation not supported"
 #~ msgstr "പ്രക്രിയയ്ക്കു് പിന്തുണ ലഭ്യമല്ല"
@@ -4380,10 +4414,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 #~ msgid "Top to Bottom, Right to Left"
 #~ msgstr "മുകളില്‍ നിന്നും താഴേക്കു്, വലതു് നിന്നും ഇടത്തേക്കു്"
 
-#~ msgctxt "No border line"
-#~ msgid "None"
-#~ msgstr "ഒന്നുമില്ല"
-
 #~ msgid "Single Line"
 #~ msgstr "ഒറ്റ വര"
 
@@ -5097,9 +5127,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 
 #~ msgid "Preview of the \"%1\" font"
 #~ msgstr " \"%1\" അക്ഷരസഞ്ചയം കണ്ടുനോക്കുക"
-
-#~ msgid "Search"
-#~ msgstr "തെരയുക"
 
 #~ msgid "Stop"
 #~ msgstr "നിര്‍ത്തുക"
@@ -7479,9 +7506,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 #~ "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 #~ msgstr "\"%1\" എന്ന പേരില്‍ ഒരു ഫയല്‍ നിലവിലുണ്ടു്. നിങ്ങള്‍ക്കതു് മാറ്റിയെഴുതണമോ?"
 
-#~ msgid "Overwrite File?"
-#~ msgstr "ഫയല്‍ മാറ്റിയെഴുതണമോ?"
-
 #~ msgid "Overwrite"
 #~ msgstr "മാറ്റിയെഴുതുക"
 
@@ -8295,9 +8319,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 #~ msgid "Exception calling '%1' slot from %2:%3:%4"
 #~ msgstr "%2 വില്‍ നിന്നും '%1' സ്ലോട്ട് വിളിയ്ക്കുന്നതില്‍ എക്സെപ്ഷന്‍:%3:%4"
 
-#~ msgid "loading %1"
-#~ msgstr "%1 ലഭ്യമാക്കുന്നു"
-
 #~ msgctxt "describes the feed of the latest posted entries"
 #~ msgid "Latest"
 #~ msgstr "ഏറ്റവും പുതിയത്"
@@ -8313,9 +8334,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 
 #~ msgid "Add Comment"
 #~ msgstr "അഭിപ്രായം കൂട്ടിച്ചേര്‍ക്കുക"
-
-#~ msgid "View Comments"
-#~ msgstr "അഭിപ്രായങ്ങള്‍ കാണുക"
 
 #~ msgid "Entries failed to load"
 #~ msgstr "എന്‍ട്രികള്‍ ലോഡ് ചെയ്യുന്നതില്‍ പരാജയപ്പെട്ടു"
@@ -8344,9 +8362,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 #~ msgid "Collaborate"
 #~ msgstr "ഒന്നിച്ചുള്ള പ്രവര്‍ത്തനം"
 
-#~ msgid "Rating: "
-#~ msgstr "വിലയിരുത്തല്‍: "
-
 #~ msgid "Downloads: "
 #~ msgstr "ഡൌലോടുകള്‍:"
 
@@ -8355,9 +8370,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 
 #~ msgid "Rating: %1"
 #~ msgstr "നിലവാരം: %1"
-
-#~ msgid "No Preview"
-#~ msgstr "അച്ചടിയ്ക്കുന്നതിന് മുമ്പ് കണ്ടുനോക്കുന്നതു് സാധ്യമല്ല"
 
 #~ msgid "Comments"
 #~ msgstr "അഭിപ്രായങ്ങള്‍"
@@ -8831,9 +8843,6 @@ msgstr "കയറ്റല്‍ തുടങ്ങുക"
 
 #~ msgid "Shortcut for shutting down the computer without confirmation"
 #~ msgstr "ചോദിയ്ക്കാതെ തന്നെ കമ്പ്യൂട്ടര്‍ അടച്ചു് പൂട്ടാന്‍ വേണ്ട കുറുക്കുവഴി"
-
-#~ msgid "Show directories first"
-#~ msgstr "തട്ടുകള്‍ ആദ്യം കാണിയ്ക്കുക"
 
 #~ msgid ""
 #~ "Whether directories should be placed at the top when displaying files"

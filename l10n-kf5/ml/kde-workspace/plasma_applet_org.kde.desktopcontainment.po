@@ -35,24 +35,13 @@ msgstr "ചിഹ്നങ്ങള്‍"
 msgid "Filter"
 msgstr "ഫില്‍റ്റര്‍"
 
-#: package/contents/ui/AppletHandle.qml:105
-msgid "Resize"
-msgstr ""
-
-#: package/contents/ui/AppletHandle.qml:127
-msgid "Rotate"
-msgstr ""
-
-#: package/contents/ui/AppletHandle.qml:284
-msgid "Remove"
-msgstr ""
-
 #: package/contents/ui/BackButtonItem.qml:116
 msgid "Back"
 msgstr ""
 
 #: package/contents/ui/ConfigFilter.qml:76
 #, fuzzy
+#| msgid "File types:"
 msgid "Files:"
 msgstr "ഫയലിന്റെ തരങ്ങള്‍:"
 
@@ -63,11 +52,13 @@ msgstr "ഒരു സ്ഥാനം കാണിയ്ക്കുക:"
 
 #: package/contents/ui/ConfigFilter.qml:77
 #, fuzzy
+#| msgid "Show Files Matching"
 msgid "Show matching"
 msgstr "പൊരുത്തമുള്ള ഫയലുകള്‍ മാത്രം കാണിയ്ക്കുക"
 
 #: package/contents/ui/ConfigFilter.qml:77
 #, fuzzy
+#| msgid "Hide Files Matching"
 msgid "Hide matching"
 msgstr "പൊരുത്തമുള്ള ഫയലുകള്‍ ഒളിപ്പിയ്ക്കുക"
 
@@ -223,53 +214,53 @@ msgstr "ചെറുതു്"
 msgid "Large"
 msgstr "വലുതു്"
 
-#: package/contents/ui/ConfigIcons.qml:263
+#: package/contents/ui/ConfigIcons.qml:264
 #, fuzzy
 msgid "Label width:"
 msgstr "പേരു്:"
 
-#: package/contents/ui/ConfigIcons.qml:266
+#: package/contents/ui/ConfigIcons.qml:267
 msgid "Narrow"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:267
+#: package/contents/ui/ConfigIcons.qml:268
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Medium"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:268
+#: package/contents/ui/ConfigIcons.qml:269
 msgid "Wide"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:276
+#: package/contents/ui/ConfigIcons.qml:277
 #, fuzzy
 msgid "Text lines:"
 msgstr "1 ഫയല്‍"
 
-#: package/contents/ui/ConfigIcons.qml:292
+#: package/contents/ui/ConfigIcons.qml:293
 msgid "Features:"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:294
+#: package/contents/ui/ConfigIcons.qml:295
 msgid "Tooltips"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:301
+#: package/contents/ui/ConfigIcons.qml:302
 #, fuzzy
 msgid "Selection markers"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:308
+#: package/contents/ui/ConfigIcons.qml:309
 msgid "Folder preview popups"
 msgstr ""
 
-#: package/contents/ui/ConfigIcons.qml:314
+#: package/contents/ui/ConfigIcons.qml:315
 #, fuzzy
 msgid "Preview thumbnails"
 msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര്‍ത്തികമാക്കുക"
 
-#: package/contents/ui/ConfigIcons.qml:321
+#: package/contents/ui/ConfigIcons.qml:323
 #, fuzzy
 msgid "Configure Preview Plugins..."
 msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര്‍ത്തികമാക്കുക"
@@ -298,6 +289,7 @@ msgstr "സ്ഥാനം"
 
 #: package/contents/ui/ConfigLocation.qml:150
 #, fuzzy
+#| msgid "Type a path or a URL here"
 msgid "Type path or URL..."
 msgstr "ഒരു വഴിയോ യുആര്‍എല്ലോ ഇവിടെ ടൈപ്പ് ചെയ്യുക"
 

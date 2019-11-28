@@ -29,7 +29,7 @@ msgstr "amrithanadhm@gmail.com"
 
 #: kcm.cpp:75
 #, kde-format
-msgid "Look and Feel"
+msgid "Global Theme"
 msgstr ""
 
 #: kcm.cpp:77 lnftool.cpp:45
@@ -50,12 +50,14 @@ msgstr "കഴ്‌സർ ക്രമീകരണങ്ങൾ മാറ്റ�
 
 #: lnftool.cpp:44
 #, kde-format
-msgid "Look and feel tool"
+msgid "Global Theme Tool"
 msgstr ""
 
 #: lnftool.cpp:44
 #, fuzzy, kde-format
-msgid "Command line tool to apply look and feel packages."
+msgid ""
+"Command line tool to apply global theme packages for changing the look and "
+"feel."
 msgstr "കെട്ടും മട്ടും പാക്കേജുകൾ പ്രയോഗിക്കാനുള്ള കമാൻഡ് ലൈൻ ഉപകരണം."
 
 #: lnftool.cpp:44
@@ -70,12 +72,12 @@ msgstr "പരിപാലകൻ"
 
 #: lnftool.cpp:54
 #, fuzzy, kde-format
-msgid "List available Look and feel packages"
+msgid "List available global theme packages"
 msgstr "ലഭ്യമായ കെട്ടും മട്ടും പാക്കേജുകൾ കാണുക"
 
 #: lnftool.cpp:56
 #, fuzzy, kde-format
-msgid "Apply a look and feel package"
+msgid "Apply a global theme package"
 msgstr "ഒരു കെട്ടും മട്ടും പാക്കേജ് പ്രയോഗിക്കുക"
 
 #: lnftool.cpp:56
@@ -90,7 +92,7 @@ msgstr "പ്ലാസ്മ ഡെസ്ക്ടോപ്പ് ലേ ഔട
 
 #: package/contents/ui/main.qml:29
 #, fuzzy, kde-format
-msgid "This module lets you choose the Look and Feel theme."
+msgid "This module lets you choose the global look and feel."
 msgstr "കെട്ടും മട്ടും തീം തിരഞ്ഞെടുക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു."
 
 #: package/contents/ui/main.qml:50

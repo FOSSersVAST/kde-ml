@@ -38,21 +38,21 @@ msgstr ""
 msgid "Roman Gilg"
 msgstr ""
 
-#: package/contents/ui/LocationsAutoView.qml:34
-#: package/contents/ui/LocationsFixedView.qml:38
+#: package/contents/ui/LocationsAutoView.qml:32
+#: package/contents/ui/LocationsFixedView.qml:37
 #, kde-format
-msgid "Latitude"
+msgid "Latitude:"
 msgstr ""
 
-#: package/contents/ui/LocationsAutoView.qml:44
-#: package/contents/ui/LocationsFixedView.qml:53
+#: package/contents/ui/LocationsAutoView.qml:39
+#: package/contents/ui/LocationsFixedView.qml:49
 #, kde-format
-msgid "Longitude"
+msgid "Longitude:"
 msgstr ""
 
-#: package/contents/ui/LocationsFixedView.qml:69
+#: package/contents/ui/LocationsFixedView.qml:60
 #, kde-format
-msgid "Detect location"
+msgid "Detect Location"
 msgstr ""
 
 #: package/contents/ui/main.qml:111
@@ -67,7 +67,7 @@ msgstr ""
 
 #: package/contents/ui/main.qml:135
 #, kde-format
-msgid "Night Color Temperature: "
+msgid "Night Color temperature:"
 msgstr ""
 
 #: package/contents/ui/main.qml:158
@@ -109,32 +109,32 @@ msgstr ""
 
 #: package/contents/ui/main.qml:185
 #, kde-format
-msgid "Sunrise begins"
+msgid "Constant"
 msgstr ""
 
 #: package/contents/ui/main.qml:299 package/contents/ui/TimingsView.qml:38
 #, kde-format
-msgid "(HH:MM)"
+msgid "Sunrise begins:"
 msgstr ""
 
 #: package/contents/ui/main.qml:306
 #, kde-format
-msgid "Sunset begins"
+msgid "(Input format: HH:MM)"
 msgstr ""
 
 #: package/contents/ui/main.qml:312 package/contents/ui/TimingsView.qml:52
 #, kde-format
-msgid "Transition duration"
+msgid "Sunset begins:"
 msgstr ""
 
 #: package/contents/ui/main.qml:319
 #, kde-format
-msgid "(In minutes - min. 1, max. 600)"
+msgid "Input format: HH:MM"
 msgstr ""
 
 #: package/contents/ui/main.qml:327
 #, kde-format
-msgid "Error: Morning not before evening."
+msgid "Transition duration:"
 msgstr ""
 
 #: package/contents/ui/main.qml:337
@@ -159,8 +159,8 @@ msgstr ""
 msgid "Error: Transition time overlaps."
 msgstr ""
 
-#: package/contents/ui/TimingsView.qml:49
-#: package/contents/ui/TimingsView.qml:69
+#: package/contents/ui/TimingsView.qml:45
+#: package/contents/ui/TimingsView.qml:59
 #, kde-format
-msgid "and ends"
+msgid "...and ends:"
 msgstr ""

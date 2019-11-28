@@ -43,41 +43,41 @@ msgstr ""
 msgid "Plasma Shell"
 msgstr ""
 
-#: main.cpp:96
+#: main.cpp:101
 #, kde-format
 msgid "Enable QML Javascript debugger"
 msgstr ""
 
-#: main.cpp:100
+#: main.cpp:105
 #, kde-format
 msgid "Do not restart plasma-shell automatically after a crash"
 msgstr ""
 
-#: main.cpp:103
+#: main.cpp:108
 #, kde-format
 msgid "Force loading the given shell plugin"
 msgstr ""
 
-#: main.cpp:107
+#: main.cpp:112
 #, kde-format
 msgid ""
 "Load plasmashell as a standalone application, needs the shell-plugin option "
 "to be specified"
 msgstr ""
 
-#: main.cpp:110
+#: main.cpp:115
 #, kde-format
 msgid "Replace an existing instance"
 msgstr ""
 
-#: main.cpp:113
+#: main.cpp:118
 #, kde-format
 msgid ""
 "Enables test mode and specifies the layout javascript file to set up the "
 "testing environment"
 msgstr ""
 
-#: main.cpp:113
+#: main.cpp:118
 #, kde-format
 msgid "file"
 msgstr ""
@@ -215,26 +215,6 @@ msgstr ""
 #: shellcorona.cpp:1848
 #, kde-format
 msgid "Empty %1"
-msgstr ""
-
-#: shellmanager.cpp:178
-#, kde-format
-msgctxt "Fatal error message body"
-msgid ""
-"All shell packages missing.\n"
-"This is an installation issue, please contact your distribution"
-msgstr ""
-
-#: shellmanager.cpp:179 shellmanager.cpp:195
-#, kde-format
-msgctxt "Fatal error message title"
-msgid "Plasma Cannot Start"
-msgstr ""
-
-#: shellmanager.cpp:194
-#, kde-format
-msgctxt "Fatal error message body"
-msgid "Shell package %1 cannot be found"
 msgstr ""
 
 #: softwarerendernotifier.cpp:27

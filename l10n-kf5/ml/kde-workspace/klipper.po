@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-11-28 03:40+0100\n"
 "PO-Revision-Date: 2010-06-23 20:21+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
@@ -54,7 +54,7 @@ msgid "Regular Expression"
 msgstr "റെഗുലര്‍ എക്സ്പ്രഷന്‍"
 
 #. i18n: ectx: property (text), widget (ActionsTreeWidget, kcfg_ActionList)
-#: actionsconfig.ui:54 editactiondialog.cpp:227
+#: actionsconfig.ui:54 editactiondialog.cpp:222
 #, kde-format
 msgid "Description"
 msgstr "വിശദീകരണം"
@@ -89,7 +89,7 @@ msgstr "മെച്ചപ്പെട്ട"
 msgid ""
 "Click on a highlighted item's column to change it. \"%s\" in a command will "
 "be replaced with the clipboard contents.<br>For more information about "
-"regular expressions, you could have a look at the <a href=\"http://en."
+"regular expressions, you could have a look at the <a href=\"https://en."
 "wikipedia.org/wiki/Regular_expression\">Wikipedia entry about this topic</a>."
 msgstr ""
 "റെഗുലര്‍ എക്സ്പ്രഷനുകളെ കുറിച്ച് കൂടുതല്‍ അറിയാന്‍ <a href=\"http://en.wikipedia.org/wiki/"
@@ -147,12 +147,12 @@ msgstr "കുറുക്ക്‌വഴികള്‍"
 msgid "Shortcuts Configuration"
 msgstr "കുറുക്ക്‌വഴികളുടെ സജ്ജീകരണങ്ങള്‍"
 
-#: configdialog.cpp:383
+#: configdialog.cpp:352
 #, kde-format
 msgid "D&isable Actions for Windows of Type WM_CLASS"
 msgstr "WM_CLASS തരത്തില്‍പ്പെട്ട ജാലകങ്ങളില്‍ പ്രവൃത്തികള്‍ തടയുക"
 
-#: configdialog.cpp:391
+#: configdialog.cpp:360
 #, kde-format
 msgid ""
 "<qt>This lets you specify windows in which Klipper should not invoke "
@@ -181,27 +181,27 @@ msgstr "ഓര്‍മ്മച്ചെപ്പു് മാറ്റുക"
 msgid "Add to Clipboard"
 msgstr "ഓര്‍മ്മച്ചെപ്പിലേക്ക് ചേര്‍ക്കുക"
 
-#: editactiondialog.cpp:223
+#: editactiondialog.cpp:218
 #, kde-format
 msgid "Command"
 msgstr "ആജ്ഞ"
 
-#: editactiondialog.cpp:225
+#: editactiondialog.cpp:220
 #, kde-format
 msgid "Output Handling"
 msgstr "ഫലം കൈകാര്യം ചെയ്യുന്നതു്"
 
-#: editactiondialog.cpp:267
+#: editactiondialog.cpp:262
 #, kde-format
 msgid "Action Properties"
 msgstr "പ്രവൃത്തികളുടെ ഗുണഗണങ്ങള്‍"
 
-#: editactiondialog.cpp:373
+#: editactiondialog.cpp:368
 #, kde-format
 msgid "new command"
 msgstr "പുതിയ ആജ്ഞ"
 
-#: editactiondialog.cpp:374
+#: editactiondialog.cpp:369
 #, kde-format
 msgid "Command Description"
 msgstr "ആജ്ഞയുടെ വിശദീകരണം"
@@ -361,7 +361,7 @@ msgstr "ചരിത്രത്തിലെ മുമ്പുള്ള ഇന�
 msgid "Open Klipper at Mouse Position"
 msgstr ""
 
-#: klipper.cpp:499
+#: klipper.cpp:501
 #, fuzzy, kde-format
 msgid ""
 "You can enable URL actions later by left-clicking on the Klipper icon and "
@@ -370,62 +370,62 @@ msgstr ""
 "ക്ലിപ്പര്‍ ചിഹ്നത്തി മൌസിന്റെ വലതു ബട്ടണ്‍ അമര്‍ത്തി 'പ്രവൃത്തികള്‍ സജീവമാക്കുക' എന്നത് തെരഞ്ഞെടുത്താല്‍ "
 "നിങ്ങള്‍ക്ക് URL പ്രവൃത്തികള്‍ പിന്നീട് സജീവമാക്കാം."
 
-#: klipper.cpp:530
+#: klipper.cpp:532
 #, kde-format
 msgid "Should Klipper start automatically when you login?"
 msgstr "താങ്കള്‍ ലോഗിന്‍ ചെയ്യുമ്പോള്‍ തന്നെ ക്ലിപ്പര്‍ തുടങ്ങണോ?"
 
-#: klipper.cpp:531
+#: klipper.cpp:533
 #, kde-format
 msgid "Automatically Start Klipper?"
 msgstr "ക്ലിപ്പര്‍ തനിയെ തുടങ്ങണോ ?"
 
-#: klipper.cpp:531
+#: klipper.cpp:533
 #, kde-format
 msgid "Start"
 msgstr "തുടങ്ങുക"
 
-#: klipper.cpp:532
+#: klipper.cpp:534
 #, kde-format
 msgid "Do Not Start"
 msgstr "തുടങ്ങണ്ട"
 
-#: klipper.cpp:868
+#: klipper.cpp:872
 #, kde-format
 msgid "Edit Contents"
 msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്തുക"
 
-#: klipper.cpp:935
+#: klipper.cpp:939
 #, kde-format
 msgid "Mobile Barcode"
 msgstr ""
 
-#: klipper.cpp:983
+#: klipper.cpp:987
 #, kde-format
 msgid "Really delete entire clipboard history?"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം തീര്‍ച്ച്യായും കളയുക?"
 
-#: klipper.cpp:984
+#: klipper.cpp:988
 #, kde-format
 msgid "Delete clipboard history?"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം കളയുക?"
 
-#: klipper.cpp:1002 klipper.cpp:1011
+#: klipper.cpp:1006 klipper.cpp:1015
 #, kde-format
 msgid "Clipboard history"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം"
 
-#: klipper.cpp:1028
+#: klipper.cpp:1032
 #, kde-format
 msgid "up"
 msgstr "മുകളില്‍"
 
-#: klipper.cpp:1035
+#: klipper.cpp:1039
 #, kde-format
 msgid "current"
 msgstr "ഇപ്പോള്‍ നിലവിലുളളത്"
 
-#: klipper.cpp:1042
+#: klipper.cpp:1046
 #, kde-format
 msgid "down"
 msgstr "താഴെ"

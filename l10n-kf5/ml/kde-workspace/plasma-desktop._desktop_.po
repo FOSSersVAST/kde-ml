@@ -55,17 +55,22 @@ msgctxt "Comment"
 msgid "Launcher to start applications"
 msgstr "പ്രയോഗങ്ങള്‍ ആരംഭിക്കുന്നതിനു് സഹായിക്കുന്ന സംവിധാനം"
 
+#: applets/kimpanel/backend/ibus/emojier/org.kde.plasma.emojier.desktop:3
+msgctxt "Name"
+msgid "Emoji Selector"
+msgstr ""
+
 #: applets/kimpanel/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Input Method Panel"
 msgstr ""
 
-#: applets/kimpanel/package/metadata.desktop:42
+#: applets/kimpanel/package/metadata.desktop:43
 msgctxt "Comment"
 msgid "A generic input method panel"
 msgstr ""
 
-#: applets/kimpanel/package/metadata.desktop:81
+#: applets/kimpanel/package/metadata.desktop:83
 msgctxt "Keywords"
 msgid "Input;IM;"
 msgstr ""
@@ -91,7 +96,7 @@ msgid "Switch between virtual desktops"
 msgstr "വര്‍ച്ചുവല്‍ പണിയിടങ്ങള്‍ തമ്മില്‍ മാറുക"
 
 #: applets/showActivityManager/package/metadata.desktop:2
-#: kcms/activities/kcm_activities.desktop:14
+#: kcms/activities/kcm_activities.desktop:15
 #, fuzzy
 msgctxt "Name"
 msgid "Activities"
@@ -111,6 +116,8 @@ msgstr "പണിയിടം"
 
 #: applets/showdesktop/package/metadata.desktop:32
 #, fuzzy
+#| msgctxt "Comment"
+#| msgid "Interact with the Plasma desktop shell"
 msgctxt "Comment"
 msgid "Show the Plasma desktop"
 msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
@@ -176,7 +183,7 @@ msgctxt "Name"
 msgid "Empty Panel"
 msgstr "പാളി"
 
-#: containments/panel/plasma-containment-panel.desktop:54
+#: containments/panel/plasma-containment-panel.desktop:55
 msgctxt "Comment"
 msgid "A simple linear panel"
 msgstr ""
@@ -186,7 +193,7 @@ msgctxt "Name"
 msgid "DataEngine for Kimpanel"
 msgstr ""
 
-#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:39
+#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:40
 msgctxt "Comment"
 msgid "DataEngine for Kimpanel"
 msgstr ""
@@ -390,7 +397,7 @@ msgctxt "GenericName"
 msgid "Color scheme editor"
 msgstr ""
 
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:41
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:42
 msgctxt "Name"
 msgid "KColorSchemeEditor"
 msgstr ""
@@ -416,51 +423,6 @@ msgctxt "X-KDE-Keywords"
 msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
 "theme"
-msgstr ""
-
-#: kcms/colors/schemes/./Honeycomb.colors:90
-msgctxt "Name"
-msgid "Honeycomb"
-msgstr ""
-
-#: kcms/colors/schemes/./Norway.colors:90
-msgctxt "Name"
-msgid "Norway"
-msgstr ""
-
-#: kcms/colors/schemes/./ObsidianCoast.colors:89
-msgctxt "Name"
-msgid "Obsidian Coast"
-msgstr ""
-
-#: kcms/colors/schemes/./OxygenCold.colors:103
-msgctxt "Name"
-msgid "Oxygen Cold"
-msgstr ""
-
-#: kcms/colors/schemes/./Oxygen.colors:107
-msgctxt "Name"
-msgid "Oxygen"
-msgstr ""
-
-#: kcms/colors/schemes/./Steel.colors:89
-msgctxt "Name"
-msgid "Steel"
-msgstr ""
-
-#: kcms/colors/schemes/./WontonSoup.colors:88
-msgctxt "Name"
-msgid "Wonton Soup"
-msgstr ""
-
-#: kcms/colors/schemes/./Zion.colors:90
-msgctxt "Name"
-msgid "Zion"
-msgstr ""
-
-#: kcms/colors/schemes/./ZionReversed.colors:90
-msgctxt "Name"
-msgid "Zion (Reversed)"
 msgstr ""
 
 #: kcms/componentchooser/componentchooser.desktop:14
@@ -547,7 +509,7 @@ msgctxt "Name"
 msgid "A nice name you have chosen for your interface"
 msgstr "നിങ്ങളുടെ വിനിമയതലത്തിനു് നിങ്ങള്‍ തെരഞ്ഞെടുത്ത മനോഹരമായൊരു പേരു്"
 
-#: kcms/componentchooser/EXAMPLE.desktop:89
+#: kcms/componentchooser/EXAMPLE.desktop:88
 msgctxt "Comment"
 msgid "A helpful description of the interface for the top right info box"
 msgstr ""
@@ -629,19 +591,19 @@ msgstr ""
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:13
 #: kcms/desktoptheme/package/metadata.desktop:2
 msgctxt "Name"
-msgid "Plasma Theme"
+msgid "Plasma Style"
 msgstr ""
 
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:43
 #, fuzzy
 msgctxt "Comment"
-msgid "Choose Plasma theme"
+msgid "Choose Plasma style"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:73
 #, fuzzy
 msgctxt "X-KDE-Keywords"
-msgid "Desktop Theme"
+msgid "Desktop Theme,Plasma Theme"
 msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
 
 #: kcms/desktoptheme/package/metadata.desktop:32
@@ -652,7 +614,7 @@ msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ 
 
 #: kcms/desktoptheme/plasma-themes.knsrc:2
 msgctxt "Name"
-msgid "Plasma Themes"
+msgid "Plasma Styles"
 msgstr ""
 
 #: kcms/emoticons/emoticons.desktop:13 kcms/emoticons/emoticons.knsrc:2
@@ -714,17 +676,19 @@ msgstr ""
 
 #: kcms/hardware/joystick/joystick.desktop:17
 #, fuzzy
+#| msgctxt "Name"
+#| msgid "Date and Time Control Module"
 msgctxt "Comment"
-msgid "Joystick"
-msgstr "ജോയ്സ്റ്റിക്"
+msgid "Calibrate Game Controller"
+msgstr "തീയതിയും സമയവും നിയന്ത്രിയ്ക്കുന്ന ഭാഗം"
 
 #: kcms/hardware/joystick/joystick.desktop:45
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Date and Time Control Module"
 msgctxt "Name"
-msgid "Joystick"
-msgstr "ജോയ്സ്റ്റിക്"
+msgid "Game Controller"
+msgstr "തീയതിയും സമയവും നിയന്ത്രിയ്ക്കുന്ന ഭാഗം"
 
 #: kcms/hardware/joystick/joystick.desktop:75
 msgctxt "X-KDE-Keywords"
@@ -897,12 +861,12 @@ msgctxt "Name"
 msgid "Desktop Session"
 msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
 
-#: kcms/ksmserver/kcmsmserver.desktop:60
+#: kcms/ksmserver/kcmsmserver.desktop:61
 msgctxt "Comment"
 msgid "Desktop Session Login and Logout"
 msgstr ""
 
-#: kcms/ksmserver/kcmsmserver.desktop:105
+#: kcms/ksmserver/kcmsmserver.desktop:106
 msgctxt "X-KDE-Keywords"
 msgid "ksmserver,session,logout,confirmation,save,restore,efi,uefi,bios"
 msgstr ""
@@ -936,14 +900,14 @@ msgctxt "Name"
 msgid "Launch Feedback"
 msgstr "അഭിപ്രായങ്ങള്‍ ലഭ്യമാക്കുക"
 
-#: kcms/launch/kcm_launchfeedback.desktop:101
-#: kcms/launch/package/metadata.desktop:89
+#: kcms/launch/kcm_launchfeedback.desktop:100
+#: kcms/launch/package/metadata.desktop:88
 #, fuzzy
 msgctxt "Comment"
 msgid "Application Launch Feedback"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
 
-#: kcms/launch/kcm_launchfeedback.desktop:148
+#: kcms/launch/kcm_launchfeedback.desktop:147
 msgctxt "X-KDE-Keywords"
 msgid ""
 "application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
@@ -951,17 +915,17 @@ msgid ""
 msgstr ""
 
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:14
-#: kcms/lookandfeel/lookandfeel.knsrc:2
 #: kcms/lookandfeel/package/metadata.desktop:2
+#, fuzzy
 msgctxt "Name"
-msgid "Look and Feel"
-msgstr ""
+msgid "Global Theme"
+msgstr "കര്‍സര്‍ ഫയലുകള്‍"
 
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:45
 #: kcms/lookandfeel/package/metadata.desktop:33
 #, fuzzy
 msgctxt "Comment"
-msgid "Choose Look and Feel theme"
+msgid "Choose global look and feel"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:74
@@ -985,7 +949,7 @@ msgid ""
 "Mouse with Num Pad,Mouse Num Pad Emulation"
 msgstr ""
 
-#: kcms/nightcolor/kcm_nightcolor.desktop:18
+#: kcms/nightcolor/kcm_nightcolor.desktop:16
 #: kcms/nightcolor/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Night Color"
@@ -1015,25 +979,6 @@ msgstr "അറിയിപ്പുകള്‍ കൈകാര്യം ചെ�
 msgctxt "Comment"
 msgid "Event Notifications and Actions"
 msgstr "സിസ്റ്റത്തിന്റെ മണിയ്ക്കുള്ള ക്രമീകരണം"
-
-#: kcms/phonon/kcm_phonon.desktop:13
-#, fuzzy
-msgctxt "Name"
-msgid "Audio and Video"
-msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
-
-#: kcms/phonon/kcm_phonon.desktop:59
-#, fuzzy
-msgctxt "Comment"
-msgid "Phonon Audio and Video"
-msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
-
-#: kcms/phonon/kcm_phonon.desktop:105
-msgctxt "X-KDE-Keywords"
-msgid ""
-"Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
-"Media,NMM,GStreamer,Xine"
-msgstr ""
 
 #: kcms/qtquicksettings/qtquicksettings.desktop:14
 msgctxt "Name"
@@ -1324,7 +1269,7 @@ msgid ""
 "shortcuts"
 msgstr ""
 
-#: kcms/style/style.desktop:16
+#: kcms/style/kcm_style.desktop:16 kcms/style/package/metadata.desktop:2
 #, fuzzy
 msgctxt "Name"
 msgid "Application Style"
@@ -1410,15 +1355,15 @@ msgstr ""
 #: kcms/workspaceoptions/kcm_workspace.desktop:11
 #: kcms/workspaceoptions/package/metadata.desktop:2
 msgctxt "Name"
-msgid "Workspace"
+msgid "General Behavior"
 msgstr ""
 
 #: kcms/workspaceoptions/kcm_workspace.desktop:41
 #: kcms/workspaceoptions/package/metadata.desktop:32
 #, fuzzy
 msgctxt "Comment"
-msgid "Workspace Behavior"
-msgstr ""
+msgid "Configure general workspace behavior"
+msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
 
 #: kcms/workspaceoptions/kcm_workspace.desktop:70
 msgctxt "X-KDE-Keywords"
@@ -1460,7 +1405,7 @@ msgid ""
 "Default panel featuring application launcher, task manager and system tray"
 msgstr ""
 
-#: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:54
+#: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:55
 #, fuzzy
 msgctxt "Comment"
 msgid "Empty panel"
@@ -1530,7 +1475,7 @@ msgctxt "Name"
 msgid "Panel Toolbox"
 msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
 
-#: toolboxes/paneltoolbox/metadata.desktop:51
+#: toolboxes/paneltoolbox/metadata.desktop:52
 #, fuzzy
 msgctxt "Comment"
 msgid "Manage Plasma panel"
@@ -1542,21 +1487,35 @@ msgctxt "Comment"
 msgid "Default panel toolbox for the Plasma desktop shell"
 msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
 
-#: toolboxes/plasma-toolbox-paneltoolbox.desktop:60
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:61
 #, fuzzy
 msgctxt "Name"
 msgid "Panel toolbox"
 msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
 
 #, fuzzy
-#~ msgctxt "Comment"
-#~ msgid "Emoticon Theme"
-#~ msgstr "വികാരചിഹ്നങ്ങളുടെ വൈവിധ്യപാലകന്‍"
+#~ msgctxt "Name"
+#~ msgid "Audio and Video"
+#~ msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
 
 #, fuzzy
 #~ msgctxt "Comment"
-#~ msgid "Icon Theme"
-#~ msgstr "കര്‍സര്‍ ഫയലുകള്‍"
+#~ msgid "Phonon Audio and Video"
+#~ msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Joystick"
+#~ msgstr "ജോയ്സ്റ്റിക്"
+
+#~ msgctxt "Name"
+#~ msgid "Joystick"
+#~ msgstr "ജോയ്സ്റ്റിക്"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Emoticon Theme"
+#~ msgstr "വികാരചിഹ്നങ്ങളുടെ വൈവിധ്യപാലകന്‍"
 
 #, fuzzy
 #~ msgctxt "Comment"

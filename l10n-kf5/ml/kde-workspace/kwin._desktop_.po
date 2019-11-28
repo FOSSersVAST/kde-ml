@@ -52,7 +52,7 @@ msgctxt "Name"
 msgid "Dialog Parent"
 msgstr "മാതൃജാലകം"
 
-#: effects/dialogparent/package/metadata.desktop:78
+#: effects/dialogparent/package/metadata.desktop:77
 msgctxt "Comment"
 msgid "Darkens the parent window of the currently active dialog"
 msgstr "സജീവഡയലോഗിന്റെ മാതൃജാലകം കറുപ്പിക്കുക"
@@ -67,7 +67,7 @@ msgctxt "Comment"
 msgid "Darkens the entire screen when requesting root privileges"
 msgstr "മൂല (റൂട്ട്) വിശേഷാധികാരം അഭ്യര്‍ത്തിക്കുംബോള്‍ സ്ക്രീന്‍ കറുപ്പിക്കുന്നു"
 
-#: effects/dimscreen/package/metadata.desktop:64
+#: effects/dimscreen/package/metadata.desktop:65
 msgctxt "Name"
 msgid "Dim Screen for Administrator Mode"
 msgstr "അഡ്മിനിസ്ട്രേറ്റര്‍ മോഡില്‍ സ്ക്രീന്‍ തെളിച്ചം കുറയ്ക്കല്‍"
@@ -77,7 +77,7 @@ msgctxt "Name"
 msgid "eye On Screen"
 msgstr ""
 
-#: effects/eyeonscreen/package/metadata.desktop:44
+#: effects/eyeonscreen/package/metadata.desktop:45
 msgctxt "Comment"
 msgid ""
 "Suck windows into desktop to show the latter. This might remind you of "
@@ -89,7 +89,7 @@ msgctxt "Name"
 msgid "Fade Desktop"
 msgstr "പണിയിടം മങ്ങി പോകുക"
 
-#: effects/fadedesktop/package/metadata.desktop:70
+#: effects/fadedesktop/package/metadata.desktop:69
 msgctxt "Comment"
 msgid "Fade between virtual desktops when switching between them"
 msgstr "വെര്‍ച്വല്‍ പണിയിടങ്ങള്‍ക്കിടക്ക് സ്വിച്ച് ചെയ്യുമ്പോള്‍ മങ്ങിപ്പോകുന്നു."
@@ -99,7 +99,7 @@ msgctxt "Name"
 msgid "Fade"
 msgstr "മങ്ങുക"
 
-#: effects/fade/package/metadata.desktop:82
+#: effects/fade/package/metadata.desktop:81
 msgctxt "Comment"
 msgid "Make windows smoothly fade in and out when they are shown or hidden"
 msgstr "ജാലകങ്ങള്‍ ഒളിപ്പിയ്ക്കുമ്പോഴോ കാണിയ്ക്കുമ്പോഴോ മങ്ങുന്നതും തെളിയുന്നതും പോലെ തോന്നിയ്ക്കുക"
@@ -201,7 +201,7 @@ msgid ""
 "Cross fade animation when Tooltips or Notifications change their geometry"
 msgstr ""
 
-#: effects/morphingpopups/package/metadata.desktop:39
+#: effects/morphingpopups/package/metadata.desktop:40
 #, fuzzy
 msgctxt "Name"
 msgid "Morphing popups"
@@ -291,7 +291,7 @@ msgctxt "Name"
 msgid "Translucency"
 msgstr "സുതാര്യം"
 
-#: effects/translucency/package/metadata.desktop:85
+#: effects/translucency/package/metadata.desktop:84
 msgctxt "Comment"
 msgid "Make windows translucent under different conditions"
 msgstr "ജാലകങ്ങള്‍ പ്രത്യേക സാഹചര്യങ്ങളില്‍ അര്‍ദ്ധ-സുതാര്യമാക്കുന്നു"
@@ -341,16 +341,16 @@ msgid ""
 "video settings,graphical effects,desktop effects,animation speed"
 msgstr ""
 
-#: kcmkwin/kwindecoration/kwindecoration.desktop:14
-#: kcmkwin/kwindecoration/package/metadata.desktop:17
+#: kcmkwin/kwindecoration/kwindecoration.desktop:16
+#: kcmkwin/kwindecoration/package/metadata.desktop:18
 #: kcmkwin/kwindecoration/window-decorations.knsrc:2
 #, fuzzy
 msgctxt "Name"
 msgid "Window Decorations"
 msgstr "വിന്‍ഡോ വിവരം"
 
-#: kcmkwin/kwindecoration/kwindecoration.desktop:75
-#: kcmkwin/kwindecoration/package/metadata.desktop:77
+#: kcmkwin/kwindecoration/kwindecoration.desktop:77
+#: kcmkwin/kwindecoration/package/metadata.desktop:78
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure window titlebars and borders"
@@ -370,10 +370,10 @@ msgctxt "Name"
 msgid "Virtual Desktops"
 msgstr "പണിയിടം മാറുക"
 
-#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:78
-#: kcmkwin/kwindesktop/package/metadata.desktop:65
+#: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:77
+#: kcmkwin/kwindesktop/package/metadata.desktop:64
 msgctxt "Comment"
-msgid "Navigation, Number and Layout of Virtual Desktops"
+msgid "Configure navigation, number and layout of virtual desktops"
 msgstr ""
 
 #: kcmkwin/kwindesktop/kcm_kwin_virtualdesktops.desktop:103
@@ -383,19 +383,17 @@ msgid ""
 "pager applet,pager settings"
 msgstr ""
 
-#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:15
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:17
 #: kcmkwin/kwineffects/package/metadata.desktop:2
 #, fuzzy
 msgctxt "Name"
 msgid "Desktop Effects"
 msgstr "പണിയിടം ക്യൂബ്"
 
-#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:61
-#: kcmkwin/kwineffects/package/metadata.desktop:49
-#, fuzzy
+#: kcmkwin/kwineffects/kcm_kwin_effects.desktop:64
 msgctxt "Comment"
-msgid "Desktop Effects"
-msgstr "പണിയിടം ക്യൂബ്"
+msgid "Configure compositor settings for desktop effects"
+msgstr ""
 
 #: kcmkwin/kwineffects/kcm_kwin_effects.desktop:91
 msgctxt "X-KDE-Keywords"
@@ -423,16 +421,25 @@ msgctxt "Name"
 msgid "Window Manager Effects"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
 
+#: kcmkwin/kwineffects/package/metadata.desktop:50
+#, fuzzy
+msgctxt "Comment"
+msgid "Desktop Effects"
+msgstr "പണിയിടം ക്യൂബ്"
+
 #: kcmkwin/kwinoptions/kwinactions.desktop:12
+#, fuzzy
 msgctxt "Name"
-msgid "Actions"
-msgstr "പ്രവര്‍ത്തനങ്ങള്‍"
+msgid "Window Actions"
+msgstr "വിന്‍ഡോ വിവരം"
 
 #: kcmkwin/kwinoptions/kwinactions.desktop:39
 #, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure active screen edges"
 msgctxt "Comment"
-msgid "Mouse Actions on Windows"
-msgstr "ഇന്‍പുട്ട് പ്രവര്‍ത്തന സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
+msgid "Configure mouse actions for windows and titlebars"
+msgstr "സജീവമായ സ്ക്രീന്‍ അരികുകള്‍ ക്രമീകരിയ്ക്കുക"
 
 #: kcmkwin/kwinoptions/kwinactions.desktop:66
 msgctxt "X-KDE-Keywords"
@@ -442,55 +449,64 @@ msgid ""
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinadvanced.desktop:11
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Window Behavior"
 msgctxt "Name"
-msgid "Advanced"
-msgstr "സങ്കീര്‍ണ്ണമായ"
+msgid "Advanced Window Behavior"
+msgstr "ജാലകത്തിന്റെ വിശേഷത"
 
 #: kcmkwin/kwinoptions/kwinadvanced.desktop:38
 #, fuzzy
 msgctxt "Comment"
-msgid "Advanced Window Management Features"
+msgid "Configure advanced window management options"
 msgstr "സങ്കീര്‍ണ്ണമായ ജാലകപാലക സവിശേഷതകള്‍ സജ്ജീകരിക്കുക"
 
 #: kcmkwin/kwinoptions/kwinadvanced.desktop:65
 msgctxt "X-KDE-Keywords"
 msgid ""
-"shading,border,hover,active borders,tiling,tabs,tabbing,window tabbing,"
-"window grouping,window tiling,window placement,placement of windows,window "
-"advanced behavior"
+"unshade,unshading,shade,shading,border,hover,active borders,tiling,tabs,"
+"tabbing,window,window tabbing,window grouping,window tiling,placement,window "
+"placement,placement of windows,window advanced behavior"
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinfocus.desktop:11
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Window Behavior"
 msgctxt "Name"
-msgid "Focus"
-msgstr "ഫോക്കസ്"
+msgid "Window Focus Behavior"
+msgstr "ജാലകത്തിന്റെ വിശേഷത"
 
 #: kcmkwin/kwinoptions/kwinfocus.desktop:37
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure the window focus policy"
 msgctxt "Comment"
-msgid "Active Window Policy"
-msgstr ""
+msgid "Configure window activation policy"
+msgstr "ജാലകം ഫോകസ് ചെയ്യേണ്ടതെങ്ങനെയെന്നു ക്രമീകരിക്കുക"
 
 #: kcmkwin/kwinoptions/kwinfocus.desktop:63
 msgctxt "X-KDE-Keywords"
 msgid ""
-"focus,placement,auto raise,raise,click raise,keyboard,CDE,alt-tab,all "
-"desktop,focus follows mouse,focus prevention,focus stealing,focus policy,"
-"window focus behavior,window screen behavior"
+"focus,auto raise,raise,click raise,keyboard,CDE,alt-tab,all desktop,focus "
+"follows mouse,focus prevention,focus stealing,focus policy,window focus "
+"behavior,window screen behavior"
 msgstr ""
 
 #: kcmkwin/kwinoptions/kwinmoving.desktop:12
+#, fuzzy
 msgctxt "Name"
-msgid "Moving"
-msgstr "നീക്കുന്നു"
+msgid "Window Movement"
+msgstr "വിന്‍ഡോ വിവരം"
 
 #: kcmkwin/kwinoptions/kwinmoving.desktop:38
 #, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure the window focus policy"
 msgctxt "Comment"
-msgid "Window Moving"
-msgstr "വിന്‍ഡോ വിവരം"
+msgid "Configure window movement options"
+msgstr "ജാലകം ഫോകസ് ചെയ്യേണ്ടതെങ്ങനെയെന്നു ക്രമീകരിക്കുക"
 
 #: kcmkwin/kwinoptions/kwinmoving.desktop:64
 msgctxt "X-KDE-Keywords"
@@ -502,10 +518,10 @@ msgctxt "Name"
 msgid "Window Behavior"
 msgstr "ജാലകത്തിന്റെ വിശേഷത"
 
-#: kcmkwin/kwinoptions/kwinoptions.desktop:103
+#: kcmkwin/kwinoptions/kwinoptions.desktop:102
 #, fuzzy
 msgctxt "Comment"
-msgid "Window Actions and Behavior"
+msgid "Configure window actions and behavior"
 msgstr "ജാലകത്തിന്റെ വിശേഷത"
 
 #: kcmkwin/kwinoptions/kwinoptions.desktop:129
@@ -540,9 +556,12 @@ msgid "Screen Edges"
 msgstr "സ്ക്രീന്‍ അതിരുകള്‍"
 
 #: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:83
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure active screen edges"
 msgctxt "Comment"
-msgid "Active Screen Corners and Edges"
-msgstr ""
+msgid "Configure active screen corners and edges"
+msgstr "സജീവമായ സ്ക്രീന്‍ അരികുകള്‍ ക്രമീകരിയ്ക്കുക"
 
 #: kcmkwin/kwinscreenedges/kwinscreenedges.desktop:110
 msgctxt "X-KDE-Keywords"
@@ -558,9 +577,12 @@ msgid "Touch Screen"
 msgstr ""
 
 #: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:52
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure active screen edges"
 msgctxt "Comment"
-msgid "Touch screen swipe gestures"
-msgstr ""
+msgid "Configure touch screen swipe gestures"
+msgstr "സജീവമായ സ്ക്രീന്‍ അരികുകള്‍ ക്രമീകരിയ്ക്കുക"
 
 #: kcmkwin/kwinscreenedges/kwintouchscreen.desktop:79
 msgctxt "X-KDE-Keywords"
@@ -622,23 +644,23 @@ msgctxt "Comment"
 msgid "KWin Window Manager"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
 
-#: kwin.notifyrc:68
+#: kwin.notifyrc:67
 msgctxt "Name"
 msgid "Compositing has been suspended"
 msgstr "കോമ്പോസിറ്റിങ്ങ് താല്‍കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു"
 
-#: kwin.notifyrc:132
+#: kwin.notifyrc:131
 msgctxt "Comment"
 msgid "Another application has requested to suspend compositing."
 msgstr "കമ്പോസിറ്റിംഗ് നിര്‍ത്തിവെയ്ക്കാന്‍ വേറൊരു പ്രയോഗം ആവശ്യപ്പെട്ടിട്ടുണ്ട്"
 
-#: kwin.notifyrc:196
+#: kwin.notifyrc:195
 #, fuzzy
 msgctxt "Name"
 msgid "Graphics Reset"
 msgstr "ഗ്രാഫിക്സ്"
 
-#: kwin.notifyrc:241
+#: kwin.notifyrc:240
 msgctxt "Comment"
 msgid "A graphics reset event occurred"
 msgstr ""
@@ -660,7 +682,7 @@ msgctxt "Name"
 msgid "Plastik"
 msgstr "പ്ലാസ്റ്റിക്"
 
-#: plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:90
+#: plugins/kdecorations/aurorae/themes/plastik/package/metadata.desktop:89
 msgctxt "Comment"
 msgid "The classic theme known from KDE 3"
 msgstr ""
@@ -711,17 +733,6 @@ msgctxt "Comment"
 msgid "An on screen display indicating the desktop change"
 msgstr ""
 
-#: scripts/enforcedeco/metadata.desktop:2
-#, fuzzy
-msgctxt "Name"
-msgid "Enforces Window Decorations on GTK+ window"
-msgstr "വിന്‍ഡോ വിവരം"
-
-#: scripts/enforcedeco/metadata.desktop:45
-msgctxt "Comment"
-msgid "Fixes functional deficits for client side decorated windows."
-msgstr ""
-
 #: scripts/minimizeall/metadata.desktop:2
 #, fuzzy
 msgctxt "Name"
@@ -738,7 +749,7 @@ msgctxt "Name"
 msgid "Synchronize Skip Switcher with Taskbar"
 msgstr ""
 
-#: scripts/synchronizeskipswitcher/metadata.desktop:46
+#: scripts/synchronizeskipswitcher/metadata.desktop:47
 msgctxt "Comment"
 msgid ""
 "Hides all windows marked as Skip Taskbar to be also excluded from window "
@@ -769,6 +780,32 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 msgctxt "Comment"
 msgid "KWin Window Switcher Layout"
 msgstr "ജാലക കാര്യസ്ഥന്‍"
+
+#~ msgctxt "Name"
+#~ msgid "Actions"
+#~ msgstr "പ്രവര്‍ത്തനങ്ങള്‍"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Mouse Actions on Windows"
+#~ msgstr "ഇന്‍പുട്ട് പ്രവര്‍ത്തന സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#~ msgctxt "Name"
+#~ msgid "Advanced"
+#~ msgstr "സങ്കീര്‍ണ്ണമായ"
+
+#~ msgctxt "Name"
+#~ msgid "Focus"
+#~ msgstr "ഫോക്കസ്"
+
+#~ msgctxt "Name"
+#~ msgid "Moving"
+#~ msgstr "നീക്കുന്നു"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Enforces Window Decorations on GTK+ window"
+#~ msgstr "വിന്‍ഡോ വിവരം"
 
 #, fuzzy
 #~ msgctxt "Comment"
@@ -836,20 +873,12 @@ msgstr "ജാലക കാര്യസ്ഥന്‍"
 #~ msgstr "എത്ര വിര്‍ച്ച്വല്‍ പണിയിടങ്ങളുണ്ടെന്നു് നിങ്ങള്‍ക്കു് ക്രമീകരിക്കാം."
 
 #~ msgctxt "Comment"
-#~ msgid "Configure the window focus policy"
-#~ msgstr "ജാലകം ഫോകസ് ചെയ്യേണ്ടതെങ്ങനെയെന്നു ക്രമീകരിക്കുക"
-
-#~ msgctxt "Comment"
 #~ msgid "Configure the way that windows are moved"
 #~ msgstr "ജാലകങ്ങള്‍ നീങ്ങേണ്ടതെങ്ങനെയെന്നു ക്രമീകരിയ്ക്കുക"
 
 #~ msgctxt "Comment"
 #~ msgid "Configure settings specifically for a window"
 #~ msgstr "ഒരു ജാലകത്തിനു് പ്രത്യേകം സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure active screen edges"
-#~ msgstr "സജീവമായ സ്ക്രീന്‍ അരികുകള്‍ ക്രമീകരിയ്ക്കുക"
 
 #, fuzzy
 #~ msgctxt "Comment"

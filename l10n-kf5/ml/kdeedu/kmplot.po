@@ -875,42 +875,42 @@ msgstr "f''(x) = -f"
 msgid "Initial Conditions"
 msgstr "Initial Conditions"
 
-#: functiontools.cpp:74 functiontools.cpp:81
+#: functiontools.cpp:73 functiontools.cpp:80
 #, kde-format
 msgid "Search between:"
 msgstr "Search between:"
 
-#: functiontools.cpp:75
+#: functiontools.cpp:74
 #, kde-format
 msgid "Find Minimum Point"
 msgstr "ഏറ്റവും കുറഞ്ഞ ബിന്ദു കണ്ടുപിടിക്കുക"
 
-#: functiontools.cpp:82
+#: functiontools.cpp:81
 #, kde-format
 msgid "Find Maximum Point"
 msgstr "ഏറ്റവും കൂടിയ ബിന്ദു കണ്ടുപിടിക്കുക"
 
-#: functiontools.cpp:88
+#: functiontools.cpp:87
 #, kde-format
 msgid "Calculate the area between:"
 msgstr "വിസ്തീര്‍ണ്ണം കണ്ടുപിടിക്കുക:"
 
-#: functiontools.cpp:89
+#: functiontools.cpp:88
 #, kde-format
 msgid "Area Under Graph"
 msgstr "ഗ്രാഫിന്റെ താഴെയുള്ള വിസ്തീര്‍ണ്ണം"
 
-#: functiontools.cpp:204
+#: functiontools.cpp:203
 #, kde-format
 msgid "Minimum is at x = %1, %2(x) = %3"
 msgstr "ഏറ്റവും കുറഞ്ഞ ബിന്ദു x = %1, %2(x) = %3"
 
-#: functiontools.cpp:218
+#: functiontools.cpp:217
 #, kde-format
 msgid "Maximum is at x = %1, %2(x) = %3"
 msgstr "ഏറ്റവും കൂടിയ ബിന്ദു x = %1, %2(x) = %3"
 
-#: functiontools.cpp:237
+#: functiontools.cpp:236
 #, kde-format
 msgid "Area is %1"
 msgstr "വിസ്തീര്‍ണ്ണം = %1"
@@ -945,17 +945,17 @@ msgstr "നീക്കം ചെയ്യുക"
 msgid "Add..."
 msgstr "ചേര്‍ക്കുക..."
 
-#: kconstanteditor.cpp:65
+#: kconstanteditor.cpp:67
 #, kde-format
 msgid "Constants Editor"
 msgstr "സ്ഥിരാങ്ക Editor"
 
-#: kconstanteditor.cpp:133
+#: kconstanteditor.cpp:135
 #, kde-format
 msgid "Check this to have the constant exported when saving."
 msgstr "Check this to have the constant exported when saving."
 
-#: kconstanteditor.cpp:136
+#: kconstanteditor.cpp:138
 #, kde-format
 msgid ""
 "Check this to have the constant permanently available between instances of "
@@ -1665,92 +1665,92 @@ msgstr ""
 msgid "Sliders"
 msgstr "നിരക്കികള്‍"
 
-#: main.cpp:52
+#: main.cpp:58
 #, kde-format
 msgid "KmPlot"
 msgstr "കെ‌-എംപ്ലോട്ട്"
 
-#: main.cpp:53
+#: main.cpp:59
 #, fuzzy, kde-format
 msgid "Mathematical function plotter by KDE"
 msgstr "കെഡിഈ-യ്ക്കുള്ള ഗണിത ഫങ്ഷന്‍ plotter"
 
-#: main.cpp:54
+#: main.cpp:60
 #, kde-format
 msgid "(c) 2000-2002, Klaus-Dieter Möller"
 msgstr "(c) 2000-2002, ക്ലോസ്സ്-ഡീറ്റര്‍ മോള്ളര്‍"
 
-#: main.cpp:59
+#: main.cpp:65
 #, kde-format
 msgid "Klaus-Dieter Möller"
 msgstr "ക്ലോസ്സ്-ഡീറ്റര്‍ മോള്ളര്‍"
 
-#: main.cpp:59
+#: main.cpp:65
 #, kde-format
 msgid "Original Author"
 msgstr "മൂല കര്‍ത്താവ്"
 
-#: main.cpp:62
+#: main.cpp:68
 #, kde-format
 msgid "Matthias Meßmer"
 msgstr "മത്തിയാസ് മെസ്മെര്‍"
 
-#: main.cpp:62
+#: main.cpp:68
 #, kde-format
 msgid "GUI"
 msgstr "GUI"
 
-#: main.cpp:64
+#: main.cpp:70
 #, kde-format
 msgid "Fredrik Edemar"
 msgstr "ഫ്രെഡ്രിക് എഡെമര്‍"
 
-#: main.cpp:64
+#: main.cpp:70
 #, kde-format
 msgid "Various improvements"
 msgstr "പലവിധ മെച്ചപ്പെടുത്തലുകള്‍"
 
-#: main.cpp:65
+#: main.cpp:71
 #, kde-format
 msgid "David Saxton"
 msgstr "ഡേവിഡ് സാക്സ്റ്റണ്‍"
 
-#: main.cpp:65
+#: main.cpp:71
 #, kde-format
 msgid "Porting to Qt 4, UI improvements, features"
 msgstr "Porting to Qt 4, UI improvements, features"
 
-#: main.cpp:67
+#: main.cpp:73
 #, kde-format
 msgid "David Vignoni"
 msgstr "ഡേവിഡ് വിഗ്നോനി"
 
-#: main.cpp:67
+#: main.cpp:73
 #, kde-format
 msgid "svg icon"
 msgstr "svg icon"
 
-#: main.cpp:68
+#: main.cpp:74
 #, kde-format
 msgid "Albert Astals Cid"
 msgstr "ആല്‍ബര്‍ട്ട് അസ്റ്റ്ലാസ് സിഡ്"
 
-#: main.cpp:68
+#: main.cpp:74
 #, kde-format
 msgid "command line options, MIME type"
 msgstr "command line ഐച്ഛികങ്ങള്‍, MIME type"
 
-#: main.cpp:72
+#: main.cpp:78
 #, kde-format
 msgid "Initial functions to plot"
 msgstr "Initial functions to plot"
 
-#: main.cpp:72
+#: main.cpp:78
 #, fuzzy, kde-format
 msgid "argument"
 msgstr "രേഖ"
 
-#: main.cpp:73
+#: main.cpp:79
 #, fuzzy, kde-format
 msgid "URLs to open"
 msgstr "തുറക്കുവാനുള്ള ഫയല്‍"

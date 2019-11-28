@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-23 03:23+0200\n"
+"POT-Creation-Date: 2019-09-17 03:28+0200\n"
 "PO-Revision-Date: 2019-11-17 15:50+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -40,136 +40,141 @@ msgstr "എല്ലാ പ്രവർത്തനങ്ങളിലും"
 
 #: package/contents/ui/code/tools.js:133
 #, fuzzy, kde-format
-msgid "On The Current Activity"
+msgid "On the Current Activity"
 msgstr "നിലവിലെ പ്രവർത്തനത്തിൽ"
 
 #: package/contents/ui/code/tools.js:147
 #, fuzzy, kde-format
-msgid "Show In Favorites"
+msgid "Show in Favorites"
 msgstr "ഇഷ്ടപെട്ടവയിൽ കാണിക്കുക"
 
-#: package/contents/ui/ConfigGeneral.qml:58
+#: package/contents/ui/ConfigGeneral.qml:59
 #, kde-format
 msgid "Icon:"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:138
+#: package/contents/ui/ConfigGeneral.qml:139
 #, kde-format
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose..."
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:143
+#: package/contents/ui/ConfigGeneral.qml:144
 #, kde-format
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:161
+#: package/contents/ui/ConfigGeneral.qml:162
 #, kde-format
 msgid "Show applications as:"
 msgstr "അപ്ലിക്കേഷനുകൾ ഇതായി കാണിക്കുക:"
 
-#: package/contents/ui/ConfigGeneral.qml:163
+#: package/contents/ui/ConfigGeneral.qml:164
 #, kde-format
 msgid "Name only"
 msgstr "പേര് മാത്രം"
 
-#: package/contents/ui/ConfigGeneral.qml:163
+#: package/contents/ui/ConfigGeneral.qml:164
 #, kde-format
 msgid "Description only"
 msgstr "വിവരണം മാത്രം"
 
-#: package/contents/ui/ConfigGeneral.qml:163
+#: package/contents/ui/ConfigGeneral.qml:164
 #, kde-format
 msgid "Name (Description)"
 msgstr "പേര് (വിവരണം)"
 
-#: package/contents/ui/ConfigGeneral.qml:163
+#: package/contents/ui/ConfigGeneral.qml:164
 #, kde-format
 msgid "Description (Name)"
 msgstr "വിവരണം (പേര്)"
 
-#: package/contents/ui/ConfigGeneral.qml:173
+#: package/contents/ui/ConfigGeneral.qml:174
 #, kde-format
 msgid "Behavior:"
 msgstr "പെരുമാറ്റം:"
 
-#: package/contents/ui/ConfigGeneral.qml:175
+#: package/contents/ui/ConfigGeneral.qml:176
 #, kde-format
 msgid "Sort applications alphabetically"
 msgstr "അപ്ലിക്കേഷനുകൾ അക്ഷരമാലാക്രമത്തിൽ അടുക്കുക"
 
-#: package/contents/ui/ConfigGeneral.qml:183
+#: package/contents/ui/ConfigGeneral.qml:184
 #, kde-format
 msgid "Flatten sub-menus to a single level"
 msgstr "ഒരൊറ്റ തലത്തിലേക്ക് ഉപമെനു പരത്തുക"
 
-#: package/contents/ui/ConfigGeneral.qml:194
+#: package/contents/ui/ConfigGeneral.qml:192
+#, kde-format
+msgid "Show icons on the root level of the menu"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:202
 #, kde-format
 msgid "Show categories:"
 msgstr "വിഭാഗങ്ങൾ കാണിക്കുക:"
 
-#: package/contents/ui/ConfigGeneral.qml:197
+#: package/contents/ui/ConfigGeneral.qml:205
 #, kde-format
 msgid "Recent applications"
 msgstr "സമീപകാല അപ്ലിക്കേഷനുകൾ"
 
-#: package/contents/ui/ConfigGeneral.qml:198
+#: package/contents/ui/ConfigGeneral.qml:206
 #, kde-format
 msgid "Often used applications"
 msgstr "കൂടുതലായി ഉപയോഗിക്കുന്ന പ്രയോഗങ്ങൾ"
 
-#: package/contents/ui/ConfigGeneral.qml:205
+#: package/contents/ui/ConfigGeneral.qml:213
 #, kde-format
 msgid "Recent documents"
 msgstr "Recent documents"
 
-#: package/contents/ui/ConfigGeneral.qml:206
+#: package/contents/ui/ConfigGeneral.qml:214
 #, kde-format
 msgid "Often used documents"
 msgstr "കൂടുതലായി ഉപയോഗിക്കുന്ന പ്രമാണങ്ങൾ"
 
-#: package/contents/ui/ConfigGeneral.qml:213
+#: package/contents/ui/ConfigGeneral.qml:221
 #, kde-format
 msgid "Recent contacts"
 msgstr "സമീപകാല കോൺടാക്റ്റുകൾ"
 
-#: package/contents/ui/ConfigGeneral.qml:214
+#: package/contents/ui/ConfigGeneral.qml:222
 #, kde-format
 msgid "Often used contacts"
 msgstr "കൂടുതലായുപയോഗിക്കുകന്ന കോൺടാക്ട്"
 
-#: package/contents/ui/ConfigGeneral.qml:220
+#: package/contents/ui/ConfigGeneral.qml:228
 #, kde-format
 msgid "Sort items in categories by:"
 msgstr "വിഭാഗങ്ങളിൽ ഇനങ്ങൾ അടുക്കുക:"
 
-#: package/contents/ui/ConfigGeneral.qml:221
+#: package/contents/ui/ConfigGeneral.qml:229
 #, kde-format
 msgctxt ""
 "@item:inlistbox Sort items in categories by [Recently used | Often used]"
 msgid "Recently used"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:221
+#: package/contents/ui/ConfigGeneral.qml:229
 #, kde-format
 msgctxt ""
 "@item:inlistbox Sort items in categories by [Recently used | Ofetn used]"
 msgid "Often used"
 msgstr ""
 
-#: package/contents/ui/ConfigGeneral.qml:231
+#: package/contents/ui/ConfigGeneral.qml:239
 #, kde-format
 msgid "Search:"
 msgstr "തിരയുക:"
 
-#: package/contents/ui/ConfigGeneral.qml:233
+#: package/contents/ui/ConfigGeneral.qml:241
 #, kde-format
 msgid "Expand search to bookmarks, files and emails"
 msgstr "ബുക്ക്മാർക്കുകൾ, ഫയലുകൾ, ഇമെയിലുകൾ എന്നിവയിലേക്ക് തിരയൽ വിപുലീകരിക്കുക"
 
-#: package/contents/ui/ConfigGeneral.qml:241
+#: package/contents/ui/ConfigGeneral.qml:249
 #, kde-format
 msgid "Align search results to bottom"
 msgstr "തിരയൽ ഫലങ്ങൾ താഴേക്ക് വിന്യസിക്കുക"
@@ -185,7 +190,6 @@ msgid "Type to search..."
 msgstr "തിരയാൻ ടൈപ്പുചെയ്യുക..."
 
 #: package/contents/ui/DashboardRepresentation.qml:405
-#: plugin/kastatsfavoritesmodel.cpp:494 plugin/simplefavoritesmodel.cpp:43
 #, kde-format
 msgid "Favorites"
 msgstr "ഇഷ്ടപ്പെട്ടവ"
@@ -201,7 +205,7 @@ msgstr "Widgets"
 msgid "Apps & Docs"
 msgstr "പ്രയോഗങ്ങളും പ്രമാണങ്ങളും "
 
-#: package/contents/ui/main.qml:271
+#: package/contents/ui/main.qml:273
 #, kde-format
 msgid "Edit Applications..."
 msgstr "പ്രയോഗങ്ങൾ തിരുത്തുക..."

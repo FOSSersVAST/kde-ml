@@ -31,6 +31,7 @@ msgstr "pravi.a@gmail.com"
 #: actions/bundled/brightnesscontrol.cpp:52
 #: actions/bundled/handlebuttonevents.cpp:57
 #: actions/bundled/keyboardbrightnesscontrol.cpp:57
+#: actions/dpms/powerdevildpmsaction.cpp:78
 #, fuzzy, kde-format
 msgctxt "Name for powerdevil shortcuts category"
 msgid "Power Management"
@@ -48,24 +49,23 @@ msgctxt "@action:inmenu Global shortcut"
 msgid "Decrease Screen Brightness"
 msgstr ""
 
-#: actions/bundled/brightnesscontrolconfig.cpp:71
+#: actions/bundled/brightnesscontrolconfig.cpp:70
 #, kde-format
 msgctxt "Brightness level, label for the slider"
 msgid "Level"
 msgstr ""
 
 #: actions/bundled/dimdisplayconfig.cpp:64
-#: actions/bundled/runscriptconfig.cpp:83
-#: actions/bundled/suspendsessionconfig.cpp:79
+#: actions/bundled/runscriptconfig.cpp:82
+#: actions/bundled/suspendsessionconfig.cpp:86
 #: actions/dpms/powerdevildpmsactionconfig.cpp:60
 #, kde-format
 msgid " min"
 msgstr " മിനിറ്റ്"
 
 #: actions/bundled/dimdisplayconfig.cpp:74
-#: actions/bundled/runscriptconfig.cpp:86
-#: actions/bundled/runscriptconfig.cpp:107
-#: actions/bundled/suspendsessionconfig.cpp:100
+#: actions/bundled/runscriptconfig.cpp:85
+#: actions/bundled/runscriptconfig.cpp:106
 #, kde-format
 msgid "After"
 msgstr ""
@@ -100,32 +100,32 @@ msgid "Do nothing"
 msgstr "ഒന്നും ചെയ്യണ്ട"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:99
-#: actions/bundled/suspendsessionconfig.cpp:82
+#: actions/bundled/suspendsessionconfig.cpp:90
 #, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:102
-#: actions/bundled/suspendsessionconfig.cpp:85
+#: actions/bundled/suspendsessionconfig.cpp:93
 #, kde-format
 msgid "Hibernate"
 msgstr ""
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:105
-#: actions/bundled/suspendsessionconfig.cpp:88
+#: actions/bundled/suspendsessionconfig.cpp:96
 #, kde-format
 msgid "Hybrid sleep"
 msgstr ""
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:107
-#: actions/bundled/suspendsessionconfig.cpp:90
+#: actions/bundled/suspendsessionconfig.cpp:98
 #, fuzzy, kde-format
 msgid "Shut down"
 msgstr "നിര്‍ത്തി വയ്ക്കുക"
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:108
-#: actions/bundled/suspendsessionconfig.cpp:91
+#: actions/bundled/suspendsessionconfig.cpp:99
 #, fuzzy, kde-format
 msgid "Lock screen"
 msgstr "തിരശ്ശീല പൂട്ടുക"
@@ -174,24 +174,39 @@ msgctxt "@label:slider Brightness level"
 msgid "Level"
 msgstr ""
 
-#: actions/bundled/runscriptconfig.cpp:72
+#: actions/bundled/runscriptconfig.cpp:71
 #, kde-format
 msgid "Script"
 msgstr ""
 
-#: actions/bundled/runscriptconfig.cpp:84
+#: actions/bundled/runscriptconfig.cpp:83
 #, fuzzy, kde-format
 msgid "On Profile Load"
 msgstr "പുതിയ പ്രൊഫൈല്‍"
 
-#: actions/bundled/runscriptconfig.cpp:85
+#: actions/bundled/runscriptconfig.cpp:84
 #, kde-format
 msgid "On Profile Unload"
 msgstr ""
 
-#: actions/bundled/runscriptconfig.cpp:96
+#: actions/bundled/runscriptconfig.cpp:95
 #, kde-format
 msgid "Run script"
+msgstr ""
+
+#: actions/bundled/suspendsessionconfig.cpp:87
+#, kde-format
+msgid "after "
+msgstr ""
+
+#: actions/bundled/suspendsessionconfig.cpp:108
+#, kde-format
+msgid "Automatically"
+msgstr ""
+
+#: actions/bundled/suspendsessionconfig.cpp:115
+#, kde-format
+msgid "While asleep, hibernate after a period of inactivity"
 msgstr ""
 
 #: actions/bundled/wirelesspowersavingconfig.cpp:75
@@ -230,6 +245,12 @@ msgstr ""
 msgid "Bluetooth"
 msgstr ""
 
+#: actions/dpms/powerdevildpmsaction.cpp:81
+#, fuzzy, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Turn Off Screen"
+msgstr "സ്ക്രീന്‍ കെടുത്തുക"
+
 #: actions/dpms/powerdevildpmsactionconfig.cpp:61
 #, fuzzy, kde-format
 msgid "Switch off after"
@@ -240,7 +261,7 @@ msgstr "എത്ര സമയത്തിനു് ശേഷം &നിര്�
 msgid "Can't open file"
 msgstr ""
 
-#: backends/upower/login1suspendjob.cpp:76
+#: backends/upower/login1suspendjob.cpp:79
 #: backends/upower/upowersuspendjob.cpp:69
 #, fuzzy, kde-format
 msgid "Unsupported suspend method"

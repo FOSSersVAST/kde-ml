@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2019-08-03 01:31+0000\n"
 "PO-Revision-Date: 2008-07-16 10:34+0530\n"
 "Last-Translator: Manu S Madhav | മനു എസ് മാധവ് <manusmad@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -18,18 +18,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: step/org.kde.step.desktop:8
+#: step/org.kde.step.desktop:9
 msgctxt "Name"
 msgid "Step"
 msgstr "സ്റ്റെപ്പ്"
 
-#: step/org.kde.step.desktop:59
+#: step/org.kde.step.desktop:60
 #, fuzzy
 msgctxt "GenericName"
 msgid "Interactive Physical Simulator"
 msgstr "ഇന്ററാക്ടീവ് ഫിസിക്കല്‍ സിമുലേറ്റര്‍"
 
-#: step/org.kde.step.desktop:104
+#: step/org.kde.step.desktop:105
 msgctxt "Comment"
 msgid "Simulate physics experiments"
 msgstr "ഫിസിക്സ് പരീക്ഷണങ്ങള്‍ സിമുലേറ്റ് ചെയ്യുക"

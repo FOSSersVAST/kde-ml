@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: menu.cpp:97
+#: menu.cpp:96
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Show KRunner"
 msgstr ""
 
-#: menu.cpp:102
+#: menu.cpp:101
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Lock Screen"
 msgstr ""
 
-#: menu.cpp:107
+#: menu.cpp:106
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Leave..."

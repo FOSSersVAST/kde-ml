@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-browser-integration\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-09-04 03:36+0200\n"
 "PO-Revision-Date: 2019-03-23 03:48+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -18,89 +18,89 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: downloadjob.cpp:177
+#: downloadjob.cpp:191
 #, kde-format
 msgid "Access denied."
 msgstr ""
 
-#: downloadjob.cpp:178
+#: downloadjob.cpp:192
 #, kde-format
 msgid "Insufficient free space."
 msgstr ""
 
-#: downloadjob.cpp:179
+#: downloadjob.cpp:193
 #, kde-format
 msgid "The file name you have chosen is too long."
 msgstr ""
 
-#: downloadjob.cpp:180
+#: downloadjob.cpp:194
 #, kde-format
 msgid "The file is too large to be downloaded."
 msgstr ""
 
-#: downloadjob.cpp:182
+#: downloadjob.cpp:196
 #, kde-format
 msgid "The file possibly contains malicious contents."
 msgstr ""
 
-#: downloadjob.cpp:183
+#: downloadjob.cpp:197
 #, kde-format
 msgid "A temporary error has occurred. Please try again later."
 msgstr ""
 
-#: downloadjob.cpp:185
+#: downloadjob.cpp:199
 #, kde-format
 msgid "A network error has occurred."
 msgstr ""
 
-#: downloadjob.cpp:186
+#: downloadjob.cpp:200
 #, kde-format
 msgid "The network operation timed out."
 msgstr ""
 
-#: downloadjob.cpp:187
+#: downloadjob.cpp:201
 #, kde-format
 msgid "The network connection has been lost."
 msgstr ""
 
-#: downloadjob.cpp:188
+#: downloadjob.cpp:202
 #, kde-format
 msgid "The server is no longer reachable."
 msgstr ""
 
-#: downloadjob.cpp:190
+#: downloadjob.cpp:204
 #, kde-format
 msgid "A server error has occurred."
 msgstr ""
 
-#: downloadjob.cpp:194
+#: downloadjob.cpp:208
 #, kde-format
 msgid "The server does not have the requested data."
 msgstr ""
 
-#: downloadjob.cpp:196
+#: downloadjob.cpp:210
 #, kde-format
 msgid "The browser application closed unexpectedly."
 msgstr ""
 
-#: downloadjob.cpp:203
+#: downloadjob.cpp:217
 #, kde-format
 msgid "An unknown error occurred while downloading."
 msgstr ""
 
-#: downloadjob.cpp:233
+#: downloadjob.cpp:251
 #, kde-format
 msgctxt "Job heading, like 'Copying'"
 msgid "Downloading"
 msgstr ""
 
-#: downloadjob.cpp:234
+#: downloadjob.cpp:252
 #, kde-format
 msgctxt "The URL being downloaded"
 msgid "Source"
 msgstr ""
 
-#: downloadjob.cpp:235
+#: downloadjob.cpp:253
 #, kde-format
 msgctxt "The location being downloaded to"
 msgid "Destination"

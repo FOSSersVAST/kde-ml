@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: khotkeys trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-10-17 03:22+0200\n"
 "PO-Revision-Date: 2010-06-28 17:07+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -793,7 +793,7 @@ msgctxt "Or_condition"
 msgid "Or"
 msgstr "ഓര്‍"
 
-#: libkhotkeysprivate/khotkeysglobal.h:40
+#: libkhotkeysprivate/khotkeysglobal.h:39
 #, kde-format
 msgid "Menu Editor entries"
 msgstr "മെനു എഡിറ്റര്‍ എന്‍ട്രികള്‍"
@@ -820,7 +820,7 @@ msgstr ""
 msgid "Gesture trigger"
 msgstr "ആംഗിക ആരംഭകന്‍"
 
-#: libkhotkeysprivate/triggers/shortcut_trigger.cpp:153
+#: libkhotkeysprivate/triggers/shortcut_trigger.cpp:152
 #, kde-format
 msgid "Shortcut trigger: "
 msgstr "കുറുക്കുവഴി ആരംഭകന്‍: "

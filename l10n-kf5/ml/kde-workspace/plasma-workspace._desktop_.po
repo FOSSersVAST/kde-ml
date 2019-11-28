@@ -136,7 +136,7 @@ msgctxt "Comment"
 msgid "Lock the screen or log out"
 msgstr "സ്ക്രീന്‍ പൂട്ടുക അല്ലെങ്കില്‍ പുറത്തേക്ക് കടക്കുക"
 
-#: applets/lock_logout/metadata.desktop:158
+#: applets/lock_logout/metadata.desktop:157
 msgctxt "Keywords"
 msgid "Lock;Logout;Sleep;Hibernate;Switch User;"
 msgstr ""
@@ -147,7 +147,7 @@ msgctxt "Name"
 msgid "Media Player"
 msgstr "മള്‍ട്ടിമീഡിയ പ്ലെയര്‍"
 
-#: applets/mediacontroller/metadata.desktop:48
+#: applets/mediacontroller/metadata.desktop:49
 #, fuzzy
 msgctxt "Comment"
 msgid "Media Player Controls"
@@ -169,7 +169,7 @@ msgctxt "Name"
 msgid "Panel Spacer"
 msgstr "പാളിയില്‍ ഒഴിഞ്ഞസ്ഥലമിടാന്‍"
 
-#: applets/panelspacer/metadata.desktop:67
+#: applets/panelspacer/metadata.desktop:66
 msgctxt "Comment"
 msgid "Reserve empty spaces within the panel."
 msgstr "പാനലിലെ ഒഴിഞ്ഞ ഇടങ്ങള്‍ കരുതിവെയ്ക്കുക."
@@ -180,7 +180,7 @@ msgctxt "Name"
 msgid "CPU Load Monitor"
 msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
 
-#: applets/systemmonitor/cpu/metadata.desktop:44
+#: applets/systemmonitor/cpu/metadata.desktop:45
 msgctxt "Comment"
 msgid "Monitor the load of the CPUs"
 msgstr ""
@@ -191,7 +191,7 @@ msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
 msgstr "ഹാര്‍ഡ് ഡിസ്ക് ഉപയോഗം നിരീക്ഷകന്‍"
 
-#: applets/systemmonitor/diskactivity/metadata.desktop:54
+#: applets/systemmonitor/diskactivity/metadata.desktop:55
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr ""
@@ -246,7 +246,7 @@ msgctxt "Name"
 msgid "Application menus daemon"
 msgstr "പ്രയോഗ സഹായകഗ്രന്ഥങ്ങള്‍"
 
-#: appmenu/appmenu.desktop:52
+#: appmenu/appmenu.desktop:53
 msgctxt "Comment"
 msgid "Transfers application's menu to the desktop"
 msgstr ""
@@ -339,7 +339,7 @@ msgctxt "Name"
 msgid "Application Job Information"
 msgstr "പ്രയോഗ ജോലി അറിയിപ്പുകള്‍"
 
-#: dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:73
+#: dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:72
 msgctxt "Comment"
 msgid "Application job updates (via kuiserver)"
 msgstr "പ്രയോഗ ജോലിയിലെ മാറ്റങ്ങള്‍ (കൂയിസെര്‍വര്‍ വഴി)"
@@ -381,7 +381,7 @@ msgctxt "Name"
 msgid "Run Commands"
 msgstr "ആജ്ഞകള്‍ പ്രവര്‍ത്തിപ്പിയ്ക്കുക"
 
-#: dataengines/executable/plasma-dataengine-executable.desktop:76
+#: dataengines/executable/plasma-dataengine-executable.desktop:75
 msgctxt "Comment"
 msgid "Run Executable Data Engine"
 msgstr "പ്രവര്‍ത്തിക്കാന്‍ കഴിയുന്ന ഡേറ്റാ എഞ്ചിന്‍ പ്രവര്‍ത്തിപ്പിയ്ക്കുക"
@@ -391,7 +391,7 @@ msgctxt "Name"
 msgid "Favicons"
 msgstr "ഇഷ്ടചിഹ്നങ്ങള്‍"
 
-#: dataengines/favicons/plasma-dataengine-favicons.desktop:76
+#: dataengines/favicons/plasma-dataengine-favicons.desktop:75
 msgctxt "Comment"
 msgid "Data Engine for getting favicons of web sites"
 msgstr "വെബ് സൈറ്റുകളുടെ ഇഷ്ടചിഹ്നങ്ങള്‍ ലഭിക്കാനുള്ള ഡേറ്റ എഞ്ചിന്‍"
@@ -446,7 +446,7 @@ msgctxt "Name"
 msgid "Hotplug Events"
 msgstr "ഹോട്ട്പ്ലഗ് സംഭവങ്ങള്‍"
 
-#: dataengines/hotplug/plasma-dataengine-hotplug.desktop:71
+#: dataengines/hotplug/plasma-dataengine-hotplug.desktop:70
 msgctxt "Comment"
 msgid "Tracks hot-pluggable devices as they appear and disappear."
 msgstr ""
@@ -525,139 +525,6 @@ msgctxt "Comment"
 msgid "Battery, AC, sleep and PowerDevil information."
 msgstr "ബാറ്ററി, എസി, നിദ്ര പിന്നെ പവര്‍ഡെവിള്‍ എന്നീ വിവരങ്ങള്‍."
 
-#: dataengines/share/backends/im9/metadata.desktop:2
-msgctxt "Name"
-msgid "im9.eu"
-msgstr ""
-
-#: dataengines/share/backends/im9/metadata.desktop:49
-msgctxt "Comment"
-msgid "Allows images to be shared using the im9.eu service"
-msgstr ""
-
-#: dataengines/share/backends/imgsusepasteorg/metadata.desktop:2
-msgctxt "Name"
-msgid "img.susepaste.org"
-msgstr ""
-
-#: dataengines/share/backends/imgsusepasteorg/metadata.desktop:56
-msgctxt "Comment"
-msgid "Allows images to be shared using the susepaste.org service"
-msgstr ""
-
-#: dataengines/share/backends/imgur/metadata.desktop:2
-#, fuzzy
-msgctxt "Name"
-msgid "Imgur"
-msgstr "ചിത്രം"
-
-#: dataengines/share/backends/imgur/metadata.desktop:61
-msgctxt "Comment"
-msgid "Allows images to be shared using the imgur service"
-msgstr ""
-
-#: dataengines/share/backends/kde/metadata.desktop:2
-msgctxt "Name"
-msgid "paste.kde.org"
-msgstr ""
-
-#: dataengines/share/backends/kde/metadata.desktop:50
-msgctxt "Comment"
-msgid "Allows text to be shared using the kde.org service"
-msgstr ""
-
-#: dataengines/share/backends/pastebincom/metadata.desktop:2
-msgctxt "Name"
-msgid "pastebin.com"
-msgstr ""
-
-#: dataengines/share/backends/pastebincom/metadata.desktop:61
-msgctxt "Comment"
-msgid "Allows text to be shared using the pastebin.com service"
-msgstr ""
-
-#: dataengines/share/backends/pasteopensuseorg/metadata.desktop:2
-msgctxt "Name"
-msgid "paste.opensuse.org"
-msgstr ""
-
-#: dataengines/share/backends/pasteopensuseorg/metadata.desktop:61
-msgctxt "Comment"
-msgid "Paste text with openSUSE"
-msgstr ""
-
-#: dataengines/share/backends/pasteubuntucom/metadata.desktop:2
-msgctxt "Name"
-msgid "paste.ubuntu.com"
-msgstr ""
-
-#: dataengines/share/backends/privatepaste/metadata.desktop:2
-msgctxt "Name"
-msgid "privatepaste.com"
-msgstr ""
-
-#: dataengines/share/backends/privatepaste/metadata.desktop:60
-msgctxt "Comment"
-msgid "Paste text with the PrivatePaste.com service"
-msgstr ""
-
-#: dataengines/share/backends/simplestimagehosting/metadata.desktop:2
-msgctxt "Name"
-msgid "Simplest Image Hosting"
-msgstr ""
-
-#: dataengines/share/backends/simplestimagehosting/metadata.desktop:58
-msgctxt "Comment"
-msgid "Allows images to be shared using the Simplest Image Hosting service"
-msgstr ""
-
-#: dataengines/share/backends/wklej/metadata.desktop:2
-msgctxt "Name"
-msgid "wklej.org"
-msgstr ""
-
-#: dataengines/share/backends/wklej/metadata.desktop:61
-msgctxt "Comment"
-msgid "Allows text to be shared using the wklej.org service"
-msgstr ""
-
-#: dataengines/share/backends/wstaw/metadata.desktop:2
-msgctxt "Name"
-msgid "wstaw.org"
-msgstr ""
-
-#: dataengines/share/backends/wstaw/metadata.desktop:62
-msgctxt "Comment"
-msgid "Allows images to be shared using the wstaw.org service"
-msgstr ""
-
-#: dataengines/share/data/plasma_shareprovider.desktop:4
-msgctxt "Comment"
-msgid "Plugin for Plasma Sharebin"
-msgstr ""
-
-#: dataengines/share/packagestructure/plasma-packagestructure-share.desktop:2
-#, fuzzy
-msgctxt "Name"
-msgid "ShareProvider"
-msgstr "സേവനങ്ങള്‍"
-
-#: dataengines/share/packagestructure/plasma-packagestructure-share.desktop:57
-msgctxt "Comment"
-msgid "Share Package Structure"
-msgstr ""
-
-#: dataengines/share/plasma-dataengine-share.desktop:2
-#, fuzzy
-msgctxt "Name"
-msgid "Share Services"
-msgstr "സേവനങ്ങള്‍"
-
-#: dataengines/share/plasma-dataengine-share.desktop:61
-msgctxt "Comment"
-msgid "Engine to share content using different services"
-msgstr ""
-
 #: dataengines/soliddevice/plasma-dataengine-soliddevice.desktop:2
 msgctxt "Name"
 msgid "Device Information"
@@ -721,7 +588,7 @@ msgctxt "Name"
 msgid "Environment Canada"
 msgstr "കാനഡയുടെ പരിസ്ഥിതി"
 
-#: dataengines/weather/ions/envcan/ion-envcan.desktop:73
+#: dataengines/weather/ions/envcan/ion-envcan.desktop:72
 msgctxt "Comment"
 msgid "XML Data from Environment Canada"
 msgstr "കാനഡയുടെ പരിസ്ഥിതിയില്‍ നിന്നുമുള്ള എക്സ്എംഎല്‍ ഡേറ്റാ"
@@ -731,7 +598,7 @@ msgctxt "Name"
 msgid "NOAA's National Weather Service"
 msgstr "നോആ-യുടെ ദേശീയ കാലവസ്ഥാ സേവനം"
 
-#: dataengines/weather/ions/noaa/ion-noaa.desktop:73
+#: dataengines/weather/ions/noaa/ion-noaa.desktop:72
 msgctxt "Comment"
 msgid "XML Data from NOAA's National Weather Service"
 msgstr "നോആ-യുടെ ദേശീയി കാലവസ്ഥാ സേവനത്തില്‍ നിന്നുമുള്ള എക്സ്എംഎല്‍ ഡേറ്റാ"
@@ -843,7 +710,7 @@ msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: kioslave/desktop/./directory.trash:44
+#: kioslave/desktop/./directory.trash:45
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr ""
@@ -873,7 +740,7 @@ msgctxt "Description"
 msgid "Launch &Gwenview"
 msgstr "&ഗ്വെന്‍വ്യൂ ലഭ്യമാക്കുക"
 
-#: klipper/klipperrc.desktop:190
+#: klipper/klipperrc.desktop:189
 msgctxt "Description"
 msgid "Web-URL"
 msgstr "വെബ്-യുആര്‍എല്‍"
@@ -899,32 +766,32 @@ msgctxt "Description"
 msgid "Send &URL"
 msgstr "&യുആര്‍എല്‍ അയയ്ക്കുക"
 
-#: klipper/klipperrc.desktop:647
+#: klipper/klipperrc.desktop:641
 msgctxt "Description"
 msgid "Open with &Firefox"
 msgstr "&ഫയര്‍ഫോക്സില്‍ തുറക്കുക"
 
-#: klipper/klipperrc.desktop:737
+#: klipper/klipperrc.desktop:730
 msgctxt "Description"
 msgid "Send &Page"
 msgstr "&താള്‍ അയയ്ക്കുക"
 
-#: klipper/klipperrc.desktop:830
+#: klipper/klipperrc.desktop:822
 msgctxt "Description"
 msgid "Mail-URL"
 msgstr "മെയില്‍-യുആര്‍എല്‍"
 
-#: klipper/klipperrc.desktop:923
+#: klipper/klipperrc.desktop:914
 msgctxt "Description"
 msgid "Launch &Kmail"
 msgstr "&കെമെയില്‍ ലഭ്യമാക്കുക"
 
-#: klipper/klipperrc.desktop:1016
+#: klipper/klipperrc.desktop:1006
 msgctxt "Description"
 msgid "Launch &mutt"
 msgstr "&മട്ട് ലഭ്യമാക്കുക"
 
-#: klipper/klipperrc.desktop:1107
+#: klipper/klipperrc.desktop:1096
 msgctxt "Description"
 msgid "Text File"
 msgstr "പദാവലി ഫയല്‍"
@@ -961,7 +828,7 @@ msgctxt "Comment"
 msgid "Clipboard Tool."
 msgstr "ക്ലിപ്ബോര്‍ഡ് ഉപകരണം"
 
-#: krunner/krunner.desktop:3
+#: krunner/krunner.desktop.cmake:3
 msgctxt "Name"
 msgid "KRunner"
 msgstr ""
@@ -1168,6 +1035,14 @@ msgctxt "Name"
 msgid "Multimedia"
 msgstr "മള്‍ട്ടീമീഡിയ"
 
+#: menu/desktop/kf5-network.directory:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Networking"
+msgctxt "Name"
+msgid "Network"
+msgstr "ശൃംഖല"
+
 #: menu/desktop/kf5-office.directory:3
 msgctxt "Name"
 msgid "Office"
@@ -1302,16 +1177,6 @@ msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
 
-#: plasma.desktop.cmake:6 plasmawayland.desktop.cmake:5
-msgctxt "Name"
-msgid "Plasma"
-msgstr ""
-
-#: plasma.desktop.cmake:51 plasmawayland.desktop.cmake:50
-msgctxt "Comment"
-msgid "Plasma by KDE"
-msgstr ""
-
 #: plasma-windowed/plasma-windowed.desktop:2
 #, fuzzy
 msgctxt "Name"
@@ -1351,7 +1216,7 @@ msgctxt "Name"
 msgid "Desktop Search"
 msgstr "പണിയിടത്തിന്റെ പ്രവര്‍ത്തനവേളകള്‍"
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:47
+#: runners/baloo/plasma-runner-baloosearch.desktop:48
 msgctxt "Comment"
 msgid "Searches through files, emails and contacts"
 msgstr ""
@@ -1386,7 +1251,7 @@ msgctxt "Name"
 msgid "Terminate Applications"
 msgstr "പ്രയോഗങ്ങളെ ഇല്ലാതാക്കുക"
 
-#: runners/kill/plasma-runner-kill.desktop:71
+#: runners/kill/plasma-runner-kill.desktop:70
 msgctxt "Comment"
 msgid "Stop applications that are currently running"
 msgstr "ഇപ്പോള്‍ പ്രവര്‍ത്തിയ്ക്കുന്ന പ്രയോഗങ്ങള്‍ നിര്‍ത്തുക"
@@ -1412,7 +1277,7 @@ msgctxt "Comment"
 msgid "Basic Power Management Operations"
 msgstr "അടിസ്ഥാനപരമായ പവര്‍ മാനേജ്മെന്റ് ബാക്കെന്‍ഡ് നടപടികള്‍"
 
-#: runners/powerdevil/plasma-runner-powerdevil.desktop:75
+#: runners/powerdevil/plasma-runner-powerdevil.desktop:74
 #, fuzzy
 msgctxt "Name"
 msgid "Power"
@@ -1453,16 +1318,6 @@ msgctxt "Comment"
 msgid "Executes shell commands"
 msgstr "ഷെല്‍ ആജ്ഞകള്‍ നടപ്പിലാക്കുക"
 
-#: runners/solid/plasma-runner-solid.desktop:3
-msgctxt "Name|plasma runner"
-msgid "Devices"
-msgstr "ഉപകരണങ്ങള്‍"
-
-#: runners/solid/plasma-runner-solid.desktop:73
-msgctxt "Comment"
-msgid "Manage removable devices"
-msgstr "നീക്കം ചെയ്യാവുന്ന ഉപകരണങ്ങള്‍ നോക്കി നടത്തല്‍"
-
 #: runners/webshortcuts/plasma-runner-webshortcuts.desktop:3
 msgctxt "Name|plasma runner"
 msgid "Web Shortcuts"
@@ -1500,7 +1355,7 @@ msgctxt "Description"
 msgid "Breeze"
 msgstr ""
 
-#: shell/org.kde.plasmashell.desktop:4
+#: shell/org.kde.plasmashell.desktop.cmake:4
 #, fuzzy
 msgctxt "Name"
 msgid "Plasma Desktop Workspace"
@@ -1537,7 +1392,7 @@ msgctxt "Name"
 msgid "Drive Ejector"
 msgstr "ഡ്രൈവ് പുറത്തെടുക്കുവാന്‍"
 
-#: solidautoeject/solidautoeject.desktop:71
+#: solidautoeject/solidautoeject.desktop:70
 msgctxt "Comment"
 msgid "Automatically releases drives when their eject button is pushed"
 msgstr "പുറത്തെടുക്കുവാനുള്ള ബട്ടണ്‍ അമര്‍ത്തുബോള്‍ ഡ്രൈവുകള്‍ സ്വയം പുറത്തെടുക്കുന്നു"
@@ -1579,7 +1434,7 @@ msgctxt "Name"
 msgid "Plasma Weather Ion Dataengine"
 msgstr ""
 
-#: templates/ion-dataengine/ion-dataengine.kdevtemplate:40
+#: templates/ion-dataengine/ion-dataengine.kdevtemplate:41
 msgctxt "Comment"
 msgid ""
 "A special Plasma sub-dataengine for the Plasma Weather dataengine, providing "
@@ -1591,7 +1446,7 @@ msgctxt "Name"
 msgid "CDE"
 msgstr "സിഡിഇ"
 
-#: themes/qtcde.themerc:91
+#: themes/qtcde.themerc:90
 msgctxt "Comment"
 msgid "Built-in unthemed CDE style"
 msgstr "രംഗവിതാനമൊന്നും തെരഞ്ഞെടുക്കാത്ത സിഡിഇയുടെ തനതു് രീതി"
@@ -1631,7 +1486,7 @@ msgctxt "Name"
 msgid "Motif"
 msgstr "മോട്ടിഫ്"
 
-#: themes/qtmotif.themerc:86
+#: themes/qtmotif.themerc:85
 msgctxt "Comment"
 msgid "Built-in unthemed Motif style"
 msgstr "രംഗവിതാനമൊന്നും തെരഞ്ഞെടുക്കാത്ത മോട്ടിഫിന്റെ തനതു് രീതി"
@@ -1641,7 +1496,7 @@ msgctxt "Name"
 msgid "Plastique"
 msgstr "പ്ലാസ്റ്റിക്"
 
-#: themes/qtplastique.themerc:70
+#: themes/qtplastique.themerc:69
 msgctxt "Comment"
 msgid "Built-in unthemed style similar to Plastik from KDE3"
 msgstr "കെഡിഇ3യിലെ പ്ലാസ്റ്റിക്കിനോടു് സദൃശ്യമായ പ്രമേയമില്ലാത്ത ഒപ്പം വരുന്ന ശൈലി"
@@ -1714,7 +1569,7 @@ msgctxt "Name"
 msgid "Slideshow"
 msgstr "മാറുന്ന ചിത്രങ്ങള്‍"
 
-#: wallpapers/image/slideshowpackage/metadata.desktop:79
+#: wallpapers/image/slideshowpackage/metadata.desktop:78
 #, fuzzy
 msgctxt "Comment"
 msgid "Slideshow wallpaper"
@@ -1729,6 +1584,29 @@ msgstr ""
 msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr ""
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Imgur"
+#~ msgstr "ചിത്രം"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "ShareProvider"
+#~ msgstr "സേവനങ്ങള്‍"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Share Services"
+#~ msgstr "സേവനങ്ങള്‍"
+
+#~ msgctxt "Name|plasma runner"
+#~ msgid "Devices"
+#~ msgstr "ഉപകരണങ്ങള്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage removable devices"
+#~ msgstr "നീക്കം ചെയ്യാവുന്ന ഉപകരണങ്ങള്‍ നോക്കി നടത്തല്‍"
 
 #~ msgctxt "Name"
 #~ msgid "kuiserver"
@@ -1757,10 +1635,6 @@ msgstr ""
 #~ msgctxt "Comment"
 #~ msgid "Calendar data engine"
 #~ msgstr "കലണ്ടര്‍ ഡാറ്റ എഞ്ചിന്‍"
-
-#~ msgctxt "Name"
-#~ msgid "Networking"
-#~ msgstr "ശൃംഖല"
 
 #~ msgctxt "Comment"
 #~ msgid "Network interface information"

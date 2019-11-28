@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmsamba\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-10-02 03:32+0200\n"
 "PO-Revision-Date: 2008-07-12 00:34+0530\n"
 "Last-Translator: ANI PETER|അനി പീറ്റര്‍ <apeter@redhat.com\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -171,7 +171,7 @@ msgid ""
 "be read and the list refreshed.</p>"
 msgstr ""
 
-#: kcmsambalog.cpp:205 kcmsambastatistics.cpp:149 kcmsambastatistics.cpp:214
+#: kcmsambalog.cpp:205 kcmsambastatistics.cpp:149 kcmsambastatistics.cpp:212
 #, kde-format
 msgid "CONNECTION OPENED"
 msgstr "CONNECTION OPENED"
@@ -271,7 +271,7 @@ msgstr "കണക്ഷനുകള്‍: %1"
 msgid "File accesses: %1"
 msgstr "ഫയല്‍ എത്ര തവണ ഉപയോഗിച്ചു: %1"
 
-#: kcmsambastatistics.cpp:162 kcmsambastatistics.cpp:217
+#: kcmsambastatistics.cpp:162 kcmsambastatistics.cpp:215
 #, kde-format
 msgid "FILE OPENED"
 msgstr "FILE OPENED"

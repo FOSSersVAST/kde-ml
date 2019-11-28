@@ -121,12 +121,12 @@ msgctxt "Name"
 msgid "BlueDevil Send File"
 msgstr ""
 
-#: src/sendfile/org.kde.bluedevilsendfile.desktop:45
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:46
 msgctxt "GenericName"
 msgid "BlueDevil Send File"
 msgstr ""
 
-#: src/sendfile/org.kde.bluedevilsendfile.desktop:88
+#: src/sendfile/org.kde.bluedevilsendfile.desktop:90
 msgctxt "Comment"
 msgid "BlueDevil Send File"
 msgstr ""

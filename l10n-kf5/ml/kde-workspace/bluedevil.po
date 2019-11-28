@@ -371,30 +371,41 @@ msgstr "ബ്ലൂടൂത്ത് ഉപകരണങ്ങൾ "
 msgid "Bluetooth Devices Control Panel Module"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:214
+#: kcmodule/devices/devices.cpp:219
+#, kde-format
+msgid ""
+"Are you sure that you want to remove %1 device from the list of known "
+"devices?"
+msgid_plural ""
+"Are you sure that you want to remove %1 devices from the list of known "
+"devices?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: kcmodule/devices/devices.cpp:221
 #, kde-format
 msgid ""
 "Are you sure that you want to remove device \"%1\" from the list of known "
 "devices?"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:215
+#: kcmodule/devices/devices.cpp:224
 #, kde-format
 msgctxt "Title of window that asks for confirmation when removing a device"
 msgid "Device removal"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:270
+#: kcmodule/devices/devices.cpp:291
 #, kde-format
 msgid "Select a device to configure"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:285
+#: kcmodule/devices/devices.cpp:306
 #, kde-format
 msgid "No devices found"
 msgstr "ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല"
 
-#: kcmodule/devices/devices.cpp:288
+#: kcmodule/devices/devices.cpp:309
 #, kde-format
 msgid "Add new device"
 msgstr "ഒരു പുതിയ ഉപകരണം ചേർക്കുക"
@@ -547,13 +558,13 @@ msgctxt ""
 msgid "Introduce PIN"
 msgstr ""
 
-#: kded/helpers/requestpin.cpp:75
+#: kded/helpers/requestpin.cpp:76
 #, kde-format
 msgctxt "Shown in the caption of a dialog where the user introduce the PIN"
 msgid "Introduce PIN"
 msgstr ""
 
-#: kded/helpers/requestpin.cpp:81
+#: kded/helpers/requestpin.cpp:82
 #, kde-format
 msgctxt ""
 "Shown in a dialog which asks to introduce a PIN that will be used to pair a "
@@ -810,19 +821,19 @@ msgid "Your Bluetooth adapter is not pairable."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: wizard/pages/discover.ui:66
+#: wizard/pages/discover.ui:54
 #, kde-format
 msgid "Scanning..."
 msgstr "തിരയുന്നു..."
 
 #. i18n: ectx: property (text), widget (QCheckBox, manualPin)
-#: wizard/pages/discover.ui:86
+#: wizard/pages/discover.ui:74
 #, kde-format
 msgid "Manual PIN:"
 msgstr ""
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, pinText)
-#: wizard/pages/discover.ui:114
+#: wizard/pages/discover.ui:102
 #, kde-format
 msgid "0000"
 msgstr "0000"

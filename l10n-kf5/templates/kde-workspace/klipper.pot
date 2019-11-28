@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-19 03:31+0200\n"
+"POT-Creation-Date: 2019-11-28 03:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -85,7 +85,7 @@ msgstr ""
 msgid ""
 "Click on a highlighted item's column to change it. \"%s\" in a command will "
 "be replaced with the clipboard contents.<br>For more information about "
-"regular expressions, you could have a look at the <a href=\"http://en."
+"regular expressions, you could have a look at the <a href=\"https://en."
 "wikipedia.org/wiki/Regular_expression\">Wikipedia entry about this topic</a>."
 msgstr ""
 
@@ -141,12 +141,12 @@ msgstr ""
 msgid "Shortcuts Configuration"
 msgstr ""
 
-#: configdialog.cpp:383
+#: configdialog.cpp:352
 #, kde-format
 msgid "D&isable Actions for Windows of Type WM_CLASS"
 msgstr ""
 
-#: configdialog.cpp:391
+#: configdialog.cpp:360
 #, kde-format
 msgid ""
 "<qt>This lets you specify windows in which Klipper should not invoke "

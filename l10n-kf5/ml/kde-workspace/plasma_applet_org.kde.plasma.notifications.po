@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: filemenu.cpp:120 package/contents/ui/JobItem.qml:166
+#: filemenu.cpp:120 package/contents/ui/JobItem.qml:169
 #, kde-format
 msgid "Open Containing Folder"
 msgstr ""
@@ -110,21 +110,11 @@ msgstr ""
 
 #: package/contents/ui/FullRepresentation.qml:258
 #, kde-format
-msgid "No unread notifications."
+msgctxt "Do not disturb because external mirrored screens connected"
+msgid "Screens are mirrored"
 msgstr ""
 
 #: package/contents/ui/FullRepresentation.qml:425
-#, kde-format
-msgid "Notifications"
-msgstr ""
-
-#: package/contents/ui/FullRepresentation.qml:352
-#: package/contents/ui/main.qml:141
-#, kde-format
-msgid "Clear History"
-msgstr ""
-
-#: package/contents/ui/FullRepresentation.qml:405
 #, kde-format
 msgid "Close Group"
 msgstr ""
@@ -205,13 +195,13 @@ msgctxt "Cancel running job"
 msgid "Cancel"
 msgstr ""
 
-#: package/contents/ui/JobItem.qml:99
+#: package/contents/ui/JobItem.qml:98
 #, kde-format
 msgctxt "A button tooltip; hides item details"
 msgid "Hide Details"
 msgstr ""
 
-#: package/contents/ui/JobItem.qml:100
+#: package/contents/ui/JobItem.qml:99
 #, kde-format
 msgctxt "A button tooltip; expands the item to show details"
 msgid "Show Details"
@@ -223,12 +213,12 @@ msgstr ""
 msgid "More Options..."
 msgstr ""
 
-#: package/contents/ui/JobItem.qml:166
+#: package/contents/ui/JobItem.qml:170
 #, kde-format
 msgid "Open"
 msgstr ""
 
-#: package/contents/ui/JobItem.qml:177
+#: package/contents/ui/JobItem.qml:181
 #, kde-format
 msgctxt "Resume paused job"
 msgid "Resume"
@@ -263,7 +253,7 @@ msgstr ""
 msgid "&Configure Event Notifications and Actions..."
 msgstr ""
 
-#: package/contents/ui/NotificationHeader.qml:117
+#: package/contents/ui/NotificationHeader.qml:119
 #, kde-format
 msgctxt "Notification was added minutes ago, keep short"
 msgid "%1 min ago"
@@ -271,7 +261,7 @@ msgid_plural "%1 min ago"
 msgstr[0] ""
 msgstr[1] ""
 
-#: package/contents/ui/NotificationHeader.qml:151
+#: package/contents/ui/NotificationHeader.qml:153
 #, kde-format
 msgctxt "seconds remaining, keep short"
 msgid "%1 s remaining"
@@ -279,7 +269,7 @@ msgid_plural "%1 s remaining"
 msgstr[0] ""
 msgstr[1] ""
 
-#: package/contents/ui/NotificationHeader.qml:155
+#: package/contents/ui/NotificationHeader.qml:157
 #, kde-format
 msgctxt "minutes remaining, keep short"
 msgid "%1 min remaining"
@@ -287,7 +277,7 @@ msgid_plural "%1 min remaining"
 msgstr[0] ""
 msgstr[1] ""
 
-#: package/contents/ui/NotificationHeader.qml:160
+#: package/contents/ui/NotificationHeader.qml:162
 #, kde-format
 msgctxt "hours remaining, keep short"
 msgid "%1 h remaining"
@@ -295,23 +285,23 @@ msgid_plural "%1 h remaining"
 msgstr[0] ""
 msgstr[1] ""
 
-#: package/contents/ui/NotificationHeader.qml:180
+#: package/contents/ui/NotificationHeader.qml:182
 #, kde-format
 msgid "Configure"
 msgstr ""
 
-#: package/contents/ui/NotificationHeader.qml:188
+#: package/contents/ui/NotificationHeader.qml:191
 #, kde-format
 msgctxt "Opposite of minimize"
 msgid "Restore"
 msgstr ""
 
-#: package/contents/ui/NotificationHeader.qml:188
+#: package/contents/ui/NotificationHeader.qml:192
 #, kde-format
 msgid "Minimize"
 msgstr ""
 
-#: package/contents/ui/NotificationHeader.qml:196
+#: package/contents/ui/NotificationHeader.qml:200
 #, kde-format
 msgid "Close"
 msgstr ""

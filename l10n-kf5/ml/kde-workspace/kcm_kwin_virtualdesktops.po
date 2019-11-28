@@ -44,10 +44,12 @@ msgstr ""
 msgid "There was an error requesting information from the compositor."
 msgstr ""
 
-#: package/contents/ui/main.qml:30
-#, fuzzy, kde-format
-msgid "Virtual Desktops"
-msgstr "പണിയിടം %1"
+#: package/contents/ui/main.qml:31
+#, kde-format
+msgid ""
+"This module lets you configure the navigation, number and layout of virtual "
+"desktops."
+msgstr ""
 
 #: package/contents/ui/main.qml:81
 #, kde-format
@@ -70,7 +72,7 @@ msgstr ""
 
 #: package/contents/ui/main.qml:131
 #, kde-format
-msgid "Rows:"
+msgid "Row %1"
 msgstr ""
 
 #: package/contents/ui/main.qml:144
@@ -86,8 +88,10 @@ msgstr "പണിയിടം %1"
 
 #: package/contents/ui/main.qml:161
 #, kde-format
-msgid "Row %1"
-msgstr ""
+msgid "1 Row"
+msgid_plural "%1 Rows"
+msgstr[0] ""
+msgstr[1] ""
 
 #: package/contents/ui/main.qml:181
 #, kde-format
@@ -120,9 +124,9 @@ msgid "Show desktop layout indicators"
 msgstr ""
 
 #: virtualdesktops.cpp:44
-#, kde-format
-msgid "Configure Virtual Desktops"
-msgstr ""
+#, fuzzy, kde-format
+msgid "Virtual Desktops"
+msgstr "പണിയിടം %1"
 
 #~ msgid "Desktop %1:"
 #~ msgstr "പണിയിടം %1:"

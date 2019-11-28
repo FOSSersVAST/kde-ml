@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Networks"
 msgstr ""
 
-#: applet/metadata.desktop:48
+#: applet/metadata.desktop:50
 msgctxt "Comment"
 msgid "Network status and control"
 msgstr ""
@@ -204,7 +204,7 @@ msgctxt "Name"
 msgid "Layer 2 Tunneling Protocol (L2TP)"
 msgstr ""
 
-#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:53
+#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:55
 msgctxt "Comment"
 msgid "Compatible with L2TP VPN servers"
 msgstr ""
@@ -234,7 +234,7 @@ msgctxt "Name"
 msgid "Cisco AnyConnect Compatible VPN (openconnect)"
 msgstr ""
 
-#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:54
+#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:56
 msgctxt "Comment"
 msgid "Compatible with Cisco AnyConnect SSL VPN"
 msgstr ""
@@ -244,8 +244,8 @@ msgctxt "Name"
 msgid "IPsec based VPN (openswan)"
 msgstr ""
 
-#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:54
-#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:55
+#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:55
+#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:56
 msgctxt "Comment"
 msgid "IPsec, IKEv1, IKEv2 based VPN"
 msgstr ""
@@ -255,7 +255,7 @@ msgctxt "Name"
 msgid "OpenVPN"
 msgstr ""
 
-#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:64
+#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:65
 msgctxt "Comment"
 msgid "Compatible with the OpenVPN server"
 msgstr ""
@@ -265,7 +265,7 @@ msgctxt "Name"
 msgid "Point-to-Point Tunneling Protocol (PPTP)"
 msgstr ""
 
-#: vpn/pptp/plasmanetworkmanagement_pptpui.desktop:53
+#: vpn/pptp/plasmanetworkmanagement_pptpui.desktop:55
 msgctxt "Comment"
 msgid "Compatible with Microsoft and other PPTP VPN servers"
 msgstr ""
@@ -275,7 +275,7 @@ msgctxt "Name"
 msgid "SSH"
 msgstr ""
 
-#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:57
+#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:59
 msgctxt "Comment"
 msgid "Compatible with the SSH server"
 msgstr ""
@@ -285,7 +285,7 @@ msgctxt "Name"
 msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr ""
 
-#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:54
+#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:56
 msgctxt "Comment"
 msgid "Compatible with Microsoft and other SSTP VPN servers"
 msgstr ""
@@ -300,7 +300,7 @@ msgctxt "Name"
 msgid "Cisco Compatible VPN (vpnc)"
 msgstr ""
 
-#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:55
+#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:56
 msgctxt "Comment"
 msgid ""
 "Compatible with various Cisco, Juniper, Netscreen and Sonicwall IPsec-based "

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-20 03:31+0100\n"
+"POT-Creation-Date: 2019-11-27 03:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -352,7 +352,7 @@ msgctxt "@info"
 msgid "Unable to load applications.<nl/>Please verify Internet connectivity."
 msgstr ""
 
-#: discover/qml/DiscoverDrawer.qml:118
+#: discover/qml/DiscoverDrawer.qml:117
 #, kde-format
 msgid "Return to the Featured page"
 msgstr ""
@@ -512,18 +512,18 @@ msgstr ""
 msgid "Tasks (%1%)"
 msgstr ""
 
-#: discover/qml/ProgressView.qml:17
+#: discover/qml/ProgressView.qml:17 discover/qml/ProgressView.qml:44
 #, kde-format
 msgid "Tasks"
 msgstr ""
 
-#: discover/qml/ProgressView.qml:80
+#: discover/qml/ProgressView.qml:84
 #, kde-format
 msgctxt "TransactioName - TransactionStatus"
 msgid "%1 - %2: %3"
 msgstr ""
 
-#: discover/qml/ProgressView.qml:81
+#: discover/qml/ProgressView.qml:85
 #, kde-format
 msgctxt "TransactioName - TransactionStatus"
 msgid "%1 - %2"

@@ -5219,10 +5219,6 @@ msgstr "ടെക്സ്റ്റ് എഴുത്തിടം"
 #~ msgid "Quick Access Terminal"
 #~ msgstr "ദ്രുതപ്രവേശന ടെര്‍മിനല്‍"
 
-#~ msgctxt "GenericName"
-#~ msgid "Text Editor"
-#~ msgstr "ടെക്സ്റ്റ് എഴുത്തിടം"
-
 #~ msgctxt "Name"
 #~ msgid "KWrite"
 #~ msgstr "കെറൈറ്റ്"

@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "Breeze Light"
 msgstr ""
 
-#: cursors/Breeze/Breeze/index.theme:46 cursors/Breeze/src/index.theme:46
+#: cursors/Breeze/Breeze/index.theme:47 cursors/Breeze/src/index.theme:47
 msgctxt "Comment"
 msgid "Breeze by the KDE VDG"
 msgstr ""
@@ -62,7 +62,7 @@ msgctxt "X-KDE-Keywords"
 msgid "breeze,decoration"
 msgstr ""
 
-#: kstyle/breeze.themerc:47
+#: kstyle/breeze.themerc:48
 msgctxt "Comment"
 msgid "Widget style for KDE Frameworks"
 msgstr ""

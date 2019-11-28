@@ -38,32 +38,32 @@ msgstr "അകത്ത് കടക്കുക "
 msgid "Caps Lock is on"
 msgstr "ക്യാപ്‌സ് ലോക്ക് ഓണാണ്"
 
-#: ../sddm-theme/Main.qml:203 ../sddm-theme/Main.qml:376
+#: ../sddm-theme/Main.qml:205 ../sddm-theme/Main.qml:385
 #: contents/logout/Logout.qml:177
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr "സ്ലീപ്"
 
-#: ../sddm-theme/Main.qml:210 ../sddm-theme/Main.qml:383
+#: ../sddm-theme/Main.qml:212 ../sddm-theme/Main.qml:392
 #: contents/logout/Logout.qml:195
 msgid "Restart"
 msgstr "പുനരാരംഭിക്കുക"
 
-#: ../sddm-theme/Main.qml:217 ../sddm-theme/Main.qml:390
+#: ../sddm-theme/Main.qml:219 ../sddm-theme/Main.qml:399
 #: contents/logout/Logout.qml:205
 msgid "Shut Down"
 msgstr "ഷട്ട് ഡൌൺ"
 
-#: ../sddm-theme/Main.qml:224
+#: ../sddm-theme/Main.qml:226
 msgctxt "For switching to a username and password prompt"
 msgid "Other..."
 msgstr "മറ്റുള്ളവ..."
 
-#: ../sddm-theme/Main.qml:364
+#: ../sddm-theme/Main.qml:373
 msgid "Type in Username and Password"
 msgstr "ഉപയോക്തൃനാമവും രഹസ്യവാക്കും ടൈപ്പുചെയ്യുക"
 
-#: ../sddm-theme/Main.qml:397
+#: ../sddm-theme/Main.qml:406
 msgid "List Users"
 msgstr "ഉപയോക്താക്കളെ പട്ടികപ്പെടുത്തുക"
 
@@ -248,24 +248,24 @@ msgctxt "Textfield placeholder text"
 msgid "Search..."
 msgstr "തിരയുക..."
 
-#: contents/runcommand/RunCommand.qml:173
-#: contents/runcommand/RunCommand.qml:175
+#: contents/runcommand/RunCommand.qml:199
+#: contents/runcommand/RunCommand.qml:201
 msgid "Close"
 msgstr "അടയ്‌ക്കുക"
 
-#: contents/runcommand/RunCommand.qml:174
+#: contents/runcommand/RunCommand.qml:200
 msgid "Close Search"
 msgstr "തിരയൽ അടയ്‌ക്കുക"
 
-#: contents/runcommand/RunCommand.qml:234
+#: contents/runcommand/RunCommand.qml:260
 msgid "Recent Queries"
 msgstr "സമീപകാല അന്വേഷണങ്ങൾ"
 
-#: contents/runcommand/RunCommand.qml:237
+#: contents/runcommand/RunCommand.qml:263
 msgid "Remove"
 msgstr "നീക്കംചെയ്യുക"
 
-#: contents/runcommand/RunCommand.qml:239
+#: contents/runcommand/RunCommand.qml:265
 msgid "in category recent queries"
 msgstr "സമീപകാല അന്വേഷണ വിഭാഗത്തിനുള്ളിൽ"
 

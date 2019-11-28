@@ -18,17 +18,17 @@ msgctxt "Name"
 msgid "SDDM"
 msgstr ""
 
-#: kcm_sddm.actions:49
+#: kcm_sddm.actions:50
 msgctxt "Name"
 msgid "Save Settings"
 msgstr ""
 
-#: kcm_sddm.actions:93
+#: kcm_sddm.actions:95
 msgctxt "Description"
 msgid "Save Settings in SDDM"
 msgstr ""
 
-#: kcm_sddm.actions:139
+#: kcm_sddm.actions:142
 msgctxt "Name"
 msgid "Install an SDDM theme"
 msgstr ""
@@ -73,12 +73,12 @@ msgctxt "X-KDE-Keywords"
 msgid "sddm,display manager,theme"
 msgstr ""
 
-#: kcm_sddm.desktop:56
+#: kcm_sddm.desktop:57
 msgctxt "Name"
 msgid "Login Screen (SDDM)"
 msgstr ""
 
-#: kcm_sddm.desktop:100
+#: kcm_sddm.desktop:102
 msgctxt "Comment"
 msgid "Configure Login Manager"
 msgstr ""

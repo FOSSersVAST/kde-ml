@@ -25,6 +25,7 @@ msgstr "പൊതുവായ"
 
 #: package/contents/ui/configGeneral.qml:84
 #, fuzzy, kde-format
+#| msgid "General"
 msgid "General:"
 msgstr "പൊതുവായ"
 

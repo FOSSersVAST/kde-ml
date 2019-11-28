@@ -78,12 +78,12 @@ msgstr ""
 msgid "Lock Session"
 msgstr ""
 
-#: ksldapp.cpp:381
+#: ksldapp.cpp:390
 #, kde-format
 msgid "Screen locked"
 msgstr ""
 
-#: ksldapp.cpp:538
+#: ksldapp.cpp:547
 #, kde-format
 msgid "Screen unlocked"
 msgstr ""

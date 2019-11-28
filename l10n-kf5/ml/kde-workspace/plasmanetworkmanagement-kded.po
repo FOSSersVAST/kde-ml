@@ -748,7 +748,7 @@ msgstr ""
 msgid "You need to log in to this network"
 msgstr ""
 
-#: secretagent.cpp:413
+#: secretagent.cpp:414
 #, kde-format
 msgid "Authentication to %1 failed. Wrong password?"
 msgstr ""

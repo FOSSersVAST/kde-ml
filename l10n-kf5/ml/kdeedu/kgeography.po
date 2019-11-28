@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgeography\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:02+0200\n"
+"POT-Creation-Date: 2019-07-04 02:49+0200\n"
 "PO-Revision-Date: 2009-06-01 00:58-0700\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -542,10 +542,12 @@ msgid "Burundi"
 msgstr "ബറുണ്ടി"
 
 #: africa.kgm:59
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "nicaragua.kgm"
+#| msgid "Jinotega"
 msgctxt "africa.kgm"
-msgid "Bujumbura"
-msgstr "ബുജുംബുറ"
+msgid "Gitega"
+msgstr "ജിനോടേഗ"
 
 #: africa.kgm:64
 #, kde-format
@@ -23892,27 +23894,27 @@ msgctxt "luxembourg_cantons.kgm"
 msgid "Mersch"
 msgstr "മെര്‍ഷ്"
 
-#: main.cpp:29
+#: main.cpp:30
 #, kde-format
 msgid "KGeography"
 msgstr "ഭൂമിശാസ്ത്ര പഠനസഹായി"
 
-#: main.cpp:29
+#: main.cpp:30
 #, fuzzy, kde-format
 msgid "A Geography learning program"
 msgstr "ഭൂമിശാസ്ത്രം പഠിയ്ക്കുവാനുള്ളൊരു പ്രോഗ്രാം"
 
-#: main.cpp:29
+#: main.cpp:30
 #, kde-format
 msgid "© 2004-2005 Albert Astals Cid"
 msgstr "© 2004-2005 ആല്‍ബര്‍ട്ട് അസ്റ്റാല്‍സ് സിഡ്"
 
-#: main.cpp:30
+#: main.cpp:31
 #, kde-format
 msgid "Albert Astals Cid"
 msgstr "ആല്‍ബര്‍ട്ട് അസ്റ്റാല്‍സ് സിഡ്"
 
-#: main.cpp:30
+#: main.cpp:31
 #, kde-format
 msgid "Programmer and designer"
 msgstr "പ്രോഗ്രാം എഴുതിയതും രൂപകല്പന ചെയ്തതും"
@@ -24236,22 +24238,22 @@ msgctxt "@title"
 msgid "%1 in Map"
 msgstr "മാപ്പില്‍ %1"
 
-#: mapchooser.cpp:34
+#: mapchooser.cpp:36
 #, kde-format
 msgid "Choose Map to Use"
 msgstr "ഉപയോഗിക്കേണ്ട ഭൂപടം തെരഞ്ഞെടുക്കുക"
 
-#: mapchooser.cpp:43
+#: mapchooser.cpp:45
 #, kde-format
 msgid "Filter Maps"
 msgstr ""
 
-#: mapchooser.cpp:76
+#: mapchooser.cpp:78
 #, kde-format
 msgid "Error parsing %1: %2"
 msgstr "പാര്‍സ് ചെയ്യുന്നതില്‍ പിശക് %1: %2"
 
-#: mapchooser.cpp:95
+#: mapchooser.cpp:97
 #, kde-format
 msgid "Error parsing"
 msgstr "പാര്‍സ് ചെയ്യുന്നതില്‍ പിശക്"
@@ -38967,10 +38969,12 @@ msgid "Burundi"
 msgstr "ബറുണ്ടി"
 
 #: world.kgm:78
-#, kde-format
+#, fuzzy, kde-format
+#| msgctxt "nicaragua.kgm"
+#| msgid "Jinotega"
 msgctxt "world.kgm"
-msgid "Bujumbura"
-msgstr "ബുജുംബുറ"
+msgid "Gitega"
+msgstr "ജിനോടേഗ"
 
 #: world.kgm:86
 #, kde-format
@@ -42751,6 +42755,14 @@ msgstr "ഷുരുഗ്വി"
 msgctxt "zimbabwe_districts.kgm"
 msgid "Zvishavane"
 msgstr "സ്വിഷവേന്‍"
+
+#~ msgctxt "africa.kgm"
+#~ msgid "Bujumbura"
+#~ msgstr "ബുജുംബുറ"
+
+#~ msgctxt "world.kgm"
+#~ msgid "Bujumbura"
+#~ msgstr "ബുജുംബുറ"
 
 #~ msgctxt "asia.kgm"
 #~ msgid "Astana"

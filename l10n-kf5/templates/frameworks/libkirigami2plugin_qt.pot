@@ -57,7 +57,7 @@ msgctxt "ContextDrawer|"
 msgid "Actions"
 msgstr ""
 
-#: controls/GlobalDrawer.qml:451
+#: controls/GlobalDrawer.qml:469
 msgctxt "GlobalDrawer|"
 msgid "Back"
 msgstr ""

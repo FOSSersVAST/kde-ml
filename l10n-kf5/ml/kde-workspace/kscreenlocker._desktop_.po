@@ -18,7 +18,7 @@ msgctxt "Name"
 msgid "Password dialog"
 msgstr ""
 
-#: greeter/themes/org.kde.passworddialog/metadata.desktop:44
+#: greeter/themes/org.kde.passworddialog/metadata.desktop:46
 msgctxt "Comment"
 msgid ""
 "Screen locker that provides a password dialog and an interface to switch the "
@@ -30,9 +30,9 @@ msgctxt "Name"
 msgid "Screen Locking"
 msgstr ""
 
-#: kcm/screenlocker.desktop:53
+#: kcm/screenlocker.desktop:55
 msgctxt "Comment"
-msgid "Configure Screen Locking"
+msgid "Configure screen locking"
 msgstr ""
 
 #: kcm/screenlocker.desktop:85
@@ -45,22 +45,22 @@ msgctxt "Comment"
 msgid "Screen Saver"
 msgstr ""
 
-#: kscreenlocker.notifyrc:47
+#: kscreenlocker.notifyrc:48
 msgctxt "Name"
 msgid "Screen locked"
 msgstr ""
 
-#: kscreenlocker.notifyrc:89
+#: kscreenlocker.notifyrc:92
 msgctxt "Comment"
 msgid "The screen has been locked"
 msgstr ""
 
-#: kscreenlocker.notifyrc:134
+#: kscreenlocker.notifyrc:138
 msgctxt "Name"
 msgid "Screen unlocked"
 msgstr ""
 
-#: kscreenlocker.notifyrc:176
+#: kscreenlocker.notifyrc:182
 msgctxt "Comment"
 msgid "The screen has been unlocked"
 msgstr ""
