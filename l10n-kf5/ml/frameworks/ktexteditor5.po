@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-28 02:54+0100\n"
-"PO-Revision-Date: 2008-07-22 15:30+0530\n"
-"Last-Translator: സ്മിത ബി ആര്‍ <smitha.br@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-11-28 11:51+0000\n"
+"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: completion/katecompletionconfig.cpp:42
 #, kde-format
@@ -252,7 +252,7 @@ msgstr ""
 #: data/katepart5ui.rc:4
 #, kde-format
 msgid "&File"
-msgstr "&ഫയല്‍"
+msgstr "ഫയല്‍ (&F)"
 
 #. i18n: ectx: Menu (edit)
 #: data/katepart5ui.rc:17
@@ -326,7 +326,7 @@ msgstr ""
 #: data/katepart5ui.rc:140
 #, kde-format
 msgid "&Settings"
-msgstr "&ക്രമികരണങ്ങള്‍"
+msgstr "സജ്ജീകരണങ്ങള്‍ (&S)"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: data/katepart5ui.rc:162
