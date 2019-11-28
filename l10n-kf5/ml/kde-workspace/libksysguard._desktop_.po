@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-09-18 01:49+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -32,37 +32,37 @@ msgctxt "Name"
 msgid "Kill or stop etc a process"
 msgstr "ഒരു പ്രക്രിയയെ കൊല്ലുക അല്ലെങ്കില്‍ നിര്‍ത്തുക"
 
-#: processcore/actions.actions:143
+#: processcore/actions.actions:142
 msgctxt "Description"
 msgid "Sends a given signal to a given process"
 msgstr "ഒരു പ്രക്രിയയിലേക്ക് ഒരു സൂചന അയയ്ക്കുക"
 
-#: processcore/actions.actions:210
+#: processcore/actions.actions:208
 msgctxt "Name"
 msgid "Change the priority of a process"
 msgstr "ഒരു പ്രക്രിയയുടെ മുന്‍ഗണന മാറ്റുക"
 
-#: processcore/actions.actions:276
+#: processcore/actions.actions:273
 msgctxt "Description"
 msgid "Change the niceness of a given process"
 msgstr "ഒരു പ്രക്രിയയുടെ നൈസ് വില മാറ്റുക"
 
-#: processcore/actions.actions:341
+#: processcore/actions.actions:338
 msgctxt "Name"
 msgid "Change IO Scheduler and priority"
 msgstr "ഐഒ ഷെഡ്യൂളറും മുന്‍ഗണനയും മാറ്റുക"
 
-#: processcore/actions.actions:403
+#: processcore/actions.actions:400
 msgctxt "Description"
 msgid "Change how the read and writes of a given process are prioritized"
 msgstr "ഒരു പ്രക്രിയയുടെ എഴുതാനും വായിക്കാനുള്ള മുന്‍ഗണന മാറ്റുക"
 
-#: processcore/actions.actions:467
+#: processcore/actions.actions:464
 msgctxt "Name"
 msgid "Change CPU Scheduler and priority"
 msgstr "സിപിയു ഷെഡ്യൂളറും മുന്‍ഗണനയും മാറ്റുക"
 
-#: processcore/actions.actions:528
+#: processcore/actions.actions:525
 msgctxt "Description"
 msgid ""
 "Change which CPU scheduler is to schedule the running of a given process"

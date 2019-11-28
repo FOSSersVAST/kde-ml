@@ -30,27 +30,27 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "shijualexonline@gmail.com"
 
-#: kcmcursortheme.cpp:74
+#: kcmcursortheme.cpp:78
 #, fuzzy, kde-format
 msgid "Cursors"
 msgstr "&കര്‍സര്‍ പ്രമേയം"
 
-#: kcmcursortheme.cpp:75
+#: kcmcursortheme.cpp:79
 #, kde-format
 msgid "(c) 2003-2007 Fredrik Höglund"
 msgstr ""
 
-#: kcmcursortheme.cpp:76
+#: kcmcursortheme.cpp:80
 #, kde-format
 msgid "Fredrik Höglund"
 msgstr ""
 
-#: kcmcursortheme.cpp:77
+#: kcmcursortheme.cpp:81
 #, kde-format
 msgid "Marco Martin"
 msgstr ""
 
-#: kcmcursortheme.cpp:244
+#: kcmcursortheme.cpp:223
 #, kde-format
 msgctxt "@item:inlistbox size"
 msgid "Resolution dependent"
@@ -124,7 +124,7 @@ msgstr ""
 msgid "Confirmation"
 msgstr "സ്ഥിരീകരണം"
 
-#: package/contents/ui/Delegate.qml:57
+#: package/contents/ui/Delegate.qml:64
 #, kde-format
 msgid "Remove Theme"
 msgstr "പ്രമേയം കളയുക"
@@ -134,7 +134,7 @@ msgstr "പ്രമേയം കളയുക"
 msgid "This module lets you choose the mouse cursor theme."
 msgstr ""
 
-#: package/contents/ui/main.qml:98
+#: package/contents/ui/main.qml:99
 #, kde-format
 msgid "Size:"
 msgstr ""

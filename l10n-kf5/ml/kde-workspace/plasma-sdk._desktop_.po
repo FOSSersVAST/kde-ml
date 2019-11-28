@@ -19,22 +19,22 @@ msgctxt "Name"
 msgid "Cuttlefish"
 msgstr ""
 
-#: cuttlefish/org.kde.cuttlefish.desktop:39
+#: cuttlefish/org.kde.cuttlefish.desktop:40
 msgctxt "GenericName"
 msgid "Icon Viewer"
 msgstr ""
 
-#: cuttlefish/org.kde.cuttlefish.desktop:75
+#: cuttlefish/org.kde.cuttlefish.desktop:77
 msgctxt "Comment"
 msgid "Icon Previewer for Artists and Developers"
 msgstr ""
 
-#: cuttlefish/package/metadata.desktop:38
+#: cuttlefish/package/metadata.desktop:39
 msgctxt "Comment"
 msgid "List and preview available icons"
 msgstr ""
 
-#: cuttlefish/package/metadata.desktop:73
+#: cuttlefish/package/metadata.desktop:75
 msgctxt "GenericName"
 msgid "Icon Browser"
 msgstr ""
@@ -44,7 +44,7 @@ msgctxt "Name"
 msgid "Icon Picker"
 msgstr ""
 
-#: cuttlefish/src/editorplugin/cuttlefishplugin.desktop:40
+#: cuttlefish/src/editorplugin/cuttlefishplugin.desktop:41
 msgctxt "Comment"
 msgid "Invokes Cuttlefish icon picker"
 msgstr ""
@@ -69,7 +69,7 @@ msgctxt "Comment"
 msgid "Explore and edit your Plasma Look And Feel themes"
 msgstr ""
 
-#: lookandfeelexplorer/package/metadata.desktop:38
+#: lookandfeelexplorer/package/metadata.desktop:39
 msgctxt "Name"
 msgid "Plasma Look And Feel Explorer"
 msgstr ""
@@ -94,7 +94,7 @@ msgctxt "Comment"
 msgid "PlasmoidViewer Shell"
 msgstr ""
 
-#: plasmoidviewer/qmlpackages/shell/metadata.desktop:38
+#: plasmoidviewer/qmlpackages/shell/metadata.desktop:39
 msgctxt "Name"
 msgid "PlasmoidViewerShell"
 msgstr ""
@@ -104,7 +104,7 @@ msgctxt "Comment"
 msgid "Explore and edit your Plasma themes"
 msgstr ""
 
-#: themeexplorer/package/metadata.desktop:38
+#: themeexplorer/package/metadata.desktop:39
 msgctxt "Name"
 msgid "Plasma Theme Explorer"
 msgstr ""

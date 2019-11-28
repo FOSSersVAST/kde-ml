@@ -94,12 +94,12 @@ msgstr "ശരി"
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
 
-#: plasma/applet.cpp:355
+#: plasma/applet.cpp:359
 #, kde-format
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
 
-#: plasma/applet.cpp:671
+#: plasma/applet.cpp:675
 #, kde-format
 msgid "Activate %1 Widget"
 msgstr "%1 വിഡ്ജറ്റ് സജീവമാക്കുക"
@@ -440,7 +440,7 @@ msgstr "ഓര്‍മ്മച്ചെപ്പ്"
 msgid "Tasks"
 msgstr "ജോലികള്‍"
 
-#: plasma/pluginloader.cpp:592 plasma/pluginloader.cpp:593
+#: plasma/pluginloader.cpp:590 plasma/pluginloader.cpp:591
 #, kde-format
 msgctxt "misc category"
 msgid "Miscellaneous"
@@ -756,67 +756,67 @@ msgstr "മറ്റൊരു ജാലകത്തിലേക്ക് മാ�
 msgid "Main Script for Window Switcher"
 msgstr ""
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:482
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:480
 #, kde-format
 msgid "Content dropped"
 msgstr "ഉള്ളടക്കം ഉപേക്ഷിക്കപ്പെട്ടു"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:486
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:484
 #, fuzzy, kde-format
 msgid "Fetching file type..."
 msgstr "ആ ഫയല്‍ തരം ലഭ്യമാക്കുന്നു..."
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:640
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:643
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:638
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:641
 #, kde-format
 msgid "Plasma Package"
 msgstr "പ്ലാസ്മ പാക്കേജ്"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:641
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:647
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:639
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:645
 #, kde-format
 msgid "Install"
 msgstr "ഇന്‍സ്റ്റാള്‍"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:661
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:659
 #, kde-format
 msgid "Package Installation Failed"
 msgstr "പാക്കേജ് ഇന്‍സ്റ്റാളേഷന്‍ പരാജയപ്പെട്ടു"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:681
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:679
 #, kde-format
 msgid "The package you just dropped is invalid."
 msgstr "നിങ്ങളിപ്പോള്‍ നല്‍കിയ പാക്കേജ് സ്വീകാര്യമല്ല."
 
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:689
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:691
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:693
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:773
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:776
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:771
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:774
 #, kde-format
 msgid "Widgets"
 msgstr "വിഡ്ജറ്റുകള്‍"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:698
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:696
 #, kde-format
 msgctxt "Add widget"
 msgid "Add %1"
 msgstr "%1 ചേര്‍ക്കുക [വിഡ്ജറ്റ് ചേര്‍ക്കുക]"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:715
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:774
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:780
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:713
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:772
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:778
 #, kde-format
 msgctxt "Add icon widget"
 msgid "Add Icon"
 msgstr "സൂചനാചിത്രങ്ങള്‍ ചേര്‍ക്കുക"
 
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:729
 #: scriptengines/qml/plasmoid/containmentinterface.cpp:731
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:733
 #, kde-format
 msgid "Wallpaper"
 msgstr "പശ്ചാത്തലചിത്രം"
 
-#: scriptengines/qml/plasmoid/containmentinterface.cpp:744
+#: scriptengines/qml/plasmoid/containmentinterface.cpp:742
 #, kde-format
 msgctxt "Set wallpaper"
 msgid "Set %1"

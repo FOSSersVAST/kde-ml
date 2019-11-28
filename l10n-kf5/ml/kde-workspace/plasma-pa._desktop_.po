@@ -13,12 +13,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: applet/metadata.desktop:2 src/kcm/kcm_pulseaudio.desktop:13
+#: applet/metadata.desktop:2
 msgctxt "Name"
 msgid "Audio Volume"
 msgstr ""
 
-#: applet/metadata.desktop:42
+#: applet/metadata.desktop:45
 msgctxt "Comment"
 msgid "Adjust the volume of devices and applications"
 msgstr ""
@@ -30,12 +30,13 @@ msgstr ""
 
 #: src/kcm/kcm_pulseaudio.desktop:45
 msgctxt "Comment"
-msgid "Configure the Audio Volume"
+msgid "Configure audio devices and volume"
 msgstr ""
 
 #: src/kcm/kcm_pulseaudio.desktop:75
 msgctxt "X-KDE-Keywords"
-msgid "Sound,Volume,Output,Audio,Music,PulseAudio,Pulse"
+msgid ""
+"Sound,Volume,Output,Input,Speakers,Microphone,Audio,Music,PulseAudio,Pulse"
 msgstr ""
 
 #: src/kcm/package/metadata.desktop:2
@@ -43,7 +44,7 @@ msgctxt "Name"
 msgid "Sound"
 msgstr ""
 
-#: src/kcm/package/metadata.desktop:43
+#: src/kcm/package/metadata.desktop:46
 msgctxt "Comment"
 msgid "Configure Sound"
 msgstr ""

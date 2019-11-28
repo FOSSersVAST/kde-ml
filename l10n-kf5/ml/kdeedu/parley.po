@@ -361,31 +361,31 @@ msgstr "മറ്റൊരു പേരില്‍ നിലവിലുള്�
 msgid "Practice Anyway"
 msgstr "&അഭ്യാസം"
 
-#: src/dashboard/collectionwidget.cpp:118 src/editor/editor.cpp:406
-#: src/editor/editor.cpp:407
+#: src/dashboard/collectionwidget.cpp:118 src/editor/editor.cpp:403
+#: src/editor/editor.cpp:404
 #, fuzzy, kde-format
 msgid "Practice"
 msgstr "&അഭ്യാസം"
 
 #. i18n: ectx: property (text), widget (QLabel, recentLabel)
-#: src/dashboard/dashboard.cpp:262 src/dashboard/dashboard.ui:38
+#: src/dashboard/dashboard.cpp:252 src/dashboard/dashboard.ui:38
 #, fuzzy, kde-format
 msgid "Active Collections"
 msgstr "പദാവലിയുടെ പേരു് മാറ്റി സൂക്ഷിക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, completedLabel)
-#: src/dashboard/dashboard.cpp:267 src/dashboard/dashboard.ui:77
+#: src/dashboard/dashboard.cpp:257 src/dashboard/dashboard.ui:77
 #, fuzzy, kde-format
 msgid "Completed Collections"
 msgstr "പദാവലിയുടെ പേരു് മാറ്റി സൂക്ഷിക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, removeChoiceButton)
-#: src/dashboard/dashboard.cpp:315 src/editor/multiplechoicewidget.ui:28
+#: src/dashboard/dashboard.cpp:305 src/editor/multiplechoicewidget.ui:28
 #, kde-format
 msgid "Remove"
 msgstr "നീക്കം ചെയ്യുക"
 
-#: src/dashboard/dashboard.cpp:316
+#: src/dashboard/dashboard.cpp:306
 #, fuzzy, kde-format
 msgid "Are you sure you want to remove this collection?"
 msgstr "തെരഞ്ഞെടുത്ത എന്‍ട്രി വെട്ടിമാറ്റണമോ?"
@@ -700,12 +700,12 @@ msgstr ""
 msgid "Next"
 msgstr "&അടുത്തതു്"
 
-#: src/editor/editor.cpp:154
+#: src/editor/editor.cpp:153
 #, kde-format
 msgid "Units"
 msgstr ""
 
-#: src/editor/editor.cpp:164
+#: src/editor/editor.cpp:163
 #, fuzzy, kde-format
 msgid ""
 "Right click to add, delete, or rename units. \n"
@@ -716,23 +716,23 @@ msgstr ""
 "നിങ്ങള്‍ക്കഭ്യസിക്കേണ്ട പാഠങ്ങള്‍ ചെക്ക്ബോക്സുകളുപയോഗിച്ചു് നിങ്ങള്‍ക്കു് തെരഞ്ഞെടുക്കാം. \n"
 "പരീക്ഷയ്ക്കും ഈ തെരഞ്ഞെടുത്ത[x] പാഠങ്ങള്‍ മാത്രമേ ചോദിക്കൂ!"
 
-#: src/editor/editor.cpp:179
+#: src/editor/editor.cpp:178
 #, kde-format
 msgid "Word Types"
 msgstr "പലതരത്തിലുള്ള വാക്കുകള്‍"
 
-#: src/editor/editor.cpp:200
+#: src/editor/editor.cpp:199
 #, kde-format
 msgid "Inflection (verbs, adjectives, nouns)"
 msgstr ""
 
-#: src/editor/editor.cpp:216
+#: src/editor/editor.cpp:215
 #, kde-format
 msgid "Comparison forms"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: src/editor/editor.cpp:232
+#: src/editor/editor.cpp:231
 #: src/practice/configure/specificpracticeoptions.ui:17
 #, kde-format
 msgid "Multiple Choice"
@@ -740,65 +740,65 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, synonymLabel)
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: src/editor/editor.cpp:247 src/editor/synonymwidget.ui:16
+#: src/editor/editor.cpp:246 src/editor/synonymwidget.ui:16
 #: src/practice/configure/generalpracticeoptions.ui:152
 #, kde-format
 msgid "Synonyms"
 msgstr "പര്യായപദങ്ങള്‍"
 
-#: src/editor/editor.cpp:261
+#: src/editor/editor.cpp:260
 #, kde-format
 msgid "Antonyms"
 msgstr "വിരുദ്ധപദം"
 
-#: src/editor/editor.cpp:276
+#: src/editor/editor.cpp:275
 #, kde-format
 msgid "False Friends"
 msgstr ""
 
-#: src/editor/editor.cpp:292
+#: src/editor/editor.cpp:291
 #, kde-format
 msgid "Phonetic Symbols"
 msgstr "ഫൊണറ്റിക് ചിഹ്നങ്ങള്‍"
 
-#: src/editor/editor.cpp:307
+#: src/editor/editor.cpp:306
 #, kde-format
 msgid "Image"
 msgstr "ചിത്രം"
 
-#: src/editor/editor.cpp:323
+#: src/editor/editor.cpp:322
 #, kde-format
 msgid "Summary"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_PracticeSoundEnabled)
-#: src/editor/editor.cpp:338
+#: src/editor/editor.cpp:337
 #: src/practice/configure/generalpracticeoptions.ui:139
 #, kde-format
 msgid "Sound"
 msgstr "ശബ്ദം"
 
-#: src/editor/editor.cpp:354
+#: src/editor/editor.cpp:353
 #, kde-format
 msgid "Internet"
 msgstr ""
 
-#: src/editor/editor.cpp:370
+#: src/editor/editor.cpp:369
 #, kde-format
 msgid "LaTeX"
 msgstr ""
 
-#: src/editor/editor.cpp:453
+#: src/editor/editor.cpp:450
 #, kde-format
 msgid "Enter search terms here"
 msgstr "തെരയുവാനുള്ള പദങ്ങള്‍ ഇവിടെ നല്‍കുക"
 
-#: src/editor/editor.cpp:454
+#: src/editor/editor.cpp:451
 #, fuzzy, kde-format
 msgid "Search your vocabulary"
 msgstr "നിലവിലുള്ള സജീവമായ പദാവലി സൂക്ഷിക്കുക"
 
-#: src/editor/editor.cpp:456
+#: src/editor/editor.cpp:453
 #, kde-format
 msgid "S&earch:"
 msgstr "&തെരച്ചില്‍:"
@@ -1166,12 +1166,12 @@ msgstr ""
 msgid "Enable/Disable the columns for each language"
 msgstr ""
 
-#: src/editor/vocabularydelegate.cpp:165
+#: src/editor/vocabularydelegate.cpp:164
 #, fuzzy, kde-format
 msgid "Sound file selected: %1"
 msgstr "തെരഞ്ഞെടുത്ത വരികള്‍ വെട്ടിമാറ്റുക"
 
-#: src/editor/vocabularydelegate.cpp:168
+#: src/editor/vocabularydelegate.cpp:167
 #, fuzzy, kde-format
 msgid "Image file selected: %1"
 msgstr "തെരഞ്ഞെടുത്ത വരികള്‍ വെട്ടിമാറ്റുക"
@@ -3009,21 +3009,21 @@ msgstr ""
 msgid "Script Dialog"
 msgstr ""
 
-#: src/scripts/scriptmanager.cpp:140
+#: src/scripts/scriptmanager.cpp:139
 #, kde-format
 msgid "A script could not be activated and has been disabled."
 msgid_plural "%1 scripts could not be activated and have been disabled."
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/scripts/scriptmanager.cpp:140
+#: src/scripts/scriptmanager.cpp:139
 #, kde-format
 msgid ""
 "This probably means that there are errors in the script or that the required "
 "packages are not installed."
 msgstr ""
 
-#: src/scripts/scriptmanager.cpp:142
+#: src/scripts/scriptmanager.cpp:141
 #, kde-format
 msgid "Script Activation"
 msgstr ""
@@ -3404,31 +3404,31 @@ msgstr "ഭാഷ വെട്ടിനീക്കണമോ: %1?"
 msgid "Remove Language"
 msgstr "ഭാഷ നീക്കം ചെയ്യുക"
 
-#: src/settings/languagepropertiespage.cpp:90
+#: src/settings/languagepropertiespage.cpp:91
 #, kde-format
 msgid "No KDE keyboard selector found."
 msgstr ""
 
-#: src/settings/languagepropertiespage.cpp:358
-#: src/settings/languagepropertiespage.cpp:380
+#: src/settings/languagepropertiespage.cpp:359
+#: src/settings/languagepropertiespage.cpp:381
 #, fuzzy, kde-format
 msgid "Tense Name"
 msgstr "പേരു് മാറ്റുക"
 
-#: src/settings/languagepropertiespage.cpp:358
-#: src/settings/languagepropertiespage.cpp:380
+#: src/settings/languagepropertiespage.cpp:359
+#: src/settings/languagepropertiespage.cpp:381
 #, kde-format
 msgid "Enter name of tense:"
 msgstr ""
 
-#: src/settings/languagepropertiespage.cpp:409
+#: src/settings/languagepropertiespage.cpp:410
 #, kde-format
 msgid ""
 "The selected user defined tense could not be deleted\n"
 "because it is in use."
 msgstr ""
 
-#: src/settings/languagepropertiespage.cpp:409
+#: src/settings/languagepropertiespage.cpp:410
 #, kde-format
 msgid "Deleting Tense Description"
 msgstr ""
@@ -4307,17 +4307,17 @@ msgctxt "adjective, The word has not even been practiced once by the user"
 msgid "Not practiced"
 msgstr "അഭ്യാസം &നിര്‍ത്തുക"
 
-#: src/statistics/statisticsmainwindow.cpp:204
+#: src/statistics/statisticsmainwindow.cpp:201
 #, kde-format
 msgid "Known to Learning"
 msgstr ""
 
-#: src/statistics/statisticsmainwindow.cpp:205
+#: src/statistics/statisticsmainwindow.cpp:202
 #, kde-format
 msgid "Learning to Known"
 msgstr ""
 
-#: src/statistics/statisticsmainwindow.cpp:206
+#: src/statistics/statisticsmainwindow.cpp:203
 #, kde-format
 msgid "Mixed Directions"
 msgstr ""

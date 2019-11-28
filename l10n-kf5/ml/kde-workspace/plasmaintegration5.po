@@ -18,49 +18,49 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:287
+#: platformtheme/kdeplatformfiledialoghelper.cpp:292
 #, kde-format
 msgctxt "@title:window"
 msgid "Open File"
 msgstr ""
 
-#: platformtheme/kdeplatformfiledialoghelper.cpp:287
+#: platformtheme/kdeplatformfiledialoghelper.cpp:292
 #, kde-format
 msgctxt "@title:window"
 msgid "Save File"
 msgstr ""
 
-#: platformtheme/kdeplatformtheme.cpp:286
+#: platformtheme/kdeplatformtheme.cpp:281
 #, kde-format
 msgctxt "@action:button"
 msgid "Save All"
 msgstr ""
 
-#: platformtheme/kdeplatformtheme.cpp:292
+#: platformtheme/kdeplatformtheme.cpp:287
 #, kde-format
 msgctxt "@action:button"
 msgid "Yes to All"
 msgstr ""
 
-#: platformtheme/kdeplatformtheme.cpp:296
+#: platformtheme/kdeplatformtheme.cpp:291
 #, kde-format
 msgctxt "@action:button"
 msgid "No to All"
 msgstr ""
 
-#: platformtheme/kdeplatformtheme.cpp:299
+#: platformtheme/kdeplatformtheme.cpp:294
 #, kde-format
 msgctxt "@action:button"
 msgid "Abort"
 msgstr ""
 
-#: platformtheme/kdeplatformtheme.cpp:301
+#: platformtheme/kdeplatformtheme.cpp:296
 #, kde-format
 msgctxt "@action:button"
 msgid "Retry"
 msgstr ""
 
-#: platformtheme/kdeplatformtheme.cpp:303
+#: platformtheme/kdeplatformtheme.cpp:298
 #, kde-format
 msgctxt "@action:button"
 msgid "Ignore"

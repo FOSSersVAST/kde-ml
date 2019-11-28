@@ -57,16 +57,16 @@ msgctxt "Name"
 msgid "Information"
 msgstr "പിസിഐ വിവരങ്ങള്‍"
 
-#: Modules/about-distro/src/about-distro.desktop:11
+#: Modules/about-distro/src/about-distro.desktop:12
 msgctxt "X-KDE-Keywords"
-msgid "information,distribution,distro,system,kernel,qt,kde"
+msgid "about,info,information,distribution,distro,system,kernel,qt,kde"
 msgstr ""
 
 #: Modules/about-distro/src/about-distro.desktop:44
 #, fuzzy
 msgctxt "Name"
-msgid "About System"
-msgstr ""
+msgid "System Information"
+msgstr "പിസിഐ വിവരങ്ങള്‍"
 
 #: Modules/about-distro/src/about-distro.desktop:74
 #, fuzzy
@@ -98,17 +98,17 @@ msgctxt "Name"
 msgid "Energy Information"
 msgstr "മെമ്മറിയെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
 
-#: Modules/energy/kcm_energyinfo.desktop:50
+#: Modules/energy/kcm_energyinfo.desktop:51
 msgctxt "Comment"
 msgid "Energy Consumption Statistics"
 msgstr ""
 
-#: Modules/energy/kcm_energyinfo.desktop:91
+#: Modules/energy/kcm_energyinfo.desktop:93
 msgctxt "X-KDE-Keywords"
 msgid "Battery,Energy,Statistics,History,Power"
 msgstr ""
 
-#: Modules/energy/package/metadata.desktop:43
+#: Modules/energy/package/metadata.desktop:44
 msgctxt "Comment"
 msgid "Statistics about energy consumption"
 msgstr ""
@@ -139,12 +139,12 @@ msgctxt "Name"
 msgid "DMA-Channels"
 msgstr "ഡിഎംഎ-ചാനലുകള്‍"
 
-#: Modules/info/dma.desktop:106
+#: Modules/info/dma.desktop:105
 msgctxt "Comment"
 msgid "DMA information"
 msgstr "ഡിഎംഎ വിവരം"
 
-#: Modules/info/dma.desktop:198
+#: Modules/info/dma.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "dma,DMA-Channels,System Information"
 msgstr ""
@@ -154,12 +154,12 @@ msgctxt "Name"
 msgid "Interrupts"
 msgstr "ഇന്ററപ്റ്റുകള്‍"
 
-#: Modules/info/interrupts.desktop:106
+#: Modules/info/interrupts.desktop:105
 msgctxt "Comment"
 msgid "Interrupt information"
 msgstr "ഇന്ററപ്റ്റുകളെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
 
-#: Modules/info/interrupts.desktop:198
+#: Modules/info/interrupts.desktop:196
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "Interrupts,IRQ,System Information"
@@ -170,12 +170,12 @@ msgctxt "Name"
 msgid "IO-Ports"
 msgstr "ഐഒ-പോര്‍ട്ടുകള്‍"
 
-#: Modules/info/ioports.desktop:106
+#: Modules/info/ioports.desktop:105
 msgctxt "Comment"
 msgid "IO-port information"
 msgstr "ഐഒ-പോര്‍ട്ടിന്റെ വിവരങ്ങള്‍"
 
-#: Modules/info/ioports.desktop:198
+#: Modules/info/ioports.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System Information"
 msgstr ""
@@ -207,7 +207,7 @@ msgctxt "Comment"
 msgid "X-Server information"
 msgstr "എക്സ് സേവകനെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
 
-#: Modules/info/xserver.desktop:197
+#: Modules/info/xserver.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid "X,X-Server,XServer,XFree86,Display,VideoCard,System Information"
 msgstr ""
@@ -222,7 +222,7 @@ msgctxt "Comment"
 msgid "Memory information"
 msgstr "മെമ്മറിയെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
 
-#: Modules/memory/kcm_memory.desktop:197
+#: Modules/memory/kcm_memory.desktop:196
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
@@ -281,7 +281,7 @@ msgctxt "Comment"
 msgid "Samba status monitor"
 msgstr "സാംബാ അവസ്ഥ നിരീക്ഷിണി"
 
-#: Modules/samba/smbstatus.desktop:196
+#: Modules/samba/smbstatus.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "SMB,SAMBA,Windows network,LAN,System Information"
 msgstr ""
@@ -296,7 +296,7 @@ msgctxt "Comment"
 msgid "USB devices attached to this computer"
 msgstr "ഈ കമ്പ്യൂട്ടറില്‍ ഘടിപ്പിച്ചിട്ടുള്ള യുഎസ്ബി ഉപകരണങ്ങള്‍"
 
-#: Modules/usbview/kcmusb.desktop:187
+#: Modules/usbview/kcmusb.desktop:186
 msgctxt "X-KDE-Keywords"
 msgid "USB,devices,viewer,control"
 msgstr ""
@@ -322,12 +322,12 @@ msgctxt "Name"
 msgid "Info Center"
 msgstr "വിവരകേന്ദ്രം"
 
-#: org.kde.kinfocenter.desktop:49
+#: org.kde.kinfocenter.desktop:50
 msgctxt "GenericName"
 msgid "Info Center"
 msgstr "വിവരകേന്ദ്രം"
 
-#: org.kde.kinfocenter.desktop:139
+#: org.kde.kinfocenter.desktop:140
 msgctxt "Comment"
 msgid "Centralized and convenient overview of system information"
 msgstr ""

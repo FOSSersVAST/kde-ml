@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"POT-Creation-Date: 2019-06-06 01:26+0000\n"
 "PO-Revision-Date: 2019-03-20 02:48+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -31,6 +31,11 @@ msgstr ""
 #: Cascade/metadata.desktop:2
 msgctxt "Name"
 msgid "Cascade"
+msgstr ""
+
+#: Cluster/metadata.desktop:2
+msgctxt "Name"
+msgid "Cluster"
 msgstr ""
 
 #: ColdRipple/metadata.desktop:2
@@ -101,6 +106,11 @@ msgstr ""
 #: Path/metadata.desktop:2
 msgctxt "Name"
 msgid "Path"
+msgstr ""
+
+#: SafeLanding/metadata.desktop:2
+msgctxt "Name"
+msgid "Safe Landing"
 msgstr ""
 
 #: summer_1am/metadata.desktop:2

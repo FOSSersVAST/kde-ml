@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-pa\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-10-11 03:39+0200\n"
 "PO-Revision-Date: 2019-04-01 03:40+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -31,7 +31,7 @@ msgstr ""
 #: kcm/module.cpp:39
 #, kde-format
 msgctxt "@title"
-msgid "Configure the Audio Volume"
+msgid "Audio"
 msgstr ""
 
 #: kcm/module.cpp:43
@@ -96,63 +96,63 @@ msgctxt "@label"
 msgid "Output:"
 msgstr ""
 
-#: kcm/package/contents/ui/Advanced.qml:154
+#: kcm/package/contents/ui/Advanced.qml:158
 #, kde-format
 msgid "Front Left"
 msgstr ""
 
-#: kcm/package/contents/ui/Advanced.qml:165
+#: kcm/package/contents/ui/Advanced.qml:169
 #, kde-format
 msgid "Front Center"
 msgstr ""
 
-#: kcm/package/contents/ui/Advanced.qml:176
+#: kcm/package/contents/ui/Advanced.qml:180
 #, kde-format
 msgid "Front Right"
 msgstr ""
 
-#: kcm/package/contents/ui/Advanced.qml:187
+#: kcm/package/contents/ui/Advanced.qml:191
 #, kde-format
 msgid "Side Left"
 msgstr ""
 
-#: kcm/package/contents/ui/Advanced.qml:213
+#: kcm/package/contents/ui/Advanced.qml:217
 #, kde-format
 msgid "Side Right"
 msgstr ""
 
-#: kcm/package/contents/ui/Advanced.qml:223
+#: kcm/package/contents/ui/Advanced.qml:227
 #, kde-format
 msgid "Rear Left"
 msgstr ""
 
-#: kcm/package/contents/ui/Advanced.qml:233
+#: kcm/package/contents/ui/Advanced.qml:237
 #, kde-format
 msgid "Subwoofer"
 msgstr ""
 
-#: kcm/package/contents/ui/Advanced.qml:243
+#: kcm/package/contents/ui/Advanced.qml:247
 #, kde-format
 msgid "Rear Right"
 msgstr ""
 
-#: kcm/package/contents/ui/Applications.qml:48
+#: kcm/package/contents/ui/Applications.qml:49
 #, kde-format
-msgid "Playback"
+msgid "Playback Streams"
 msgstr ""
 
-#: kcm/package/contents/ui/Applications.qml:49
+#: kcm/package/contents/ui/Applications.qml:50
 #, kde-format
 msgctxt "@label"
 msgid "No Applications Playing Audio"
 msgstr ""
 
-#: kcm/package/contents/ui/Applications.qml:87
+#: kcm/package/contents/ui/Applications.qml:90
 #, kde-format
-msgid "Capture"
+msgid "Recording Streams"
 msgstr ""
 
-#: kcm/package/contents/ui/Applications.qml:88
+#: kcm/package/contents/ui/Applications.qml:91
 #, kde-format
 msgctxt "@label"
 msgid "No Applications Recording Audio"
@@ -164,101 +164,91 @@ msgctxt "@label"
 msgid "Profile:"
 msgstr ""
 
-#: kcm/package/contents/ui/DefaultDeviceButton.qml:28
+#: kcm/package/contents/ui/DeviceListItem.qml:56
 #, kde-format
-msgid "Default"
+msgctxt "label of device items"
+msgid "%1 (%2)"
 msgstr ""
 
-#: kcm/package/contents/ui/DeviceListItem.qml:73
+#: kcm/package/contents/ui/DeviceListItem.qml:82
 #, kde-format
-msgid "Port"
-msgstr ""
-
-#: kcm/package/contents/ui/DeviceListItem.qml:91
-#, kde-format
-msgctxt "Port is unavailable"
-msgid " (unavailable)"
-msgstr ""
-
-#: kcm/package/contents/ui/DeviceListItem.qml:93
-#, kde-format
-msgctxt "Port is unplugged"
-msgid " (unplugged)"
-msgstr ""
-
-#: kcm/package/contents/ui/Devices.qml:45
-#, kde-format
-msgid "Outputs"
+msgid "Default Device"
 msgstr ""
 
 #: kcm/package/contents/ui/Devices.qml:46
 #, kde-format
-msgctxt "@label"
-msgid "No Output Devices Available"
+msgid "Playback Devices"
 msgstr ""
 
-#: kcm/package/contents/ui/Devices.qml:63
-#, kde-format
-msgid "Inputs"
-msgstr ""
-
-#: kcm/package/contents/ui/Devices.qml:64
+#: kcm/package/contents/ui/Devices.qml:47
 #, kde-format
 msgctxt "@label"
-msgid "No Input Devices Available"
+msgid "No Playback Devices Available"
 msgstr ""
 
-#: kcm/package/contents/ui/main.qml:34
+#: kcm/package/contents/ui/Devices.qml:66
+#, kde-format
+msgid "Recording Devices"
+msgstr ""
+
+#: kcm/package/contents/ui/Devices.qml:67
+#, kde-format
+msgctxt "@label"
+msgid "No Recording Devices Available"
+msgstr ""
+
+#: kcm/package/contents/ui/main.qml:36
 #, kde-format
 msgid "This module allows configuring the Pulseaudio sound subsystem."
 msgstr ""
 
-#: kcm/package/contents/ui/main.qml:46
+#: kcm/package/contents/ui/main.qml:55
 #, kde-format
 msgctxt "@title:tab"
 msgid "Devices"
 msgstr ""
 
-#: kcm/package/contents/ui/main.qml:49
+#: kcm/package/contents/ui/main.qml:58
 #, kde-format
 msgctxt "@title:tab"
 msgid "Applications"
 msgstr ""
 
-#: kcm/package/contents/ui/main.qml:52
+#: kcm/package/contents/ui/main.qml:61
 #, kde-format
 msgctxt "@title:tab"
 msgid "Advanced"
 msgstr ""
 
-#: kcm/package/contents/ui/MuteButton.qml:28
+#: kcm/package/contents/ui/MuteButton.qml:35
 #, kde-format
-msgid "Mute audio"
+msgctxt "Mute audio stream"
+msgid "Mute %1"
 msgstr ""
 
-#: kcm/package/contents/ui/StreamListItem.qml:57
+#: kcm/package/contents/ui/StreamListItem.qml:59
 #, kde-format
 msgid "Notification Sounds"
 msgstr ""
 
-#: kcm/package/contents/ui/StreamListItem.qml:59
+#: kcm/package/contents/ui/StreamListItem.qml:61
 #, kde-format
 msgctxt "label of stream items"
 msgid "%1: %2"
 msgstr ""
 
-#: kcm/package/contents/ui/VolumeSlider.qml:88
+#: kcm/package/contents/ui/VolumeSlider.qml:91
 #, kde-format
 msgid "100%"
 msgstr ""
 
-#: kcm/package/contents/ui/VolumeSlider.qml:104
+#: kcm/package/contents/ui/VolumeSlider.qml:107
 #, kde-format
 msgctxt "volume percentage"
 msgid "%1%"
 msgstr ""
 
-#: kcm/package/contents/ui/VolumeSlider.qml:110
+#: kcm/package/contents/ui/VolumeSlider.qml:113
 #, kde-format
 msgctxt "only used for sizing, should be widest possible string"
 msgid "100%"

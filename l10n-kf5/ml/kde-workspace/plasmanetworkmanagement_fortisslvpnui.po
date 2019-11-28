@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-05-28 03:28+0200\n"
 "PO-Revision-Date: 2019-01-09 03:29+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -98,20 +98,26 @@ msgstr ""
 msgid "Use a One-Time Password"
 msgstr ""
 
-#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. i18n: ectx: property (text), widget (QLabel, realmLabel)
 #: fortisslvpnadvanced.ui:57
+#, kde-format
+msgid "Realm:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: fortisslvpnadvanced.ui:76
 #, kde-format
 msgid "Security"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, trustedCertLabel)
-#: fortisslvpnadvanced.ui:63
+#: fortisslvpnadvanced.ui:82
 #, kde-format
 msgid "Trusted certificate:"
 msgstr ""
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, trustedCert)
-#: fortisslvpnadvanced.ui:76
+#: fortisslvpnadvanced.ui:95
 #, kde-format
 msgid "0123456789abcdef0123456789abcdef0123456789abcdef0123456789"
 msgstr ""

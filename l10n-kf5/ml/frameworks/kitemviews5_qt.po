@@ -24,7 +24,7 @@ msgstr ""
 "X-Poedit-Country: INDIA\n"
 "X-Qt-Contexts: true\n"
 
-#: kfilterproxysearchline.cpp:73
+#: kfilterproxysearchline.cpp:75
 #, fuzzy
 msgctxt "KFilterProxySearchLine|"
 msgid "Search"

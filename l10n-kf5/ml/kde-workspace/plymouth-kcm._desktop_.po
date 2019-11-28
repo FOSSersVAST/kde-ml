@@ -50,17 +50,17 @@ msgstr ""
 
 #: src/kcm_plymouth.desktop:14
 msgctxt "Name"
-msgid "Boot Splash"
+msgid "Boot Splash Screen"
 msgstr ""
 
 #: src/kcm_plymouth.desktop:42
 msgctxt "Comment"
-msgid "Plymouth Splash Screen"
+msgid "Choose Plymouth boot splash screen"
 msgstr ""
 
 #: src/kcm_plymouth.desktop:70
 msgctxt "X-KDE-Keywords"
-msgid "plymouth,splash,splash screen"
+msgid "plymouth,splash,splash screen,boot splash"
 msgstr ""
 
 #: src/package/metadata.desktop:2

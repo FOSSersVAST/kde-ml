@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-06-30 03:16+0200\n"
 "PO-Revision-Date: 2018-09-02 03:58+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -23,7 +23,7 @@ msgstr ""
 msgid "Looks for non-installed components according to :q:"
 msgstr ""
 
-#: appstreamrunner.cpp:101
+#: appstreamrunner.cpp:102
 #, kde-format
 msgid "Get %1..."
 msgstr ""

@@ -289,12 +289,12 @@ msgstr ""
 msgid "Ambiguous shortcut detected"
 msgstr ""
 
-#: kbugreport.cpp:104 kbugreport.cpp:133
+#: kbugreport.cpp:106 kbugreport.cpp:135
 #, kde-format
 msgid "Submit Bug Report"
 msgstr "പിശകു് രേഖപ്പെടുത്തുക"
 
-#: kbugreport.cpp:144
+#: kbugreport.cpp:146
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
@@ -302,116 +302,116 @@ msgstr ""
 "നിങ്ങളുടെ ഈമെയില്‍ വിലാസം. തെറ്റുണ്ടെങ്കില്‍, മാറ്റം വരുത്തുന്നതിമായി ഈമെയില്‍ തയ്യാറാക്കുക എന്ന "
 "ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുക"
 
-#: kbugreport.cpp:145
+#: kbugreport.cpp:147
 #, kde-format
 msgctxt "Email sender address"
 msgid "From:"
 msgstr "അയച്ചതു്:"
 
-#: kbugreport.cpp:153
+#: kbugreport.cpp:155
 #, kde-format
 msgid "Configure Email..."
 msgstr "ഈമെയില്‍ തയ്യാറാക്കുക..."
 
-#: kbugreport.cpp:160
+#: kbugreport.cpp:162
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr "ഈ പിശകു് രേഖപ്പെടുത്തിയിരിക്കുന്ന ഈമെയില്‍ വിലാസം."
 
-#: kbugreport.cpp:161
+#: kbugreport.cpp:163
 #, kde-format
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr "സ്വീകര്‍ത്താവു്:"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:172
 #, kde-format
 msgid "&Send"
 msgstr "&അയയ്ക്കുക"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:172
 #, kde-format
 msgid "Send bug report."
 msgstr "പിശകു് അയയ്ക്കുക."
 
-#: kbugreport.cpp:171
+#: kbugreport.cpp:173
 #, kde-format
 msgid "Send this bug report to %1."
 msgstr "%1-ലേക്കു് ബഗ് റിപോര്‍ട്ട് അയയ്ക്കുക."
 
-#: kbugreport.cpp:179
+#: kbugreport.cpp:181
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
 "please use the Report Bug menu item of the correct application"
 msgstr ""
 
-#: kbugreport.cpp:180
+#: kbugreport.cpp:182
 #, kde-format
 msgid "Application: "
 msgstr "പ്രയോഗം:"
 
-#: kbugreport.cpp:207
+#: kbugreport.cpp:209
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
 "available before sending a bug report"
 msgstr ""
 
-#: kbugreport.cpp:208
+#: kbugreport.cpp:210
 #, kde-format
 msgid "Version:"
 msgstr "ലക്കം:"
 
-#: kbugreport.cpp:213
+#: kbugreport.cpp:215
 #, kde-format
 msgid "no version set (programmer error)"
 msgstr "ലക്കം സജ്ജീകരിച്ചിട്ടില്ല (പ്രോഗ്രാമറുടെ തെറ്റ്)"
 
-#: kbugreport.cpp:226
+#: kbugreport.cpp:227
 #, kde-format
 msgid "OS:"
 msgstr "ഒഎസ്:"
 
-#: kbugreport.cpp:234
+#: kbugreport.cpp:235
 #, kde-format
 msgid "Compiler:"
 msgstr "കംപൈലര്‍:"
 
-#: kbugreport.cpp:242
+#: kbugreport.cpp:243
 #, kde-format
 msgid "Se&verity"
 msgstr "എത്ര&മാത്രം"
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:247
 #, kde-format
 msgid "Critical"
 msgstr "ഗുരുതരമായ"
 
 #
-#: kbugreport.cpp:244
+#: kbugreport.cpp:248
 #, kde-format
 msgid "Grave"
 msgstr "സാരമായ"
 
-#: kbugreport.cpp:244
+#: kbugreport.cpp:249
 #, kde-format
 msgctxt "normal severity"
 msgid "Normal"
 msgstr "സാധാരണ"
 
 #
-#: kbugreport.cpp:244
+#: kbugreport.cpp:250
 #, kde-format
 msgid "Wishlist"
 msgstr "മോഹം"
 
-#: kbugreport.cpp:262
+#: kbugreport.cpp:269
 #, kde-format
 msgid "S&ubject: "
 msgstr "വി&ഷയം:"
 
-#: kbugreport.cpp:270
+#: kbugreport.cpp:277
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -420,7 +420,7 @@ msgid ""
 "program.\n"
 msgstr ""
 
-#: kbugreport.cpp:294
+#: kbugreport.cpp:301
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -429,37 +429,37 @@ msgid ""
 "be transferred to that server.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:299
+#: kbugreport.cpp:306
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
 "browser window on <a href=\"%1\">%2</a>.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:316
+#: kbugreport.cpp:323
 #, kde-format
 msgid "&Launch Bug Report Wizard"
 msgstr "ബഗ് റിപ്പോര്‍ട്ട് മാന്ത്രികനെ &തുറക്കുക"
 
-#: kbugreport.cpp:318
+#: kbugreport.cpp:325
 #, fuzzy, kde-format
 msgid "&Submit Bug Report"
 msgstr "പിശകു് രേഖപ്പെടുത്തുക"
 
-#: kbugreport.cpp:382
+#: kbugreport.cpp:389
 #, kde-format
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr "അപരിചിതം"
 
-#: kbugreport.cpp:441
+#: kbugreport.cpp:448
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr "വിഷയവും വിശദീകരണവും നിര്‍ബന്ധമായും നല്‍കിയാലേ കുറിപ്പു് അയയ്ക്കാന്‍ സാധിയ്ക്കൂ."
 
-#: kbugreport.cpp:450
+#: kbugreport.cpp:457
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -471,7 +471,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:462
+#: kbugreport.cpp:469
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -483,7 +483,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:476
+#: kbugreport.cpp:483
 #, fuzzy, kde-format
 msgid ""
 "Unable to send the bug report.\n"
@@ -494,12 +494,12 @@ msgstr ""
 "ദയവായി സ്വയം റിപ്പോര്‍ട്ട് സമര്‍പ്പിക്കുക.... \n"
 "നിര്‍ദ്ദേശങ്ങള്‍ക്കു് http://bugs.kde.org/ കാണുക."
 
-#: kbugreport.cpp:484
+#: kbugreport.cpp:491
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "ബഗ് റിപ്പോര്‍ട്ട് അയച്ചു, നിങ്ങളുടെ സഹായത്തിനു് നന്ദി."
 
-#: kbugreport.cpp:493
+#: kbugreport.cpp:500
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -508,7 +508,7 @@ msgstr ""
 "മാറ്റം വരുത്തിയ സന്ദേശം \n"
 "വേണ്ടെന്നു് വയ്ക്കണമോ?"
 
-#: kbugreport.cpp:494
+#: kbugreport.cpp:501
 #, kde-format
 msgid "Close Message"
 msgstr "സന്ദേശം അടയ്ക്കുക"
@@ -717,12 +717,12 @@ msgstr "%1 പിടിക്കുക, എന്നിട്ട് %2 തള്
 msgid "&Help"
 msgstr "&സഹായം"
 
-#: kkeysequencewidget.cpp:128
+#: kkeysequencewidget.cpp:129
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
 msgstr ""
 
-#: kkeysequencewidget.cpp:138
+#: kkeysequencewidget.cpp:139
 #, kde-format
 msgctxt ""
 "%1 is the number of conflicts (hidden), %2 is the key sequence of the "
@@ -733,7 +733,7 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:144
+#: kkeysequencewidget.cpp:145
 #, kde-format
 msgctxt "%1 is the number of shortcuts with which there is a conflict"
 msgid "Conflict with Registered Global Shortcut"
@@ -741,13 +741,13 @@ msgid_plural "Conflict with Registered Global Shortcuts"
 msgstr[0] "പറഞ്ഞുവച്ച ആഗോള കുറുക്കുവഴിയുമായി പരസ്പര വിരുദ്ധം"
 msgstr[1] "പറഞ്ഞുവച്ച ആഗോള കുറുക്കുവഴികളുമായി പരസ്പര വിരുദ്ധം"
 
-#: kkeysequencewidget.cpp:146 kkeysequencewidget.cpp:234
-#: kkeysequencewidget.cpp:625 kshortcutseditor.cpp:635 kshortcutseditor.cpp:653
+#: kkeysequencewidget.cpp:147 kkeysequencewidget.cpp:235
+#: kkeysequencewidget.cpp:626 kshortcutseditor.cpp:637 kshortcutseditor.cpp:655
 #, kde-format
 msgid "Reassign"
 msgstr "വീണ്ടും ഏല്‍പ്പിക്കുക"
 
-#: kkeysequencewidget.cpp:215
+#: kkeysequencewidget.cpp:216
 #, kde-format
 msgctxt "%1 is the number of conflicts"
 msgid "Shortcut Conflict"
@@ -755,12 +755,12 @@ msgid_plural "Shortcut Conflicts"
 msgstr[0] "കുറുക്കുവഴി പരസ്പര വിരുദ്ധം"
 msgstr[1] "കുറുക്കുവഴികള്‍ പരസ്പര വിരുദ്ധം"
 
-#: kkeysequencewidget.cpp:219
+#: kkeysequencewidget.cpp:220
 #, kde-format
 msgid "Shortcut '%1' for action '%2'\n"
 msgstr "'%2' നടപടിയ്ക്കുള്ള '%1' കുറുക്കുവഴി\n"
 
-#: kkeysequencewidget.cpp:224
+#: kkeysequencewidget.cpp:225
 #, kde-format
 msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 msgid ""
@@ -774,31 +774,31 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: kkeysequencewidget.cpp:243
+#: kkeysequencewidget.cpp:244
 #, kde-format
 msgid "Shortcut conflict"
 msgstr "കുറുക്കുവഴികള്‍ പ്രശ്നം"
 
-#: kkeysequencewidget.cpp:244
+#: kkeysequencewidget.cpp:245
 #, kde-format
 msgid ""
 "<qt>The '%1' key combination is already used by the <b>%2</b> action."
 "<br>Please select a different one.</qt>"
 msgstr ""
 
-#: kkeysequencewidget.cpp:274
+#: kkeysequencewidget.cpp:275
 #, kde-format
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
 "Example for Ctrl+A: hold the Ctrl key and press A."
 msgstr ""
 
-#: kkeysequencewidget.cpp:466
+#: kkeysequencewidget.cpp:467
 #, kde-format
 msgid "Reserved Shortcut"
 msgstr "പറഞ്ഞുവച്ച കുറുക്കുവഴി"
 
-#: kkeysequencewidget.cpp:467
+#: kkeysequencewidget.cpp:468
 #, kde-format
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
@@ -808,12 +808,12 @@ msgstr ""
 "F12 കീ വിന്‍ഡോസില്‍ പറഞ്ഞുവച്ചിട്ടുള്ളതായതിനാല്‍ ആഗോള കുറുക്കുവഴിയായി ഉപയോഗിയ്ക്കാന്‍ സാധ്യമല്ല.\n"
 "ദയവായി മറ്റൊരെണ്ണം തെരഞ്ഞെടുക്കൂ."
 
-#: kkeysequencewidget.cpp:619
+#: kkeysequencewidget.cpp:620
 #, kde-format
 msgid "Conflict with Standard Application Shortcut"
 msgstr "നിലവാരത്തിലുള്ള പ്രയോഗ കുറുക്കുവഴിയുമായി പ്രശ്നം"
 
-#: kkeysequencewidget.cpp:620
+#: kkeysequencewidget.cpp:621
 #, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -821,7 +821,7 @@ msgid ""
 "Do you really want to use it as a global shortcut as well?"
 msgstr ""
 
-#: kkeysequencewidget.cpp:668
+#: kkeysequencewidget.cpp:669
 #, kde-format
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
@@ -854,7 +854,7 @@ msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍, അനി പീറ്റര്‍, മാക്സിന്‍ ജോണ്‍, അനൂപ് പനവളപ്പില്‍, മനു എസ് മാധവ്"
 
-#: kmainwindow.cpp:248
+#: kmainwindow.cpp:250
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
@@ -867,7 +867,7 @@ msgstr ""
 msgid "Add to Toolbar"
 msgstr "പണിയായുധനിരയിലേക്കു് ചേര്‍ക്കുക"
 
-#: kmenumenuhandler_p.cpp:232
+#: kmenumenuhandler_p.cpp:235
 #, kde-format
 msgid "Configure Shortcut..."
 msgstr "കുറുക്കുവഴികള്‍ ക്രമീകരിയ്ക്കുക..."
@@ -927,62 +927,62 @@ msgstr "സ്വന്തമായുള്ള:"
 msgid "Shortcut Schemes"
 msgstr "കുറുക്കുവഴികളുടെ പദ്ധതികള്‍"
 
-#: kshortcutschemeseditor.cpp:65
+#: kshortcutschemeseditor.cpp:66
 #, kde-format
 msgid "Current scheme:"
 msgstr "ഇപ്പോഴുള്ള പദ്ധതി:"
 
-#: kshortcutschemeseditor.cpp:81
+#: kshortcutschemeseditor.cpp:82
 #, kde-format
 msgid "New..."
 msgstr "പുതിയതു്..."
 
-#: kshortcutschemeseditor.cpp:84
+#: kshortcutschemeseditor.cpp:85
 #, kde-format
 msgid "Delete"
 msgstr "വെട്ടി മാറ്റുക"
 
-#: kshortcutschemeseditor.cpp:87
+#: kshortcutschemeseditor.cpp:88
 #, kde-format
 msgid "More Actions"
 msgstr "കൂടുതല്‍ നടപടികള്‍"
 
-#: kshortcutschemeseditor.cpp:91
+#: kshortcutschemeseditor.cpp:92
 #, fuzzy, kde-format
 msgid "Save shortcuts to scheme"
 msgstr "കുറുക്കുവഴികളുടെ പദ്ധതികള്‍"
 
-#: kshortcutschemeseditor.cpp:93
+#: kshortcutschemeseditor.cpp:94
 #, kde-format
 msgid "Export Scheme..."
 msgstr "പദ്ധതി പുറത്തെടുക്കുക..."
 
-#: kshortcutschemeseditor.cpp:95
+#: kshortcutschemeseditor.cpp:96
 #, fuzzy, kde-format
 msgid "Import Scheme..."
 msgstr "പദ്ധതി പുറത്തെടുക്കുക..."
 
-#: kshortcutschemeseditor.cpp:111
+#: kshortcutschemeseditor.cpp:117
 #, kde-format
 msgid "Name for New Scheme"
 msgstr "പുതിയ പദ്ധതിയുടെ പേരു്"
 
-#: kshortcutschemeseditor.cpp:112
+#: kshortcutschemeseditor.cpp:118
 #, kde-format
 msgid "Name for new scheme:"
 msgstr "പുതിയ പദ്ധതിയ്ക്കുള്ള പേരു്:"
 
-#: kshortcutschemeseditor.cpp:112
+#: kshortcutschemeseditor.cpp:118
 #, kde-format
 msgid "New Scheme"
 msgstr "ഇപ്പോഴുള്ള പദ്ധതി"
 
-#: kshortcutschemeseditor.cpp:118
+#: kshortcutschemeseditor.cpp:124
 #, kde-format
 msgid "A scheme with this name already exists."
 msgstr "ഈ പേരുള്ളൊരു പദ്ധതി നിലവിലുണ്ടു്."
 
-#: kshortcutschemeseditor.cpp:148
+#: kshortcutschemeseditor.cpp:154
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
@@ -992,27 +992,27 @@ msgstr ""
 "സിസ്റ്റത്തിനു് മുഴുവനും ബാധകമായ കുറുക്കുവഴി പദ്ധതികളൊന്നും ഇതു് നീക്കം ചെയ്യില്ലെന്നു് പ്രത്യേകം "
 "ഓര്‍ക്കുക."
 
-#: kshortcutschemeseditor.cpp:178
+#: kshortcutschemeseditor.cpp:185
 #, fuzzy, kde-format
 msgid "Export Shortcuts"
 msgstr "കുറുക്കുവഴികള്‍"
 
-#: kshortcutschemeseditor.cpp:178 kshortcutschemeseditor.cpp:189
+#: kshortcutschemeseditor.cpp:185 kshortcutschemeseditor.cpp:196
 #, fuzzy, kde-format
 msgid "Shortcuts (*.shortcuts)"
 msgstr "%1-ലേക്കുള്ള കുറുക്കുവഴി"
 
-#: kshortcutschemeseditor.cpp:189
+#: kshortcutschemeseditor.cpp:196
 #, fuzzy, kde-format
 msgid "Import Shortcuts"
 msgstr "കുറുക്കുവഴികള്‍"
 
-#: kshortcutschemeseditor.cpp:200
+#: kshortcutschemeseditor.cpp:207
 #, fuzzy, kde-format
 msgid "Shortcut scheme successfully saved."
 msgstr "നീക്കം ചെയ്യാനാവശ്യപ്പെട്ടത് എഴുതിവച്ചിട്ടുണ്ട്"
 
-#: kshortcutschemeseditor.cpp:203
+#: kshortcutschemeseditor.cpp:210
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr ""
@@ -1098,49 +1098,49 @@ msgstr "മൌസിന്റെ ബട്ടണ്‍ കൊണ്ടുള്�
 msgid "Mouse Shape Gesture"
 msgstr "മൌസിന്റെ ആകൃതി കൊണ്ടുള്ള ആംഗ്യം"
 
-#: kshortcutseditor.cpp:630 kshortcutseditor.cpp:648
+#: kshortcutseditor.cpp:632 kshortcutseditor.cpp:650
 #, kde-format
 msgid "Key Conflict"
 msgstr "കീ പ്രശ്നം"
 
-#: kshortcutseditor.cpp:631
+#: kshortcutseditor.cpp:633
 #, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kshortcutseditor.cpp:649
+#: kshortcutseditor.cpp:651
 #, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 
-#: kshortcutseditor.cpp:696
+#: kshortcutseditor.cpp:698
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1-ലേക്കുള്ള കുറുക്കുവഴി"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:714 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:716 kshortcutwidget.ui:22
 #, kde-format
 msgid "Main:"
 msgstr "പ്രധാനപ്പെട്ട:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:715 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:717 kshortcutwidget.ui:52
 #, kde-format
 msgid "Alternate:"
 msgstr "പകരമായുള്ള:"
 
-#: kshortcutseditor.cpp:716
+#: kshortcutseditor.cpp:718
 #, kde-format
 msgid "Global:"
 msgstr "ഗ്ലോബല്‍:"
 
-#: kshortcutseditor.cpp:717
+#: kshortcutseditor.cpp:719
 #, fuzzy, kde-format
 msgid "Global alternate:"
 msgstr "എല്ലായിടത്തും പകരാമായുള്ളത്"
@@ -1272,63 +1272,63 @@ msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "താഴെ"
 
-#: ktoolbar.cpp:328
+#: ktoolbar.cpp:329
 #, kde-format
 msgid "Text Position"
 msgstr "പദാവലിയുടെ സ്ഥാനം"
 
-#: ktoolbar.cpp:330
+#: ktoolbar.cpp:331
 #, kde-format
 msgid "Icons Only"
 msgstr "ചിഹ്നങ്ങള്‍ മാത്രം"
 
-#: ktoolbar.cpp:331
+#: ktoolbar.cpp:332
 #, kde-format
 msgid "Text Only"
 msgstr "പദാവലി മാത്രം"
 
-#: ktoolbar.cpp:332
+#: ktoolbar.cpp:333
 #, kde-format
 msgid "Text Alongside Icons"
 msgstr "ചിഹ്നങ്ങളുടെ കൂടെ പദാവലി"
 
-#: ktoolbar.cpp:333
+#: ktoolbar.cpp:334
 #, kde-format
 msgid "Text Under Icons"
 msgstr "ചിഹ്നങ്ങളുടെ താഴെ പദാവലി"
 
-#: ktoolbar.cpp:341
+#: ktoolbar.cpp:343
 #, kde-format
 msgid "Icon Size"
 msgstr "ചിഹ്നത്തിന്റെ വലിപ്പം"
 
-#: ktoolbar.cpp:343
+#: ktoolbar.cpp:345
 #, kde-format
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "സഹജമായ"
 
-#: ktoolbar.cpp:360 ktoolbar.cpp:381
+#: ktoolbar.cpp:362 ktoolbar.cpp:383
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "ചെറുതു് (%1x%2)"
 
-#: ktoolbar.cpp:362 ktoolbar.cpp:383
+#: ktoolbar.cpp:364 ktoolbar.cpp:385
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "ഇടത്തരം (%1x%2)"
 
-#: ktoolbar.cpp:364 ktoolbar.cpp:385
+#: ktoolbar.cpp:366 ktoolbar.cpp:387
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "വലുതു് (%1x%2)"
 
-#: ktoolbar.cpp:366 ktoolbar.cpp:387
+#: ktoolbar.cpp:368 ktoolbar.cpp:389
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "ഭീമാകാരം (%1x%2)"
 
-#: ktoolbar.cpp:409
+#: ktoolbar.cpp:412
 #, kde-format
 msgid "Lock Toolbar Positions"
 msgstr "പണിയായുധനിരയുടെ സ്ഥാനങ്ങള്‍ പൂട്ടുക"
@@ -1353,7 +1353,7 @@ msgstr "വേണ്ട"
 msgid "No text"
 msgstr "വാചകമില്ല"
 
-#: kxmlguiwindow.cpp:437
+#: kxmlguiwindow.cpp:439
 #, kde-format
 msgid ""
 "There are two actions (%1, %2) that want to use the same shortcut (%3). This "
@@ -1361,7 +1361,7 @@ msgid ""
 "org'>bugs.kde.org</a>"
 msgstr ""
 
-#: kxmlguiwindow.cpp:437
+#: kxmlguiwindow.cpp:439
 #, fuzzy, kde-format
 msgid "Ambiguous Shortcuts"
 msgstr "കുറുക്കുവഴികള്‍"
@@ -1398,25 +1398,25 @@ msgid "&View"
 msgstr "&കാഴ്ച"
 
 #. i18n: ectx: Menu (go)
-#: ui_standards.rc:117
+#: ui_standards.rc:120
 #, kde-format
 msgid "&Go"
 msgstr "&പോകുക"
 
 #. i18n: ectx: Menu (bookmarks)
-#: ui_standards.rc:138
+#: ui_standards.rc:141
 #, kde-format
 msgid "&Bookmarks"
 msgstr "&ഓര്‍മ്മക്കുറിപ്പുകള്‍"
 
 #. i18n: ectx: Menu (tools)
-#: ui_standards.rc:144
+#: ui_standards.rc:147
 #, kde-format
 msgid "&Tools"
 msgstr "&പണിയായുധങ്ങള്‍"
 
 #. i18n: ectx: Menu (settings)
-#: ui_standards.rc:148
+#: ui_standards.rc:151
 #, kde-format
 msgid "&Settings"
 msgstr "&സജ്ജീകരണങ്ങള്‍"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-23 03:23+0200\n"
+"POT-Creation-Date: 2019-10-19 03:30+0200\n"
 "PO-Revision-Date: 2019-03-27 03:40+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -28,28 +28,28 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: kcm.cpp:49
+#: kcm.cpp:48
 #, kde-format
 msgctxt "kcm name for About dialog"
 msgid "Configure Search Bar"
 msgstr ""
 
-#: kcm.cpp:51
+#: kcm.cpp:50
 #, kde-format
 msgid "Vishesh Handa"
 msgstr ""
 
-#: kcm.cpp:59
+#: kcm.cpp:58
 #, kde-format
 msgid "Enable or disable KRunner plugins:"
 msgstr ""
 
-#: kcm.cpp:61
+#: kcm.cpp:60
 #, kde-format
 msgid "Clear History"
 msgstr ""
 
-#: kcm.cpp:94
+#: kcm.cpp:93
 #, kde-format
 msgid "Available Plugins"
 msgstr ""

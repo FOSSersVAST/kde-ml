@@ -79,22 +79,22 @@ msgstr "മറ്റുള്ളവയുടെ താഴെ വെക്കു�
 msgid "Keep above"
 msgstr "മറ്റുള്ളവയ്ക്കു മുകളില്‍ വെക്കുക"
 
-#: kcm.cpp:92
+#: kcm.cpp:95
 #, fuzzy, kde-format
 msgid "Window Decorations"
 msgstr "പുതിയ അലങ്കാരങ്ങള്‍ നേടുക"
 
-#: kcm.cpp:96
+#: kcm.cpp:99
 #, kde-format
 msgid "Valerio Pilo"
 msgstr ""
 
-#: kcm.cpp:97
+#: kcm.cpp:100
 #, kde-format
 msgid "Author"
 msgstr ""
 
-#: kcm.cpp:135
+#: kcm.cpp:138
 #, fuzzy, kde-format
 msgid "Download New Window Decorations"
 msgstr "പുതിയ അലങ്കാരങ്ങള്‍ നേടുക"
@@ -119,13 +119,13 @@ msgstr ""
 msgid "This module lets you configure the window decorations."
 msgstr ""
 
-#: package/contents/ui/main.qml:54
+#: package/contents/ui/main.qml:62
 #, kde-format
 msgctxt "tab label"
 msgid "Theme"
 msgstr ""
 
-#: package/contents/ui/main.qml:58
+#: package/contents/ui/main.qml:66
 #, fuzzy, kde-format
 msgctxt "tab label"
 msgid "Titlebar Buttons"
@@ -212,6 +212,11 @@ msgstr "അതിഭീമമായത് "
 #, fuzzy, kde-format
 msgid "Oversized"
 msgstr "ബൃഹത്തായ"
+
+#, fuzzy
+#~ msgctxt "combobox label"
+#~ msgid "Window border size:"
+#~ msgstr "വക്കിന്റെ വലുപ്പം:"
 
 #, fuzzy
 #~ msgid "Search..."

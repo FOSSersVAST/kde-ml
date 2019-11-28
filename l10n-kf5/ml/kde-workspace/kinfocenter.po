@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kinfocenter\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-09-06 03:39+0200\n"
 "PO-Revision-Date: 2010-06-23 20:29+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -36,31 +36,31 @@ msgctxt "Main window title"
 msgid "KInfocenter"
 msgstr "കെഡിഇ വിവരകേന്ദ്രം"
 
-#: infocenter.cpp:128
+#: infocenter.cpp:131
 #, kde-format
 msgctxt "Information about current module located in about menu"
 msgid "About Current Information Module"
 msgstr "നിലവിലുള്ള ഘടകം സംബന്ധിച്ചു്"
 
-#: infocenter.cpp:133
+#: infocenter.cpp:136
 #, kde-format
 msgctxt "Module help button label"
 msgid "Module Help"
 msgstr "മൊഡ്യുളുകള്‍ സംബദ്ധമായ സഹായം"
 
-#: infocenter.cpp:136
+#: infocenter.cpp:139
 #, kde-format
 msgctxt "Help button label"
 msgid "Help"
 msgstr "സഹായം"
 
-#: infocenter.cpp:176
+#: infocenter.cpp:179
 #, kde-format
 msgctxt "Search Bar Click Message"
 msgid "Search"
 msgstr "തെരയുക"
 
-#: infocenter.cpp:181
+#: infocenter.cpp:184
 #, kde-format
 msgctxt "Kaction search label"
 msgid "Search Modules"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-10 20:03+0530\n"
+"POT-Creation-Date: 2019-10-08 03:34+0000\n"
 "PO-Revision-Date: 2019-08-11 16:22+0530\n"
 "Last-Translator: ലക്ഷ്മി സുനില്‍ <lakshmisunil12@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -18,8 +18,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/plugins/pastebin/pastebinplugin.json
+#, fuzzy
+#| msgctxt "X-Purpose-ActionDisplay"
+#| msgid "Pastebin"
 msgctxt "X-Purpose-ActionDisplay"
-msgid "Pastebin"
+msgid "Pastebin..."
 msgstr "പേസ്റ്റ്ബിന്‍"
 
 #: src/plugins/kdeconnect_sms/kdeconnectsmsplugin.json
@@ -28,8 +31,11 @@ msgid "Send SMS via KDE Connect..."
 msgstr "കെഡിഇ കണക്റ്റ് വഴി എസ്.എം.എസ് അയക്കുക..."
 
 #: src/plugins/nextcloud/nextcloudplugin.json
+#, fuzzy
+#| msgctxt "X-Purpose-ActionDisplay"
+#| msgid "NextCloud..."
 msgctxt "X-Purpose-ActionDisplay"
-msgid "NextCloud..."
+msgid "Nextcloud..."
 msgstr "നെക്സ്റ്റ് ക്ലൌഡ്..."
 
 #: src/plugins/telegram/telegramplugin.json
@@ -65,7 +71,7 @@ msgstr "ട്വിറ്റര്‍... "
 #: src/plugins/imgur/imgurplugin.json
 #, fuzzy
 msgctxt "X-Purpose-ActionDisplay"
-msgid "Imgur"
+msgid "Imgur..."
 msgstr "ഇംഗര്‍"
 
 #: src/plugins/bluetooth/bluetoothplugin.json
@@ -153,8 +159,11 @@ msgid "Send SMS via KDE Connect"
 msgstr "കെഡിഇ കണക്റ്റ് വഴി എസ്.എം.എസ് അയക്കുക"
 
 #: src/plugins/nextcloud/nextcloudplugin.json
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "NextCloud"
 msgctxt "Name"
-msgid "NextCloud"
+msgid "Nextcloud"
 msgstr "നെക്സ്റ്റ് ക്ലൌഡ്"
 
 #: src/plugins/telegram/telegramplugin.json

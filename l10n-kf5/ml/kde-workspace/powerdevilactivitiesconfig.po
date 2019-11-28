@@ -82,7 +82,7 @@ msgstr ""
 msgid "PC running on low battery"
 msgstr ""
 
-#: activitywidget.cpp:136
+#: activitywidget.cpp:138
 #, kde-format
 msgctxt "This is meant to be: Act like activity %1"
 msgid "Activity \"%1\""

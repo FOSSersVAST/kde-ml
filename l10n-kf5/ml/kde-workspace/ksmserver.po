@@ -22,7 +22,7 @@ msgstr ""
 msgid "Logout canceled by '%1'"
 msgstr "പുറത്തിറങ്ങുന്നതു് %1 റദ്ദാക്കി"
 
-#: main.cpp:54
+#: main.cpp:52
 #, kde-format
 msgid ""
 "The reliable KDE session manager that talks the standard X11R6 \n"
@@ -31,66 +31,66 @@ msgstr ""
 "വിശ്വസ്തകരമായ കെ.ഡി.ഇ സെഷന്‍ നടത്തിപ്പുകാരന്‍ - ഇതു എക്സ്.11.ആര്‍.6 (X11R6)\n"
 "സെഷന്‍ കയ്കാര്യം ചെയ്യാനുള്ള പ്രോടോക്കോള്‍ (എക്സ്.എസ്.എം.പി) ഉപയോഗിക്കുന്നു"
 
-#: main.cpp:142
+#: main.cpp:140
 #, kde-format
 msgid "$HOME not set!"
 msgstr ""
 
-#: main.cpp:147 main.cpp:154
+#: main.cpp:145 main.cpp:152
 #, kde-format
 msgid "$HOME directory (%1) does not exist."
 msgstr ""
 
-#: main.cpp:149
+#: main.cpp:147
 #, kde-format
 msgid "No write access to $HOME directory (%1)."
 msgstr ""
 
-#: main.cpp:156
+#: main.cpp:154
 #, kde-format
 msgid "No read access to $HOME directory (%1)."
 msgstr ""
 
-#: main.cpp:161
+#: main.cpp:159
 #, kde-format
 msgid "$HOME directory (%1) is out of disk space."
 msgstr ""
 
-#: main.cpp:163
+#: main.cpp:161
 #, kde-format
 msgid "Writing to the $HOME directory (%2) failed with the error '%1'"
 msgstr ""
 
-#: main.cpp:176 main.cpp:210
+#: main.cpp:174 main.cpp:208
 #, kde-format
 msgid "No write access to '%1'."
 msgstr ""
 
-#: main.cpp:178 main.cpp:212
+#: main.cpp:176 main.cpp:210
 #, kde-format
 msgid "No read access to '%1'."
 msgstr ""
 
-#: main.cpp:188 main.cpp:200
+#: main.cpp:186 main.cpp:198
 #, kde-format
 msgid "Temp directory (%1) is out of disk space."
 msgstr ""
 
-#: main.cpp:190 main.cpp:202
+#: main.cpp:188 main.cpp:200
 #, kde-format
 msgid ""
 "Writing to the temp directory (%2) failed with\n"
 "    the error '%1'"
 msgstr ""
 
-#: main.cpp:217
+#: main.cpp:215
 #, kde-format
 msgid ""
 "The following installation problem was detected\n"
 "while trying to start KDE:"
 msgstr ""
 
-#: main.cpp:220
+#: main.cpp:218
 #, kde-format
 msgid ""
 "\n"
@@ -98,17 +98,17 @@ msgid ""
 "KDE is unable to start.\n"
 msgstr ""
 
-#: main.cpp:227
+#: main.cpp:225
 #, kde-format
 msgid "Plasma Workspace installation problem!"
 msgstr ""
 
-#: main.cpp:268
+#: main.cpp:266
 #, kde-format
 msgid "Restores the saved user session if available"
 msgstr "ഉപയോക്താവിന്റെ സൂക്ഷിച്ചിരിക്കുന്ന സെഷന്‍ തിരികെ കൊണ്ടുവരുന്നു ലഭ്യമാണെങ്കില്‍"
 
-#: main.cpp:272
+#: main.cpp:270
 #, fuzzy, kde-format
 msgid ""
 "Starts <wm> in case no other window manager is \n"
@@ -117,22 +117,22 @@ msgstr ""
 "വേറെ ജാലക നടത്തിപ്പുകാരന്‍മാര്‍ സെഷനില്‍ പങ്കെടുക്കുന്നെങ്കില്‍ ഇത് \n"
 "'ഡബിള്‍ യൂ.എം'(wm) തുടങ്ങുന്നു. സ്വാഭാവികമായിറ്റുള്ളത് 'കെ.വിന്‍' ആണ്"
 
-#: main.cpp:273
+#: main.cpp:271
 #, kde-format
 msgid "wm"
 msgstr ""
 
-#: main.cpp:277
+#: main.cpp:275
 #, kde-format
 msgid "Also allow remote connections"
 msgstr "അകലെ നിന്നുള്ള കണക്ഷെനുകള്‍ അനുവദിക്കുന്നു"
 
-#: main.cpp:281
+#: main.cpp:279
 #, kde-format
 msgid "Starts the session in locked mode"
 msgstr ""
 
-#: main.cpp:285
+#: main.cpp:283
 #, kde-format
 msgid ""
 "Starts without lock screen support. Only needed if other component provides "

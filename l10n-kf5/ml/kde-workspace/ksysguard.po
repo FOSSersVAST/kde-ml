@@ -31,193 +31,193 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "peter.ani@gmail.com, ershad92@gmail.com"
 
-#: HostConnector.cpp:45
+#: HostConnector.cpp:44
 #, kde-format
 msgid "Connect Host"
 msgstr "ഹോസ്റ്റിലേക്കു് കണക്ട് ചെയ്യുക"
 
-#: HostConnector.cpp:58
+#: HostConnector.cpp:57
 #, kde-format
 msgid "Host:"
 msgstr "ഹോസ്റ്റ്:"
 
-#: HostConnector.cpp:68
+#: HostConnector.cpp:67
 #, kde-format
 msgid "Enter the name of the host you want to connect to."
 msgstr "നിങ്ങള്‍ക്കു് കണക്ട് ചെയ്യുവാനുള്ള ഹോസ്റ്റിന്റെ പേരു് നല്‍കുക."
 
-#: HostConnector.cpp:74
+#: HostConnector.cpp:73
 #, kde-format
 msgid "Connection Type"
 msgstr "ഏതു് തരം കണക്ഷന്‍"
 
-#: HostConnector.cpp:79
+#: HostConnector.cpp:78
 #, kde-format
 msgid "ssh"
 msgstr "ssh"
 
-#: HostConnector.cpp:82
+#: HostConnector.cpp:81
 #, kde-format
 msgid "Select this to use the secure shell to login to the remote host."
 msgstr ""
 
-#: HostConnector.cpp:85
+#: HostConnector.cpp:84
 #, kde-format
 msgid "rsh"
 msgstr "rsh"
 
-#: HostConnector.cpp:86
+#: HostConnector.cpp:85
 #, kde-format
 msgid "Select this to use the remote shell to login to the remote host."
 msgstr ""
 
-#: HostConnector.cpp:89
+#: HostConnector.cpp:88
 #, kde-format
 msgid "Daemon"
 msgstr "ഡെമണ്‍"
 
-#: HostConnector.cpp:90
+#: HostConnector.cpp:89
 #, kde-format
 msgid ""
 "Select this if you want to connect to a ksysguard daemon that is running on "
 "the machine you want to connect to, and is listening for client requests."
 msgstr ""
 
-#: HostConnector.cpp:93
+#: HostConnector.cpp:92
 #, kde-format
 msgid "Custom command"
 msgstr "സ്വന്തം ഇഷ്ടപ്രകാരമുളള നിര്‍ദ്ദേശം"
 
-#: HostConnector.cpp:94
+#: HostConnector.cpp:93
 #, kde-format
 msgid ""
 "Select this to use the command you entered below to start ksysguardd on the "
 "remote host."
 msgstr ""
 
-#: HostConnector.cpp:97
+#: HostConnector.cpp:96
 #, kde-format
 msgid "Port:"
 msgstr "പോര്‍ട്ടു്:"
 
-#: HostConnector.cpp:104
+#: HostConnector.cpp:103
 #, kde-format
 msgid ""
 "Enter the port number on which the ksysguard daemon is listening for "
 "connections."
 msgstr ""
 
-#: HostConnector.cpp:107
+#: HostConnector.cpp:106
 #, kde-format
 msgid "e.g.  3112"
 msgstr "ഉദാ.  3112"
 
-#: HostConnector.cpp:110
+#: HostConnector.cpp:109
 #, kde-format
 msgid "Command:"
 msgstr "കമാന്‍ഡ്:"
 
-#: HostConnector.cpp:119
+#: HostConnector.cpp:118
 #, kde-format
 msgid "Enter the command that runs ksysguardd on the host you want to monitor."
 msgstr ""
 
-#: HostConnector.cpp:123
+#: HostConnector.cpp:122
 #, kde-format
 msgid "e.g. ssh -l root remote.host.org ksysguardd"
 msgstr "ഉദാ. ssh -l root remote.host.org ksysguardd"
 
-#: ksysguard.cpp:76
+#: ksysguard.cpp:74
 #, kde-format
 msgid "KDE System Monitor"
 msgstr "കെഡിഇ സിസ്റ്റം മോണിറ്റര്‍"
 
-#: ksysguard.cpp:159
+#: ksysguard.cpp:157
 #, kde-format
 msgid ""
 "This will hide the menu bar completely. You can show it again by typing %1."
 msgstr ""
 
-#: ksysguard.cpp:161
+#: ksysguard.cpp:159
 #, kde-format
 msgid "Hide menu bar"
 msgstr ""
 
-#: ksysguard.cpp:179 ksysguard.cpp:571
+#: ksysguard.cpp:177 ksysguard.cpp:571
 #, kde-format
 msgid "System Monitor"
 msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 
-#: ksysguard.cpp:180
+#: ksysguard.cpp:178
 #, kde-format
 msgid "&Refresh Tab"
 msgstr ""
 
-#: ksysguard.cpp:181
+#: ksysguard.cpp:179
 #, kde-format
 msgid "&New Tab..."
 msgstr "&പുതിയ കിളിവാതില്‍"
 
-#: ksysguard.cpp:182
+#: ksysguard.cpp:180
 #, kde-format
 msgid "Import Tab Fr&om File..."
 msgstr ""
 
-#: ksysguard.cpp:183
+#: ksysguard.cpp:181
 #, kde-format
 msgid "Save Tab &As..."
 msgstr "കിളിവാതില്‍ പേര് മാറ്റി സംരക്ഷിക്കുക..."
 
-#: ksysguard.cpp:184
+#: ksysguard.cpp:182
 #, kde-format
 msgid "&Close Tab"
 msgstr "കിളിവാതില്‍ &അടയ്ക്കുക"
 
-#: ksysguard.cpp:185
+#: ksysguard.cpp:183
 #, kde-format
 msgid "Monitor &Remote Machine..."
 msgstr "&വിദൂര മഷീനുന്‍ നിരീക്ഷിക്കുക"
 
-#: ksysguard.cpp:186
+#: ksysguard.cpp:184
 #, fuzzy, kde-format
 msgid "&Download New Tabs..."
 msgstr "&പുതിയ വര്‍ക്ക്ഷീറ്റ്"
 
-#: ksysguard.cpp:187
+#: ksysguard.cpp:185
 #, fuzzy, kde-format
 msgid "&Upload Current Tab..."
 msgstr "&പുതിയ വര്‍ക്ക്ഷീറ്റ്"
 
-#: ksysguard.cpp:189
+#: ksysguard.cpp:187
 #, kde-format
 msgid "Tab &Properties"
 msgstr "കിളിവാതീന്റെ &ഗുണഗണങ്ങള്‍"
 
-#: ksysguard.cpp:386
+#: ksysguard.cpp:384
 #, fuzzy, kde-format
 msgid "1 process"
 msgid_plural "%1 processes"
 msgstr[0] "1 പ്രക്രിയകള്‍1"
 msgstr[1] " %1 പ്രക്രിയകള്‍ %1"
 
-#: ksysguard.cpp:467
+#: ksysguard.cpp:465
 #, fuzzy, kde-format
 msgid "CPU: %1%"
 msgstr " സിപിയു: %1%%1%"
 
-#: ksysguard.cpp:467
+#: ksysguard.cpp:465
 #, fuzzy, kde-format
 msgctxt "This is the shorter version of CPU: %1%"
 msgid "%1%"
 msgstr "%1%"
 
-#: ksysguard.cpp:486
+#: ksysguard.cpp:484
 #, fuzzy, kde-format
 msgctxt "Arguments are formatted byte sizes (used/total)"
 msgid "Memory: %1 / %2"
 msgstr " മെമ്മറി : %1 / %2 "
 
-#: ksysguard.cpp:488
+#: ksysguard.cpp:486
 #, fuzzy, kde-format
 msgctxt ""
 "Arguments are formatted byte sizes (used/total) This should be a shorter "
@@ -225,7 +225,7 @@ msgctxt ""
 msgid "Mem: %1 / %2"
 msgstr " മെമ്മറി : %1 / %2 "
 
-#: ksysguard.cpp:490
+#: ksysguard.cpp:488
 #, kde-format
 msgctxt ""
 "Arguments is formatted byte sizes (used) This should be a shorter version of "
@@ -233,18 +233,18 @@ msgctxt ""
 msgid "Mem: %1"
 msgstr ""
 
-#: ksysguard.cpp:518
+#: ksysguard.cpp:516
 #, kde-format
 msgid " No swap space available "
 msgstr "സ്വാപ്പ് സ്പെയിസ് ലഭ്യമല്ല"
 
-#: ksysguard.cpp:522
+#: ksysguard.cpp:520
 #, fuzzy, kde-format
 msgctxt "Arguments are formatted byte sizes (used/total)"
 msgid "Swap: %1 / %2"
 msgstr " സ്വാപ്പ്: %1 / %2സ്വാപ്പ്: %1%1"
 
-#: ksysguard.cpp:524
+#: ksysguard.cpp:522
 #, kde-format
 msgctxt "Arguments is formatted byte sizes (used)"
 msgid "Swap: %1"
@@ -390,83 +390,83 @@ msgstr "ശരി"
 msgid "Error"
 msgstr "പിശകു്"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:43
+#: SensorDisplayLib/DancingBarsSettings.cpp:42
 #, fuzzy, kde-format
 msgid "Edit BarGraph Preferences"
 msgstr "നോട്ടിലസ് മുന്‍‌ഗണനകള്‍ തിരുത്തുക"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:52
+#: SensorDisplayLib/DancingBarsSettings.cpp:51
 #, kde-format
 msgid "Range"
 msgstr "പരിധി"
 
 #. i18n: ectx: property (title), widget (QGroupBox, titleFrame)
-#: SensorDisplayLib/DancingBarsSettings.cpp:56
+#: SensorDisplayLib/DancingBarsSettings.cpp:55
 #: SensorDisplayLib/ListViewSettingsWidget.ui:17
-#: SensorDisplayLib/SensorLoggerSettingsWidget.ui:17 WorkSheetSettings.cpp:62
+#: SensorDisplayLib/SensorLoggerSettingsWidget.ui:17 WorkSheetSettings.cpp:61
 #, kde-format
 msgid "Title"
 msgstr "തലക്കെട്ടു്"
 
 #. i18n: ectx: property (whatsThis), widget (QLineEdit, m_title)
-#: SensorDisplayLib/DancingBarsSettings.cpp:61
+#: SensorDisplayLib/DancingBarsSettings.cpp:60
 #: SensorDisplayLib/FancyPlotterSettings.cpp:71
 #: SensorDisplayLib/MultiMeterSettingsWidget.ui:36
 #, kde-format
 msgid "Enter the title of the display here."
 msgstr "പ്രദര്‍ശനത്തിനുള്ള തലക്കെട്ടു് ഇവിടെ നല്‍കുക."
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:66
+#: SensorDisplayLib/DancingBarsSettings.cpp:65
 #, kde-format
 msgid "Display Range"
 msgstr "പ്രദര്‍ശിപ്പിയ്ക്കേണ്ട പരിധി"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:71
+#: SensorDisplayLib/DancingBarsSettings.cpp:70
 #: SensorDisplayLib/FancyPlotterSettings.cpp:97
 #, kde-format
 msgid "Minimum value:"
 msgstr "ഏറ്റവും കുറഞ്ഞ മൂല്ല്യം:"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:79
+#: SensorDisplayLib/DancingBarsSettings.cpp:78
 #, kde-format
 msgid ""
 "Enter the minimum value for the display here. If both values are 0, "
 "automatic range detection is enabled."
 msgstr ""
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:83
+#: SensorDisplayLib/DancingBarsSettings.cpp:82
 #: SensorDisplayLib/FancyPlotterSettings.cpp:108
 #, kde-format
 msgid "Maximum value:"
 msgstr "ഏറ്റവും കൂടിയ മൂല്ല്യം:"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:91
+#: SensorDisplayLib/DancingBarsSettings.cpp:90
 #, kde-format
 msgid ""
 "Enter the maximum value for the display here. If both values are 0, "
 "automatic range detection is enabled."
 msgstr ""
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:101
+#: SensorDisplayLib/DancingBarsSettings.cpp:100
 #, kde-format
 msgid "Alarms"
 msgstr "അലാറമുകള്‍"
 
 #. i18n: ectx: property (title), widget (QGroupBox, GroupBox1)
-#: SensorDisplayLib/DancingBarsSettings.cpp:105
+#: SensorDisplayLib/DancingBarsSettings.cpp:104
 #: SensorDisplayLib/SensorLoggerDlgWidget.ui:78
 #, kde-format
 msgid "Alarm for Minimum Value"
 msgstr "കുറഞ്ഞ മൂല്യത്തിനായുള്ള അലാറം"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:110
-#: SensorDisplayLib/DancingBarsSettings.cpp:133
+#: SensorDisplayLib/DancingBarsSettings.cpp:109
+#: SensorDisplayLib/DancingBarsSettings.cpp:132
 #, kde-format
 msgid "Enable alarm"
 msgstr "അലാറം സജ്ജമാക്കുക"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, m_lowerLimitActive)
-#: SensorDisplayLib/DancingBarsSettings.cpp:111
+#: SensorDisplayLib/DancingBarsSettings.cpp:110
 #: SensorDisplayLib/MultiMeterSettingsWidget.ui:57
 #: SensorDisplayLib/SensorLoggerDlgWidget.ui:96
 #, kde-format
@@ -474,21 +474,21 @@ msgid "Enable the minimum value alarm."
 msgstr "ഏറ്റവും മൂല്യം കുറഞ്ഞ വിലയ്ക്കുള്ള അലാറം പ്രവര്‍ത്തനസജ്ജമാക്കുക."
 
 #. i18n: ectx: property (text), widget (QLabel, m_lblLowerLimit)
-#: SensorDisplayLib/DancingBarsSettings.cpp:114
+#: SensorDisplayLib/DancingBarsSettings.cpp:113
 #: SensorDisplayLib/SensorLoggerDlgWidget.ui:125
 #, kde-format
 msgid "Lower limit:"
 msgstr "കുറഞ്ഞ പരിധി:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, GroupBox1_2)
-#: SensorDisplayLib/DancingBarsSettings.cpp:128
+#: SensorDisplayLib/DancingBarsSettings.cpp:127
 #: SensorDisplayLib/SensorLoggerDlgWidget.ui:151
 #, fuzzy, kde-format
 msgid "Alarm for Maximum Value"
 msgstr "Y യുടെ ഏറ്റവും കൂടിയ സാധ്യമായ വില"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, m_upperLimitActive)
-#: SensorDisplayLib/DancingBarsSettings.cpp:134
+#: SensorDisplayLib/DancingBarsSettings.cpp:133
 #: SensorDisplayLib/MultiMeterSettingsWidget.ui:116
 #: SensorDisplayLib/SensorLoggerDlgWidget.ui:169
 #, fuzzy, kde-format
@@ -496,31 +496,31 @@ msgid "Enable the maximum value alarm."
 msgstr "Y യുടെ ഏറ്റവും കൂടിയ സാധ്യമായ വില"
 
 #. i18n: ectx: property (text), widget (QLabel, m_lblUpperLimit)
-#: SensorDisplayLib/DancingBarsSettings.cpp:137
+#: SensorDisplayLib/DancingBarsSettings.cpp:136
 #: SensorDisplayLib/SensorLoggerDlgWidget.ui:198
 #, kde-format
 msgid "Upper limit:"
 msgstr "കൂടിയ‌ പരിധി:"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:154
+#: SensorDisplayLib/DancingBarsSettings.cpp:153
 #, kde-format
 msgctxt "@title:tab Appearance of the bar graph"
 msgid "Look"
 msgstr "നോക്കുക"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:158
+#: SensorDisplayLib/DancingBarsSettings.cpp:157
 #, fuzzy, kde-format
 msgid "Normal bar color:"
 msgstr "ഗ്റീറ്ററിന്‍റെ പശ്ചാത്തലത്തിലുളള നിറം"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:165
+#: SensorDisplayLib/DancingBarsSettings.cpp:164
 #, fuzzy, kde-format
 msgid "Out-of-range color:"
 msgstr "മൂല്ല്യം പരിധിയ്ക്ക് പുറത്ത്.\n"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel3)
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
-#: SensorDisplayLib/DancingBarsSettings.cpp:172
+#: SensorDisplayLib/DancingBarsSettings.cpp:171
 #: SensorDisplayLib/ListViewSettingsWidget.ui:105
 #: SensorDisplayLib/LogFile.cpp:105 SensorDisplayLib/LogFileSettings.ui:85
 #: SensorDisplayLib/SensorLoggerSettingsWidget.ui:92
@@ -528,13 +528,13 @@ msgstr "മൂല്ല്യം പരിധിയ്ക്ക് പുറത�
 msgid "Background color:"
 msgstr "പശ്ചാത്തലത്തിലുള്ള നിറം:"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:179
+#: SensorDisplayLib/DancingBarsSettings.cpp:178
 #: SensorDisplayLib/FancyPlotterSettings.cpp:178
 #, kde-format
 msgid "Font size:"
 msgstr "അക്ഷരസഞ്ചയത്തിന്റെ വലിപ്പം:"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:184
+#: SensorDisplayLib/DancingBarsSettings.cpp:183
 #, kde-format
 msgid ""
 "This determines the size of the font used to print a label underneath the "
@@ -542,40 +542,40 @@ msgid ""
 "advisable to use a small font size here."
 msgstr ""
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:192
+#: SensorDisplayLib/DancingBarsSettings.cpp:191
 #: SensorDisplayLib/FancyPlotterSettings.cpp:194
 #, kde-format
 msgid "Sensors"
 msgstr ""
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:204
+#: SensorDisplayLib/DancingBarsSettings.cpp:203
 #, kde-format
 msgid "Edit..."
 msgstr "മാറ്റം വരുത്തുക..."
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:205
+#: SensorDisplayLib/DancingBarsSettings.cpp:204
 #, kde-format
 msgid "Push this button to configure the label."
 msgstr ""
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:208
+#: SensorDisplayLib/DancingBarsSettings.cpp:207
 #: SensorDisplayLib/FancyPlotterSettings.cpp:226
 #, kde-format
 msgid "Delete"
 msgstr "വെട്ടി മാറ്റുക"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:209
+#: SensorDisplayLib/DancingBarsSettings.cpp:208
 #: SensorDisplayLib/FancyPlotterSettings.cpp:227
 #, kde-format
 msgid "Push this button to delete the sensor."
 msgstr ""
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:361
+#: SensorDisplayLib/DancingBarsSettings.cpp:360
 #, fuzzy, kde-format
 msgid "Label of Bar Graph"
 msgstr "%d %%"
 
-#: SensorDisplayLib/DancingBarsSettings.cpp:362
+#: SensorDisplayLib/DancingBarsSettings.cpp:361
 #, kde-format
 msgid "Enter new label:"
 msgstr "പുതിയ ലേബല്‍ നല്‍കുക:"
@@ -1116,7 +1116,7 @@ msgid "Timer Interval"
 msgstr "പിങ് ചെയ്യുന്നതിനുളള ഇടവേള (_P):"
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, m_timerInterval)
-#: SensorDisplayLib/SensorLoggerDlgWidget.ui:59 WorkSheetSettings.cpp:111
+#: SensorDisplayLib/SensorLoggerDlgWidget.ui:59 WorkSheetSettings.cpp:110
 #, kde-format
 msgid " sec"
 msgstr " sec"
@@ -1277,47 +1277,47 @@ msgstr "ഡിസ്‌പ്ലേ നീക്കം ചെയ്യുക"
 msgid "Dummy"
 msgstr "ഡമ്മി"
 
-#: WorkSheetSettings.cpp:44
+#: WorkSheetSettings.cpp:43
 #, kde-format
 msgid "Tab Properties"
 msgstr "കിളിവാതിലിന്റെ ഗുണഗണങ്ങള്‍"
 
-#: WorkSheetSettings.cpp:73
+#: WorkSheetSettings.cpp:72
 #, kde-format
 msgid "Properties"
 msgstr "ഗുണഗണങ്ങള്‍"
 
-#: WorkSheetSettings.cpp:82
+#: WorkSheetSettings.cpp:81
 #, kde-format
 msgid "Rows:"
 msgstr "വരികള്‍:"
 
-#: WorkSheetSettings.cpp:92
+#: WorkSheetSettings.cpp:91
 #, kde-format
 msgid "Columns:"
 msgstr "കളങ്ങള്‍:"
 
-#: WorkSheetSettings.cpp:101
+#: WorkSheetSettings.cpp:100
 #, kde-format
 msgid "Enter the number of rows the sheet should have."
 msgstr ""
 
-#: WorkSheetSettings.cpp:102
+#: WorkSheetSettings.cpp:101
 #, kde-format
 msgid "Enter the number of columns the sheet should have."
 msgstr ""
 
-#: WorkSheetSettings.cpp:104
+#: WorkSheetSettings.cpp:103
 #, kde-format
 msgid "Update interval:"
 msgstr "പുതുക്കലിനുളള ഇടവേള:"
 
-#: WorkSheetSettings.cpp:117
+#: WorkSheetSettings.cpp:116
 #, kde-format
 msgid "All displays of the sheet are updated at the rate specified here."
 msgstr ""
 
-#: WorkSheetSettings.cpp:118
+#: WorkSheetSettings.cpp:117
 #, fuzzy, kde-format
 msgid "Enter the title of the worksheet here."
 msgstr "തെരയേണ്ട പദാവലി ഇവിടെ നല്‍കുക"

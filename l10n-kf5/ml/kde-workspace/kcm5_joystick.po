@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: joystick trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-10-19 03:30+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -28,7 +28,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "sarathlakshman@slynux.org"
 
-#: caldialog.cpp:41 joywidget.cpp:380
+#: caldialog.cpp:41 joywidget.cpp:379
 #, kde-format
 msgid "Calibration"
 msgstr "ക്രമീകരണം"
@@ -92,7 +92,7 @@ msgstr ""
 "ചലിപ്പിക്കുക. <br /><br /> അടുത്ത ഘട്ടത്തിലേക്കു പോകാനായി ഏതെങ്കിലും ബട്ടണ്‍ അമര്‍ത്തുകയോ "
 "അല്ലെങ്കില്‍ 'അടുത്തത് ' എന്ന ബട്ടണ്‍ അമര്‍ത്തുകയോ ചെയ്യുകയോ ചെയ്യുക. </qt>"
 
-#: caldialog.cpp:154 joywidget.cpp:371 joywidget.cpp:406
+#: caldialog.cpp:154 joywidget.cpp:370 joywidget.cpp:405
 #, kde-format
 msgid "Communication Error"
 msgstr "ആശയവിനിമയത്തകരാറു്"
@@ -102,7 +102,7 @@ msgstr "ആശയവിനിമയത്തകരാറു്"
 msgid "You have successfully calibrated your device"
 msgstr "താങ്ക്ള്‍ വിജയകരമായി ഉപകരണ് ക്രമീകരണം പൂര്‍ത്തീകരിച്ചു "
 
-#: caldialog.cpp:158 joywidget.cpp:412
+#: caldialog.cpp:158 joywidget.cpp:411
 #, kde-format
 msgid "Calibration Success"
 msgstr "ക്രമീകരണം വിജയിച്ചു "
@@ -112,60 +112,60 @@ msgstr "ക്രമീകരണം വിജയിച്ചു "
 msgid "Value Axis %1: %2"
 msgstr "വിലയുടെ അച്ചുതണ്ട് : %1: %2"
 
-#: joydevice.cpp:56
+#: joydevice.cpp:55
 #, kde-format
 msgid "The given device %1 could not be opened: %2"
 msgstr "പ്രസ്തുത ഉപകരണം %1 പ്രവര്‍ത്തനക്ഷമമല്ല: %2"
 
-#: joydevice.cpp:62
+#: joydevice.cpp:61
 #, kde-format
 msgid "The given device %1 is not a joystick."
 msgstr "പ്രസ്തുത ഉപകരണം %1 ജോയിസ്റ്റിക്കല്ല "
 
-#: joydevice.cpp:67
+#: joydevice.cpp:66
 #, kde-format
 msgid "Could not get kernel driver version for joystick device %1: %2"
 msgstr ""
 "നിങ്ങളുടെ ജോയിസ്റ്റിക്കിനാവ്ശ്യമായ  (%1: %2) കേര്‍നല്‍ വെര്‍ഷന്‍ കണ്ടെത്താന്‍ സാധിക്കുന്നില്ല "
 
-#: joydevice.cpp:81
+#: joydevice.cpp:80
 #, kde-format
 msgid ""
 "The current running kernel driver version (%1.%2.%3) is not the one this "
 "module was compiled for (%4.%5.%6)."
 msgstr "നിലവിലുള്ള കെര്‍നല്‍  ഡ്രിവര്‍  വെര്‍ഷന്‍ (%1.%2.%3) മോഡ്യൂളിനു ചേര്‍ന്നതല്ല (%4.%5.%6)."
 
-#: joydevice.cpp:93
+#: joydevice.cpp:92
 #, kde-format
 msgid "Could not get number of buttons for joystick device %1: %2"
 msgstr "ജോയിസ്റ്റിക്ക്  (%1: %2 ) ഉപകരണത്തിനു എത്ര ബട്ടനുകളുടെന്നു കണ്ടെത്താന്‍ സാധിച്ചില്ല "
 
-#: joydevice.cpp:99
+#: joydevice.cpp:98
 #, kde-format
 msgid "Could not get number of axes for joystick device %1: %2"
 msgstr "ജോയിസ്റ്റിക്ക്  (%1: %2 ) ഉപകരണത്തിനു എത്ര അച്ചുതണ്ടുകളുണ്ടെന്നു  കണ്ടെത്താന്‍ സാധിച്ചില്ല "
 
-#: joydevice.cpp:105
+#: joydevice.cpp:104
 #, kde-format
 msgid "Could not get calibration values for joystick device %1: %2"
 msgstr "ജോയിസ്റ്റിക്ക്  %1: %2 ഉപകരണത്തിന്റെ ക്രമീകരണവിലകള്‍ കണ്ടെത്താന്‍ സാധിച്ചില്ല."
 
-#: joydevice.cpp:111
+#: joydevice.cpp:110
 #, kde-format
 msgid "Could not restore calibration values for joystick device %1: %2"
 msgstr "ജോയിസ്റ്റിക്ക്  %1: %2 ഉപകരണത്തിന്റെ ക്രമീകരണവിലകള്‍ പഴയപടിയാക്കാന്‍ സാധിച്ചില്ല."
 
-#: joydevice.cpp:117
+#: joydevice.cpp:116
 #, kde-format
 msgid "Could not initialize calibration values for joystick device %1: %2"
 msgstr "ജോയിസ്റ്റിക്ക്  %1: %2 ഉപകരണത്തിന്റെ ക്രമീകരണവിലകള്‍ കണ്ടെത്താന്‍ സാധിച്ചില്ല."
 
-#: joydevice.cpp:123
+#: joydevice.cpp:122
 #, kde-format
 msgid "Could not apply calibration values for joystick device %1: %2"
 msgstr "ജോയിസ്റ്റിക്ക്  %1: %2 ഉപകരണത്തിന്റെ ക്രമീകരണവിലകള്‍  നല്‍കാന്‍ സാധിച്ചില്ല."
 
-#: joydevice.cpp:127
+#: joydevice.cpp:126
 #, kde-format
 msgid "internal error - code %1 unknown"
 msgstr "ആന്തരിക തകരാറു് %1 അറിയില്ല"
@@ -203,53 +203,53 @@ msgstr ""
 "<h1>ജോയ്സ്റ്റിക്ക്</h1> ഈ വിഭാഗം നിങ്ങളുടെ ജോയ്സ്റ്റിക്ക് ഉപകരണം പ്രവര്‍ത്തനക്ഷമമാണോയെന്നു "
 "പരിശോധിക്കും.<br />"
 
-#: joywidget.cpp:49
+#: joywidget.cpp:48
 #, kde-format
 msgid "PRESSED"
 msgstr "അമര്‍ത്തി "
 
-#: joywidget.cpp:84
+#: joywidget.cpp:83
 #, kde-format
 msgid "Device:"
 msgstr "ഉപകരണം:"
 
-#: joywidget.cpp:103
+#: joywidget.cpp:102
 #, kde-format
 msgctxt "Cue for deflection of the stick"
 msgid "Position:"
 msgstr "സ്ഥാനം:"
 
-#: joywidget.cpp:106
+#: joywidget.cpp:105
 #, kde-format
 msgid "Show trace"
 msgstr "അടയാളം കാണിക്കുക"
 
-#: joywidget.cpp:119
+#: joywidget.cpp:118
 #, kde-format
 msgid "Buttons:"
 msgstr "ബട്ടണുകള്‍:"
 
-#: joywidget.cpp:123
+#: joywidget.cpp:122
 #, kde-format
 msgid "State"
 msgstr "അവസ്ഥ"
 
-#: joywidget.cpp:131
+#: joywidget.cpp:130
 #, kde-format
 msgid "Axes:"
 msgstr "അച്ചുതണ്ടുകള്‍:"
 
-#: joywidget.cpp:135
+#: joywidget.cpp:134
 #, kde-format
 msgid "Value"
 msgstr "മൂല്യം"
 
-#: joywidget.cpp:148
+#: joywidget.cpp:147
 #, kde-format
 msgid "Calibrate"
 msgstr "ക്രമീകരണം"
 
-#: joywidget.cpp:220
+#: joywidget.cpp:219
 #, kde-format
 msgid ""
 "No joystick device automatically found on this computer.<br />Checks were "
@@ -260,7 +260,7 @@ msgstr ""
 "dev/input/js[0-4] ലും പരിശോധന നടത്തി.<br /> താങ്കള്‍ക്കു് ഉപകരണം "
 "ഘടിപ്പിച്ചിട്ടു്ടെന്നുറപ്പാണെങ്കി, ദയവായി ശരിയായ ഉപകരണ ഫയല്‍ നല്‍കുക."
 
-#: joywidget.cpp:265
+#: joywidget.cpp:264
 #, kde-format
 msgid ""
 "The given device name is invalid (does not contain /dev).\n"
@@ -271,27 +271,27 @@ msgstr ""
 " ശരിയായ പേര് പട്ടികയില്‍ നിന്നു തിരഞ്ഞെടുക്കുകയോ\n"
 "ഉപകരണഫയല്‍ നല്‍കുകയോ ചെയ്യുക. (/dev/js0)"
 
-#: joywidget.cpp:267
+#: joywidget.cpp:266
 #, kde-format
 msgid "Unknown Device"
 msgstr "അറിയാത്ത ഉപകരണം"
 
-#: joywidget.cpp:285
+#: joywidget.cpp:284
 #, kde-format
 msgid "Device Error"
 msgstr "ഉപകരണ തകരാര്‍"
 
-#: joywidget.cpp:306
+#: joywidget.cpp:305
 #, kde-format
 msgid "1(x)"
 msgstr "1(x)"
 
-#: joywidget.cpp:307
+#: joywidget.cpp:306
 #, kde-format
 msgid "2(y)"
 msgstr "2(y)"
 
-#: joywidget.cpp:376
+#: joywidget.cpp:375
 #, kde-format
 msgid ""
 "<qt>Calibration is about to check the precision.<br /><br /><b>Please move "
@@ -302,7 +302,7 @@ msgstr ""
 "അച്ചുതണ്ടുകളും മധ്യത്തിലേക്കു നീക്കുക.</b><br /><br /> ക്രമീകരണത്തിനായി 'ശരി' അമര്‍ത്തുക. </"
 "qt>"
 
-#: joywidget.cpp:411
+#: joywidget.cpp:410
 #, kde-format
 msgid "Restored all calibration values for joystick device %1."
 msgstr ""

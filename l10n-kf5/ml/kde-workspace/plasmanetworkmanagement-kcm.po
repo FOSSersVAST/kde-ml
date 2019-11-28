@@ -18,28 +18,28 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: kcm.cpp:335
+#: kcm.cpp:330
 #, kde-format
 msgid "my_shared_connection"
 msgstr ""
 
-#: kcm.cpp:397
+#: kcm.cpp:392
 #, kde-format
 msgid "Export VPN Connection"
 msgstr ""
 
-#: kcm.cpp:417
+#: kcm.cpp:412
 #, kde-format
 msgid "Do you want to save changes made to the connection '%1'?"
 msgstr ""
 
-#: kcm.cpp:417
+#: kcm.cpp:412
 #, kde-format
 msgctxt "@title:window"
 msgid "Save Changes"
 msgstr ""
 
-#: kcm.cpp:506
+#: kcm.cpp:501
 #, kde-format
 msgid "Import VPN Connection"
 msgstr ""
@@ -81,7 +81,7 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: qml/main.qml:69
+#: qml/main.qml:68
 msgid "Search..."
 msgstr ""
 

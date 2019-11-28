@@ -15,6 +15,7 @@ msgstr ""
 
 #: discover/org.kde.discover.desktop.cmake:2
 #: libdiscover/backends/FlatpakBackend/org.kde.discover-flatpak.desktop:2
+#: notifier/org.kde.discover.notifier.desktop.cmake:2
 msgctxt "Name"
 msgid "Discover"
 msgstr "കണ്ടെത്തുക"
@@ -65,7 +66,6 @@ msgctxt "Comment"
 msgid "Updates Available"
 msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ്"
 
-#: notifier/plasmoid/metadata.desktop:44
-msgctxt "Comment"
-msgid "Helps you keep your system up to date"
-msgstr "നിങ്ങളുടെ സിസ്റ്റം കാലികമായി നിലനിർത്താൻ സഹായിക്കുന്നു"
+#~ msgctxt "Comment"
+#~ msgid "Helps you keep your system up to date"
+#~ msgstr "നിങ്ങളുടെ സിസ്റ്റം കാലികമായി നിലനിർത്താൻ സഹായിക്കുന്നു"

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"POT-Creation-Date: 2019-09-30 01:23+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -27,7 +27,7 @@ msgctxt "Name"
 msgid "Wallet Server"
 msgstr "വാലറ്റ് സര്‍വര്‍"
 
-#: src/runtime/kwalletd/kwalletd5.desktop:88
+#: src/runtime/kwalletd/kwalletd5.desktop:89
 msgctxt "Comment"
 msgid "Wallet Server"
 msgstr "വാലറ്റ് സര്‍വര്‍"
@@ -42,22 +42,22 @@ msgctxt "Name"
 msgid "kwalletd"
 msgstr "കെവാലറ്റ്ഡി"
 
-#: src/runtime/kwalletd/kwalletd.notifyrc:146
+#: src/runtime/kwalletd/kwalletd.notifyrc:147
 msgctxt "Name"
 msgid "Needs password"
 msgstr "അടയാളവാക്ക് വേണം"
 
-#: src/runtime/kwalletd/kwalletd.notifyrc:218
+#: src/runtime/kwalletd/kwalletd.notifyrc:220
 msgctxt "Comment"
 msgid "The KDE Wallet Daemon requests a password"
 msgstr "കെഡിയിലെ വാലറ്റ് നിരന്തരപ്രവൃത്തി ഒരു അടയാളവാക്കു് ചോദിയ്ക്കുന്നു"
 
-#: src/runtime/kwalletd/kwalletd.notifyrc:293
+#: src/runtime/kwalletd/kwalletd.notifyrc:296
 msgctxt "Name"
 msgid "Sync Failed"
 msgstr ""
 
-#: src/runtime/kwalletd/kwalletd.notifyrc:340
+#: src/runtime/kwalletd/kwalletd.notifyrc:345
 msgctxt "Comment"
 msgid "KDE Wallet System failed to sync a wallet file to disk"
 msgstr ""

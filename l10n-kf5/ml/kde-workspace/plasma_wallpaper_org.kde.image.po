@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"POT-Creation-Date: 2019-08-29 03:11+0200\n"
 "PO-Revision-Date: 2008-11-14 00:28+0730\n"
 "Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -17,138 +17,168 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Country: INDIA\n"
 
-#: image.cpp:224
+#: image.cpp:251
 #, kde-format
 msgid "Recommended wallpaper file"
 msgstr ""
 
-#: image.cpp:358
+#: image.cpp:379
 #, kde-format
 msgid "Directory with the wallpaper to show slides from"
 msgstr ""
 
-#: image.cpp:644
+#: image.cpp:652
 #, fuzzy, kde-format
 msgid "Download Wallpapers"
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ഡൌണ്‍ലോഡ് ചെയ്യുക"
 
-#: image.cpp:698
+#: image.cpp:697
 #, fuzzy, kde-format
 msgid "Open Image"
 msgstr "പശ്ചാത്തലചിത്രത്തിനുള്ള ഫയല്‍ തെരഞ്ഞെടുക്കുക"
 
-#: image.cpp:700
+#: image.cpp:699
 #, fuzzy, kde-format
 msgid "Image Files"
 msgstr "ചിത്രങ്ങള്‍"
 
-#: imagepackage/contents/ui/config.qml:80
+#: imagepackage/contents/ui/config.qml:87
 #, fuzzy, kde-format
 msgid "Positioning:"
 msgstr "&സ്ഥാപനം:"
 
-#: imagepackage/contents/ui/config.qml:83
+#: imagepackage/contents/ui/config.qml:90
 #, fuzzy, kde-format
 msgid "Scaled and Cropped"
 msgstr "വലിപ്പം മാറ്റിയതും അറ്റം വെട്ടിചുരുക്കിയതും"
 
-#: imagepackage/contents/ui/config.qml:87
+#: imagepackage/contents/ui/config.qml:94
 #, kde-format
 msgid "Scaled"
 msgstr "വലിപ്പം മാറ്റിയത്"
 
-#: imagepackage/contents/ui/config.qml:91
+#: imagepackage/contents/ui/config.qml:98
 #, fuzzy, kde-format
 msgid "Scaled, Keep Proportions"
 msgstr "ചിത്രത്തിന്റെ അനുപാതം മാറ്റാതെ വലിപ്പം മാറ്റിയത്"
 
-#: imagepackage/contents/ui/config.qml:95
+#: imagepackage/contents/ui/config.qml:102
 #, kde-format
 msgid "Centered"
 msgstr "നടുവിലായിട്ട്"
 
-#: imagepackage/contents/ui/config.qml:99
+#: imagepackage/contents/ui/config.qml:106
 #, kde-format
 msgid "Tiled"
 msgstr "അടുത്തടുത്തു് വച്ചു്"
 
-#: imagepackage/contents/ui/config.qml:124
+#: imagepackage/contents/ui/config.qml:129
 #, kde-format
-msgid "Background:"
+msgid "Order:"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:125
+#: imagepackage/contents/ui/config.qml:132
 #, kde-format
-msgid "Blur"
+msgid "Random"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:134
+#: imagepackage/contents/ui/config.qml:136
 #, kde-format
-msgid "Solid color"
+msgid "A to Z"
 msgstr ""
 
 #: imagepackage/contents/ui/config.qml:140
 #, kde-format
+msgid "Z to A"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:144
+#, kde-format
+msgid "Date modified (newest first)"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:148
+#, kde-format
+msgid "Date modified (oldest first)"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:171
+#, kde-format
+msgid "Background:"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:172
+#, kde-format
+msgid "Blur"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:181
+#, kde-format
+msgid "Solid color"
+msgstr ""
+
+#: imagepackage/contents/ui/config.qml:187
+#, kde-format
 msgid "Select Background Color"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:158
+#: imagepackage/contents/ui/config.qml:205
 #, fuzzy, kde-format
 msgid "Change every:"
 msgstr "&ചിത്രങ്ങള്‍ മാറ്റേണ്ടതെത്ര സമയത്തിനുള്ളില്‍:"
 
-#: imagepackage/contents/ui/config.qml:168
+#: imagepackage/contents/ui/config.qml:215
 #, kde-format
 msgid "Hours"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:179
+#: imagepackage/contents/ui/config.qml:226
 #, kde-format
 msgid "Minutes"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:190
+#: imagepackage/contents/ui/config.qml:237
 #, kde-format
 msgid "Seconds"
 msgstr ""
 
-#: imagepackage/contents/ui/config.qml:195
+#: imagepackage/contents/ui/config.qml:242
 #, fuzzy, kde-format
 msgid "Folders"
 msgstr "അറകള്‍ &നീക്കം ചെയ്യുക"
 
-#: imagepackage/contents/ui/config.qml:217
+#: imagepackage/contents/ui/config.qml:264
 #, fuzzy, kde-format
 msgid "Remove Folder"
 msgstr "അറകള്‍ &നീക്കം ചെയ്യുക"
 
-#: imagepackage/contents/ui/config.qml:222
+#: imagepackage/contents/ui/config.qml:269
 #, fuzzy, kde-format
 msgid "Open Folder"
 msgstr "അറകള്‍ &നീക്കം ചെയ്യുക"
 
-#: imagepackage/contents/ui/config.qml:248
+#: imagepackage/contents/ui/config.qml:295
 #, fuzzy, kde-format
 msgid "Add Folder..."
 msgstr "അറകള്‍ &ചേര്‍ക്കുക..."
 
-#: imagepackage/contents/ui/config.qml:254
-#: imagepackage/contents/ui/config.qml:319
+#: imagepackage/contents/ui/config.qml:301
+#: imagepackage/contents/ui/config.qml:369
 #, kde-format
 msgid "Get New Wallpapers..."
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
 
-#: imagepackage/contents/ui/config.qml:314
+#: imagepackage/contents/ui/config.qml:364
 #, kde-format
 msgid "Add Image..."
 msgstr ""
 
-#: imagepackage/contents/ui/main.qml:59
+#: imagepackage/contents/ui/main.qml:63
 #, fuzzy, kde-format
 msgid "Open Wallpaper Image"
 msgstr "പശ്ചാത്തലചിത്രത്തിനുള്ള ഫയല്‍ തെരഞ്ഞെടുക്കുക"
 
-#: imagepackage/contents/ui/main.qml:60
+#: imagepackage/contents/ui/main.qml:64
 #, fuzzy, kde-format
 msgid "Next Wallpaper Image"
 msgstr "പശ്ചാത്തലചിത്രത്തിനുള്ള ഫയല്‍ തെരഞ്ഞെടുക്കുക"

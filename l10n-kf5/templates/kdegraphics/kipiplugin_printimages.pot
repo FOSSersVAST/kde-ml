@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kipi-plugins\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:07+0200\n"
+"POT-Creation-Date: 2019-11-28 03:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -83,7 +83,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, BtnCropRotateLeft)
 #: ui/croppage.ui:48
 #, kde-format
-msgid "&Rotate left"
+msgid "Rotate &left"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, BtnCropRotateRight)
@@ -96,7 +96,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, BtnCropRotateRight)
 #: ui/croppage.ui:61
 #, kde-format
-msgid "&Rotate right"
+msgid "Rotate &right"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, BtnCropPrev)

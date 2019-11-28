@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-23 02:42+0200\n"
+"POT-Creation-Date: 2019-09-18 02:51+0200\n"
 "PO-Revision-Date: 2010-04-26 21:32+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -2435,68 +2435,68 @@ msgstr "സ്ഥലം ലഭ്യമാണു്"
 msgid "Turn area off"
 msgstr "സ്ഥലം ലഭ്യമല്ല"
 
-#: kdecore/k3resolver.cpp:535 kdecore/netsupp.cpp:868
+#: kdecore/k3resolver.cpp:534 kdecore/netsupp.cpp:868
 #, kde-format
 msgid "no error"
 msgstr "പിശകില്ല"
 
-#: kdecore/k3resolver.cpp:536
+#: kdecore/k3resolver.cpp:535
 #, kde-format
 msgid "requested family not supported for this host name"
 msgstr "ഈ ഹോസ്റ്റു നാമത്തിനായി അപേക്ഷിച്ച കുടുംബം പിന്തുണയ്ക്കുന്നതല്ല"
 
-#: kdecore/k3resolver.cpp:537 kdecore/netsupp.cpp:870
+#: kdecore/k3resolver.cpp:536 kdecore/netsupp.cpp:870
 #, kde-format
 msgid "temporary failure in name resolution"
 msgstr "പേര് മനസ്സിലാക്കുന്നതില്‍ താല്‍ക്കാലിക പരാജയം"
 
-#: kdecore/k3resolver.cpp:538 kdecore/netsupp.cpp:872
+#: kdecore/k3resolver.cpp:537 kdecore/netsupp.cpp:872
 #, kde-format
 msgid "non-recoverable failure in name resolution"
 msgstr "പേരു് കണ്ടുപിടിയ്ക്കുന്നതില്‍ ശരിയാക്കാന്‍ പറ്റാത്ത പരാജയം"
 
-#: kdecore/k3resolver.cpp:539
+#: kdecore/k3resolver.cpp:538
 #, kde-format
 msgid "invalid flags"
 msgstr "അസാധുവായ ഫ്ലാഗുകള്‍"
 
-#: kdecore/k3resolver.cpp:540 kdecore/netsupp.cpp:874
+#: kdecore/k3resolver.cpp:539 kdecore/netsupp.cpp:874
 #, kde-format
 msgid "memory allocation failure"
 msgstr "GIF %s വായിക്കുന്നതില്‌ പരാജയം"
 
-#: kdecore/k3resolver.cpp:541 kdecore/netsupp.cpp:876
+#: kdecore/k3resolver.cpp:540 kdecore/netsupp.cpp:876
 #, kde-format
 msgid "name or service not known"
 msgstr "പേരു് അല്ലെങ്കില്‍ സേവനം അപരിചിതമാണു്"
 
-#: kdecore/k3resolver.cpp:542
+#: kdecore/k3resolver.cpp:541
 #, kde-format
 msgid "requested family not supported"
 msgstr "ആവശ്യപ്പെട്ട കുടുംബത്തിന് പിന്തുണ ലഭ്യമല്ല."
 
-#: kdecore/k3resolver.cpp:543
+#: kdecore/k3resolver.cpp:542
 #, kde-format
 msgid "requested service not supported for this socket type"
 msgstr "ഈ സോക്കറ്റ് തരത്തിനായി അപേക്ഷിച്ച സേവനം പിന്തുണയ്ക്കുന്നതല്ല"
 
-#: kdecore/k3resolver.cpp:544
+#: kdecore/k3resolver.cpp:543
 #, kde-format
 msgid "requested socket type not supported"
 msgstr "ആവശ്യപ്പെട്ട സോക്കറ്റ് തരത്തിന് പിന്തുണ ലഭ്യമല്ല."
 
-#: kdecore/k3resolver.cpp:545
+#: kdecore/k3resolver.cpp:544
 #, kde-format
 msgid "unknown error"
 msgstr "അപരിചിതമായ പിശകു്"
 
-#: kdecore/k3resolver.cpp:547
+#: kdecore/k3resolver.cpp:546
 #, kde-format
 msgctxt "1: the i18n'ed system error code, from errno"
 msgid "system error: %1"
 msgstr "സിസ്റ്റം പിശകു്: %1"
 
-#: kdecore/k3resolver.cpp:558
+#: kdecore/k3resolver.cpp:557
 #, kde-format
 msgid "request was canceled"
 msgstr "ആവശ്യം റദ്ദാക്കിയിരിക്കുന്നു"
@@ -12243,15 +12243,15 @@ msgstr ""
 msgid "All Supported Files"
 msgstr ""
 
-#: kio/kfiledialog.cpp:455 kio/kfiledialog.cpp:465 kio/kfiledialog.cpp:490
-#: kio/kfiledialog.cpp:514 kio/kfiledialog.cpp:524 kio/kfiledialog.cpp:552
-#: kio/kfiledialog.cpp:590 kio/kfiledialog.cpp:642
+#: kio/kfiledialog.cpp:455 kio/kfiledialog.cpp:465 kio/kfiledialog.cpp:491
+#: kio/kfiledialog.cpp:515 kio/kfiledialog.cpp:525 kio/kfiledialog.cpp:553
+#: kio/kfiledialog.cpp:591 kio/kfiledialog.cpp:643
 #, kde-format
 msgid "Open"
 msgstr "തുറക്കുക"
 
-#: kio/kfiledialog.cpp:733 kio/kfiledialog.cpp:753 kio/kfiledialog.cpp:792
-#: kio/kfiledialog.cpp:836
+#: kio/kfiledialog.cpp:734 kio/kfiledialog.cpp:754 kio/kfiledialog.cpp:794
+#: kio/kfiledialog.cpp:838
 #, kde-format
 msgid "Save As"
 msgstr "പേരു് മാറ്റി സൂക്ഷിക്കുക"

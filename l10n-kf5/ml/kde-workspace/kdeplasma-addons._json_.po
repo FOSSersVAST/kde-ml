@@ -38,6 +38,11 @@ msgctxt "Name"
 msgid "Weather Satellite (NOAA)"
 msgstr ""
 
+#: dataengines/potd/unsplashprovider.json
+msgctxt "Name"
+msgid "Unsplash Wallpapers"
+msgstr ""
+
 #: dataengines/potd/apodprovider.json
 msgctxt "Name"
 msgid "Astronomy (NASA)"

@@ -161,12 +161,6 @@ msgctxt "Name"
 msgid "Startup and Shutdown"
 msgstr "സ്റ്റാർട്ടപ്പും ഷട്ട്ഡൗണും"
 
-#: categories/old/settings-system-administration.desktop:9
-#, fuzzy
-msgctxt "Name"
-msgid "System Administration"
-msgstr "സാം സിസ്റ്റം-അഡ്മിനിസ്ട്രേറ്റഷന്‍"
-
 #: categories/old/settings-window-behaviour.desktop:8
 msgctxt "Name"
 msgid "Window Behavior"
@@ -178,6 +172,7 @@ msgid "Workspace Appearance and Behavior"
 msgstr "വർക്ക്‌സ്‌പെയ്‌സ് രൂപവും പെരുമാറ്റവും"
 
 #: categories/old/settings-workspace-behavior.desktop:8
+#: categories/settings-workspace-desktopbehavior.desktop:9
 msgctxt "Name"
 msgid "Workspace Behavior"
 msgstr "വർക്ക്സ്പേസിന്റെ പെരുമാറ്റം"
@@ -206,12 +201,6 @@ msgstr "Fonts"
 msgctxt "Name"
 msgid "Icons"
 msgstr "ഐക്കണുകൾ"
-
-#: categories/settings-appearance-workspacetheme.desktop:9
-#, fuzzy
-msgctxt "Name"
-msgid "Workspace Theme"
-msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #: categories/settings-hardware-peripherals.desktop:9
 msgctxt "Name"
@@ -263,14 +252,14 @@ msgctxt "Name"
 msgid "Regional Settings"
 msgstr "പ്രാദേശിക സജ്ജീകരണങ്ങൾ"
 
-#: categories/settings-workspace.desktop:9
+#: categories/settings-system-administration.desktop:9
 msgctxt "Name"
 msgid "System Administration"
 msgstr "System Administration"
 
-#: categories/settings-workspace-desktopbehavior.desktop:9
+#: categories/settings-workspace.desktop:9
 msgctxt "Name"
-msgid "Desktop Behavior"
+msgid "Workspace"
 msgstr "വർക്ക്‌സ്‌പെയ്‌സ്"
 
 #: categories/settings-workspace-search.desktop:9
@@ -292,24 +281,6 @@ msgstr "വിൻഡോ നടത്തിപ്പ്"
 msgctxt "Name"
 msgid "System Settings Category"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങളുടെ വിഭാഗം"
-
-#: classic/settings-classic-view.desktop:7 icons/settings-icon-view.desktop:7
-#: sidebar/settings-sidebar-view.desktop:7
-#, fuzzy
-msgctxt "X-KDE-Keywords"
-msgid "System Settings"
-msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
-
-#: classic/settings-classic-view.desktop:64
-#, fuzzy
-msgctxt "Name"
-msgid "Tree View"
-msgstr "ക്ലാസിക് വൃക്ഷ കാഴ്ച"
-
-#: classic/settings-classic-view.desktop:100
-msgctxt "Comment"
-msgid "A Classic KDE 3 KControl style system settings view."
-msgstr "കെഡിഈ 3ലെ കെ നിയന്ത്രണരീതിയിലുള്ള വ്യവസ്ഥ ഒരുക്കുന്നതിന്റെ ക്ലാസിക് കാഴ്ച"
 
 #: core/systemsettingsexternalapp.desktop:4
 msgctxt "Name"

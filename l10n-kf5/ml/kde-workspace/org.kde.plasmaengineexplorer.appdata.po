@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.plasmaengineexplorer.appdata\n"
-"POT-Creation-Date: 2018-03-02 03:34+0100\n"
+"POT-Creation-Date: 2019-06-06 03:20+0200\n"
 "PO-Revision-Date: 2018-03-02 03:34+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -13,17 +13,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. (itstool) path: component/name
-#: org.kde.plasmaengineexplorer.appdata.xml:6
+#: org.kde.plasmaengineexplorer.appdata.xml:7
 msgid "Plasma Engine Explorer"
 msgstr ""
 
 #. (itstool) path: component/summary
-#: org.kde.plasmaengineexplorer.appdata.xml:7
-msgid "Explorer for the data published by Plasma DataEngines"
+#: org.kde.plasmaengineexplorer.appdata.xml:8
+msgid "Explorer for the data published by Plasma Data Engines"
 msgstr ""
 
 #. (itstool) path: description/p
-#: org.kde.plasmaengineexplorer.appdata.xml:9
+#: org.kde.plasmaengineexplorer.appdata.xml:10
 msgid ""
 "Plasma Engine Explorer is a graphical tool allowing developers to test "
 "Plasma DataEngines without writing a Plasma applet."

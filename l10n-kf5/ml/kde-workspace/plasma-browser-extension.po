@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-browser-extension\n"
-"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-04-28 03:34:56.485738\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-10-17 03:24:00.785906\n"
 "PO-Revision-Date: 2018-11-20 03:32:16.678136\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -13,25 +13,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: general_error_port_disconnect:0
-msgctxt ""
-"When the binary bridge between browser and Plasma quit (usually it crashed "
-"or was otherwise killed), placeholder is the reason"
-msgid "The native host disconnected unexpectedly: $1"
+#: browseraction_mpris_enable_on:0
+msgctxt "Heading for list of domains to enable media controls on"
+msgid "Enable media controls on:"
 msgstr ""
 
-#: general_error_port_startupfail:0
+#: browseraction_mpris_title:0
+msgctxt "Title for Media controls in popup"
+msgid "Media Controls"
+msgstr ""
+
+#: browseraction_title:0
+msgctxt "Title for toolbar popup"
+msgid "Plasma Browser Integration"
+msgstr ""
+
+#: general_error_host_disconnected_title:0
 msgctxt ""
-"When the binary bridge between browser and Plasma failed to start (e.g. not "
-"installed)"
+"Title for plasma-browser-integration-host binary unexpectedly closing/"
+"crashing"
+msgid "The native host disconnected unexpectedly."
+msgstr ""
+
+#: general_error_not_supported_os:0
+msgid "This extension is only supported on Linux and FreeBSD."
+msgstr ""
+
+#: general_error_not_supported_os_title:0
+msgid "Unsupported operating system"
+msgstr ""
+
+#: general_error_startup_failed:0
+msgctxt ""
+"Description for failure to start plasma-browser-integration-host binary"
 msgid ""
-"Failed to connect to the native host. Make sure the 'plasma-browser-"
-"integration' package is installed."
+"Make sure the 'plasma-browser-integration' package is installed correctly "
+"and that you are running Plasma 5.13 or later."
 msgstr ""
 
-#: general_error_title:0
-msgctxt "Title message for most error notifications"
-msgid "Plasma Browser Integration Error"
+#: general_error_startup_failed_title:0
+msgctxt "Title for failure to start plasma-browser-integration-host binary"
+msgid "Failed to connect to the native host."
+msgstr ""
+
+#: general_error_startup_failed_wiki_link:0
+msgid "Visit project wiki page for more information"
 msgstr ""
 
 #: general_error_unknown:0
@@ -72,6 +98,16 @@ msgstr ""
 msgid ""
 "If you like what you saw, please consider <a href=\"$1\">donating to KDE</"
 "a>, so we can continue to make the best free software possible."
+msgstr ""
+
+#: options_about_extension_version:0
+msgctxt "Version of browser extension"
+msgid "Extension version: $1"
+msgstr ""
+
+#: options_about_host_version:0
+msgctxt "Version of extension native host"
+msgid "Host version: $1"
 msgstr ""
 
 #: options_about_kde:0
@@ -117,6 +153,17 @@ msgctxt "Title for Breeze style scroll bars plugin"
 msgid "Use Breeze-style scroll bars"
 msgstr ""
 
+#: options_plugin_downloads_saveOriginUrl:0
+msgctxt "Option for saving download source URL in file metadata"
+msgid "Save URL a file was downloaded from in the file's attributes"
+msgstr ""
+
+#: options_plugin_downloads_saveOriginUrl_description:0
+msgid ""
+"Note: The URL may contain sensitive information that could be disclosed when "
+"the file is accessible by or shared with others"
+msgstr ""
+
 #: options_plugin_downloads_title:0
 msgctxt "Title for Downloads plugin"
 msgid "Show downloads in notification area"
@@ -143,8 +190,7 @@ msgstr ""
 
 #: options_plugin_mpris_media_sessions_description:0
 msgctxt "Description for MediaSessions API Control plugin"
-msgid ""
-"Extract metadata and thumbnails of currently playing content. (Experimental)"
+msgid "Extract metadata and thumbnails of currently playing content."
 msgstr ""
 
 #: options_plugin_mpris_media_sessions_title:0
@@ -155,6 +201,18 @@ msgstr ""
 #: options_plugin_mpris_title:0
 msgctxt "Title for Media Controls plugin"
 msgid "Media Controls"
+msgstr ""
+
+#: options_plugin_purpose_description:0
+msgctxt "Description for Purpose / Web Share plugin"
+msgid ""
+"Adds a \"Share...\" context menu entry and allows websites to open a dialog "
+"for sharing contents using the Web Share API."
+msgstr ""
+
+#: options_plugin_purpose_title:0
+msgctxt "Title for Purpose / Web Share plugin"
+msgid "Content Sharing"
 msgstr ""
 
 #: options_plugin_tabsrunner_description:0
@@ -190,6 +248,31 @@ msgstr ""
 #: options_title:0
 msgctxt "Title for settings page"
 msgid "Plasma Integration Settings"
+msgstr ""
+
+#: purpose_share:0
+msgctxt "Context menu, share link or page via Purpose framework"
+msgid "Share..."
+msgstr ""
+
+#: purpose_share_failed_text:0
+msgctxt "Text of share failed notification"
+msgid "Could not share this content: $1"
+msgstr ""
+
+#: purpose_share_failed_title:0
+msgctxt "Title of share failed notification"
+msgid "Sharing Failed"
+msgstr ""
+
+#: purpose_share_finished_text:0
+msgctxt "Text of the share finished notification"
+msgid "The shared content link ($1) has been copied to the clipboard."
+msgstr ""
+
+#: purpose_share_finished_title:0
+msgctxt "Title of share finished notification"
+msgid "Content Shared"
 msgstr ""
 
 #: store_description:0

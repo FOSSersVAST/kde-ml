@@ -59,19 +59,25 @@ msgid ""
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:139
+#: kcmoduleloader.cpp:106
+#, fuzzy, kde-format
+#| msgid "Error loading '%1'.\n"
+msgid "Error loading QML file."
+msgstr "'%1' ലഭ്യമാക്കുന്നതില്‍ പിശകു്.\n"
+
+#: kcmoduleloader.cpp:143
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "ഘടകം %1 ശരിയായ ഒരു ക്രമീകരണ ഘടകമല്ല."
 
-#: kcmoduleloader.cpp:140
+#: kcmoduleloader.cpp:144
 #, kde-format
 msgid ""
 "<qt>The diagnosis is:<br />The desktop file %1 does not specify a library.</"
 "qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:155
+#: kcmoduleloader.cpp:159
 #, kde-format
 msgid ""
 "<qt><p>Possible reasons:<ul><li>An error occurred during your last system "
@@ -87,7 +93,7 @@ msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "ക്രമീകരണഭാഗം നിലവില്‍ %1-ല്‍ തുറന്നിരിക്കുന്നു."
 
-#: kcmultidialog.cpp:62
+#: kcmultidialog.cpp:63
 #, kde-format
 msgid ""
 "The settings of the current module have changed.\n"
@@ -96,7 +102,7 @@ msgstr ""
 "ഇപ്പോഴുള്ള രേഖയുടെ സജ്ജീകരണങ്ങളില്‍ മാറ്റങ്ങള്‍ വരുത്തിയിരിക്കുന്നു.\n"
 "നിങ്ങള്‍ക്കവ സൂക്ഷിക്കണമോ വേണ്ടന്നു് വയ്ക്കണമോ?"
 
-#: kcmultidialog.cpp:64
+#: kcmultidialog.cpp:65
 #, kde-format
 msgid "Apply Settings"
 msgstr "സജ്ജീകരണങ്ങള്‍ പ്രാഭല്യത്തിലാക്കുക"
@@ -469,7 +475,7 @@ msgstr[1] "പ്ലഗിന്‍ ആശ്രയത്വം മൂലം %1 
 msgid "Search..."
 msgstr "തെരയുക"
 
-#: kpluginselector.cpp:715
+#: kpluginselector.cpp:718
 #, fuzzy, kde-format
 msgid "About"
 msgstr "&സംബന്ധിച്ചു്"
@@ -7252,9 +7258,6 @@ msgstr "ഘടകം സജ്ജമാക്കുക"
 
 #~ msgid "Unknown protocol '%1'.\n"
 #~ msgstr "അപരിചിതമായ സമ്പ്രദായം '%1'.\n"
-
-#~ msgid "Error loading '%1'.\n"
-#~ msgstr "'%1' ലഭ്യമാക്കുന്നതില്‍ പിശകു്.\n"
 
 #~ msgid "Evaluation error"
 #~ msgstr "മൂല്യനിര്‍ണ്ണയത്തില്‍ തെറ്റ്"

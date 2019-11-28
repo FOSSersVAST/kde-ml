@@ -31,13 +31,6 @@ msgstr "peter.ani@gmail.com"
 
 #: kcmstyle.cpp:89
 #, kde-format
-msgid ""
-"This module allows you to modify the visual appearance of applications' user "
-"interface elements."
-msgstr ""
-
-#: kcmstyle.cpp:183
-#, kde-format
 msgid "Application Style"
 msgstr ""
 
@@ -59,8 +52,8 @@ msgstr "ഡാനിയല്‍ മോല്‍ക്കെന്‍ടിന�
 
 #: kcmstyle.cpp:95
 #, kde-format
-msgid "Preview"
-msgstr "കണ്ടുനോക്കുക"
+msgid "Kai Uwe Broulik"
+msgstr ""
 
 #: kcmstyle.cpp:172 kcmstyle.cpp:179
 #, kde-format
@@ -69,127 +62,76 @@ msgstr "ഈ രിതിയ്ക്കുള്ള ക്രമീകരണ ഡ
 
 #: kcmstyle.cpp:255
 #, kde-format
-msgid "Unable to Load Dialog"
-msgstr "ഡയലോഗ് ലഭ്യമാക്കുവാന്‍ സാധ്യമല്ല"
-
-#: kcmstyle.cpp:488
-#, kde-format
-msgid "No description available."
-msgstr "വിവരണം ലഭ്യമല്ല."
-
-#: kcmstyle.cpp:695
-#, kde-format
-msgid ""
-"This area shows a preview of the currently selected style without having to "
-"apply it to the whole desktop."
+msgid "Failed to apply selected style '%1'."
 msgstr ""
 
-#: kcmstyle.cpp:697
-#, kde-format
-msgid ""
-"Here you can choose from a list of predefined widget styles (e.g. the way "
-"buttons are drawn) which may or may not be combined with a theme (additional "
-"information like a marble texture or a gradient)."
-msgstr ""
-
-#: kcmstyle.cpp:701
-#, kde-format
-msgid ""
-"If you enable this option, applications will show small icons alongside some "
-"important buttons."
-msgstr ""
-
-#: kcmstyle.cpp:703
-#, kde-format
-msgid ""
-"If you enable this option, applications will show small icons alongside most "
-"menu items."
-msgstr ""
-
-#: kcmstyle.cpp:705
-#, kde-format
-msgid ""
-"<p><b>No text:</b> Shows only icons on toolbar buttons. Best option for low "
-"resolutions.</p><p><b>Text only: </b>Shows only text on toolbar buttons.</"
-"p><p><b>Text beside icons: </b> Shows icons and text on toolbar buttons. "
-"Text is aligned beside the icon.</p><b>Text below icons: </b> Shows icons "
-"and text on toolbar buttons. Text is aligned below the icon."
-msgstr ""
-
-#: styleconfdialog.cpp:29
-#, kde-format
-msgid "Configure %1"
-msgstr "%1 ക്രമീകരിക്കുക"
-
-#. i18n: ectx: property (text), widget (QLabel, labelApplicationStyle)
-#: styleconfig.ui:20
-#, kde-format
-msgid "Application style:"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QPushButton, pbConfigStyle)
-#: styleconfig.ui:45
-#, kde-format
-msgid "Configure Application Style..."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, labelShowIcons)
-#: styleconfig.ui:61
+#: package/contents/ui/EffectSettingsPopup.qml:43
 #, fuzzy, kde-format
 msgid "Show icons:"
 msgstr "ബട്ടണുകളില്‍ ചിത്രം കാ&ണിക്കുക"
 
-#. i18n: ectx: property (text), widget (QLabel, labelToolbarIcons)
-#: styleconfig.ui:68
-#, kde-format
-msgid "Main toolbar label:"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (QComboBox, comboToolbarIcons)
-#. i18n: ectx: property (text), item, widget (QComboBox, comboSecondaryToolbarIcons)
-#: styleconfig.ui:79 styleconfig.ui:113
-#, kde-format
-msgid "None"
-msgstr ""
-
-#. i18n: ectx: property (text), item, widget (QComboBox, comboToolbarIcons)
-#. i18n: ectx: property (text), item, widget (QComboBox, comboSecondaryToolbarIcons)
-#: styleconfig.ui:84 styleconfig.ui:118
-#, fuzzy, kde-format
-msgid "Text only"
-msgstr "വാചകം മാത്രം"
-
-#. i18n: ectx: property (text), item, widget (QComboBox, comboToolbarIcons)
-#. i18n: ectx: property (text), item, widget (QComboBox, comboSecondaryToolbarIcons)
-#: styleconfig.ui:89 styleconfig.ui:123
-#, fuzzy, kde-format
-msgid "Beside icons"
-msgstr "വാചകത്തിനൊപ്പമുള്ള ചിത്രങ്ങള്‍"
-
-#. i18n: ectx: property (text), item, widget (QComboBox, comboToolbarIcons)
-#. i18n: ectx: property (text), item, widget (QComboBox, comboSecondaryToolbarIcons)
-#: styleconfig.ui:94 styleconfig.ui:128
-#, fuzzy, kde-format
-msgid "Below icons"
-msgstr "ചിത്രങ്ങളുടെ കീഴിലുള്ള വാചകം"
-
-#. i18n: ectx: property (text), widget (QLabel, labelSecondaryToolbarIcons)
-#: styleconfig.ui:102
-#, kde-format
-msgid "Secondary toolbar label:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, cbIconsOnButtons)
-#: styleconfig.ui:136
+#: package/contents/ui/EffectSettingsPopup.qml:44
 #, fuzzy, kde-format
 msgid "On buttons"
 msgstr "റേഡിയോ ബട്ടണ്‍"
 
-#. i18n: ectx: property (text), widget (QCheckBox, cbIconsInMenus)
-#: styleconfig.ui:146
+#: package/contents/ui/EffectSettingsPopup.qml:50
 #, kde-format
 msgid "In menus"
 msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:57
+#, kde-format
+msgid "Main toolbar label:"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:59
+#, kde-format
+msgid "None"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:60
+#, fuzzy, kde-format
+msgid "Text only"
+msgstr "വാചകം മാത്രം"
+
+#: package/contents/ui/EffectSettingsPopup.qml:61
+#, fuzzy, kde-format
+msgid "Beside icons"
+msgstr "വാചകത്തിനൊപ്പമുള്ള ചിത്രങ്ങള്‍"
+
+#: package/contents/ui/EffectSettingsPopup.qml:62
+#, fuzzy, kde-format
+msgid "Below icon"
+msgstr "ചിത്രങ്ങളുടെ കീഴിലുള്ള വാചകം"
+
+#: package/contents/ui/EffectSettingsPopup.qml:72
+#, kde-format
+msgid "Secondary toolbar label:"
+msgstr ""
+
+#: package/contents/ui/main.qml:31
+#, kde-format
+msgid ""
+"This module allows you to modify the visual appearance of applications' user "
+"interface elements."
+msgstr ""
+
+#: package/contents/ui/main.qml:87
+#, fuzzy, kde-format
+#| msgid "Con&figure..."
+msgid "Configure Style..."
+msgstr "ക്രമീ&കരിക്കുക..."
+
+#: package/contents/ui/main.qml:103
+#, kde-format
+msgid "Configure Icons and Toolbars"
+msgstr ""
+
+#: styleconfdialog.cpp:33
+#, kde-format
+msgid "Configure %1"
+msgstr "%1 ക്രമീകരിക്കുക"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_1)
 #: stylepreview.ui:33
@@ -228,6 +170,15 @@ msgstr "റേഡിയോ ബട്ടണ്‍"
 msgid "Tab 2"
 msgstr "ടാബ് 2"
 
+#~ msgid "Preview"
+#~ msgstr "കണ്ടുനോക്കുക"
+
+#~ msgid "Unable to Load Dialog"
+#~ msgstr "ഡയലോഗ് ലഭ്യമാക്കുവാന്‍ സാധ്യമല്ല"
+
+#~ msgid "No description available."
+#~ msgstr "വിവരണം ലഭ്യമല്ല."
+
 #, fuzzy
 #~ msgid "Show icons in b&uttons:"
 #~ msgstr "ബട്ടണുകളില്‍ ചിത്രം കാ&ണിക്കുക"
@@ -239,9 +190,6 @@ msgstr "ടാബ് 2"
 #, fuzzy
 #~ msgid "Widget style:"
 #~ msgstr "വിഡ്ജന്റിന്റെ രീതി"
-
-#~ msgid "Con&figure..."
-#~ msgstr "ക്രമീ&കരിക്കുക..."
 
 #~ msgid "Description: %1"
 #~ msgstr "വിവരണം: %1"
