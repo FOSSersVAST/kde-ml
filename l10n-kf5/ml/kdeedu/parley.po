@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: parley\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-13 03:04+0100\n"
-"PO-Revision-Date: 2008-07-21 17:49+0530\n"
-"Last-Translator: ANI PETER|അനി പീറ്റര്‍ <apeter@redhat.com>\n"
-"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
-"കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-11-28 11:53+0000\n"
+"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
+"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -806,9 +806,9 @@ msgstr "&തെരച്ചില്‍:"
 #. i18n: ectx: Menu (file)
 #: src/editor/editorui.rc:7 src/practice/practicesummaryui.rc:7
 #: src/practice/practiceui.rc:7 src/statistics/statisticsui.rc:7
-#, fuzzy, kde-format
+#, kde-format
 msgid "&File"
-msgstr "&തലക്കെട്ടു്:"
+msgstr "ഫയല്‍ (&F)"
 
 #. i18n: ectx: Menu (edit)
 #: src/editor/editorui.rc:12
