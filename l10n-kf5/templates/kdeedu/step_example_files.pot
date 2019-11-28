@@ -1,0 +1,1828 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the step package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: step\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-28 03:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./examples/brownian.step:4 ./examples/doublependulum.step:4
+#: ./examples/fourpendula.step:4 ./examples/gas.step:4 ./examples/graph.step:4
+#: ./examples/liquid.step:4 ./examples/lissajous.step:4
+#: ./examples/motor.step:4 ./examples/motor1.step:4 ./examples/note.step:4
+#: ./examples/resonance.step:4 ./examples/softbody.step:4
+#: ./examples/wave.step:4 ./tutorials/tutorial1.step:4
+#: ./tutorials/tutorial2.step:4 ./tutorials/tutorial3.step:4
+#: ./tutorials/tutorial4.step:4 ./tutorials/tutorial5.step:4
+#: examples.cpp:2 examples.cpp:26 examples.cpp:112 examples.cpp:142
+#: examples.cpp:240 examples.cpp:266 examples.cpp:320 examples.cpp:349
+#: examples.cpp:365 examples.cpp:383 examples.cpp:405 examples.cpp:441
+#: examples.cpp:625 examples.cpp:727 examples.cpp:789 examples.cpp:843
+#: examples.cpp:881 examples.cpp:942
+#, kde-format
+msgctxt "name"
+msgid "world1"
+msgstr ""
+
+#: ./examples/brownian.step:11 ./examples/gas.step:11 ./examples/motor.step:11
+#: ./examples/motor1.step:11 ./examples/softbody.step:655
+#: examples.cpp:4 examples.cpp:144 examples.cpp:351 examples.cpp:367
+#: examples.cpp:561
+#, kde-format
+msgctxt "name"
+msgid "polygon1"
+msgstr ""
+
+#: ./examples/brownian.step:23 ./examples/gas.step:23 ./examples/softbody.step:667
+#: examples.cpp:6 examples.cpp:146 examples.cpp:563
+#, kde-format
+msgctxt "name"
+msgid "polygon2"
+msgstr ""
+
+#: ./examples/brownian.step:35 ./examples/gas.step:35 examples.cpp:8
+#: examples.cpp:148
+#, kde-format
+msgctxt "name"
+msgid "polygon3"
+msgstr ""
+
+#: ./examples/brownian.step:47 ./examples/gas.step:47 examples.cpp:10
+#: examples.cpp:150
+#, kde-format
+msgctxt "name"
+msgid "polygon4"
+msgstr ""
+
+#: ./examples/brownian.step:59 ./examples/gas.step:59 examples.cpp:12
+#: examples.cpp:152
+#, kde-format
+msgctxt "name"
+msgid "gas1"
+msgstr ""
+
+#: ./examples/brownian.step:387 ./examples/graph.step:39
+#: ./examples/lissajous.step:51 ./examples/wave.step:448
+#: ./tutorials/tutorial2.step:53 examples.cpp:14 examples.cpp:248
+#: examples.cpp:330 examples.cpp:715 examples.cpp:799
+#, kde-format
+msgctxt "name"
+msgid "graph1"
+msgstr ""
+
+#: ./examples/brownian.step:407 ./examples/eightpendula.step:19
+#: ./examples/fourpendula.step:23 ./tutorials/tutorial1.step:99
+#: ./tutorials/tutorial3.step:11 ./tutorials/tutorial4.step:11
+#: examples.cpp:16 examples.cpp:52 examples.cpp:116 examples.cpp:771
+#: examples.cpp:845 examples.cpp:883
+#, kde-format
+msgctxt "name"
+msgid "disk1"
+msgstr ""
+
+#: ./examples/brownian.step:419 ./tutorials/tutorial3.step:47
+#: examples.cpp:18 examples.cpp:851
+#, kde-format
+msgctxt "name"
+msgid "tracer1"
+msgstr ""
+
+#: ./examples/brownian.step:427 ./examples/doublependulum.step:66
+#: ./examples/eightpendula.step:203 ./examples/fourpendula.step:126
+#: ./examples/gas.step:379 ./examples/graph.step:105 ./examples/liquid.step:200
+#: ./examples/lissajous.step:112 ./examples/motor.step:65
+#: ./examples/motor1.step:47 ./examples/note.step:41 ./examples/resonance.step:179
+#: ./examples/softbody.step:679 ./examples/wave.step:481
+#: ./tutorials/tutorial1.step:138 ./tutorials/tutorial2.step:147
+#: ./tutorials/tutorial3.step:100 ./tutorials/tutorial4.step:173
+#: examples.cpp:20 examples.cpp:42 examples.cpp:86 examples.cpp:136
+#: examples.cpp:234 examples.cpp:260 examples.cpp:314 examples.cpp:343
+#: examples.cpp:359 examples.cpp:377 examples.cpp:399 examples.cpp:435
+#: examples.cpp:565 examples.cpp:721 examples.cpp:783 examples.cpp:837
+#: examples.cpp:875 examples.cpp:936
+#, kde-format
+msgctxt "name"
+msgid "solver1"
+msgstr ""
+
+#: ./examples/brownian.step:434 ./examples/doublependulum.step:73
+#: ./examples/eightpendula.step:210 ./examples/first.step:71
+#: ./examples/fourpendula.step:133 ./examples/gas.step:386
+#: ./examples/graph.step:112 ./examples/liquid.step:207
+#: ./examples/lissajous.step:119 ./examples/motor.step:72
+#: ./examples/motor1.step:54 ./examples/note.step:48 ./examples/resonance.step:186
+#: ./examples/softbody.step:686 ./examples/solar.step:105
+#: ./examples/springs.step:106 ./examples/wave.step:488
+#: ./tutorials/tutorial1.step:145 ./tutorials/tutorial2.step:154
+#: ./tutorials/tutorial3.step:107 ./tutorials/tutorial4.step:180
+#: examples.cpp:22 examples.cpp:44 examples.cpp:88 examples.cpp:108
+#: examples.cpp:138 examples.cpp:236 examples.cpp:262 examples.cpp:316
+#: examples.cpp:345 examples.cpp:361 examples.cpp:379 examples.cpp:401
+#: examples.cpp:437 examples.cpp:567 examples.cpp:595 examples.cpp:621
+#: examples.cpp:723 examples.cpp:785 examples.cpp:839 examples.cpp:877
+#: examples.cpp:938
+#, kde-format
+msgctxt "name"
+msgid "collisionSolver1"
+msgstr ""
+
+#: ./examples/brownian.step:439 ./examples/doublependulum.step:78
+#: ./examples/eightpendula.step:215 ./examples/first.step:76
+#: ./examples/fourpendula.step:138 ./examples/gas.step:391
+#: ./examples/graph.step:117 ./examples/liquid.step:212
+#: ./examples/lissajous.step:124 ./examples/motor.step:77
+#: ./examples/motor1.step:59 ./examples/note.step:53 ./examples/resonance.step:191
+#: ./examples/softbody.step:691 ./examples/solar.step:110
+#: ./examples/springs.step:111 ./examples/wave.step:493
+#: ./tutorials/tutorial1.step:150 ./tutorials/tutorial2.step:159
+#: ./tutorials/tutorial3.step:112 ./tutorials/tutorial4.step:185
+#: examples.cpp:24 examples.cpp:46 examples.cpp:90 examples.cpp:110
+#: examples.cpp:140 examples.cpp:238 examples.cpp:264 examples.cpp:318
+#: examples.cpp:347 examples.cpp:363 examples.cpp:381 examples.cpp:403
+#: examples.cpp:439 examples.cpp:569 examples.cpp:597 examples.cpp:623
+#: examples.cpp:725 examples.cpp:787 examples.cpp:841 examples.cpp:879
+#: examples.cpp:940
+#, kde-format
+msgctxt "name"
+msgid "constraintSolver1"
+msgstr ""
+
+#: ./examples/doublependulum.step:11 ./examples/first.step:11
+#: ./examples/graph.step:11 ./examples/lissajous.step:11
+#: ./examples/motor.step:35 ./tutorials/tutorial2.step:11
+#: ./tutorials/tutorial5.step:11 examples.cpp:28 examples.cpp:96
+#: examples.cpp:242 examples.cpp:322 examples.cpp:371 examples.cpp:791
+#: examples.cpp:944
+#, kde-format
+msgctxt "name"
+msgid "particle1"
+msgstr ""
+
+#: ./examples/doublependulum.step:19 ./examples/first.step:19
+#: ./examples/graph.step:19 ./examples/lissajous.step:19
+#: ./tutorials/tutorial2.step:19 ./tutorials/tutorial5.step:19
+#: examples.cpp:30 examples.cpp:98 examples.cpp:244 examples.cpp:324
+#: examples.cpp:793 examples.cpp:946
+#, kde-format
+msgctxt "name"
+msgid "particle2"
+msgstr ""
+
+#: ./examples/doublependulum.step:27 ./examples/eightpendula.step:31
+#: ./examples/fourpendula.step:71 ./tutorials/tutorial5.step:27
+#: examples.cpp:32 examples.cpp:54 examples.cpp:124 examples.cpp:948
+#, kde-format
+msgctxt "name"
+msgid "stick1"
+msgstr ""
+
+#: ./examples/doublependulum.step:37 ./examples/eightpendula.step:83
+#: ./examples/fourpendula.step:81 ./tutorials/tutorial5.step:37
+#: examples.cpp:34 examples.cpp:64 examples.cpp:126 examples.cpp:950
+#, kde-format
+msgctxt "name"
+msgid "stick2"
+msgstr ""
+
+#: ./examples/doublependulum.step:47 ./examples/eightpendula.step:12
+#: ./examples/fourpendula.step:119 ./tutorials/tutorial5.step:47
+#: examples.cpp:36 examples.cpp:50 examples.cpp:134 examples.cpp:952
+#, kde-format
+msgctxt "name"
+msgid "weightForce1"
+msgstr ""
+
+#: ./examples/doublependulum.step:54 ./examples/gas.step:247
+#: ./examples/graph.step:79 ./examples/liquid.step:187
+#: ./examples/lissajous.step:85 ./examples/note.step:11 ./examples/wave.step:435
+#: ./tutorials/tutorial1.step:23 ./tutorials/tutorial2.step:73
+#: ./tutorials/tutorial3.step:55 ./tutorials/tutorial4.step:91
+#: examples.cpp:38 examples.cpp:198 examples.cpp:252 examples.cpp:310
+#: examples.cpp:334 examples.cpp:385 examples.cpp:711 examples.cpp:731
+#: examples.cpp:801 examples.cpp:853 examples.cpp:897
+#, kde-format
+msgctxt "name"
+msgid "note1"
+msgstr ""
+
+#: ./examples/doublependulum.step:62 examples.cpp:40
+#, kde-format
+msgctxt "HTML:p"
+msgid "Double pendulum example"
+msgstr ""
+
+#: ./examples/eightpendula.step:4 examples.cpp:48
+#, kde-format
+msgctxt "name"
+msgid ""
+"Pendule de Newton à 8 billes (http://fr.wikipedia.org/wiki/Pendule_de_Newton)"
+msgstr ""
+
+#: ./examples/eightpendula.step:41 ./examples/fourpendula.step:35
+#: ./tutorials/tutorial1.step:111 examples.cpp:56 examples.cpp:118
+#: examples.cpp:773
+#, kde-format
+msgctxt "name"
+msgid "disk2"
+msgstr ""
+
+#: ./examples/eightpendula.step:53 ./examples/fourpendula.step:59
+#: examples.cpp:58 examples.cpp:122
+#, kde-format
+msgctxt "name"
+msgid "disk4"
+msgstr ""
+
+#: ./examples/eightpendula.step:65 ./examples/fourpendula.step:91
+#: examples.cpp:60 examples.cpp:128
+#, kde-format
+msgctxt "name"
+msgid "stick3"
+msgstr ""
+
+#: ./examples/eightpendula.step:75 ./examples/fourpendula.step:111
+#: ./tutorials/tutorial4.step:165 ./tutorials/tutorial5.step:85
+#: examples.cpp:62 examples.cpp:132 examples.cpp:934 examples.cpp:970
+#, kde-format
+msgctxt "name"
+msgid "anchor1"
+msgstr ""
+
+#: ./examples/eightpendula.step:93 examples.cpp:66
+#, kde-format
+msgctxt "name"
+msgid "disk5"
+msgstr ""
+
+#: ./examples/eightpendula.step:105 ./examples/fourpendula.step:101
+#: examples.cpp:68 examples.cpp:130
+#, kde-format
+msgctxt "name"
+msgid "stick4"
+msgstr ""
+
+#: ./examples/eightpendula.step:115 examples.cpp:70
+#, kde-format
+msgctxt "name"
+msgid "disk6"
+msgstr ""
+
+#: ./examples/eightpendula.step:127 examples.cpp:72
+#, kde-format
+msgctxt "name"
+msgid "stick5"
+msgstr ""
+
+#: ./examples/eightpendula.step:137 examples.cpp:74
+#, kde-format
+msgctxt "name"
+msgid "disk7"
+msgstr ""
+
+#: ./examples/eightpendula.step:149 examples.cpp:76
+#, kde-format
+msgctxt "name"
+msgid "stick6"
+msgstr ""
+
+#: ./examples/eightpendula.step:159 examples.cpp:78
+#, kde-format
+msgctxt "name"
+msgid "disk8"
+msgstr ""
+
+#: ./examples/eightpendula.step:171 examples.cpp:80
+#, kde-format
+msgctxt "name"
+msgid "stick7"
+msgstr ""
+
+#: ./examples/eightpendula.step:181 examples.cpp:82
+#, kde-format
+msgctxt "name"
+msgid "disk9"
+msgstr ""
+
+#: ./examples/eightpendula.step:193 examples.cpp:84
+#, kde-format
+msgctxt "name"
+msgid "stick8"
+msgstr ""
+
+#: ./examples/eightpendula.step:219 ./examples/fourpendula.step:11
+#: ./tutorials/tutorial3.step:23 ./tutorials/tutorial4.step:23
+#: ./tutorials/tutorial5.step:93 examples.cpp:92 examples.cpp:114
+#: examples.cpp:847 examples.cpp:885 examples.cpp:972
+#, kde-format
+msgctxt "name"
+msgid "box1"
+msgstr ""
+
+#: ./examples/first.step:4 examples.cpp:94
+#, kde-format
+msgctxt "name"
+msgid "world"
+msgstr ""
+
+#: ./examples/first.step:27 ./examples/gas.step:235 ./examples/graph.step:27
+#: ./examples/lissajous.step:27 ./examples/motor.step:23
+#: ./examples/wave.step:411 ./tutorials/tutorial1.step:11
+#: ./tutorials/tutorial2.step:27 ./tutorials/tutorial3.step:35
+#: ./tutorials/tutorial4.step:35 examples.cpp:100 examples.cpp:196
+#: examples.cpp:246 examples.cpp:326 examples.cpp:369 examples.cpp:707
+#: examples.cpp:729 examples.cpp:795 examples.cpp:849 examples.cpp:887
+#, kde-format
+msgctxt "name"
+msgid "spring1"
+msgstr ""
+
+#: ./examples/first.step:39 examples.cpp:102
+#, kde-format
+msgctxt "name"
+msgid "chargedParticle1"
+msgstr ""
+
+#: ./examples/first.step:48 examples.cpp:104
+#, kde-format
+msgctxt "name"
+msgid "chargedParticle2"
+msgstr ""
+
+#: ./examples/first.step:64 ./examples/solar.step:98 examples.cpp:106
+#: examples.cpp:593
+#, kde-format
+msgctxt "name"
+msgid "solver"
+msgstr ""
+
+#: ./examples/fourpendula.step:47 examples.cpp:120
+#, kde-format
+msgctxt "name"
+msgid "disk3"
+msgstr ""
+
+#: ./examples/gas.step:65 ./examples/liquid.step:17 examples.cpp:154
+#: examples.cpp:268
+#, kde-format
+msgctxt "name"
+msgid "gasLJForce1"
+msgstr ""
+
+#: ./examples/gas.step:73 ./examples/liquid.step:25 examples.cpp:156
+#: examples.cpp:270
+#, kde-format
+msgctxt "name"
+msgid "gasParticle1"
+msgstr ""
+
+#: ./examples/gas.step:81 ./examples/liquid.step:33 examples.cpp:158
+#: examples.cpp:272
+#, kde-format
+msgctxt "name"
+msgid "gasParticle2"
+msgstr ""
+
+#: ./examples/gas.step:89 ./examples/liquid.step:41 examples.cpp:160
+#: examples.cpp:274
+#, kde-format
+msgctxt "name"
+msgid "gasParticle3"
+msgstr ""
+
+#: ./examples/gas.step:97 ./examples/liquid.step:49 examples.cpp:162
+#: examples.cpp:276
+#, kde-format
+msgctxt "name"
+msgid "gasParticle4"
+msgstr ""
+
+#: ./examples/gas.step:105 ./examples/liquid.step:57 examples.cpp:164
+#: examples.cpp:278
+#, kde-format
+msgctxt "name"
+msgid "gasParticle5"
+msgstr ""
+
+#: ./examples/gas.step:113 ./examples/liquid.step:65 examples.cpp:166
+#: examples.cpp:280
+#, kde-format
+msgctxt "name"
+msgid "gasParticle6"
+msgstr ""
+
+#: ./examples/gas.step:121 ./examples/liquid.step:73 examples.cpp:168
+#: examples.cpp:282
+#, kde-format
+msgctxt "name"
+msgid "gasParticle7"
+msgstr ""
+
+#: ./examples/gas.step:129 ./examples/liquid.step:81 examples.cpp:170
+#: examples.cpp:284
+#, kde-format
+msgctxt "name"
+msgid "gasParticle8"
+msgstr ""
+
+#: ./examples/gas.step:137 ./examples/liquid.step:89 examples.cpp:172
+#: examples.cpp:286
+#, kde-format
+msgctxt "name"
+msgid "gasParticle9"
+msgstr ""
+
+#: ./examples/gas.step:145 ./examples/liquid.step:97 examples.cpp:174
+#: examples.cpp:288
+#, kde-format
+msgctxt "name"
+msgid "gasParticle10"
+msgstr ""
+
+#: ./examples/gas.step:153 ./examples/liquid.step:105
+#: examples.cpp:176 examples.cpp:290
+#, kde-format
+msgctxt "name"
+msgid "gasParticle11"
+msgstr ""
+
+#: ./examples/gas.step:161 ./examples/liquid.step:113
+#: examples.cpp:178 examples.cpp:292
+#, kde-format
+msgctxt "name"
+msgid "gasParticle12"
+msgstr ""
+
+#: ./examples/gas.step:169 ./examples/liquid.step:121
+#: examples.cpp:180 examples.cpp:294
+#, kde-format
+msgctxt "name"
+msgid "gasParticle13"
+msgstr ""
+
+#: ./examples/gas.step:177 ./examples/liquid.step:129
+#: examples.cpp:182 examples.cpp:296
+#, kde-format
+msgctxt "name"
+msgid "gasParticle14"
+msgstr ""
+
+#: ./examples/gas.step:185 ./examples/liquid.step:137
+#: examples.cpp:184 examples.cpp:298
+#, kde-format
+msgctxt "name"
+msgid "gasParticle15"
+msgstr ""
+
+#: ./examples/gas.step:193 ./examples/liquid.step:145
+#: examples.cpp:186 examples.cpp:300
+#, kde-format
+msgctxt "name"
+msgid "gasParticle16"
+msgstr ""
+
+#: ./examples/gas.step:201 ./examples/liquid.step:153
+#: examples.cpp:188 examples.cpp:302
+#, kde-format
+msgctxt "name"
+msgid "gasParticle17"
+msgstr ""
+
+#: ./examples/gas.step:209 ./examples/liquid.step:161
+#: examples.cpp:190 examples.cpp:304
+#, kde-format
+msgctxt "name"
+msgid "gasParticle18"
+msgstr ""
+
+#: ./examples/gas.step:217 ./examples/liquid.step:169
+#: examples.cpp:192 examples.cpp:306
+#, kde-format
+msgctxt "name"
+msgid "gasParticle19"
+msgstr ""
+
+#: ./examples/gas.step:225 ./examples/liquid.step:177
+#: examples.cpp:194 examples.cpp:308
+#, kde-format
+msgctxt "name"
+msgid "gasParticle20"
+msgstr ""
+
+#: ./examples/gas.step:255 examples.cpp:200
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:large;\">n =</span>"
+msgstr ""
+
+#: ./examples/gas.step:259 examples.cpp:202
+#, kde-format
+msgctxt "name"
+msgid "meter1"
+msgstr ""
+
+#: ./examples/gas.step:270 examples.cpp:204
+#, kde-format
+msgctxt "name"
+msgid "meter2"
+msgstr ""
+
+#: ./examples/gas.step:281 ./tutorials/tutorial1.step:53
+#: ./tutorials/tutorial2.step:102 ./tutorials/tutorial3.step:84
+#: ./tutorials/tutorial4.step:137 ./tutorials/tutorial5.step:69
+#: examples.cpp:206 examples.cpp:747 examples.cpp:815 examples.cpp:865
+#: examples.cpp:922 examples.cpp:960
+#, kde-format
+msgctxt "name"
+msgid "note3"
+msgstr ""
+
+#: ./examples/gas.step:289 examples.cpp:208
+#, kde-format
+msgctxt "HTML:h3"
+msgid "T ="
+msgstr ""
+
+#: ./examples/gas.step:293 examples.cpp:210
+#, kde-format
+msgctxt "name"
+msgid "meter3"
+msgstr ""
+
+#: ./examples/gas.step:304 ./examples/graph.step:92 ./examples/lissajous.step:98
+#: ./examples/wave.step:468 ./tutorials/tutorial1.step:37
+#: ./tutorials/tutorial2.step:87 ./tutorials/tutorial3.step:70
+#: ./tutorials/tutorial4.step:105 ./tutorials/tutorial5.step:54
+#: examples.cpp:212 examples.cpp:256 examples.cpp:338 examples.cpp:717
+#: examples.cpp:737 examples.cpp:807 examples.cpp:859 examples.cpp:903
+#: examples.cpp:954
+#, kde-format
+msgctxt "name"
+msgid "note2"
+msgstr ""
+
+#: ./examples/gas.step:312 examples.cpp:214
+#, kde-format
+msgctxt "HTML:h3"
+msgid "p ="
+msgstr ""
+
+#: ./examples/gas.step:316 ./tutorials/tutorial1.step:84
+#: ./tutorials/tutorial2.step:134 examples.cpp:216 examples.cpp:763
+#: examples.cpp:835
+#, kde-format
+msgctxt "name"
+msgid "note5"
+msgstr ""
+
+#: ./examples/gas.step:325 examples.cpp:218
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"<span style=\" font-size:large;\">F</span><span style=\" font-size:large; "
+"vertical-align:sub;\">s</span><span style=\" font-size:large;\"> =</span>"
+msgstr ""
+
+#: ./examples/gas.step:329 examples.cpp:220
+#, kde-format
+msgctxt "name"
+msgid "meter4"
+msgstr ""
+
+#: ./examples/gas.step:340 ./tutorials/tutorial1.step:69
+#: ./tutorials/tutorial2.step:119 ./tutorials/tutorial4.step:122
+#: examples.cpp:222 examples.cpp:755 examples.cpp:827 examples.cpp:914
+#, kde-format
+msgctxt "name"
+msgid "note4"
+msgstr ""
+
+#: ./examples/gas.step:349 examples.cpp:224
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:medium;\">Macroscopic quantities:</span>"
+msgstr ""
+
+#: ./examples/gas.step:353 ./tutorials/tutorial1.step:123
+#: ./tutorials/tutorial5.step:105 examples.cpp:226 examples.cpp:775
+#: examples.cpp:974
+#, kde-format
+msgctxt "name"
+msgid "note6"
+msgstr ""
+
+#: ./examples/gas.step:362 examples.cpp:228
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:medium;\">Spring tension:</span>"
+msgstr ""
+
+#: ./examples/gas.step:366 examples.cpp:230
+#, kde-format
+msgctxt "name"
+msgid "note7"
+msgstr ""
+
+#: ./examples/gas.step:375 examples.cpp:232
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"(run simulation for ~20 seconds and compare spring tension with pressure)"
+msgstr ""
+
+#: ./examples/graph.step:59 examples.cpp:250
+#, kde-format
+msgctxt "name"
+msgid "graph2"
+msgstr ""
+
+#: ./examples/graph.step:88 examples.cpp:254
+#, kde-format
+msgctxt "HTML:p"
+msgid "Phase diagram"
+msgstr ""
+
+#: ./examples/graph.step:101 examples.cpp:258
+#, kde-format
+msgctxt "HTML:p"
+msgid "Position - time"
+msgstr ""
+
+#: ./examples/liquid.step:196 examples.cpp:312
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"This small drop of liquid in free space is simulated using the same "
+"potential as gas. Notice how sometimes a particle leaves the drop - it is "
+"evaporation."
+msgstr ""
+
+#: ./examples/lissajous.step:39 ./examples/wave.step:423
+#: examples.cpp:328 examples.cpp:709
+#, kde-format
+msgctxt "name"
+msgid "spring2"
+msgstr ""
+
+#: ./examples/lissajous.step:71 ./examples/motor.step:51
+#: ./tutorials/tutorial2.step:39 ./tutorials/tutorial4.step:63
+#: examples.cpp:332 examples.cpp:375 examples.cpp:797 examples.cpp:893
+#, kde-format
+msgctxt "name"
+msgid "controller1"
+msgstr ""
+
+#: ./examples/lissajous.step:94 examples.cpp:336
+#, kde-format
+msgctxt "HTML:p"
+msgid "Lissajous curve"
+msgstr ""
+
+#: ./examples/lissajous.step:108 examples.cpp:340
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"Please try to change the stiffness of spring1 and see \n"
+"how the curve will change. Try the following values:<br></br>1, 2.25, "
+"1.7778, 1.5625, 0.6944"
+msgstr ""
+
+#: ./examples/motor.step:43 ./examples/motor1.step:23 ./tutorials/tutorial4.step:47
+#: examples.cpp:353 examples.cpp:373 examples.cpp:889
+#, kde-format
+msgctxt "name"
+msgid "linearMotor1"
+msgstr ""
+
+#: ./examples/motor1.step:31 ./tutorials/tutorial4.step:55
+#: examples.cpp:355 examples.cpp:891
+#, kde-format
+msgctxt "name"
+msgid "linearMotor2"
+msgstr ""
+
+#: ./examples/motor1.step:39 examples.cpp:357
+#, kde-format
+msgctxt "name"
+msgid "linearMotor3"
+msgstr ""
+
+#: ./examples/note.step:19 examples.cpp:387
+#, kde-format
+msgctxt "HTML:p"
+msgid "Example formula:"
+msgstr ""
+
+#: ./examples/note.step:20 examples.cpp:389
+#, kde-format
+msgctxt "HTML:p"
+msgid "<img src=\"img:0\"></img>"
+msgstr ""
+
+#: ./examples/note.step:22 examples.cpp:391
+#, kde-format
+msgctxt "HTML:p"
+msgid "Example image:"
+msgstr ""
+
+#: ./examples/note.step:23 examples.cpp:393
+#, kde-format
+msgctxt "HTML:p"
+msgid "<img src=\"img:1\"></img>"
+msgstr ""
+
+#: ./examples/note.step:26 examples.cpp:395
+#, kde-format
+msgctxt "name"
+msgid "img:0"
+msgstr ""
+
+#: ./examples/note.step:33 examples.cpp:397
+#, kde-format
+msgctxt "name"
+msgid "img:1"
+msgstr ""
+
+#: ./examples/resonance.step:11 examples.cpp:407
+#, kde-format
+msgctxt "name"
+msgid "LeftWall"
+msgstr ""
+
+#: ./examples/resonance.step:23 examples.cpp:409
+#, kde-format
+msgctxt "name"
+msgid "Body"
+msgstr ""
+
+#: ./examples/resonance.step:35 examples.cpp:411
+#, kde-format
+msgctxt "name"
+msgid "RightWall"
+msgstr ""
+
+#: ./examples/resonance.step:47 examples.cpp:413
+#, kde-format
+msgctxt "name"
+msgid "Disk"
+msgstr ""
+
+#: ./examples/resonance.step:59 examples.cpp:415
+#, kde-format
+msgctxt "name"
+msgid "PinDisk"
+msgstr ""
+
+#: ./examples/resonance.step:67 examples.cpp:417
+#, kde-format
+msgctxt "name"
+msgid "Spring"
+msgstr ""
+
+#: ./examples/resonance.step:79 examples.cpp:419
+#, kde-format
+msgctxt "name"
+msgid "AnchorLeftWall"
+msgstr ""
+
+#: ./examples/resonance.step:87 examples.cpp:421
+#, kde-format
+msgctxt "name"
+msgid "AnchorRightWall"
+msgstr ""
+
+#: ./examples/resonance.step:95 examples.cpp:423
+#, kde-format
+msgctxt "name"
+msgid "Graph"
+msgstr ""
+
+#: ./examples/resonance.step:115 examples.cpp:425
+#, kde-format
+msgctxt "name"
+msgid "CircularMotor"
+msgstr ""
+
+#: ./examples/resonance.step:123 examples.cpp:427
+#, kde-format
+msgctxt "name"
+msgid "Velocity"
+msgstr ""
+
+#: ./examples/resonance.step:137 examples.cpp:429
+#, kde-format
+msgctxt "name"
+msgid "Acceleration"
+msgstr ""
+
+#: ./examples/resonance.step:151 examples.cpp:431
+#, kde-format
+msgctxt "name"
+msgid "Stiffness"
+msgstr ""
+
+#: ./examples/resonance.step:165 examples.cpp:433
+#, kde-format
+msgctxt "name"
+msgid "Damping"
+msgstr ""
+
+#: ./examples/softbody.step:11 ./examples/wave.step:11 examples.cpp:443
+#: examples.cpp:627
+#, kde-format
+msgctxt "name"
+msgid "softBody1"
+msgstr ""
+
+#: ./examples/softbody.step:21 ./examples/wave.step:21 examples.cpp:445
+#: examples.cpp:629
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle1"
+msgstr ""
+
+#: ./examples/softbody.step:29 ./examples/wave.step:29 examples.cpp:447
+#: examples.cpp:631
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle2"
+msgstr ""
+
+#: ./examples/softbody.step:37 ./examples/wave.step:37 examples.cpp:449
+#: examples.cpp:633
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle3"
+msgstr ""
+
+#: ./examples/softbody.step:45 ./examples/wave.step:45 examples.cpp:451
+#: examples.cpp:635
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle4"
+msgstr ""
+
+#: ./examples/softbody.step:53 ./examples/wave.step:53 examples.cpp:453
+#: examples.cpp:637
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle5"
+msgstr ""
+
+#: ./examples/softbody.step:61 ./examples/wave.step:61 examples.cpp:455
+#: examples.cpp:639
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle6"
+msgstr ""
+
+#: ./examples/softbody.step:69 ./examples/wave.step:69 examples.cpp:457
+#: examples.cpp:641
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle7"
+msgstr ""
+
+#: ./examples/softbody.step:77 ./examples/wave.step:77 examples.cpp:459
+#: examples.cpp:643
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle8"
+msgstr ""
+
+#: ./examples/softbody.step:85 ./examples/wave.step:85 examples.cpp:461
+#: examples.cpp:645
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle9"
+msgstr ""
+
+#: ./examples/softbody.step:93 ./examples/wave.step:93 examples.cpp:463
+#: examples.cpp:647
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle10"
+msgstr ""
+
+#: ./examples/softbody.step:101 ./examples/wave.step:101
+#: examples.cpp:465 examples.cpp:649
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle11"
+msgstr ""
+
+#: ./examples/softbody.step:109 ./examples/wave.step:109
+#: examples.cpp:467 examples.cpp:651
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle12"
+msgstr ""
+
+#: ./examples/softbody.step:117 ./examples/wave.step:117
+#: examples.cpp:469 examples.cpp:653
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle13"
+msgstr ""
+
+#: ./examples/softbody.step:125 ./examples/wave.step:125
+#: examples.cpp:471 examples.cpp:655
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle14"
+msgstr ""
+
+#: ./examples/softbody.step:133 ./examples/wave.step:133
+#: examples.cpp:473 examples.cpp:657
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle15"
+msgstr ""
+
+#: ./examples/softbody.step:141 ./examples/wave.step:141
+#: examples.cpp:475 examples.cpp:659
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle16"
+msgstr ""
+
+#: ./examples/softbody.step:149 ./examples/wave.step:181
+#: examples.cpp:477 examples.cpp:669
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring1"
+msgstr ""
+
+#: ./examples/softbody.step:161 ./examples/wave.step:193
+#: examples.cpp:479 examples.cpp:671
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring2"
+msgstr ""
+
+#: ./examples/softbody.step:173 ./examples/wave.step:205
+#: examples.cpp:481 examples.cpp:673
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring3"
+msgstr ""
+
+#: ./examples/softbody.step:185 ./examples/wave.step:217
+#: examples.cpp:483 examples.cpp:675
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring4"
+msgstr ""
+
+#: ./examples/softbody.step:197 ./examples/wave.step:229
+#: examples.cpp:485 examples.cpp:677
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring5"
+msgstr ""
+
+#: ./examples/softbody.step:209 ./examples/wave.step:241
+#: examples.cpp:487 examples.cpp:679
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring6"
+msgstr ""
+
+#: ./examples/softbody.step:221 ./examples/wave.step:253
+#: examples.cpp:489 examples.cpp:681
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring7"
+msgstr ""
+
+#: ./examples/softbody.step:233 ./examples/wave.step:265
+#: examples.cpp:491 examples.cpp:683
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring8"
+msgstr ""
+
+#: ./examples/softbody.step:245 ./examples/wave.step:277
+#: examples.cpp:493 examples.cpp:685
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring9"
+msgstr ""
+
+#: ./examples/softbody.step:257 ./examples/wave.step:289
+#: examples.cpp:495 examples.cpp:687
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring10"
+msgstr ""
+
+#: ./examples/softbody.step:269 ./examples/wave.step:301
+#: examples.cpp:497 examples.cpp:689
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring11"
+msgstr ""
+
+#: ./examples/softbody.step:281 ./examples/wave.step:313
+#: examples.cpp:499 examples.cpp:691
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring12"
+msgstr ""
+
+#: ./examples/softbody.step:293 ./examples/wave.step:325
+#: examples.cpp:501 examples.cpp:693
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring13"
+msgstr ""
+
+#: ./examples/softbody.step:305 ./examples/wave.step:337
+#: examples.cpp:503 examples.cpp:695
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring14"
+msgstr ""
+
+#: ./examples/softbody.step:317 ./examples/wave.step:349
+#: examples.cpp:505 examples.cpp:697
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring15"
+msgstr ""
+
+#: ./examples/softbody.step:329 ./examples/wave.step:361
+#: examples.cpp:507 examples.cpp:699
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring16"
+msgstr ""
+
+#: ./examples/softbody.step:341 ./examples/wave.step:373
+#: examples.cpp:509 examples.cpp:701
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring17"
+msgstr ""
+
+#: ./examples/softbody.step:353 ./examples/wave.step:385
+#: examples.cpp:511 examples.cpp:703
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring18"
+msgstr ""
+
+#: ./examples/softbody.step:365 ./examples/wave.step:397
+#: examples.cpp:513 examples.cpp:705
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring19"
+msgstr ""
+
+#: ./examples/softbody.step:377 examples.cpp:515
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring20"
+msgstr ""
+
+#: ./examples/softbody.step:389 examples.cpp:517
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring21"
+msgstr ""
+
+#: ./examples/softbody.step:401 examples.cpp:519
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring22"
+msgstr ""
+
+#: ./examples/softbody.step:413 examples.cpp:521
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring23"
+msgstr ""
+
+#: ./examples/softbody.step:425 examples.cpp:523
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring24"
+msgstr ""
+
+#: ./examples/softbody.step:437 examples.cpp:525
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring25"
+msgstr ""
+
+#: ./examples/softbody.step:449 examples.cpp:527
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring26"
+msgstr ""
+
+#: ./examples/softbody.step:461 examples.cpp:529
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring27"
+msgstr ""
+
+#: ./examples/softbody.step:473 examples.cpp:531
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring28"
+msgstr ""
+
+#: ./examples/softbody.step:485 examples.cpp:533
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring29"
+msgstr ""
+
+#: ./examples/softbody.step:497 examples.cpp:535
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring30"
+msgstr ""
+
+#: ./examples/softbody.step:509 examples.cpp:537
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring31"
+msgstr ""
+
+#: ./examples/softbody.step:521 examples.cpp:539
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring32"
+msgstr ""
+
+#: ./examples/softbody.step:533 examples.cpp:541
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring33"
+msgstr ""
+
+#: ./examples/softbody.step:545 examples.cpp:543
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring34"
+msgstr ""
+
+#: ./examples/softbody.step:557 examples.cpp:545
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring35"
+msgstr ""
+
+#: ./examples/softbody.step:569 examples.cpp:547
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring36"
+msgstr ""
+
+#: ./examples/softbody.step:581 examples.cpp:549
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring37"
+msgstr ""
+
+#: ./examples/softbody.step:593 examples.cpp:551
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring38"
+msgstr ""
+
+#: ./examples/softbody.step:605 examples.cpp:553
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring39"
+msgstr ""
+
+#: ./examples/softbody.step:617 examples.cpp:555
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring40"
+msgstr ""
+
+#: ./examples/softbody.step:629 examples.cpp:557
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring41"
+msgstr ""
+
+#: ./examples/softbody.step:641 examples.cpp:559
+#, kde-format
+msgctxt "name"
+msgid "softBodySpring42"
+msgstr ""
+
+#: ./examples/solar.step:4 examples.cpp:571
+#, kde-format
+msgctxt "name"
+msgid "Solar System"
+msgstr ""
+
+#: ./examples/solar.step:11 examples.cpp:573
+#, kde-format
+msgctxt "name"
+msgid "Sun"
+msgstr ""
+
+#: ./examples/solar.step:19 examples.cpp:575
+#, kde-format
+msgctxt "name"
+msgid "Mercury"
+msgstr ""
+
+#: ./examples/solar.step:27 examples.cpp:577
+#, kde-format
+msgctxt "name"
+msgid "Venus"
+msgstr ""
+
+#: ./examples/solar.step:35 examples.cpp:579
+#, kde-format
+msgctxt "name"
+msgid "Earth"
+msgstr ""
+
+#: ./examples/solar.step:43 examples.cpp:581
+#, kde-format
+msgctxt "name"
+msgid "Mars"
+msgstr ""
+
+#: ./examples/solar.step:51 examples.cpp:583
+#, kde-format
+msgctxt "name"
+msgid "Jupiter"
+msgstr ""
+
+#: ./examples/solar.step:59 examples.cpp:585
+#, kde-format
+msgctxt "name"
+msgid "Saturn"
+msgstr ""
+
+#: ./examples/solar.step:67 examples.cpp:587
+#, kde-format
+msgctxt "name"
+msgid "Uranus"
+msgstr ""
+
+#: ./examples/solar.step:75 examples.cpp:589
+#, kde-format
+msgctxt "name"
+msgid "Neptune"
+msgstr ""
+
+#: ./examples/solar.step:83 examples.cpp:591
+#, kde-format
+msgctxt "name"
+msgid "Pluto"
+msgstr ""
+
+#: ./examples/springs.step:4 examples.cpp:599
+#, kde-format
+msgctxt "name"
+msgid "World"
+msgstr ""
+
+#: ./examples/springs.step:11 examples.cpp:601
+#, kde-format
+msgctxt "name"
+msgid "p1"
+msgstr ""
+
+#: ./examples/springs.step:19 examples.cpp:603
+#, kde-format
+msgctxt "name"
+msgid "p2"
+msgstr ""
+
+#: ./examples/springs.step:27 examples.cpp:605
+#, kde-format
+msgctxt "name"
+msgid "p3"
+msgstr ""
+
+#: ./examples/springs.step:35 examples.cpp:607
+#, kde-format
+msgctxt "name"
+msgid "p4"
+msgstr ""
+
+#: ./examples/springs.step:43 examples.cpp:609
+#, kde-format
+msgctxt "name"
+msgid "p5"
+msgstr ""
+
+#: ./examples/springs.step:51 examples.cpp:611
+#, kde-format
+msgctxt "name"
+msgid "s1"
+msgstr ""
+
+#: ./examples/springs.step:63 examples.cpp:613
+#, kde-format
+msgctxt "name"
+msgid "s2"
+msgstr ""
+
+#: ./examples/springs.step:75 examples.cpp:615
+#, kde-format
+msgctxt "name"
+msgid "s3"
+msgstr ""
+
+#: ./examples/springs.step:87 examples.cpp:617
+#, kde-format
+msgctxt "name"
+msgid "s4"
+msgstr ""
+
+#: ./examples/springs.step:99 examples.cpp:619
+#, kde-format
+msgctxt "name"
+msgid "Solver"
+msgstr ""
+
+#: ./examples/wave.step:149 examples.cpp:661
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle17"
+msgstr ""
+
+#: ./examples/wave.step:157 examples.cpp:663
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle18"
+msgstr ""
+
+#: ./examples/wave.step:165 examples.cpp:665
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle19"
+msgstr ""
+
+#: ./examples/wave.step:173 examples.cpp:667
+#, kde-format
+msgctxt "name"
+msgid "softBodyParticle20"
+msgstr ""
+
+#: ./examples/wave.step:444 examples.cpp:713
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"When you start simulation the wave starts to travel from the red particle. "
+"The blue particle will reflect the wave and it will travel in reverse "
+"direction until the red particle reflects in again. After some time the wave "
+"will vanish because springs have damping."
+msgstr ""
+
+#: ./examples/wave.step:477 examples.cpp:719
+#, kde-format
+msgctxt "HTML:p"
+msgid "The graph shows oscillations of the green particle"
+msgstr ""
+
+#: ./tutorials/tutorial1.step:32 examples.cpp:733
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:14pt; font-weight:600;\">Tutorial 1</span>"
+msgstr ""
+
+#: ./tutorials/tutorial1.step:33 examples.cpp:735
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:12pt;\">Bodies and springs.</span>"
+msgstr ""
+
+#: ./tutorials/tutorial1.step:46 examples.cpp:739
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Position and velocity</span>"
+msgstr ""
+
+#: ./tutorials/tutorial1.step:47 examples.cpp:741
+#, kde-format
+msgctxt "HTML:p"
+msgid "- You can change position of any body simply by dragging it."
+msgstr ""
+
+#: ./tutorials/tutorial1.step:48 examples.cpp:743
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Click on one of the disks to select it. Now you can see two arrows on it: "
+"blue arrow depicts the velocity and red arrow depicts the acceleration. You "
+"can drag the little gray square at the end of the velocity arrow to change "
+"the velocity."
+msgstr ""
+
+#: ./tutorials/tutorial1.step:49 ./tutorials/tutorial1.step:63
+#: examples.cpp:745 examples.cpp:751
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Take a look at the Properties panel on the right. Here you can numerically "
+"set position and velocity (as well as all other properties) for the current "
+"body."
+msgstr ""
+
+#: ./tutorials/tutorial1.step:62 examples.cpp:749
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Properties</span>"
+msgstr ""
+
+#: ./tutorials/tutorial1.step:64 examples.cpp:753
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Select a spring by clicking on it. Change its stiffness and see how it is "
+"affecting the simulation."
+msgstr ""
+
+#: ./tutorials/tutorial1.step:78 ./tutorials/tutorial5.step:78
+#: examples.cpp:757 examples.cpp:962
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Quest</span>"
+msgstr ""
+
+#: ./tutorials/tutorial1.step:79 examples.cpp:759
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Try to change the system in a way to make the disks spining around the "
+"center of the system."
+msgstr ""
+
+#: ./tutorials/tutorial1.step:80 examples.cpp:761
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Now try to change the properties of the spring in order to make its length "
+"constant while the disks are spinning."
+msgstr ""
+
+#: ./tutorials/tutorial1.step:93 examples.cpp:765
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">More bodies</span>"
+msgstr ""
+
+#: ./tutorials/tutorial1.step:94 examples.cpp:767
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- In order to create a body click on its icon in the Palette panel and "
+"follow the instructions given in the information widget in the top left "
+"corner of scene"
+msgstr ""
+
+#: ./tutorials/tutorial1.step:95 examples.cpp:769
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Create one more disk and two more springs and connect all the items in the "
+"triangle. Now make them all spin around the center."
+msgstr ""
+
+#: ./tutorials/tutorial1.step:132 examples.cpp:777
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Simulation</span>"
+msgstr ""
+
+#: ./tutorials/tutorial1.step:133 examples.cpp:779
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Click on the \"Simulate\" button in the toolbar to start simulation. Click "
+"on the same button again to stop it."
+msgstr ""
+
+#: ./tutorials/tutorial1.step:134 examples.cpp:781
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- After stopping the simulation you can revert to the initial state by "
+"pressing Undo button."
+msgstr ""
+
+#: ./tutorials/tutorial2.step:82 examples.cpp:803
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:14pt; font-weight:600;\">Tutorial 2</span>"
+msgstr ""
+
+#: ./tutorials/tutorial2.step:83 examples.cpp:805
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:12pt;\">Controllers and Graphs</span>"
+msgstr ""
+
+#: ./tutorials/tutorial2.step:96 examples.cpp:809
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Try it</span>"
+msgstr ""
+
+#: ./tutorials/tutorial2.step:97 examples.cpp:811
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Change the stiffness of the spring by moving the slider just below the "
+"bodies. You can also change it by pressing \"Q\" and \"W\" keys!"
+msgstr ""
+
+#: ./tutorials/tutorial2.step:98 examples.cpp:813
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Try changing it while the simulation is active and see how the graph will "
+"change."
+msgstr ""
+
+#: ./tutorials/tutorial2.step:111 examples.cpp:817
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Controller</span>"
+msgstr ""
+
+#: ./tutorials/tutorial2.step:112 examples.cpp:819
+#, kde-format
+msgctxt "HTML:p"
+msgid "- Create a new controller on the scene."
+msgstr ""
+
+#: ./tutorials/tutorial2.step:113 examples.cpp:821
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Click on it with the right mouse button and choose \"Configure controller"
+"\" from the context menu."
+msgstr ""
+
+#: ./tutorials/tutorial2.step:114 examples.cpp:823
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Select mass of the particle1 as the data source, adjust the range and "
+"assign keyboard shortcuts."
+msgstr ""
+
+#: ./tutorials/tutorial2.step:115 examples.cpp:825
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Now try moving the slider and pressing the selected shortcuts while "
+"simulation is active."
+msgstr ""
+
+#: ./tutorials/tutorial2.step:128 examples.cpp:829
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Graph</span>"
+msgstr ""
+
+#: ./tutorials/tutorial2.step:129 examples.cpp:831
+#, kde-format
+msgctxt "HTML:p"
+msgid "- Create a graph for the velocity of particle1."
+msgstr ""
+
+#: ./tutorials/tutorial2.step:130 examples.cpp:833
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Place it below the position graph and make the ranges along X axis the "
+"same for the both graphs. See how the graphs relates to each other."
+msgstr ""
+
+#: ./tutorials/tutorial3.step:64 examples.cpp:855
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:14pt; font-weight:600;\">Tutorial 3</span>"
+msgstr ""
+
+#: ./tutorials/tutorial3.step:65 examples.cpp:857
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:12pt;\">Rigid bodies and tracers</span>"
+msgstr ""
+
+#: ./tutorials/tutorial3.step:79 examples.cpp:861
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Angle and angular velocity</span>"
+msgstr ""
+
+#: ./tutorials/tutorial3.step:80 examples.cpp:863
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- When the rigid body is selected you see three gray handlers on it. Using "
+"them you can change velocity, angle and angular velocity of the body."
+msgstr ""
+
+#: ./tutorials/tutorial3.step:93 examples.cpp:867
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Tracer</span>"
+msgstr ""
+
+#: ./tutorials/tutorial3.step:94 examples.cpp:869
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Tracer is a tool to show trajectory of a given point on a rigid body. Turn "
+"on the simulation to see it in action."
+msgstr ""
+
+#: ./tutorials/tutorial3.step:95 examples.cpp:871
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Change various properties like spring stiffness and see how they affect "
+"the trajectory."
+msgstr ""
+
+#: ./tutorials/tutorial3.step:96 examples.cpp:873
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Attach one more tracer to the box and compare trajectories of different "
+"points."
+msgstr ""
+
+#: ./tutorials/tutorial4.step:77 examples.cpp:895
+#, kde-format
+msgctxt "name"
+msgid "controller2"
+msgstr ""
+
+#: ./tutorials/tutorial4.step:100 examples.cpp:899
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:14pt; font-weight:600;\">Tutorial 4</span>"
+msgstr ""
+
+#: ./tutorials/tutorial4.step:101 examples.cpp:901
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:12pt;\">Motors and forces</span>"
+msgstr ""
+
+#: ./tutorials/tutorial4.step:114 examples.cpp:905
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Linear motor</span>"
+msgstr ""
+
+#: ./tutorials/tutorial4.step:115 examples.cpp:907
+#, kde-format
+msgctxt "HTML:p"
+msgid "- A linear motor applies a constant force to a given point on a body."
+msgstr ""
+
+#: ./tutorials/tutorial4.step:116 examples.cpp:909
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- You can change the force by dragging its handler \n"
+"while the motor is selected."
+msgstr ""
+
+#: ./tutorials/tutorial4.step:118 examples.cpp:912
+#, kde-format
+msgctxt "HTML:p"
+msgid "- You can change the point of application by dragging the force"
+msgstr ""
+
+#: ./tutorials/tutorial4.step:131 examples.cpp:916
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Circular motor</span>"
+msgstr ""
+
+#: ./tutorials/tutorial4.step:132 examples.cpp:918
+#, kde-format
+msgctxt "HTML:p"
+msgid "- A circular motor applies a constant angular momentum to a body."
+msgstr ""
+
+#: ./tutorials/tutorial4.step:133 examples.cpp:920
+#, kde-format
+msgctxt "HTML:p"
+msgid "- Try to attach a circular motor to the box and start simulation."
+msgstr ""
+
+#: ./tutorials/tutorial4.step:146 examples.cpp:924
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Global forces</span>"
+msgstr ""
+
+#: ./tutorials/tutorial4.step:147 examples.cpp:926
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"<span style=\" font-weight:400;\">- Global forces are forces that act on all "
+"bodies of a specific kind, for example weight force.</span>"
+msgstr ""
+
+#: ./tutorials/tutorial4.step:148 examples.cpp:928
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- By default all global forces in Step are turned off. To turn them on, just "
+"add an object for appropriate force to the scene."
+msgstr ""
+
+#: ./tutorials/tutorial4.step:149 examples.cpp:930
+#, kde-format
+msgctxt "HTML:p"
+msgid "- Try to add WeightForce to the scene and start the simulation."
+msgstr ""
+
+#: ./tutorials/tutorial4.step:153 examples.cpp:932
+#, kde-format
+msgctxt "name"
+msgid "box2"
+msgstr ""
+
+#: ./tutorials/tutorial5.step:63 examples.cpp:956
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:14pt; font-weight:600;\">Tutorial 5</span>"
+msgstr ""
+
+#: ./tutorials/tutorial5.step:64 examples.cpp:958
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-size:12pt;\">Joints</span>"
+msgstr ""
+
+#: ./tutorials/tutorial5.step:79 examples.cpp:964
+#, kde-format
+msgctxt "HTML:p"
+msgid "- Create graphs to display coordinates of particles in double pendulum."
+msgstr ""
+
+#: ./tutorials/tutorial5.step:80 examples.cpp:966
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Create triple pendulum by attaching one more particle to the particle2 "
+"using the stick."
+msgstr ""
+
+#: ./tutorials/tutorial5.step:81 examples.cpp:968
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"- Remove anchor1 that fixes position of the box and attach a pin to the "
+"corner of the box. Try starting the simulation."
+msgstr ""
+
+#: ./tutorials/tutorial5.step:114 examples.cpp:976
+#, kde-format
+msgctxt "HTML:p"
+msgid "<span style=\" font-weight:600;\">Joints</span>"
+msgstr ""
+
+#: ./tutorials/tutorial5.step:115 examples.cpp:978
+#, kde-format
+msgctxt "HTML:p"
+msgid ""
+"<span style=\" font-weight:400;\">- Joints are objects that attach bodies to "
+"each other or to the background.</span>"
+msgstr ""
+
+#: ./tutorials/tutorial5.step:116 examples.cpp:980
+#, kde-format
+msgctxt "HTML:p"
+msgid "- An anchor is a joint that fixes the position of the body."
+msgstr ""
+
+#: ./tutorials/tutorial5.step:117 examples.cpp:982
+#, kde-format
+msgctxt "HTML:p"
+msgid "- A pin is a joint that fixes one point of the body."
+msgstr ""
