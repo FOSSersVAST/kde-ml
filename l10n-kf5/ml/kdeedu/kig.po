@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: kig\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-12 03:01+0100\n"
-"PO-Revision-Date: 2018-12-25 03:05+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-11-28 11:54+0000\n"
+"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -1050,7 +1051,7 @@ msgstr ""
 #: kig/kigpartui.rc:5 kig/kigui.rc:4
 #, kde-format
 msgid "&File"
-msgstr ""
+msgstr "ഫയല്‍ (&F)"
 
 #. i18n: ectx: Menu (edit)
 #: kig/kigpartui.rc:16
@@ -1242,7 +1243,7 @@ msgstr ""
 #: kig/kigui.rc:13
 #, kde-format
 msgid "&Settings"
-msgstr ""
+msgstr "സജ്ജീകരണങ്ങള്‍ (&S)"
 
 #: kig/main.cpp:87
 #, kde-format

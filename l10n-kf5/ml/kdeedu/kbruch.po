@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: kbruch\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:01+0200\n"
-"PO-Revision-Date: 2008-07-22 23:23+0530\n"
-"Last-Translator: SUSHMA.K.S/സൂഷമ.കെ.എസ്സ് <sushmamanuks@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-11-28 11:53+0000\n"
+"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -58,7 +58,7 @@ msgstr ""
 #: AppMenuWidgetui.rc:5 FractionRingWidgetui.rc:5 kbruchui.rc:5
 #, kde-format
 msgid "&File"
-msgstr ""
+msgstr "ഫയല്‍ (&F)"
 
 #: ExerciseCompare.cpp:98
 #, kde-format

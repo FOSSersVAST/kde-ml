@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-09-29 02:28+0200\n"
-"PO-Revision-Date: 2019-11-28 07:47+0000\n"
+"PO-Revision-Date: 2019-11-28 11:52+0000\n"
 "Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -58,7 +58,7 @@ msgstr "&ഉപകരണങ്ങള്‍"
 #: data/kwriteui.rc:46
 #, kde-format
 msgid "&Settings"
-msgstr "&സജ്ജീകരണങ്ങള്‍"
+msgstr "സജ്ജീകരണങ്ങള്‍ (&S)"
 
 #. i18n: ectx: Menu (help)
 #: data/kwriteui.rc:56

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-12 02:33+0100\n"
-"PO-Revision-Date: 2019-11-28 07:47+0000\n"
+"PO-Revision-Date: 2019-11-28 11:52+0000\n"
 "Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -69,7 +69,7 @@ msgstr ""
 #: data/kateui.rc:106
 #, kde-format
 msgid "&Settings"
-msgstr ""
+msgstr "സജ്ജീകരണങ്ങള്‍ (&S)"
 
 #. i18n: ectx: Menu (help)
 #: data/kateui.rc:112

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: keditbookmarks\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-24 02:30+0100\n"
-"PO-Revision-Date: 2019-11-28 07:46+0000\n"
+"PO-Revision-Date: 2019-11-28 11:52+0000\n"
 "Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -541,7 +541,7 @@ msgstr "&ഓര്‍മ്മക്കുറിപ്പു്"
 #: keditbookmarks-genui.rc:42 keditbookmarksui.rc:74
 #, kde-format
 msgid "&Settings"
-msgstr "&സജ്ജീകരണങ്ങള്‍"
+msgstr "സജ്ജീകരണങ്ങള്‍ (&S)"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: keditbookmarks-genui.rc:48 keditbookmarksui.rc:81
