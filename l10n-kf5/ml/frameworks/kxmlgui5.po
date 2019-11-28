@@ -12,15 +12,15 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-25 02:54+0100\n"
-"PO-Revision-Date: 2010-12-29 15:32+0530\n"
-"Last-Translator: \n"
-"Language-Team:  <en@li.org>\n"
+"PO-Revision-Date: 2019-11-28 11:51+0000\n"
+"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
+"Language-Team: <en@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 "X-Poedit-Country: INDIA\n"
 
 #: kaboutapplicationdialog.cpp:70 kaboutplugindialog.cpp:75 khelpmenu.cpp:280
@@ -1370,7 +1370,7 @@ msgstr "കുറുക്കുവഴികള്‍"
 #: ui_standards.rc:5
 #, kde-format
 msgid "&File"
-msgstr "&ഫയല്‍"
+msgstr "ഫയല്‍ (&F)"
 
 #. i18n: ectx: Menu (game)
 #: ui_standards.rc:34
@@ -1419,7 +1419,7 @@ msgstr "&പണിയായുധങ്ങള്‍"
 #: ui_standards.rc:151
 #, kde-format
 msgid "&Settings"
-msgstr "&സജ്ജീകരണങ്ങള്‍"
+msgstr "സജ്ജീകരണങ്ങള്‍ (&S)"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: ui_standards.rc:196
