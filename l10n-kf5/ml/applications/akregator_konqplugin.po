@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: akregator_konqplugin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-28 02:23+0200\n"
+"POT-Creation-Date: 2019-11-29 02:33+0100\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
@@ -24,22 +24,22 @@ msgctxt "@action:inmenu"
 msgid "Add Feed to Akregator"
 msgstr "അക്രെഗേറ്ററിലേക്ക് ഫീഡ് കൂട്ടിച്ചേര്‍ക്കുക"
 
-#: konqfeedicon.cpp:142
+#: konqfeedicon.cpp:144
 #, kde-format
 msgid "Add Feed to Akregator"
 msgstr "അക്രിഗേറ്ററില്‍ ഫീഡ് കൂട്ടിച്ചേര്‍ക്കുക"
 
-#: konqfeedicon.cpp:144
+#: konqfeedicon.cpp:146
 #, kde-format
 msgid "Add Feeds to Akregator"
 msgstr "അക്രിഗേറ്ററില്‍ ഫീഡുകള്‍ കൂട്ടിച്ചേര്‍ക്കുക"
 
-#: konqfeedicon.cpp:153
+#: konqfeedicon.cpp:155
 #, kde-format
 msgid "Add All Found Feeds to Akregator"
 msgstr "എല്ലാ ഫീഡുകളും അക്രിഗേറ്ററില്‍ കൂട്ടിച്ചേര്‍ക്കുക "
 
-#: konqfeedicon.cpp:177
+#: konqfeedicon.cpp:179
 #, kde-format
 msgid "Subscribe to site updates (using news feed)"
 msgstr "സൈറ്റുകളിലെ പുതുമകളറിയാന്‍ വരിക്കാരനാകുക (വാര്‍ത്താ ഫീഡുകള്‍ ഉപയോഗിച്ചു്)"

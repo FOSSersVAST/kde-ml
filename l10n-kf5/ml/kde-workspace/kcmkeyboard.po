@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkeyboard trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-11 03:10+0200\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
 "PO-Revision-Date: 2010-12-16 22:21+0530\n"
 "Last-Translator: Anish A <anish.nl@gmail.com>\n"
 "Language-Team: Swathantra Malayalam Computing\n"
@@ -55,7 +55,7 @@ msgctxt "layout - variant"
 msgid "%1 - %2"
 msgstr "%1 | %2"
 
-#: kcm_add_layout_dialog.cpp:58
+#: kcm_add_layout_dialog.cpp:60
 #, kde-format
 msgid "Any language"
 msgstr "ഏതു ഭാഷയും"
@@ -350,32 +350,32 @@ msgstr ""
 msgid "&Configure keyboard options"
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാവര്‍ത്തികമാക്കുക"
 
-#: kcm_keyboard_widget.cpp:216
+#: kcm_keyboard_widget.cpp:214
 #, kde-format
 msgctxt "unknown keyboard model vendor"
 msgid "Unknown"
 msgstr "അറിഞ്ഞുകൂടാത്ത"
 
-#: kcm_keyboard_widget.cpp:218
+#: kcm_keyboard_widget.cpp:216
 #, kde-format
 msgctxt "vendor | keyboard model"
 msgid "%1 | %2"
 msgstr "%1 | %2"
 
-#: kcm_keyboard_widget.cpp:228
+#: kcm_keyboard_widget.cpp:226
 #, kde-format
 msgid "Only up to %1 keyboard layout is supported"
 msgid_plural "Only up to %1 keyboard layouts are supported"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kcm_keyboard_widget.cpp:611
+#: kcm_keyboard_widget.cpp:606
 #, kde-format
 msgctxt "no shortcuts defined"
 msgid "None"
 msgstr "ഒന്നുമില്ല"
 
-#: kcm_keyboard_widget.cpp:627
+#: kcm_keyboard_widget.cpp:622
 #, kde-format
 msgid "%1 shortcut"
 msgid_plural "%1 shortcuts"

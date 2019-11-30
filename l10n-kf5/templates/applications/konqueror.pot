@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-24 02:30+0100\n"
+"POT-Creation-Date: 2019-11-29 02:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1828,18 +1828,18 @@ msgctxt "@action:button ask later"
 msgid "Ask Me Later"
 msgstr ""
 
-#: src/konqstatusbarmessagelabel.cpp:82
+#: src/konqstatusbarmessagelabel.cpp:81
 #, kde-format
 msgctxt "@info"
 msgid "Close"
 msgstr ""
 
-#: src/konqstatusbarmessagelabel.cpp:83
+#: src/konqstatusbarmessagelabel.cpp:82
 #, kde-format
 msgid "Close"
 msgstr ""
 
-#: src/konqstatusbarmessagelabel.cpp:162
+#: src/konqstatusbarmessagelabel.cpp:161
 #, kde-format
 msgid "Error: %1"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmlocale\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
 "PO-Revision-Date: 2009-07-17 10:44-0700\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -19,61 +19,61 @@ msgstr ""
 "X-Generator: Lokalize 0.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: kcmformats.cpp:45
+#: kcmformats.cpp:44
 #, kde-format
 msgid ""
 "<h1>Formats</h1>You can configure the formats used for time, dates, money "
 "and other numbers here."
 msgstr ""
 
-#: kcmformats.cpp:102
+#: kcmformats.cpp:101
 #, kde-format
 msgid "No change"
 msgstr ""
 
-#: kcmformats.cpp:139
+#: kcmformats.cpp:138
 #, kde-format
 msgid "%1 - %2 (%3)"
 msgstr ""
 
-#: kcmformats.cpp:141
+#: kcmformats.cpp:140
 #, kde-format
 msgid "%1 (%2)"
 msgstr ""
 
-#: kcmformats.cpp:274
+#: kcmformats.cpp:287
 #, kde-format
 msgid "Your changes will take effect the next time you log in."
 msgstr ""
 
-#: kcmformats.cpp:275
+#: kcmformats.cpp:288
 #, kde-format
 msgid "Format Settings Changed"
 msgstr ""
 
-#: kcmformats.cpp:341
+#: kcmformats.cpp:354
 #, fuzzy, kde-format
 msgid "%1 (long format)"
 msgstr "തീയതി ലഘു രീതിയില്‍:"
 
-#: kcmformats.cpp:342
+#: kcmformats.cpp:355
 #, fuzzy, kde-format
 msgid "%1 (short format)"
 msgstr "തീയതി ലഘു രീതിയില്‍:"
 
-#: kcmformats.cpp:347
+#: kcmformats.cpp:360
 #, fuzzy, kde-format
 msgctxt "Measurement combobox"
 msgid "Imperial UK"
 msgstr "ഇംപീരിയല്‍"
 
-#: kcmformats.cpp:349
+#: kcmformats.cpp:362
 #, fuzzy, kde-format
 msgctxt "Measurement combobox"
 msgid "Imperial US"
 msgstr "ഇംപീരിയല്‍"
 
-#: kcmformats.cpp:351
+#: kcmformats.cpp:364
 #, fuzzy, kde-format
 msgctxt "Measurement combobox"
 msgid "Metric"

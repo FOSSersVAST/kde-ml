@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: okular\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-27 03:15+0100\n"
+"POT-Creation-Date: 2019-11-30 03:17+0100\n"
 "PO-Revision-Date: 2019-11-28 11:51+0000\n"
 "Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
@@ -265,7 +265,13 @@ msgctxt "Text editor"
 msgid "TeXstudio"
 msgstr "ടെക്സ്സ്റ്റുഡിയോ"
 
-#: conf/dlgeditor.cpp:37
+#: conf/dlgeditor.cpp:35
+#, kde-format
+msgctxt "Text editor"
+msgid "TeXiFy IDEA"
+msgstr ""
+
+#: conf/dlgeditor.cpp:38
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""

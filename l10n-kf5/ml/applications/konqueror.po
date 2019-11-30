@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-24 02:30+0100\n"
+"POT-Creation-Date: 2019-11-29 02:33+0100\n"
 "PO-Revision-Date: 2019-11-28 11:52+0000\n"
 "Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
@@ -1854,18 +1854,18 @@ msgctxt "@action:button ask later"
 msgid "Ask Me Later"
 msgstr "പിന്നീടു് ചോദിക്കുക"
 
-#: src/konqstatusbarmessagelabel.cpp:82
+#: src/konqstatusbarmessagelabel.cpp:81
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "Close"
 msgstr "കാഴ്ച അടയ്ക്കുക"
 
-#: src/konqstatusbarmessagelabel.cpp:83
+#: src/konqstatusbarmessagelabel.cpp:82
 #, fuzzy, kde-format
 msgid "Close"
 msgstr "കാഴ്ച അടയ്ക്കുക"
 
-#: src/konqstatusbarmessagelabel.cpp:162
+#: src/konqstatusbarmessagelabel.cpp:161
 #, kde-format
 msgid "Error: %1"
 msgstr ""

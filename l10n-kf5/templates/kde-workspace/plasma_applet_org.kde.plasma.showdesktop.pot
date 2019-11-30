@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:25+0200\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -27,7 +27,7 @@ msgstr ""
 msgid "Show the Plasma desktop"
 msgstr ""
 
-#: package/contents/ui/main.qml:43
+#: package/contents/ui/main.qml:44
 #, kde-format
 msgctxt "@action"
 msgid "Minimize All Windows"

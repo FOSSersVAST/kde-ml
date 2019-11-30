@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-sdk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 03:33+0100\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
 "PO-Revision-Date: 2019-11-17 15:50+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -95,12 +95,12 @@ msgstr "പ്ലാസ്മ ഡെസ്ക്ടോപ്പ് ലേ ഔട
 msgid "This module lets you choose the global look and feel."
 msgstr "കെട്ടും മട്ടും തീം തിരഞ്ഞെടുക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു."
 
-#: package/contents/ui/main.qml:50
+#: package/contents/ui/main.qml:53
 #, kde-format
 msgid "Preview Theme"
 msgstr "തീം പ്രിവ്യു"
 
-#: package/contents/ui/main.qml:68
+#: package/contents/ui/main.qml:71
 #, kde-format
 msgid ""
 "Your desktop layout will be lost and reset to the default layout provided by "
@@ -109,12 +109,12 @@ msgstr ""
 "നിങ്ങളുടെ ഡെസ്ക്ടോപ്പ് ലേഔട്ട് നഷ്ടപ്പെടുകയും തിരഞ്ഞെടുത്ത തീം നൽകിയ സ്ഥിരസ്ഥിതി ലേഔട്ടിലേക്ക് "
 "പുനഃസജ്ജമാക്കുകയും ചെയ്യും."
 
-#: package/contents/ui/main.qml:78
+#: package/contents/ui/main.qml:81
 #, kde-format
 msgid "Use desktop layout from theme"
 msgstr "തീമിൽ നിന്ന് ഡെസ്ക്ടോപ്പ് ലേ ഔട്ട് ഉപയോഗിക്കുക"
 
-#: package/contents/ui/main.qml:85
+#: package/contents/ui/main.qml:88
 #, kde-format
 msgid "Global Themes"
 msgstr ""

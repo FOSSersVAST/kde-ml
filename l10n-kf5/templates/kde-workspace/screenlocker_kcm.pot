@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kscreenlocker\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-14 03:33+0100\n"
+"POT-Creation-Date: 2019-11-29 03:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -33,16 +33,6 @@ msgid " second"
 msgid_plural " seconds"
 msgstr[0] ""
 msgstr[1] ""
-
-#: kcm.cpp:132
-#, kde-format
-msgid "Error"
-msgstr ""
-
-#: kcm.cpp:132
-#, kde-format
-msgid "Failed to successfully test the screen locker."
-msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_1)
 #: kcm.ui:19

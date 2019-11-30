@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kscreenlocker\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-14 03:33+0100\n"
+"POT-Creation-Date: 2019-11-29 03:36+0100\n"
 "PO-Revision-Date: 2018-08-16 09:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -73,7 +73,7 @@ msgstr ""
 msgid "Sets the minutes after which the screen is locked."
 msgstr ""
 
-#: kscreensaversettings.cpp:45 ksldapp.cpp:175
+#: kscreensaversettings.cpp:57 ksldapp.cpp:175
 #, kde-format
 msgid "Lock Session"
 msgstr ""

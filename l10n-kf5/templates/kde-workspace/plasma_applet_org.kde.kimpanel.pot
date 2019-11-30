@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 03:33+0100\n"
+"POT-Creation-Date: 2019-11-29 03:37+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -28,17 +28,17 @@ msgstr ""
 msgid "Emoji Picker"
 msgstr ""
 
-#: backend/ibus/emojier/ui/emojier.qml:55
+#: backend/ibus/emojier/ui/emojier.qml:56
 #, kde-format
 msgid "Categories"
 msgstr ""
 
-#: backend/ibus/emojier/ui/emojier.qml:78
+#: backend/ibus/emojier/ui/emojier.qml:79
 #, kde-format
 msgid "All"
 msgstr ""
 
-#: backend/ibus/emojier/ui/emojier.qml:79
+#: backend/ibus/emojier/ui/emojier.qml:80
 #, kde-format
 msgid "Recent"
 msgstr ""

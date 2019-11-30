@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmstyle\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 03:33+0100\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
 "PO-Revision-Date: 2008-07-10 01:54+0530\n"
 "Last-Translator: ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -75,37 +75,37 @@ msgstr "ബട്ടണുകളില്‍ ചിത്രം കാ&ണിക
 msgid "On buttons"
 msgstr "റേഡിയോ ബട്ടണ്‍"
 
-#: package/contents/ui/EffectSettingsPopup.qml:50
+#: package/contents/ui/EffectSettingsPopup.qml:51
 #, kde-format
 msgid "In menus"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:57
+#: package/contents/ui/EffectSettingsPopup.qml:60
 #, kde-format
 msgid "Main toolbar label:"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:59
+#: package/contents/ui/EffectSettingsPopup.qml:62
 #, kde-format
 msgid "None"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:60
+#: package/contents/ui/EffectSettingsPopup.qml:63
 #, fuzzy, kde-format
 msgid "Text only"
 msgstr "വാചകം മാത്രം"
 
-#: package/contents/ui/EffectSettingsPopup.qml:61
+#: package/contents/ui/EffectSettingsPopup.qml:64
 #, fuzzy, kde-format
 msgid "Beside icons"
 msgstr "വാചകത്തിനൊപ്പമുള്ള ചിത്രങ്ങള്‍"
 
-#: package/contents/ui/EffectSettingsPopup.qml:62
+#: package/contents/ui/EffectSettingsPopup.qml:65
 #, fuzzy, kde-format
 msgid "Below icon"
 msgstr "ചിത്രങ്ങളുടെ കീഴിലുള്ള വാചകം"
 
-#: package/contents/ui/EffectSettingsPopup.qml:72
+#: package/contents/ui/EffectSettingsPopup.qml:76
 #, kde-format
 msgid "Secondary toolbar label:"
 msgstr ""
@@ -117,13 +117,13 @@ msgid ""
 "interface elements."
 msgstr ""
 
-#: package/contents/ui/main.qml:87
+#: package/contents/ui/main.qml:89
 #, fuzzy, kde-format
 #| msgid "Con&figure..."
 msgid "Configure Style..."
 msgstr "ക്രമീ&കരിക്കുക..."
 
-#: package/contents/ui/main.qml:103
+#: package/contents/ui/main.qml:105
 #, kde-format
 msgid "Configure Icons and Toolbars"
 msgstr ""
