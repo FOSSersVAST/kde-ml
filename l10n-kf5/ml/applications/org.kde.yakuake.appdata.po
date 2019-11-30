@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: yakuake\n"
 "POT-Creation-Date: 2016-02-27 07:20+0000\n"
 "PO-Revision-Date: 2016-02-27 07:20+0000\n"
 "Last-Translator: Automatically generated\n"
