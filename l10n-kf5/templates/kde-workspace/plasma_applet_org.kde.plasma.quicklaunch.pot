@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-11-30 03:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -89,28 +89,28 @@ msgctxt "@action:inmenu"
 msgid "Remove Launcher"
 msgstr ""
 
-#: package/contents/ui/main.qml:145
+#: package/contents/ui/main.qml:146
 #, kde-format
 msgid "Quicklaunch"
 msgstr ""
 
-#: package/contents/ui/main.qml:146
+#: package/contents/ui/main.qml:147
 #, kde-format
 msgctxt "@info"
 msgid "Add launchers by Drag and Drop or by using the context menu."
 msgstr ""
 
-#: package/contents/ui/main.qml:172
+#: package/contents/ui/main.qml:173
 #, kde-format
 msgid "Hide icons"
 msgstr ""
 
-#: package/contents/ui/main.qml:172
+#: package/contents/ui/main.qml:173
 #, kde-format
 msgid "Show hidden icons"
 msgstr ""
 
-#: package/contents/ui/main.qml:271
+#: package/contents/ui/main.qml:272
 #, kde-format
 msgctxt "@action"
 msgid "Add Launcher..."

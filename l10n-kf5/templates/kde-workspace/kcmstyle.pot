@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 03:33+0100\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -72,37 +72,37 @@ msgstr ""
 msgid "On buttons"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:50
+#: package/contents/ui/EffectSettingsPopup.qml:51
 #, kde-format
 msgid "In menus"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:57
+#: package/contents/ui/EffectSettingsPopup.qml:60
 #, kde-format
 msgid "Main toolbar label:"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:59
+#: package/contents/ui/EffectSettingsPopup.qml:62
 #, kde-format
 msgid "None"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:60
+#: package/contents/ui/EffectSettingsPopup.qml:63
 #, kde-format
 msgid "Text only"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:61
+#: package/contents/ui/EffectSettingsPopup.qml:64
 #, kde-format
 msgid "Beside icons"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:62
+#: package/contents/ui/EffectSettingsPopup.qml:65
 #, kde-format
 msgid "Below icon"
 msgstr ""
 
-#: package/contents/ui/EffectSettingsPopup.qml:72
+#: package/contents/ui/EffectSettingsPopup.qml:76
 #, kde-format
 msgid "Secondary toolbar label:"
 msgstr ""
@@ -114,12 +114,12 @@ msgid ""
 "interface elements."
 msgstr ""
 
-#: package/contents/ui/main.qml:87
+#: package/contents/ui/main.qml:89
 #, kde-format
 msgid "Configure Style..."
 msgstr ""
 
-#: package/contents/ui/main.qml:103
+#: package/contents/ui/main.qml:105
 #, kde-format
 msgid "Configure Icons and Toolbars"
 msgstr ""

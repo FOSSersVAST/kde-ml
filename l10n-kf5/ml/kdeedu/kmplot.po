@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kmplot\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-14 02:57+0100\n"
+"POT-Creation-Date: 2019-11-29 03:05+0100\n"
 "PO-Revision-Date: 2019-11-28 11:54+0000\n"
 "Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra Malayalam Computing/സ്വതന്ത്ര മലയാളം "
-"കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra Malayalam Computing/സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
@@ -30,7 +30,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "royal.mexian@gmail.com"
 
-#: calculator.cpp:43 maindlg.cpp:303
+#: calculator.cpp:43 maindlg.cpp:299
 #, kde-format
 msgid "Calculator"
 msgstr "കാല്‍ക്കുലേറ്റര്‍"
@@ -983,7 +983,7 @@ msgstr "Choose a Gradient"
 msgid "Could not find KmPlot's part."
 msgstr "Could not find KmPlot's part."
 
-#: kmplot.cpp:198 maindlg.cpp:537
+#: kmplot.cpp:198 maindlg.cpp:533
 #, fuzzy, kde-format
 msgid "KmPlot Files (*.fkt);;All Files (*)"
 msgstr ""
@@ -1447,7 +1447,7 @@ msgstr ""
 "plot."
 
 #. i18n: ectx: Menu (edit)
-#: kmplot_part.rc:14 kmplot_part_readonly.rc:9 maindlg.cpp:366
+#: kmplot_part.rc:14 kmplot_part_readonly.rc:9 maindlg.cpp:362
 #, kde-format
 msgid "&Edit"
 msgstr "&ചിട്ട"
@@ -1755,159 +1755,159 @@ msgid "URLs to open"
 msgstr "തുറക്കുവാനുള്ള ഫയല്‍"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, SettingsPageGeneral)
-#: maindlg.cpp:208 settingspagegeneral.ui:14
+#: maindlg.cpp:204 settingspagegeneral.ui:14
 #, kde-format
 msgid "General"
 msgstr "സാമാന്യ"
 
-#: maindlg.cpp:208
+#: maindlg.cpp:204
 #, kde-format
 msgid "General Settings"
 msgstr "General Settings"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, SettingsPageDiagram)
-#: maindlg.cpp:209 settingspagediagram.ui:14
+#: maindlg.cpp:205 settingspagediagram.ui:14
 #, kde-format
 msgid "Diagram"
 msgstr "രേഖാചിത്രം"
 
-#: maindlg.cpp:209
+#: maindlg.cpp:205
 #, kde-format
 msgid "Diagram Appearance"
 msgstr "Diagram Appearance"
 
-#: maindlg.cpp:210
+#: maindlg.cpp:206
 #, kde-format
 msgid "Colors"
 msgstr "നിറങ്ങള്‍"
 
-#: maindlg.cpp:211
+#: maindlg.cpp:207
 #, kde-format
 msgid "Fonts"
 msgstr "അക്ഷരക്കൂട്ടങ്ങള്‍"
 
-#: maindlg.cpp:240
+#: maindlg.cpp:236
 #, kde-format
 msgid "Configure KmPlot..."
 msgstr "Configure KmPlot..."
 
-#: maindlg.cpp:246
+#: maindlg.cpp:242
 #, kde-format
 msgid "E&xport..."
 msgstr "E&xport..."
 
-#: maindlg.cpp:260
+#: maindlg.cpp:256
 #, kde-format
 msgid "&Coordinate System..."
 msgstr "&Coordinate System..."
 
-#: maindlg.cpp:265
+#: maindlg.cpp:261
 #, kde-format
 msgid "&Constants..."
 msgstr "&Constants..."
 
-#: maindlg.cpp:275
+#: maindlg.cpp:271
 #, kde-format
 msgid "Zoom &In"
 msgstr "Zoom &In"
 
-#: maindlg.cpp:281
+#: maindlg.cpp:277
 #, kde-format
 msgid "Zoom &Out"
 msgstr "Zoom &Out"
 
-#: maindlg.cpp:287
+#: maindlg.cpp:283
 #, kde-format
 msgid "&Fit Widget to Trigonometric Functions"
 msgstr "&Fit Widget to Trigonometric Functions"
 
-#: maindlg.cpp:291
+#: maindlg.cpp:287
 #, kde-format
 msgid "Reset View"
 msgstr "Reset View"
 
-#: maindlg.cpp:296
+#: maindlg.cpp:292
 #, kde-format
 msgid "Show Sliders"
 msgstr "നിരക്കികള്‍ കാണിക്കൂ"
 
-#: maindlg.cpp:308
+#: maindlg.cpp:304
 #, kde-format
 msgid "Plot &Area..."
 msgstr "Plot &Area..."
 
-#: maindlg.cpp:312
+#: maindlg.cpp:308
 #, kde-format
 msgid "Find Ma&ximum..."
 msgstr "Find Ma&ximum..."
 
-#: maindlg.cpp:317
+#: maindlg.cpp:313
 #, kde-format
 msgid "Find Mi&nimum..."
 msgstr "Find Mi&nimum..."
 
-#: maindlg.cpp:325
+#: maindlg.cpp:321
 #, kde-format
 msgid "Predefined &Math Functions"
 msgstr "Predefined &Math Functions"
 
-#: maindlg.cpp:333
+#: maindlg.cpp:329
 #, kde-format
 msgid "Cartesian Plot"
 msgstr "കാര്‍ട്ടീഷ്യന്‍ പ്ലോട്ട്"
 
-#: maindlg.cpp:339
+#: maindlg.cpp:335
 #, kde-format
 msgid "Parametric Plot"
 msgstr "Parametric Plot"
 
-#: maindlg.cpp:345
+#: maindlg.cpp:341
 #, kde-format
 msgid "Polar Plot"
 msgstr "പോളാര്‍ പ്ലോട്ട്"
 
-#: maindlg.cpp:351
+#: maindlg.cpp:347
 #, kde-format
 msgid "Implicit Plot"
 msgstr "Implicit Plot"
 
-#: maindlg.cpp:357
+#: maindlg.cpp:353
 #, kde-format
 msgid "Differential Plot"
 msgstr "Differential Plot"
 
-#: maindlg.cpp:373
+#: maindlg.cpp:369
 #, kde-format
 msgid "&Hide"
 msgstr "&Hide"
 
-#: maindlg.cpp:378
+#: maindlg.cpp:374
 #, kde-format
 msgid "&Remove"
 msgstr "&Remove"
 
-#: maindlg.cpp:386
+#: maindlg.cpp:382
 #, kde-format
 msgid "Animate Plot..."
 msgstr "Animate Plot..."
 
-#: maindlg.cpp:397
+#: maindlg.cpp:393
 #, kde-format
 msgid "Copy (x, y)"
 msgstr ""
 
-#: maindlg.cpp:401
+#: maindlg.cpp:397
 #, kde-format
 msgctxt "Copied pair of coordinates (x, y)"
 msgid "(%1, %2)"
 msgstr ""
 
-#: maindlg.cpp:406
+#: maindlg.cpp:402
 #, kde-format
 msgid "Copy Root Value"
 msgstr ""
 
-#: maindlg.cpp:492
+#: maindlg.cpp:488
 #, kde-format
 msgid ""
 "The plot has been modified.\n"
@@ -1916,7 +1916,7 @@ msgstr ""
 "ഈ പ്ലോട്ടില്‍ മാറ്റം വന്നിരിക്കുന്നു. \n"
 "ഇത് സൂക്ഷിക്കേണ്ടതുണ്ടൊ?"
 
-#: maindlg.cpp:522
+#: maindlg.cpp:518
 #, kde-format
 msgid ""
 "This file is saved with an old file format; if you save it, you cannot open "
@@ -1925,46 +1925,46 @@ msgstr ""
 "ഈ ഫയല്‍ പഴയ രീതിയില്‍ ആണ് സൂക്ഷിച്ചിരിക്കുന്നതു്; ഇതിപ്പോള്‍ സൂക്ഷിക്കുകയാണെങ്കില്‍പിന്നെ പഴയ വെര്‍ഷന്‍ "
 "കെ-എംപ്ലോട്ട് വെച്ച് തുറക്കുവാന്‍ കഴിയില്ലമുന്നോട്ട് പോകണമെന്ന് ഉറപ്പാണോ?"
 
-#: maindlg.cpp:522
+#: maindlg.cpp:518
 #, kde-format
 msgid "Save New Format"
 msgstr "പുതിയ രീതിയില്‍ സൂക്ഷിക്കുക"
 
-#: maindlg.cpp:536
+#: maindlg.cpp:532
 #, kde-format
 msgid "Save As"
 msgstr "Save As"
 
-#: maindlg.cpp:544
+#: maindlg.cpp:540
 #, kde-format
 msgid "The file could not be saved"
 msgstr "ഫയല്‍ സൂക്ഷിക്കുവാനായില്ല"
 
-#: maindlg.cpp:577
+#: maindlg.cpp:573
 #, fuzzy, kde-format
 msgid "Scalable Vector Graphics (*.svg)"
 msgstr ""
 "\n"
 "*.svg|Scalable Vector Graphics"
 
-#: maindlg.cpp:579
+#: maindlg.cpp:575
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Export as Image"
 msgstr "ചിത്രമായിട്ട് export ചെയ്യുക"
 
-#: maindlg.cpp:649
+#: maindlg.cpp:645
 #, kde-format
 msgid "Sorry, something went wrong while saving to image \"%1\""
 msgstr ""
 "ക്ഷമിക്കണം, ചിത്രമാക്കി സൂക്ഷിക്കുവാന്‍ ശ്രമിച്ചപ്പോള്‍ എന്തോ പിശക്  സംഭവിച്ചിരിക്കുന്നു\"%1\""
 
-#: maindlg.cpp:708
+#: maindlg.cpp:704
 #, kde-format
 msgid "Print Plot"
 msgstr "പ്ലോട്ട് അച്ചടിക്കുക"
 
-#: maindlg.cpp:725 maindlg.cpp:730
+#: maindlg.cpp:721 maindlg.cpp:726
 #, fuzzy, kde-format
 msgid "Print Settings"
 msgstr "&സജ്ജീകരണങ്ങള്‍"

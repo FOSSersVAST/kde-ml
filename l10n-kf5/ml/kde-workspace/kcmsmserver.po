@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kappfinder\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-14 03:21+0200\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
 "PO-Revision-Date: 2008-07-04 11:50+0530\n"
 "Last-Translator: ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: kcmsmserver.cpp:62
+#: kcmsmserver.cpp:67
 #, kde-format
 msgid ""
 "<h1>Session Manager</h1> You can configure the session manager here. This "
@@ -32,34 +32,34 @@ msgstr ""
 "പോകുന്നതിനെ (ലോഗൌട്ട്) സ്ഥിരീകരിക്കണോ വേണ്ടയോ , സെഷന്‍ പുന:സ്ഥാപിക്കണോ വേണ്ടയോ , സെഷനില്‍ "
 "നിന്ന് പുറത്ത് പോയതിന് ശേഷം കമ്പ്യൂട്ടര്‍ സ്വയം അടച്ചു പൂട്ടണോ എന്നിവയൊക്കെ ഈക്രമീകരണങ്ങളില്‍ പെടും"
 
-#: kcmsmserver.cpp:82
+#: kcmsmserver.cpp:87
 #, fuzzy, kde-format
 msgid "Restart Now"
 msgstr "കമ്പ്യൂട്ടര്‍ &വീണ്ടും ആരംഭിക്കുക"
 
-#: kcmsmserver.cpp:123
+#: kcmsmserver.cpp:128
 #, kde-format
 msgid "Failed to request restart to firmware setup: %1"
 msgstr ""
 
-#: kcmsmserver.cpp:135
+#: kcmsmserver.cpp:140
 #, kde-format
 msgid ""
 "Next time the computer is restarted, it will enter the UEFI setup screen."
 msgstr ""
 
-#: kcmsmserver.cpp:137
+#: kcmsmserver.cpp:142
 #, kde-format
 msgid ""
 "Next time the computer is restarted, it will enter the firmware setup screen."
 msgstr ""
 
-#: kcmsmserver.cpp:149
+#: kcmsmserver.cpp:154
 #, kde-format
 msgid "UEFI Setup"
 msgstr ""
 
-#: kcmsmserver.cpp:150
+#: kcmsmserver.cpp:155
 #, kde-format
 msgid "Enter UEFI setup on next restart"
 msgstr ""
@@ -70,7 +70,7 @@ msgstr ""
 msgid "General"
 msgstr "പൊതുവായ"
 
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, confirmLogoutCheck)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_confirmLogout)
 #: smserverconfigdlg.ui:23
 #, kde-format
 msgid ""
@@ -80,20 +80,20 @@ msgstr ""
 "പുറത്തുപോകല്‍ ഉറപ്പാക്കുന്ന ചോദ്യത്തിനുള്ള ഡയലോഗ് ബോക്സ് സെഷന്‍ മാനേജര്‍ കാണിക്കുന്നതിനായി ഇതു "
 "തിരഞ്ഞെടുക്കുക."
 
-#. i18n: ectx: property (text), widget (QCheckBox, confirmLogoutCheck)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_confirmLogout)
 #: smserverconfigdlg.ui:26
 #, kde-format
 msgid "Conf&irm logout"
 msgstr "പുറത്തുപോകല്‍ ഉ&റപ്പാക്കുക"
 
-#. i18n: ectx: property (text), widget (QCheckBox, offerShutdownCheck)
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_offerShutdown)
 #: smserverconfigdlg.ui:33
 #, kde-format
 msgid "O&ffer shutdown options"
 msgstr "അടച്ചു പൂട്ടുന്നതിനുള്ള  ഐച്ഛികങ്ങള്‍ &നല്‍കുക"
 
-#. i18n: ectx: property (whatsThis), widget (QGroupBox, sdGroup)
-#: smserverconfigdlg.ui:43
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, kcfg_shutdownType)
+#: smserverconfigdlg.ui:46
 #, kde-format
 msgid ""
 "Here you can choose what should happen by default when you log out. This "
@@ -102,32 +102,32 @@ msgstr ""
 "പുറത്തുപോകുമ്പോള്‍ സ്വതവേ എന്തു് സംഭവിക്കണം എന്നതു് ഇവിടെ നിങ്ങള്‍ക്കു് തിരഞ്ഞെടുക്കാം. KDM വഴി "
 "ലോഗിന്‍ ചെയ്താല്‍ മാത്രമേ ഇതിനര്‍ത്ഥമുള്ളൂ."
 
-#. i18n: ectx: property (title), widget (QGroupBox, sdGroup)
-#: smserverconfigdlg.ui:46
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_shutdownType)
+#: smserverconfigdlg.ui:49
 #, fuzzy, kde-format
 msgid "Default Leave Option"
 msgstr "അടച്ചു പൂട്ടുന്നതിനു് സ്വതവേയുള്ള ഉപാധി"
 
 #. i18n: ectx: property (text), widget (QRadioButton, logoutRadio)
-#: smserverconfigdlg.ui:52
+#: smserverconfigdlg.ui:55
 #, kde-format
 msgid "&End current session"
 msgstr "നിലവിലുള്ള സെഷന്‍ &അവസാനിപ്പിക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, haltRadio)
-#: smserverconfigdlg.ui:59
+#: smserverconfigdlg.ui:62
 #, kde-format
 msgid "&Turn off computer"
 msgstr "കമ്പ്യൂട്ടര്‍ &അടച്ചു പൂട്ടുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rebootRadio)
-#: smserverconfigdlg.ui:66
+#: smserverconfigdlg.ui:69
 #, kde-format
 msgid "&Restart computer"
 msgstr "കമ്പ്യൂട്ടര്‍ &വീണ്ടും ആരംഭിക്കുക"
 
-#. i18n: ectx: property (whatsThis), widget (QGroupBox, loginGroup)
-#: smserverconfigdlg.ui:80
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, kcfg_loginMode)
+#: smserverconfigdlg.ui:83
 #, kde-format
 msgid ""
 "<ul>\n"
@@ -150,38 +150,38 @@ msgstr ""
 "പണിയിടം കാലിയാകുന്നു.</li>\n"
 "</ul>"
 
-#. i18n: ectx: property (title), widget (QGroupBox, loginGroup)
-#: smserverconfigdlg.ui:83
+#. i18n: ectx: property (title), widget (QGroupBox, kcfg_loginMode)
+#: smserverconfigdlg.ui:86
 #, kde-format
 msgid "On Login"
 msgstr "അകത്തുകയറുമ്പോള്‍"
 
 #. i18n: ectx: property (text), widget (QRadioButton, previousSessionRadio)
-#: smserverconfigdlg.ui:89
+#: smserverconfigdlg.ui:92
 #, kde-format
 msgid "Restore &previous session"
 msgstr "&മുന്‍പുണ്ടായിരുന്ന സെഷന്‍ വീണ്ടെടുക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, savedSessionRadio)
-#: smserverconfigdlg.ui:96
+#: smserverconfigdlg.ui:99
 #, kde-format
 msgid "Restore &manually saved session"
 msgstr "&നിങ്ങള്‍ സ്വയം സൂക്ഷിച്ച സെഷന്‍ വീണ്ടെടുക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, emptySessionRadio)
-#: smserverconfigdlg.ui:103
+#: smserverconfigdlg.ui:106
 #, kde-format
 msgid "Start with an empty &session"
 msgstr "ശൂന്യമായ &സെഷനില്‍ ആരംഭിക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel1)
-#: smserverconfigdlg.ui:110
+#: smserverconfigdlg.ui:113
 #, kde-format
 msgid "Applications to be e&xcluded from sessions:"
 msgstr "സെഷനുകളില്‍ നിന്നും &മാറ്റേണ്ട പ്രയോഗങ്ങള്‍:"
 
-#. i18n: ectx: property (whatsThis), widget (QLineEdit, excludeLineedit)
-#: smserverconfigdlg.ui:123
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, kcfg_excludeApps)
+#: smserverconfigdlg.ui:126
 #, fuzzy, kde-format
 msgid ""
 "Here you can enter a colon or comma separated list of applications that "
@@ -192,13 +192,13 @@ msgstr ""
 "ഇവ സെഷന്‍ പിന്നീടു് വീണ്ടെടുക്കുമ്പോള്‍ ഇവആരംഭിക്കുന്നതല്ല. ഉദാ, 'xterm,xconsole'."
 
 #. i18n: ectx: property (title), widget (QGroupBox, firmwareSetupBox)
-#: smserverconfigdlg.ui:133
+#: smserverconfigdlg.ui:136
 #, kde-format
 msgid "Firmware Setup"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, firmwareSetupCheck)
-#: smserverconfigdlg.ui:146
+#: smserverconfigdlg.ui:149
 #, kde-format
 msgid ""
 "When the computer is restarted the next time, enter firmware setup screen (e."
@@ -206,7 +206,7 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, firmwareSetupCheck)
-#: smserverconfigdlg.ui:149
+#: smserverconfigdlg.ui:152
 #, kde-format
 msgid "Enter firmware setup on next restart"
 msgstr ""

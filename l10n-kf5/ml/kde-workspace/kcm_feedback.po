@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-15 03:24+0200\n"
+"POT-Creation-Date: 2019-10-24 03:36+0200\n"
 "PO-Revision-Date: 2019-10-15 03:24+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -16,6 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -27,22 +28,23 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: feedback.cpp:41
+#: feedback.cpp:40
 #, kde-format
 msgid "User Feedback"
 msgstr ""
 
-#: feedback.cpp:42
+#: feedback.cpp:41
 #, kde-format
 msgid "Configure user feedback settings"
 msgstr ""
 
 #: package/contents/ui/main.qml:43
 #, kde-format
-msgid "Allow KDE software to collect anonymous usage information"
+msgid ""
+"User Feedback has been disabled centrally. Please contact your distributor."
 msgstr ""
 
-#: package/contents/ui/main.qml:47 package/contents/ui/main.qml:68
+#: package/contents/ui/main.qml:47 package/contents/ui/main.qml:70
 #, kde-format
 msgid "Plasma:"
 msgstr ""
@@ -50,12 +52,10 @@ msgstr ""
 #: package/contents/ui/main.qml:51
 #, kde-kuit-format
 msgctxt "@info"
-msgid ""
-"You can help us improve this software by sharing information about how you "
-"use it. This allows us to focus on things that matter to you.<nl/><nl/"
-">Contributing usage information is optional and entirely anonymous. It will "
-"not associate the data with any kind of unique identifier, and will never "
-"track the documents you open, the websites you visit, or any other kind of "
-"personal information.<nl/><nl/>You can read more about our policy in the "
-"following link:"
+msgid "You can read about our policy in the following link:"
+msgstr ""
+
+#: package/contents/ui/main.qml:101
+#, kde-format
+msgid "Plasma"
 msgstr ""

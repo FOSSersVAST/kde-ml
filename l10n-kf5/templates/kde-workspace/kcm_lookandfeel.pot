@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 03:33+0100\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -95,24 +95,24 @@ msgstr ""
 msgid "This module lets you choose the global look and feel."
 msgstr ""
 
-#: package/contents/ui/main.qml:50
+#: package/contents/ui/main.qml:53
 #, kde-format
 msgid "Preview Theme"
 msgstr ""
 
-#: package/contents/ui/main.qml:68
+#: package/contents/ui/main.qml:71
 #, kde-format
 msgid ""
 "Your desktop layout will be lost and reset to the default layout provided by "
 "the selected theme."
 msgstr ""
 
-#: package/contents/ui/main.qml:78
+#: package/contents/ui/main.qml:81
 #, kde-format
 msgid "Use desktop layout from theme"
 msgstr ""
 
-#: package/contents/ui/main.qml:85
+#: package/contents/ui/main.qml:88
 #, kde-format
 msgid "Global Themes"
 msgstr ""
