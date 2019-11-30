@@ -1,0 +1,250 @@
+# Malayalam translation of kmines.po.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdegames package.
+# Abhishek Oommen Jacob <abhishekjacob123@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kmines trunk\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-10-22 02:48+0200\n"
+"PO-Revision-Date: 2008-12-30 17:19+0530\n"
+"Last-Translator: Abhishek Jacob <abhishekjacob123@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "abhishekjacob123@gmail.com"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: customgame.ui:16
+#, kde-format
+msgid "Width:"
+msgstr "വീതി:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: customgame.ui:26
+#, kde-format
+msgid "Height:"
+msgstr "ഉയരം‍:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: customgame.ui:36
+#, kde-format
+msgid "Mines:"
+msgstr "കുഴിബോംബുകള്‍:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_UseQuestionMarks)
+#: generalopts.ui:17
+#, kde-format
+msgid "Use '?' marks"
+msgstr "'?' അടയാളം ഉപയോഗിക്കുക."
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_AllowKminesReset)
+#: generalopts.ui:24
+#, kde-format
+msgid "Allow KMines Reset"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, kcfg_DisableScoreOnReset)
+#: generalopts.ui:37
+#, kde-format
+msgid "Disable Score on Reset"
+msgstr ""
+
+#. i18n: ectx: label, entry (UseQuestionMarks), group (General)
+#: kmines.kcfg:9
+#, kde-format
+msgid "Whether the \"unsure\" marker may be used."
+msgstr "\"ഉറപ്പില്ല\" അടയാളം ഉപയോഗിക്കണോ എന്ന്"
+
+#. i18n: ectx: label, entry (CustomWidth), group (Options)
+#: kmines.kcfg:23
+#, kde-format
+msgid "The width of the playing field."
+msgstr "കളിക്കളത്തിന്റെ വീതി."
+
+#. i18n: ectx: label, entry (CustomHeight), group (Options)
+#: kmines.kcfg:29
+#, kde-format
+msgid "The height of the playing field."
+msgstr "കളിക്കളത്തിന്റെ ഉയരം."
+
+#. i18n: ectx: label, entry (CustomMines), group (Options)
+#: kmines.kcfg:35
+#, kde-format
+msgid "The number of mines in the playing field."
+msgstr "കളിക്കളത്തിലെ കുഴിബോംബുകളുടെ എണ്ണം."
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kminesui.rc:12
+#, kde-format
+msgid "Main Toolbar"
+msgstr "പ്രധാന ഉപകരണപ്പട്ട"
+
+#: main.cpp:33
+#, kde-format
+msgid "KMines is a classic minesweeper game"
+msgstr "കെമൈന്‍സ് ഒരു കുഴിബോംബ് കണ്ടെത്തല്‍ കളിയാണ്"
+
+#: main.cpp:49
+#, kde-format
+msgid "KMines"
+msgstr "കെമൈന്‍സ്"
+
+#: main.cpp:52
+#, kde-format
+msgid "Nicolas Hadacek"
+msgstr "നിക്കോളാസ് ഹാഡസെക്"
+
+#: main.cpp:53
+#, kde-format
+msgid "Original author"
+msgstr "ആദ്യ രചയിതാവ്"
+
+#: main.cpp:54
+#, kde-format
+msgid "Mauricio Piacentini"
+msgstr "മൌറിസിയൊ പിയസെന്റിനി"
+
+#: main.cpp:55
+#, kde-format
+msgid "Code refactoring and SVG support. Current maintainer"
+msgstr "കോഡ് അടുക്കും ചിട്ടയും വരുത്തുകയും എസ്‌വിജി പിന്തുണയും. ഇപ്പോഴത്തെ പരിപാലകന്‍"
+
+#: main.cpp:57
+#, kde-format
+msgid "Dmitry Suzdalev"
+msgstr "ഡിമിട്രി സുസ്ഡാലെവ്"
+
+#: main.cpp:58
+#, kde-format
+msgid "Rewrite to use QGraphicsView framework. Current maintainer"
+msgstr "ക്യൂഗ്രാഫിക്സ്‌വ്യു ഉപയോഗിക്കുന്നതിനായി മാറ്റിയെഴുതുക. ഇപ്പോഴത്തെ പരിപാലകന്‍"
+
+#: main.cpp:60
+#, kde-format
+msgid "Andreas Zehender"
+msgstr "ആന്ദ്രെയാസ് സെഹെന്റര്‍"
+
+#: main.cpp:60
+#, kde-format
+msgid "Smiley pixmaps"
+msgstr "സ്മൈലി പിക്സ്മാപ്സ്"
+
+#: main.cpp:61
+#, kde-format
+msgid "Mikhail Kourinny"
+msgstr "മിഖായില്‍ കൌറിന്നി"
+
+#: main.cpp:61
+#, kde-format
+msgid "Solver/Adviser"
+msgstr "ഉത്തരം കണ്ടെത്തുന്നയാള്‍/ഉപദേഷ്ടാവ്"
+
+#: main.cpp:62
+#, kde-format
+msgid "Thomas Capricelli"
+msgstr "തോമസ് കാപ്രിസെല്ലി"
+
+#: main.cpp:62
+#, kde-format
+msgid "Magic reveal mode"
+msgstr "മാന്ത്രിക വെളിപ്പെടുത്തല്‍ രീതി"
+
+#: main.cpp:63
+#, kde-format
+msgid "Brian Croom"
+msgstr ""
+
+#: main.cpp:63
+#, kde-format
+msgid "Port to use KGameRenderer"
+msgstr ""
+
+#: mainwindow.cpp:109
+#, kde-format
+msgid "Mines: 0/0"
+msgstr "കുഴിബോംബുകള്‍: 0/0"
+
+#: mainwindow.cpp:110 mainwindow.cpp:185
+#, kde-format
+msgid "Time: 00:00"
+msgstr "സമയം: 00:00"
+
+#: mainwindow.cpp:133
+#, kde-format
+msgid "Custom"
+msgstr "മാറ്റം വരുത്തിയത്"
+
+#: mainwindow.cpp:147
+#, kde-format
+msgid "Mines: %1/%2"
+msgstr "കുഴിബോംബുകള്‍: %1/%2"
+
+#: mainwindow.cpp:213
+#, kde-format
+msgid "Reset?"
+msgstr ""
+
+#: mainwindow.cpp:213
+#, kde-format
+msgid "Reset the Game?"
+msgstr ""
+
+#: mainwindow.cpp:224
+#, kde-format
+msgid "Time: %1"
+msgstr "സമയം: %1"
+
+#: mainwindow.cpp:250
+#, kde-format
+msgid "General"
+msgstr "പൊതുവായത്"
+
+#: mainwindow.cpp:251
+#, kde-format
+msgid "Theme"
+msgstr "പ്രമേയം"
+
+#: mainwindow.cpp:252
+#, kde-format
+msgid "Custom Game"
+msgstr "ആവശ്യാനുസരണം മാറ്റം വരുത്തിയ കളി"
+
+#: scene.cpp:116
+#, kde-format
+msgid "Game is paused."
+msgstr "കളി താത്കാലികമായി നിര്‍ത്തിവച്ചിരിക്കുന്നു."
+
+#: scene.cpp:124
+#, fuzzy, kde-format
+#| msgid "Congratulatons! You have won!"
+msgid "Congratulations! You have won!"
+msgstr "അഭിനന്ദനങ്ങള്‍! താങ്കള്‍ വിജയിച്ചു!"
+
+#: scene.cpp:126
+#, kde-format
+msgid "You have lost."
+msgstr "താങ്കള്‍ പരാജയപ്പെട്ടു."
+
+#~ msgid "The graphical theme to be used."
+#~ msgstr "ഉപയോഗിക്കേണ്ട പ്രമേയം."
+
+#~ msgid "The difficulty level."
+#~ msgstr "പ്രയാസ തലം"
+
+#~ msgid "Failed to load \"%1\" theme. Please check your installation."
+#~ msgstr ""
+#~ "\"%1\" പ്രമേയം ലോഡ് ചെയ്യാന്‍ കഴിഞ്ഞില്ല. ദയവായി നിങ്ങളുടെ ഇന്‍സ്റ്റളേഷന്‍ പരിശോധിക്കുക."

@@ -1,0 +1,62 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-06 02:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: org.kde.klines.desktop:7
+msgctxt "GenericName"
+msgid "Tactical Game"
+msgstr ""
+
+#: org.kde.klines.desktop:78
+msgctxt "Name"
+msgid "Kolor Lines"
+msgstr ""
+
+#: org.kde.klines.desktop:147
+msgctxt "Comment"
+msgid "Tactical game"
+msgstr ""
+
+#: themes/crystal.desktop:3
+msgctxt "Name"
+msgid "Crystal"
+msgstr ""
+
+#: themes/egyptian.desktop:3
+msgctxt "Name"
+msgid "Egyptian"
+msgstr ""
+
+#: themes/egyptian.desktop:51
+msgctxt "Description"
+msgid "An Egyptian style theme for klines."
+msgstr ""
+
+#: themes/klines-gems.desktop:3
+msgctxt "Name"
+msgid "Gems for Kolor Lines"
+msgstr ""
+
+#: themes/metal.desktop:3
+msgctxt "Name"
+msgid "Metal"
+msgstr ""
+
+#: themes/metal.desktop:51
+msgctxt "Description"
+msgid "A metal style theme with bouncing balls"
+msgstr ""
+
+#: themes/pool.desktop:3
+msgctxt "Name"
+msgid "Pool"
+msgstr ""
