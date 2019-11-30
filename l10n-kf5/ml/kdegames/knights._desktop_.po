@@ -1,0 +1,71 @@
+# translation of desktop_extragear-games_knights.po to
+# Anish A <anish.nl@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_extragear-games_knights\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-10-22 01:23+0000\n"
+"PO-Revision-Date: 2010-12-17 13:33+0530\n"
+"Last-Translator: \n"
+"Language-Team:  <en@li.org>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: src/org.kde.knights.desktop:2 themes/knights.desktop:2
+msgctxt "Name"
+msgid "Knights"
+msgstr "കെനൈറ്റ്സ്"
+
+#: src/org.kde.knights.desktop:54
+msgctxt "GenericName"
+msgid "Chess game"
+msgstr "ചെസ്സ് കളി"
+
+#: themes/default.desktop:2
+msgctxt "Name"
+msgid "Grayscale"
+msgstr "ഗ്രേസ്കേല്‍"
+
+#: themes/default.desktop:49
+msgctxt "Description"
+msgid "A grayscale theme using the Oxygen palette"
+msgstr "ഓക്സിജന്‍ വര്‍ണ്ണഫലകം ഉപയോഗിക്കുന്ന ഗ്രേസ്കേല്‍ പ്രമേയം"
+
+#: themes/east_west.desktop:2
+msgctxt "Name"
+msgid "East and West"
+msgstr "കിഴക്കും പടിഞ്ഞാറും"
+
+#: themes/east_west.desktop:49
+msgctxt "Description"
+msgid "A middle ages styled chess set"
+msgstr "മധ്യ കാലഘട്ടത്തിന്റെ രീതിയിലുള്ള ചെസ്സ് സെറ്റ്"
+
+#: themes/knights.desktop:49
+msgctxt "Description"
+msgid "Original Knights theme."
+msgstr "യഥാര്‍ഥ കെനൈറ്റ്സ് പ്രമേയം."
+
+#: themes/plain.desktop:2
+msgctxt "Name"
+msgid "Plain"
+msgstr "സാധാരണ"
+
+#: themes/plain.desktop:49
+msgctxt "Description"
+msgid "A plain and simple theme"
+msgstr "സാധാരണയും ലളിതവുമായ പ്രമേയം"
+
+#: themes/xboard2.desktop:2
+msgctxt "Name"
+msgid "XBoard Two"
+msgstr "എക്സ്ബോര്‍ഡ് രണ്ട്"
+
+#: themes/xboard2.desktop:48
+msgctxt "Description"
+msgid "Theme variation of XBoard chess program."
+msgstr "എക്സ്ബോര്‍ഡ് ചെസ്സ് കളിയുടെ പ്രമേയ ഇനം."
