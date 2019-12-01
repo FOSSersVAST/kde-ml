@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: kmines trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-10-22 02:48+0200\n"
-"PO-Revision-Date: 2008-12-30 17:19+0530\n"
-"Last-Translator: Abhishek Jacob <abhishekjacob123@gmail.com>\n"
-"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-11-17 15:50+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: ml_IN\n"
+"X-Source-Language: C\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -55,13 +57,13 @@ msgstr "'?' അടയാളം ഉപയോഗിക്കുക."
 #: generalopts.ui:24
 #, kde-format
 msgid "Allow KMines Reset"
-msgstr ""
+msgstr "കെമൈന്‍സ് പുനർസജ്ജമാക്കാൻ അനുവദിക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_DisableScoreOnReset)
 #: generalopts.ui:37
 #, kde-format
 msgid "Disable Score on Reset"
-msgstr ""
+msgstr "പുനർസജ്ജമാക്കുമ്പോൾ സ്കോർ അപ്രാപ്തമാക്കുക"
 
 #. i18n: ectx: label, entry (UseQuestionMarks), group (General)
 #: kmines.kcfg:9
@@ -196,12 +198,12 @@ msgstr "കുഴിബോംബുകള്‍: %1/%2"
 #: mainwindow.cpp:213
 #, kde-format
 msgid "Reset?"
-msgstr ""
+msgstr "പുനർ സജ്ജമാക്കണോ?"
 
 #: mainwindow.cpp:213
 #, kde-format
 msgid "Reset the Game?"
-msgstr ""
+msgstr "ഗെയിം പുനർസജ്ജമാക്കണോ?"
 
 #: mainwindow.cpp:224
 #, kde-format
@@ -229,8 +231,7 @@ msgid "Game is paused."
 msgstr "കളി താത്കാലികമായി നിര്‍ത്തിവച്ചിരിക്കുന്നു."
 
 #: scene.cpp:124
-#, fuzzy, kde-format
-#| msgid "Congratulatons! You have won!"
+#, kde-format
 msgid "Congratulations! You have won!"
 msgstr "അഭിനന്ദനങ്ങള്‍! താങ്കള്‍ വിജയിച്ചു!"
 

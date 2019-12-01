@@ -2,246 +2,250 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-01 01:24+0000\n"
-"PO-Revision-Date: 2019-06-01 01:24+0000\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2019-11-19 02:47+0000\n"
+"PO-Revision-Date: 2019-11-17 15:50+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
+"Language: ml_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ml\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: ml_IN\n"
+"X-Source-Language: C\n"
 
 #: src/gui/org.kde.ksudoku.desktop:2
 msgctxt "Name"
 msgid "KSudoku"
-msgstr ""
+msgstr "കെസുഡോക്കു"
 
-#: src/gui/org.kde.ksudoku.desktop:56
+#: src/gui/org.kde.ksudoku.desktop:57
 msgctxt "GenericName"
 msgid "Sudoku Game"
-msgstr ""
+msgstr "സുഡോകു കളി"
 
-#: src/gui/org.kde.ksudoku.desktop:107
+#: src/gui/org.kde.ksudoku.desktop:109
 msgctxt "Comment"
 msgid "KSudoku, Sudoku game & more by KDE"
-msgstr ""
+msgstr "കെഡിഇ യുടെ കെസുഡോകു,സുഡോകു കളിയും കൂടുതലും"
 
 #: src/shapes/4x4.desktop:2
 msgctxt "Name"
 msgid "4x4"
-msgstr ""
+msgstr "4x4"
 
-#: src/shapes/4x4.desktop:60
+#: src/shapes/4x4.desktop:61
 msgctxt "Description"
 msgid "4x4 shape puzzle"
-msgstr ""
+msgstr "4x4 ആകൃതിയിലുള്ള പസിൽ"
 
 #: src/shapes/6x6.desktop:2
 msgctxt "Name"
 msgid "6x6"
-msgstr ""
+msgstr "6x6"
 
-#: src/shapes/6x6.desktop:44
+#: src/shapes/6x6.desktop:45
 msgctxt "Description"
 msgid "6x6 puzzle with rectangular blocks"
-msgstr ""
+msgstr "ചതുരാകൃതിയിലുള്ള കട്ടകളുള്ള 6x6 പസിൽ"
 
 #: src/shapes/Aztec.desktop:2
 msgctxt "Name"
 msgid "Aztec"
-msgstr ""
+msgstr "ആസ്ടെക്"
 
-#: src/shapes/Aztec.desktop:50
+#: src/shapes/Aztec.desktop:51
 msgctxt "Description"
 msgid "Jigsaw variant shaped like an Aztec pyramid"
-msgstr ""
+msgstr "ആസ്‌ടെക് പിരമിഡിന്റെ ആകൃതിയിലുള്ള ജിഗ്സോ പതിപ്പ്"
 
 #: src/shapes/DoubleRoxdoku.desktop:2
 msgctxt "Name"
 msgid "Double Roxdoku"
-msgstr ""
+msgstr "ഇരട്ട റോക്‌സ്‌ഡോകു"
 
-#: src/shapes/DoubleRoxdoku.desktop:42
+#: src/shapes/DoubleRoxdoku.desktop:43
 msgctxt "Description"
 msgid "Three-dimensional puzzle with two interlocking 3x3x3 cubes"
-msgstr ""
+msgstr "രണ്ട് ഇന്റർലോക്കിംഗ് 3x3x3 ക്യൂബുകളുള്ള ത്രിമാന പസിൽ"
 
 #: src/shapes/Jigsaw.desktop:2
 msgctxt "Name"
 msgid "Jigsaw"
-msgstr ""
+msgstr "ജിഗ്സോ"
 
-#: src/shapes/Jigsaw.desktop:53
+#: src/shapes/Jigsaw.desktop:54
 msgctxt "Description"
 msgid "Jigsaw shape puzzle"
-msgstr ""
+msgstr "ജിഗ്സോ ആകൃതി പസിൽ"
 
 #: src/shapes/Killer_4x4.desktop:2
 msgctxt "Name"
 msgid "Tiny Killer"
-msgstr ""
+msgstr "ടൈനി കില്ലർ"
 
-#: src/shapes/Killer_4x4.desktop:32
+#: src/shapes/Killer_4x4.desktop:33
 msgctxt "Description"
 msgid "4x4 Sudoku, but cages must add to totals shown"
-msgstr ""
+msgstr "4x4 സുഡോകു, പക്ഷേ കൂടുകൾ കാണിച്ചിരിക്കുന്ന ആകെത്തുകയിലേക്ക് ചേർക്കണം"
 
 #: src/shapes/Killer_9x9.desktop:2
 msgctxt "Name"
 msgid "Killer Sudoku"
-msgstr ""
+msgstr "കില്ലർ സുഡോകു"
 
-#: src/shapes/Killer_9x9.desktop:33
+#: src/shapes/Killer_9x9.desktop:34
 msgctxt "Description"
 msgid "Classic Sudoku, but cages must add to totals shown"
-msgstr ""
+msgstr "ക്ലാസിക് സുഡോകു, പക്ഷേ കൂടുകൾ കാണിച്ചിരിക്കുന്ന ആകെത്തുകയിലേക്ക് ചേർക്കണം"
 
 #: src/shapes/Mathdoku_4x4.desktop:2
 msgctxt "Name"
 msgid "Mathdoku 101"
-msgstr ""
+msgstr "മത്‌ഡോകു 101"
 
-#: src/shapes/Mathdoku_4x4.desktop:33
+#: src/shapes/Mathdoku_4x4.desktop:34
 msgctxt "Description"
 msgid "Size 4x4 grid, with calculated cages"
-msgstr ""
+msgstr "4x4 വലുപ്പത്തിലുള്ള ഗ്രിഡ്നൊപ്പം കണക്കാക്കിയ കൂടുകളും"
 
 #: src/shapes/Mathdoku_Settable.desktop:2
 msgctxt "Name"
 msgid "Mathdoku - Settable Size"
-msgstr ""
+msgstr "മാത്ത്ഡോകു - ക്രമീകരിക്കാവുന്ന വലുപ്പം"
 
-#: src/shapes/Mathdoku_Settable.desktop:32
+#: src/shapes/Mathdoku_Settable.desktop:33
 msgctxt "Description"
 msgid "Size 3x3 to 9x9 grid, with calculated cages"
-msgstr ""
+msgstr "3x3 മുതൽ 9x9 വരെ  വലുപ്പത്തിലുള്ള ഗ്രിഡ്നൊപ്പം കണക്കാക്കിയ കൂടുകളും"
 
 #: src/shapes/Nonomino.desktop:2
 msgctxt "Name"
 msgid "Nonomino 9x9"
-msgstr ""
+msgstr "നോനോമിനോ 9x9"
 
-#: src/shapes/Nonomino.desktop:43
+#: src/shapes/Nonomino.desktop:44
 msgctxt "Description"
 msgid "Jigsaw variant with irregularly shaped Nonomino blocks"
-msgstr ""
+msgstr "ക്രമരഹിതമായ ആകൃതിയിലുള്ള നോനോമിനോ ബ്ലോക്കുകളുള്ള ജിഗ്‌സോ പതിപ്പ്"
 
 #: src/shapes/Pentomino.desktop:2
 msgctxt "Name"
 msgid "Pentomino 5x5"
-msgstr ""
+msgstr "പെന്റോമിനോ 5x5"
 
-#: src/shapes/Pentomino.desktop:43
+#: src/shapes/Pentomino.desktop:44
 msgctxt "Description"
 msgid "Jigsaw variant with irregularly shaped Pentomino blocks"
-msgstr ""
+msgstr "ക്രമരഹിതമായ ആകൃതിയിലുള്ള പെന്റോമിനോ ബ്ലോക്കുകളുള്ള ജിഗ്‌സോ വേരിയൻറ്"
 
 #: src/shapes/RoxdokuTwin.desktop:2
 msgctxt "Name"
 msgid "Roxdoku Twin"
-msgstr ""
+msgstr "റോക്‌സ്‌ഡോകു ട്വിൻ"
 
-#: src/shapes/RoxdokuTwin.desktop:41
+#: src/shapes/RoxdokuTwin.desktop:42
 msgctxt "Description"
 msgid "Three-dimensional puzzle with two 3x3x3 cubes which share a corner"
-msgstr ""
+msgstr "ഒരു മൂല പങ്കിടുന്ന രണ്ട് 3x3x3 സമചതുരങ്ങളുള്ള ത്രിമാന പസിൽ"
 
 #: src/shapes/Samurai.desktop:2
 msgctxt "Name"
 msgid "Samurai"
-msgstr ""
+msgstr "സമുറായ്"
 
-#: src/shapes/Samurai.desktop:54
+#: src/shapes/Samurai.desktop:55
 msgctxt "Description"
 msgid "Samurai shape puzzle"
-msgstr ""
+msgstr "സമുറായി ആകൃതിയിലുള്ള പസിൽ"
 
 #: src/shapes/SamuraiRoxdoku.desktop:2
 msgctxt "Name"
 msgid "Samurai Roxdoku"
-msgstr ""
+msgstr "സമുറായ് റോക്‌സ്‌ഡോകു"
 
-#: src/shapes/SamuraiRoxdoku.desktop:42
+#: src/shapes/SamuraiRoxdoku.desktop:43
 msgctxt "Description"
 msgid "Samurai three-dimensional puzzle with nine 3x3x3 cubes"
-msgstr ""
+msgstr "ഒമ്പത് 3x3x3 ക്യൂബുകളുള്ള സമുറായ് ത്രിമാന പസിൽ"
 
 #: src/shapes/Sohei.desktop:2
 msgctxt "Name"
 msgid "Sohei"
-msgstr ""
+msgstr "സോഹി"
 
-#: src/shapes/Sohei.desktop:44
+#: src/shapes/Sohei.desktop:45
 msgctxt "Description"
 msgid "Sohei puzzle with four overlapping 9x9 squares"
-msgstr ""
+msgstr "നാല് ഓവർലാപ്പിംഗ് 9x9 സ്ക്വയറുകളുള്ള സോഹെ പസിൽ"
 
 #: src/shapes/Tetromino.desktop:2
 msgctxt "Name"
 msgid "Tetromino 4x4"
-msgstr ""
+msgstr "ടെട്രോമിനോ 4x4"
 
-#: src/shapes/Tetromino.desktop:44
+#: src/shapes/Tetromino.desktop:45
 msgctxt "Description"
 msgid "Jigsaw with Tetromino blocks (Tetris pieces)"
-msgstr ""
+msgstr "ടെട്രോമിനോ ബ്ലോക്കുകളുള്ള ജിഗ്‌സോ (ടെട്രിസ് പീസുകൾ)"
 
 #: src/shapes/TinySamurai.desktop:2
 msgctxt "Name"
 msgid "Tiny Samurai"
-msgstr ""
+msgstr "ടൈനി സമുറായ്"
 
-#: src/shapes/TinySamurai.desktop:53
+#: src/shapes/TinySamurai.desktop:54
 msgctxt "Description"
 msgid "A smaller samurai puzzle"
-msgstr ""
+msgstr "ഒരു ചെറിയ സമുറായി പസിൽ"
 
 #: src/shapes/Windmill.desktop:2
 msgctxt "Name"
 msgid "Windmill"
-msgstr ""
+msgstr "വിൻഡ്മിൽ"
 
-#: src/shapes/Windmill.desktop:44
+#: src/shapes/Windmill.desktop:45
 msgctxt "Description"
 msgid "Windmill puzzle with five overlapping 9x9 squares"
-msgstr ""
+msgstr "അഞ്ച് ഓവർലാപ്പിംഗ് 9x9 സ്ക്വയറുകളുള്ള വിൻഡ്മിൽ പസിൽ"
 
 #: src/shapes/XSudoku.desktop:2
 msgctxt "Name"
 msgid "XSudoku"
-msgstr ""
+msgstr "എക്സ്സുഡോകു"
 
-#: src/shapes/XSudoku.desktop:53
+#: src/shapes/XSudoku.desktop:54
 msgctxt "Description"
 msgid "XSudoku shape puzzle"
-msgstr ""
+msgstr "എക്സ്സുഡോകു ആകൃതി പസിൽ"
 
 #: src/themes/abstraction.desktop:2
 msgctxt "Name"
 msgid "Abstraction"
-msgstr ""
+msgstr "അബ്സ്ട്രാക്ഷൻ"
 
-#: src/themes/abstraction.desktop:44
+#: src/themes/abstraction.desktop:45
 msgctxt "Description"
 msgid "A ksudoku theme with abstract artwork."
-msgstr ""
+msgstr "അമൂർത്ത കലാസൃഷ്‌ടിയുള്ള ഒരു ക്സുഡോകു തീം."
 
 #: src/themes/default.desktop:2
 msgctxt "Name"
 msgid "ksudoku_egyptian"
-msgstr ""
+msgstr "കെസുഡോകു_ഈജിപ്ഷ്യൻ"
 
-#: src/themes/default.desktop:42
+#: src/themes/default.desktop:43
 msgctxt "Description"
 msgid "KSudoku egyptian style theme"
-msgstr ""
+msgstr "കെസുഡോകു ഈജിപ്ഷ്യൻ ശൈലി തീം"
 
 #: src/themes/ksudoku_scrible.desktop:2
 msgctxt "Name"
 msgid "Scribble"
-msgstr ""
+msgstr "സ്‌ക്രിബിൾ"
 
-#: src/themes/ksudoku_scrible.desktop:54
+#: src/themes/ksudoku_scrible.desktop:55
 msgctxt "Description"
 msgid "KSudoku Scribble theme for KDE 4"
-msgstr ""
+msgstr "കെ‌ഡി‌ഇ 4 നായുള്ള കെ‌സുഡോകു സ്‌ക്രിബിൾ തീം"

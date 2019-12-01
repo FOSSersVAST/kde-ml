@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-17 06:50+0000\n"
+"POT-Creation-Date: 2019-11-19 02:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -16,12 +16,12 @@ msgctxt "Name"
 msgid "KMines"
 msgstr ""
 
-#: data/org.kde.kmines.desktop:75
+#: data/org.kde.kmines.desktop:76
 msgctxt "GenericName"
 msgid "Minesweeper-like Game"
 msgstr ""
 
-#: data/org.kde.kmines.desktop:139
+#: data/org.kde.kmines.desktop:140
 msgctxt "Comment"
 msgid "Minesweeper-like Game"
 msgstr ""
@@ -31,7 +31,7 @@ msgctxt "Name"
 msgid "Classic"
 msgstr ""
 
-#: themes/classic.desktop:60
+#: themes/classic.desktop:61
 msgctxt "Description"
 msgid "Classic theme for KMines"
 msgstr ""
@@ -41,7 +41,7 @@ msgctxt "Name"
 msgid "Default"
 msgstr ""
 
-#: themes/default.desktop:62
+#: themes/default.desktop:63
 msgctxt "Description"
 msgid "KMines Oxygen theme"
 msgstr ""
@@ -51,7 +51,7 @@ msgctxt "Name"
 msgid "Graveyard Mayhem"
 msgstr ""
 
-#: themes/graveyard-mayhem.desktop:43
+#: themes/graveyard-mayhem.desktop:44
 msgctxt "Description"
 msgid ""
 "A spooky theme for KMines. Don't get caught by the zombies in the graveyard!"
@@ -62,7 +62,7 @@ msgctxt "Name"
 msgid "Gardens of Danger"
 msgstr ""
 
-#: themes/green.desktop:51
+#: themes/green.desktop:52
 msgctxt "Description"
 msgid "A funny theme for KMines"
 msgstr ""

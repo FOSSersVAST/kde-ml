@@ -2,67 +2,73 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-17 06:50+0000\n"
-"PO-Revision-Date: 2019-11-17 06:50+0000\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2019-11-19 02:47+0000\n"
+"PO-Revision-Date: 2019-11-17 15:50+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
+"Language: ml_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ml\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: ml_IN\n"
+"X-Source-Language: C\n"
 
 #: data/org.kde.kmines.desktop:2
 msgctxt "Name"
 msgid "KMines"
-msgstr ""
+msgstr "കെമൈന്‍സ്"
 
-#: data/org.kde.kmines.desktop:75
+#: data/org.kde.kmines.desktop:76
+#, fuzzy
 msgctxt "GenericName"
 msgid "Minesweeper-like Game"
-msgstr ""
+msgstr "കുഴിബോംബ് കണ്ടെത്തൽ പോലുള്ള കളി"
 
-#: data/org.kde.kmines.desktop:139
+#: data/org.kde.kmines.desktop:140
+#, fuzzy
 msgctxt "Comment"
 msgid "Minesweeper-like Game"
-msgstr ""
+msgstr "കുഴിബോംബ് കണ്ടെത്തൽ പോലുള്ള കളി"
 
 #: themes/classic.desktop:2
 msgctxt "Name"
 msgid "Classic"
-msgstr ""
+msgstr "ക്ലാസിക്"
 
-#: themes/classic.desktop:60
+#: themes/classic.desktop:61
 msgctxt "Description"
 msgid "Classic theme for KMines"
-msgstr ""
+msgstr "കെമൈൻസിനുള്ള ക്ലാസിക് തീം"
 
 #: themes/default.desktop:2
 msgctxt "Name"
 msgid "Default"
-msgstr ""
+msgstr "സ്ഥിരസ്ഥിതി"
 
-#: themes/default.desktop:62
+#: themes/default.desktop:63
 msgctxt "Description"
 msgid "KMines Oxygen theme"
-msgstr ""
+msgstr "കെമൈൻസ് ഓക്സിജൻ തീം"
 
 #: themes/graveyard-mayhem.desktop:2
 msgctxt "Name"
 msgid "Graveyard Mayhem"
-msgstr ""
+msgstr "ശ്‌മശാന കലാപം"
 
-#: themes/graveyard-mayhem.desktop:43
+#: themes/graveyard-mayhem.desktop:44
 msgctxt "Description"
 msgid ""
 "A spooky theme for KMines. Don't get caught by the zombies in the graveyard!"
-msgstr ""
+msgstr "കെമൈൻസിനുള്ള ഭൂതാവിഷ്‌ടമായ ഒരു തീം.ശ്മാശാനത്തിലുള്ള സോമ്പികളുക്ക് പിടികൊടുക്കരുത്!"
 
 #: themes/green.desktop:2
 msgctxt "Name"
 msgid "Gardens of Danger"
-msgstr ""
+msgstr "അപയായത്തിന്റെ ഉദ്യാനങ്ങൾ"
 
-#: themes/green.desktop:51
+#: themes/green.desktop:52
 msgctxt "Description"
 msgid "A funny theme for KMines"
-msgstr ""
+msgstr "കെമൈൻസിനുള്ള രസകരമായ ഒരു തീം"
