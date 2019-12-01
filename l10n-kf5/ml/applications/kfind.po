@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfindpart\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-16 02:25+0100\n"
+"POT-Creation-Date: 2019-12-01 02:32+0100\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -283,7 +283,7 @@ msgstr "കൂടിയതു്"
 msgid "Equal To"
 msgstr "സമം"
 
-#: kftabdlg.cpp:234 kftabdlg.cpp:889
+#: kftabdlg.cpp:234 kftabdlg.cpp:891
 #, fuzzy, kde-format
 msgid "Byte"
 msgid_plural "Bytes"
@@ -440,47 +440,47 @@ msgid ""
 "Search only in Resolution, Bitdepth...</li></ul></qt>"
 msgstr ""
 
-#: kftabdlg.cpp:607
+#: kftabdlg.cpp:609
 #, kde-format
 msgid "Unable to search within a period which is less than a minute."
 msgstr "ഒരു മിനിട്ടിനകമുള്ള കാലയളവില്‍ തിരയാന്‍ സാധ്യമല്ല."
 
-#: kftabdlg.cpp:618
+#: kftabdlg.cpp:620
 #, kde-format
 msgid "The date is not valid."
 msgstr "തീയതി അസാധുവാണു്."
 
-#: kftabdlg.cpp:620
+#: kftabdlg.cpp:622
 #, kde-format
 msgid "Invalid date range."
 msgstr "തീയതി തെറ്റായ പരിധിയിലാണു്."
 
-#: kftabdlg.cpp:622
+#: kftabdlg.cpp:624
 #, kde-format
 msgid "Unable to search dates in the future."
 msgstr "ഭാവിയിലുള്ള തീയതികള്‍ തിരയുവാന്‍ സാധ്യമായില്ല."
 
-#: kftabdlg.cpp:694
+#: kftabdlg.cpp:696
 #, kde-format
 msgid "Size is too big. Set maximum size value?"
 msgstr "വളരെ വലുതാണു്. ഏറ്റവും കൂടിയ വലിപ്പം ആക്കണമോ?"
 
-#: kftabdlg.cpp:694
+#: kftabdlg.cpp:696
 #, kde-format
 msgid "Error"
 msgstr "പിശകു്"
 
-#: kftabdlg.cpp:694
+#: kftabdlg.cpp:696
 #, kde-format
 msgid "Set"
 msgstr "സജീകരിക്കുക"
 
-#: kftabdlg.cpp:694
+#: kftabdlg.cpp:696
 #, kde-format
 msgid "Do Not Set"
 msgstr "സജ്ജമാക്കേണ്ട"
 
-#: kftabdlg.cpp:879
+#: kftabdlg.cpp:881
 #, fuzzy, kde-format
 msgctxt ""
 "during the previous minute(s)/hour(s)/...; dynamic context 'type': 'i' "
@@ -490,7 +490,7 @@ msgid_plural "&during the previous"
 msgstr[0] "നേരത്തേതിന്റെ &സമയത്ത്"
 msgstr[1] "നേരത്തേതിന്റെ &സമയത്ത്"
 
-#: kftabdlg.cpp:880
+#: kftabdlg.cpp:882
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "minute"
@@ -498,7 +498,7 @@ msgid_plural "minutes"
 msgstr[0] "മിനിറ്റുകള്‍"
 msgstr[1] "മിനിറ്റുകള്‍"
 
-#: kftabdlg.cpp:881
+#: kftabdlg.cpp:883
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "hour"
@@ -506,7 +506,7 @@ msgid_plural "hours"
 msgstr[0] "മണിക്കൂറുകള്‍"
 msgstr[1] "മണിക്കൂറുകള്‍"
 
-#: kftabdlg.cpp:882
+#: kftabdlg.cpp:884
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "day"
@@ -514,7 +514,7 @@ msgid_plural "days"
 msgstr[0] "ദിവസങ്ങള്‍"
 msgstr[1] "ദിവസങ്ങള്‍"
 
-#: kftabdlg.cpp:883
+#: kftabdlg.cpp:885
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "month"
@@ -522,7 +522,7 @@ msgid_plural "months"
 msgstr[0] "മാസങ്ങള്‍"
 msgstr[1] "മാസങ്ങള്‍"
 
-#: kftabdlg.cpp:884
+#: kftabdlg.cpp:886
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "year"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfind\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-16 02:25+0100\n"
+"POT-Creation-Date: 2019-12-01 02:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -281,7 +281,7 @@ msgstr ""
 msgid "Equal To"
 msgstr ""
 
-#: kftabdlg.cpp:234 kftabdlg.cpp:889
+#: kftabdlg.cpp:234 kftabdlg.cpp:891
 #, kde-format
 msgid "Byte"
 msgid_plural "Bytes"
@@ -438,47 +438,47 @@ msgid ""
 "Search only in Resolution, Bitdepth...</li></ul></qt>"
 msgstr ""
 
-#: kftabdlg.cpp:607
+#: kftabdlg.cpp:609
 #, kde-format
 msgid "Unable to search within a period which is less than a minute."
 msgstr ""
 
-#: kftabdlg.cpp:618
+#: kftabdlg.cpp:620
 #, kde-format
 msgid "The date is not valid."
 msgstr ""
 
-#: kftabdlg.cpp:620
+#: kftabdlg.cpp:622
 #, kde-format
 msgid "Invalid date range."
 msgstr ""
 
-#: kftabdlg.cpp:622
+#: kftabdlg.cpp:624
 #, kde-format
 msgid "Unable to search dates in the future."
 msgstr ""
 
-#: kftabdlg.cpp:694
+#: kftabdlg.cpp:696
 #, kde-format
 msgid "Size is too big. Set maximum size value?"
 msgstr ""
 
-#: kftabdlg.cpp:694
+#: kftabdlg.cpp:696
 #, kde-format
 msgid "Error"
 msgstr ""
 
-#: kftabdlg.cpp:694
+#: kftabdlg.cpp:696
 #, kde-format
 msgid "Set"
 msgstr ""
 
-#: kftabdlg.cpp:694
+#: kftabdlg.cpp:696
 #, kde-format
 msgid "Do Not Set"
 msgstr ""
 
-#: kftabdlg.cpp:879
+#: kftabdlg.cpp:881
 #, kde-format
 msgctxt ""
 "during the previous minute(s)/hour(s)/...; dynamic context 'type': 'i' "
@@ -488,7 +488,7 @@ msgid_plural "&during the previous"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kftabdlg.cpp:880
+#: kftabdlg.cpp:882
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "minute"
@@ -496,7 +496,7 @@ msgid_plural "minutes"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kftabdlg.cpp:881
+#: kftabdlg.cpp:883
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "hour"
@@ -504,7 +504,7 @@ msgid_plural "hours"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kftabdlg.cpp:882
+#: kftabdlg.cpp:884
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "day"
@@ -512,7 +512,7 @@ msgid_plural "days"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kftabdlg.cpp:883
+#: kftabdlg.cpp:885
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "month"
@@ -520,7 +520,7 @@ msgid_plural "months"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kftabdlg.cpp:884
+#: kftabdlg.cpp:886
 #, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "year"
