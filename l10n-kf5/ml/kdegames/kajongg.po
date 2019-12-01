@@ -8,13 +8,15 @@ msgstr ""
 "Project-Id-Version: kajongg\n"
 "Report-Msgid-Bugs-To: wolfgang@rohdewald.de\n"
 "POT-Creation-Date: 2018-08-16 09:07+0200\n"
-"PO-Revision-Date: 2018-08-16 09:07+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2019-12-01 18:25+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 msgid "Preview"
 msgstr ""
@@ -324,7 +326,7 @@ msgstr ""
 
 #: src/kdestub.py:384 src/kdestub.py:578
 msgid "&Help"
-msgstr ""
+msgstr "സഹായം (&H)"
 
 #: src/kdestub.py:387
 msgid "&Defaults"
