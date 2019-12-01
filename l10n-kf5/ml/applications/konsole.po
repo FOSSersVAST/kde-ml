@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-27 02:37+0100\n"
-"PO-Revision-Date: 2019-05-22 01:57+0530\n"
-"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
+"PO-Revision-Date: 2019-12-01 18:21+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -2121,10 +2121,10 @@ msgid "Close Window"
 msgstr "കണ്‍സോള്‍"
 
 #: MainWindow.cpp:346
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:menu"
 msgid "&Bookmarks"
-msgstr "&ഓര്‍മ്മക്കുറിപ്പുകള്‍"
+msgstr "അടയാളകുറിപ്പുകൾ (&B)"
 
 #: MainWindow.cpp:365
 #, fuzzy, kde-format
