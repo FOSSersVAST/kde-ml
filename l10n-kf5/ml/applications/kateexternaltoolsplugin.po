@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-08 02:24+0200\n"
+"POT-Creation-Date: 2019-11-12 02:33+0100\n"
 "PO-Revision-Date: 2019-10-08 02:24+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -16,6 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -81,6 +82,18 @@ msgctxt "External tool name"
 msgid "Qt Quick 2 Preview (qmlscene)"
 msgstr ""
 
+#. i18n: file: 149
+#, kde-format
+msgctxt "External tool name"
+msgid "JSON Format Full File"
+msgstr ""
+
+#. i18n: file: 164
+#, kde-format
+msgctxt "External tool name"
+msgid "XML Format Full File"
+msgstr ""
+
 #. i18n: file: 8
 #. i18n: file: 23
 #. i18n: file: 38
@@ -94,6 +107,8 @@ msgstr ""
 #. i18n: file: 83
 #. i18n: file: 98
 #. i18n: file: 113
+#. i18n: file: 143
+#. i18n: file: 158
 #, kde-format
 msgctxt "External tool category"
 msgid "Tools"

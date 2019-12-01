@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: okular\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-30 03:17+0100\n"
+"POT-Creation-Date: 2019-12-01 03:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -473,28 +473,28 @@ msgstr ""
 msgid "Auto Fit"
 msgstr ""
 
-#: conf/dlgperformance.cpp:55
+#: conf/dlgperformance.cpp:54
 #, kde-format
 msgid ""
 "Keeps used memory as low as possible. Do not reuse anything. (For systems "
 "with low memory.)"
 msgstr ""
 
-#: conf/dlgperformance.cpp:58
+#: conf/dlgperformance.cpp:57
 #, kde-format
 msgid ""
 "A good compromise between memory usage and speed gain. Preload next page and "
 "boost searches. (For systems with 2GB of memory, typically.)"
 msgstr ""
 
-#: conf/dlgperformance.cpp:61
+#: conf/dlgperformance.cpp:60
 #, kde-format
 msgid ""
 "Keeps everything in memory. Preload next pages. Boost searches. (For systems "
 "with more than 4GB of memory.)"
 msgstr ""
 
-#: conf/dlgperformance.cpp:65
+#: conf/dlgperformance.cpp:64
 #, no-c-format, kde-format
 msgid ""
 "Loads and keeps everything in memory. Preload all pages. (Will use at "
@@ -1046,12 +1046,12 @@ msgstr ""
 msgid "First Page"
 msgstr ""
 
-#: core/action.cpp:281 ui/presentationwidget.cpp:177
+#: core/action.cpp:281 ui/presentationwidget.cpp:176
 #, kde-format
 msgid "Previous Page"
 msgstr ""
 
-#: core/action.cpp:283 ui/presentationwidget.cpp:193
+#: core/action.cpp:283 ui/presentationwidget.cpp:192
 #, kde-format
 msgid "Next Page"
 msgstr ""
@@ -3430,7 +3430,7 @@ msgctxt "Unknown author"
 msgid "Unknown"
 msgstr ""
 
-#: ui/guiutils.cpp:163 ui/presentationwidget.cpp:384
+#: ui/guiutils.cpp:163 ui/presentationwidget.cpp:383
 #, kde-format
 msgid "Author: %1"
 msgstr ""
@@ -3445,24 +3445,24 @@ msgstr ""
 msgid "Could not open \"%1\" for writing. File was not saved."
 msgstr ""
 
-#: ui/ktreeviewsearchline.cpp:285
+#: ui/ktreeviewsearchline.cpp:284
 #, kde-format
 msgid "Search Options"
 msgstr ""
 
-#: ui/ktreeviewsearchline.cpp:286
+#: ui/ktreeviewsearchline.cpp:285
 #, kde-format
 msgctxt "Enable case sensitive search in the side navigation panels"
 msgid "Case Sensitive"
 msgstr ""
 
-#: ui/ktreeviewsearchline.cpp:289
+#: ui/ktreeviewsearchline.cpp:288
 #, kde-format
 msgctxt "Enable regular expression search in the side navigation panels"
 msgid "Regular Expression"
 msgstr ""
 
-#: ui/ktreeviewsearchline.cpp:376
+#: ui/ktreeviewsearchline.cpp:375
 #, kde-format
 msgid "S&earch:"
 msgstr ""
@@ -3924,56 +3924,56 @@ msgstr ""
 msgid "Find Next"
 msgstr ""
 
-#: ui/presentationwidget.cpp:166
+#: ui/presentationwidget.cpp:165
 #, kde-format
 msgctxt "[document title/filename] – Presentation"
 msgid "%1 – Presentation"
 msgstr ""
 
-#: ui/presentationwidget.cpp:222
+#: ui/presentationwidget.cpp:221
 #, kde-format
 msgid "Switch Screen"
 msgstr ""
 
-#: ui/presentationwidget.cpp:229
+#: ui/presentationwidget.cpp:228
 #, kde-format
 msgctxt "%1 is the screen number (0, 1, ...)"
 msgid "Screen %1"
 msgstr ""
 
-#: ui/presentationwidget.cpp:236
+#: ui/presentationwidget.cpp:235
 #, kde-format
 msgid "Exit Presentation Mode"
 msgstr ""
 
-#: ui/presentationwidget.cpp:382
+#: ui/presentationwidget.cpp:381
 #, kde-format
 msgid "Title: %1"
 msgstr ""
 
-#: ui/presentationwidget.cpp:385
+#: ui/presentationwidget.cpp:384
 #, kde-format
 msgid "Pages: %1"
 msgstr ""
 
-#: ui/presentationwidget.cpp:386
+#: ui/presentationwidget.cpp:385
 #, kde-format
 msgid "Click to begin"
 msgstr ""
 
-#: ui/presentationwidget.cpp:530
+#: ui/presentationwidget.cpp:529
 #, kde-format
 msgctxt "For Presentation"
 msgid "Pause"
 msgstr ""
 
-#: ui/presentationwidget.cpp:535
+#: ui/presentationwidget.cpp:534
 #, kde-format
 msgctxt "For Presentation"
 msgid "Play"
 msgstr ""
 
-#: ui/presentationwidget.cpp:1661
+#: ui/presentationwidget.cpp:1660
 #, kde-format
 msgid ""
 "There are two ways of exiting presentation mode, you can press either ESC "
@@ -3981,7 +3981,7 @@ msgid ""
 "top-right corner. Of course you can cycle windows (Alt+TAB by default)"
 msgstr ""
 
-#: ui/presentationwidget.cpp:1785
+#: ui/presentationwidget.cpp:1784
 #, kde-format
 msgctxt ""
 "Reason for inhibiting the screensaver activation, when the presentation mode "
@@ -4566,7 +4566,7 @@ msgstr ""
 msgid "View Certificate..."
 msgstr ""
 
-#: ui/thumbnaillist.cpp:999
+#: ui/thumbnaillist.cpp:998
 #, kde-format
 msgid "Show bookmarked pages only"
 msgstr ""
