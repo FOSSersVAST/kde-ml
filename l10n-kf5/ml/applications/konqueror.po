@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-29 02:33+0100\n"
-"PO-Revision-Date: 2019-11-28 11:52+0000\n"
-"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2019-12-01 18:23+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
@@ -1419,7 +1419,7 @@ msgstr ""
 #: src/konqmainwindow.cpp:3743
 #, kde-format
 msgid "&Bookmarks"
-msgstr "&ഓര്‍മ്മക്കുറിപ്പുകള്‍"
+msgstr "അടയാളകുറിപ്പുകൾ (&B)"
 
 #: src/konqmainwindow.cpp:3771
 #, kde-format
@@ -1667,7 +1667,7 @@ msgstr ""
 #: src/konqmainwindow.cpp:4907
 #, kde-format
 msgid "C&lose Current Tab"
-msgstr "നിലവിലുള്ള ടാബ് അ&ടയ്ക്കുക"
+msgstr "ഈ കിളിവാതില്‍ അടയ്ക്കുക (&l)"
 
 #: src/konqmainwindow.cpp:4933
 #, kde-format
@@ -2113,7 +2113,7 @@ msgstr "&ജാലകം"
 #: src/konqueror.rc:88
 #, kde-format
 msgid "&Help"
-msgstr "&സഹായം"
+msgstr "സഹായം (&H)"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: src/konqueror.rc:93
