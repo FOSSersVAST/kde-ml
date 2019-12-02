@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: konqueror\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 02:40+0200\n"
-"PO-Revision-Date: 2019-12-01 18:22+0000\n"
+"PO-Revision-Date: 2019-12-03 10:45+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -199,7 +199,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "&Edit File Type..."
-msgstr ""
+msgstr "ഫയലിന്റെ തരം മാറ്റുക... (&E)"
 
 #: fsview_part.cpp:194
 #, kde-format
@@ -220,13 +220,13 @@ msgstr ""
 #: fsview_part.rc:4
 #, kde-format
 msgid "&Edit"
-msgstr ""
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (view)
 #: fsview_part.rc:13
 #, kde-format
 msgid "&View"
-msgstr ""
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (help)
 #: fsview_part.rc:20
