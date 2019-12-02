@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: khelpcenter\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-17 02:24+0100\n"
-"PO-Revision-Date: 2019-12-01 18:22+0000\n"
+"PO-Revision-Date: 2019-12-03 10:46+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
@@ -237,13 +237,13 @@ msgstr ""
 #: khelpcenterui.rc:5
 #, kde-format
 msgid "&Edit"
-msgstr "&തിരുത്തുക"
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (view)
 #: khelpcenterui.rc:13
 #, kde-format
 msgid "&View"
-msgstr "&കാണുക"
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (go)
 #: khelpcenterui.rc:18
