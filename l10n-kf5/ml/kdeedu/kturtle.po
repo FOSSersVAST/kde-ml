@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kturtle\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-13 03:03+0100\n"
-"PO-Revision-Date: 2019-12-01 18:23+0000\n"
+"PO-Revision-Date: 2019-12-03 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -1279,7 +1279,7 @@ msgstr ""
 #: kturtleui.rc:24
 #, kde-format
 msgid "&Edit"
-msgstr ""
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (canvas)
 #: kturtleui.rc:41 mainwindow.cpp:511 mainwindow.cpp:533
@@ -1303,7 +1303,7 @@ msgstr ""
 #: kturtleui.rc:60
 #, kde-format
 msgid "&Tools"
-msgstr ""
+msgstr "ഉപകരണങ്ങള്‍ (&T)"
 
 #. i18n: ectx: Menu (settings)
 #: kturtleui.rc:64
