@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kajongg\n"
 "Report-Msgid-Bugs-To: wolfgang@rohdewald.de\n"
 "POT-Creation-Date: 2018-08-16 09:07+0200\n"
-"PO-Revision-Date: 2019-12-01 18:25+0000\n"
+"PO-Revision-Date: 2019-12-03 10:53+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -364,7 +364,7 @@ msgstr ""
 
 #: src/kdestub.py:575
 msgid "&View"
-msgstr ""
+msgstr "കാഴ്ച (&V)"
 
 #: src/kdestub.py:576
 msgid "&Settings"
