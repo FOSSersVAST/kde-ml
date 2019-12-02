@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-28 02:54+0100\n"
-"PO-Revision-Date: 2019-12-01 18:21+0000\n"
+"PO-Revision-Date: 2019-12-03 10:42+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
@@ -258,7 +258,7 @@ msgstr "ഫയല്‍ (&F)"
 #: data/katepart5ui.rc:17
 #, kde-format
 msgid "&Edit"
-msgstr "&മാറ്റം വരുത്തുക"
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (edit_find_menu)
 #: data/katepart5ui.rc:36
@@ -276,7 +276,7 @@ msgstr ""
 #: data/katepart5ui.rc:55
 #, kde-format
 msgid "&View"
-msgstr "&കാഴ്ച"
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (view_menu_font_sizes)
 #: data/katepart5ui.rc:58
@@ -308,7 +308,7 @@ msgstr ""
 #: data/katepart5ui.rc:99
 #, kde-format
 msgid "&Tools"
-msgstr "&ഉപകരണങ്ങള്‍"
+msgstr "ഉപകരണങ്ങള്‍ (&T)"
 
 #. i18n: ectx: Menu (wordcompletion)
 #: data/katepart5ui.rc:112
