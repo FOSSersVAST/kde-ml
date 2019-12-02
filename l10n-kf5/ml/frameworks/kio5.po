@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-28 02:52+0100\n"
 "PO-Revision-Date: 2019-12-03 10:42+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Last-Translator: Razee Marikar <razeetg@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -41,6 +41,8 @@ msgid ""
 "<qt>Could not modify the ownership of file <b>%1</b>. You have insufficient "
 "access to the file to perform the change.</qt>"
 msgstr ""
+"<qt><b>%1</b> എന്ന ഫയലിന്റെ ഉടമസ്ഥത മാറ്റുവാൻ സാധിച്ചില്ല. ഈ ഫയലിൽ ഈ "
+"പരിവർത്തനം നടത്താൻ ആവശ്യമുള്ള അവകാശം നിങ്ങള്ക്ക് ഇല്ല.</qt>"
 
 #: core/connectionbackend.cpp:144
 #, kde-format
@@ -1075,6 +1077,8 @@ msgid ""
 "The request expected a file, however the folder <strong>%1</strong> was "
 "found instead."
 msgstr ""
+"ഈ അഭ്യർത്ഥന ഒരു ഫയൽ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന അറ ആണ്"
+" ലഭിച്ചത്."
 
 #: core/job_error.cpp:495
 #, kde-format
@@ -1092,6 +1096,8 @@ msgid ""
 "The request expected a folder, however the file <strong>%1</strong> was "
 "found instead."
 msgstr ""
+"ഈ അഭ്യർത്ഥന ഒരു അറ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന ഫയൽ ആണ്"
+" ലഭിച്ചത്."
 
 #: core/job_error.cpp:508
 #, kde-format
@@ -1101,7 +1107,7 @@ msgstr "ഫയലോ അറയോ നിലവിലില്ല."
 #: core/job_error.cpp:509
 #, kde-format
 msgid "The specified file or folder <strong>%1</strong> does not exist."
-msgstr ""
+msgstr "നിര്‍ദ്ദിഷ്‌ടമായ ഫയൽ അല്ലെങ്കിൽ അറ <strong>%1</strong> നിലവിൽ ഇല്ല."
 
 #: core/job_error.cpp:517
 #, kde-format
@@ -1109,6 +1115,8 @@ msgid ""
 "The requested file could not be created because a file with the same name "
 "already exists."
 msgstr ""
+"അഭ്യർത്ഥിച്ച ഫയൽ ഉണ്ടാക്കാൻ സാധിച്ചില്ല കാരണം ആ പേര് ഉള്ള ഒരു ഫയൽ മുൻപേതന്നെ "
+"നിലവിൽ ഉണ്ട്."
 
 #: core/job_error.cpp:519
 #, kde-format
@@ -1118,12 +1126,12 @@ msgstr ""
 #: core/job_error.cpp:521
 #, kde-format
 msgid "Delete the current file and try again."
-msgstr ""
+msgstr "നിലവിലുള്ള ഫയൽ ഡിലീറ്റ് ചെയ്തു വീണ്ടും ശ്രമിക്കുക."
 
 #: core/job_error.cpp:522
 #, kde-format
 msgid "Choose an alternate filename for the new file."
-msgstr ""
+msgstr "പുതിയ ഫയലിന് വേറെ ഒരു നാമം തിരയുക."
 
 #: core/job_error.cpp:527
 #, kde-format
