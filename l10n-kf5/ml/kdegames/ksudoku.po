@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ksudoku\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-28 03:07+0100\n"
-"PO-Revision-Date: 2019-11-17 15:50+0530\n"
+"PO-Revision-Date: 2019-12-01 18:25+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml_IN\n"
@@ -18,7 +18,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.2.1\n"
 "X-Language: ml_IN\n"
-"X-Source-Language: C\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -807,7 +806,7 @@ msgstr "നീക്കം(&M)"
 #: src/gui/ksudokuui.rc:38
 #, kde-format
 msgid "&Help"
-msgstr "സഹായിക്കൂ(&H)"
+msgstr "സഹായം (&H)"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: src/gui/ksudokuui.rc:46

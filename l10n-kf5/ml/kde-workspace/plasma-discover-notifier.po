@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 03:31+0100\n"
+"POT-Creation-Date: 2019-12-04 03:12+0100\n"
 "PO-Revision-Date: 2019-04-16 03:40+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -107,17 +107,17 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: notifier/main.cpp:63
+#: notifier/main.cpp:65
 #, kde-format
 msgid "Replace an existing instance"
 msgstr ""
 
-#: notifier/main.cpp:65
+#: notifier/main.cpp:67
 #, kde-format
 msgid "Do not show the notifier"
 msgstr ""
 
-#: notifier/main.cpp:65
+#: notifier/main.cpp:67
 #, kde-format
 msgid "hidden"
 msgstr ""
@@ -129,7 +129,7 @@ msgstr ""
 
 #: notifier/NotifierItem.cpp:61
 #, kde-format
-msgid "Open Software Center..."
+msgid "Open Discover..."
 msgstr ""
 
 #: notifier/NotifierItem.cpp:64

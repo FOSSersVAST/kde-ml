@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: kmplot\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-29 03:05+0100\n"
-"PO-Revision-Date: 2019-11-28 11:54+0000\n"
-"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2019-12-01 18:24+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra Malayalam Computing/സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് <smc-"
 "discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -1468,7 +1468,7 @@ msgstr "&പണിയായുധങ്ങള്‍"
 #: kmplot_part.rc:39 kmplot_part_readonly.rc:35 kmplot_shell.rc:13
 #, kde-format
 msgid "&Help"
-msgstr "&സഹായം"
+msgstr "സഹായം (&H)"
 
 #. i18n: ectx: Menu (file)
 #: kmplot_shell.rc:4

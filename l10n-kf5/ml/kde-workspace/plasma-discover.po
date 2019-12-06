@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-30 03:35+0100\n"
+"POT-Creation-Date: 2019-12-06 03:36+0100\n"
 "PO-Revision-Date: 2019-04-19 03:38+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -18,24 +18,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: discover/DiscoverObject.cpp:164
+#: discover/DiscoverObject.cpp:175
 #, kde-format
 msgid "No application back-ends found, please report to your distribution."
 msgstr ""
 
-#: discover/DiscoverObject.cpp:235
+#: discover/DiscoverObject.cpp:246
 #, kde-format
 msgid "Could not find category '%1'"
 msgstr ""
 
-#: discover/DiscoverObject.cpp:270
+#: discover/DiscoverObject.cpp:281
 #, kde-format
 msgid ""
 "Cannot interact with flatpak resources without the flatpak backend %1. "
 "Please install it first."
 msgstr ""
 
-#: discover/DiscoverObject.cpp:273 discover/DiscoverObject.cpp:301
+#: discover/DiscoverObject.cpp:284 discover/DiscoverObject.cpp:312
 #, kde-format
 msgid "Couldn't open %1"
 msgstr ""
@@ -352,7 +352,7 @@ msgctxt "@info"
 msgid "Unable to load applications.<nl/>Please verify Internet connectivity."
 msgstr ""
 
-#: discover/qml/DiscoverDrawer.qml:117
+#: discover/qml/DiscoverDrawer.qml:120
 #, kde-format
 msgid "Return to the Featured page"
 msgstr ""
@@ -517,13 +517,13 @@ msgstr ""
 msgid "Tasks"
 msgstr ""
 
-#: discover/qml/ProgressView.qml:84
+#: discover/qml/ProgressView.qml:85
 #, kde-format
 msgctxt "TransactioName - TransactionStatus"
 msgid "%1 - %2: %3"
 msgstr ""
 
-#: discover/qml/ProgressView.qml:85
+#: discover/qml/ProgressView.qml:86
 #, kde-format
 msgctxt "TransactioName - TransactionStatus"
 msgid "%1 - %2"

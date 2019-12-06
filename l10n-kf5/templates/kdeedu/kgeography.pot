@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgeography\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-04 02:49+0200\n"
+"POT-Creation-Date: 2019-12-02 03:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -26073,205 +26073,127 @@ msgstr ""
 #: norway.kgm:26
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Finnmark"
+msgid "Troms og Finnmark"
 msgstr ""
 
 #: norway.kgm:27
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Vadsø"
+msgid "Tromsø/Vadsø"
 msgstr ""
 
 #: norway.kgm:36
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Troms"
+msgid "Nordland"
 msgstr ""
 
 #: norway.kgm:37
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Tromsø"
+msgid "Bodø"
 msgstr ""
 
 #: norway.kgm:46
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Nordland"
+msgid "Trøndelag"
 msgstr ""
 
 #: norway.kgm:47
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Bodø"
+msgid "Steinkjer"
 msgstr ""
 
 #: norway.kgm:56
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Trøndelag"
+msgid "Møre og Romsdal"
 msgstr ""
 
 #: norway.kgm:57
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Steinkjer"
+msgid "Molde"
 msgstr ""
 
 #: norway.kgm:66
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Møre og Romsdal"
+msgid "Innlandet"
 msgstr ""
 
 #: norway.kgm:67
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Molde"
+msgid "Hamar/Lillehammer"
 msgstr ""
 
 #: norway.kgm:76
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Oppland"
+msgid "Vestland"
 msgstr ""
 
 #: norway.kgm:77
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Lillehammer"
+msgid "Bergen/Leikanger"
 msgstr ""
 
 #: norway.kgm:86
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Hedmark"
+msgid "Rogaland"
 msgstr ""
 
 #: norway.kgm:87
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Hamar"
+msgid "Stavanger"
 msgstr ""
 
 #: norway.kgm:96
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Sogn og Fjordane"
+msgid "Agder"
 msgstr ""
 
 #: norway.kgm:97
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Leikanger"
+msgid "Kristiansand/Arendal"
 msgstr ""
 
 #: norway.kgm:106
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Hordaland"
+msgid "Viken"
 msgstr ""
 
 #: norway.kgm:107
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Bergen"
+msgid "Oslo/Drammen/Sarpsborg/Moss"
 msgstr ""
 
 #: norway.kgm:116
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Rogaland"
+msgid "Vestfold og Telemark"
 msgstr ""
 
 #: norway.kgm:117
 #, kde-format
 msgctxt "norway.kgm"
-msgid "Stavanger"
+msgid "Skien/Tønsberg"
 msgstr ""
 
-#: norway.kgm:126
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Vest-Agder"
-msgstr ""
-
-#: norway.kgm:127
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Kristiansand"
-msgstr ""
-
-#: norway.kgm:136
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Aust-Agder"
-msgstr ""
-
-#: norway.kgm:137
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Arendal"
-msgstr ""
-
-#: norway.kgm:146
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Telemark"
-msgstr ""
-
-#: norway.kgm:147
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Skien"
-msgstr ""
-
-#: norway.kgm:156
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Buskerud"
-msgstr ""
-
-#: norway.kgm:157
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Drammen"
-msgstr ""
-
-#: norway.kgm:166
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Vestfold"
-msgstr ""
-
-#: norway.kgm:167
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Tønsberg"
-msgstr ""
-
-#: norway.kgm:176 norway.kgm:177 norway.kgm:187
+#: norway.kgm:126 norway.kgm:127
 #, kde-format
 msgctxt "norway.kgm"
 msgid "Oslo"
-msgstr ""
-
-#: norway.kgm:186
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Akershus"
-msgstr ""
-
-#: norway.kgm:196
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Østfold"
-msgstr ""
-
-#: norway.kgm:197
-#, kde-format
-msgctxt "norway.kgm"
-msgid "Sarpsborg"
 msgstr ""
 
 #: oceania.kgm:4

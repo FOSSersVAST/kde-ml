@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalgebra\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-17 02:57+0200\n"
+"POT-Creation-Date: 2019-12-02 03:00+0100\n"
 "PO-Revision-Date: 2008-07-14 11:56+0530\n"
 "Last-Translator: മണിലാല്‍ കെ.എം|Manilal K M <libregeek@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
@@ -22,17 +22,17 @@ msgstr ""
 "X-Poedit-Country: INDIA\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: consolehtml.cpp:166
+#: consolehtml.cpp:167
 #, kde-format
 msgid " <a href='kalgebra:%1'>%2</a>"
 msgstr ""
 
-#: consolehtml.cpp:171
+#: consolehtml.cpp:172
 #, fuzzy, kde-format
 msgid "Options: %1"
 msgstr "പ്രക്രിയകള്‍"
 
-#: consolehtml.cpp:220
+#: consolehtml.cpp:221
 #, kde-format
 msgid "Paste \"%1\" to input"
 msgstr ""

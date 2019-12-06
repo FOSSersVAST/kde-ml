@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:24+0200\n"
+"POT-Creation-Date: 2019-12-03 03:42+0100\n"
 "PO-Revision-Date: 2008-11-12 12:27+0530\n"
 "Last-Translator: മണിലാല്‍ കെ.എം|Manilal K M <libregeek@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -114,12 +114,12 @@ msgstr ""
 msgid "No I/O port devices found."
 msgstr ""
 
-#: ../base/info_wayland.cpp:57 ../base/os_base.h:228
+#: ../base/info_wayland.cpp:57 ../base/os_base.h:227
 #, kde-format
 msgid "Information"
 msgstr ""
 
-#: ../base/info_wayland.cpp:57 ../base/os_base.h:228
+#: ../base/info_wayland.cpp:57 ../base/os_base.h:227
 #, kde-format
 msgid "Value"
 msgstr ""
@@ -129,7 +129,7 @@ msgstr ""
 msgid "Compositor Information"
 msgstr ""
 
-#: ../base/info_wayland.cpp:64 ../base/os_base.h:239
+#: ../base/info_wayland.cpp:64 ../base/os_base.h:238
 #, kde-format
 msgid "Name of the Display"
 msgstr ""
@@ -174,12 +174,12 @@ msgstr ""
 msgid "Repeat delay (msec)"
 msgstr ""
 
-#: ../base/info_wayland.cpp:109 ../base/os_base.h:175
+#: ../base/info_wayland.cpp:109 ../base/os_base.h:174
 #, kde-format
 msgid "Yes"
 msgstr ""
 
-#: ../base/info_wayland.cpp:109 ../base/os_base.h:176
+#: ../base/info_wayland.cpp:109 ../base/os_base.h:175
 #, kde-format
 msgid "No"
 msgstr ""
@@ -320,228 +320,228 @@ msgstr ""
 msgid "Current"
 msgstr ""
 
-#: ../base/os_base.h:60
+#: ../base/os_base.h:59
 #, kde-format
 msgid "LSBFirst"
 msgstr ""
 
-#: ../base/os_base.h:62
+#: ../base/os_base.h:61
 #, kde-format
 msgid "MSBFirst"
 msgstr ""
 
-#: ../base/os_base.h:64
+#: ../base/os_base.h:63
 #, kde-format
 msgid "Unknown Order %1"
 msgstr ""
 
-#: ../base/os_base.h:69
+#: ../base/os_base.h:68
 #, kde-format
 msgid "1 Bit"
 msgid_plural "%1 Bits"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../base/os_base.h:73
+#: ../base/os_base.h:72
 #, kde-format
 msgid "1 Byte"
 msgid_plural "%1 Bytes"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../base/os_base.h:114
+#: ../base/os_base.h:113
 #, kde-format
 msgid "Screen # %1"
 msgstr ""
 
-#: ../base/os_base.h:116
+#: ../base/os_base.h:115
 #, kde-format
 msgid "(Default Screen)"
 msgstr ""
 
-#: ../base/os_base.h:125
+#: ../base/os_base.h:124
 #, kde-format
 msgid "Dimensions"
 msgstr ""
 
-#: ../base/os_base.h:125
+#: ../base/os_base.h:124
 #, kde-format
 msgid "%1 x %2 Pixels (%3 x %4 mm)"
 msgstr ""
 
-#: ../base/os_base.h:129
+#: ../base/os_base.h:128
 #, kde-format
 msgid "Resolution"
 msgstr ""
 
-#: ../base/os_base.h:129
+#: ../base/os_base.h:128
 #, kde-format
 msgid "%1 x %2 dpi"
 msgstr ""
 
-#: ../base/os_base.h:146
+#: ../base/os_base.h:145
 #, kde-format
 msgid "Depths (%1)"
 msgstr ""
 
-#: ../base/os_base.h:152
+#: ../base/os_base.h:151
 #, kde-format
 msgid "Root Window ID"
 msgstr ""
 
-#: ../base/os_base.h:156
+#: ../base/os_base.h:155
 #, kde-format
 msgid "Depth of Root Window"
 msgstr ""
 
-#: ../base/os_base.h:156
+#: ../base/os_base.h:155
 #, kde-format
 msgid "%1 plane"
 msgid_plural "%1 planes"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ../base/os_base.h:160
+#: ../base/os_base.h:159
 #, kde-format
 msgid "Number of Colormaps"
 msgstr ""
 
-#: ../base/os_base.h:160
+#: ../base/os_base.h:159
 #, kde-format
 msgid "minimum %1, maximum %2"
 msgstr ""
 
-#: ../base/os_base.h:164
+#: ../base/os_base.h:163
 #, kde-format
 msgid "Default Colormap"
 msgstr ""
 
-#: ../base/os_base.h:168
+#: ../base/os_base.h:167
 #, kde-format
 msgid "Default Number of Colormap Cells"
 msgstr ""
 
-#: ../base/os_base.h:172
+#: ../base/os_base.h:171
 #, kde-format
 msgid "Preallocated Pixels"
 msgstr ""
 
-#: ../base/os_base.h:172
+#: ../base/os_base.h:171
 #, kde-format
 msgid "Black %1, White %2"
 msgstr ""
 
-#: ../base/os_base.h:179
+#: ../base/os_base.h:178
 #, kde-format
 msgid "Options"
 msgstr ""
 
-#: ../base/os_base.h:179
+#: ../base/os_base.h:178
 #, kde-format
 msgid "When mapped"
 msgstr ""
 
-#: ../base/os_base.h:179
+#: ../base/os_base.h:178
 #, kde-format
 msgid "backing-store: %1, save-unders: %2"
 msgstr ""
 
-#: ../base/os_base.h:185
+#: ../base/os_base.h:184
 #, kde-format
 msgid "Largest Cursor"
 msgstr ""
 
-#: ../base/os_base.h:187
+#: ../base/os_base.h:186
 #, kde-format
 msgid "unlimited"
 msgstr ""
 
-#: ../base/os_base.h:193
+#: ../base/os_base.h:192
 #, kde-format
 msgid "Current Input Event Mask"
 msgstr ""
 
-#: ../base/os_base.h:199
+#: ../base/os_base.h:198
 #, kde-format
 msgid "Event = %1"
 msgstr ""
 
-#: ../base/os_base.h:233
+#: ../base/os_base.h:232
 #, kde-format
 msgid "Server Information"
 msgstr ""
 
-#: ../base/os_base.h:243
+#: ../base/os_base.h:242
 #, kde-format
 msgid "Vendor String"
 msgstr ""
 
-#: ../base/os_base.h:247
+#: ../base/os_base.h:246
 #, kde-format
 msgid "Vendor Release Number"
 msgstr ""
 
-#: ../base/os_base.h:251
+#: ../base/os_base.h:250
 #, kde-format
 msgid "Version Number"
 msgstr ""
 
-#: ../base/os_base.h:255
+#: ../base/os_base.h:254
 #, kde-format
 msgid "Available Screens"
 msgstr ""
 
-#: ../base/os_base.h:265
+#: ../base/os_base.h:264
 #, kde-format
 msgid "Supported Extensions"
 msgstr ""
 
-#: ../base/os_base.h:280
+#: ../base/os_base.h:279
 #, kde-format
 msgid "Supported Pixmap Formats"
 msgstr ""
 
-#: ../base/os_base.h:287
+#: ../base/os_base.h:286
 #, kde-format
 msgid "Pixmap Format #%1"
 msgstr ""
 
-#: ../base/os_base.h:287
+#: ../base/os_base.h:286
 #, kde-format
 msgid "%1 BPP, Depth: %2, Scanline padding: %3"
 msgstr ""
 
-#: ../base/os_base.h:299
+#: ../base/os_base.h:298
 #, kde-format
 msgid "Maximum Request Size"
 msgstr ""
 
-#: ../base/os_base.h:303
+#: ../base/os_base.h:302
 #, kde-format
 msgid "Motion Buffer Size"
 msgstr ""
 
-#: ../base/os_base.h:307
+#: ../base/os_base.h:306
 #, kde-format
 msgid "Bitmap"
 msgstr ""
 
-#: ../base/os_base.h:311
+#: ../base/os_base.h:310
 #, kde-format
 msgid "Unit"
 msgstr ""
 
-#: ../base/os_base.h:315
+#: ../base/os_base.h:314
 #, kde-format
 msgid "Order"
 msgstr ""
 
-#: ../base/os_base.h:319
+#: ../base/os_base.h:318
 #, kde-format
 msgid "Padding"
 msgstr ""
 
-#: ../base/os_base.h:323
+#: ../base/os_base.h:322
 #, kde-format
 msgid "Image Byte Order"
 msgstr ""
