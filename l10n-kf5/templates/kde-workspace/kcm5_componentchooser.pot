@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-14 03:35+0100\n"
+"POT-Creation-Date: 2019-12-06 03:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -119,7 +119,7 @@ msgid ""
 "</qt>"
 msgstr ""
 
-#: componentchooserbrowser.cpp:150
+#: componentchooserbrowser.cpp:155
 #, kde-format
 msgid "Select preferred Web browser application:"
 msgstr ""
@@ -129,7 +129,7 @@ msgstr ""
 msgid "Select preferred email client:"
 msgstr ""
 
-#: componentchooserterminal.cpp:102
+#: componentchooserterminal.cpp:99
 #, kde-format
 msgid "Select preferred terminal application:"
 msgstr ""

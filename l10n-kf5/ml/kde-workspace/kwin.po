@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-28 03:38+0100\n"
+"POT-Creation-Date: 2019-12-02 03:32+0100\n"
 "PO-Revision-Date: 2008-07-08 18:58+0530\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -1337,7 +1337,7 @@ msgstr "വേര്‍തിരിക്കല്‍ തല്‍കാലത�
 msgid "Invert Screen Colors"
 msgstr ""
 
-#: main.cpp:187 main.cpp:214
+#: main.cpp:187 main.cpp:217
 #, kde-format
 msgid "KDE window manager"
 msgstr "കെഡിഇ ജാലക കാര്യസ്ഥന്‍"
@@ -1349,7 +1349,7 @@ msgstr "ക്വിന്‍"
 
 #: main.cpp:196
 #, fuzzy, kde-format
-msgid "(c) 1999-2018, The KDE Developers"
+msgid "(c) 1999-2019, The KDE Developers"
 msgstr "(c) 1999-2005, കെഡിഇ ഡവലപ്പര്‍മാര്‍"
 
 #: main.cpp:198
@@ -1377,12 +1377,27 @@ msgstr "ലുബോസ് ലുനാക്"
 msgid "Martin Flöser"
 msgstr ""
 
-#: main.cpp:211
+#: main.cpp:203
+#, kde-format
+msgid "David Edmundson"
+msgstr ""
+
+#: main.cpp:204
+#, kde-format
+msgid "Roman Gilg"
+msgstr ""
+
+#: main.cpp:205
+#, kde-format
+msgid "Vlad Zahorodnii"
+msgstr ""
+
+#: main.cpp:214
 #, kde-format
 msgid "Disable configuration options"
 msgstr "ക്രമീകരിക്കുവാനുള്ള ഉപാധികള്‍ പ്രവര്‍ത്തന രഹിതമാക്കുക"
 
-#: main.cpp:212
+#: main.cpp:215
 #, kde-format
 msgid "Indicate that KWin has recently crashed n times"
 msgstr "ക്വിനില്‍ ഏറ്റവും ഒടുവിലായി n തവണ തകര്‍ച്ച സംഭവിച്ചു എന്നു സൂചിപ്പിക്കുന്നു"

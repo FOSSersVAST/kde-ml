@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-24 02:36+0000\n"
+"POT-Creation-Date: 2019-12-03 02:55+0000\n"
 "PO-Revision-Date: 2018-10-11 02:02+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -53,12 +53,12 @@ msgctxt "Name"
 msgid "Boot Splash Screen"
 msgstr ""
 
-#: src/kcm_plymouth.desktop:42
+#: src/kcm_plymouth.desktop:43
 msgctxt "Comment"
 msgid "Choose Plymouth boot splash screen"
 msgstr ""
 
-#: src/kcm_plymouth.desktop:70
+#: src/kcm_plymouth.desktop:72
 msgctxt "X-KDE-Keywords"
 msgid "plymouth,splash,splash screen,boot splash"
 msgstr ""

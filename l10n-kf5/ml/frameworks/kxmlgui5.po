@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-25 02:54+0100\n"
+"POT-Creation-Date: 2019-12-03 02:58+0100\n"
 "PO-Revision-Date: 2019-12-01 18:20+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: <en@li.org>\n"
@@ -89,7 +89,7 @@ msgstr ""
 "%1"
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:134
-#: kaboutapplicationpersonlistdelegate_p.cpp:170
+#: kaboutapplicationpersonlistdelegate_p.cpp:171
 #, kde-format
 msgid ""
 "Visit contributor's homepage\n"
@@ -99,14 +99,14 @@ msgstr ""
 "%1"
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:141
-#: kaboutapplicationpersonlistdelegate_p.cpp:173
+#: kaboutapplicationpersonlistdelegate_p.cpp:174
 #, kde-format
 msgid ""
 "Visit contributor's profile on %1\n"
 "%2"
 msgstr ""
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:164
+#: kaboutapplicationpersonlistdelegate_p.cpp:165
 #, kde-format
 msgid ""
 "Visit contributor's page\n"
@@ -115,7 +115,7 @@ msgstr ""
 "സംഭാവന ചെയ്തവരുടെ താള്‍ സന്ദര്‍ശിയ്ക്കുക\n"
 "%1"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:167
+#: kaboutapplicationpersonlistdelegate_p.cpp:168
 #, kde-format
 msgid ""
 "Visit contributor's blog\n"
@@ -124,7 +124,7 @@ msgstr ""
 "സംഭാവന ചെയ്തവരുടെ ബ്ലോഗ് സന്ദര്‍ശിയ്ക്കുക\n"
 "%1"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:265
+#: kaboutapplicationpersonlistdelegate_p.cpp:266
 #, fuzzy, kde-format
 msgctxt "@item Contributor name in about dialog."
 msgid "%1"
@@ -420,7 +420,7 @@ msgid ""
 "program.\n"
 msgstr ""
 
-#: kbugreport.cpp:301
+#: kbugreport.cpp:299
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -429,37 +429,37 @@ msgid ""
 "be transferred to that server.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:306
+#: kbugreport.cpp:304
 #, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
 "browser window on <a href=\"%1\">%2</a>.</qt>"
 msgstr ""
 
-#: kbugreport.cpp:323
+#: kbugreport.cpp:321
 #, kde-format
 msgid "&Launch Bug Report Wizard"
 msgstr "ബഗ് റിപ്പോര്‍ട്ട് മാന്ത്രികനെ &തുറക്കുക"
 
-#: kbugreport.cpp:325
+#: kbugreport.cpp:323
 #, fuzzy, kde-format
 msgid "&Submit Bug Report"
 msgstr "പിശകു് രേഖപ്പെടുത്തുക"
 
-#: kbugreport.cpp:389
+#: kbugreport.cpp:387
 #, kde-format
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr "അപരിചിതം"
 
-#: kbugreport.cpp:448
+#: kbugreport.cpp:446
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr "വിഷയവും വിശദീകരണവും നിര്‍ബന്ധമായും നല്‍കിയാലേ കുറിപ്പു് അയയ്ക്കാന്‍ സാധിയ്ക്കൂ."
 
-#: kbugreport.cpp:457
+#: kbugreport.cpp:455
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
@@ -471,7 +471,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:469
+#: kbugreport.cpp:467
 #, kde-format
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -483,7 +483,7 @@ msgid ""
 "not, please select a lower severity. Thank you.</p>"
 msgstr ""
 
-#: kbugreport.cpp:483
+#: kbugreport.cpp:481
 #, fuzzy, kde-format
 msgid ""
 "Unable to send the bug report.\n"
@@ -494,12 +494,12 @@ msgstr ""
 "ദയവായി സ്വയം റിപ്പോര്‍ട്ട് സമര്‍പ്പിക്കുക.... \n"
 "നിര്‍ദ്ദേശങ്ങള്‍ക്കു് http://bugs.kde.org/ കാണുക."
 
-#: kbugreport.cpp:491
+#: kbugreport.cpp:489
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "ബഗ് റിപ്പോര്‍ട്ട് അയച്ചു, നിങ്ങളുടെ സഹായത്തിനു് നന്ദി."
 
-#: kbugreport.cpp:500
+#: kbugreport.cpp:498
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -508,7 +508,7 @@ msgstr ""
 "മാറ്റം വരുത്തിയ സന്ദേശം \n"
 "വേണ്ടെന്നു് വയ്ക്കണമോ?"
 
-#: kbugreport.cpp:501
+#: kbugreport.cpp:499
 #, kde-format
 msgid "Close Message"
 msgstr "സന്ദേശം അടയ്ക്കുക"
@@ -679,38 +679,6 @@ msgstr "%1"
 msgid "Change Icon"
 msgstr "ചിഹ്നം മാറ്റുക"
 
-#: kgesture.cpp:502
-#, kde-format
-msgctxt "left mouse button"
-msgid "left button"
-msgstr "ഇടതു് ബട്ടണ്‍"
-
-#: kgesture.cpp:504
-#, kde-format
-msgctxt "middle mouse button"
-msgid "middle button"
-msgstr "മദ്ധ്യത്തിലുള്ള ബട്ടണ്‍"
-
-#: kgesture.cpp:506
-#, kde-format
-msgctxt "right mouse button"
-msgid "right button"
-msgstr "വലതു് ബട്ടണ്‍"
-
-#: kgesture.cpp:508
-#, kde-format
-msgctxt "a nonexistent value of mouse button"
-msgid "invalid button"
-msgstr "അസാധുവായ ബട്ടണ്‍"
-
-#: kgesture.cpp:521
-#, kde-format
-msgctxt ""
-"a kind of mouse gesture: hold down one mouse button, then press another "
-"button"
-msgid "Hold %1, then push %2"
-msgstr "%1 പിടിക്കുക, എന്നിട്ട് %2 തള്ളുക"
-
 #. i18n: ectx: Menu (help)
 #: khelpmenu.cpp:172 ui_standards.rc:177
 #, kde-format
@@ -742,7 +710,7 @@ msgstr[0] "പറഞ്ഞുവച്ച ആഗോള കുറുക്കു�
 msgstr[1] "പറഞ്ഞുവച്ച ആഗോള കുറുക്കുവഴികളുമായി പരസ്പര വിരുദ്ധം"
 
 #: kkeysequencewidget.cpp:147 kkeysequencewidget.cpp:235
-#: kkeysequencewidget.cpp:626 kshortcutseditor.cpp:637 kshortcutseditor.cpp:655
+#: kkeysequencewidget.cpp:626
 #, kde-format
 msgid "Reassign"
 msgstr "വീണ്ടും ഏല്‍പ്പിക്കുക"
@@ -1098,69 +1066,50 @@ msgstr "മൌസിന്റെ ബട്ടണ്‍ കൊണ്ടുള്�
 msgid "Mouse Shape Gesture"
 msgstr "മൌസിന്റെ ആകൃതി കൊണ്ടുള്ള ആംഗ്യം"
 
-#: kshortcutseditor.cpp:632 kshortcutseditor.cpp:650
-#, kde-format
-msgid "Key Conflict"
-msgstr "കീ പ്രശ്നം"
-
-#: kshortcutseditor.cpp:633
-#, kde-format
-msgid ""
-"The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-
-#: kshortcutseditor.cpp:651
-#, kde-format
-msgid ""
-"The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-
-#: kshortcutseditor.cpp:698
+#: kshortcutseditor.cpp:562
 #, kde-format
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "%1-ലേക്കുള്ള കുറുക്കുവഴി"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:716 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:580 kshortcutwidget.ui:22
 #, kde-format
 msgid "Main:"
 msgstr "പ്രധാനപ്പെട്ട:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:717 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:581 kshortcutwidget.ui:52
 #, kde-format
 msgid "Alternate:"
 msgstr "പകരമായുള്ള:"
 
-#: kshortcutseditor.cpp:718
+#: kshortcutseditor.cpp:582
 #, kde-format
 msgid "Global:"
 msgstr "ഗ്ലോബല്‍:"
 
-#: kshortcutseditor.cpp:719
+#: kshortcutseditor.cpp:583
 #, fuzzy, kde-format
 msgid "Global alternate:"
 msgstr "എല്ലായിടത്തും പകരാമായുള്ളത്"
 
-#: kshortcutseditor.cpp:735
+#: kshortcutseditor.cpp:599
 #, kde-format
 msgid "Action Name"
 msgstr "നടപടിയുടെ പേരു്"
 
-#: kshortcutseditor.cpp:739
+#: kshortcutseditor.cpp:603
 #, kde-format
 msgid "Shortcuts"
 msgstr "കുറുക്കുവഴികള്‍"
 
-#: kshortcutseditor.cpp:743
+#: kshortcutseditor.cpp:607
 #, kde-format
 msgid "Description"
 msgstr "വിവരണം"
 
-#: kshortcutseditoritem.cpp:54
+#: kshortcutseditoritem.cpp:46
 #, kde-format
 msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
@@ -1426,6 +1375,31 @@ msgstr "സജ്ജീകരണങ്ങള്‍ (&S)"
 #, kde-format
 msgid "Main Toolbar"
 msgstr "പ്രധാന പണിയായുധനിര"
+
+#~ msgctxt "left mouse button"
+#~ msgid "left button"
+#~ msgstr "ഇടതു് ബട്ടണ്‍"
+
+#~ msgctxt "middle mouse button"
+#~ msgid "middle button"
+#~ msgstr "മദ്ധ്യത്തിലുള്ള ബട്ടണ്‍"
+
+#~ msgctxt "right mouse button"
+#~ msgid "right button"
+#~ msgstr "വലതു് ബട്ടണ്‍"
+
+#~ msgctxt "a nonexistent value of mouse button"
+#~ msgid "invalid button"
+#~ msgstr "അസാധുവായ ബട്ടണ്‍"
+
+#~ msgctxt ""
+#~ "a kind of mouse gesture: hold down one mouse button, then press another "
+#~ "button"
+#~ msgid "Hold %1, then push %2"
+#~ msgstr "%1 പിടിക്കുക, എന്നിട്ട് %2 തള്ളുക"
+
+#~ msgid "Key Conflict"
+#~ msgstr "കീ പ്രശ്നം"
 
 #~ msgid "A&uthor"
 #~ msgstr "&രചയിതാവു്"

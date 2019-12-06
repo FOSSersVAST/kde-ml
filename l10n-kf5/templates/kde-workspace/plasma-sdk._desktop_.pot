@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-24 02:36+0000\n"
+"POT-Creation-Date: 2019-12-06 02:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -64,12 +64,12 @@ msgstr ""
 
 #: lookandfeelexplorer/package/metadata.desktop:2
 msgctxt "Comment"
-msgid "Explore and edit your Plasma Look And Feel themes"
+msgid "Explore and edit your Plasma Global Themes"
 msgstr ""
 
-#: lookandfeelexplorer/package/metadata.desktop:39
+#: lookandfeelexplorer/package/metadata.desktop:14
 msgctxt "Name"
-msgid "Plasma Look And Feel Explorer"
+msgid "Plasma Global Theme Explorer"
 msgstr ""
 
 #: plasmoidviewer/org.kde.plasmoidviewer.desktop:3

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalzium\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-13 03:02+0100\n"
+"POT-Creation-Date: 2019-12-04 02:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -27,22 +27,22 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: compoundviewer/iowrapper.cpp:35
+#: compoundviewer/iowrapper.cpp:38
 #, kde-format
 msgid "Problem while opening the file"
 msgstr ""
 
-#: compoundviewer/iowrapper.cpp:36
+#: compoundviewer/iowrapper.cpp:39
 #, kde-format
 msgid "Cannot open the specified file."
 msgstr ""
 
-#: compoundviewer/iowrapper.cpp:53
+#: compoundviewer/iowrapper.cpp:64
 #, kde-format
 msgid "Sorry"
 msgstr ""
 
-#: compoundviewer/iowrapper.cpp:53
+#: compoundviewer/iowrapper.cpp:64
 #, kde-format
 msgid "Cannot save to the specified file."
 msgstr ""
@@ -6030,17 +6030,17 @@ msgstr ""
 msgid "No Data"
 msgstr ""
 
-#: src/kdeeduglossary.cpp:142 src/kdeeduglossary.cpp:318
+#: src/kdeeduglossary.cpp:143 src/kdeeduglossary.cpp:319
 #, kde-format
 msgid "Glossary"
 msgstr ""
 
-#: src/kdeeduglossary.cpp:494
+#: src/kdeeduglossary.cpp:495
 #, kde-format
 msgid "References"
 msgstr ""
 
-#: src/kdeeduglossary.cpp:498
+#: src/kdeeduglossary.cpp:499
 #, kde-format
 msgid "Go to '%1'"
 msgstr ""
@@ -8503,12 +8503,12 @@ msgid ""
 "located. No molecules can be viewed until this issue is resolved."
 msgstr ""
 
-#: src/tools/moleculeview.cpp:153 src/tools/moleculeview.cpp:213
+#: src/tools/moleculeview.cpp:153 src/tools/moleculeview.cpp:220
 #, kde-format
 msgid "Common molecule formats"
 msgstr ""
 
-#: src/tools/moleculeview.cpp:154 src/tools/moleculeview.cpp:214
+#: src/tools/moleculeview.cpp:154 src/tools/moleculeview.cpp:221
 #, kde-format
 msgid "All files"
 msgstr ""
@@ -8518,12 +8518,22 @@ msgstr ""
 msgid "Choose a file to open"
 msgstr ""
 
-#: src/tools/moleculeview.cpp:215
+#: src/tools/moleculeview.cpp:193
+#, kde-format
+msgid "Could not load molecule"
+msgstr ""
+
+#: src/tools/moleculeview.cpp:193
+#, kde-format
+msgid "Loading the molecule failed."
+msgstr ""
+
+#: src/tools/moleculeview.cpp:222
 #, kde-format
 msgid "Choose a file to save to"
 msgstr ""
 
-#: src/tools/moleculeview.cpp:253
+#: src/tools/moleculeview.cpp:260
 #, kde-format
 msgctxt ""
 "This 'u' stands for the chemical unit (u for 'units'). Most likely this does "
@@ -8531,17 +8541,17 @@ msgctxt ""
 msgid "%1 u"
 msgstr ""
 
-#: src/tools/moleculeview.cpp:290
+#: src/tools/moleculeview.cpp:297
 #, kde-format
 msgid "Failed to download molecule %1 to %2."
 msgstr ""
 
-#: src/tools/moleculeview.cpp:298
+#: src/tools/moleculeview.cpp:305
 #, kde-format
 msgid "The molecules that could be downloaded have been saved to %1."
 msgstr ""
 
-#: src/tools/moleculeview.cpp:300
+#: src/tools/moleculeview.cpp:307
 #, kde-format
 msgid "The molecules have been saved to %1."
 msgstr ""

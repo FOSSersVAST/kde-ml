@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-21 02:26+0200\n"
+"POT-Creation-Date: 2019-12-04 02:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -70,6 +70,18 @@ msgstr ""
 #: kateprojectconfigpage.cpp:58
 #, kde-format
 msgid "Enable indexing"
+msgstr ""
+
+#: kateprojectconfigpage.cpp:61
+#, kde-format
+msgid "Directory for index files"
+msgstr ""
+
+#: kateprojectconfigpage.cpp:64
+#, kde-format
+msgid ""
+"The system temporary directory is used if not specified, which may overflow "
+"for very large repositories"
 msgstr ""
 
 #: kateprojectconfigpage.cpp:71

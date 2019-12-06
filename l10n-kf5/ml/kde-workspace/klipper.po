@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-28 03:40+0100\n"
+"POT-Creation-Date: 2019-12-06 03:40+0100\n"
 "PO-Revision-Date: 2010-06-23 20:21+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
@@ -699,17 +699,17 @@ msgstr "ഓര്‍മ്മച്ചെപ്പിലെ ഉള്ളടക�
 msgid "Clipboard is empty"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ശൂന്യമാണു്"
 
-#: urlgrabber.cpp:213
+#: urlgrabber.cpp:212
 #, kde-format
 msgid "%1 - Actions For: %2"
 msgstr "%1 - നടപടികള്‍, ഇതിനു വേണ്ടി: %2"
 
-#: urlgrabber.cpp:241
+#: urlgrabber.cpp:240
 #, kde-format
 msgid "Disable This Popup"
 msgstr "പൊങ്ങിവരുന്ന ഈ ജാലകത്തിനെ പ്രവര്‍ത്തനരഹിതമാക്കുക"
 
-#: urlgrabber.cpp:247
+#: urlgrabber.cpp:246
 #, kde-format
 msgid "&Cancel"
 msgstr "&റദ്ദാക്കുക"

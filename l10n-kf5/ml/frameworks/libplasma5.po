@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-framework\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 02:57+0100\n"
+"POT-Creation-Date: 2019-12-06 02:59+0100\n"
 "PO-Revision-Date: 2019-08-03 21:10+0530\n"
 "Last-Translator: ലക്ഷ്മി സുനില്‍ <lakshmisunil12@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -94,12 +94,12 @@ msgstr "ശരി"
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
 
-#: plasma/applet.cpp:359
+#: plasma/applet.cpp:375
 #, kde-format
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
 
-#: plasma/applet.cpp:675
+#: plasma/applet.cpp:749
 #, kde-format
 msgid "Activate %1 Widget"
 msgstr "%1 വിഡ്ജറ്റ് സജീവമാക്കുക"
@@ -586,12 +586,12 @@ msgctxt "Error message, tried to start an invalid service"
 msgid "Invalid (null) service, can not perform any operations."
 msgstr "അസാധുവായ സേവനം, യാതൊരു പ്രക്രിയയും നിര്‍വഹിക്കാനാവുന്നില്ല."
 
-#: plasmaquick/appletquickitem.cpp:613
+#: plasmaquick/appletquickitem.cpp:611
 #, fuzzy, kde-format
 msgid "Error loading QML file: %1"
 msgstr "ക്യുഎംഎല്‍ ഫയല്‍ തുറക്കുന്നതിനിടയില്‍ പിശക്: %1"
 
-#: plasmaquick/appletquickitem.cpp:615
+#: plasmaquick/appletquickitem.cpp:613
 #, kde-format
 msgid "Error loading Applet: package inexistent. %1"
 msgstr ""
