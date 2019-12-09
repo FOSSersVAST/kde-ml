@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-30 02:46+0000\n"
+"POT-Creation-Date: 2019-12-09 02:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -36,7 +36,7 @@ msgctxt "Name"
 msgid "Global Menu"
 msgstr ""
 
-#: applets/appmenu/package/metadata.desktop:44
+#: applets/appmenu/package/metadata.desktop:45
 msgctxt "Comment"
 msgid "Global menubar on top of the screen"
 msgstr ""
@@ -46,12 +46,12 @@ msgctxt "Name"
 msgid "Battery and Brightness"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:46
+#: applets/batterymonitor/package/metadata.desktop:47
 msgctxt "Comment"
 msgid "See the power status of your battery"
 msgstr ""
 
-#: applets/batterymonitor/package/metadata.desktop:119
+#: applets/batterymonitor/package/metadata.desktop:120
 msgctxt "Keywords"
 msgid "Power Management;Battery;System;Energy;"
 msgstr ""
@@ -72,7 +72,7 @@ msgctxt "Name"
 msgid "Clipboard"
 msgstr ""
 
-#: applets/clipboard/metadata.desktop:49
+#: applets/clipboard/metadata.desktop:50
 msgctxt "Comment"
 msgid "Provides access to the clipboard history"
 msgstr ""
@@ -162,7 +162,7 @@ msgctxt "Name"
 msgid "CPU Load Monitor"
 msgstr ""
 
-#: applets/systemmonitor/cpu/metadata.desktop:45
+#: applets/systemmonitor/cpu/metadata.desktop:46
 msgctxt "Comment"
 msgid "Monitor the load of the CPUs"
 msgstr ""
@@ -172,7 +172,7 @@ msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
 msgstr ""
 
-#: applets/systemmonitor/diskactivity/metadata.desktop:55
+#: applets/systemmonitor/diskactivity/metadata.desktop:56
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr ""
@@ -182,7 +182,7 @@ msgctxt "Name"
 msgid "Hard Disk Space Usage"
 msgstr ""
 
-#: applets/systemmonitor/diskusage/metadata.desktop:53
+#: applets/systemmonitor/diskusage/metadata.desktop:54
 msgctxt "Comment"
 msgid "An applet that monitors hard disk space usage and percentage"
 msgstr ""
@@ -542,7 +542,7 @@ msgctxt "Name"
 msgid "BBC Weather"
 msgstr ""
 
-#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:33
+#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:34
 msgctxt "Comment"
 msgid "XML Data from the British Broadcasting Corporation"
 msgstr ""
@@ -653,7 +653,7 @@ msgctxt "Name"
 msgid "Language"
 msgstr ""
 
-#: kcms/translations/kcm_translations.desktop:47
+#: kcms/translations/kcm_translations.desktop:48
 msgctxt "Comment"
 msgid "Change workspace and application languages"
 msgstr ""
@@ -663,7 +663,7 @@ msgctxt "Name"
 msgid "Directory Watcher"
 msgstr ""
 
-#: kioslave/desktop/desktopnotifier.desktop:51
+#: kioslave/desktop/desktopnotifier.desktop:52
 msgctxt "Comment"
 msgid "Monitors directories for changes"
 msgstr ""
@@ -673,7 +673,7 @@ msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: kioslave/desktop/./directory.trash:45
+#: kioslave/desktop/./directory.trash:46
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr ""
@@ -785,7 +785,7 @@ msgctxt "Description"
 msgid "ftp URL"
 msgstr ""
 
-#: klipper/plasma-dataengine-clipboard.desktop:49
+#: klipper/plasma-dataengine-clipboard.desktop:50
 msgctxt "Comment"
 msgid "Clipboard Tool."
 msgstr ""
@@ -825,8 +825,8 @@ msgctxt "Name"
 msgid "Plasma"
 msgstr ""
 
-#: login-sessions/plasma.desktop.cmake:53
-#: login-sessions/plasmawayland.desktop.cmake:30
+#: login-sessions/plasma.desktop.cmake:54
+#: login-sessions/plasmawayland.desktop.cmake:31
 #: login-sessions/plasmawayland-dev.desktop.cmake:28
 #: login-sessions/plasmax11-dev.desktop.cmake:29
 msgctxt "Comment"
@@ -1041,7 +1041,7 @@ msgctxt "Name"
 msgid "Desktop"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-desktop.directory:54
+#: menu/desktop/kf5-utilities-desktop.directory:55
 msgctxt "Comment"
 msgid "Desktop"
 msgstr ""
@@ -1051,7 +1051,7 @@ msgctxt "Name"
 msgid "Utilities"
 msgstr ""
 
-#: menu/desktop/kf5-utilities.directory:54
+#: menu/desktop/kf5-utilities.directory:55
 msgctxt "Comment"
 msgid "Utilities"
 msgstr ""
@@ -1061,7 +1061,7 @@ msgctxt "Name"
 msgid "File"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-file.directory:56
+#: menu/desktop/kf5-utilities-file.directory:57
 msgctxt "Comment"
 msgid "File"
 msgstr ""
@@ -1091,7 +1091,7 @@ msgctxt "Name"
 msgid "X-Utilities"
 msgstr ""
 
-#: menu/desktop/kf5-utilities-xutils.directory:51
+#: menu/desktop/kf5-utilities-xutils.directory:52
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr ""
@@ -1111,12 +1111,12 @@ msgctxt "Name"
 msgid "Application"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:125
+#: phonon/platform_kde/phonon.notifyrc:126
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr ""
 
-#: phonon/platform_kde/phonon.notifyrc:188
+#: phonon/platform_kde/phonon.notifyrc:189
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr ""
@@ -1146,7 +1146,7 @@ msgctxt "Name"
 msgid "Software Center"
 msgstr ""
 
-#: runners/appstream/plasma-runner-appstream.desktop:42
+#: runners/appstream/plasma-runner-appstream.desktop:43
 msgctxt "Comment"
 msgid "Lets you find software"
 msgstr ""
@@ -1156,7 +1156,7 @@ msgctxt "Name"
 msgid "Desktop Search"
 msgstr ""
 
-#: runners/baloo/plasma-runner-baloosearch.desktop:48
+#: runners/baloo/plasma-runner-baloosearch.desktop:49
 msgctxt "Comment"
 msgid "Searches through files, emails and contacts"
 msgstr ""
@@ -1468,7 +1468,7 @@ msgctxt "Name"
 msgid "Plain Color"
 msgstr ""
 
-#: wallpapers/color/metadata.desktop:53
+#: wallpapers/color/metadata.desktop:54
 msgctxt "Comment"
 msgid "Plain color wallpaper"
 msgstr ""
@@ -1478,7 +1478,7 @@ msgctxt "Name"
 msgid "Color"
 msgstr ""
 
-#: wallpapers/color/plasma-wallpaper-color.desktop:53
+#: wallpapers/color/plasma-wallpaper-color.desktop:54
 msgctxt "Comment"
 msgid "A plain color or gradient"
 msgstr ""

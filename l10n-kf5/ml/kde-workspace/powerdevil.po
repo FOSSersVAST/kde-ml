@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: powerdevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-25 03:33+0100\n"
+"POT-Creation-Date: 2019-12-08 03:31+0100\n"
 "PO-Revision-Date: 2009-12-31 01:31+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -256,7 +256,7 @@ msgstr "സ്ക്രീന്‍ കെടുത്തുക"
 msgid "Switch off after"
 msgstr "എത്ര സമയത്തിനു് ശേഷം &നിര്‍ത്തി വയ്ക്കാം"
 
-#: backends/upower/backlighthelper.cpp:204
+#: backends/upower/backlighthelper.cpp:205
 #, kde-format
 msgid "Can't open file"
 msgstr ""

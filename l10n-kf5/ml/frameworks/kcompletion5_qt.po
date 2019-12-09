@@ -24,7 +24,7 @@ msgstr ""
 "X-Poedit-Country: INDIA\n"
 "X-Qt-Contexts: true\n"
 
-#: khistorycombobox.cpp:206
+#: khistorycombobox.cpp:208
 #, fuzzy
 msgctxt "KHistoryComboBox|"
 msgid "Clear &History"

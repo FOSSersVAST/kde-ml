@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-01 02:36+0000\n"
+"POT-Creation-Date: 2019-12-08 02:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -56,7 +56,7 @@ msgctxt "Name"
 msgid "Run script"
 msgstr ""
 
-#: daemon/actions/bundled/powerdevilrunscriptaction.desktop:51
+#: daemon/actions/bundled/powerdevilrunscriptaction.desktop:52
 msgctxt "Comment"
 msgid "Runs a custom script"
 msgstr ""
@@ -66,7 +66,7 @@ msgctxt "Name"
 msgid "Suspend session"
 msgstr ""
 
-#: daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:52
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:53
 msgctxt "Comment"
 msgid "Suspends the session"
 msgstr ""
@@ -86,7 +86,7 @@ msgctxt "Name"
 msgid "Screen Energy Saving"
 msgstr ""
 
-#: daemon/actions/dpms/powerdevildpmsaction.desktop:53
+#: daemon/actions/dpms/powerdevildpmsaction.desktop:54
 msgctxt "Comment"
 msgid "Controls DPMS settings"
 msgstr ""
@@ -197,7 +197,7 @@ msgid "Advanced Power Management Settings"
 msgstr ""
 
 #: kcmodule/global/powerdevilglobalconfig.desktop:107
-#: kcmodule/profiles/powerdevilprofilesconfig.desktop:109
+#: kcmodule/profiles/powerdevilprofilesconfig.desktop:111
 msgctxt "X-KDE-Keywords"
 msgid ""
 "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
@@ -209,7 +209,7 @@ msgctxt "Name"
 msgid "Energy Saving"
 msgstr ""
 
-#: kcmodule/profiles/powerdevilprofilesconfig.desktop:62
+#: kcmodule/profiles/powerdevilprofilesconfig.desktop:63
 msgctxt "Comment"
 msgid "Energy Saving"
 msgstr ""
