@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-28 03:40+0100\n"
+"POT-Creation-Date: 2019-12-06 03:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -679,17 +679,17 @@ msgstr ""
 msgid "Clipboard is empty"
 msgstr ""
 
-#: urlgrabber.cpp:213
+#: urlgrabber.cpp:212
 #, kde-format
 msgid "%1 - Actions For: %2"
 msgstr ""
 
-#: urlgrabber.cpp:241
+#: urlgrabber.cpp:240
 #, kde-format
 msgid "Disable This Popup"
 msgstr ""
 
-#: urlgrabber.cpp:247
+#: urlgrabber.cpp:246
 #, kde-format
 msgid "&Cancel"
 msgstr ""

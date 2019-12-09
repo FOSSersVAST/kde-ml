@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-30 03:38+0100\n"
+"POT-Creation-Date: 2019-12-06 03:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -152,17 +152,17 @@ msgid ""
 "by dragging."
 msgstr ""
 
-#: package/contents/ui/Header.qml:162
+#: package/contents/ui/Header.qml:157
 #, kde-format
 msgid "%2@%3 (%1)"
 msgstr ""
 
-#: package/contents/ui/Header.qml:162
+#: package/contents/ui/Header.qml:157
 #, kde-format
 msgid "%1@%2"
 msgstr ""
 
-#: package/contents/ui/Header.qml:193
+#: package/contents/ui/Header.qml:188
 #, kde-format
 msgid "Search..."
 msgstr ""

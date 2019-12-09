@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-28 03:38+0100\n"
+"POT-Creation-Date: 2019-12-02 03:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1337,7 +1337,7 @@ msgstr ""
 msgid "Invert Screen Colors"
 msgstr ""
 
-#: main.cpp:187 main.cpp:214
+#: main.cpp:187 main.cpp:217
 #, kde-format
 msgid "KDE window manager"
 msgstr ""
@@ -1349,7 +1349,7 @@ msgstr ""
 
 #: main.cpp:196
 #, kde-format
-msgid "(c) 1999-2018, The KDE Developers"
+msgid "(c) 1999-2019, The KDE Developers"
 msgstr ""
 
 #: main.cpp:198
@@ -1377,12 +1377,27 @@ msgstr ""
 msgid "Martin Flöser"
 msgstr ""
 
-#: main.cpp:211
+#: main.cpp:203
+#, kde-format
+msgid "David Edmundson"
+msgstr ""
+
+#: main.cpp:204
+#, kde-format
+msgid "Roman Gilg"
+msgstr ""
+
+#: main.cpp:205
+#, kde-format
+msgid "Vlad Zahorodnii"
+msgstr ""
+
+#: main.cpp:214
 #, kde-format
 msgid "Disable configuration options"
 msgstr ""
 
-#: main.cpp:212
+#: main.cpp:215
 #, kde-format
 msgid "Indicate that KWin has recently crashed n times"
 msgstr ""
