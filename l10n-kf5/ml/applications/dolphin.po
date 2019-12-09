@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-06 02:33+0100\n"
+"POT-Creation-Date: 2019-12-07 02:26+0100\n"
 "PO-Revision-Date: 2019-11-30 12:23+0000\n"
 "Last-Translator: Abraham Raji <abrahamraji99@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -3112,21 +3112,21 @@ msgid "Run script"
 msgstr ""
 
 #: settings/general/generalsettingspage.cpp:44
-#: settings/kcm/kcmdolphingeneral.cpp:50
+#: settings/kcm/kcmdolphingeneral.cpp:51
 #, kde-format
 msgctxt "@title:tab Behavior settings"
 msgid "Behavior"
 msgstr "പെരുമാറ്റം"
 
 #: settings/general/generalsettingspage.cpp:49
-#: settings/kcm/kcmdolphingeneral.cpp:55
+#: settings/kcm/kcmdolphingeneral.cpp:60
 #, kde-format
 msgctxt "@title:tab Previews settings"
 msgid "Previews"
 msgstr "തിരനോട്ടങ്ങള്‍"
 
 #: settings/general/generalsettingspage.cpp:54
-#: settings/kcm/kcmdolphingeneral.cpp:60
+#: settings/kcm/kcmdolphingeneral.cpp:69
 #, fuzzy, kde-format
 msgctxt "@title:tab Confirmations settings"
 msgid "Confirmations"

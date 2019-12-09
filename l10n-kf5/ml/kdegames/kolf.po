@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kolf\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-06-28 02:59+0200\n"
+"POT-Creation-Date: 2019-12-08 03:01+0100\n"
 "PO-Revision-Date: 2019-12-03 10:52+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -56,7 +56,7 @@ msgstr ""
 #: game.cpp:286
 #, kde-format
 msgid "Maximum:"
-msgstr ""
+msgstr "പരമാവധി:"
 
 #: game.cpp:290
 #, kde-format
@@ -71,7 +71,7 @@ msgstr ""
 #: game.cpp:292
 #, kde-format
 msgid "Unlimited"
-msgstr ""
+msgstr "അളവറ്റ"
 
 #: game.cpp:297
 #, kde-format
@@ -169,7 +169,7 @@ msgstr ""
 #: kcomboboxdialog.cpp:60
 #, kde-format
 msgid "&Do not ask again"
-msgstr ""
+msgstr "വീണ്ടും ചോദിക്കരുത് (&D)"
 
 #: kolf.cpp:63
 #, kde-format
@@ -701,24 +701,24 @@ msgstr ""
 msgid "Player %1"
 msgstr ""
 
-#: objects.cpp:243
+#: objects.cpp:245
 #, kde-format
 msgid " degree"
 msgid_plural " degrees"
 msgstr[0] ""
 msgstr[1] ""
 
-#: objects.cpp:246
+#: objects.cpp:248
 #, kde-format
 msgid "Exiting ball angle:"
 msgstr ""
 
-#: objects.cpp:253
+#: objects.cpp:264
 #, kde-format
 msgid "Minimum exit speed:"
 msgstr ""
 
-#: objects.cpp:260
+#: objects.cpp:281
 #, kde-format
 msgid "Maximum exit speed:"
 msgstr ""
