@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: parley\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-13 03:04+0100\n"
-"PO-Revision-Date: 2019-12-01 18:24+0000\n"
+"PO-Revision-Date: 2019-12-03 10:51+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
 "കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
@@ -812,15 +812,15 @@ msgstr "ഫയല്‍ (&F)"
 
 #. i18n: ectx: Menu (edit)
 #: src/editor/editorui.rc:12
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Edit"
-msgstr "ചരിത്രം"
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (view)
 #: src/editor/editorui.rc:23 src/practice/practiceui.rc:12
-#, fuzzy, kde-format
+#, kde-format
 msgid "&View"
-msgstr "കാഴ്ച"
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (lesson)
 #: src/editor/editorui.rc:49

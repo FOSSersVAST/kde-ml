@@ -6000,13 +6000,13 @@ msgstr "ഫയല്‍ (&F)"
 #: src/kalziumui.rc:11
 #, kde-format
 msgid "&View"
-msgstr "&കാണുക"
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (miscmenu)
 #: src/kalziumui.rc:21
 #, kde-format
 msgid "&Tools"
-msgstr ""
+msgstr "ഉപകരണങ്ങള്‍ (&T)"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: src/kalziumui.rc:35

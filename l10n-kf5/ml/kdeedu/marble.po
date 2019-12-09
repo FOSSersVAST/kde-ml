@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: marble\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:03+0200\n"
-"PO-Revision-Date: 2019-12-01 18:24+0000\n"
+"PO-Revision-Date: 2019-12-03 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
 "discuss@googlegroups.com>\n"
@@ -1162,13 +1162,13 @@ msgstr "ഫയല്‍ (&F)"
 #: marble_part.rc:21 marbleui.rc:14
 #, kde-format
 msgid "&Edit"
-msgstr "&ചിട്ടപ്പെടുത്തുക"
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (view)
 #: marble_part.rc:31 marbleui.rc:18
 #, kde-format
 msgid "&View"
-msgstr "&കാഴ്ച"
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (infoboxes)
 #: marble_part.rc:36

@@ -1331,7 +1331,7 @@ msgstr "&കളി"
 #: ui_standards.rc:61
 #, kde-format
 msgid "&Edit"
-msgstr "&തിരുത്തുക"
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (move)
 #: ui_standards.rc:84
@@ -1344,7 +1344,7 @@ msgstr "&മാറ്റുക"
 #: ui_standards.rc:101
 #, kde-format
 msgid "&View"
-msgstr "&കാഴ്ച"
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (go)
 #: ui_standards.rc:120
@@ -1362,7 +1362,7 @@ msgstr "അടയാളകുറിപ്പുകൾ (&B)"
 #: ui_standards.rc:147
 #, kde-format
 msgid "&Tools"
-msgstr "&പണിയായുധങ്ങള്‍"
+msgstr "ഉപകരണങ്ങള്‍ (&T)"
 
 #. i18n: ectx: Menu (settings)
 #: ui_standards.rc:151

@@ -2326,13 +2326,13 @@ msgstr ""
 #: cantor_part.rc:14 cantor_shell.rc:19
 #, kde-format
 msgid "&Edit"
-msgstr ""
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (view)
 #: cantor_part.rc:27 cantor_shell.rc:22
 #, kde-format
 msgid "&View"
-msgstr ""
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (worksheet)
 #: cantor_part.rc:33

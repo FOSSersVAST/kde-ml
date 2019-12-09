@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bluedevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-20 03:30+0100\n"
+"POT-Creation-Date: 2019-12-08 03:27+0100\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -95,20 +95,20 @@ msgstr "ബ്ലൂടൂത്ത് അഡാപ്റ്ററുകൾ"
 msgid "Bluetooth Adapters Control Panel Module"
 msgstr "ബ്ലൂടൂത്ത് അഡാപ്റ്ററുകൾ നിയന്ത്രണ പാനൽ മൊഡ്യൂൾ"
 
-#: kcmodule/adapters/adapters.cpp:273 kcmodule/devices/devices.cpp:118
+#: kcmodule/adapters/adapters.cpp:273 kcmodule/devices/devices.cpp:117
 #: kcmodule/global/global.cpp:53
 #, kde-format
 msgid "(c) 2010 Rafael Fernández López"
 msgstr ""
 
-#: kcmodule/adapters/adapters.cpp:275 kcmodule/devices/devices.cpp:121
+#: kcmodule/adapters/adapters.cpp:275 kcmodule/devices/devices.cpp:120
 #: kcmodule/global/global.cpp:55 kded/bluedevildaemon.cpp:91
 #: sendfile/main.cpp:42 wizard/main.cpp:44
 #, kde-format
 msgid "Maintainer"
 msgstr "പരിപാലകൻ "
 
-#: kcmodule/adapters/adapters.cpp:278 kcmodule/devices/devices.cpp:124
+#: kcmodule/adapters/adapters.cpp:278 kcmodule/devices/devices.cpp:123
 #: kcmodule/global/global.cpp:58
 #, kde-format
 msgid "Previous Developer and Maintainer"
@@ -361,17 +361,17 @@ msgstr "ഡി യു എൻ  നെറ്റ്‌വർക്ക് സജ്�
 msgid "Adapter:"
 msgstr "അഡാപ്റ്റർ "
 
-#: kcmodule/devices/devices.cpp:114
+#: kcmodule/devices/devices.cpp:113
 #, kde-format
 msgid "Bluetooth Devices"
 msgstr "ബ്ലൂടൂത്ത് ഉപകരണങ്ങൾ "
 
-#: kcmodule/devices/devices.cpp:116
+#: kcmodule/devices/devices.cpp:115
 #, kde-format
 msgid "Bluetooth Devices Control Panel Module"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:219
+#: kcmodule/devices/devices.cpp:218
 #, kde-format
 msgid ""
 "Are you sure that you want to remove %1 device from the list of known "
@@ -382,30 +382,30 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#: kcmodule/devices/devices.cpp:221
+#: kcmodule/devices/devices.cpp:220
 #, kde-format
 msgid ""
 "Are you sure that you want to remove device \"%1\" from the list of known "
 "devices?"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:224
+#: kcmodule/devices/devices.cpp:223
 #, kde-format
 msgctxt "Title of window that asks for confirmation when removing a device"
 msgid "Device removal"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:291
+#: kcmodule/devices/devices.cpp:290
 #, kde-format
 msgid "Select a device to configure"
 msgstr ""
 
-#: kcmodule/devices/devices.cpp:306
+#: kcmodule/devices/devices.cpp:305
 #, kde-format
 msgid "No devices found"
 msgstr "ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല"
 
-#: kcmodule/devices/devices.cpp:309
+#: kcmodule/devices/devices.cpp:308
 #, kde-format
 msgid "Add new device"
 msgstr "ഒരു പുതിയ ഉപകരണം ചേർക്കുക"

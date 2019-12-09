@@ -364,7 +364,7 @@ msgstr ""
 
 #: src/kdestub.py:575
 msgid "&View"
-msgstr ""
+msgstr "കാഴ്ച (&V)"
 
 #: src/kdestub.py:576
 msgid "&Settings"

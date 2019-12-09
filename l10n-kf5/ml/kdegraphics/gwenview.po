@@ -2445,7 +2445,7 @@ msgstr "ഫയല്‍ (&F)"
 #: part/gvpart.rc:8
 #, kde-format
 msgid "&View"
-msgstr ""
+msgstr "കാഴ്ച (&V)"
 
 #~ msgid "Cache:"
 #~ msgstr "കാഷ്:"

@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: kreversi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-17 02:53+0100\n"
-"PO-Revision-Date: 2019-11-17 02:53+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2019-12-03 10:53+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -443,7 +443,7 @@ msgstr ""
 #: kreversiui.rc:13
 #, kde-format
 msgid "&View"
-msgstr ""
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (settings)
 #: kreversiui.rc:18

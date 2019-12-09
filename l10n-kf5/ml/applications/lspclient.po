@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-04 02:31+0100\n"
+"POT-Creation-Date: 2019-12-09 02:23+0100\n"
 "PO-Revision-Date: 2019-08-11 02:23+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -214,28 +214,28 @@ msgctxt "@label:textbox"
 msgid "New name (caution: not all references may be replaced)"
 msgstr ""
 
-#: lspclientservermanager.cpp:431
+#: lspclientservermanager.cpp:433
 #, kde-kuit-format
 msgctxt "@info"
 msgid "<b>LSP Client:</b> %1"
 msgstr ""
 
-#: lspclientservermanager.cpp:488
+#: lspclientservermanager.cpp:490
 #, kde-format
 msgid "Server terminated unexpectedly: %1"
 msgstr ""
 
-#: lspclientservermanager.cpp:591
+#: lspclientservermanager.cpp:593
 #, kde-format
 msgid "Failed to start server: %1"
 msgstr ""
 
-#: lspclientservermanager.cpp:616
+#: lspclientservermanager.cpp:618
 #, kde-format
 msgid "Failed to parse server configuration: %1"
 msgstr ""
 
-#: lspclientservermanager.cpp:619
+#: lspclientservermanager.cpp:621
 #, kde-format
 msgid "Failed to read server configuration: %1"
 msgstr ""
@@ -275,7 +275,7 @@ msgstr ""
 msgid "Symbols"
 msgstr ""
 
-#: lspclientsymbolview.cpp:456
+#: lspclientsymbolview.cpp:458
 #, kde-format
 msgid "No LSP server for this document."
 msgstr ""

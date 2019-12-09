@@ -2246,13 +2246,13 @@ msgstr ""
 #: part.rc:18
 #, kde-format
 msgid "&Edit"
-msgstr ""
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (view)
 #: part.rc:31
 #, kde-format
 msgid "&View"
-msgstr ""
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (go)
 #: part.rc:54
@@ -2264,7 +2264,7 @@ msgstr ""
 #: part.rc:74
 #, kde-format
 msgid "&Tools"
-msgstr ""
+msgstr "ഉപകരണങ്ങള്‍ (&T)"
 
 #. i18n: ectx: ToolBar (mainToolBar)
 #: part.rc:99 shell/shell.rc:22

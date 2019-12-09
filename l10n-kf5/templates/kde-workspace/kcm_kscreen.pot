@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kscreen\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-20 03:32+0100\n"
+"POT-Creation-Date: 2019-12-08 03:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -130,7 +130,7 @@ msgid "Scale:"
 msgstr ""
 
 #: package/contents/ui/OutputPanel.qml:86
-#: package/contents/ui/Panel.qml:124
+#: package/contents/ui/Panel.qml:117
 #, kde-format
 msgctxt "Global scale factor expressed in percentage form"
 msgid "%1%"
@@ -151,35 +151,34 @@ msgstr ""
 msgid "Replica of:"
 msgstr ""
 
-#. i18n change text in master
-#: package/contents/ui/Panel.qml:34
+#: package/contents/ui/Panel.qml:30
 #, kde-format
-msgid "Settings for %1"
+msgid "Device:"
 msgstr ""
 
-#: package/contents/ui/Panel.qml:88
+#: package/contents/ui/Panel.qml:81
 #, kde-format
 msgid "Global scale:"
 msgstr ""
 
-#: package/contents/ui/Panel.qml:145
+#: package/contents/ui/Panel.qml:138
 #, kde-format
 msgid ""
 "The global scale factor is limited to multiples of 6.25% to minimize visual "
 "glitches in applications using the X11 windowing system."
 msgstr ""
 
-#: package/contents/ui/Panel.qml:157
+#: package/contents/ui/Panel.qml:150
 #, kde-format
 msgid "Save displays' properties:"
 msgstr ""
 
-#: package/contents/ui/Panel.qml:163
+#: package/contents/ui/Panel.qml:156
 #, kde-format
 msgid "For any display arrangement"
 msgstr ""
 
-#: package/contents/ui/Panel.qml:170
+#: package/contents/ui/Panel.qml:163
 #, kde-format
 msgid "For only this specific display arrangement"
 msgstr ""

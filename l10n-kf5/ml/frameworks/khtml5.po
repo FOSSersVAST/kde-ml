@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 02:56+0200\n"
-"PO-Revision-Date: 2019-11-28 11:50+0000\n"
-"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2019-12-03 10:41+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: <en@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -645,7 +645,7 @@ msgstr "ആര്‍ക്കൈവുകള്‍"
 #: khtml.rc:4 khtml_browser.rc:11
 #, kde-format
 msgid "&Edit"
-msgstr "&തിരുത്തുക"
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (file)
 #: khtml_browser.rc:4
@@ -657,7 +657,7 @@ msgstr "ഫയല്‍ (&F)"
 #: khtml_browser.rc:18
 #, kde-format
 msgid "&View"
-msgstr "&കാഴ്ച"
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: ToolBar (htmlToolBar)
 #: khtml_browser.rc:34

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-05 02:32+0100\n"
+"POT-Creation-Date: 2019-12-07 02:26+0100\n"
 "PO-Revision-Date: 2018-12-17 02:45+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -403,12 +403,12 @@ msgstr ""
 msgid "&Build"
 msgstr ""
 
-#: UrlInserter.cpp:43
+#: UrlInserter.cpp:45
 #, kde-format
 msgid "Insert path"
 msgstr ""
 
-#: UrlInserter.cpp:62
+#: UrlInserter.cpp:64
 #, kde-format
 msgid "Select directory to insert"
 msgstr ""

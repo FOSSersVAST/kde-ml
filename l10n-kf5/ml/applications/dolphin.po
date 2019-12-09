@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-06 02:33+0100\n"
+"POT-Creation-Date: 2019-12-07 02:26+0100\n"
 "PO-Revision-Date: 2019-11-30 12:23+0000\n"
 "Last-Translator: Abraham Raji <abrahamraji99@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -509,7 +509,7 @@ msgstr "&ടെര്‍മിനല്‍ പാനല്‍ കാണികു
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Bookmarks"
-msgstr ""
+msgstr "അടയാളകുറിപ്പുകൾ (&B)"
 
 #: dolphinmainwindow.cpp:1577
 #, kde-kuit-format
@@ -1021,7 +1021,7 @@ msgstr "&ടെര്‍മിനല്‍ പാനല്‍ കാണികു
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "&Edit File Type..."
-msgstr "ഫയലിന്റെ തരം &മാറ്റുക..."
+msgstr "ഫയലിന്റെ തരം മാറ്റുക... (&E)"
 
 #: dolphinpart.cpp:176
 #, kde-format
@@ -1115,7 +1115,7 @@ msgstr "ഈ രൂപവുമായി ചേരുന്ന എല്ലാ �
 #: dolphinpart.rc:4
 #, kde-format
 msgid "&Edit"
-msgstr "&ചിട്ട"
+msgstr "തിരുത്തുക (&E)"
 
 #. i18n: ectx: Menu (selection)
 #: dolphinpart.rc:14
@@ -1128,7 +1128,7 @@ msgstr "തെരഞ്ഞെടുക്കല്‍"
 #: dolphinpart.rc:23
 #, kde-format
 msgid "&View"
-msgstr "&കാഴ്ച"
+msgstr "കാഴ്ച (&V)"
 
 #. i18n: ectx: Menu (go)
 #: dolphinpart.rc:32
@@ -3112,21 +3112,21 @@ msgid "Run script"
 msgstr ""
 
 #: settings/general/generalsettingspage.cpp:44
-#: settings/kcm/kcmdolphingeneral.cpp:50
+#: settings/kcm/kcmdolphingeneral.cpp:51
 #, kde-format
 msgctxt "@title:tab Behavior settings"
 msgid "Behavior"
 msgstr "പെരുമാറ്റം"
 
 #: settings/general/generalsettingspage.cpp:49
-#: settings/kcm/kcmdolphingeneral.cpp:55
+#: settings/kcm/kcmdolphingeneral.cpp:60
 #, kde-format
 msgctxt "@title:tab Previews settings"
 msgid "Previews"
 msgstr "തിരനോട്ടങ്ങള്‍"
 
 #: settings/general/generalsettingspage.cpp:54
-#: settings/kcm/kcmdolphingeneral.cpp:60
+#: settings/kcm/kcmdolphingeneral.cpp:69
 #, fuzzy, kde-format
 msgctxt "@title:tab Confirmations settings"
 msgid "Confirmations"
