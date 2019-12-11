@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: kfontinst\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-20 03:34+0100\n"
-"PO-Revision-Date: 2008-12-18 05:38-0500\n"
-"Last-Translator: Manu S Madhav <manusmad@gmail.com>\n"
-"Language-Team:  <en@li.org>\n"
+"PO-Revision-Date: 2019-12-12 22:27+0000\n"
+"Last-Translator: JISHNU P <jishnup326@gmail.com>\n"
+"Language-Team: <en@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Weblate 3.9.1\n"
 "X-Poedit-Language: Malayalam\n"
 "X-Poedit-Country: INDIA\n"
 
@@ -375,7 +375,7 @@ msgstr "തരംതിരിയ്ക്കാത്ത"
 #: kcmfontinst/GroupList.cpp:384
 #, kde-format
 msgid "Group"
-msgstr "കൂട്ടം"
+msgstr "ഗ്രൂപ്പ്"
 
 #: kcmfontinst/GroupList.cpp:573
 #, kde-format
