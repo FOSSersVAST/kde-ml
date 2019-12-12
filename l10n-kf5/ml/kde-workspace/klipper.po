@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-06 03:40+0100\n"
-"PO-Revision-Date: 2010-06-23 20:21+0530\n"
-"Last-Translator: Ershad K <ershad92@gmail.com>\n"
-"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
-"കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 22:46+0000\n"
+"Last-Translator: Sabu Siyad <ssiyad@tuta.io>\n"
+"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 "X-Poedit-Language: Malayalam\n"
 "X-Poedit-Country: INDIA\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -589,7 +590,7 @@ msgstr "ക്ലിപ്പര്‍ - ക്ലിപ്പ്ബോര്‍
 #: klipperpopup.cpp:122
 #, kde-format
 msgid "Search..."
-msgstr ""
+msgstr "തിരയുക..."
 
 #: klipperpopup.cpp:132 main.cpp:43
 #, kde-format
