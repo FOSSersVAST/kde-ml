@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: baloo-widgets\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-14 02:32+0100\n"
-"PO-Revision-Date: 2019-05-22 01:57+0530\n"
-"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-12-12 13:28+0000\n"
+"Last-Translator: Preyas Prathap <preyasprathap@protonmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: src/filemetadataprovider.cpp:162 src/filemetadataprovider.cpp:168
 #: src/filemetadataprovider.cpp:229 src/filemetadataprovider.cpp:232
@@ -103,7 +104,7 @@ msgstr "ആകെ വലിപ്പം:"
 #, kde-format
 msgctxt "@label"
 msgid "Hidden items"
-msgstr ""
+msgstr "മറയ്‌ക്കപ്പെട്ട ഇനങ്ങൾ"
 
 #: src/filemetadataprovider.cpp:419
 #, kde-format
@@ -197,7 +198,7 @@ msgid "New tag:"
 msgstr "പുതിയ മുദ്ര:"
 
 #: src/widgetfactory.cpp:85 src/widgetfactory.cpp:95
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "String list separator"
 msgid ", "
 msgstr ", "
