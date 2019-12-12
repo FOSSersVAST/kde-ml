@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-09 02:32+0000\n"
+"POT-Creation-Date: 2019-12-12 02:41+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -1574,11 +1574,6 @@ msgstr "മാറുന്ന ചിത്രങ്ങള്‍"
 msgctxt "Comment"
 msgid "Slideshow wallpaper"
 msgstr "മാറുന്ന ചിത്രങ്ങള്‍"
-
-#: wallpapers/image/wallpaper.knsrc:2
-msgctxt "Name"
-msgid "Wallpapers"
-msgstr ""
 
 #: xembed-sni-proxy/xembedsniproxy.desktop:3
 msgctxt "Name"

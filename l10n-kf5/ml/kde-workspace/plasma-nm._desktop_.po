@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-24 02:36+0000\n"
+"POT-Creation-Date: 2019-12-11 02:50+0000\n"
 "PO-Revision-Date: 2019-04-13 01:41+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -43,7 +43,7 @@ msgctxt "Name"
 msgid "Plasma Network Management module"
 msgstr ""
 
-#: kded/networkmanagement.desktop:25
+#: kded/networkmanagement.desktop:26
 msgctxt "Comment"
 msgid "Provides secrets to the NetworkManager daemon"
 msgstr ""
@@ -148,13 +148,13 @@ msgctxt "Name"
 msgid "Mobile broadband"
 msgstr ""
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:32
-#: mobile/broadband/package/metadata.desktop:32
+#: mobile/broadband/mobilebroadbandsettings.desktop:33
+#: mobile/broadband/package/metadata.desktop:33
 msgctxt "Comment"
 msgid "Mobile broadband setting"
 msgstr ""
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:74
+#: mobile/broadband/mobilebroadbandsettings.desktop:76
 msgctxt "X-KDE-Keywords"
 msgid "mobile,data,network"
 msgstr ""
@@ -169,12 +169,12 @@ msgctxt "Name"
 msgid "Wi-Fi"
 msgstr ""
 
-#: mobile/wifi/package/metadata.desktop:33 mobile/wifi/wifisettings.desktop:33
+#: mobile/wifi/package/metadata.desktop:34 mobile/wifi/wifisettings.desktop:34
 msgctxt "Comment"
 msgid "Wireless network setting"
 msgstr ""
 
-#: mobile/wifi/wifisettings.desktop:76
+#: mobile/wifi/wifisettings.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid "wifi,network"
 msgstr ""
@@ -214,7 +214,7 @@ msgctxt "Name"
 msgid "PAN Global Protect (openconnect)"
 msgstr ""
 
-#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:46
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:47
 msgctxt "Comment"
 msgid "Compatible with PAN GlobalProtect SSL VPN"
 msgstr ""

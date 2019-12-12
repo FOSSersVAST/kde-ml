@@ -98,19 +98,19 @@ msgctxt "UrlButton|"
 msgid "Copy link address"
 msgstr ""
 
-#: settings.cpp:155
+#: settings.cpp:156
 #, qt-format
 msgctxt "Settings|"
 msgid "KDE Frameworks %1"
 msgstr ""
 
-#: settings.cpp:157
+#: settings.cpp:158
 #, qt-format
 msgctxt "Settings|"
 msgid "The %1 windowing system"
 msgstr ""
 
-#: settings.cpp:158
+#: settings.cpp:159
 #, qt-format
 msgctxt "Settings|"
 msgid "Qt %2 (built against %3)"

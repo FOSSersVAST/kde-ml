@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-07 02:26+0100\n"
+"POT-Creation-Date: 2019-12-10 02:33+0100\n"
 "PO-Revision-Date: 2019-11-30 12:23+0000\n"
 "Last-Translator: Abraham Raji <abrahamraji99@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -299,7 +299,7 @@ msgid ""
 "<emphasis>Cut</emphasis> action they are removed from their old location."
 msgstr ""
 
-#: dolphinmainwindow.cpp:1368 search/dolphinsearchbox.cpp:350
+#: dolphinmainwindow.cpp:1368 search/dolphinsearchbox.cpp:352
 #, fuzzy, kde-format
 msgid "Search..."
 msgstr "തെരയുക..."
@@ -1240,7 +1240,7 @@ msgstr ""
 msgid "Running Dolphin as root can be dangerous. Please be careful."
 msgstr "ഡോൾഫിൻ റൂട്ട് ആയി ഉപയോഗിക്കുന്നത് അപകടകരമാണ്. ദയവായി സൂക്ഷിക്കുക."
 
-#: dolphinviewcontainer.cpp:431 search/dolphinsearchbox.cpp:299
+#: dolphinviewcontainer.cpp:431 search/dolphinsearchbox.cpp:301
 #, kde-format
 msgid "Search for %1 in %2"
 msgstr "'%1' ല്‍ '%2' തിരയുക"
@@ -2409,66 +2409,66 @@ msgctxt "@item:inlistbox"
 msgid "Highest Rating"
 msgstr "ഉയർന്ന റേറ്റിംഗ്"
 
-#: search/dolphinsearchbox.cpp:112
+#: search/dolphinsearchbox.cpp:114
 #, kde-format
 msgctxt "action:button"
 msgid "From Here (%1)"
 msgstr "ഇവിടെ നിന്ന് (%1)"
 
-#: search/dolphinsearchbox.cpp:113
+#: search/dolphinsearchbox.cpp:115
 #, kde-format
 msgctxt "action:button"
 msgid "Limit search to '%1' and its subfolders"
 msgstr "'%1' ഉം അതിന്റെ ഉപ ഫോള്‍ഡറുകളിലേക്കും തിരയൽ ചുരുക്കുക"
 
-#: search/dolphinsearchbox.cpp:345
+#: search/dolphinsearchbox.cpp:347
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Quit searching"
 msgstr "തെരച്ചില്‍ അവസാനിപ്പിക്കുക"
 
-#: search/dolphinsearchbox.cpp:363
+#: search/dolphinsearchbox.cpp:365
 #, kde-format
 msgctxt "action:button"
 msgid "Save this search to quickly access it again in the future"
 msgstr "ഭാവിയില്‍ ഉടനെ ലഭിക്കാന്‍ ഈ തിരയല്‍ സൂക്ഷിക്കുക"
 
-#: search/dolphinsearchbox.cpp:376
+#: search/dolphinsearchbox.cpp:378
 #, kde-format
 msgctxt "action:button"
 msgid "Filename"
 msgstr "ഫയലിന്റെ പേരു്‌"
 
-#: search/dolphinsearchbox.cpp:380
+#: search/dolphinsearchbox.cpp:382
 #, kde-format
 msgctxt "action:button"
 msgid "Content"
 msgstr "ഉള്ളടക്കം"
 
-#: search/dolphinsearchbox.cpp:391
+#: search/dolphinsearchbox.cpp:393
 #, kde-format
 msgctxt "action:button"
 msgid "From Here"
 msgstr "ഇവിടെ നിന്ന്"
 
-#: search/dolphinsearchbox.cpp:395
+#: search/dolphinsearchbox.cpp:397
 #, kde-format
 msgctxt "action:button"
 msgid "Your files"
 msgstr "നിങ്ങളുടെ ഫയലുകള്‍"
 
-#: search/dolphinsearchbox.cpp:396
+#: search/dolphinsearchbox.cpp:398
 #, kde-format
 msgctxt "action:button"
 msgid "Search in your home directory"
 msgstr "ഹോം അറയില്‍ തിരയുക"
 
-#: search/dolphinsearchbox.cpp:410
+#: search/dolphinsearchbox.cpp:412
 #, kde-format
 msgid "More Search Tools"
 msgstr "കൂടുതൽ തെരച്ചില്‍ ഉപകരണങ്ങള്‍"
 
-#: search/dolphinsearchbox.cpp:497
+#: search/dolphinsearchbox.cpp:499
 #, kde-format
 msgctxt ""
 "@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
@@ -2895,56 +2895,56 @@ msgstr ""
 msgid "Enabled plugins"
 msgstr "ഉപയോഗത്തിലുള്ള പ്ലഗിനുകള്‍"
 
-#: settings/dolphinsettingsdialog.cpp:49
+#: settings/dolphinsettingsdialog.cpp:50
 #, kde-format
 msgctxt "@title:window"
 msgid "Dolphin Preferences"
 msgstr "ഡോള്‍ഫിന്റെ മുന്‍ഗണനകള്‍"
 
-#: settings/dolphinsettingsdialog.cpp:63
+#: settings/dolphinsettingsdialog.cpp:64
 #, kde-format
 msgctxt "@title:group General settings"
 msgid "General"
 msgstr "പൊതുവായ"
 
-#: settings/dolphinsettingsdialog.cpp:70
+#: settings/dolphinsettingsdialog.cpp:71
 #, kde-format
 msgctxt "@title:group"
 msgid "Startup"
 msgstr "തുടക്കം"
 
-#: settings/dolphinsettingsdialog.cpp:77
+#: settings/dolphinsettingsdialog.cpp:78
 #, kde-format
 msgctxt "@title:group"
 msgid "View Modes"
 msgstr "അവതരണരീതി"
 
-#: settings/dolphinsettingsdialog.cpp:84
+#: settings/dolphinsettingsdialog.cpp:85
 #, kde-format
 msgctxt "@title:group"
 msgid "Navigation"
 msgstr "നാവിഗേഷന്‍"
 
-#: settings/dolphinsettingsdialog.cpp:91
+#: settings/dolphinsettingsdialog.cpp:92
 #, kde-format
 msgctxt "@title:group"
 msgid "Services"
 msgstr "സേവനങ്ങള്‍"
 
-#: settings/dolphinsettingsdialog.cpp:99
+#: settings/dolphinsettingsdialog.cpp:100
 #, kde-format
 msgctxt "@title:group"
 msgid "Trash"
 msgstr "ചവറ്റുകുട്ട"
 
-#: settings/dolphinsettingsdialog.cpp:163
+#: settings/dolphinsettingsdialog.cpp:164
 #, kde-format
 msgid ""
 "You have unsaved changes. Do you want to apply the changes or discard them?"
 msgstr ""
 "ഇപ്പോള്‍ സജീവമായ മൊഡ്യൂളിന്റെ സജ്ജീകരണങ്ങള്‍ മാറിയിട്ടുണ്ടു്. മാറ്റങ്ങള്‍ നടപ്പിലാക്കണോ അതോ കളയണോ?"
 
-#: settings/dolphinsettingsdialog.cpp:164
+#: settings/dolphinsettingsdialog.cpp:165
 #, kde-format
 msgid "Warning"
 msgstr "മുന്നറിയിപ്പു്"
@@ -3138,13 +3138,13 @@ msgctxt "@title:tab Status Bar settings"
 msgid "Status Bar"
 msgstr "അവസ്ഥാ പട്ട"
 
-#: settings/general/previewssettingspage.cpp:52
+#: settings/general/previewssettingspage.cpp:53
 #, fuzzy, kde-format
 msgctxt "@title:group"
 msgid "Show previews in the view for:"
 msgstr "ഇവയ്ക്കൊക്കെ തിരനോട്ടം കാണിയ്ക്കുക:"
 
-#: settings/general/previewssettingspage.cpp:70
+#: settings/general/previewssettingspage.cpp:71
 #, fuzzy, kde-format
 msgctxt "@label"
 msgid "Skip previews for remote files above:"
@@ -3195,19 +3195,19 @@ msgctxt "option:check"
 msgid "Open folders during drag operations"
 msgstr "വലിച്ചിടുമ്പോള്‍ അറകള്‍ തുറക്കുക"
 
-#: settings/services/servicessettingspage.cpp:60
+#: settings/services/servicessettingspage.cpp:61
 #, fuzzy, kde-format
 msgctxt "@label:textbox"
 msgid "Select which services should be shown in the context menu:"
 msgstr "അവസരോചിത മെനുവില്‍ കാണിക്കേണ്ട സേവനങ്ങള്‍ തെരഞ്ഞെടുക്കുക"
 
-#: settings/services/servicessettingspage.cpp:75
+#: settings/services/servicessettingspage.cpp:76
 #, kde-format
 msgctxt "@action:button"
 msgid "Download New Services..."
 msgstr "പുതിയ സേവനങ്ങള്‍ ഡൗണ്‍ലോഡ് ചെയ്യുക..."
 
-#: settings/services/servicessettingspage.cpp:133
+#: settings/services/servicessettingspage.cpp:134
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -3217,19 +3217,19 @@ msgstr ""
 "വേര്‍ഷന്‍ നിയന്ത്രണ സംവിധാനങ്ങളുടെ സജ്ജീകരണങ്ങളില്‍ വരുത്തിയ മാറ്റങ്ങള്‍ ഉള്‍ക്കൊള്ളാന്‍ ഡോള്‍ഫിന്‍ ഒന്ന് "
 "അടച്ച് തുറക്കേണ്ടിയിരിക്കുന്നു."
 
-#: settings/services/servicessettingspage.cpp:165
+#: settings/services/servicessettingspage.cpp:166
 #, fuzzy, kde-format
 msgctxt "@option:check"
 msgid "Delete"
 msgstr "നീക്കം ചെയ്യുക"
 
-#: settings/services/servicessettingspage.cpp:171
+#: settings/services/servicessettingspage.cpp:172
 #, fuzzy, kde-format
 msgctxt "@option:check"
 msgid "'Copy To' and 'Move To' commands"
 msgstr "'സ്ഥാനത്തേയ്ക്കു് പകര്‍ത്തുക', 'സ്ഥാനത്തേയ്ക്കു് നീക്കുക' എന്നീ ആജ്ഞകള്‍ കാണിയ്ക്കുക"
 
-#: settings/services/servicessettingspage.cpp:206
+#: settings/services/servicessettingspage.cpp:207
 #, kde-format
 msgctxt "@item:inmenu"
 msgid "%1: %2"

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.cuttlefish.appdata\n"
-"POT-Creation-Date: 2019-08-21 03:21+0200\n"
+"POT-Creation-Date: 2019-12-10 03:41+0100\n"
 "PO-Revision-Date: 2016-06-10 07:50+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -13,17 +13,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. (itstool) path: component/name
-#: org.kde.cuttlefish.appdata.xml:9
+#: org.kde.cuttlefish.appdata.xml:10
 msgid "Cuttlefish"
 msgstr ""
 
 #. (itstool) path: component/summary
-#: org.kde.cuttlefish.appdata.xml:10
+#: org.kde.cuttlefish.appdata.xml:11
 msgid "Icon Previewer for Artists and Developers"
 msgstr ""
 
 #. (itstool) path: description/p
-#: org.kde.cuttlefish.appdata.xml:12
+#: org.kde.cuttlefish.appdata.xml:13
 msgid ""
 "Cuttlefish allows artists and developers to preview and pick icons. "
 "Cuttlefish attempts to render the icons exactly as they would look drawn in "
