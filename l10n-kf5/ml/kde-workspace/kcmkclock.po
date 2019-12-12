@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-09-12 03:25+0200\n"
 "PO-Revision-Date: 2019-12-12 22:39+0000\n"
-"Last-Translator: Sabu Siyad <ssiyad@tuta.io>\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -25,14 +25,12 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "മനു എസ് മാധവ്, ഹരി വിഷ്ണു, മണിലാല്‍ കെ.എം, ഇര്‍ഷാദ് കെ, പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍"
+msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
-"manusmad@gmail.com, harivishnu@gmail.com, libregeek@gmail.com, "
-"ershad92@gmail.com, pravi.a@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
 #: dateandtime.ui:22
