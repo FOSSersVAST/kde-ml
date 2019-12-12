@@ -12,15 +12,15 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-30 02:57+0100\n"
-"PO-Revision-Date: 2010-12-29 15:32+0530\n"
-"Last-Translator: \n"
-"Language-Team:  <en@li.org>\n"
+"PO-Revision-Date: 2019-12-12 21:04+0000\n"
+"Last-Translator: Sabu Siyad <ssiyad@tuta.io>\n"
+"Language-Team: <en@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 "X-Poedit-Country: INDIA\n"
 
 #, kde-format
@@ -471,9 +471,9 @@ msgstr[0] "പ്ലഗിന്‍ ആശ്രയത്വം മൂലം %1 
 msgstr[1] "പ്ലഗിന്‍ ആശ്രയത്വം മൂലം %1 പ്ലഗിനുകള്‍ തനിയെ നീക്കം ചെയ്തു"
 
 #: kpluginselector.cpp:262
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search..."
-msgstr "തെരയുക"
+msgstr "തിരയുക..."
 
 #: kpluginselector.cpp:718
 #, fuzzy, kde-format
