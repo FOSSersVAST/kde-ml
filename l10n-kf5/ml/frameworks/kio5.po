@@ -41,8 +41,8 @@ msgid ""
 "<qt>Could not modify the ownership of file <b>%1</b>. You have insufficient "
 "access to the file to perform the change.</qt>"
 msgstr ""
-"<qt><b>%1</b> എന്ന ഫയലിന്റെ ഉടമസ്ഥത മാറ്റുവാൻ സാധിച്ചില്ല. ഈ ഫയലിൽ ഈ "
-"പരിവർത്തനം നടത്താൻ ആവശ്യമുള്ള അവകാശം നിങ്ങള്ക്ക് ഇല്ല.</qt>"
+"<qt><b>%1</b> എന്ന ഫയലിന്റെ ഉടമസ്ഥത മാറ്റുവാൻ സാധിച്ചില്ല. ഈ ഫയലിൽ ഈ പരിവർത്തനം "
+"നടത്താൻ ആവശ്യമുള്ള അവകാശം നിങ്ങള്ക്ക് ഇല്ല.</qt>"
 
 #: core/connectionbackend.cpp:144
 #, kde-format
@@ -228,8 +228,8 @@ msgid ""
 "Root privileges are required to complete the copy operation. Do you want to "
 "continue?"
 msgstr ""
-"പകർപ്പ് പ്രവർത്തനം പൂർത്തിയാക്കാൻ റൂട്ട് പ്രത്യേകാവകാശങ്ങൾ ആവശ്യമാണ്.നിങ്ങൾ "
-"തുടരാൻ ആഗ്രഹിക്കുന്നുവോ?"
+"പകർപ്പ് പ്രവർത്തനം പൂർത്തിയാക്കാൻ റൂട്ട് പ്രത്യേകാവകാശങ്ങൾ ആവശ്യമാണ്.നിങ്ങൾ തുടരാൻ "
+"ആഗ്രഹിക്കുന്നുവോ?"
 
 #: core/job.cpp:296
 #, kde-format
@@ -1077,8 +1077,7 @@ msgid ""
 "The request expected a file, however the folder <strong>%1</strong> was "
 "found instead."
 msgstr ""
-"ഈ അഭ്യർത്ഥന ഒരു ഫയൽ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന അറ ആണ്"
-" ലഭിച്ചത്."
+"ഈ അഭ്യർത്ഥന ഒരു ഫയൽ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന അറ ആണ് ലഭിച്ചത്."
 
 #: core/job_error.cpp:495
 #, kde-format
@@ -1096,8 +1095,7 @@ msgid ""
 "The request expected a folder, however the file <strong>%1</strong> was "
 "found instead."
 msgstr ""
-"ഈ അഭ്യർത്ഥന ഒരു അറ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന ഫയൽ ആണ്"
-" ലഭിച്ചത്."
+"ഈ അഭ്യർത്ഥന ഒരു അറ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന ഫയൽ ആണ് ലഭിച്ചത്."
 
 #: core/job_error.cpp:508
 #, kde-format
@@ -1115,8 +1113,7 @@ msgid ""
 "The requested file could not be created because a file with the same name "
 "already exists."
 msgstr ""
-"അഭ്യർത്ഥിച്ച ഫയൽ ഉണ്ടാക്കാൻ സാധിച്ചില്ല കാരണം ആ പേര് ഉള്ള ഒരു ഫയൽ മുൻപേതന്നെ "
-"നിലവിൽ ഉണ്ട്."
+"അഭ്യർത്ഥിച്ച ഫയൽ ഉണ്ടാക്കാൻ സാധിച്ചില്ല കാരണം ആ പേര് ഉള്ള ഒരു ഫയൽ മുൻപേതന്നെ നിലവിൽ ഉണ്ട്."
 
 #: core/job_error.cpp:519
 #, kde-format

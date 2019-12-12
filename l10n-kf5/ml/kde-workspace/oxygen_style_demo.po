@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kstyle_config\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-05 03:25+0200\n"
+"POT-Creation-Date: 2019-12-10 03:40+0100\n"
 "PO-Revision-Date: 2010-06-20 23:01+0530\n"
 "Last-Translator: Ershad K <ershad92@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -173,37 +173,37 @@ msgstr "ഉദാഹരണ വാചകം"
 msgid "password"
 msgstr "രഹസ്യവാക്ക്"
 
-#: oxygenmdidemowidget.cpp:50
+#: oxygenmdidemowidget.cpp:54
 #, kde-format
 msgid "Layout"
 msgstr ""
 
-#: oxygenmdidemowidget.cpp:51
+#: oxygenmdidemowidget.cpp:55
 #, kde-format
 msgid "Tile"
 msgstr "ടൈല്‍"
 
-#: oxygenmdidemowidget.cpp:52
+#: oxygenmdidemowidget.cpp:56
 #, kde-format
 msgid "Cascade"
 msgstr "കാസ്കെയ്ഡ്"
 
-#: oxygenmdidemowidget.cpp:53
+#: oxygenmdidemowidget.cpp:57
 #, kde-format
 msgid "Tabs"
 msgstr "ടാബ്സ് "
 
-#: oxygenmdidemowidget.cpp:55
+#: oxygenmdidemowidget.cpp:59
 #, fuzzy, kde-format
 msgid "Tools"
 msgstr "ബട്ടണുകള്‍"
 
-#: oxygenmdidemowidget.cpp:57
+#: oxygenmdidemowidget.cpp:61
 #, kde-format
 msgid "Select Next Window"
 msgstr "അടുത്ത ജാലകം തിരഞ്ഞെടുക്കുക"
 
-#: oxygenmdidemowidget.cpp:61
+#: oxygenmdidemowidget.cpp:65
 #, kde-format
 msgid "Select Previous Window"
 msgstr "മുമ്പത്തെ ജാലകം തിരഞ്ഞെടുക്കുക"

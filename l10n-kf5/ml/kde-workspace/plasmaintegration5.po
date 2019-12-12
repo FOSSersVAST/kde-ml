@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-integration\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-08 03:33+0100\n"
+"POT-Creation-Date: 2019-12-10 03:40+0100\n"
 "PO-Revision-Date: 2018-08-21 03:49+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -108,31 +108,31 @@ msgctxt "@action:button"
 msgid "New Folder..."
 msgstr ""
 
-#: platformtheme/kdirselectdialog.cpp:340
+#: platformtheme/kdirselectdialog.cpp:342
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "New Folder..."
 msgstr ""
 
-#: platformtheme/kdirselectdialog.cpp:347
+#: platformtheme/kdirselectdialog.cpp:349
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to Trash"
 msgstr ""
 
-#: platformtheme/kdirselectdialog.cpp:354
+#: platformtheme/kdirselectdialog.cpp:356
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Delete"
 msgstr ""
 
-#: platformtheme/kdirselectdialog.cpp:363
+#: platformtheme/kdirselectdialog.cpp:365
 #, kde-format
 msgctxt "@option:check"
 msgid "Show Hidden Folders"
 msgstr ""
 
-#: platformtheme/kdirselectdialog.cpp:370
+#: platformtheme/kdirselectdialog.cpp:372
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Properties"

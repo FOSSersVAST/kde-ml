@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2019-08-21 03:21+0200\n"
+"POT-Creation-Date: 2019-12-10 03:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -10,16 +10,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. (itstool) path: component/name
-#: org.kde.cuttlefish.appdata.xml:9
+#: org.kde.cuttlefish.appdata.xml:10
 msgid "Cuttlefish"
 msgstr ""
 
 #. (itstool) path: component/summary
-#: org.kde.cuttlefish.appdata.xml:10
+#: org.kde.cuttlefish.appdata.xml:11
 msgid "Icon Previewer for Artists and Developers"
 msgstr ""
 
 #. (itstool) path: description/p
-#: org.kde.cuttlefish.appdata.xml:12
+#: org.kde.cuttlefish.appdata.xml:13
 msgid "Cuttlefish allows artists and developers to preview and pick icons. Cuttlefish attempts to render the icons exactly as they would look drawn in the application. It allows to filter based on category and name. Cuttlefish is not a general-purpose tool, but geared towards artists' and developers' use-cases. Cuttlefish also provides a plugin for Kate and KDevelop to be used as icon picker."
 msgstr ""

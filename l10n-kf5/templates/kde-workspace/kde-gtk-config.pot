@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kde-gtk-config\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-03 03:41+0100\n"
+"POT-Creation-Date: 2019-12-11 03:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -132,27 +132,27 @@ msgstr ""
 msgid "Internationalization"
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:102
+#: src/gtkconfigkcmodule.cpp:101
 #, kde-format
 msgid "Download GTK2 themes..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:103
+#: src/gtkconfigkcmodule.cpp:102
 #, kde-format
 msgid "Download GTK3 themes..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:104
+#: src/gtkconfigkcmodule.cpp:103
 #, kde-format
 msgid "Install a local theme..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:105
+#: src/gtkconfigkcmodule.cpp:104
 #, kde-format
 msgid "Uninstall a local theme..."
 msgstr ""
 
-#: src/gtkconfigkcmodule.cpp:236
+#: src/gtkconfigkcmodule.cpp:229
 #, kde-format
 msgid "Failed to save configuration."
 msgstr ""
@@ -248,26 +248,8 @@ msgstr ""
 msgid "Prefer dark theme"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_6)
-#: src/ui/gui.ui:103
-#, kde-format
-msgid "On scrollbar left-click:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QRadioButton, radioButton_dont_warp)
-#: src/ui/gui.ui:110
-#, kde-format
-msgid "Scro&ll one page up/down"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QRadioButton, radioButton_warp)
-#: src/ui/gui.ui:123
-#, kde-format
-msgid "&Jump to mouse cursor position"
-msgstr ""
-
 #. i18n: ectx: property (toolTip), widget (QPushButton, newThemes)
-#: src/ui/gui.ui:178
+#: src/ui/gui.ui:148
 #, kde-format
 msgid ""
 "<html><head/><body><p>Here you can install new GTK themes. Even more are "
@@ -276,7 +258,7 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, newThemes)
-#: src/ui/gui.ui:181
+#: src/ui/gui.ui:151
 #, kde-format
 msgid "Get New GNOME/GTK Application Styles..."
 msgstr ""
