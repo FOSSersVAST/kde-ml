@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-06 03:40+0100\n"
 "PO-Revision-Date: 2019-12-12 22:46+0000\n"
-"Last-Translator: Sabu Siyad <ssiyad@tuta.io>\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -677,13 +677,13 @@ msgstr "പാലകന്‍"
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "മണിലാല്‍ കെ.എം, ഇര്‍ഷാദ് കെ"
+msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
 
 #: main.cpp:72
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "libregeek@gmail.com, ershad92@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: popupproxy.cpp:168
 #, kde-format
