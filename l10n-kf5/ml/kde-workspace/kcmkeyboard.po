@@ -8,25 +8,25 @@ msgstr ""
 "Project-Id-Version: kcmkeyboard trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-30 03:38+0100\n"
-"PO-Revision-Date: 2010-12-16 22:21+0530\n"
-"Last-Translator: Anish A <anish.nl@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 22:30+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathantra Malayalam Computing\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.5.2\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Manu S Madhav, Anish A (അനീഷ് എ)"
+msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "manusmad@gmail.com, aneeshn.nl@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: bindings.cpp:33
 #, fuzzy, kde-format
