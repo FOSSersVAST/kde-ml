@@ -8,25 +8,26 @@ msgstr ""
 "Project-Id-Version: bluedevil\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-08 03:27+0100\n"
-"PO-Revision-Date: 2019-05-22 01:57+0530\n"
-"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-12-12 22:59+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "കിരൺ ജോൺസ്"
+msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "kiranjohns369@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: kcmodule/adapters/adapters.cpp:71
 #, kde-format
@@ -403,7 +404,7 @@ msgstr ""
 #: kcmodule/devices/devices.cpp:305
 #, kde-format
 msgid "No devices found"
-msgstr "ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല"
+msgstr "ഒരു ഉപകരണവും കണ്ടെത്താനായില്ല"
 
 #: kcmodule/devices/devices.cpp:308
 #, kde-format
