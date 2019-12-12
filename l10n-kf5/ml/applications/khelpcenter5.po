@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-17 02:24+0100\n"
 "PO-Revision-Date: 2019-12-12 21:19+0000\n"
-"Last-Translator: Sabu Siyad <ssiyad@tuta.io>\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -23,17 +23,17 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം"
+msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "shijualexonline@gmail.com,snalledam@dataone.in"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: application.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 msgid "Documentation to open"
-msgstr "ഇന്‍‌ഡെക്സ് ചെയ്യാനുള്ള പ്രമാണം"
+msgstr "തുറക്കാനുള്ള വിവരം"
 
 #: application.cpp:91 application.cpp:93
 #, kde-format
@@ -41,24 +41,24 @@ msgid "Help Center"
 msgstr "സഹായ കേന്ദ്രം"
 
 #: application.cpp:95
-#, fuzzy, kde-format
+#, kde-format
 msgid "(c) 1999-2018, The KHelpCenter developers"
 msgstr "(c) 1999-2003, കെഡി‌‌ഇ സഹായകേന്ദ്രം ഡെവലപ്പര്‍മാര്‍"
 
 #: application.cpp:97
 #, kde-format
 msgid "Current maintainer"
-msgstr ""
+msgstr "ഇപ്പോഴത്തെ പരിപാലകൻ"
 
 #: application.cpp:98
 #, kde-format
 msgid "Xapian-based search, lot of bugfixes"
-msgstr ""
+msgstr "Xapian അടിസ്ഥാനമാക്കിയ തിരയൽ, കുറെ പ്രശ്നങ്ങൾ പരിഹരിച്ചിട്ടുണ്ട്."
 
 #: application.cpp:99
 #, kde-format
 msgid "Former maintainer"
-msgstr ""
+msgstr "പണ്ടത്തെ പരിപാലകൻ"
 
 #: application.cpp:101
 #, kde-format
@@ -68,7 +68,7 @@ msgstr "യഥാര്‍ത്ഥ രചയിതാവു്"
 #: application.cpp:102
 #, kde-format
 msgid "Info page support"
-msgstr ""
+msgstr "വിവര പേജ് പിന്തുണ"
 
 #: docmetainfo.cpp:49
 #, kde-format
@@ -98,13 +98,13 @@ msgid "Sizes"
 msgstr "വലിപ്പം "
 
 #: fontdialog.cpp:85
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "The smallest size a will have"
 msgid "M&inimum font size:"
 msgstr "അക്ഷരസഞ്ചയത്തിന്റെ കു&റഞ്ഞ വലിപ്പം:"
 
 #: fontdialog.cpp:92
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "The normal size a font will have"
 msgid "M&edium font size:"
 msgstr "അക്ഷരസഞ്ചയത്തിന്റെ ഇടത്തരം വലിപ്പം:"
@@ -185,10 +185,10 @@ msgid "Rebuilding cache... done."
 msgstr "കാഷെ പുനഃര്‍നിര്‍മ്മിക്കുന്നു... ചെയ്തു."
 
 #: grantleeformatter.cpp:117
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "%1 is a glossary term"
 msgid "KDE Glossary: %1"
-msgstr "കെഡി‌ഇ ഗ്ലോസ്സറി"
+msgstr "കെഡി‌ഇ ഗ്ലോസ്സറി: %1"
 
 #: grantleeformatter.cpp:118
 #, kde-format
@@ -196,9 +196,9 @@ msgid "KDE Glossary"
 msgstr "കെഡി‌ഇ ഗ്ലോസ്സറി"
 
 #: grantleeformatter.cpp:122
-#, fuzzy, kde-format
+#, kde-format
 msgid "See also: %1"
-msgstr "ഇതും കാണുക:"
+msgstr "ഇതും കാണുക: % 1"
 
 #: grantleeformatter.cpp:143
 #, kde-format
@@ -231,7 +231,7 @@ msgstr "തെരച്ചല്‍ ഇന്‍ഡെക്സ് സൂക്�
 #: khelpcenter.kcfg:46
 #, kde-format
 msgid "Currently visible navigator tab"
-msgstr ""
+msgstr "ഇപ്പോൾ ദൃശ്യമായ നാവിഗേറ്റർ ജാലകം"
 
 #. i18n: ectx: Menu (edit)
 #: khelpcenterui.rc:5
@@ -369,14 +369,14 @@ msgid "Unable to run search program."
 msgstr "തെരച്ചില്‍ പ്രോഗ്രാം ഓടിക്കുവാന്‍ കഴിഞ്ഞില്ല"
 
 #: navigator.cpp:598
-#, fuzzy, kde-format
+#, kde-format
 msgid "Updating search index..."
-msgstr "തെരച്ചിലിന്റെ ഇന്‍‌ഡെക്സ് തയ്യാറാക്കുക"
+msgstr "തെരച്ചിലിന്റെ ഇന്‍‌ഡെക്സ് പുതുക്കുക"
 
 #: navigator.cpp:609
-#, fuzzy, kde-format
+#, kde-format
 msgid "Updating search index... done."
-msgstr "കാഷെ പുനഃര്‍നിര്‍മ്മിക്കുന്നു... ചെയ്തു."
+msgstr "സൂചിക പുതുക്കുന്നു... ചെയ്തു."
 
 #: searchengine.cpp:72
 #, kde-format
@@ -391,7 +391,7 @@ msgstr "പിഴവ്: '%1'. എന്ന പ്രമാണത്തിന്
 #: searchengine.cpp:243
 #, kde-format
 msgid "No valid search handler found."
-msgstr ""
+msgstr "ശരിയായ തിരച്ചിൽ ഹാൻഡിലുകൾ കണ്ടെത്താനായില്ല."
 
 #: searchhandler.cpp:52
 #, kde-format
@@ -406,12 +406,13 @@ msgstr "പിഴവ്: %1"
 #: searchhandler.cpp:158 searchhandler.cpp:163
 #, kde-format
 msgid "'%1' not found, check your installation"
-msgstr ""
+msgstr "'% 1 ' കണ്ടെത്താനായില്ല, ഇൻസ്റ്റാളേഷൻ പരിശോധിക്കുക"
 
 #: searchhandler.cpp:168
 #, kde-format
 msgid "'%1' not found, install the package containing it"
 msgstr ""
+"' % 1 ' കണ്ടെത്താനായില്ല, അത് സ്ഥിതി ചെയ്യുന്ന പാക്കേജ് ഇൻസ്റ്റാൾ ചെയ്യുക"
 
 #: searchhandler.cpp:215
 #, kde-format
@@ -452,7 +453,7 @@ msgstr "വ്യാപ്തി"
 #, kde-format
 msgctxt "Label for searching documentation using custom (user defined) scope"
 msgid "Custom"
-msgstr ""
+msgstr "ഇഷ്ടാനുസൃതം"
 
 #: searchwidget.cpp:340
 #, kde-format
@@ -481,7 +482,7 @@ msgstr "അജ്ഞാതം"
 #: view.cpp:237
 #, kde-format
 msgid "Copy Link Address"
-msgstr ""
+msgstr "ലിങ്ക് അഡ്രസ്സ് പകർത്തുക"
 
 #: view.cpp:321
 #, kde-format
