@@ -9,25 +9,25 @@ msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-04 02:32+0100\n"
-"PO-Revision-Date: 2019-12-01 18:21+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 21:16+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍, ഹരി വിഷ്ണു, ഇര്‍ഷാദ് കെ"
+msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "pravi.a@gmail.com, harivishnu@gmail.com, ershad92@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #. i18n: ectx: Menu (file)
 #: ../desktop/konsoleui.rc:5
@@ -1543,7 +1543,7 @@ msgstr "കണ്ണി തുറക്കുക"
 #: Filter.cpp:490
 #, kde-format
 msgid "Copy Link Address"
-msgstr "കണ്ണിയുടെ വിലാസം പകര്‍ത്തുക"
+msgstr "ലിങ്ക് അഡ്രസ്സ് പകർത്തുക"
 
 #: Filter.cpp:492
 #, kde-format
