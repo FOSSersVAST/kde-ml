@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-12 03:32+0100\n"
+"POT-Creation-Date: 2019-12-13 03:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -1407,67 +1407,67 @@ msgstr ""
 msgid "Invert Screen Colors"
 msgstr ""
 
-#: main.cpp:187 main.cpp:217
+#: main.cpp:194 main.cpp:224
 #, kde-format
 msgid "KDE window manager"
 msgstr ""
 
-#: main.cpp:192
+#: main.cpp:199
 #, kde-format
 msgid "KWin"
 msgstr ""
 
-#: main.cpp:196
+#: main.cpp:203
 #, kde-format
 msgid "(c) 1999-2019, The KDE Developers"
 msgstr ""
 
-#: main.cpp:198
+#: main.cpp:205
 #, kde-format
 msgid "Matthias Ettrich"
 msgstr ""
 
-#: main.cpp:199
+#: main.cpp:206
 #, kde-format
 msgid "Cristian Tibirna"
 msgstr ""
 
-#: main.cpp:200
+#: main.cpp:207
 #, kde-format
 msgid "Daniel M. Duley"
 msgstr ""
 
-#: main.cpp:201
+#: main.cpp:208
 #, kde-format
 msgid "Luboš Luňák"
 msgstr ""
 
-#: main.cpp:202
+#: main.cpp:209
 #, kde-format
 msgid "Martin Flöser"
 msgstr ""
 
-#: main.cpp:203
+#: main.cpp:210
 #, kde-format
 msgid "David Edmundson"
 msgstr ""
 
-#: main.cpp:204
+#: main.cpp:211
 #, kde-format
 msgid "Roman Gilg"
 msgstr ""
 
-#: main.cpp:205
+#: main.cpp:212
 #, kde-format
 msgid "Vlad Zahorodnii"
 msgstr ""
 
-#: main.cpp:214
+#: main.cpp:221
 #, kde-format
 msgid "Disable configuration options"
 msgstr ""
 
-#: main.cpp:215
+#: main.cpp:222
 #, kde-format
 msgid "Indicate that KWin has recently crashed n times"
 msgstr ""

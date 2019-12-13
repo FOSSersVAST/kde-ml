@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_tasks trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-21 03:23+0200\n"
+"POT-Creation-Date: 2019-12-13 03:38+0100\n"
 "PO-Revision-Date: 2008-11-25 02:43-0800\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -96,129 +96,129 @@ msgstr ""
 msgid "Always arrange tasks in columns of as many rows"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:52
+#: package/contents/ui/ConfigBehavior.qml:51
 #, fuzzy, kde-format
 msgid "Group:"
 msgstr "ഒരുമിച്ചു് കാണിയ്ക്കല്‍:"
 
-#: package/contents/ui/ConfigBehavior.qml:54
+#: package/contents/ui/ConfigBehavior.qml:53
 #, fuzzy, kde-format
 msgid "Do not group"
 msgstr "ഒരുമിച്ചു് കാണിയ്ക്കരുതു്"
 
-#: package/contents/ui/ConfigBehavior.qml:54
+#: package/contents/ui/ConfigBehavior.qml:53
 #, fuzzy, kde-format
 msgid "By program name"
 msgstr "പ്രയോഗത്തിന്റെ പേരനുസരിച്ചു്"
 
-#: package/contents/ui/ConfigBehavior.qml:60
+#: package/contents/ui/ConfigBehavior.qml:59
 #, kde-format
 msgid "Open groups in popups"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:74
+#: package/contents/ui/ConfigBehavior.qml:73
 #, fuzzy, kde-format
 msgid "Group only when the Task Manager is full"
 msgstr "ജോലികള്‍ കാണിയ്ക്കുന്ന പട്ട നിറയുമ്പോള്‍ മാത്രം"
 
-#: package/contents/ui/ConfigBehavior.qml:88
+#: package/contents/ui/ConfigBehavior.qml:87
 #, fuzzy, kde-format
 msgid "Sort:"
 msgstr "തരംതിരിയ്ക്കല്‍:"
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, kde-format
 msgid "Do not sort"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, kde-format
 msgid "Manually"
 msgstr "യാന്ത്രികമായി"
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, kde-format
 msgid "Alphabetically"
 msgstr "അകാരാദിക്രമത്തില്‍"
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, fuzzy, kde-format
 msgid "By desktop"
 msgstr "പണിയിടം അനുസരിച്ച്"
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, kde-format
 msgid "By activity"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:96
+#: package/contents/ui/ConfigBehavior.qml:95
 #, kde-format
 msgid "Keep launchers separate"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:108
+#: package/contents/ui/ConfigBehavior.qml:107
 #, kde-format
 msgid "On middle-click:"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:111
+#: package/contents/ui/ConfigBehavior.qml:110
 #, kde-format
 msgctxt "The click action"
 msgid "None"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:112
+#: package/contents/ui/ConfigBehavior.qml:111
 #, kde-format
 msgid "Close window or group"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:113
+#: package/contents/ui/ConfigBehavior.qml:112
 #, kde-format
 msgid "New instance"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:114
+#: package/contents/ui/ConfigBehavior.qml:113
 #, kde-format
 msgid "Minimize/Restore window or group"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:115
+#: package/contents/ui/ConfigBehavior.qml:114
 #, fuzzy, kde-format
 msgctxt "When clicking it would toggle grouping windows of a specific app"
 msgid "Group/Ungroup"
 msgstr "ഒരുമിച്ചു് കാണിയ്ക്കല്‍:"
 
-#: package/contents/ui/ConfigBehavior.qml:116
+#: package/contents/ui/ConfigBehavior.qml:115
 #, fuzzy, kde-format
 msgid "Bring to the current virtual desktop"
 msgstr "ഇപ്പോഴത്തെ പണിയിടത്തിലെ ജോലികള്‍ മാത്രം കാണിയ്ക്കുക"
 
-#: package/contents/ui/ConfigBehavior.qml:122
+#: package/contents/ui/ConfigBehavior.qml:121
 #, kde-format
 msgid "Cycle through tasks with mouse wheel"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:131
+#: package/contents/ui/ConfigBehavior.qml:130
 #, fuzzy, kde-format
 msgid "Filter:"
 msgstr "ഫില്‍ടറുകള്‍"
 
-#: package/contents/ui/ConfigBehavior.qml:132
+#: package/contents/ui/ConfigBehavior.qml:131
 #, fuzzy, kde-format
 msgid "Show only tasks from the current screen"
 msgstr "ഇപ്പോഴത്തെ സ്ക്രീനിലെ ജോലികള്‍ മാത്രം കാണിയ്ക്കുക"
 
-#: package/contents/ui/ConfigBehavior.qml:137
+#: package/contents/ui/ConfigBehavior.qml:136
 #, fuzzy, kde-format
 msgid "Show only tasks from the current desktop"
 msgstr "ഇപ്പോഴത്തെ പണിയിടത്തിലെ ജോലികള്‍ മാത്രം കാണിയ്ക്കുക"
 
-#: package/contents/ui/ConfigBehavior.qml:142
+#: package/contents/ui/ConfigBehavior.qml:141
 #, fuzzy, kde-format
 msgid "Show only tasks from the current activity"
 msgstr "ഇപ്പോഴത്തെ സ്ക്രീനിലെ ജോലികള്‍ മാത്രം കാണിയ്ക്കുക"
 
-#: package/contents/ui/ConfigBehavior.qml:148
+#: package/contents/ui/ConfigBehavior.qml:146
 #, fuzzy, kde-format
 msgid "Show only tasks that are minimized"
 msgstr "ഇപ്പോള്‍ മിനിമൈസ് ചെയ്തിരിക്കുന്ന ജോലികള്‍ മാത്രം കാണിയ്ക്കുക"
