@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -266,7 +266,8 @@ msgstr ""
 msgid "&Undo Shot"
 msgstr ""
 
-#. i18n("&Replay Shot"), 0, this, SLOT(emptySlot()), actionCollection(), "replay");
+#. i18n("&Replay Shot"), 0, this, SLOT(emptySlot()), actionCollection(),
+#. "replay");
 #. Go
 #: kolf.cpp:135
 #, kde-format

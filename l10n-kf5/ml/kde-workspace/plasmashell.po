@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-11-25 03:32+0100\n"
 "PO-Revision-Date: 2019-12-12 22:32+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -62,8 +61,8 @@ msgstr ""
 #: main.cpp:112
 #, kde-format
 msgid ""
-"Load plasmashell as a standalone application, needs the shell-plugin option "
-"to be specified"
+"Load plasmashell as a standalone application, needs the shell-plugin option to"
+" be specified"
 msgstr ""
 
 #: main.cpp:115
@@ -91,8 +90,7 @@ msgstr ""
 #: main.cpp:198
 #, kde-format
 msgid ""
-"Plasma is unable to start as it could not correctly use OpenGL 2 or software "
-"fallback\n"
+"Plasma is unable to start as it could not correctly use OpenGL 2 or software fallback\n"
 "Please check that your graphic drivers are set up correctly."
 msgstr ""
 
@@ -173,8 +171,8 @@ msgstr ""
 #: osd.cpp:151
 #, kde-format
 msgctxt ""
-"on screen keyboard was disabled because physical keyboard was plugged in, "
-"keep short"
+"on screen keyboard was disabled because physical keyboard was plugged in, keep"
+" short"
 msgid "On-Screen Keyboard Deactivated"
 msgstr ""
 

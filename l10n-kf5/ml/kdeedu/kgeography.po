@@ -22,7 +22,9 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
+"മനു എസ് മാധവ്, ഹരി വിഷ്ണു, പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍, അഭിഷേക് ഉമ്മന്‍ "
+"ജേക്കബ്"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -22643,8 +22645,7 @@ msgstr "ഭൂപടം &പരിചയപ്പെടുക"
 #: kgeography.cpp:59
 #, kde-format
 msgid ""
-"In this section left click on any part of the map to learn about the "
-"divisions"
+"In this section left click on any part of the map to learn about the divisions"
 msgstr ""
 
 #: kgeography.cpp:60
@@ -22660,8 +22661,8 @@ msgstr "പ്രദേശങ്ങളുടെ &സ്ഥാനം"
 #: kgeography.cpp:63
 #, kde-format
 msgid ""
-"In this challenge you are given a division name on the left under the menu "
-"and you must find it on the map and click on it"
+"In this challenge you are given a division name on the left under the menu and"
+" you must find it on the map and click on it"
 msgstr ""
 
 #: kgeography.cpp:64
@@ -22672,9 +22673,11 @@ msgstr "പ്രദേശങ്ങള്‍ ഭൂപടത്തില്‍ &
 #: kgeography.cpp:65
 #, kde-format
 msgid ""
-"In this challenge you are given the shape of a region and you must place it "
-"on the map"
-msgstr "ഈ വെല്ലുവിളിയില്‍ നിങ്ങള്‍ക്ക് ഒരു പ്രദേശത്തിന്റെ രൂപം തരും, അത് ഭൂപടത്തില്‍ വയ്ക്കുക"
+"In this challenge you are given the shape of a region and you must place it on"
+" the map"
+msgstr ""
+"ഈ വെല്ലുവിളിയില്‍ നിങ്ങള്‍ക്ക് ഒരു പ്രദേശത്തിന്റെ രൂപം തരും, അത് ഭൂപടത്തില്‍ "
+"വയ്ക്കുക"
 
 #: kgeography.cpp:66
 #, kde-format
@@ -22759,7 +22762,9 @@ msgstr "ജനീവ"
 #: kgeography.cpp:203
 #, kde-format
 msgid "Could not open last used map. Error parsing %1: %2"
-msgstr "അവസാനമുപയോഗിച്ച മാപ്പപ തുറക്കാന്‍ കഴിഞ്ഞില്ല. %1 പാഴ്സ് ചെയ്യുന്നതില്‍ പിശക്: %2"
+msgstr ""
+"അവസാനമുപയോഗിച്ച മാപ്പപ തുറക്കാന്‍ കഴിഞ്ഞില്ല. %1 പാഴ്സ് ചെയ്യുന്നതില്‍ പിശക്: "
+"%2"
 
 #: kgeography.cpp:211
 #, kde-format
@@ -22779,7 +22784,9 @@ msgstr "നിങ്ങള്‍ക്ക് എത്ര ചോദ്യങ്�
 #: kgeography.cpp:422
 #, kde-format
 msgid "&Location of %1"
-msgstr "%1 സ്ഥാനം തൊട്ടുകാണിയ്ക്കുക|/|$[get-case possesion %1] സ്ഥാനം &തൊട്ടുകാണിയ്ക്കുക"
+msgstr ""
+"%1 സ്ഥാനം തൊട്ടുകാണിയ്ക്കുക|/|$[get-case possesion %1] സ്ഥാനം "
+"&തൊട്ടുകാണിയ്ക്കുക"
 
 #: kgeography.cpp:423
 #, kde-format
@@ -22807,8 +22814,9 @@ msgid ""
 "Maps, flags, translations, etc. are as accurate as their respective authors "
 "could achieve, but KGeography should not be taken as an authoritative source."
 msgstr ""
-"മാപ്പുകളുടെയും പതാകകളുടെയും പരിഭാഷകളുടെയും കൃത്യത അതാത് രചയിതാക്കള്‍ക്ക് കഴിയുന്നത്രയാണ്, എന്നാല്‍ "
-"കെ-ജ്യോഗ്രഫി ഒരു ആധികാരിക ശ്രോതസ്സായിട്ടെടുക്കാന്‍ പാടില്ല."
+"മാപ്പുകളുടെയും പതാകകളുടെയും പരിഭാഷകളുടെയും കൃത്യത അതാത് രചയിതാക്കള്‍ക്ക് "
+"കഴിയുന്നത്രയാണ്, എന്നാല്‍ കെ-ജ്യോഗ്രഫി ഒരു ആധികാരിക ശ്രോതസ്സായിട്ടെടുക്കാന്‍ "
+"പാടില്ല."
 
 #: kgeography.cpp:460
 #, kde-format
@@ -22915,8 +22923,7 @@ msgstr ""
 #: kgeographyoptions.ui:89
 #, kde-format
 msgid ""
-"Whether the user will have to click \"Accept\" after choosing an answer or "
-"not"
+"Whether the user will have to click \"Accept\" after choosing an answer or not"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_waitsForValidation)
@@ -22956,7 +22963,8 @@ msgstr ""
 msgid "Always the same"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QRadioButton, scrambleColorDisguiseRadio)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. scrambleColorDisguiseRadio)
 #: kgeographyoptions.ui:128
 #, kde-format
 msgid "Use random colors"
@@ -24287,8 +24295,8 @@ msgid ""
 "There is already either a division called %1 or a division with the same "
 "colors as %2"
 msgstr ""
-"%1 എന്ന പേരുള്ള ഒരു വിഭാഗം നേരത്തെ തന്നെ ഉണ്ടു് അല്ലെങ്കില്‍ %2 നിറം തന്നെയുള്ള വേറൊരു "
-"വിഭാഗമുണ്ടു്"
+"%1 എന്ന പേരുള്ള ഒരു വിഭാഗം നേരത്തെ തന്നെ ഉണ്ടു് അല്ലെങ്കില്‍ %2 നിറം "
+"തന്നെയുള്ള വേറൊരു വിഭാഗമുണ്ടു്"
 
 #: mapparser.cpp:166
 #, kde-format

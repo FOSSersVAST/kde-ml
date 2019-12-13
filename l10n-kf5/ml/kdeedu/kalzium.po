@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-12-04 02:48+0100\n"
 "PO-Revision-Date: 2019-12-12 21:36+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "pR@tz/Pratheesh Prakash/പ്രതീഷ് പ്രകാശ്"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -124,17 +123,17 @@ msgstr "ക്രിസ്റ്റലീകരണം"
 #: data/knowledge.xml:20
 #, kde-format
 msgid ""
-"Separation of a liquid solution (homogeneous mix) into its components "
-"through evaporation and condensation. In a fractionary distillation the "
-"process is repeated several times in a column."
+"Separation of a liquid solution (homogeneous mix) into its components through "
+"evaporation and condensation. In a fractionary distillation the process is "
+"repeated several times in a column."
 msgstr ""
 
 #: data/knowledge.xml:24
 #, kde-format
 msgid ""
 "Matter that cannot be broken down into simpler matter. Chemical elements are "
-"cornerstones of Materials. Elements consist of atoms that consist of a "
-"nucleus of positive protons, neutral neutrons, and a shell of electrons."
+"cornerstones of Materials. Elements consist of atoms that consist of a nucleus"
+" of positive protons, neutral neutrons, and a shell of electrons."
 msgstr ""
 
 #: data/knowledge.xml:27
@@ -213,8 +212,8 @@ msgstr ""
 #: data/knowledge.xml:55
 #, kde-format
 msgid ""
-"An alloy always contains the same elements in the same mass ratio. Should "
-"two or more elements bind together then the mass ratio is constant."
+"An alloy always contains the same elements in the same mass ratio. Should two "
+"or more elements bind together then the mass ratio is constant."
 msgstr ""
 
 #: data/knowledge.xml:58
@@ -275,8 +274,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "Through chemical composition and physical attributes, homogeneous portion of "
-"matter that separated from its environment in its expansion through a "
-"surface."
+"matter that separated from its environment in its expansion through a surface."
 msgstr ""
 
 #: data/knowledge.xml:78
@@ -358,8 +356,8 @@ msgstr "ആല്‍ഫാ രശ്മികള്‍"
 #: data/knowledge.xml:107
 #, kde-format
 msgid ""
-"Rays consisting of alpha particles, consisting of two protons and two "
-"neutrons that are emitted from the Atoms of certain radioactive elements."
+"Rays consisting of alpha particles, consisting of two protons and two neutrons"
+" that are emitted from the Atoms of certain radioactive elements."
 msgstr ""
 
 #: data/knowledge.xml:110 data/knowledge.xml:123 data/knowledge.xml:130
@@ -400,8 +398,8 @@ msgstr "ആറ്റോമിക കേന്ദ്രം"
 #: data/knowledge.xml:121
 #, kde-format
 msgid ""
-"The small, positively-charged center of an Atom, in which Protons and "
-"Neutrons are found."
+"The small, positively-charged center of an Atom, in which Protons and Neutrons"
+" are found."
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
@@ -417,8 +415,8 @@ msgstr "ആറ്റോമിക ന്യൂക്ലിയസ്സ്"
 #, kde-format
 msgid ""
 "Mass of an atom, taken on a scale where the mass of a carbon atom is 12u. In "
-"elements that consist of different isotopes the mid-range mass of the "
-"isotope mix is given."
+"elements that consist of different isotopes the mid-range mass of the isotope "
+"mix is given."
 msgstr ""
 
 #: data/knowledge.xml:135 data/knowledge.xml:145 data/knowledge.xml:152
@@ -433,8 +431,8 @@ msgstr "ഐസോടോപ്പ്"
 msgid ""
 "Isotopes are forms of a chemical element whose nuclei have the same atomic "
 "number, Z, but different atomic masses, A. The word isotope, meaning at the "
-"same place, comes from the fact that all isotopes of an element are located "
-"at the same place on the periodic table."
+"same place, comes from the fact that all isotopes of an element are located at"
+" the same place on the periodic table."
 msgstr ""
 
 #: data/knowledge.xml:142
@@ -446,8 +444,8 @@ msgstr "പൈ"
 #, kde-format
 msgid ""
 "The spin is an intrinsic angular momentum associated with microscopic "
-"particles. It is a purely quantum mechanical phenomenon without any analogy "
-"in classical mechanics. Whereas classical angular momentum arises from the "
+"particles. It is a purely quantum mechanical phenomenon without any analogy in"
+" classical mechanics. Whereas classical angular momentum arises from the "
 "rotation of an extended object, spin is not associated with any rotating "
 "internal masses, but is intrinsic to the particle itself."
 msgstr ""
@@ -460,8 +458,8 @@ msgstr ""
 #: data/knowledge.xml:150
 #, kde-format
 msgid ""
-"The magnetic moment of an object is a vector relating the aligning torque in "
-"a magnetic field experienced by the object to the field vector itself. It is "
+"The magnetic moment of an object is a vector relating the aligning torque in a"
+" magnetic field experienced by the object to the field vector itself. It is "
 "measured in units of the nuclear magneton µ[sub]n[/sub]=(5.0507866 ± "
 "0.0000017) 10[sup]-27[/sup] JT[sup]-1[/sup]"
 msgstr ""
@@ -477,9 +475,9 @@ msgid ""
 "The decay mode describes a particular way a particle decays. For radioactive "
 "decay (the decay of nuclides) the decay modes are:[br] -> alpha decay "
 "(emission of a Helium-4 nucleus).[br] -> ß[sup]-[/sup] decay (emission of an "
-"electron)[br] -> ß[sup]+[/sup] decay (emission of a positron) [br] -> "
-"electron capture (EC) [br] -> proton emission [br] -> spontaneous fission "
-"[br] Typically one decay mode predominates for a particular nuclide."
+"electron)[br] -> ß[sup]+[/sup] decay (emission of a positron) [br] -> electron"
+" capture (EC) [br] -> proton emission [br] -> spontaneous fission [br] "
+"Typically one decay mode predominates for a particular nuclide."
 msgstr ""
 
 #: data/knowledge.xml:163
@@ -536,18 +534,18 @@ msgstr ""
 #, kde-format
 msgid ""
 "A nuclear isomer is a metastable or isomeric state of an atom caused by the "
-"excitation of a proton or neutron in its nucleus so that it requires a "
-"change in spin before it can release its extra energy. They decay to lower "
-"energy states of the nuclide through two isomeric transitions:[br] -> γ- "
-"emission (emission of a high-energy photon)[br] -> internal conversion (the "
-"energy is used to ionize the atom)[br] Contrast this with the definition of "
-"a chemical isomer, the more common use of the word. Also contrast with the "
-"meaning of isotope, in which the difference is the number of neutrons in the "
-"nucleus. Metastable isomers of a particular atom are usually designated with "
-"an \"m\" (or, in the case of atoms with more than one isomer, 2m, 3m, and so "
-"on). This designation is usually placed after the atomic symbol and number "
-"of the atom (e.g., Co-58m), but is sometimes placed as a superscript before "
-"(e.g., [sup]m[/sup]Co-58 or [sup]58m[/sup]Co)."
+"excitation of a proton or neutron in its nucleus so that it requires a change "
+"in spin before it can release its extra energy. They decay to lower energy "
+"states of the nuclide through two isomeric transitions:[br] -> γ- emission "
+"(emission of a high-energy photon)[br] -> internal conversion (the energy is "
+"used to ionize the atom)[br] Contrast this with the definition of a chemical "
+"isomer, the more common use of the word. Also contrast with the meaning of "
+"isotope, in which the difference is the number of neutrons in the nucleus. "
+"Metastable isomers of a particular atom are usually designated with an \"m\" "
+"(or, in the case of atoms with more than one isomer, 2m, 3m, and so on). This "
+"designation is usually placed after the atomic symbol and number of the atom "
+"(e.g., Co-58m), but is sometimes placed as a superscript before (e.g., "
+"[sup]m[/sup]Co-58 or [sup]58m[/sup]Co)."
 msgstr ""
 
 #: data/knowledge.xml:207
@@ -565,9 +563,7 @@ msgstr "റേഡിയോ-ആക്ടീവ് മൂലകങ്ങളുട�
 #: data/knowledge.xml:213
 #, kde-format
 msgid ""
-"The electron is a subatomic particle with a mass of m[sub]e[/sub]=(9.1093897 "
-"± 0.0000054)e-31 kg and a negative charge of [i]e[/i]=(1.60217733 ± "
-"0.00000049)e-19 C\n"
+"The electron is a subatomic particle with a mass of m[sub]e[/sub]=(9.1093897 ± 0.0000054)e-31 kg and a negative charge of [i]e[/i]=(1.60217733 ± 0.00000049)e-19 C\n"
 "\t\t"
 msgstr ""
 
@@ -575,15 +571,15 @@ msgstr ""
 #, kde-format
 msgid ""
 "The proton is a subatomic particle with a mass of m[sub]e[/sub]=(1.6726231 ± "
-"0.0000010) 10[sup]-27[/sup] kg and a positive charge of [i]e[/i]=(1.60217733 "
-"± 0.00000049) 10[sup]-19[/sup] C which occurs in the nucleus of an atom."
+"0.0000010) 10[sup]-27[/sup] kg and a positive charge of [i]e[/i]=(1.60217733 ±"
+" 0.00000049) 10[sup]-19[/sup] C which occurs in the nucleus of an atom."
 msgstr ""
 
 #: data/knowledge.xml:229
 #, kde-format
 msgid ""
-"The neutron is a subatomic particle with a mass of m[sub]e[/sub]=(1.6749286 "
-"± 0.0000010) 10[sup]-27[/sup] kg which occurs in the nucleus of an atom."
+"The neutron is a subatomic particle with a mass of m[sub]e[/sub]=(1.6749286 ± "
+"0.0000010) 10[sup]-27[/sup] kg which occurs in the nucleus of an atom."
 msgstr ""
 
 #: data/knowledge.xml:237
@@ -594,10 +590,10 @@ msgstr "കാഥോഡ് രശ്മികള്‍"
 #: data/knowledge.xml:238
 #, kde-format
 msgid ""
-"Cathode rays are streams of electrons observed in vacuum tubes, i.e. "
-"evacuated glass tubes that are equipped with at least two electrodes, a "
-"cathode (negative electrode) and an anode (positive electrode) in a "
-"configuration known as a diode."
+"Cathode rays are streams of electrons observed in vacuum tubes, i.e. evacuated"
+" glass tubes that are equipped with at least two electrodes, a cathode "
+"(negative electrode) and an anode (positive electrode) in a configuration "
+"known as a diode."
 msgstr ""
 
 #: data/knowledge.xml:244 data/knowledge.xml:258 data/knowledge.xml:267
@@ -609,14 +605,15 @@ msgstr "അയോണിക് ആരം"
 #: data/knowledge.xml:245
 #, kde-format
 msgid ""
-"The Ionic Radius is the radius of a charged atom, known as an ion. The ion "
-"can have a positive or a negative charge. The charge of the ion with the "
-"radius shown is also displayed in Kalzium. A positive ion has fewer "
-"electrons in its shell than the atom, a negative ion has more electrons. "
-"Therefore, a positive ion has a smaller radius than its atom and vice versa."
+"The Ionic Radius is the radius of a charged atom, known as an ion. The ion can"
+" have a positive or a negative charge. The charge of the ion with the radius "
+"shown is also displayed in Kalzium. A positive ion has fewer electrons in its "
+"shell than the atom, a negative ion has more electrons. Therefore, a positive "
+"ion has a smaller radius than its atom and vice versa."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicCovalentRadiusGradient)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_LogarithmicCovalentRadiusGradient)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
 #: data/knowledge.xml:247 data/knowledge.xml:256 data/knowledge.xml:265
@@ -637,7 +634,8 @@ msgstr "കോവലന്റ് ആരം"
 msgid "Atomic Radius"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicVanDerWaalsRadiusGradient)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_LogarithmicVanDerWaalsRadiusGradient)
 #: data/knowledge.xml:249 data/knowledge.xml:253 data/knowledge.xml:266
 #: data/knowledge.xml:276 src/exportdialog.cpp:157 src/settings_gradients.ui:67
 #, kde-format
@@ -647,10 +645,10 @@ msgstr "വാന്‍ഡര്‍ വാല്‍ ആരം"
 #: data/knowledge.xml:254
 #, kde-format
 msgid ""
-"The van der Waals radius of an atom is the radius of an imaginary hard "
-"sphere which can be used to model the atom for many purposes. Van der Waals "
-"radii are determined from measurements of atomic spacing between pairs of "
-"unbonded atoms in crystals."
+"The van der Waals radius of an atom is the radius of an imaginary hard sphere "
+"which can be used to model the atom for many purposes. Van der Waals radii are"
+" determined from measurements of atomic spacing between pairs of unbonded "
+"atoms in crystals."
 msgstr ""
 
 #: data/knowledge.xml:263
@@ -675,8 +673,8 @@ msgstr ""
 #: data/tools.xml:6
 #, kde-format
 msgid ""
-"Watchglasses are round glass panes with a diameter of around 5 - 10cm, used "
-"in various experimental techniques. The border is bent upwards to allow the "
+"Watchglasses are round glass panes with a diameter of around 5 - 10cm, used in"
+" various experimental techniques. The border is bent upwards to allow the "
 "watchglass to hold small amounts of liquids in order to let them evaporate. "
 "The evaporation can be accelerated by heating the watchglass with a Bunsen "
 "burner. Watchglasses can also be used to cover Petri dishes or beakers, and "
@@ -693,17 +691,9 @@ msgstr ""
 #: data/tools.xml:13
 #, kde-format
 msgid ""
-"A dehydrator is a piece of laboratory apparatus, often made of glass, and "
-"which serves to dry chemical matters; that is, to remove water or liquid "
-"from a sample.\n"
-"\t\t\tIn principle it is a glass bowl with cap that has a planar grinding, "
-"so that the bowl is air-tight. The dehydrator's lower part is ordinarily "
-"filled with a drying agent such as calcium chloride, silica gel, phosphoric "
-"anhydride or sulphuric acid. The sample to be dried is placed on a "
-"diaphanous cartridge of plastic or ceramic above the drying agent.\n"
-"\t\t\tThe drying agent is hygroscopic, which means that it dehumidifies its "
-"environment by absorbing water vapor. The dry atmosphere then takes up water "
-"from the sample to be dried."
+"A dehydrator is a piece of laboratory apparatus, often made of glass, and which serves to dry chemical matters; that is, to remove water or liquid from a sample.\n"
+"\t\t\tIn principle it is a glass bowl with cap that has a planar grinding, so that the bowl is air-tight. The dehydrator's lower part is ordinarily filled with a drying agent such as calcium chloride, silica gel, phosphoric anhydride or sulphuric acid. The sample to be dried is placed on a diaphanous cartridge of plastic or ceramic above the drying agent.\n"
+"\t\t\tThe drying agent is hygroscopic, which means that it dehumidifies its environment by absorbing water vapor. The dry atmosphere then takes up water from the sample to be dried."
 msgstr ""
 
 #: data/tools.xml:17
@@ -732,8 +722,8 @@ msgid ""
 "shoots under full pressure out of a nozzle into a slightly larger pipe. The "
 "water jet thereby carries away air or fluid from the second entry. <br> This "
 "is caused by the negative pressure in a drifting fluid, and thus it is an "
-"application of the hydrodynamic paradox (objects close to drifting fluids "
-"are aspirated instead of being pushed away)."
+"application of the hydrodynamic paradox (objects close to drifting fluids are "
+"aspirated instead of being pushed away)."
 msgstr ""
 
 #: data/tools.xml:27
@@ -773,8 +763,8 @@ msgid ""
 "Heating coils are used to heat flasks and other containers. Multiple heating "
 "coils can be connected with a thermometer so that the heat will not exceed a "
 "specified temperature. It is possible to use a magnetic field inside the "
-"heating coil to stir fluids with a magnetic stirrer. This will homogenize "
-"the fluid in terms of temperature and composition."
+"heating coil to stir fluids with a magnetic stirrer. This will homogenize the "
+"fluid in terms of temperature and composition."
 msgstr ""
 
 #: data/tools.xml:42
@@ -785,9 +775,9 @@ msgstr "റിങ്ങ്"
 #: data/tools.xml:43
 #, kde-format
 msgid ""
-"Large containers like round-bottomed flasks are placed on rings made of "
-"cork, a special soft lightweight wood with good insulating qualities to "
-"protect fragile instruments."
+"Large containers like round-bottomed flasks are placed on rings made of cork, "
+"a special soft lightweight wood with good insulating qualities to protect "
+"fragile instruments."
 msgstr ""
 
 #: data/tools.xml:47
@@ -823,8 +813,8 @@ msgstr "ടെസ്റ്റ് ട്യൂബ്"
 #: data/tools.xml:58
 #, kde-format
 msgid ""
-"This rack is useful when many small amounts of chemicals are to be tested in "
-"a row; or alternatively, to dry test tubes."
+"This rack is useful when many small amounts of chemicals are to be tested in a"
+" row; or alternatively, to dry test tubes."
 msgstr ""
 
 #: data/tools.xml:62
@@ -835,12 +825,11 @@ msgstr ""
 #: data/tools.xml:63
 #, kde-format
 msgid ""
-"A vortexer serves to homogenize reagents found in laboratories. The "
-"container containing liquid to be homogenized is put on a platform. The "
-"platform shakes by rotary agitation up to 3000RPM at which point a contact "
-"sensor is activated. In this way extremely small volumes of fluid can be "
-"homogenized quickly. It is the opposite of a centrifuge, used to separate "
-"fluids."
+"A vortexer serves to homogenize reagents found in laboratories. The container "
+"containing liquid to be homogenized is put on a platform. The platform shakes "
+"by rotary agitation up to 3000RPM at which point a contact sensor is "
+"activated. In this way extremely small volumes of fluid can be homogenized "
+"quickly. It is the opposite of a centrifuge, used to separate fluids."
 msgstr ""
 
 #: data/tools.xml:67
@@ -852,8 +841,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "These bottles are used for many purposes. In most laboratories they are "
-"usually filled with water, salt, acid or other commonly used fluids. They "
-"make it easy to apply the fluid if a precisely measured amount is not needed."
+"usually filled with water, salt, acid or other commonly used fluids. They make"
+" it easy to apply the fluid if a precisely measured amount is not needed."
 msgstr ""
 
 #: data/tools.xml:72
@@ -865,11 +854,11 @@ msgstr ""
 #, kde-format
 msgid ""
 "A rotary evaporator consists of a round flask in a bath of hot water, and is "
-"designed to evaporate solvents. The flask is rotated and the solvent "
-"collects under a vacuum onto a condenser and drips into a condensate "
-"collecting flask. In this way solutions can be concentrated or purified. By "
-"attaching a vacuum pump, the air pressure and therefore the boiling point of "
-"the fluid can be decreased."
+"designed to evaporate solvents. The flask is rotated and the solvent collects "
+"under a vacuum onto a condenser and drips into a condensate collecting flask. "
+"In this way solutions can be concentrated or purified. By attaching a vacuum "
+"pump, the air pressure and therefore the boiling point of the fluid can be "
+"decreased."
 msgstr ""
 
 #: data/tools.xml:77
@@ -880,10 +869,10 @@ msgstr ""
 #: data/tools.xml:78
 #, kde-format
 msgid ""
-"A reflux condenser subjects fluid to a process where a gas produced by "
-"heating is collected on the reflux condenser. The fluid is cooled until it "
-"condenses and runs back into the original fluid. Usually it is put on a "
-"round-bottomed flask or several neck flasks."
+"A reflux condenser subjects fluid to a process where a gas produced by heating"
+" is collected on the reflux condenser. The fluid is cooled until it condenses "
+"and runs back into the original fluid. Usually it is put on a round-bottomed "
+"flask or several neck flasks."
 msgstr ""
 
 #: data/tools.xml:82
@@ -920,10 +909,10 @@ msgstr "സംരക്ഷണക്കണ്ണടകള്‍"
 #: data/tools.xml:93
 #, kde-format
 msgid ""
-"Most laboratories insist that protective goggles are worn. Without them, it "
-"is too risky to work with most chemicals. Usually, the lens is a special "
-"type of plastic that affords protection from both mechanical impacts, and "
-"acid and base chemicals."
+"Most laboratories insist that protective goggles are worn. Without them, it is"
+" too risky to work with most chemicals. Usually, the lens is a special type of"
+" plastic that affords protection from both mechanical impacts, and acid and "
+"base chemicals."
 msgstr ""
 
 #: data/tools.xml:97
@@ -960,8 +949,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "Some reactions need to be kept free of water: to make this possible a drying "
-"tube can be used. Drying tubes contains a hygroscopic chemical to absorb "
-"water from the atmosphere."
+"tube can be used. Drying tubes contains a hygroscopic chemical to absorb water"
+" from the atmosphere."
 msgstr ""
 
 #: data/tools.xml:112
@@ -972,10 +961,9 @@ msgstr "ടെസ്റ്റ് ട്യൂബ്"
 #: data/tools.xml:113
 #, kde-format
 msgid ""
-"Test tube holders make it easier to hold test tubes. By using a holder, "
-"there is a safe distance between ones hand and the test tube when the tube "
-"is hot. Typically, test tube holders are used to hold test tubes over open "
-"flames."
+"Test tube holders make it easier to hold test tubes. By using a holder, there "
+"is a safe distance between ones hand and the test tube when the tube is hot. "
+"Typically, test tube holders are used to hold test tubes over open flames."
 msgstr ""
 
 #: data/tools.xml:117
@@ -988,8 +976,7 @@ msgstr ""
 msgid ""
 "A measuring cylinder can be used to measure amounts of liquids relatively "
 "precisely. Furthermore, the cylinder allows particulate matter to sink: "
-"following this, the particulates can be separated from the fluid by "
-"decanting."
+"following this, the particulates can be separated from the fluid by decanting."
 msgstr ""
 
 #: data/tools.xml:122
@@ -1001,8 +988,8 @@ msgstr "താപമാപിനി"
 #, kde-format
 msgid ""
 "A thermometer can be used to determine the temperature of a sample. In a "
-"laboratory, special thermometers are used which can also be used within "
-"acids or bases."
+"laboratory, special thermometers are used which can also be used within acids "
+"or bases."
 msgstr ""
 
 #: data/tools.xml:127
@@ -1026,9 +1013,9 @@ msgstr ""
 #: data/tools.xml:133
 #, kde-format
 msgid ""
-"A magnetic stir bar retriever can be used to retrieve magnetic stir bars "
-"from containers. The retriever is a bar with a magnet at the end which "
-"attracts the stir bars."
+"A magnetic stir bar retriever can be used to retrieve magnetic stir bars from "
+"containers. The retriever is a bar with a magnet at the end which attracts the"
+" stir bars."
 msgstr ""
 
 #: data/tools.xml:137
@@ -1039,11 +1026,11 @@ msgstr "പിപ്പറ്റ്"
 #: data/tools.xml:138
 #, kde-format
 msgid ""
-"Pipettes are used to introduce small quantities of liquids in laboratories. "
-"A pipette has a volume scale and, as a rule, pipette bulbs are used as "
-"droppers for liquids. Both sorts of pipettes are calibrated for fluids with "
-"a temperature of 20°C and for time of outflow (signified by \"Ex.\"). If "
-"needed, times of outflow are indicated on the pipettes."
+"Pipettes are used to introduce small quantities of liquids in laboratories. A "
+"pipette has a volume scale and, as a rule, pipette bulbs are used as droppers "
+"for liquids. Both sorts of pipettes are calibrated for fluids with a "
+"temperature of 20°C and for time of outflow (signified by \"Ex.\"). If needed,"
+" times of outflow are indicated on the pipettes."
 msgstr ""
 
 #: data/tools.xml:142
@@ -1054,21 +1041,11 @@ msgstr "ഏളെന്‍മെയര്‍ ഫ്ലാസ്ക്"
 #: data/tools.xml:148
 #, kde-format
 msgid ""
-"An Erlenmeyer flask, named after the chemist Emil Erlenmeyer (1825-1909), is "
-"different to a beaker in that it comes with an inverted conical base and a "
-"cylindrical neck. There are different types of Erlenmeyer flasks for "
-"laboratory applications: the narrow neck and wide neck forms. Depending on "
-"the application the flask may have precision grinding to allow good "
-"connection to other containers.\n"
+"An Erlenmeyer flask, named after the chemist Emil Erlenmeyer (1825-1909), is different to a beaker in that it comes with an inverted conical base and a cylindrical neck. There are different types of Erlenmeyer flasks for laboratory applications: the narrow neck and wide neck forms. Depending on the application the flask may have precision grinding to allow good connection to other containers.\n"
 "\t\t\t<br>\n"
-"\t\t\tThe narrow neck reduces the risk of fluid escaping, especially when "
-"boiling or during reactions which agitate the contents.\n"
+"\t\t\tThe narrow neck reduces the risk of fluid escaping, especially when boiling or during reactions which agitate the contents.\n"
 "\t\t\t<br>\n"
-"\t\t\tAn Erlenmeyer flask is useful for mixing fluids or accelerating "
-"reactions by stirring or shaking, for example. The Erlenmeyer flask is "
-"particularly suited for a magnetic stirrer, since it can be placed directly "
-"on the stirring platform. A round-bottomed flask, by contrast, must be "
-"placed on a cork ring on the stirring platform.\n"
+"\t\t\tAn Erlenmeyer flask is useful for mixing fluids or accelerating reactions by stirring or shaking, for example. The Erlenmeyer flask is particularly suited for a magnetic stirrer, since it can be placed directly on the stirring platform. A round-bottomed flask, by contrast, must be placed on a cork ring on the stirring platform.\n"
 msgstr ""
 
 #: data/tools.xml:153
@@ -1080,9 +1057,9 @@ msgstr ""
 #, kde-format
 msgid ""
 "For some chemical reactions it is important that the solvent is gas free. To "
-"achieve this the reaction vessel is put for some time into a ultrasonic "
-"bath. Due to the high sound frequency, the vapor locks peel away and ascend. "
-"This procedure is called out-gassing."
+"achieve this the reaction vessel is put for some time into a ultrasonic bath. "
+"Due to the high sound frequency, the vapor locks peel away and ascend. This "
+"procedure is called out-gassing."
 msgstr ""
 
 #: data/tools.xml:158
@@ -1093,10 +1070,10 @@ msgstr "സ്കെയിലുകള്‍"
 #: data/tools.xml:159
 #, kde-format
 msgid ""
-"In a laboratory, very precise quantities of reagents often have to be "
-"weighed out. High precision scales can measure masses down to 1/10000 gram. "
-"As such, they stand on granite blocks to avoid vibrations and are protected "
-"against changes in airflow by a dome."
+"In a laboratory, very precise quantities of reagents often have to be weighed "
+"out. High precision scales can measure masses down to 1/10000 gram. As such, "
+"they stand on granite blocks to avoid vibrations and are protected against "
+"changes in airflow by a dome."
 msgstr ""
 
 #: data/tools.xml:163
@@ -1125,9 +1102,9 @@ msgstr "സിറിഞ്ച്"
 #, kde-format
 msgid ""
 "A syringe consists of two parts, a glass tube and a plunger, both normally "
-"made of glass. Gasses flow into the glass tube, and as the syringe is a "
-"closed system, the plunger moves outwards. This can be used to measure the "
-"volume of a reaction."
+"made of glass. Gasses flow into the glass tube, and as the syringe is a closed"
+" system, the plunger moves outwards. This can be used to measure the volume of"
+" a reaction."
 msgstr ""
 
 #: data/tools.xml:174
@@ -1166,8 +1143,8 @@ msgstr ""
 #: data/tools.xml:185
 #, kde-format
 msgid ""
-"Extractor hoods are used to filter out gases from chemical reactions. The "
-"air, once cleaned, is pumped outside of the building."
+"Extractor hoods are used to filter out gases from chemical reactions. The air,"
+" once cleaned, is pumped outside of the building."
 msgstr ""
 
 #: data/tools.xml:189
@@ -1179,12 +1156,11 @@ msgstr "സമ്പര്‍ക്ക താപമാപിനി"
 #, kde-format
 msgid ""
 "Contact thermometers differ from regular thermometers in that they are "
-"connected to a heating coil, and are hence able to both sense and control "
-"the current temperature. In doing so, they allow experiments to be performed "
-"under a constant temperature. Contact thermometers work using a negative "
-"feedback loop: once the desired temperature has been reached, the heating "
-"coil is deactivated; when the temperature falls, the heating coil is "
-"reactivated."
+"connected to a heating coil, and are hence able to both sense and control the "
+"current temperature. In doing so, they allow experiments to be performed under"
+" a constant temperature. Contact thermometers work using a negative feedback "
+"loop: once the desired temperature has been reached, the heating coil is "
+"deactivated; when the temperature falls, the heating coil is reactivated."
 msgstr ""
 
 #: data/tools.xml:194
@@ -1205,12 +1181,12 @@ msgstr ""
 #: data/tools.xml:200
 #, kde-format
 msgid ""
-"There are multiple ways of measuring the pH value of a solution, one of "
-"which is to use indicator paper. Indicator paper changes color depending on "
-"the pH of the solution applied to it, and by comparing to a chart a fairly "
-"accurate measure of the solution's pH can be obtained. If a more accurate "
-"measure is needed, a glass electrode can be used, which works by measuring "
-"the conductivity of the solution."
+"There are multiple ways of measuring the pH value of a solution, one of which "
+"is to use indicator paper. Indicator paper changes color depending on the pH "
+"of the solution applied to it, and by comparing to a chart a fairly accurate "
+"measure of the solution's pH can be obtained. If a more accurate measure is "
+"needed, a glass electrode can be used, which works by measuring the "
+"conductivity of the solution."
 msgstr ""
 
 #: data/tools.xml:204
@@ -1234,11 +1210,10 @@ msgstr "ബ്യൂററ്റ്"
 #, kde-format
 msgid ""
 "Burets are used to titrate liquids. A buret is filled with a specific volume "
-"of a liquid, and placed beneath it is a container such as an Erlenmeyer "
-"flask. By opening the valve on the buret, the liquid in the container will "
-"then be titrated. High-quality burets have a venting mechanism with which "
-"they can be very easily refilled with the exact volume for which the buret "
-"is calibrated."
+"of a liquid, and placed beneath it is a container such as an Erlenmeyer flask."
+" By opening the valve on the buret, the liquid in the container will then be "
+"titrated. High-quality burets have a venting mechanism with which they can be "
+"very easily refilled with the exact volume for which the buret is calibrated."
 msgstr ""
 
 #: data/tools.xml:214
@@ -1262,9 +1237,9 @@ msgstr "DSC (Differencial Scanning Calorimetry)"
 #: data/tools.xml:220
 #, kde-format
 msgid ""
-"A DSC measures the heat flow volume of a compound. This value is very "
-"specific for every kind of matter, and thus a DSC can be used to identify "
-"chemicals or to describe them."
+"A DSC measures the heat flow volume of a compound. This value is very specific"
+" for every kind of matter, and thus a DSC can be used to identify chemicals or"
+" to describe them."
 msgstr ""
 
 #: data/tools.xml:224
@@ -1276,9 +1251,9 @@ msgstr "ഡിവാര്‍ പാത്രം"
 #, kde-format
 msgid ""
 "A Dewar vessel (or Dewar flask), named after the physicist Sir James Dewar "
-"(1842-1923), is a double-walled vacuum flask, designed to provide good "
-"thermal insulation. As such, they are useful for keeping liquids cool or "
-"warm. One well-known example of a Dewar vessel is a Thermos flask."
+"(1842-1923), is a double-walled vacuum flask, designed to provide good thermal"
+" insulation. As such, they are useful for keeping liquids cool or warm. One "
+"well-known example of a Dewar vessel is a Thermos flask."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -1340,8 +1315,8 @@ msgstr "ബോറോണ്‍"
 #: element_tiny.xml:12
 #, kde-format
 msgid ""
-"Boron means 'Bor(ax) + (carb)on'. It is found in borax and behaves a lot "
-"like carbon"
+"Boron means 'Bor(ax) + (carb)on'. It is found in borax and behaves a lot like "
+"carbon"
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -1408,8 +1383,8 @@ msgstr "സോഡിയം"
 #: element_tiny.xml:24
 #, kde-format
 msgid ""
-"The name comes from Latin 'sodanum' which means 'headache remedy'. The "
-"symbol comes from Latin 'natrium' for Arabic 'natrun' or English 'soda'."
+"The name comes from Latin 'sodanum' which means 'headache remedy'. The symbol "
+"comes from Latin 'natrium' for Arabic 'natrun' or English 'soda'."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -1498,9 +1473,9 @@ msgstr "പൊട്ടാസ്യം"
 #: element_tiny.xml:40
 #, kde-format
 msgid ""
-"The name comes from the English 'potash' ('pot ashes') because it is found "
-"in caustic potashes. The symbol comes from the Latin 'kalium' for the "
-"original Arabic 'al qaliy' which means alkali."
+"The name comes from the English 'potash' ('pot ashes') because it is found in "
+"caustic potashes. The symbol comes from the Latin 'kalium' for the original "
+"Arabic 'al qaliy' which means alkali."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -1971,8 +1946,8 @@ msgstr "പ്രൊമിത്യം"
 #: element_tiny.xml:124
 #, kde-format
 msgid ""
-"Named after the Greek Prometheus. Prometheus stole the fire from the gods "
-"and gave it to mankind."
+"Named after the Greek Prometheus. Prometheus stole the fire from the gods and "
+"gave it to mankind."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -2018,8 +1993,8 @@ msgstr "ടെര്‍ബിയം"
 #, kde-format
 msgid ""
 "Named after the Swedish town of Ytterby and the mineral ytterbite from which "
-"Terbium was first refined. Yttrium, Erbium and Ytterbium are also named "
-"after this town."
+"Terbium was first refined. Yttrium, Erbium and Ytterbium are also named after "
+"this town."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -2103,8 +2078,8 @@ msgstr "ഹാഫ്നിയം"
 #, kde-format
 msgid ""
 "Niels Bohr originally predicted the properties of this element before "
-"discovery, so it was named after his hometown of 'Hafnia' (the old Latin "
-"name of Copenhagen, Denmark)"
+"discovery, so it was named after his hometown of 'Hafnia' (the old Latin name "
+"of Copenhagen, Denmark)"
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -2262,8 +2237,7 @@ msgstr "റാഡോണ്‍"
 #: element_tiny.xml:174
 #, kde-format
 msgid ""
-"Named after Radium. It ends with 'on' to make it clear that it is a noble "
-"gas."
+"Named after Radium. It ends with 'on' to make it clear that it is a noble gas."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -2319,8 +2293,8 @@ msgstr "പ്രൊടാക്ടീനിയം‌"
 #: element_tiny.xml:184
 #, kde-format
 msgid ""
-"Greek 'protos' for 'ancester'. Protactinium is before Actinium in the "
-"periodic table."
+"Greek 'protos' for 'ancester'. Protactinium is before Actinium in the periodic"
+" table."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -2570,8 +2544,8 @@ msgstr "സിര്‍ക്കോണിയം"
 #, kde-format
 msgid ""
 "Named after 'Nihon', the romanized spelling for 'Japan' in Japanese. The "
-"element was the first element discovered in Japan, at the RIKEN Nishina "
-"Center for Accelerator-Based Science. Historically known as eka-thallium."
+"element was the first element discovered in Japan, at the RIKEN Nishina Center"
+" for Accelerator-Based Science. Historically known as eka-thallium."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -2596,9 +2570,9 @@ msgstr ""
 #: element_tiny.xml:232
 #, kde-format
 msgid ""
-"Named for the Moscow, Russia, region which is home to the Joint Institute "
-"for Nuclear Research that was a co-discoverer of this element. Historically "
-"known as eka-bismuth."
+"Named for the Moscow, Russia, region which is home to the Joint Institute for "
+"Nuclear Research that was a co-discoverer of this element. Historically known "
+"as eka-bismuth."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -2610,8 +2584,8 @@ msgstr ""
 #: element_tiny.xml:234
 #, kde-format
 msgid ""
-"Historically known as eka-polonium. Named after Livermore National "
-"Laboratory (USA)."
+"Historically known as eka-polonium. Named after Livermore National Laboratory "
+"(USA)."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -2624,8 +2598,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "Named for the American state of Tennessee which is home to the Oak Ridge "
-"National Laboratory and Vanderbilt University whom were co-discoverers of "
-"this element. Historically known as eka-astatine."
+"National Laboratory and Vanderbilt University whom were co-discoverers of this"
+" element. Historically known as eka-astatine."
 msgstr ""
 
 #. i18n: tag label attribute value
@@ -2637,8 +2611,8 @@ msgstr ""
 #: element_tiny.xml:238
 #, kde-format
 msgid ""
-"Named in honor of Professor Yuri Oganessian's trans-actinide element "
-"research. Historically known as eka-radon, eka-emanation before 1960."
+"Named in honor of Professor Yuri Oganessian's trans-actinide element research."
+" Historically known as eka-radon, eka-emanation before 1960."
 msgstr ""
 
 #: libscience/psetables.cpp:171
@@ -2761,32 +2735,18 @@ msgstr ""
 #, kde-format
 msgid ""
 "<big>Welcome to the Kalzium calculators!<br /></big>\n"
-"<p>This calculator contains a variety of calculators for different tasks "
-"performing different calculations.</p>\n"
+"<p>This calculator contains a variety of calculators for different tasks performing different calculations.</p>\n"
 "<p>You can find the following calculators in Kalzium:</p>\n"
-"<ul><li><b>Molecular mass calculator<br /></b>This calculator helps you "
-"calculate the molecular masses of different molecules.<br />You can specify "
-"short form of the molecule names add more such aliases.</li>\n"
-"<li><b>Concentrations calculator<br /></b>You can calculate quantities which "
-"include:</li>\n"
+"<ul><li><b>Molecular mass calculator<br /></b>This calculator helps you calculate the molecular masses of different molecules.<br />You can specify short form of the molecule names add more such aliases.</li>\n"
+"<li><b>Concentrations calculator<br /></b>You can calculate quantities which include:</li>\n"
 "<ul type=\"circle\"><li>Amount of substance</li>\n"
 "<li>Volume of solvent</li>\n"
 "<li>Concentration of substance</li></ul>\n"
-"<p>There are a wide range of units to choose from and different methods to "
-"specify quantities.</p>\n"
-"<li><b>Nuclear calculator<br /></b>This calculator makes use of the nuclear "
-"data available in Kalzium to predict the expected masses of a material after "
-"time.</li>\n"
-"<li><b>Gas calculator<br /></b>This calculator can calculate the values of "
-"Temperature, pressure, volume, amount of gas etc. for various ideal as well "
-"as non-ideal gases.</li>\n"
-"<li><b>Equation Balancer<br /></b>This calculator can balance chemical "
-"equations.</li>\n"
-"<li><b>Titration calculator<br /></b>This calculator tries to find out the "
-"equivalence point of a pH-meter followed titration best fitting it with an "
-"hyperbolic tangent. You can also let it solve an equilibrium system of "
-"equations and see how the concentration of a species changes in function of "
-"another one.</li></ul>"
+"<p>There are a wide range of units to choose from and different methods to specify quantities.</p>\n"
+"<li><b>Nuclear calculator<br /></b>This calculator makes use of the nuclear data available in Kalzium to predict the expected masses of a material after time.</li>\n"
+"<li><b>Gas calculator<br /></b>This calculator can calculate the values of Temperature, pressure, volume, amount of gas etc. for various ideal as well as non-ideal gases.</li>\n"
+"<li><b>Equation Balancer<br /></b>This calculator can balance chemical equations.</li>\n"
+"<li><b>Titration calculator<br /></b>This calculator tries to find out the equivalence point of a pH-meter followed titration best fitting it with an hyperbolic tangent. You can also let it solve an equilibrium system of equations and see how the concentration of a species changes in function of another one.</li></ul>"
 msgstr ""
 
 #: src/calculator/concCalculator.cpp:948
@@ -2884,18 +2844,11 @@ msgstr ""
 #: src/calculator/concCalculator.ui:30
 #, kde-format
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; "
-"font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"size:12pt; font-weight:600;\">Some of the following data is not necessary. "
-"For instance, if you specify the amount of solute in moles, you do not have "
-"to specify the molar mass of the solute.</span></p></body></html>"
+"</style></head><body style=\" font-family:'Liberation Sans'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:12pt; font-weight:600;\">Some of the following data is not necessary. For instance, if you specify the amount of solute in moles, you do not have to specify the molar mass of the solute.</span></p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
@@ -2970,8 +2923,7 @@ msgstr ""
 #: src/calculator/concCalculator.ui:119
 #, kde-format
 msgid ""
-"This box is used to specify the equivalent mass of the solute. This is "
-"required only if concentration in terms of normality is involved.\n"
+"This box is used to specify the equivalent mass of the solute. This is required only if concentration in terms of normality is involved.\n"
 "Normality = Number of Equivalents / liter of solution"
 msgstr ""
 
@@ -3216,8 +3168,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<big><b>Change the quantities and observe the other quantities change "
-"dynamically.<br />Mass and moles are directly dependent for a given gas.</"
-"b></big>"
+"dynamically.<br />Mass and moles are directly dependent for a given "
+"gas.</b></big>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
@@ -3236,8 +3188,8 @@ msgstr ""
 #: src/calculator/gasCalculator.ui:55
 #, kde-format
 msgid ""
-"This box can be used to specify the molar mass of the gas, e.g. 2 for "
-"Hydrogen gas."
+"This box can be used to specify the molar mass of the gas, e.g. 2 for Hydrogen"
+" gas."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_25)
@@ -3320,8 +3272,8 @@ msgstr ""
 #: src/calculator/gasCalculator.ui:174
 #, kde-format
 msgid ""
-"This box can be used to specify the units of pressure, e.g. atmospheres, "
-"bars, etc."
+"This box can be used to specify the units of pressure, e.g. atmospheres, bars,"
+" etc."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_29)
@@ -3443,8 +3395,7 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (KComboBox, b_unit)
 #: src/calculator/gasCalculator.ui:351
 #, kde-format
-msgid ""
-"This can be used to specify the units of the van der Waals constant 'b'."
+msgid "This can be used to specify the units of the van der Waals constant 'b'."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -3743,8 +3694,8 @@ msgstr ""
 #: src/calculator/nuclearCalculator.ui:311
 #, kde-format
 msgid ""
-"This box is used to specify the time after which the initial amount "
-"decreases to the final amount."
+"This box is used to specify the time after which the initial amount decreases "
+"to the final amount."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, initAmtType)
@@ -3779,8 +3730,8 @@ msgstr ""
 #: src/calculator/nuclearCalculator.ui:350
 #, kde-format
 msgid ""
-"This box can be used to change the mode in which you want to specify the "
-"final amount of the substance, i.e. mass or moles."
+"This box can be used to change the mode in which you want to specify the final"
+" amount of the substance, i.e. mass or moles."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, initAmt_unit)
@@ -3868,8 +3819,7 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (KComboBox, time_unit)
 #: src/calculator/nuclearCalculator.ui:463
 #, kde-format
-msgid ""
-"This box is used to specify the units of time. e.g. years, seconds, etc."
+msgid "This box is used to specify the units of time. e.g. years, seconds, etc."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_15)
@@ -4210,7 +4160,8 @@ msgstr "%1 ആണ് ഇത് കണ്ടുപിടിച്ചത്"
 msgid "Origin of the name:<br/>%1"
 msgstr "പേരിന്റെ പിറവി:<br/>%1"
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicMeltingPointGradient)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_LogarithmicMeltingPointGradient)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
 #: src/detailinfodlg.cpp:199 src/elementdataviewer.cpp:268
@@ -4221,7 +4172,8 @@ msgstr "പേരിന്റെ പിറവി:<br/>%1"
 msgid "Melting Point"
 msgstr "ദ്രവണാങ്കം"
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicBoilingPointGradient)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_LogarithmicBoilingPointGradient)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
 #: src/detailinfodlg.cpp:206 src/elementdataviewer.cpp:275
@@ -4263,12 +4215,13 @@ msgstr "അയണീകരണം"
 msgid "First Ionization energy"
 msgstr "അയണീകരണം"
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicElectronegativityGradient)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_LogarithmicElectronegativityGradient)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_x)
 #. i18n: ectx: property (text), item, widget (KComboBox, KCB_y)
 #: src/detailinfodlg.cpp:255 src/elementdataviewer.cpp:262
-#: src/exportdialog.cpp:155 src/plotsetupwidget.ui:86
-#: src/plotsetupwidget.ui:407 src/settings_gradients.ui:95
+#: src/exportdialog.cpp:155 src/plotsetupwidget.ui:86 src/plotsetupwidget.ui:407
+#: src/settings_gradients.ui:95
 #, kde-format
 msgid "Electronegativity"
 msgstr "ഇലക്ട്രോനെഗറ്റീവത"
@@ -4329,15 +4282,12 @@ msgctxt ""
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: src/detailinfodlg.cpp:354 src/detailinfodlg.cpp:398
-#: src/detailinfodlg.cpp:442 src/detailinfodlg.cpp:485
-#: src/detailinfodlg.cpp:527 src/detailinfodlg.cpp:568
-#: src/detailinfodlg.cpp:608 src/detailinfodlg.cpp:647
-#: src/detailinfodlg.cpp:685 src/detailinfodlg.cpp:722
-#: src/detailinfodlg.cpp:758 src/detailinfodlg.cpp:793
-#: src/detailinfodlg.cpp:827 src/detailinfodlg.cpp:860
-#: src/detailinfodlg.cpp:892 src/detailinfodlg.cpp:923
-#: src/detailinfodlg.cpp:953 src/detailinfodlg.cpp:982
+#: src/detailinfodlg.cpp:354 src/detailinfodlg.cpp:398 src/detailinfodlg.cpp:442
+#: src/detailinfodlg.cpp:485 src/detailinfodlg.cpp:527 src/detailinfodlg.cpp:568
+#: src/detailinfodlg.cpp:608 src/detailinfodlg.cpp:647 src/detailinfodlg.cpp:685
+#: src/detailinfodlg.cpp:722 src/detailinfodlg.cpp:758 src/detailinfodlg.cpp:793
+#: src/detailinfodlg.cpp:827 src/detailinfodlg.cpp:860 src/detailinfodlg.cpp:892
+#: src/detailinfodlg.cpp:923 src/detailinfodlg.cpp:953 src/detailinfodlg.cpp:982
 #: src/detailinfodlg.cpp:1010 src/detailinfodlg.cpp:1037
 #: src/detailinfodlg.cpp:1063 src/detailinfodlg.cpp:1088
 #: src/detailinfodlg.cpp:1112 src/detailinfodlg.cpp:1135
@@ -4356,15 +4306,12 @@ msgctxt "Spontaneous fission"
 msgid " SF"
 msgstr ""
 
-#: src/detailinfodlg.cpp:358 src/detailinfodlg.cpp:402
-#: src/detailinfodlg.cpp:446 src/detailinfodlg.cpp:489
-#: src/detailinfodlg.cpp:531 src/detailinfodlg.cpp:572
-#: src/detailinfodlg.cpp:612 src/detailinfodlg.cpp:651
-#: src/detailinfodlg.cpp:689 src/detailinfodlg.cpp:726
-#: src/detailinfodlg.cpp:762 src/detailinfodlg.cpp:797
-#: src/detailinfodlg.cpp:831 src/detailinfodlg.cpp:864
-#: src/detailinfodlg.cpp:896 src/detailinfodlg.cpp:927
-#: src/detailinfodlg.cpp:957 src/detailinfodlg.cpp:986
+#: src/detailinfodlg.cpp:358 src/detailinfodlg.cpp:402 src/detailinfodlg.cpp:446
+#: src/detailinfodlg.cpp:489 src/detailinfodlg.cpp:531 src/detailinfodlg.cpp:572
+#: src/detailinfodlg.cpp:612 src/detailinfodlg.cpp:651 src/detailinfodlg.cpp:689
+#: src/detailinfodlg.cpp:726 src/detailinfodlg.cpp:762 src/detailinfodlg.cpp:797
+#: src/detailinfodlg.cpp:831 src/detailinfodlg.cpp:864 src/detailinfodlg.cpp:896
+#: src/detailinfodlg.cpp:927 src/detailinfodlg.cpp:957 src/detailinfodlg.cpp:986
 #: src/detailinfodlg.cpp:1014 src/detailinfodlg.cpp:1041
 #: src/detailinfodlg.cpp:1067 src/detailinfodlg.cpp:1092
 #: src/detailinfodlg.cpp:1116 src/detailinfodlg.cpp:1139
@@ -4377,22 +4324,20 @@ msgstr ""
 msgid "(%1%)"
 msgstr "(%1%)"
 
-#: src/detailinfodlg.cpp:393 src/detailinfodlg.cpp:437
-#: src/detailinfodlg.cpp:480 src/detailinfodlg.cpp:522
-#: src/detailinfodlg.cpp:563 src/detailinfodlg.cpp:603
-#: src/detailinfodlg.cpp:642 src/detailinfodlg.cpp:680
-#: src/detailinfodlg.cpp:717 src/detailinfodlg.cpp:753
-#: src/detailinfodlg.cpp:788 src/detailinfodlg.cpp:822
-#: src/detailinfodlg.cpp:855 src/detailinfodlg.cpp:887
-#: src/detailinfodlg.cpp:918 src/detailinfodlg.cpp:948
-#: src/detailinfodlg.cpp:977 src/detailinfodlg.cpp:1005
-#: src/detailinfodlg.cpp:1032 src/detailinfodlg.cpp:1058
-#: src/detailinfodlg.cpp:1083 src/detailinfodlg.cpp:1107
-#: src/detailinfodlg.cpp:1130 src/detailinfodlg.cpp:1152
-#: src/detailinfodlg.cpp:1173 src/detailinfodlg.cpp:1193
-#: src/detailinfodlg.cpp:1212 src/detailinfodlg.cpp:1230
-#: src/detailinfodlg.cpp:1247 src/detailinfodlg.cpp:1263
-#: src/detailinfodlg.cpp:1278 src/detailinfodlg.cpp:1292
+#: src/detailinfodlg.cpp:393 src/detailinfodlg.cpp:437 src/detailinfodlg.cpp:480
+#: src/detailinfodlg.cpp:522 src/detailinfodlg.cpp:563 src/detailinfodlg.cpp:603
+#: src/detailinfodlg.cpp:642 src/detailinfodlg.cpp:680 src/detailinfodlg.cpp:717
+#: src/detailinfodlg.cpp:753 src/detailinfodlg.cpp:788 src/detailinfodlg.cpp:822
+#: src/detailinfodlg.cpp:855 src/detailinfodlg.cpp:887 src/detailinfodlg.cpp:918
+#: src/detailinfodlg.cpp:948 src/detailinfodlg.cpp:977
+#: src/detailinfodlg.cpp:1005 src/detailinfodlg.cpp:1032
+#: src/detailinfodlg.cpp:1058 src/detailinfodlg.cpp:1083
+#: src/detailinfodlg.cpp:1107 src/detailinfodlg.cpp:1130
+#: src/detailinfodlg.cpp:1152 src/detailinfodlg.cpp:1173
+#: src/detailinfodlg.cpp:1193 src/detailinfodlg.cpp:1212
+#: src/detailinfodlg.cpp:1230 src/detailinfodlg.cpp:1247
+#: src/detailinfodlg.cpp:1263 src/detailinfodlg.cpp:1278
+#: src/detailinfodlg.cpp:1292
 #, kde-format
 msgid ", "
 msgstr ", "
@@ -4679,11 +4624,11 @@ msgid ""
 "put a single character in front of the element's symbol, as shown in this "
 "example:<br><i>aH + bO -> 5H2O</i> (Result: <b>10</b> H + <b>5</b> O -&gt; "
 "<b>5</b> H<sub>2</sub>O)<br>Solving this expression will give you the needed "
-"amount of Hydrogen and Oxygen.<br><br><b>Defining electric charges</"
-"b><br>Use box brackets to specify the electric charge of an element, as "
-"shown in this example:<br><i>4H[+] + 2O -> cH2O[2+]</i> (Result: <b>4</b> "
-"H<b><sup>+</sup></b> + <b>2</b> O -&gt; <b>2</b> H<b><sub>2</sub></"
-"b>O<b><sup>2+</sub></b>)"
+"amount of Hydrogen and Oxygen.<br><br><b>Defining electric charges</b><br>Use "
+"box brackets to specify the electric charge of an element, as shown in this "
+"example:<br><i>4H[+] + 2O -> cH2O[2+]</i> (Result: <b>4</b> "
+"H<b><sup>+</sup></b> + <b>2</b> O -&gt; <b>2</b> "
+"H<b><sub>2</sub></b>O<b><sup>2+</sub></b>)"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -4754,7 +4699,8 @@ msgstr ""
 msgid "Exact Mass"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicIonizationGradient)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_LogarithmicIonizationGradient)
 #: src/exportdialog.cpp:153 src/settings_gradients.ui:116
 #, kde-format
 msgid "Ionization"
@@ -5048,8 +4994,8 @@ msgstr ""
 #, kde-format
 msgctxt "WhatsThis Help"
 msgid ""
-"With this tool, you can convert files containing chemical data between "
-"various file formats."
+"With this tool, you can convert files containing chemical data between various"
+" file formats."
 msgstr ""
 
 #: src/kalzium.cpp:206
@@ -5260,15 +5206,17 @@ msgstr ""
 msgid "Display the table view"
 msgstr ""
 
-#. i18n: ectx: label, entry (LogarithmicCovalentRadiusGradient), group (Logarithmic Gradients)
+#. i18n: ectx: label, entry (LogarithmicCovalentRadiusGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:46
 #, kde-format
 msgid ""
-"Whether to use a logarithmic gradient for the Kalzium Covalent Radius "
-"Gradient feature"
+"Whether to use a logarithmic gradient for the Kalzium Covalent Radius Gradient"
+" feature"
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (LogarithmicCovalentRadiusGradient), group (Logarithmic Gradients)
+#. i18n: ectx: whatsthis, entry (LogarithmicCovalentRadiusGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:47
 #, kde-format
 msgid ""
@@ -5276,7 +5224,8 @@ msgid ""
 "Kalzium Covalent Radius Gradient feature"
 msgstr ""
 
-#. i18n: ectx: label, entry (LogarithmicVanDerWaalsRadiusGradient), group (Logarithmic Gradients)
+#. i18n: ectx: label, entry (LogarithmicVanDerWaalsRadiusGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:51
 #, kde-format
 msgid ""
@@ -5284,7 +5233,8 @@ msgid ""
 "Gradient feature"
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (LogarithmicVanDerWaalsRadiusGradient), group (Logarithmic Gradients)
+#. i18n: ectx: whatsthis, entry (LogarithmicVanDerWaalsRadiusGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:52
 #, kde-format
 msgid ""
@@ -5292,14 +5242,16 @@ msgid ""
 "Kalzium van der Waals Radius Gradient feature"
 msgstr ""
 
-#. i18n: ectx: label, entry (LogarithmicMassGradient), group (Logarithmic Gradients)
+#. i18n: ectx: label, entry (LogarithmicMassGradient), group (Logarithmic
+#. Gradients)
 #: src/kalzium.kcfg:56
 #, kde-format
 msgid ""
 "Whether to use a logarithmic gradient for the Kalzium Mass Gradient feature"
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (LogarithmicMassGradient), group (Logarithmic Gradients)
+#. i18n: ectx: whatsthis, entry (LogarithmicMassGradient), group (Logarithmic
+#. Gradients)
 #: src/kalzium.kcfg:57
 #, kde-format
 msgid ""
@@ -5307,7 +5259,8 @@ msgid ""
 "Kalzium Mass Gradient feature"
 msgstr ""
 
-#. i18n: ectx: label, entry (LogarithmicBoilingPointGradient), group (Logarithmic Gradients)
+#. i18n: ectx: label, entry (LogarithmicBoilingPointGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:61
 #, kde-format
 msgid ""
@@ -5315,7 +5268,8 @@ msgid ""
 "feature"
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (LogarithmicBoilingPointGradient), group (Logarithmic Gradients)
+#. i18n: ectx: whatsthis, entry (LogarithmicBoilingPointGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:62
 #, kde-format
 msgid ""
@@ -5323,7 +5277,8 @@ msgid ""
 "Kalzium Boiling Point Gradient feature"
 msgstr ""
 
-#. i18n: ectx: label, entry (LogarithmicMeltingPointGradient), group (Logarithmic Gradients)
+#. i18n: ectx: label, entry (LogarithmicMeltingPointGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:66
 #, kde-format
 msgid ""
@@ -5331,7 +5286,8 @@ msgid ""
 "feature"
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (LogarithmicMeltingPointGradient), group (Logarithmic Gradients)
+#. i18n: ectx: whatsthis, entry (LogarithmicMeltingPointGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:67
 #, kde-format
 msgid ""
@@ -5339,7 +5295,8 @@ msgid ""
 "Kalzium Melting Point Gradient feature"
 msgstr ""
 
-#. i18n: ectx: label, entry (LogarithmicElectronegativityGradient), group (Logarithmic Gradients)
+#. i18n: ectx: label, entry (LogarithmicElectronegativityGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:71
 #, kde-format
 msgid ""
@@ -5347,7 +5304,8 @@ msgid ""
 "Gradient feature"
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (LogarithmicElectronegativityGradient), group (Logarithmic Gradients)
+#. i18n: ectx: whatsthis, entry (LogarithmicElectronegativityGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:72
 #, kde-format
 msgid ""
@@ -5355,15 +5313,17 @@ msgid ""
 "Kalzium Electronegativity Gradient feature"
 msgstr ""
 
-#. i18n: ectx: label, entry (LogarithmicDiscoverydateGradient), group (Logarithmic Gradients)
+#. i18n: ectx: label, entry (LogarithmicDiscoverydateGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:76
 #, kde-format
 msgid ""
-"Whether to use a logarithmic gradient for the Kalzium Discovery Date "
-"Gradient feature"
+"Whether to use a logarithmic gradient for the Kalzium Discovery Date Gradient "
+"feature"
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (LogarithmicDiscoverydateGradient), group (Logarithmic Gradients)
+#. i18n: ectx: whatsthis, entry (LogarithmicDiscoverydateGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:77
 #, kde-format
 msgid ""
@@ -5371,7 +5331,8 @@ msgid ""
 "Kalzium Discovery Date Gradient feature"
 msgstr ""
 
-#. i18n: ectx: label, entry (LogarithmicElectronaffinityGradient), group (Logarithmic Gradients)
+#. i18n: ectx: label, entry (LogarithmicElectronaffinityGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:81
 #, kde-format
 msgid ""
@@ -5379,7 +5340,8 @@ msgid ""
 "Gradient feature"
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (LogarithmicElectronaffinityGradient), group (Logarithmic Gradients)
+#. i18n: ectx: whatsthis, entry (LogarithmicElectronaffinityGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:82
 #, kde-format
 msgid ""
@@ -5387,7 +5349,8 @@ msgid ""
 "Kalzium Electron Affinity Gradient feature"
 msgstr ""
 
-#. i18n: ectx: label, entry (LogarithmicIonizationGradient), group (Logarithmic Gradients)
+#. i18n: ectx: label, entry (LogarithmicIonizationGradient), group (Logarithmic
+#. Gradients)
 #: src/kalzium.kcfg:86
 #, kde-format
 msgid ""
@@ -5395,7 +5358,8 @@ msgid ""
 "feature"
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (LogarithmicIonizationGradient), group (Logarithmic Gradients)
+#. i18n: ectx: whatsthis, entry (LogarithmicIonizationGradient), group
+#. (Logarithmic Gradients)
 #: src/kalzium.kcfg:87
 #, kde-format
 msgid ""
@@ -5624,7 +5588,9 @@ msgstr "അലോഹങ്ങളുടെ നിറം തെരെഞ്ഞെ�
 #: src/kalzium.kcfg:245 src/kalzium.kcfg:260
 #, kde-format
 msgid "This value defines whether eV or kJ/mol should be used within Kalzium"
-msgstr "eV ആണോ kJ/mol ആണോ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ ആശ്രയിച്ചിരിക്കുന്നു"
+msgstr ""
+"eV ആണോ kJ/mol ആണോ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ "
+"ആശ്രയിച്ചിരിക്കുന്നു"
 
 #. i18n: ectx: whatsthis, entry (energiesUnit), group (Units)
 #. i18n: ectx: whatsthis, entry (combobox_energies), group (Units)
@@ -5637,9 +5603,10 @@ msgstr "eV ആണോ kJ/mol ആണോ ഉപയോഗിക്കേണ്ടത
 #. i18n: ectx: label, entry (combobox_temperature), group (Units)
 #: src/kalzium.kcfg:250 src/kalzium.kcfg:265
 #, kde-format
-msgid ""
-"This value defines which temperature scale should be used within Kalzium"
-msgstr "ഏത് താപനില സ്കേല്‍ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ ആശ്രയിച്ചിരിക്കുന്നു"
+msgid "This value defines which temperature scale should be used within Kalzium"
+msgstr ""
+"ഏത് താപനില സ്കേല്‍ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ "
+"ആശ്രയിച്ചിരിക്കുന്നു"
 
 #. i18n: ectx: whatsthis, entry (temperatureUnit), group (Units)
 #. i18n: ectx: whatsthis, entry (combobox_temperature), group (Units)
@@ -5653,7 +5620,9 @@ msgstr "താപനിലയുടെ സ്കേല്‍ തിരഞ്ഞ�
 #: src/kalzium.kcfg:255 src/kalzium.kcfg:270
 #, fuzzy, kde-format
 msgid "This value defines which length scale should be used within Kalzium"
-msgstr "ഏത് താപനില സ്കേല്‍ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ ആശ്രയിച്ചിരിക്കുന്നു"
+msgstr ""
+"ഏത് താപനില സ്കേല്‍ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ "
+"ആശ്രയിച്ചിരിക്കുന്നു"
 
 #. i18n: ectx: whatsthis, entry (lengthUnit), group (Units)
 #. i18n: ectx: whatsthis, entry (combobox_length), group (Units)
@@ -5673,7 +5642,9 @@ msgstr ""
 #: src/kalzium.kcfg:282
 #, fuzzy, kde-format
 msgid "This value defines which unit is used for the wavelength"
-msgstr "ഏത് താപനില സ്കേല്‍ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ ആശ്രയിച്ചിരിക്കുന്നു"
+msgstr ""
+"ഏത് താപനില സ്കേല്‍ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ "
+"ആശ്രയിച്ചിരിക്കുന്നു"
 
 #. i18n: ectx: whatsthis, entry (spectrumWavelengthUnit), group (Spectrum)
 #: src/kalzium.kcfg:283
@@ -5687,7 +5658,9 @@ msgstr "തരംഗദൈര്‍ഘ്യം:"
 msgid ""
 "This value defines which Spectrum type is used. Emission or absorption "
 "spectrum"
-msgstr "ഏത് താപനില സ്കേല്‍ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ ആശ്രയിച്ചിരിക്കുന്നു"
+msgstr ""
+"ഏത് താപനില സ്കേല്‍ കാല്‍സ്യത്തില്‍ ഉപയോഗിക്കേണ്ടത് എന്നത് ഈ വിലയെ "
+"ആശ്രയിച്ചിരിക്കുന്നു"
 
 #. i18n: ectx: whatsthis, entry (spectrumType), group (Spectrum)
 #: src/kalzium.kcfg:288
@@ -5755,8 +5728,8 @@ msgstr ""
 #: src/kalzium.kcfg:311
 #, kde-format
 msgid ""
-"This setting tells the molecular mass calculator whether extra details such "
-"as aliases should be shown"
+"This setting tells the molecular mass calculator whether extra details such as"
+" aliases should be shown"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry (alias), group (Calculator)
@@ -5812,7 +5785,8 @@ msgstr ""
 msgid "Discovery date"
 msgstr "കണ്ടുപിടിച്ച നാള്‍"
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicElectronaffinityGradient)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_LogarithmicElectronaffinityGradient)
 #: src/kalziumgradienttype.cpp:623 src/settings_gradients.ui:109
 #, kde-format
 msgid "Electronaffinity"
@@ -6074,29 +6048,25 @@ msgstr ""
 
 #: src/legendwidget.cpp:76
 #, kde-format
-msgctxt ""
-"one of the three states of matter (solid, liquid, vaporous or unknown)"
+msgctxt "one of the three states of matter (solid, liquid, vaporous or unknown)"
 msgid "Solid"
 msgstr "ഖരം"
 
 #: src/legendwidget.cpp:79
 #, kde-format
-msgctxt ""
-"one of the three states of matter (solid, liquid, vaporous or unknown)"
+msgctxt "one of the three states of matter (solid, liquid, vaporous or unknown)"
 msgid "Liquid"
 msgstr "ദ്രാവകം"
 
 #: src/legendwidget.cpp:82
 #, kde-format
-msgctxt ""
-"one of the three states of matter (solid, liquid, vaporous or unknown)"
+msgctxt "one of the three states of matter (solid, liquid, vaporous or unknown)"
 msgid "Vaporous"
 msgstr "വാതകം"
 
 #: src/legendwidget.cpp:85
 #, kde-format
-msgctxt ""
-"one of the three states of matter (solid, liquid, vaporous or unknown)"
+msgctxt "one of the three states of matter (solid, liquid, vaporous or unknown)"
 msgid "Unknown"
 msgstr "അജ്ഞാതം"
 
@@ -6207,8 +6177,8 @@ msgstr "ഇംഗ്‌ വാല്ലിന്‍"
 #: src/main.cpp:77
 #, kde-format
 msgid ""
-"Code cleaning, parser for the molecule weight calculator, and a lot of "
-"smaller improvements"
+"Code cleaning, parser for the molecule weight calculator, and a lot of smaller"
+" improvements"
 msgstr ""
 
 #: src/main.cpp:79
@@ -6374,9 +6344,8 @@ msgstr "തന്മാത്ര"
 msgid "Can't open more than one molecule at a time"
 msgstr ""
 
-#: src/molcalcwidget.cpp:101 src/molcalcwidget.cpp:137
-#: src/molcalcwidget.cpp:194 src/molcalcwidget.cpp:196
-#: src/molcalcwidget.cpp:198 src/molcalcwidget.cpp:200
+#: src/molcalcwidget.cpp:101 src/molcalcwidget.cpp:137 src/molcalcwidget.cpp:194
+#: src/molcalcwidget.cpp:196 src/molcalcwidget.cpp:198 src/molcalcwidget.cpp:200
 #: src/molcalcwidget.cpp:202
 #, fuzzy, kde-format
 msgid "%1"
@@ -6396,8 +6365,8 @@ msgstr ""
 msgid "Molecular mass: "
 msgstr ""
 
-#: src/molcalcwidget.cpp:234 src/molcalcwidget.cpp:238
-#: src/molcalcwidget.cpp:239 src/molcalcwidget.cpp:240
+#: src/molcalcwidget.cpp:234 src/molcalcwidget.cpp:238 src/molcalcwidget.cpp:239
+#: src/molcalcwidget.cpp:240
 #, kde-format
 msgid "Invalid input"
 msgstr ""
@@ -6832,40 +6801,40 @@ msgstr ""
 #: src/rsdialog.cpp:161
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S1: Keep locked up"
 msgstr "S1: അടച്ചു പൂട്ടി സൂക്ഷിക്കുക"
 
 #: src/rsdialog.cpp:162
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S2: Keep out of the reach of children"
 msgstr "S2: കുട്ടികളുടെ സമീപ്യത്തില്‍ നിന്നും സൂക്ഷിക്കുക"
 
 #: src/rsdialog.cpp:163
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S3: Keep in a cool place"
 msgstr "S3: തണുത്ത സ്ഥലത്ത് സൂക്ഷിക്കുക"
 
 #: src/rsdialog.cpp:164
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S4: Keep away from living quarters"
 msgstr ""
 
 #: src/rsdialog.cpp:165
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S5: Keep contents under ... ( appropriate liquid to be specified by the "
 "manufacturer )"
@@ -6874,56 +6843,56 @@ msgstr ""
 #: src/rsdialog.cpp:166
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S6: Keep under ... ( inert gas to be specified by the manufacturer )"
 msgstr ""
 
 #: src/rsdialog.cpp:167
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S7: Keep container tightly closed"
 msgstr "S7: പാത്രം മുറുക്കെ അടച്ച് സൂക്ഷിക്കുക"
 
 #: src/rsdialog.cpp:168
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S8: Keep container dry"
 msgstr "S8: പാത്രം ഉണക്കി സൂക്ഷിക്കുക"
 
 #: src/rsdialog.cpp:169
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S9: Keep container in a well-ventilated place"
 msgstr "S7: പാത്രം മുറുക്കെ അടച്ച് സൂക്ഷിക്കുക"
 
 #: src/rsdialog.cpp:170
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S12: Do not keep the container sealed"
 msgstr "S8: പാത്രം ഉണക്കി സൂക്ഷിക്കുക"
 
 #: src/rsdialog.cpp:171
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S13: Keep away from food, drink and animal feedingstuffs"
 msgstr ""
 
 #: src/rsdialog.cpp:172
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S14: Keep away from ... ( incompatible materials to be indicated by the "
 "manufacturer )"
@@ -6932,64 +6901,64 @@ msgstr ""
 #: src/rsdialog.cpp:173
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S15: Keep away from heat"
 msgstr ""
 
 #: src/rsdialog.cpp:174
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S16: Keep away from sources of ignition - No smoking"
 msgstr ""
 
 #: src/rsdialog.cpp:175
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S17: Keep away from combustible material"
 msgstr ""
 
 #: src/rsdialog.cpp:176
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S18: Handle and open container with care"
 msgstr ""
 
 #: src/rsdialog.cpp:177
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S20: When using do not eat or drink"
 msgstr "S20: ഉപയോഗിക്കുന്ന സമയത്ത് മറ്റൊന്നും കഴിക്കുകയോ കുടിക്കുകയോ ചെയ്യരുത്"
 
 #: src/rsdialog.cpp:178
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S21: When using do not smoke"
 msgstr "S21: ഉപയോഗിക്കുന്ന സമയത്ത് പുകവലിക്കരുത്"
 
 #: src/rsdialog.cpp:179
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S22: Do not breathe dust"
 msgstr "S22: പൊടി ശ്വസിക്കരുത്"
 
 #: src/rsdialog.cpp:180
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S23: Do not breathe gas/fumes/vapour/spray ( appropriate wording to be "
 "specified by the manufacturer )"
@@ -6998,42 +6967,42 @@ msgstr ""
 #: src/rsdialog.cpp:181
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S24: Avoid contact with skin"
 msgstr ""
 
 #: src/rsdialog.cpp:182
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S25: Avoid contact with eyes"
 msgstr ""
 
 #: src/rsdialog.cpp:183
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
-"S26: In case of contact with eyes, rinse immediately with plenty of water "
-"and seek medical advice"
+"S26: In case of contact with eyes, rinse immediately with plenty of water and "
+"seek medical advice"
 msgstr ""
 
 #: src/rsdialog.cpp:184
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S27: Take off immediately all contaminated clothing"
 msgstr ""
 
 #: src/rsdialog.cpp:185
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S28: After contact with skin, wash immediately with plenty of ... ( to be "
 "specified by the manufacturer )"
@@ -7042,56 +7011,56 @@ msgstr ""
 #: src/rsdialog.cpp:186
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S29: Do not empty into drains"
 msgstr "S22: പൊടി ശ്വസിക്കരുത്"
 
 #: src/rsdialog.cpp:187
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S30: Never add water to this product"
 msgstr ""
 
 #: src/rsdialog.cpp:188
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S33: Take precautionary measures against static discharges"
 msgstr ""
 
 #: src/rsdialog.cpp:189
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S35: This material and its container must be disposed of in a safe way"
 msgstr ""
 
 #: src/rsdialog.cpp:190
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S36: Wear suitable protective clothing"
 msgstr ""
 
 #: src/rsdialog.cpp:191
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S37: Wear suitable gloves"
 msgstr ""
 
 #: src/rsdialog.cpp:192
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S38: In case of insufficient ventilation wear suitable respiratory equipment"
 msgstr ""
@@ -7099,74 +7068,74 @@ msgstr ""
 #: src/rsdialog.cpp:193
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S39: Wear eye/face protection"
 msgstr ""
 
 #: src/rsdialog.cpp:194
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
-"S40: To clean the floor and all objects contaminated by this material "
-"use ... ( to be specified by the manufacturer )"
+"S40: To clean the floor and all objects contaminated by this material use ... "
+"( to be specified by the manufacturer )"
 msgstr ""
 
 #: src/rsdialog.cpp:195
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S41: In case of fire and/or explosion do not breathe fumes"
 msgstr ""
 
 #: src/rsdialog.cpp:196
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
-"S42: During fumigation/spraying wear suitable respiratory equipment "
-"( appropriate wording to be specified by the manufacturer )"
+"S42: During fumigation/spraying wear suitable respiratory equipment ( "
+"appropriate wording to be specified by the manufacturer )"
 msgstr ""
 
 #: src/rsdialog.cpp:197
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
-"S43: In case of fire use ... ( indicate in the space the precise type of "
-"fire-fighting equipment. If water increases the risk add - Never use water )"
+"S43: In case of fire use ... ( indicate in the space the precise type of fire-"
+"fighting equipment. If water increases the risk add - Never use water )"
 msgstr ""
 
 #: src/rsdialog.cpp:198
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
-"S45: In case of accident or if you feel unwell seek medical advice "
-"immediately ( show the label where possible )"
+"S45: In case of accident or if you feel unwell seek medical advice immediately"
+" ( show the label where possible )"
 msgstr ""
 
 #: src/rsdialog.cpp:199
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
-"S46: If swallowed, seek medical advice immediately and show this container "
-"or label"
+"S46: If swallowed, seek medical advice immediately and show this container or "
+"label"
 msgstr ""
 
 #: src/rsdialog.cpp:200
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S47: Keep at temperature not exceeding ... °C ( to be specified by the "
 "manufacturer )"
@@ -7175,8 +7144,8 @@ msgstr ""
 #: src/rsdialog.cpp:201
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S48: Keep wet with ... ( appropriate material to be specified by the "
 "manufacturer )"
@@ -7185,66 +7154,66 @@ msgstr ""
 #: src/rsdialog.cpp:202
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S49: Keep only in the original container"
 msgstr ""
 
 #: src/rsdialog.cpp:203
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S50: Do not mix with ... ( to be specified by the manufacturer )"
 msgstr ""
 
 #: src/rsdialog.cpp:204
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S51: Use only in well-ventilated areas"
 msgstr "S7: പാത്രം മുറുക്കെ അടച്ച് സൂക്ഷിക്കുക"
 
 #: src/rsdialog.cpp:205
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S52: Not recommended for interior use on large surface areas"
 msgstr ""
 
 #: src/rsdialog.cpp:206
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S53: Avoid exposure - obtain special instructions before use"
 msgstr ""
 
 #: src/rsdialog.cpp:207
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
-"S56: Dispose of this material and its container at hazardous or special "
-"waste collection point"
+"S56: Dispose of this material and its container at hazardous or special waste "
+"collection point"
 msgstr ""
 
 #: src/rsdialog.cpp:208
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "S57: Use appropriate containment to avoid environmental contamination"
 msgstr ""
 
 #: src/rsdialog.cpp:209
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S59: Refer to manufacturer/supplier for information on recovery/recycling"
 msgstr ""
@@ -7252,8 +7221,8 @@ msgstr ""
 #: src/rsdialog.cpp:210
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S60: This material and its container must be disposed of as hazardous waste"
 msgstr ""
@@ -7261,8 +7230,8 @@ msgstr ""
 #: src/rsdialog.cpp:211
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S61: Avoid release to the environment. Refer to special instructions/safety "
 "data sheet"
@@ -7271,28 +7240,28 @@ msgstr ""
 #: src/rsdialog.cpp:212
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
-"S62: If swallowed, do not induce vomiting: seek medical advice immediately "
-"and show this container or label"
+"S62: If swallowed, do not induce vomiting: seek medical advice immediately and"
+" show this container or label"
 msgstr ""
 
 #: src/rsdialog.cpp:213
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
-"S63: In case of accident by inhalation: remove casualty to fresh air and "
-"keep at rest"
+"S63: In case of accident by inhalation: remove casualty to fresh air and keep "
+"at rest"
 msgstr ""
 
 #: src/rsdialog.cpp:214
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "S64: If swallowed, rinse mouth with water ( only if the person is conscious )"
 msgstr ""
@@ -7300,16 +7269,16 @@ msgstr ""
 #: src/rsdialog.cpp:238
 #, fuzzy, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R1: Explosive when dry"
 msgstr "R1: ഉണങ്ങിയ അവസ്ഥയില്‍ പൊട്ടിത്തെറിക്കാം"
 
 #: src/rsdialog.cpp:239
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "R2: Risk of explosion by shock, friction, fire or other sources of ignition"
 msgstr ""
@@ -7317,8 +7286,8 @@ msgstr ""
 #: src/rsdialog.cpp:240
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid ""
 "R3: Extreme risk of explosion by shock, friction, fire or other sources of "
 "ignition"
@@ -7327,504 +7296,504 @@ msgstr ""
 #: src/rsdialog.cpp:241
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R4: Forms very sensitive explosive metallic compounds"
 msgstr ""
 
 #: src/rsdialog.cpp:242
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R5: Heating may cause an explosion"
 msgstr ""
 
 #: src/rsdialog.cpp:243
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R6: Explosive with or without contact with air"
 msgstr ""
 
 #: src/rsdialog.cpp:244
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R7: May cause fire"
 msgstr ""
 
 #: src/rsdialog.cpp:245
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R8: Contact with combustible material may cause fire"
 msgstr ""
 
 #: src/rsdialog.cpp:246
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R9: Explosive when mixed with combustible material"
 msgstr ""
 
 #: src/rsdialog.cpp:247
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R10: Flammable"
 msgstr ""
 
 #: src/rsdialog.cpp:248
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R11: Highly flammable"
 msgstr ""
 
 #: src/rsdialog.cpp:249
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R12: Extremely flammable"
 msgstr ""
 
 #: src/rsdialog.cpp:250
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R14: Reacts violently with water"
 msgstr ""
 
 #: src/rsdialog.cpp:251
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R15: Contact with water liberates extremely flammable gases"
 msgstr ""
 
 #: src/rsdialog.cpp:252
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R16: Explosive when mixed with oxidising substances"
 msgstr ""
 
 #: src/rsdialog.cpp:253
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R17: Spontaneously flammable in air"
 msgstr ""
 
 #: src/rsdialog.cpp:254
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R18: In use, may form flammable/explosive vapour-air mixture"
 msgstr ""
 
 #: src/rsdialog.cpp:255
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R19: May form explosive peroxides"
 msgstr ""
 
 #: src/rsdialog.cpp:256
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R20: Harmful by inhalation"
 msgstr ""
 
 #: src/rsdialog.cpp:257
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R21: Harmful in contact with skin"
 msgstr ""
 
 #: src/rsdialog.cpp:258
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R22: Harmful if swallowed"
 msgstr ""
 
 #: src/rsdialog.cpp:259
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R23: Toxic by inhalation"
 msgstr ""
 
 #: src/rsdialog.cpp:260
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R24: Toxic in contact with skin"
 msgstr ""
 
 #: src/rsdialog.cpp:261
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R25: Toxic if swallowed"
 msgstr ""
 
 #: src/rsdialog.cpp:262
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R26: Very toxic by inhalation"
 msgstr ""
 
 #: src/rsdialog.cpp:263
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R27: Very toxic in contact with skin"
 msgstr ""
 
 #: src/rsdialog.cpp:264
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R28: Very toxic if swallowed"
 msgstr ""
 
 #: src/rsdialog.cpp:265
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R29: Contact with water liberates toxic gas."
 msgstr ""
 
 #: src/rsdialog.cpp:266
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R30: Can become highly flammable in use"
 msgstr ""
 
 #: src/rsdialog.cpp:267
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R31: Contact with acids liberates toxic gas"
 msgstr ""
 
 #: src/rsdialog.cpp:268
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R32: Contact with acids liberates very toxic gas"
 msgstr ""
 
 #: src/rsdialog.cpp:269
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R33: Danger of cumulative effects"
 msgstr ""
 
 #: src/rsdialog.cpp:270
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R34: Causes burns"
 msgstr ""
 
 #: src/rsdialog.cpp:271
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R35: Causes severe burns"
 msgstr ""
 
 #: src/rsdialog.cpp:272
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R36: Irritating to eyes"
 msgstr ""
 
 #: src/rsdialog.cpp:273
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R37: Irritating to respiratory system"
 msgstr ""
 
 #: src/rsdialog.cpp:274
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R38: Irritating to skin"
 msgstr ""
 
 #: src/rsdialog.cpp:275
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R39: Danger of very serious irreversible effects"
 msgstr ""
 
 #: src/rsdialog.cpp:276
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R40: Limited evidence of a carcinogenic effect"
 msgstr ""
 
 #: src/rsdialog.cpp:277
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R41: Risk of serious damage to eyes"
 msgstr ""
 
 #: src/rsdialog.cpp:278
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R42: May cause sensitisation by inhalation"
 msgstr ""
 
 #: src/rsdialog.cpp:279
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R43: May cause sensitisation by skin contact"
 msgstr ""
 
 #: src/rsdialog.cpp:280
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R44: Risk of explosion if heated under confinement"
 msgstr ""
 
 #: src/rsdialog.cpp:281
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R45: May cause cancer"
 msgstr ""
 
 #: src/rsdialog.cpp:282
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R46: May cause heritable genetic damage"
 msgstr ""
 
 #: src/rsdialog.cpp:283
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R48: Danger of serious damage to health by prolonged exposure"
 msgstr ""
 
 #: src/rsdialog.cpp:284
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R49: May cause cancer by inhalation"
 msgstr ""
 
 #: src/rsdialog.cpp:285
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R50: Very toxic to aquatic organisms"
 msgstr ""
 
 #: src/rsdialog.cpp:286
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R51: Toxic to aquatic organisms"
 msgstr ""
 
 #: src/rsdialog.cpp:287
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R52: Harmful to aquatic organisms"
 msgstr ""
 
 #: src/rsdialog.cpp:288
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R53: May cause long-term adverse effects in the aquatic environment"
 msgstr ""
 
 #: src/rsdialog.cpp:289
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R54: Toxic to flora"
 msgstr ""
 
 #: src/rsdialog.cpp:290
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R55: Toxic to fauna"
 msgstr ""
 
 #: src/rsdialog.cpp:291
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R56: Toxic to soil organisms"
 msgstr ""
 
 #: src/rsdialog.cpp:292
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R57: Toxic to bees"
 msgstr ""
 
 #: src/rsdialog.cpp:293
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R58: May cause long-term adverse effects in the environment"
 msgstr ""
 
 #: src/rsdialog.cpp:294
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R59: Dangerous for the ozone layer"
 msgstr ""
 
 #: src/rsdialog.cpp:295
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R60: May impair fertility"
 msgstr ""
 
 #: src/rsdialog.cpp:296
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R61: May cause harm to the unborn child"
 msgstr ""
 
 #: src/rsdialog.cpp:297
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R62: Possible risk of impaired fertility"
 msgstr ""
 
 #: src/rsdialog.cpp:298
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R63: Possible risk of harm to the unborn child"
 msgstr ""
 
 #: src/rsdialog.cpp:299
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R64: May cause harm to breast-fed babies"
 msgstr ""
 
 #: src/rsdialog.cpp:300
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R65: Harmful: may cause lung damage if swallowed"
 msgstr ""
 
 #: src/rsdialog.cpp:301
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R66: Repeated exposure may cause skin dryness or cracking"
 msgstr ""
 
 #: src/rsdialog.cpp:302
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R67: Vapours may cause drowsiness and dizziness"
 msgstr ""
 
 #: src/rsdialog.cpp:303
 #, kde-format
 msgctxt ""
-"Please take the official translations! You find them here: https://eur-lex."
-"europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
+"Please take the official translations! You find them here: https://eur-"
+"lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0059:EN:HTML"
 msgid "R68: Possible risk of irreversible effects"
 msgstr ""
 
@@ -8065,18 +8034,16 @@ msgstr "മറ്റൊരു സ്കീമും ഉപയോഗിച്ച�
 #: src/settings_gradients.ui:42
 #, kde-format
 msgid ""
-"Instead of using a linear gradient to display the given property of an "
-"element in the periodic table, Kalzium can also use a logarithmic gradient.\n"
+"Instead of using a linear gradient to display the given property of an element in the periodic table, Kalzium can also use a logarithmic gradient.\n"
 "\n"
 "Check the properties you want to have displayed with a logarithmic gradient."
 msgstr ""
-"ആവർത്തന പട്ടികയിൽ ഒരു മൂലകത്തിന്റെ നിർദ്ദിഷ്ട സ്വഭാവം കാണിക്കുന്നതിനായി ഒരു ലീനിയർ "
-"ഗ്രേഡിയൻറ് ഉപയോഗിക്കാതെ പകരം കാൽസിയത്തിന് ലോഗാരിതമിക്ക് ഗ്രേഡിയന്റ് ഉപയോഗിക്കാം.\n"
+"ആവർത്തന പട്ടികയിൽ ഒരു മൂലകത്തിന്റെ നിർദ്ദിഷ്ട സ്വഭാവം കാണിക്കുന്നതിനായി ഒരു ലീനിയർ ഗ്രേഡിയൻറ് ഉപയോഗിക്കാതെ പകരം കാൽസിയത്തിന് ലോഗാരിതമിക്ക് ഗ്രേഡിയന്റ് ഉപയോഗിക്കാം.\n"
 "\n"
-"നിങ്ങൾ ഒരു ലോഗരിതമിക് ഗ്രേഡിയന്റ് ഉപയോഗിച്ച് പ്രദർശിപ്പിക്കാൻ ആഗ്രഹിക്കുന്ന പ്രോപ്പർട്ടികൾ "
-"പരിശോധിക്കുക."
+"നിങ്ങൾ ഒരു ലോഗരിതമിക് ഗ്രേഡിയന്റ് ഉപയോഗിച്ച് പ്രദർശിപ്പിക്കാൻ ആഗ്രഹിക്കുന്ന പ്രോപ്പർട്ടികൾ പരിശോധിക്കുക."
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_LogarithmicDiscoverydateGradient)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_LogarithmicDiscoverydateGradient)
 #: src/settings_gradients.ui:102
 #, kde-format
 msgid "Discovery Date"
@@ -8101,8 +8068,8 @@ msgid ""
 "This page gives an overview of the spectrum of this element. Using the mouse "
 "you can zoom into the spectrum."
 msgstr ""
-"ഈ താൾ ഈ മൂലകത്തിൻ്റെ സ്പെക്ട്രത്തിൻ്റ ഒരു പൊതു അവലോകനം നൽകുന്നു. മൌസ് ഉപയോഗിച്ച് നിങ്ങൾക്ക് "
-"സ്പെക്ട്രം വലുതായി കാണാന്‍ കഴിയും."
+"ഈ താൾ ഈ മൂലകത്തിൻ്റെ സ്പെക്ട്രത്തിൻ്റ ഒരു പൊതു അവലോകനം നൽകുന്നു. മൌസ് "
+"ഉപയോഗിച്ച് നിങ്ങൾക്ക് സ്പെക്ട്രം വലുതായി കാണാന്‍ കഴിയും."
 
 #. i18n: ectx: property (whatsThis), widget (QWidget, SpectrumView)
 #: src/spectrumview.ui:17
@@ -8526,15 +8493,14 @@ msgstr ""
 #: src/tools/moleculeview.cpp:126
 #, kde-format
 msgid ""
-"No tools loaded - it is likely that the Avogadro plugins could not be "
-"located."
+"No tools loaded - it is likely that the Avogadro plugins could not be located."
 msgstr ""
 
 #: src/tools/moleculeview.cpp:146
 #, kde-format
 msgid ""
-"No tools loaded - it is likely that the Avogadro plugins could not be "
-"located. No molecules can be viewed until this issue is resolved."
+"No tools loaded - it is likely that the Avogadro plugins could not be located."
+" No molecules can be viewed until this issue is resolved."
 msgstr ""
 
 #: src/tools/moleculeview.cpp:153 src/tools/moleculeview.cpp:220
@@ -8606,8 +8572,8 @@ msgstr ""
 #: src/tools/moleculeviewerwidget.ui:112
 #, kde-format
 msgid ""
-"Load a molecule and use the mouse pointer and scroll wheel to change the "
-"view point."
+"Load a molecule and use the mouse pointer and scroll wheel to change the view "
+"point."
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, edit)
@@ -8739,15 +8705,10 @@ msgstr "&കൂട്ടി ചേര്‍ക്കുക"
 #: src/tools/obconverterwidget.ui:71
 #, kde-format
 msgid ""
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
-"weight:400; font-style:normal; text-decoration:none;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">You see the files which "
-"will be converted here. Use the buttons to add and remove files from the "
-"list.</p></body></html>"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-weight:400; font-style:normal; text-decoration:none;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">You see the files which will be converted here. Use the buttons to add and remove files from the list.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -10522,7 +10483,7 @@ msgstr "താപനില:"
 # Copyright (C) 2008 This_file_is_part_of_KDE
 # This file is distributed under the same license as the kalzium package.
 # pR@tz/Pratheesh Prakash/പ്രതീഷ് പ്രകാശ് <royal.mexian@gmail.com>, 2008.
-#
+# 
 #, fuzzy
 #~ msgctxt "time unit symbol"
 #~ msgid ""
@@ -10532,8 +10493,7 @@ msgstr "താപനില:"
 #~ "POT-Creation-Date: 2009-07-14 11:37+0200\n"
 #~ "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 #~ "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-#~ "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് "
-#~ "<smc-discuss@googlegroups.com>\n"
+#~ "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 #~ "MIME-Version: 1.0\n"
 #~ "Content-Type: text/plain; charset=UTF-8\n"
 #~ "Content-Transfer-Encoding: 8bit\n"

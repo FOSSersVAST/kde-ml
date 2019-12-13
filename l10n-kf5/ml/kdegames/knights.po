@@ -9,8 +9,7 @@ msgstr ""
 "POT-Creation-Date: 2019-10-10 03:03+0200\n"
 "PO-Revision-Date: 2019-12-12 21:50+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathantra Malayalam Computing | സ്വതന്ത്ര മലയാളം "
-"കമ്പ്യൂട്ടിങ് <discuss@lists.smc.org.in>\n"
+"Language-Team: Swathantra Malayalam Computing | സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <discuss@lists.smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +20,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "Anish A (അനീഷ് എ)"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -57,7 +56,8 @@ msgstr "വെളുപ്പ്"
 msgid "Search &depth:"
 msgstr ""
 
-#. i18n: ectx: property (specialValueText), widget (KPluralHandlingSpinBox, sbSearchDepth)
+#. i18n: ectx: property (specialValueText), widget (KPluralHandlingSpinBox,
+#. sbSearchDepth)
 #: customdifficultydialog.ui:36
 #, kde-format
 msgctxt "Let the engine determine the search depth"
@@ -731,7 +731,8 @@ msgstr "എതിരാളിയോട്  ആശയവിനിമയം ചെ
 msgid ""
 "the local human player's color in a game against a computer or over the "
 "Internet."
-msgstr "കമ്പ്യൂട്ടറിനോ ഇന്റെര്‍നെറ്റിനോ എതിരെ കളിക്കുന്ന കളിയില്‍ കളിക്കാരന്റെ നിറം."
+msgstr ""
+"കമ്പ്യൂട്ടറിനോ ഇന്റെര്‍നെറ്റിനോ എതിരെ കളിക്കുന്ന കളിയില്‍ കളിക്കാരന്റെ നിറം."
 
 #. i18n: ectx: label, entry (programs), group (Protocols)
 #: knights.kcfg:130
@@ -899,7 +900,8 @@ msgstr "ഡേവ് കേയി"
 #, kde-format
 msgid "Help with new theme features and rendering without KGameRenderer"
 msgstr ""
-"പുതിയ പ്രമേയ പ്രത്യേകതയെയും കെഗെയിംറെന്റെററിഗ് ഇല്ലാതെ ചിത്രീകരിക്കുന്നതിനെ കുറിച്ചുള്ള സഹായം"
+"പുതിയ പ്രമേയ പ്രത്യേകതയെയും കെഗെയിംറെന്റെററിഗ് ഇല്ലാതെ ചിത്രീകരിക്കുന്നതിനെ "
+"കുറിച്ചുള്ള സഹായം"
 
 #: main.cpp:59
 #, kde-format
@@ -1155,7 +1157,8 @@ msgid ""
 "Program <code>%1</code> could not be started, please check that it is "
 "installed."
 msgstr ""
-"<code>%1</code> പ്രോഗ്രാം തുടങ്ങാന്‍ പറ്റുന്നില്ല. സജ്ജമാക്കിയിട്ടുണ്ടോ എന്നു് പരിശോധിക്കുക."
+"<code>%1</code> പ്രോഗ്രാം തുടങ്ങാന്‍ പറ്റുന്നില്ല. സജ്ജമാക്കിയിട്ടുണ്ടോ എന്നു്"
+" പരിശോധിക്കുക."
 
 #: proto/computerprotocol.cpp:65
 #, fuzzy, kde-format
@@ -1414,7 +1417,6 @@ msgid "Opponent's rating"
 msgstr "എതിര്‍ കളിക്കാരന്‍"
 
 #, fuzzy
-#~| msgid "Chess board based on KDE Development Platform 4"
 #~ msgid "Chess board based on KF5"
 #~ msgstr "കെഡിഇ വികസന അടിത്തറ 4 നെ അടിസ്ഥാനമാക്കിയ ചെസ്സ് കളി"
 
@@ -1422,17 +1424,14 @@ msgstr "എതിര്‍ കളിക്കാരന്‍"
 #~ msgstr "H:mm:ss"
 
 #, fuzzy
-#~| msgid "Computer engine:"
 #~ msgid "Configure Engines"
 #~ msgstr "കമ്പ്യൂട്ടറിലെ സംവിധാനം:"
 
 #, fuzzy
-#~| msgid "Human at a chess server:"
 #~ msgid "Chess server:"
 #~ msgstr "ചെസ്സ് സര്‍വറിലുള്ള വ്യക്തി:"
 
 #, fuzzy
-#~| msgid "Knights"
 #~ msgid "KNights"
 #~ msgstr "കെനൈറ്റ്സ്"
 
@@ -1440,17 +1439,14 @@ msgstr "എതിര്‍ കളിക്കാരന്‍"
 #~ msgstr "തേര്"
 
 #, fuzzy
-#~| msgid "time limit for the computer or remote player"
 #~ msgid "the skill of computer players"
 #~ msgstr "കമ്പ്യൂട്ടറിന്റെയോ വിദൂര കളിക്കാരന്റെയോ സമയ പരിധി"
 
 #, fuzzy
-#~| msgid "Border Display"
 #~ msgid "Board Display"
 #~ msgstr "അതിരിന്റെ പ്രദര്‍ശനം"
 
 #, fuzzy
-#~| msgid "Normal"
 #~ msgid "Form"
 #~ msgstr "സാധാരണ"
 
@@ -1470,22 +1466,20 @@ msgstr "എതിര്‍ കളിക്കാരന്‍"
 #~ msgstr "രാജാവ്"
 
 #, fuzzy
-#~| msgid "Slow"
 #~ msgid "Show"
 #~ msgstr "പതുക്കെ"
 
 #, fuzzy
-#~| msgid "time increment per move for the computer or remote player"
 #~ msgid ""
-#~ "time increment per move for the computer or remote player (for "
-#~ "Incremental time control)"
-#~ msgstr "കമ്പ്യൂട്ടറിന്റെയോ വിദൂര കളിക്കാരന്റെയോ ഓരോ നീക്കത്തിലുമുള്ള സമയ വര്‍ദ്ധനവ്"
+#~ "time increment per move for the computer or remote player (for Incremental "
+#~ "time control)"
+#~ msgstr ""
+#~ "കമ്പ്യൂട്ടറിന്റെയോ വിദൂര കളിക്കാരന്റെയോ ഓരോ നീക്കത്തിലുമുള്ള സമയ വര്‍ദ്ധനവ്"
 
 #~ msgid "whether both players have the same time limit"
 #~ msgstr "രണ്ടു കളിക്കാര്‍ക്കും ഒരേ സമയപരിധിയാണോ എന്ന്"
 
 #, fuzzy
-#~| msgid "Normal"
 #~ msgid "Normal Games"
 #~ msgstr "സാധാരണ"
 
@@ -1499,12 +1493,10 @@ msgstr "എതിര്‍ കളിക്കാരന്‍"
 #~ msgstr "താങ്കളുടെ നിറം"
 
 #, fuzzy
-#~| msgid "Starting time"
 #~ msgid "Starting &Time"
 #~ msgstr "തുടങ്ങിയ സമയം"
 
 #, fuzzy
-#~| msgid "Increment"
 #~ msgid "Time &Increment"
 #~ msgstr "വര്‍ദ്ധനവ്"
 
@@ -1521,7 +1513,6 @@ msgstr "എതിര്‍ കളിക്കാരന്‍"
 #~ msgstr "രണ്ട് കളിക്കാര്‍ക്കും ഒരുപോലെ"
 
 #, fuzzy
-#~| msgid "Increment"
 #~ msgid "Incremental"
 #~ msgstr "വര്‍ദ്ധനവ്"
 

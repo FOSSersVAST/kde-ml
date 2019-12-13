@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-12-01 03:06+0100\n"
 "PO-Revision-Date: 2019-12-12 21:38+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -79,8 +78,8 @@ msgstr ""
 #: klettres.cpp:147
 #, kde-format
 msgid ""
-"You can replay the same sound again by clicking this button or using the "
-"File menu, Replay Sound."
+"You can replay the same sound again by clicking this button or using the File "
+"menu, Replay Sound."
 msgstr ""
 
 #: klettres.cpp:153
@@ -98,8 +97,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "You can select the level: level 1 displays a letter and you hear it; level 2 "
-"does not display the letter, you only hear it; level 3 displays a syllable "
-"and you hear it; level 4 does not display the syllable, you only hear it."
+"does not display the letter, you only hear it; level 3 displays a syllable and"
+" you hear it; level 4 does not display the syllable, you only hear it."
 msgstr ""
 
 #: klettres.cpp:158
@@ -129,8 +128,8 @@ msgstr ""
 #: klettres.cpp:173
 #, kde-format
 msgid ""
-"Here you can change the theme for KLettres. A theme consists in the "
-"background picture and the font color for the letter displayed."
+"Here you can change the theme for KLettres. A theme consists in the background"
+" picture and the font color for the letter displayed."
 msgstr ""
 
 #: klettres.cpp:176
@@ -485,18 +484,18 @@ msgstr ""
 #, kde-format
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
-"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
-"weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
-"top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
-"indent:0; text-indent:0px;\">Kid Mode</p></body></html>"
+"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-weight:400;"
+" font-style:normal; text-decoration:none;\"><p style=\" margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\">Kid Mode</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QSlider, kcfg_GrownTimer)
 #: timerui.ui:187
 #, kde-format
 msgid ""
-"You can set the time between two letters in Grown-up mode. Default is 2 "
-"tenths of seconds."
+"You can set the time between two letters in Grown-up mode. Default is 2 tenths"
+" of seconds."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
@@ -504,8 +503,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
-"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
-"weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
-"top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
-"indent:0; text-indent:0px;\">Grown-up Mode</p></body></html>"
+"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-weight:400;"
+" font-style:normal; text-decoration:none;\"><p style=\" margin-top:0px; "
+"margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\">Grown-up Mode</p></body></html>"
 msgstr ""

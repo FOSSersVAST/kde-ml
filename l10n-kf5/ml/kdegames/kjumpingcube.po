@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -162,11 +162,9 @@ msgstr ""
 #: game.cpp:686
 #, kde-format
 msgid ""
-"You have changed the size setting of the game and that requires a new game "
-"to start.\n"
+"You have changed the size setting of the game and that requires a new game to start.\n"
 "\n"
-"Do you wish to abandon the current game or continue playing and restore the "
-"previous size setting?"
+"Do you wish to abandon the current game or continue playing and restore the previous size setting?"
 msgstr ""
 
 #: game.cpp:692

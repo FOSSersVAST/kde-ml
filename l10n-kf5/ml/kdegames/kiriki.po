@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -115,8 +115,8 @@ msgstr ""
 #: kiriki.cpp:174
 #, kde-format
 msgid ""
-"Starting the demo will end the current game. Any progress will be lost. Do "
-"you want to continue?"
+"Starting the demo will end the current game. Any progress will be lost. Do you"
+" want to continue?"
 msgstr ""
 
 #: kiriki.cpp:207

@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-11-25 03:33+0100\n"
 "PO-Revision-Date: 2019-12-12 22:24+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -33,8 +32,8 @@ msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 #, kde-format
 msgid ""
 "The KDE Power Management System will now generate a set of defaults based on "
-"your computer's capabilities. This will also erase all existing "
-"modifications you made. Are you sure you want to continue?"
+"your computer's capabilities. This will also erase all existing modifications "
+"you made. Are you sure you want to continue?"
 msgstr ""
 
 #: EditPage.cpp:195
@@ -46,8 +45,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "The Power Management Service appears not to be running.\n"
-"This can be solved by starting or scheduling it inside \"Startup and Shutdown"
-"\""
+"This can be solved by starting or scheduling it inside \"Startup and Shutdown\""
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab)

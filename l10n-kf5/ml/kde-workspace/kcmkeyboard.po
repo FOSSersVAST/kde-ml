@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "Manu S Madhav, Anish A (അനീഷ് എ)"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -125,8 +125,8 @@ msgid ""
 "<h1>Keyboard</h1> This control module can be used to configure keyboard "
 "parameters and layouts."
 msgstr ""
-"<h1>കീബോര്‍ഡ് </h1> ഈ നിയന്ത്രണ മോഡ്യൂള്‍ കീബോര്‍ഡ് പരാമീറ്ററുകളും വിന്യാസങ്ങളും പരിഷ്ക്കരിക്കാന്‍ "
-"ഉപയോഗിക്കാവന്നതാണ്."
+"<h1>കീബോര്‍ഡ് </h1> ഈ നിയന്ത്രണ മോഡ്യൂള്‍ കീബോര്‍ഡ് പരാമീറ്ററുകളും "
+"വിന്യാസങ്ങളും പരിഷ്ക്കരിക്കാന്‍ ഉപയോഗിക്കാവന്നതാണ്."
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabHardware)
 #: kcm_keyboard.ui:18
@@ -148,8 +148,7 @@ msgid ""
 "keyboard layout and refers to the \"hardware\" model, i.e. the way your "
 "keyboard is manufactured. Modern keyboards that come with your computer "
 "usually have two extra keys and are referred to as \"104-key\" models, which "
-"is probably what you want if you do not know what kind of keyboard you "
-"have.\n"
+"is probably what you want if you do not know what kind of keyboard you have.\n"
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabLayouts)
@@ -220,7 +219,8 @@ msgstr ""
 msgid "&Desktop"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QRadioButton, switchByApplicationRadioBtn)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. switchByApplicationRadioBtn)
 #: kcm_keyboard.ui:178
 #, kde-format
 msgid "&Application"
@@ -248,8 +248,8 @@ msgstr ""
 #: kcm_keyboard.ui:220
 #, kde-format
 msgid ""
-"This is a shortcut for switching layouts which is handled by X.org. It "
-"allows modifier-only shortcuts."
+"This is a shortcut for switching layouts which is handled by X.org. It allows "
+"modifier-only shortcuts."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, xkbGrpShortcutBtn)
@@ -273,12 +273,13 @@ msgstr ""
 msgid "3rd level shortcuts:"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QPushButton, xkb3rdLevelShortcutBtn)
+#. i18n: ectx: property (whatsThis), widget (QPushButton,
+#. xkb3rdLevelShortcutBtn)
 #: kcm_keyboard.ui:250
 #, kde-format
 msgid ""
-"This is a shortcut for switching to a third level of the active layout (if "
-"it has one) which is handled by X.org. It allows modifier-only shortcuts."
+"This is a shortcut for switching to a third level of the active layout (if it "
+"has one) which is handled by X.org. It allows modifier-only shortcuts."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
@@ -292,8 +293,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "This is a shortcut for switching layouts. It does not support modifier-only "
-"shortcuts and also may not work in some situations (e.g. if popup is active "
-"or from screensaver)."
+"shortcuts and also may not work in some situations (e.g. if popup is active or"
+" from screensaver)."
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, layoutsGroupBox)
@@ -416,9 +417,10 @@ msgid ""
 "Plasma startup.<p>You can configure NumLock to be turned on or off, or "
 "configure Plasma not to set NumLock state."
 msgstr ""
-"പിന്തുണയുണ്ടെങ്കില്‍, കെഡിഇ തുടങ്ങിക്കഴിഞ്ഞുള്ള നംലോക്കിന്റെ സ്ഥിതി സജ്ജീകരിക്കാന്‍ ഈ ഐച്ഛികം "
-"നിങ്ങളെ അനുവദിക്കും.<p> നംലോക്ക് ഓണാക്കാനോ, ഓഫാക്കാനോ, കെഡിഇ നംലോക്കിന്റെ സ്ഥിതി "
-"സജ്ജീകരിക്കാതിരിക്കാനോ നിങ്ങള്‍ക്ക് ക്രമീകരിക്കാം."
+"പിന്തുണയുണ്ടെങ്കില്‍, കെഡിഇ തുടങ്ങിക്കഴിഞ്ഞുള്ള നംലോക്കിന്റെ സ്ഥിതി "
+"സജ്ജീകരിക്കാന്‍ ഈ ഐച്ഛികം നിങ്ങളെ അനുവദിക്കും.<p> നംലോക്ക് ഓണാക്കാനോ, "
+"ഓഫാക്കാനോ, കെഡിഇ നംലോക്കിന്റെ സ്ഥിതി സജ്ജീകരിക്കാതിരിക്കാനോ നിങ്ങള്‍ക്ക് "
+"ക്രമീകരിക്കാം."
 
 #. i18n: ectx: property (title), widget (QGroupBox, numlockGroupBox)
 #: kcmmiscwidget.ui:20
@@ -427,7 +429,8 @@ msgid "NumLock on Plasma Startup"
 msgstr "കെഡിഇ തുടങ്ങുമ്പോള്‍ നംലോക്ക് (NumLock)"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioButton1)
-#. i18n: ectx: property (text), widget (QRadioButton, keyboardRepeatOnRadioButton)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. keyboardRepeatOnRadioButton)
 #: kcmmiscwidget.ui:32 kcmmiscwidget.ui:71
 #, kde-format
 msgid "T&urn on"
@@ -451,13 +454,15 @@ msgstr "&മാറ്റാതെ വിടുക"
 msgid "Keyboard Repeat"
 msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ്"
 
-#. i18n: ectx: property (text), widget (QRadioButton, keyboardRepeatOffRadioButton)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. keyboardRepeatOffRadioButton)
 #: kcmmiscwidget.ui:78
 #, kde-format
 msgid "Turn o&ff"
 msgstr "ഓ&ഫാക്കുക"
 
-#. i18n: ectx: property (text), widget (QRadioButton, keyboardRepeatUnchangedRadioButton)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. keyboardRepeatUnchangedRadioButton)
 #: kcmmiscwidget.ui:85
 #, fuzzy, kde-format
 msgid "&Leave unchanged"
@@ -478,9 +483,10 @@ msgid ""
 "key will start generating keycodes. The 'Repeat rate' option controls the "
 "frequency of these keycodes."
 msgstr ""
-"പിന്തുണയുണ്ടെങ്കില്‍, ഒരു കീ അമര്‍ത്തിക്കഴിഞ്ഞ് കീക്കോഡുകള്‍ ഉല്‍പാദിപ്പിക്കാനെടുക്കുന്ന സമയം "
-"സജ്ജീകരിക്കാന്‍ ഈ ഐച്ഛികം നിങ്ങളെ അനുവദിക്കും. 'റിപ്പീറ്റ് വേഗം' ഐച്ഛികം ഈ കീക്കോഡുകളുടെ "
-"ആവൃത്തി നിയന്ത്രിക്കുന്നു."
+"പിന്തുണയുണ്ടെങ്കില്‍, ഒരു കീ അമര്‍ത്തിക്കഴിഞ്ഞ് കീക്കോഡുകള്‍ "
+"ഉല്‍പാദിപ്പിക്കാനെടുക്കുന്ന സമയം സജ്ജീകരിക്കാന്‍ ഈ ഐച്ഛികം നിങ്ങളെ "
+"അനുവദിക്കും. 'റിപ്പീറ്റ് വേഗം' ഐച്ഛികം ഈ കീക്കോഡുകളുടെ ആവൃത്തി "
+"നിയന്ത്രിക്കുന്നു."
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, delay)
 #: kcmmiscwidget.ui:164
@@ -502,8 +508,8 @@ msgid ""
 "If supported, this option allows you to set the rate at which keycodes are "
 "generated while a key is pressed."
 msgstr ""
-"പിന്തുണയുണ്ടെങ്കില്‍, ഒരു കീ അമര്‍ത്തിക്കൊണ്ടിരിക്കുമ്പോള്‍ കീക്കോഡുകള്‍ ഉല്‍പാദിപ്പിക്കുന്ന വേഗം "
-"സജ്ജീകരിക്കാന്‍ ഈ ഐച്ഛികം നിങ്ങളെ അനുവദിക്കും."
+"പിന്തുണയുണ്ടെങ്കില്‍, ഒരു കീ അമര്‍ത്തിക്കൊണ്ടിരിക്കുമ്പോള്‍ കീക്കോഡുകള്‍ "
+"ഉല്‍പാദിപ്പിക്കുന്ന വേഗം സജ്ജീകരിക്കാന്‍ ഈ ഐച്ഛികം നിങ്ങളെ അനുവദിക്കും."
 
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, rate)
 #: kcmmiscwidget.ui:218
@@ -542,18 +548,19 @@ msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാ
 
 #~ msgid ""
 #~ "If supported, this option allows you to hear audible clicks from your "
-#~ "computer's speakers when you press the keys on your keyboard. This might "
-#~ "be useful if your keyboard does not have mechanical keys, or if the sound "
-#~ "that the keys make is very soft.<p>You can change the loudness of the key "
-#~ "click feedback by dragging the slider button or by clicking the up/down "
-#~ "arrows on the spin box. Setting the volume to 0% turns off the key click."
+#~ "computer's speakers when you press the keys on your keyboard. This might be "
+#~ "useful if your keyboard does not have mechanical keys, or if the sound that "
+#~ "the keys make is very soft.<p>You can change the loudness of the key click "
+#~ "feedback by dragging the slider button or by clicking the up/down arrows on "
+#~ "the spin box. Setting the volume to 0% turns off the key click."
 #~ msgstr ""
-#~ "പിന്തുണയുണ്ടെങ്കില്‍, കീബോര്‍ഡിലെ കീകള്‍ അമര്‍ത്തിയാല്‍ കമ്പ്യൂട്ടറിന്റെ സ്പീക്കറില്‍നിന്നും "
-#~ "കേള്‍ക്കാവുന്ന ക്ലിക്കുകള്‍ ശ്രവിക്കാന്‍ ഈ ഐച്ഛികം നിങ്ങളെ അനുവദിക്കും. നിങ്ങളുടെ കീബോര്‍ഡിന് "
-#~ "യാന്ത്രിക കീകള്‍ ഇല്ലെങ്കിലോ, അവയുണ്ടാക്കുന്ന സ്വരം വളരെ മൃദുവാണെങ്കിലോ ഇത് "
-#~ "ഉപയോഗപ്രദമായേക്കാം. സ്ലൈഡര്‍ ബട്ടണ്‍ വലിച്ചോ, സ്പിന്‍ പെട്ടിയിലെ മുകളിലേക്കും താഴേക്കുമുള്ള "
-#~ "ആരോകള്‍ ക്ലിക്ക് ചെയ്തോ, കീ ക്ലിക്ക് ഫീഡ്ബാക്കിന്റെ ഒച്ച നിങ്ങള്‍ക്ക് മാറ്റാവുന്നതാണ്. ഒച്ച 0% "
-#~ "ആക്കിയാല്‍ കീ ക്ലിക്ക് ഓഫാകും."
+#~ "പിന്തുണയുണ്ടെങ്കില്‍, കീബോര്‍ഡിലെ കീകള്‍ അമര്‍ത്തിയാല്‍ കമ്പ്യൂട്ടറിന്റെ "
+#~ "സ്പീക്കറില്‍നിന്നും കേള്‍ക്കാവുന്ന ക്ലിക്കുകള്‍ ശ്രവിക്കാന്‍ ഈ ഐച്ഛികം നിങ്ങളെ"
+#~ " അനുവദിക്കും. നിങ്ങളുടെ കീബോര്‍ഡിന് യാന്ത്രിക കീകള്‍ ഇല്ലെങ്കിലോ, "
+#~ "അവയുണ്ടാക്കുന്ന സ്വരം വളരെ മൃദുവാണെങ്കിലോ ഇത് ഉപയോഗപ്രദമായേക്കാം. സ്ലൈഡര്‍ "
+#~ "ബട്ടണ്‍ വലിച്ചോ, സ്പിന്‍ പെട്ടിയിലെ മുകളിലേക്കും താഴേക്കുമുള്ള ആരോകള്‍ "
+#~ "ക്ലിക്ക് ചെയ്തോ, കീ ക്ലിക്ക് ഫീഡ്ബാക്കിന്റെ ഒച്ച നിങ്ങള്‍ക്ക് മാറ്റാവുന്നതാണ്."
+#~ " ഒച്ച 0% ആക്കിയാല്‍ കീ ക്ലിക്ക് ഓഫാകും."
 
 #, fuzzy
 #~ msgid "&Key click volume:"
@@ -564,14 +571,14 @@ msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാ
 
 #~ msgid ""
 #~ "If you check this option, pressing and holding down a key emits the same "
-#~ "character over and over again. For example, pressing and holding down the "
-#~ "Tab key will have the same effect as that of pressing that key several "
-#~ "times in succession: Tab characters continue to be emitted until you "
-#~ "release the key."
+#~ "character over and over again. For example, pressing and holding down the Tab "
+#~ "key will have the same effect as that of pressing that key several times in "
+#~ "succession: Tab characters continue to be emitted until you release the key."
 #~ msgstr ""
-#~ "നിങ്ങള്‍ ഈ ഐച്ഛികം ചെക്ക് ചെയ്താല്‍, ഒരു കീ അമര്‍ത്തിപ്പിടിച്ചാല്‍ ഒരേ അക്ഷരരൂപം വീണ്ടും വീണ്ടും "
-#~ "പുറത്തുവരും. ഉദാഹരണത്തിന്, ടാബ് കീ അമര്‍ത്തിപ്പിടിച്ചാല്‍ ആ കീ ഒന്നിനു പിറകേ ഒന്നായി "
-#~ "അമര്‍ത്തുന്ന ഫലമുണ്ടാകും: ടാബ് അക്ഷരരൂപങ്ങള്‍ കീ വിടുന്നതുവരെ പുറത്തുവന്നുകൊണ്ടിരിക്കും."
+#~ "നിങ്ങള്‍ ഈ ഐച്ഛികം ചെക്ക് ചെയ്താല്‍, ഒരു കീ അമര്‍ത്തിപ്പിടിച്ചാല്‍ ഒരേ "
+#~ "അക്ഷരരൂപം വീണ്ടും വീണ്ടും പുറത്തുവരും. ഉദാഹരണത്തിന്, ടാബ് കീ "
+#~ "അമര്‍ത്തിപ്പിടിച്ചാല്‍ ആ കീ ഒന്നിനു പിറകേ ഒന്നായി അമര്‍ത്തുന്ന ഫലമുണ്ടാകും: "
+#~ "ടാബ് അക്ഷരരൂപങ്ങള്‍ കീ വിടുന്നതുവരെ പുറത്തുവന്നുകൊണ്ടിരിക്കും."
 
 #~ msgid "&Enable keyboard repeat"
 #~ msgstr "കീബോര്‍ഡ് റിപ്പീറ്റ് &പ്രാവര്‍ത്തികമാക്കുക"

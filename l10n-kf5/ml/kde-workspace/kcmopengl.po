@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-11-24 03:27+0100\n"
 "PO-Revision-Date: 2019-12-12 22:59+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "ആഷിക് എസ്"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -129,7 +128,8 @@ msgstr "വെര്‍ട്ടെക്സ് ബ്ളെന്‍ഡ് മ�
 #: opengl.cpp:411
 #, kde-format
 msgid "Max. vertex blend matrix palette size"
-msgstr "വെര്‍ട്ടെക്സ് ബ്ളെന്‍ഡ് മേട്രിക്സിന്റെ പാലെറ്റിനുള്ള ഏറ്റ്വും കൂടിയ വലിപ്പം "
+msgstr ""
+"വെര്‍ട്ടെക്സ് ബ്ളെന്‍ഡ് മേട്രിക്സിന്റെ പാലെറ്റിനുള്ള ഏറ്റ്വും കൂടിയ വലിപ്പം "
 
 #: opengl.cpp:417
 #, kde-format

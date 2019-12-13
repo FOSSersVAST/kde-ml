@@ -23,7 +23,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -124,7 +124,8 @@ msgstr "മൌറിസിയൊ പിയസെന്റിനി"
 #: main.cpp:55
 #, kde-format
 msgid "Code refactoring and SVG support. Current maintainer"
-msgstr "കോഡ് അടുക്കും ചിട്ടയും വരുത്തുകയും എസ്‌വിജി പിന്തുണയും. ഇപ്പോഴത്തെ പരിപാലകന്‍"
+msgstr ""
+"കോഡ് അടുക്കും ചിട്ടയും വരുത്തുകയും എസ്‌വിജി പിന്തുണയും. ഇപ്പോഴത്തെ പരിപാലകന്‍"
 
 #: main.cpp:57
 #, kde-format
@@ -134,7 +135,8 @@ msgstr "ഡിമിട്രി സുസ്ഡാലെവ്"
 #: main.cpp:58
 #, kde-format
 msgid "Rewrite to use QGraphicsView framework. Current maintainer"
-msgstr "ക്യൂഗ്രാഫിക്സ്‌വ്യു ഉപയോഗിക്കുന്നതിനായി മാറ്റിയെഴുതുക. ഇപ്പോഴത്തെ പരിപാലകന്‍"
+msgstr ""
+"ക്യൂഗ്രാഫിക്സ്‌വ്യു ഉപയോഗിക്കുന്നതിനായി മാറ്റിയെഴുതുക. ഇപ്പോഴത്തെ പരിപാലകന്‍"
 
 #: main.cpp:60
 #, kde-format
@@ -249,4 +251,5 @@ msgstr "താങ്കള്‍ പരാജയപ്പെട്ടു."
 
 #~ msgid "Failed to load \"%1\" theme. Please check your installation."
 #~ msgstr ""
-#~ "\"%1\" പ്രമേയം ലോഡ് ചെയ്യാന്‍ കഴിഞ്ഞില്ല. ദയവായി നിങ്ങളുടെ ഇന്‍സ്റ്റളേഷന്‍ പരിശോധിക്കുക."
+#~ "\"%1\" പ്രമേയം ലോഡ് ചെയ്യാന്‍ കഴിഞ്ഞില്ല. ദയവായി നിങ്ങളുടെ ഇന്‍സ്റ്റളേഷന്‍ "
+#~ "പരിശോധിക്കുക."

@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-07-04 02:55+0200\n"
 "PO-Revision-Date: 2019-12-12 21:12+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -32,14 +31,14 @@ msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 #: dviexport.cpp:129
 #, kde-format
 msgid ""
-"<qt><p>Okular could not locate the program <em>dvipdfm</em> on your "
-"computer. This program is essential for the export function to work. You "
-"can, however, convert the DVI-file to PDF using the print function of "
-"Okular, but that will often produce documents which print okay, but are of "
-"inferior quality if viewed in Acrobat Reader. It may be wise to upgrade to a "
-"more recent version of your TeX distribution which includes the <em>dvipdfm</"
-"em> program.</p><p>Hint to the perplexed system administrator: Okular uses "
-"the PATH environment variable when looking for programs.</p></qt>"
+"<qt><p>Okular could not locate the program <em>dvipdfm</em> on your computer. "
+"This program is essential for the export function to work. You can, however, "
+"convert the DVI-file to PDF using the print function of Okular, but that will "
+"often produce documents which print okay, but are of inferior quality if "
+"viewed in Acrobat Reader. It may be wise to upgrade to a more recent version "
+"of your TeX distribution which includes the <em>dvipdfm</em> "
+"program.</p><p>Hint to the perplexed system administrator: Okular uses the "
+"PATH environment variable when looking for programs.</p></qt>"
 msgstr ""
 
 #: dviexport.cpp:148
@@ -54,11 +53,10 @@ msgstr ""
 #: dviexport.cpp:177
 #, kde-format
 msgid ""
-"<qt>This DVI file refers to external graphic files which are not in "
-"PostScript format, and cannot be handled by the <em>dvips</em> program that "
-"Okular uses internally to print or to export to PostScript. The "
-"functionality that you require is therefore unavailable in this version of "
-"Okular.</qt>"
+"<qt>This DVI file refers to external graphic files which are not in PostScript"
+" format, and cannot be handled by the <em>dvips</em> program that Okular uses "
+"internally to print or to export to PostScript. The functionality that you "
+"require is therefore unavailable in this version of Okular.</qt>"
 msgstr ""
 
 #: dviexport.cpp:184
@@ -66,17 +64,16 @@ msgstr ""
 msgid ""
 "<qt><p>Okular could not locate the program <em>dvips</em> on your computer. "
 "That program is essential for the export function to work.</p><p>Hint to the "
-"perplexed system administrator: Okular uses the PATH environment variable "
-"when looking for programs.</p></qt>"
+"perplexed system administrator: Okular uses the PATH environment variable when"
+" looking for programs.</p></qt>"
 msgstr ""
 
 #: dviexport.cpp:281
 #, kde-format
 msgid ""
-"<qt>The external program 'dvips', which was used to export the file, "
-"reported an error. You might wish to look at the <strong>document info "
-"dialog</strong> which you will find in the File-Menu for a precise error "
-"report.</qt>"
+"<qt>The external program 'dvips', which was used to export the file, reported "
+"an error. You might wish to look at the <strong>document info dialog</strong> "
+"which you will find in the File-Menu for a precise error report.</qt>"
 msgstr ""
 
 #: dviFile.cpp:113
@@ -87,9 +84,9 @@ msgstr ""
 #: dviFile.cpp:118
 #, kde-format
 msgid ""
-"The DVI file contains the wrong version of DVI output for this program. "
-"Hint: If you use the typesetting system Omega, you have to use a special "
-"program, such as oxdvi."
+"The DVI file contains the wrong version of DVI output for this program. Hint: "
+"If you use the typesetting system Omega, you have to use a special program, "
+"such as oxdvi."
 msgstr ""
 
 #: dviFile.cpp:156
@@ -116,17 +113,16 @@ msgstr ""
 #: dviFile.cpp:392
 #, kde-format
 msgid ""
-"<qt><p>The external program <strong>pdf2ps</strong> could not be started. As "
-"a result, the PDF-file %1 could not be converted to PostScript. Some graphic "
+"<qt><p>The external program <strong>pdf2ps</strong> could not be started. As a"
+" result, the PDF-file %1 could not be converted to PostScript. Some graphic "
 "elements in your document will therefore not be displayed.</p><p><b>Possible "
 "reason:</b> The program <strong>pdf2ps</strong> may not be installed on your "
 "system, or cannot be found in the current search path.</p><p><b>What you can "
 "do:</b> The program <strong>pdf2ps</strong> is normally contained in "
-"distributions of the ghostscript PostScript interpreter system. If "
-"ghostscript is not installed on your system, you could install it now. If "
-"you are sure that ghostscript is installed, try to use <strong>pdf2ps</"
-"strong> from the command line to check if it really works.</p><p><em>PATH:</"
-"em> %2</p></qt>"
+"distributions of the ghostscript PostScript interpreter system. If ghostscript"
+" is not installed on your system, you could install it now. If you are sure "
+"that ghostscript is installed, try to use <strong>pdf2ps</strong> from the "
+"command line to check if it really works.</p><p><em>PATH:</em> %2</p></qt>"
 msgstr ""
 
 #: dviFile.cpp:416
@@ -135,8 +131,8 @@ msgid ""
 "<qt><p>The PDF-file %1 could not be converted to PostScript. Some graphic "
 "elements in your document will therefore not be displayed.</p><p><b>Possible "
 "reason:</b> The file %1 might be broken, or might not be a PDF-file at all. "
-"This is the output of the <strong>pdf2ps</strong> program that Okular used:</"
-"p><p><strong>%2</strong></p></qt>"
+"This is the output of the <strong>pdf2ps</strong> program that Okular "
+"used:</p><p><strong>%2</strong></p></qt>"
 msgstr ""
 
 #: dviRenderer.cpp:228 dviRenderer.cpp:471
@@ -162,8 +158,8 @@ msgstr ""
 #: dviRenderer.cpp:615
 #, kde-format
 msgid ""
-"You have asked Okular to locate the place in the DVI file which corresponds "
-"to line %1 in the TeX-file %2. It seems, however, that the DVI file does not "
+"You have asked Okular to locate the place in the DVI file which corresponds to"
+" line %1 in the TeX-file %2. It seems, however, that the DVI file does not "
 "contain the necessary source file information. "
 msgstr ""
 
@@ -223,8 +219,7 @@ msgstr ""
 
 #: dviRenderer_prescan.cpp:106
 #, kde-format
-msgid ""
-"Page %1: The PostScript file <strong>%2</strong> could not be found.<br>"
+msgid "Page %1: The PostScript file <strong>%2</strong> could not be found.<br>"
 msgstr ""
 
 #: dviRenderer_prescan.cpp:255
@@ -235,27 +230,28 @@ msgstr ""
 #: fontpool.cpp:209
 #, kde-format
 msgid ""
-"<qt><p>Okular was not able to locate all the font files which are necessary "
-"to display the current DVI file. Your document might be unreadable.</"
-"p><p><small><b>PATH:</b> %1</small></p><p><small>%2</small></p></qt>"
+"<qt><p>Okular was not able to locate all the font files which are necessary to"
+" display the current DVI file. Your document might be "
+"unreadable.</p><p><small><b>PATH:</b> "
+"%1</small></p><p><small>%2</small></p></qt>"
 msgstr ""
 
 #: fontpool.cpp:279
 #, kde-format
 msgid ""
-"<qt><p>There were problems running <em>kpsewhich</em>. As a result, some "
-"font files could not be located, and your document might be unreadable.<br/"
-">Possible reason: the <em>kpsewhich</em> program is perhaps not installed on "
-"your system, or it cannot be found in the current search path.</"
-"p><p><small><b>PATH:</b> %1</small></p><p><small>%2</small></p></qt>"
+"<qt><p>There were problems running <em>kpsewhich</em>. As a result, some font "
+"files could not be located, and your document might be "
+"unreadable.<br/>Possible reason: the <em>kpsewhich</em> program is perhaps not"
+" installed on your system, or it cannot be found in the current search "
+"path.</p><p><small><b>PATH:</b> %1</small></p><p><small>%2</small></p></qt>"
 msgstr ""
 
 #: fontpool.cpp:298
 #, kde-format
 msgid ""
-"<qt>The font generation by <em>kpsewhich</em> was aborted (exit code %1, "
-"error %2). As a result, some font files could not be located, and your "
-"document might be unreadable.</qt>"
+"<qt>The font generation by <em>kpsewhich</em> was aborted (exit code %1, error"
+" %2). As a result, some font files could not be located, and your document "
+"might be unreadable.</qt>"
 msgstr ""
 
 #: fontpool.cpp:476
@@ -296,20 +292,19 @@ msgstr ""
 msgid ""
 "<qt><p>The Ghostview program, which Okular uses internally to display the "
 "PostScript graphics that is included in this DVI file, is generally able to "
-"write its output in a variety of formats. The sub-programs that Ghostview "
-"uses for these tasks are called 'device drivers'; there is one device driver "
-"for each format that Ghostview is able to write. Different versions of "
-"Ghostview often have different sets of device drivers available. It seems "
-"that the version of Ghostview that is installed on this computer does not "
-"contain <strong>any</strong> of the device drivers that are known to Okular."
-"</p><p>It seems unlikely that a regular installation of Ghostview would not "
-"contain these drivers. This error may therefore point to a serious "
-"misconfiguration of the Ghostview installation on your computer.</p><p>If "
-"you want to fix the problems with Ghostview, you can use the command "
-"<strong>gs --help</strong> to display the list of device drivers contained "
-"in Ghostview. Among others, Okular can use the 'png256', 'jpeg' and 'pnm' "
-"drivers. Note that Okular needs to be restarted to re-enable PostScript "
-"support.</p></qt>"
+"write its output in a variety of formats. The sub-programs that Ghostview uses"
+" for these tasks are called 'device drivers'; there is one device driver for "
+"each format that Ghostview is able to write. Different versions of Ghostview "
+"often have different sets of device drivers available. It seems that the "
+"version of Ghostview that is installed on this computer does not contain "
+"<strong>any</strong> of the device drivers that are known to Okular.</p><p>It "
+"seems unlikely that a regular installation of Ghostview would not contain "
+"these drivers. This error may therefore point to a serious misconfiguration of"
+" the Ghostview installation on your computer.</p><p>If you want to fix the "
+"problems with Ghostview, you can use the command <strong>gs --help</strong> to"
+" display the list of device drivers contained in Ghostview. Among others, "
+"Okular can use the 'png256', 'jpeg' and 'pnm' drivers. Note that Okular needs "
+"to be restarted to re-enable PostScript support.</p></qt>"
 msgstr ""
 
 #: special.cpp:36
@@ -320,8 +315,8 @@ msgstr ""
 #: special.cpp:217
 #, kde-format
 msgid ""
-"Error in DVIfile '%1', page %2. Color pop command issued when the color "
-"stack is empty."
+"Error in DVIfile '%1', page %2. Color pop command issued when the color stack "
+"is empty."
 msgstr ""
 
 #: special.cpp:302
@@ -353,8 +348,7 @@ msgstr ""
 #: TeXFont_PFB.cpp:44
 #, kde-format
 msgid ""
-"The font file %1 could be opened and read, but its font format is "
-"unsupported."
+"The font file %1 could be opened and read, but its font format is unsupported."
 msgstr ""
 
 #: TeXFont_PFB.cpp:50

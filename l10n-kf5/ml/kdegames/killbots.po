@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -80,10 +80,10 @@ msgstr ""
 #: killbots.kcfg:20
 #, kde-format
 msgid ""
-"Selects the action performed when middle-clicking on the main game area. If "
-"a middle mouse button is not available, this action can be performed by "
-"left- and right-clicking simultaneously or by left-clicking while holding "
-"the control key."
+"Selects the action performed when middle-clicking on the main game area. If a "
+"middle mouse button is not available, this action can be performed by left- "
+"and right-clicking simultaneously or by left-clicking while holding the "
+"control key."
 msgstr ""
 
 #. i18n: ectx: tooltip, entry (RightClickAction), group (General)
@@ -257,8 +257,8 @@ msgstr ""
 #: mainwindow.cpp:250
 #, kde-format
 msgctxt ""
-"Shortcut for teleport safely. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for teleport safely. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "T"
 msgstr ""
 
@@ -275,8 +275,8 @@ msgstr ""
 #: mainwindow.cpp:258
 #, kde-format
 msgctxt ""
-"Shortcut for teleport. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for teleport. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "R"
 msgstr ""
 
@@ -293,8 +293,8 @@ msgstr ""
 #: mainwindow.cpp:266
 #, kde-format
 msgctxt ""
-"Shortcut for teleport safely if possible. See https://quickgit.kde.org/?"
-"p=killbots.git&a=blob&f=README.translators&o=plain"
+"Shortcut for teleport safely if possible. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "Space"
 msgstr ""
 
@@ -311,8 +311,8 @@ msgstr ""
 #: mainwindow.cpp:273
 #, kde-format
 msgctxt ""
-"Shortcut for vaporizer. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for vaporizer. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "F"
 msgstr ""
 
@@ -329,8 +329,8 @@ msgstr ""
 #: mainwindow.cpp:281
 #, kde-format
 msgctxt ""
-"Shortcut for wait out round. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for wait out round. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "V"
 msgstr ""
 
@@ -347,8 +347,8 @@ msgstr ""
 #: mainwindow.cpp:289
 #, kde-format
 msgctxt ""
-"Shortcut for move up and left. https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for move up and left. "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "Q"
 msgstr ""
 
@@ -360,8 +360,8 @@ msgstr ""
 #: mainwindow.cpp:295
 #, kde-format
 msgctxt ""
-"Shortcut for move up. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for move up. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "W"
 msgstr ""
 
@@ -373,8 +373,8 @@ msgstr ""
 #: mainwindow.cpp:301
 #, kde-format
 msgctxt ""
-"Shortcut for move up and right. https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for move up and right. "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "E"
 msgstr ""
 
@@ -386,8 +386,8 @@ msgstr ""
 #: mainwindow.cpp:307
 #, kde-format
 msgctxt ""
-"Shortcut for move left. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for move left. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "A"
 msgstr ""
 
@@ -399,8 +399,8 @@ msgstr ""
 #: mainwindow.cpp:313
 #, kde-format
 msgctxt ""
-"Shortcut for stand still. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for stand still. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "S"
 msgstr ""
 
@@ -412,8 +412,8 @@ msgstr ""
 #: mainwindow.cpp:319
 #, kde-format
 msgctxt ""
-"Shortcut for move right. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for move right. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "D"
 msgstr ""
 
@@ -425,8 +425,8 @@ msgstr ""
 #: mainwindow.cpp:325
 #, kde-format
 msgctxt ""
-"Shortcut for move down and left. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for move down and left. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "Z"
 msgstr ""
 
@@ -438,8 +438,8 @@ msgstr ""
 #: mainwindow.cpp:331
 #, kde-format
 msgctxt ""
-"Shortcut for move down. See https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for move down. See "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "X"
 msgstr ""
 
@@ -451,8 +451,8 @@ msgstr ""
 #: mainwindow.cpp:337
 #, kde-format
 msgctxt ""
-"Shortcut for move down and right. https://quickgit.kde.org/?p=killbots."
-"git&a=blob&f=README.translators&o=plain"
+"Shortcut for move down and right. "
+"https://quickgit.kde.org/?p=killbots.git&a=blob&f=README.translators&o=plain"
 msgid "C"
 msgstr ""
 
@@ -756,6 +756,6 @@ msgstr ""
 #: rulesetselector.cpp:77
 #, kde-format
 msgid ""
-"Opens a dialog listing the values of all internal parameters for the "
-"selected game type."
+"Opens a dialog listing the values of all internal parameters for the selected "
+"game type."
 msgstr ""

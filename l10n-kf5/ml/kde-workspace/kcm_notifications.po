@@ -7,11 +7,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-19 03:37+0100\n"
+"POT-Creation-Date: 2019-12-13 03:38+0100\n"
 "PO-Revision-Date: 2019-12-12 22:42+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -55,7 +54,7 @@ msgid "Show in do not disturb mode"
 msgstr ""
 
 #: package/contents/ui/ApplicationConfiguration.qml:113
-#: package/contents/ui/main.qml:77
+#: package/contents/ui/main.qml:114
 #, kde-format
 msgid "Show in history"
 msgstr ""
@@ -82,103 +81,121 @@ msgstr ""
 msgid "This module lets you manage application and system notifications."
 msgstr ""
 
-#: package/contents/ui/main.qml:50
+#: package/contents/ui/main.qml:61
+#, kde-format
+msgid ""
+"Could not find a 'Notifications' widget which is required for displaying "
+"notifications."
+msgstr ""
+
+#: package/contents/ui/main.qml:72
+#, kde-format
+msgctxt "Vendor and product name"
+msgid "Notifications are currently provided by '%1 %2' instead of Plasma."
+msgstr ""
+
+#: package/contents/ui/main.qml:76
+#, kde-format
+msgid "Notifications are currently not provided by Plasma."
+msgstr ""
+
+#: package/contents/ui/main.qml:83
 #, kde-format
 msgid "Do not disturb:"
 msgstr ""
 
-#: package/contents/ui/main.qml:51
+#: package/contents/ui/main.qml:84
 #, kde-format
 msgctxt "Do not disturb when screens are mirrored"
 msgid "When screens are mirrored"
 msgstr ""
 
-#: package/contents/ui/main.qml:57
+#: package/contents/ui/main.qml:91
 #, kde-format
 msgid "Show critical notifications"
 msgstr ""
 
-#: package/contents/ui/main.qml:63
+#: package/contents/ui/main.qml:98
 #, kde-format
 msgid "Critical notifications:"
 msgstr ""
 
-#: package/contents/ui/main.qml:64
+#: package/contents/ui/main.qml:99
 #, kde-format
 msgid "Always keep on top"
 msgstr ""
 
-#: package/contents/ui/main.qml:70
+#: package/contents/ui/main.qml:106
 #, kde-format
 msgid "Low priority notifications:"
 msgstr ""
 
-#: package/contents/ui/main.qml:71
+#: package/contents/ui/main.qml:107
 #, kde-format
 msgid "Show popup"
 msgstr ""
 
-#: package/contents/ui/main.qml:89
+#: package/contents/ui/main.qml:127
 #, kde-format
 msgid "Popup position:"
 msgstr ""
 
-#: package/contents/ui/main.qml:90
+#: package/contents/ui/main.qml:128
 #, kde-format
 msgctxt "Popup position near notification plasmoid"
 msgid "Near the notification icon"
 msgstr ""
 
-#: package/contents/ui/main.qml:109
+#: package/contents/ui/main.qml:150
 #, kde-format
 msgid "Choose Custom Position..."
 msgstr ""
 
-#: package/contents/ui/main.qml:118 package/contents/ui/main.qml:134
+#: package/contents/ui/main.qml:159 package/contents/ui/main.qml:176
 #, kde-format
 msgid "%1 second"
 msgid_plural "%1 seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: package/contents/ui/main.qml:123
+#: package/contents/ui/main.qml:164
 #, kde-format
 msgid "Hide popup after:"
 msgstr ""
 
-#: package/contents/ui/main.qml:144
+#: package/contents/ui/main.qml:186
 #, kde-format
 msgid "Application progress:"
 msgstr ""
 
-#: package/contents/ui/main.qml:145 package/contents/ui/main.qml:170
+#: package/contents/ui/main.qml:187 package/contents/ui/main.qml:212
 #, kde-format
 msgid "Show in task manager"
 msgstr ""
 
-#: package/contents/ui/main.qml:152
+#: package/contents/ui/main.qml:194
 #, kde-format
 msgctxt "Show application jobs in notification widget"
 msgid "Show in notifications"
 msgstr ""
 
-#: package/contents/ui/main.qml:161
+#: package/contents/ui/main.qml:203
 #, kde-format
 msgctxt "Keep application job popup open for entire duration of job"
 msgid "Keep popup open during progress"
 msgstr ""
 
-#: package/contents/ui/main.qml:169
+#: package/contents/ui/main.qml:211
 #, kde-format
 msgid "Notification badges:"
 msgstr ""
 
-#: package/contents/ui/main.qml:180
+#: package/contents/ui/main.qml:222
 #, kde-format
 msgid "Applications:"
 msgstr ""
 
-#: package/contents/ui/main.qml:181
+#: package/contents/ui/main.qml:223
 #, kde-format
 msgid "Configure..."
 msgstr ""
@@ -211,6 +228,6 @@ msgstr ""
 #: package/contents/ui/SourcesPage.qml:212
 #, kde-format
 msgid ""
-"Select an application from the list to configure its notification settings "
-"and behavior."
+"Select an application from the list to configure its notification settings and"
+" behavior."
 msgstr ""

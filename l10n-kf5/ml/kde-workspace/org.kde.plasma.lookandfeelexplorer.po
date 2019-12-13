@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-sdk\n"
@@ -12,16 +13,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
-"X-Pootle-Path: /ml/l10n-kf5/kde-workspace/org.kde.plasma.lookandfeelexplorer."
-"po\n"
-"X-Pootle-Revision: 2211\n"
 "X-Language: ml_IN\n"
+"X-Pootle-Path: /ml/l10n-kf5/kde-workspace/org.kde.plasma.lookandfeelexplorer.po\n"
+"X-Pootle-Revision: 2211\n"
 "X-Source-Language: C\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "അമൃതനാഥ് എം"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -161,7 +161,8 @@ msgstr "പ്ലാസ്മ ലേഔട്ട് വിജയകരമായ�
 #: src/lnflogic.cpp:164
 #, kde-format
 msgid "Defaults config file saved from your current setup"
-msgstr "നിങ്ങളുടെ നിലവിലെ സജ്ജീകരണത്തിൽ നിന്ന് സ്ഥിരസ്ഥിതി ക്രമീകരണ ഫയൽ സംരക്ഷിച്ചു"
+msgstr ""
+"നിങ്ങളുടെ നിലവിലെ സജ്ജീകരണത്തിൽ നിന്ന് സ്ഥിരസ്ഥിതി ക്രമീകരണ ഫയൽ സംരക്ഷിച്ചു"
 
 #: src/lnflogic.cpp:485
 #, kde-format

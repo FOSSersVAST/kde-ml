@@ -23,7 +23,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "ശങ്കരനാരായണന്‍, പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍, ഹരി വിഷ്ണു"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -176,8 +176,7 @@ msgstr ""
 #~ msgid "User customized theme"
 #~ msgstr "ഉപയുക്താവ് ഇച്ഛാനുസൃതം രൂപപ്പെടുത്തിയിക്കുന്ന പ്രമേയം"
 
-#~ msgid ""
-#~ "Theme items have been changed.  Do you still wish remove the \"%1\" theme?"
+#~ msgid "Theme items have been changed.  Do you still wish remove the \"%1\" theme?"
 #~ msgstr ""
 #~ "പ്രമേയത്തിന്റെ ഇനം മാറ്റപ്പെട്ടു. \"%1\"പ്രമേയം നീക്കം ചെയ്യണമെന്ന് നിങ്ങള്‍ "
 #~ "ആഗ്രഹിക്കുന്നുണ്ടോ?"
@@ -204,8 +203,8 @@ msgstr ""
 
 #, fuzzy
 #~ msgctxt ""
-#~ "%1 is the name of the theme, %2 is the type of the element (background, "
-#~ "icon, note, etc)"
+#~ "%1 is the name of the theme, %2 is the type of the element (background, icon, "
+#~ "note, etc)"
 #~ msgid "%1 %2"
 #~ msgstr "%1 %2"
 
@@ -280,12 +279,12 @@ msgstr ""
 
 #, fuzzy
 #~ msgid ""
-#~ "To change your desktop theme to \"%1\", go back to the 'General' tab of "
-#~ "System Settings; choose 'Appearance', and then 'Style'; and finally "
-#~ "select \"%2\" from the drop-down list at the top of the window."
+#~ "To change your desktop theme to \"%1\", go back to the 'General' tab of System"
+#~ " Settings; choose 'Appearance', and then 'Style'; and finally select \"%2\" "
+#~ "from the drop-down list at the top of the window."
 #~ msgstr ""
-#~ "പണിയിടത്തിന്റെ പ്രമേയം മാറ്റാന്‍ \"%1\", പണിയിടത്തിന്റെ ഒരുക്കങ്ങള്‍ തുറന്നാല്‍ ഇറങ്ങിവരുന്ന "
-#~ "പട്ടികയില്‍നിന്ന് \"%2\", തെരഞ്ഞെടുക്കുക"
+#~ "പണിയിടത്തിന്റെ പ്രമേയം മാറ്റാന്‍ \"%1\", പണിയിടത്തിന്റെ ഒരുക്കങ്ങള്‍ "
+#~ "തുറന്നാല്‍ ഇറങ്ങിവരുന്ന പട്ടികയില്‍നിന്ന് \"%2\", തെരഞ്ഞെടുക്കുക"
 
 #, fuzzy
 #~ msgid "Removal of the active desktop theme is not allowed."

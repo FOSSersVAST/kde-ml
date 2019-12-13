@@ -12,8 +12,7 @@ msgstr ""
 "POT-Creation-Date: 2019-10-17 03:22+0200\n"
 "PO-Revision-Date: 2019-12-12 22:15+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +23,8 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
+"അനൂപ് പനവളപ്പില്‍, ഹരി വിഷ്ണു, ഇര്‍ഷാദ് കെ, പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -193,7 +193,8 @@ msgstr "ഇന്‍പുട്ട് നടപടികള്‍ക്കു�
 #: kcm_hotkeys/global_settings_widget.ui:38
 #, kde-format
 msgid "Start the Input Actions daemon on login"
-msgstr "ഇന്‍പുട്ട് നടപടികള്‍ക്കുള്ള നിരന്തരപ്രവ്രത്തി അകത്തുകയറുമ്പോള്‍ തുടങ്ങുക"
+msgstr ""
+"ഇന്‍പുട്ട് നടപടികള്‍ക്കുള്ള നിരന്തരപ്രവ്രത്തി അകത്തുകയറുമ്പോള്‍ തുടങ്ങുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gestures_group)
 #: kcm_hotkeys/global_settings_widget.ui:48
@@ -227,14 +228,13 @@ msgstr "ആംഗ്യം മാറ്റുക"
 #: kcm_hotkeys/helper_widgets/edit_gesture_dialog.cpp:36
 #, kde-format
 msgid ""
-"Draw the gesture you would like to record below. Press and hold the left "
-"mouse button while drawing, and release when you have finished."
+"Draw the gesture you would like to record below. Press and hold the left mouse"
+" button while drawing, and release when you have finished."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, menu_button)
 #. i18n: ectx: property (text), widget (QPushButton, edit_button)
-#: kcm_hotkeys/helper_widgets/gesture_widget.ui:19
-#: kcm_hotkeys/kcm_hotkeys.ui:29
+#: kcm_hotkeys/helper_widgets/gesture_widget.ui:19 kcm_hotkeys/kcm_hotkeys.ui:29
 #, kde-format
 msgid "Edit"
 msgstr "ചിട്ട"
@@ -511,31 +511,17 @@ msgstr "നടപടി"
 #: kcm_hotkeys/hotkeys_export_widget.ui:40
 #, kde-format
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">Configure in which state "
-"the actions should be exported.</p>\n"
-"<p style=\" margin-top:8px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">Actual State</p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:30px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">Export the actions in "
-"their current state.</p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">Disabled</p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:30px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">Export the actions in a "
-"disabled state.</p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">Enabled</p>\n"
-"<p style=\" margin-top:0px; margin-bottom:8px; margin-left:30px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">Export the actions in an "
-"enabled state.</p></body></html>"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Configure in which state the actions should be exported.</p>\n"
+"<p style=\" margin-top:8px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Actual State</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:30px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Export the actions in their current state.</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Disabled</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:30px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Export the actions in a disabled state.</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Enabled</p>\n"
+"<p style=\" margin-top:0px; margin-bottom:8px; margin-left:30px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Export the actions in an enabled state.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, state)
@@ -655,8 +641,8 @@ msgid ""
 "The current action has unsaved changes.\n"
 "Do you want to apply the changes or discard them?"
 msgstr ""
-"നിലവിലുള്ള പ്രവര്‍ത്തിയില്‍ സൂക്ഷിക്കാത്ത വ്യത്യാസങ്ങള്‍ ഉണ്ട്. നിങ്ങള്‍ തുടര്‍നാല്‍ ഈ വ്യത്യാസങ്ങള്‍ "
-"നഷ്ടപെടും."
+"നിലവിലുള്ള പ്രവര്‍ത്തിയില്‍ സൂക്ഷിക്കാത്ത വ്യത്യാസങ്ങള്‍ ഉണ്ട്. നിങ്ങള്‍ "
+"തുടര്‍നാല്‍ ഈ വ്യത്യാസങ്ങള്‍ നഷ്ടപെടും."
 
 #: kcm_hotkeys/kcm_hotkeys.cpp:335
 #, kde-format
@@ -669,8 +655,8 @@ msgid ""
 "Unable to contact khotkeys. Your changes are saved, but they could not be "
 "activated."
 msgstr ""
-"khotkeys-ആയി ബന്ധപ്പെടാന്‍ കഴിയുന്നില്ല. നിങ്ങളുടെ മാറ്റങ്ങള്‍ സംരക്ഷിച്ചു പക്ഷെ എനിക്കിവ "
-"സജീവമാക്കാന്‍ കഴിയുന്നില്ല."
+"khotkeys-ആയി ബന്ധപ്പെടാന്‍ കഴിയുന്നില്ല. നിങ്ങളുടെ മാറ്റങ്ങള്‍ സംരക്ഷിച്ചു "
+"പക്ഷെ എനിക്കിവ സജീവമാക്കാന്‍ കഴിയുന്നില്ല."
 
 #. i18n: ectx: property (text), widget (QPushButton, settings_button)
 #: kcm_hotkeys/kcm_hotkeys.ui:36
@@ -801,19 +787,21 @@ msgstr "മെനു എഡിറ്റര്‍ എന്‍ട്രികള�
 #: libkhotkeysprivate/settings.cpp:320
 #, kde-format
 msgid ""
-"This \"actions\" file has already been imported before. Are you sure you "
-"want to import it again?"
-msgstr "ഈ \"നടപടികള്‍\" ഫയല്‍  നേരത്തെ എടുത്തതാണു്. നിങ്ങള്‍ക്ക് ഇത് വീണ്ടും എടുക്കണം എന്നുറപ്പാണോ ?"
+"This \"actions\" file has already been imported before. Are you sure you want "
+"to import it again?"
+msgstr ""
+"ഈ \"നടപടികള്‍\" ഫയല്‍  നേരത്തെ എടുത്തതാണു്. നിങ്ങള്‍ക്ക് ഇത് വീണ്ടും എടുക്കണം "
+"എന്നുറപ്പാണോ ?"
 
 #: libkhotkeysprivate/settings.cpp:348
 #, kde-format
 msgid ""
 "This \"actions\" file has no ImportId field and therefore it cannot be "
-"determined whether or not it has been imported already. Are you sure you "
-"want to import it?"
+"determined whether or not it has been imported already. Are you sure you want "
+"to import it?"
 msgstr ""
-"ഈ \"നടപടികള്‍ \" ഫയലില്‍  ImportId സ്ഥാനം ഇല്ല, അതിനാല്‍ ഇത് നേരത്തെ എടുത്തിട്ടുണ്ടോ "
-"എന്നറിയാന്‍ കഴിയില്ല. നിങ്ങള്‍ക്ക് ഇത് എടുക്കണം എന്നുറപ്പാണോ?"
+"ഈ \"നടപടികള്‍ \" ഫയലില്‍  ImportId സ്ഥാനം ഇല്ല, അതിനാല്‍ ഇത് നേരത്തെ "
+"എടുത്തിട്ടുണ്ടോ എന്നറിയാന്‍ കഴിയില്ല. നിങ്ങള്‍ക്ക് ഇത് എടുക്കണം എന്നുറപ്പാണോ?"
 
 #: libkhotkeysprivate/triggers/gesture_trigger.cpp:126
 #, kde-format

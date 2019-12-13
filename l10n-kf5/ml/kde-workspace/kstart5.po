@@ -11,8 +11,7 @@ msgstr ""
 "POT-Creation-Date: 2019-07-08 03:06+0200\n"
 "PO-Revision-Date: 2019-12-12 22:53+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +23,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "ഹരി വിഷ്ണു,Afsal Askar"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -40,8 +39,7 @@ msgstr "കെസ്റ്റാര്‍ട്ട്"
 #, kde-format
 msgid ""
 "Utility to launch applications with special window properties \n"
-"such as iconified, maximized, a certain virtual desktop, a special "
-"decoration\n"
+"such as iconified, maximized, a certain virtual desktop, a special decoration\n"
 "and so on."
 msgstr ""
 "ചിഹ്നമാക്കിയ, വലുതാക്കിയ, ഒരു സാങ്കല്പിക പണിയിടം, ഒരു പ്രത്യേക\n"
@@ -76,8 +74,8 @@ msgstr "നടത്തുവാനുള്ള ആജ്ഞ"
 #: kstart.cpp:319
 #, kde-format
 msgid ""
-"Alternative to <command>: desktop file to start. D-Bus service will be "
-"printed to stdout"
+"Alternative to <command>: desktop file to start. D-Bus service will be printed"
+" to stdout"
 msgstr ""
 
 #: kstart.cpp:320

@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-11-26 03:02+0100\n"
 "PO-Revision-Date: 2019-12-12 21:32+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -590,13 +589,15 @@ msgstr ""
 msgid "Edge Probability"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_completeBipartiteNodesLeft)
+#. i18n: ectx: property (text), widget (QLabel,
+#. label_completeBipartiteNodesLeft)
 #: editorplugins/generategraph/generategraphwidget.ui:549
 #, kde-format
 msgid "Left Set Nodes:"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_completeBipartiteNodesRight)
+#. i18n: ectx: property (text), widget (QLabel,
+#. label_completeBipartiteNodesRight)
 #: editorplugins/generategraph/generategraphwidget.ui:563
 #, kde-format
 msgid "Right Set Nodes:"
@@ -644,7 +645,8 @@ msgstr ""
 msgid "Transform Edges"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QRadioButton, radioButtonMakeComplete)
+#. i18n: ectx: property (toolTip), widget (QRadioButton,
+#. radioButtonMakeComplete)
 #: editorplugins/transformedges/transformedgeswidget.ui:22
 #, kde-format
 msgid ""
@@ -664,7 +666,8 @@ msgstr ""
 msgid "Remove all Edges"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QRadioButton, radioButtonReverseEdges)
+#. i18n: ectx: property (toolTip), widget (QRadioButton,
+#. radioButtonReverseEdges)
 #: editorplugins/transformedges/transformedgeswidget.ui:45
 #, kde-format
 msgid ""
@@ -678,26 +681,20 @@ msgstr ""
 msgid "Reverse all Edges"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QRadioButton, radioButtonMakeSpanningtree)
+#. i18n: ectx: property (toolTip), widget (QRadioButton,
+#. radioButtonMakeSpanningtree)
 #: editorplugins/transformedges/transformedgeswidget.ui:59
 #, kde-format
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">This option executes <span "
-"style=\" font-style:italic;\">Prim's Minimal Spanning Tree Algorithm</span> "
-"at the graph. All edges without given weights are assumed to have weights "
-"equals 1. Directed and undirected graphs are processed accordingly.</p></"
-"body></html>"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:9pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">This option executes <span style=\" font-style:italic;\">Prim's Minimal Spanning Tree Algorithm</span> at the graph. All edges without given weights are assumed to have weights equals 1. Directed and undirected graphs are processed accordingly.</p></body></html>"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QRadioButton, radioButtonMakeSpanningtree)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. radioButtonMakeSpanningtree)
 #: editorplugins/transformedges/transformedgeswidget.ui:62
 #, kde-format
 msgid "Spanning Tree Transformation"
@@ -716,8 +713,7 @@ msgstr ""
 
 #: fileformats/dot/dotfileformat.cpp:68 fileformats/gml/gmlfileformat.cpp:67
 #: fileformats/rocs1/rocs1fileformat.cpp:74
-#: fileformats/rocs2/rocs2fileformat.cpp:63
-#: fileformats/tgf/tgffileformat.cpp:68
+#: fileformats/rocs2/rocs2fileformat.cpp:63 fileformats/tgf/tgffileformat.cpp:68
 #, kde-format
 msgid "Could not open file \"%1\" in read mode: %2"
 msgstr ""
@@ -877,8 +873,8 @@ msgstr ""
 #, kde-format
 msgctxt "Scripting API"
 msgid ""
-"The global Console object allows you to print messages of different "
-"importance to a log."
+"The global Console object allows you to print messages of different importance"
+" to a log."
 msgstr ""
 
 #: kernel/modules/console/console.xml:17
@@ -1023,8 +1019,7 @@ msgstr ""
 msgctxt "Scripting API"
 msgid ""
 "\n"
-"An edge is the connection of two nodes. Edges can be either directed or "
-"undirected, depending on their type.\n"
+"An edge is the connection of two nodes. Edges can be either directed or undirected, depending on their type.\n"
 msgstr ""
 
 #: kernel/modules/document/edge.xml:17
@@ -1059,10 +1054,8 @@ msgctxt "Scripting API"
 msgid ""
 "\n"
 "A node is the data element of a graph.\n"
-"It can have arbitrary dynamic properties that are either set in the editor "
-"or simply assigned on run-time.\n"
-"Note that dynamic properties are only available after script execution, if "
-"they are registered for the node's type.\n"
+"It can have arbitrary dynamic properties that are either set in the editor or simply assigned on run-time.\n"
+"Note that dynamic properties are only available after script execution, if they are registered for the node's type.\n"
 msgstr ""
 
 #: kernel/modules/document/node.xml:19
@@ -1109,8 +1102,8 @@ msgstr ""
 #, kde-format
 msgctxt "Scripting API"
 msgid ""
-"Return a list of all edges (incoming and outgoing) of this node of a "
-"specified type."
+"Return a list of all edges (incoming and outgoing) of this node of a specified"
+" type."
 msgstr ""
 
 #: kernel/modules/document/node.xml:79
@@ -1177,8 +1170,8 @@ msgstr ""
 #, kde-format
 msgctxt "Scripting API"
 msgid ""
-"Return list all nodes connected to this node by an outgoing edge of "
-"specified type."
+"Return list all nodes connected to this node by an outgoing edge of specified "
+"type."
 msgstr ""
 
 #: kernel/modules/document/node.xml:194

@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -38,8 +38,8 @@ msgstr ""
 #: generalsettings.ui:28
 #, kde-format
 msgid ""
-"Enabling the following option will make the game steal the mouse cursor, "
-"pause the game to get the cursor back."
+"Enabling the following option will make the game steal the mouse cursor, pause"
+" the game to get the cursor back."
 msgstr ""
 
 #. i18n: ectx: label, entry (FireOnClick), group (General)
@@ -234,7 +234,8 @@ msgstr "പന്തുതിര്‍ക്കാന്‍ %1 അമര്‍�
 
 #~ msgid "Failed to load \"%1\" theme. Please check your installation."
 #~ msgstr ""
-#~ "\"%1\" പ്രമേയം ലോഡ് ചെയ്യാന്‍ കഴിഞ്ഞില്ല. ദയവായി നിങ്ങളുടെ ഇന്‍സ്റ്റളേഷന്‍ പരിശോധിക്കുക."
+#~ "\"%1\" പ്രമേയം ലോഡ് ചെയ്യാന്‍ കഴിഞ്ഞില്ല. ദയവായി നിങ്ങളുടെ ഇന്‍സ്റ്റളേഷന്‍ "
+#~ "പരിശോധിക്കുക."
 
 #~ msgid "Pause"
 #~ msgstr "താത്കാലികമായി നിര്‍ത്തുക"

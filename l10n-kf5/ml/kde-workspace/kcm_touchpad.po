@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-06-20 03:22+0200\n"
 "PO-Revision-Date: 2019-12-12 22:24+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -111,8 +110,7 @@ msgstr ""
 
 #: src/kcm/libinput/touchpad.qml:206 src/kcm/libinput/touchpad.qml:721
 #, kde-format
-msgid ""
-"Clicking left and right button simultaneously sends middle button click."
+msgid "Clicking left and right button simultaneously sends middle button click."
 msgstr ""
 
 #: src/kcm/libinput/touchpad.qml:237
@@ -355,8 +353,8 @@ msgstr ""
 #: src/kcm/libinput/touchpadconfiglibinput.cpp:115
 #, kde-format
 msgid ""
-"Error while loading values. See logs for more information. Please restart "
-"this configuration module."
+"Error while loading values. See logs for more information. Please restart this"
+" configuration module."
 msgstr ""
 
 #: src/kcm/libinput/touchpadconfiglibinput.cpp:120
@@ -612,7 +610,8 @@ msgid "Enable/Disable Touchpad"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, configureShortcutsButton)
-#. i18n: ectx: property (text), widget (QPushButton, configureNotificationsButton)
+#. i18n: ectx: property (text), widget (QPushButton,
+#. configureNotificationsButton)
 #: src/kcm/xlib/ui/kded.ui:35 src/kcm/xlib/ui/kded.ui:146
 #, kde-format
 msgid "Configure..."
@@ -624,7 +623,8 @@ msgstr ""
 msgid "Keyboard shortcuts:"
 msgstr ""
 
-#. i18n: ectx: property (title), widget (QGroupBox, kcfg_DisableOnKeyboardActivity)
+#. i18n: ectx: property (title), widget (QGroupBox,
+#. kcfg_DisableOnKeyboardActivity)
 #: src/kcm/xlib/ui/kded.ui:60
 #, kde-format
 msgid "Disable touchpad when typing"
@@ -636,7 +636,8 @@ msgstr ""
 msgid "Timeout:"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_KeyboardActivityTimeoutMs)
+#. i18n: ectx: property (toolTip), widget (QSpinBox,
+#. kcfg_KeyboardActivityTimeoutMs)
 #: src/kcm/xlib/ui/kded.ui:86
 #, kde-format
 msgid ""
@@ -648,7 +649,8 @@ msgstr ""
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_MaxTapTime)
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_MaxDoubleTapTime)
 #. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_SingleTapTimeout)
-#. i18n: ectx: property (suffix), widget (QSpinBox, kcfg_KeyboardActivityTimeoutMs)
+#. i18n: ectx: property (suffix), widget (QSpinBox,
+#. kcfg_KeyboardActivityTimeoutMs)
 #: src/kcm/xlib/ui/kded.ui:98 src/kcm/xlib/ui/tap.ui:306
 #: src/kcm/xlib/ui/tap.ui:401 src/kcm/xlib/ui/tap.ui:439
 #: src/kcm/xlib/ui/tap.ui:458
@@ -656,22 +658,24 @@ msgstr ""
 msgid " ms"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_OnlyDisableTapAndScrollOnKeyboardActivity)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. kcfg_OnlyDisableTapAndScrollOnKeyboardActivity)
 #: src/kcm/xlib/ui/kded.ui:106
 #, kde-format
 msgid ""
 "Disable click emulation and scrolling.\n"
-"You will be still able to move pointer using touchpad and perform clicks "
-"with hardware buttons."
+"You will be still able to move pointer using touchpad and perform clicks with hardware buttons."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_OnlyDisableTapAndScrollOnKeyboardActivity)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_OnlyDisableTapAndScrollOnKeyboardActivity)
 #: src/kcm/xlib/ui/kded.ui:109
 #, kde-format
 msgid "Disable taps and scrolling only"
 msgstr ""
 
-#. i18n: ectx: property (title), widget (QGroupBox, kcfg_DisableWhenMousePluggedIn)
+#. i18n: ectx: property (title), widget (QGroupBox,
+#. kcfg_DisableWhenMousePluggedIn)
 #: src/kcm/xlib/ui/kded.ui:119
 #, kde-format
 msgid "Disable touchpad when mouse is plugged in"
@@ -694,8 +698,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "Some devices might be incorrectly treated as a mouse.\n"
-"You can add them to this list so that they will be ignored when they're "
-"plugged in."
+"You can add them to this list so that they will be ignored when they're plugged in."
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, PointerMotionForm)
@@ -797,13 +800,15 @@ msgstr ""
 msgid "Finger pressure at which maximum pressure motion factor is applied"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_PressureMotionMinFactor)
+#. i18n: ectx: property (toolTip), widget (QSpinBox,
+#. kcfg_PressureMotionMinFactor)
 #: src/kcm/xlib/ui/pointermotion.ui:179
 #, kde-format
 msgid "Lowest setting for pressure motion factor"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QSpinBox, kcfg_PressureMotionMaxFactor)
+#. i18n: ectx: property (toolTip), widget (QSpinBox,
+#. kcfg_PressureMotionMaxFactor)
 #: src/kcm/xlib/ui/pointermotion.ui:189
 #, kde-format
 msgid "Greatest setting for pressure motion factor"
@@ -950,7 +955,8 @@ msgid "Vertical:"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_VertScrollDelta)
-#. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, kcfg_HorizScrollDelta)
+#. i18n: ectx: property (toolTip), widget (QDoubleSpinBox,
+#. kcfg_HorizScrollDelta)
 #: src/kcm/xlib/ui/scroll.ui:148 src/kcm/xlib/ui/scroll.ui:177
 #, kde-format
 msgid "Move distance of the finger for a scroll event"
@@ -1139,16 +1145,15 @@ msgstr ""
 #: src/kcm/xlib/ui/sensitivity.ui:62
 #, kde-format
 msgid ""
-"When finger pressure drops below this value, the driver counts it as a "
-"release"
+"When finger pressure drops below this value, the driver counts it as a release"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QGroupBox, kcfg_PalmDetect)
 #: src/kcm/xlib/ui/sensitivity.ui:78
 #, kde-format
 msgid ""
-"If palm detection should be enabled. Note that this also requires hardware/"
-"firmware support from the touchpad"
+"If palm detection should be enabled. Note that this also requires "
+"hardware/firmware support from the touchpad"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_PalmDetect)
@@ -1300,8 +1305,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "This gesture is an alternative way of dragging. It is performed by tapping "
-"(touching and releasing the finger), then touching again and moving the "
-"finger on the touchpad"
+"(touching and releasing the finger), then touching again and moving the finger"
+" on the touchpad"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_TapAndDragGesture)

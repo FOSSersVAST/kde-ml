@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-04 02:32+0100\n"
+"POT-Creation-Date: 2019-12-13 02:37+0100\n"
 "PO-Revision-Date: 2019-12-12 21:16+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -22,7 +22,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍, ഹരി വിഷ്ണു, ഇര്‍ഷാദ് കെ"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -88,8 +88,8 @@ msgstr ""
 msgctxt "@info:shell"
 msgid "Set the initial working directory of the new tab or window to 'dir'"
 msgstr ""
-"ഒരു പുതിയ കിളിവാതിലോ ജാലകമോ തുറക്കുമ്പോള്‍ ആദ്യമായി കയറുന്ന തട്ടു് 'ഡിഐആര്‍ (dir)' "
-"എന്നതിലേയ്ക്കു് സജ്ജീകരിയ്ക്കുക"
+"ഒരു പുതിയ കിളിവാതിലോ ജാലകമോ തുറക്കുമ്പോള്‍ ആദ്യമായി കയറുന്ന തട്ടു് 'ഡിഐആര്‍ "
+"(dir)' എന്നതിലേയ്ക്കു് സജ്ജീകരിയ്ക്കുക"
 
 #: Application.cpp:73
 #, fuzzy, kde-format
@@ -100,9 +100,10 @@ msgstr "ആദ്യത്തെ സെഷന്‍ അവസാനിയ്ക�
 #: Application.cpp:76
 #, fuzzy, kde-format
 msgctxt "@info:shell"
-msgid ""
-"Create a new tab in an existing window rather than creating a new window"
-msgstr "പുതിയൊരു ജാലകം തുറക്കുന്നതിനു് പകരം നിലവിലുള്ള ജാലകത്തില്‍ തന്നെ ഒരു കിളിവാതില്‍ തുറക്കുക"
+msgid "Create a new tab in an existing window rather than creating a new window"
+msgstr ""
+"പുതിയൊരു ജാലകം തുറക്കുന്നതിനു് പകരം നിലവിലുള്ള ജാലകത്തില്‍ തന്നെ ഒരു "
+"കിളിവാതില്‍ തുറക്കുക"
 
 #: Application.cpp:79
 #, kde-format
@@ -114,10 +115,11 @@ msgstr ""
 #, fuzzy, kde-format
 msgctxt "@info:shell"
 msgid ""
-"Start Konsole in the background and bring to the front when Ctrl+Shift+F12 "
-"(by default) is pressed"
+"Start Konsole in the background and bring to the front when Ctrl+Shift+F12 (by"
+" default) is pressed"
 msgstr ""
-"കണ്‍സോള്‍ പശ്ചാത്തലത്തില്‍ തുറക്കുകയും F12 എന്ന കീ അമര്‍ത്തുമ്പോള്‍ മുന്‍വശത്തേയ്ക്കു് കൊണ്ടുവരികയും ചെയ്യുക"
+"കണ്‍സോള്‍ പശ്ചാത്തലത്തില്‍ തുറക്കുകയും F12 എന്ന കീ അമര്‍ത്തുമ്പോള്‍ "
+"മുന്‍വശത്തേയ്ക്കു് കൊണ്ടുവരികയും ചെയ്യുക"
 
 #: Application.cpp:86
 #, kde-format
@@ -159,7 +161,9 @@ msgstr ""
 #, fuzzy, kde-format
 msgctxt "@info:shell"
 msgid "Disable transparent backgrounds, even if the system supports them."
-msgstr "സിസ്റ്റം പിന്തുണയ്ക്കുമെങ്കിലും പുറകിലുള്ളതു് കാണുന്നതു് പ്രാവര്‍ത്തികമല്ലാതാക്കുക."
+msgstr ""
+"സിസ്റ്റം പിന്തുണയ്ക്കുമെങ്കിലും പുറകിലുള്ളതു് കാണുന്നതു് "
+"പ്രാവര്‍ത്തികമല്ലാതാക്കുക."
 
 #: Application.cpp:107
 #, fuzzy, kde-format
@@ -183,8 +187,8 @@ msgstr "പ്രൊഫൈലിലെ ഗുണത്തിന്റെ വി�
 #, kde-format
 msgctxt "@info:shell"
 msgid ""
-"Command to execute. This option will catch all following arguments, so use "
-"it as the last option."
+"Command to execute. This option will catch all following arguments, so use it "
+"as the last option."
 msgstr ""
 
 #: Application.cpp:126
@@ -391,7 +395,7 @@ msgctxt "@item:intable palette"
 msgid "Color 8 (Faint)"
 msgstr "നിറം 8 (തീവ്രമായ)"
 
-#: ColorScheme.cpp:435
+#: ColorScheme.cpp:436
 #, fuzzy, kde-format
 msgctxt "@item"
 msgid "Un-named Color Scheme"
@@ -425,11 +429,11 @@ msgstr "ലിനക്സിന്റെ നിറങ്ങള്‍"
 #, fuzzy, kde-format
 msgctxt "@info:status"
 msgid ""
-"The background transparency setting will not be used because your desktop "
-"does not appear to support transparent windows."
+"The background transparency setting will not be used because your desktop does"
+" not appear to support transparent windows."
 msgstr ""
-"പുറകില്‍ കാണാവുന്ന ജാലകങ്ങള്‍ക്കുള്ള പിന്തുണ നിങ്ങളുടെ പണിയിടത്തിലില്ലാത്തതു് കൊണ്ടു് പുറകിലോട്ടു് "
-"കാണുന്ന പശ്ചാത്തലത്തിനുള്ള സജ്ജീകരണം ഉപയോഗിയ്ക്കുകയില്ല."
+"പുറകില്‍ കാണാവുന്ന ജാലകങ്ങള്‍ക്കുള്ള പിന്തുണ നിങ്ങളുടെ പണിയിടത്തിലില്ലാത്തതു് "
+"കൊണ്ടു് പുറകിലോട്ടു് കാണുന്ന പശ്ചാത്തലത്തിനുള്ള സജ്ജീകരണം ഉപയോഗിയ്ക്കുകയില്ല."
 
 #: ColorSchemeEditor.cpp:210
 #, kde-format
@@ -484,9 +488,7 @@ msgstr "വിവരണം:"
 #: ColorSchemeEditor.ui:50
 #, kde-format
 msgid ""
-"Hue and saturation values of default foreground and background colors are "
-"randomized by default. Some color schemes might use different randomization "
-"settings.\n"
+"Hue and saturation values of default foreground and background colors are randomized by default. Some color schemes might use different randomization settings.\n"
 "To see any effect, set colors with saturation value greater than 0."
 msgstr ""
 
@@ -620,7 +622,9 @@ msgstr ""
 #: EditProfileAdvancedPage.ui:198
 #, kde-format
 msgid "Allow terminal programs to create blinking sections of text"
-msgstr "ടെര്‍മിനല്‍ പ്രോഗ്രാമുകള്‍ക്കു് മിന്നുന്ന പദാവലിയുടെ ഭാഗങ്ങള്‍ സൃഷ്ടിയ്ക്കാന്‍ അനുവാദം നല്‍കുക"
+msgstr ""
+"ടെര്‍മിനല്‍ പ്രോഗ്രാമുകള്‍ക്കു് മിന്നുന്ന പദാവലിയുടെ ഭാഗങ്ങള്‍ സൃഷ്ടിയ്ക്കാന്‍"
+" അനുവാദം നല്‍കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableBlinkingTextButton)
 #: EditProfileAdvancedPage.ui:201
@@ -644,11 +648,11 @@ msgstr ""
 #: EditProfileAdvancedPage.ui:230
 #, kde-format
 msgid ""
-"Enable Bi-Directional display on terminals (valid for Arabic, Farsi or "
-"Hebrew only)"
+"Enable Bi-Directional display on terminals (valid for Arabic, Farsi or Hebrew "
+"only)"
 msgstr ""
-"ടെര്‍മിനലുകളില്‍ രണ്ടു്-ദിശയിലുമുള്ള പ്രദര്‍ശനം അനുവദിയ്ക്കുക (അറബി, പാര്‍സി അല്ലെങ്കില്‍ ഹീബ്രു "
-"എന്നിവയ്ക്കു് മാത്രം ബാധകം)"
+"ടെര്‍മിനലുകളില്‍ രണ്ടു്-ദിശയിലുമുള്ള പ്രദര്‍ശനം അനുവദിയ്ക്കുക (അറബി, പാര്‍സി "
+"അല്ലെങ്കില്‍ ഹീബ്രു എന്നിവയ്ക്കു് മാത്രം ബാധകം)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableBidiRenderingButton)
 #: EditProfileAdvancedPage.ui:233
@@ -672,7 +676,8 @@ msgstr "നിറങ്ങളുടെ പദ്ധതിയും &പശ്ച
 #: EditProfileAppearancePage.ui:66
 #, kde-format
 msgid "Create a new color scheme based upon the selected scheme"
-msgstr "തെരഞ്ഞെടുത്ത പദ്ധതിയെ അടിസ്ഥാനമാക്കി പുതിയൊരു നിറങ്ങളുടെ പദ്ധതി സൃഷ്ടിയ്ക്കുക"
+msgstr ""
+"തെരഞ്ഞെടുത്ത പദ്ധതിയെ അടിസ്ഥാനമാക്കി പുതിയൊരു നിറങ്ങളുടെ പദ്ധതി സൃഷ്ടിയ്ക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, newColorSchemeButton)
 #: EditProfileAppearancePage.ui:69
@@ -755,7 +760,8 @@ msgstr "മൃദുലമായ അക്ഷരസഞ്ചയങ്ങള്�
 msgid "Draw intense colors in bold font"
 msgstr "കടും നിറങ്ങള്‍ കട്ടിയുള്ള അക്ഷരത്തില്‍ കാണിയ്ക്കുക"
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, useFontLineCharactersButton)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. useFontLineCharactersButton)
 #: EditProfileAppearancePage.ui:195
 #, kde-format
 msgid "Use the selected font for line characters instead of the builtin code"
@@ -812,7 +818,8 @@ msgstr "നിറം"
 #, kde-format
 msgid "Set the cursor to match the color of the character underneath it."
 msgstr ""
-"കര്‍സറിന്റെ പുറകെയുള്ള അക്ഷരത്തിന്റെ നിറവുമായി പൊരുത്തമുള്ള നിറമായി കര്‍സര്‍ സജ്ജീകരിയ്ക്കുക."
+"കര്‍സറിന്റെ പുറകെയുള്ള അക്ഷരത്തിന്റെ നിറവുമായി പൊരുത്തമുള്ള നിറമായി കര്‍സര്‍ "
+"സജ്ജീകരിയ്ക്കുക."
 
 #. i18n: ectx: property (text), widget (QRadioButton, autoCursorColorButton)
 #: EditProfileAppearancePage.ui:307
@@ -820,7 +827,8 @@ msgstr ""
 msgid "Match current character"
 msgstr "ഇപ്പോഴുള്ള അക്ഷരവുമായി പൊരുത്തമുള്ള നിറമായി കര്‍സര്‍ സജ്ജീകരിയ്ക്കുക"
 
-#. i18n: ectx: property (toolTip), widget (QRadioButton, customCursorColorButton)
+#. i18n: ectx: property (toolTip), widget (QRadioButton,
+#. customCursorColorButton)
 #: EditProfileAppearancePage.ui:328
 #, kde-format
 msgid "Use a custom, fixed color for the cursor"
@@ -832,7 +840,8 @@ msgstr "ഇഷ്ടപ്പെട്ട മാറ്റേണ്ടാത്�
 msgid "Custom cursor color:"
 msgstr "കര്‍സറിന്റെ ഇഷ്ടപ്പെട്ട നിറം:"
 
-#. i18n: ectx: property (toolTip), widget (KColorButton, customColorSelectButton)
+#. i18n: ectx: property (toolTip), widget (KColorButton,
+#. customColorSelectButton)
 #: EditProfileAppearancePage.ui:347
 #, kde-format
 msgid "Select the color used to draw the cursor"
@@ -844,7 +853,8 @@ msgstr "കര്‍സര്‍ വരയ്ക്കാനുപയോഗി�
 msgid "Blinking:"
 msgstr "മിന്നുന്ന കര്‍സര്‍"
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, enableBlinkingCursorButton)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. enableBlinkingCursorButton)
 #: EditProfileAppearancePage.ui:404
 #, kde-format
 msgid "Make the cursor blink regularly"
@@ -910,13 +920,13 @@ msgstr ""
 msgid "Window:"
 msgstr "ജാലകം"
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, showTerminalSizeHintButton)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. showTerminalSizeHintButton)
 #. i18n: ectx: tooltip, entry (ShowTerminalSizeHint), group (KonsoleWindow)
 #: EditProfileAppearancePage.ui:609 settings/konsole.kcfg:29
 #, kde-format
 msgid ""
-"Show terminal size in columns and lines in the center of window after "
-"resizing"
+"Show terminal size in columns and lines in the center of window after resizing"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowTerminalSizeHint)
@@ -990,9 +1000,9 @@ msgstr "നൂതനമായ"
 #: EditProfileDialog.cpp:299
 #, kde-format
 msgid ""
-"<p>Konsole does not have permission to save this profile to:<br /> \"%1\"</"
-"p><p>To be able to save settings you can either change the permissions of "
-"the profile configuration file or change the profile name to save the "
+"<p>Konsole does not have permission to save this profile to:<br /> "
+"\"%1\"</p><p>To be able to save settings you can either change the permissions"
+" of the profile configuration file or change the profile name to save the "
 "settings to a new profile.</p>"
 msgstr ""
 
@@ -1069,8 +1079,9 @@ msgid ""
 "This color scheme uses a transparent background which does not appear to be "
 "supported on your desktop"
 msgstr ""
-"ഈ നിറങ്ങളുടെ പദ്ധതിയ്ക്കു് പുറകില്‍ കാണാവുന്ന തരത്തിലുള്ള പശ്ചാത്തലമുണ്ടെങ്കിലും നിങ്ങളുടെ "
-"പണിയിടത്തില്‍ അതിനുള്ള പിന്തുണയുള്ളതായി കാണുന്നില്ല"
+"ഈ നിറങ്ങളുടെ പദ്ധതിയ്ക്കു് പുറകില്‍ കാണാവുന്ന തരത്തിലുള്ള "
+"പശ്ചാത്തലമുണ്ടെങ്കിലും നിങ്ങളുടെ പണിയിടത്തില്‍ അതിനുള്ള പിന്തുണയുള്ളതായി "
+"കാണുന്നില്ല"
 
 #: EditProfileDialog.cpp:1342
 #, kde-format
@@ -1088,7 +1099,9 @@ msgstr ""
 #: EditProfileGeneralPage.ui:55
 #, kde-format
 msgid "Select the icon displayed on tabs using this profile"
-msgstr "ഈ പ്രൊഫൈലുപയോഗിയ്ക്കുമ്പോള്‍ കിളിവാതിലുകളില്‍ കാണിയ്ക്കേണ്ട ചിഹ്നം തെരഞ്ഞെടുക്കുക"
+msgstr ""
+"ഈ പ്രൊഫൈലുപയോഗിയ്ക്കുമ്പോള്‍ കിളിവാതിലുകളില്‍ കാണിയ്ക്കേണ്ട ചിഹ്നം "
+"തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, profileNameEdit)
 #: EditProfileGeneralPage.ui:71
@@ -1115,7 +1128,9 @@ msgstr "ആജ്ഞ:"
 msgid ""
 "The command to execute when new terminal sessions are created using this "
 "profile"
-msgstr "ഈ പ്രൊഫൈല്‍ ഉപയോഗിച്ചു് പുതിയ ടെര്‍മിനല്‍ സെഷനുകള്‍ സൃഷ്ടിയ്ക്കുമ്പോള്‍ പ്രവര്‍ത്തിപ്പിയ്ക്കേണ്ട ആജ്ഞ"
+msgstr ""
+"ഈ പ്രൊഫൈല്‍ ഉപയോഗിച്ചു് പുതിയ ടെര്‍മിനല്‍ സെഷനുകള്‍ സൃഷ്ടിയ്ക്കുമ്പോള്‍ "
+"പ്രവര്‍ത്തിപ്പിയ്ക്കേണ്ട ആജ്ഞ"
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, commandEdit)
 #: EditProfileGeneralPage.ui:106
@@ -1135,7 +1150,8 @@ msgstr "തുടക്കത്തിലെ തട്ടു്:"
 msgid ""
 "The initial working directory for new terminal sessions using this profile"
 msgstr ""
-"ഈ പ്രൊഫൈല്‍ ഉപയോഗിച്ചു് പുതിയ ടെര്‍മിനല്‍ സെഷനുകള്‍ സൃഷ്ടിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട തുടക്കത്തിലെ തട്ടു്"
+"ഈ പ്രൊഫൈല്‍ ഉപയോഗിച്ചു് പുതിയ ടെര്‍മിനല്‍ സെഷനുകള്‍ സൃഷ്ടിയ്ക്കുമ്പോള്‍ "
+"ഉപയോഗിയ്ക്കേണ്ട തുടക്കത്തിലെ തട്ടു്"
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, initialDirEdit)
 #: EditProfileGeneralPage.ui:138
@@ -1179,9 +1195,9 @@ msgstr "ടെര്‍മിനലിന്റെ കഴിവുകള്‍"
 #, kde-format
 msgctxt "@info"
 msgid ""
-"<html><head/><body><p><span style=\" font-style:italic;\">Settings → "
-"Configure Konsole → General → Remember window size</span> must be disabled "
-"for these entries to work.</p></body></html>"
+"<html><head/><body><p><span style=\" font-style:italic;\">Settings → Configure"
+" Konsole → General → Remember window size</span> must be disabled for these "
+"entries to work.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, note)
@@ -1189,19 +1205,22 @@ msgstr ""
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid ""
-"Key bindings control how combinations of keystrokes in the terminal window "
-"are converted into the stream of characters that is then sent to the current "
+"Key bindings control how combinations of keystrokes in the terminal window are"
+" converted into the stream of characters that is then sent to the current "
 "terminal program. For more information on how to customize the key bindings "
 "check the Konsole Handbook."
 msgstr ""
-"ടെര്‍മിനല്‍ ജാലകത്തില്‍ അമര്‍ത്തുന്ന കീകളുടെ കൂട്ടം അക്ഷരങ്ങളുടെ നിരകളായി മാറ്റി നിലവിലുള്ള "
-"ടെര്‍മിനല്‍ പ്രോഗ്രാമിനു് അയച്ചു് കൊടുക്കേണ്ടതെങ്ങനെയെന്നു് കുറുക്കുവഴി അക്ഷരങ്ങള്‍ നിയന്ത്രിയ്ക്കുന്നു."
+"ടെര്‍മിനല്‍ ജാലകത്തില്‍ അമര്‍ത്തുന്ന കീകളുടെ കൂട്ടം അക്ഷരങ്ങളുടെ നിരകളായി "
+"മാറ്റി നിലവിലുള്ള ടെര്‍മിനല്‍ പ്രോഗ്രാമിനു് അയച്ചു് കൊടുക്കേണ്ടതെങ്ങനെയെന്നു് "
+"കുറുക്കുവഴി അക്ഷരങ്ങള്‍ നിയന്ത്രിയ്ക്കുന്നു."
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, newKeyBindingsButton)
 #: EditProfileKeyboardPage.ui:72
 #, fuzzy, kde-format
 msgid "Create a new key bindings scheme based upon the selected bindings"
-msgstr "തെരഞ്ഞെടുത്ത കുറുക്കുവഴികളെ അടിസ്ഥാനമാക്കി പുതിയ കുറുക്കുവഴികളുടെ പട്ടിക ഉണ്ടാക്കുക"
+msgstr ""
+"തെരഞ്ഞെടുത്ത കുറുക്കുവഴികളെ അടിസ്ഥാനമാക്കി പുതിയ കുറുക്കുവഴികളുടെ പട്ടിക "
+"ഉണ്ടാക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, newKeyBindingsButton)
 #: EditProfileKeyboardPage.ui:75
@@ -1240,11 +1259,11 @@ msgstr "മൌസുമായുള്ള വിനിമയം"
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid ""
-"Characters which are considered part of a word when double-clicking to "
-"select whole words in the terminal."
+"Characters which are considered part of a word when double-clicking to select "
+"whole words in the terminal."
 msgstr ""
-"ടെര്‍മിനലില്‍ വച്ചു് രണ്ടു് തവണ ഞെക്കി മുഴുവന്‍ വാക്കും തെരഞ്ഞെടുക്കുമ്പോള്‍ ഒരു വാക്കിന്റെ ഭാഗമായി "
-"കണക്കാക്കേണ്ട അക്ഷരങ്ങള്‍"
+"ടെര്‍മിനലില്‍ വച്ചു് രണ്ടു് തവണ ഞെക്കി മുഴുവന്‍ വാക്കും തെരഞ്ഞെടുക്കുമ്പോള്‍ "
+"ഒരു വാക്കിന്റെ ഭാഗമായി കണക്കാക്കേണ്ട അക്ഷരങ്ങള്‍"
 
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #: EditProfileMousePage.ui:50
@@ -1258,13 +1277,15 @@ msgstr ""
 msgid "Triple-click selects:"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QRadioButton, tripleClickSelectsTheWholeLine)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. tripleClickSelectsTheWholeLine)
 #: EditProfileMousePage.ui:101
 #, fuzzy, kde-format
 msgid "The whole line"
 msgstr "ഇപ്പോഴുള്ള പ്രൊഫൈലിലേക്ക് സൂക്ഷിയ്ക്കുക"
 
-#. i18n: ectx: property (text), widget (QRadioButton, tripleClickSelectsFromMousePosition)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. tripleClickSelectsFromMousePosition)
 #: EditProfileMousePage.ui:111
 #, kde-format
 msgid "From mouse position to the end of line"
@@ -1282,7 +1303,8 @@ msgstr ""
 msgid "From clipboard"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
 
-#. i18n: ectx: property (text), widget (QRadioButton, pasteFromX11SelectionButton)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. pasteFromX11SelectionButton)
 #: EditProfileMousePage.ui:157
 #, fuzzy, kde-format
 msgid "From selection"
@@ -1346,8 +1368,8 @@ msgstr ""
 #: EditProfileMousePage.ui:263
 #, kde-format
 msgid ""
-"Text recognized as a link or an email address will be underlined when "
-"hovered by the mouse pointer."
+"Text recognized as a link or an email address will be underlined when hovered "
+"by the mouse pointer."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, underlineLinksButton)
@@ -1356,7 +1378,8 @@ msgstr ""
 msgid "Underline links"
 msgstr "അടിവര"
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, openLinksByDirectClickButton)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. openLinksByDirectClickButton)
 #: EditProfileMousePage.ui:298
 #, kde-format
 msgid ""
@@ -1410,7 +1433,8 @@ msgstr ""
 msgid "Disable drag && drop menu for files && URLs"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, enableMouseWheelZoomButton)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. enableMouseWheelZoomButton)
 #: EditProfileMousePage.ui:338
 #, kde-format
 msgid "Pressing Ctrl+scrollwheel will increase/decrease the text size."
@@ -1422,7 +1446,8 @@ msgstr ""
 msgid "Allow Ctrl+scrollwheel to zoom text size"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, enableAlternateScrollingButton)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. enableAlternateScrollingButton)
 #: EditProfileMousePage.ui:348
 #, kde-format
 msgid ""
@@ -1430,7 +1455,8 @@ msgid ""
 "Alternate Screen buffer (e.g. less)"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, enableAlternateScrollingButton)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. enableAlternateScrollingButton)
 #: EditProfileMousePage.ui:351
 #, kde-format
 msgid "Enable Alternate Screen buffer scrolling"
@@ -1482,7 +1508,8 @@ msgstr "കിളിവാതിലുകളുടെ പട്ടയുടെ �
 #: EditProfileScrollingPage.ui:159
 #, kde-format
 msgid "Show the scroll bar on the right side of the terminal window"
-msgstr "പുറകിലേയ്ക്കു് നീക്കാനുള്ള പട്ട ടെര്‍മിനലിന്റെ വലതു് വശത്തു് കാണിയ്ക്കുക"
+msgstr ""
+"പുറകിലേയ്ക്കു് നീക്കാനുള്ള പട്ട ടെര്‍മിനലിന്റെ വലതു് വശത്തു് കാണിയ്ക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, scrollBarRightButton)
 #: EditProfileScrollingPage.ui:162
@@ -1495,7 +1522,8 @@ msgstr "വലതു് വശത്തു് കാണിയ്ക്കുക"
 #: EditProfileScrollingPage.ui:172
 #, kde-format
 msgid "Show the scroll bar on the left side of the terminal window"
-msgstr "പുറകിലേയ്ക്കു് നീക്കാനുള്ള പട്ട ടെര്‍മിനലിന്റെ ഇടതു് വശത്തു് കാണിയ്ക്കുക"
+msgstr ""
+"പുറകിലേയ്ക്കു് നീക്കാനുള്ള പട്ട ടെര്‍മിനലിന്റെ ഇടതു് വശത്തു് കാണിയ്ക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, scrollBarLeftButton)
 #: EditProfileScrollingPage.ui:175
@@ -1529,7 +1557,8 @@ msgstr ""
 msgid "Threshold for continuous silence:"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (KPluralHandlingSpinBox, silenceSecondsSpinner)
+#. i18n: ectx: property (toolTip), widget (KPluralHandlingSpinBox,
+#. silenceSecondsSpinner)
 #: EditProfileTabsPage.ui:87
 #, kde-format
 msgid "The threshold for continuous silence to be detected by Konsole"
@@ -1576,9 +1605,9 @@ msgstr "മൃദുലമായ അക്ഷരസഞ്ചയങ്ങള്�
 #, kde-format
 msgctxt "@info:status"
 msgid ""
-"By its very nature, a terminal program requires font characters that are "
-"equal width (monospace). Any non monospaced font may cause display issues. "
-"This should not be necessary except in rare cases."
+"By its very nature, a terminal program requires font characters that are equal"
+" width (monospace). Any non monospaced font may cause display issues. This "
+"should not be necessary except in rare cases."
 msgstr ""
 
 #: HistorySizeDialog.cpp:39
@@ -1633,7 +1662,8 @@ msgstr "ഓര്‍ത്തുവച്ച ഫലം ഒരു നിശ്ച
 msgid "Fixed size:"
 msgstr "ഒരു നിശ്ചിത ദൂരം വരം പുറകിലോട്ടു് പോകുക: "
 
-#. i18n: ectx: property (toolTip), widget (KPluralHandlingSpinBox, historyLineSpinner)
+#. i18n: ectx: property (toolTip), widget (KPluralHandlingSpinBox,
+#. historyLineSpinner)
 #: HistorySizeWidget.ui:73
 #, kde-format
 msgid "Number of lines of output to remember"
@@ -1657,8 +1687,8 @@ msgstr "പുറകിലേയ്ക്കു് പോകാന്‍ പര�
 #, fuzzy, kde-format
 msgid "Do not remember previous output"
 msgstr ""
-"പുറകിലേയ്ക്കു് നീക്കുന്നതിനുള്ള പട്ട പ്രാവര്‍ത്തികമല്ലാതാക്കുകയും മുമ്പത്തെ ഫലം "
-"ഓര്‍ത്തുവയ്ക്കാതിരിയ്ക്കുകയും ചെയ്യുക"
+"പുറകിലേയ്ക്കു് നീക്കുന്നതിനുള്ള പട്ട പ്രാവര്‍ത്തികമല്ലാതാക്കുകയും മുമ്പത്തെ "
+"ഫലം ഓര്‍ത്തുവയ്ക്കാതിരിയ്ക്കുകയും ചെയ്യുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, noHistoryButton)
 #: HistorySizeWidget.ui:177
@@ -1921,8 +1951,7 @@ msgctxt "@info:credit"
 msgid "Chris Machemer"
 msgstr "ക്രിസ് മാക്കിമര്‍"
 
-#: main.cpp:335 main.cpp:338 main.cpp:374 main.cpp:377 main.cpp:380
-#: main.cpp:383
+#: main.cpp:335 main.cpp:338 main.cpp:374 main.cpp:377 main.cpp:380 main.cpp:383
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes"
@@ -2144,8 +2173,12 @@ msgctxt "@info"
 msgid "There is a process running in this window. Do you still want to quit?"
 msgid_plural ""
 "There are %1 processes running in this window. Do you still want to quit?"
-msgstr[0] "ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
-msgstr[1] "ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
+msgstr[0] ""
+"ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് "
+"നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
+msgstr[1] ""
+"ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് "
+"നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 
 #: MainWindow.cpp:609 MainWindow.cpp:628 MainWindow.cpp:646
 #, fuzzy, kde-format
@@ -2169,7 +2202,8 @@ msgstr "ഇപ്പോഴത്തെ കിളിവാതില്‍ അട�
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "There are %1 open terminals in this window. Do you still want to quit?"
-msgstr "ഈ ജാലകത്തില്‍ %1 കിളിവാതിലുകളുണ്ട്, പുറത്തുകടക്കണമെന്ന് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
+msgstr ""
+"ഈ ജാലകത്തില്‍ %1 കിളിവാതിലുകളുണ്ട്, പുറത്തുകടക്കണമെന്ന് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 
 #: MainWindow.cpp:761
 #, fuzzy, kde-format
@@ -2274,8 +2308,9 @@ msgid ""
 "Tab title format used when a remote command (e.g. connection to another "
 "computer via SSH) is being executed"
 msgstr ""
-"വിദൂരത്തൊരു ആജ്ഞ (ഉദാ. എസ്എസ്എച്ച് ഉപയോഗിച്ചു് മറ്റൊരു കമ്പ്യൂട്ടറിലേയ്ക്കുള്ള ബന്ധം) "
-"പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്"
+"വിദൂരത്തൊരു ആജ്ഞ (ഉദാ. എസ്എസ്എച്ച് ഉപയോഗിച്ചു് മറ്റൊരു കമ്പ്യൂട്ടറിലേയ്ക്കുള്ള"
+" ബന്ധം) പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട "
+"കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്"
 
 #: SaveHistoryTask.cpp:81
 #, kde-format
@@ -2285,7 +2320,8 @@ msgstr "%1 ല്‍ നിന്നുള്ള ഫലം സൂക്ഷിയ
 #: SaveHistoryTask.cpp:93
 #, kde-format
 msgid "%1 is an invalid URL, the output could not be saved."
-msgstr "%1 സാധുവല്ലാത്തൊരു യുആര്‍എല്ലായതു് കൊണ്ടു് ഫലം സൂക്ഷിയ്ക്കാന്‍ സാധ്യമല്ല."
+msgstr ""
+"%1 സാധുവല്ലാത്തൊരു യുആര്‍എല്ലായതു് കൊണ്ടു് ഫലം സൂക്ഷിയ്ക്കാന്‍ സാധ്യമല്ല."
 
 #: SaveHistoryTask.cpp:175
 #, kde-format
@@ -2388,8 +2424,8 @@ msgid ""
 "Could not find '%1', starting '%2' instead.  Please check your profile "
 "settings."
 msgstr ""
-"'%1' കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, ഇതിനുപകരം '%2' തുടങ്ങുന്നു. നിങ്ങളുടെ പ്രൊഫൈലിന്റെ "
-"സജ്ജീകരണം പരിശോധിയ്ക്കുക."
+"'%1' കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, ഇതിനുപകരം '%2' തുടങ്ങുന്നു. നിങ്ങളുടെ "
+"പ്രൊഫൈലിന്റെ സജ്ജീകരണം പരിശോധിയ്ക്കുക."
 
 #: Session.cpp:460
 #, kde-format
@@ -2420,9 +2456,9 @@ msgstr "'%1' സെഷനില്‍ മാറ്റങ്ങള്‍"
 #, kde-format
 msgid ""
 "The D-Bus methods sendText/runCommand were just used.  There are security "
-"concerns about allowing these methods to be public.  If desired, these "
-"methods can be changed to internal use only by re-compiling Konsole. <p>This "
-"warning will only show once for this Konsole instance.</p>"
+"concerns about allowing these methods to be public.  If desired, these methods"
+" can be changed to internal use only by re-compiling Konsole. <p>This warning "
+"will only show once for this Konsole instance.</p>"
 msgstr ""
 
 #: Session.cpp:946
@@ -2648,14 +2684,18 @@ msgstr ""
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
-msgstr "ഒരു പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
+msgstr ""
+"ഒരു പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് "
+"അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
 #: SessionController.cpp:912
 #, kde-format
 msgid ""
-"The program '%1' is currently running in this session.  Are you sure you "
-"want to close it?"
-msgstr "'%1' എന്ന പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
+"The program '%1' is currently running in this session.  Are you sure you want "
+"to close it?"
+msgstr ""
+"'%1' എന്ന പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് "
+"അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
 #: SessionController.cpp:918 SessionController.cpp:948
 #, kde-format
@@ -2665,16 +2705,20 @@ msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 #: SessionController.cpp:941
 #, fuzzy, kde-format
 msgid ""
-"A program in this session would not die.  Are you sure you want to kill it "
-"by force?"
-msgstr "ഒരു പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
+"A program in this session would not die.  Are you sure you want to kill it by "
+"force?"
+msgstr ""
+"ഒരു പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് "
+"അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
 #: SessionController.cpp:944
 #, fuzzy, kde-format
 msgid ""
 "The program '%1' is in this session would not die.  Are you sure you want to "
 "kill it by force?"
-msgstr "'%1' എന്ന പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
+msgstr ""
+"'%1' എന്ന പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് "
+"അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
 #: SessionController.cpp:1484
 #, fuzzy, kde-format
@@ -2690,8 +2734,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
-"software was found on this system.</p><p>You may wish to install the 'rzsz' "
-"or 'lrzsz' package.</p>"
+"software was found on this system.</p><p>You may wish to install the 'rzsz' or"
+" 'lrzsz' package.</p>"
 msgstr ""
 
 #: SessionController.cpp:1776
@@ -2703,8 +2747,8 @@ msgstr ""
 #: SessionController.cpp:1786
 #, kde-format
 msgid ""
-"<p>No suitable ZModem software was found on this system.</p><p>You may wish "
-"to install the 'rzsz' or 'lrzsz' package.</p>"
+"<p>No suitable ZModem software was found on this system.</p><p>You may wish to"
+" install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
 #: SessionController.cpp:1792
@@ -2782,7 +2826,8 @@ msgstr ""
 msgid "Remember window size"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ShowWindowTitleOnTitleBar)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_ShowWindowTitleOnTitleBar)
 #. i18n: ectx: label, entry (ShowWindowTitleOnTitleBar), group (KonsoleWindow)
 #: settings/GeneralSettings.ui:135 settings/konsole.kcfg:18
 #, kde-format
@@ -2803,8 +2848,10 @@ msgstr ""
 msgid "Run all Konsole windows in a single process"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_RemoveWindowTitleBarAndFrame)
-#. i18n: ectx: label, entry (RemoveWindowTitleBarAndFrame), group (KonsoleWindow)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_RemoveWindowTitleBarAndFrame)
+#. i18n: ectx: label, entry (RemoveWindowTitleBarAndFrame), group
+#. (KonsoleWindow)
 #: settings/GeneralSettings.ui:158 settings/konsole.kcfg:14
 #, kde-format
 msgid "Remove window titlebar and frame"
@@ -2980,13 +3027,15 @@ msgstr ""
 msgid "For scrollback files, use user's specific folder location"
 msgstr ""
 
-#. i18n: ectx: label, entry (scrollbackUseSpecifiedLocation), group (FileLocation)
+#. i18n: ectx: label, entry (scrollbackUseSpecifiedLocation), group
+#. (FileLocation)
 #: settings/konsole.kcfg:144
 #, kde-format
 msgid "For scrollback files, use specified folder location"
 msgstr ""
 
-#. i18n: ectx: label, entry (scrollbackUseSpecifiedLocationDirectory), group (FileLocation)
+#. i18n: ectx: label, entry (scrollbackUseSpecifiedLocationDirectory), group
+#. (FileLocation)
 #: settings/konsole.kcfg:148
 #, kde-format
 msgid "For scrollback files, use this folder"
@@ -2996,12 +3045,12 @@ msgstr ""
 #: settings/PartInfo.ui:29
 #, kde-format
 msgid ""
-"<html><head/><body><p>Applications that use KonsolePart share profiles.</"
-"p><p>They do not share with Konsole or other applications:<ul><li>default "
-"profile</li><li>show in menu</li><li>shortcuts</li></ul></p><p>Feel free to "
-"open a Konsole <a href=\"https://bugs.kde.org/enter_bug.cgi?"
-"format=guided&product=konsole&component=kpart\">bug report</a> if you desire "
-"a change to how these are handled.</body></html>"
+"<html><head/><body><p>Applications that use KonsolePart share "
+"profiles.</p><p>They do not share with Konsole or other "
+"applications:<ul><li>default profile</li><li>show in "
+"menu</li><li>shortcuts</li></ul></p><p>Feel free to open a Konsole <a "
+"href=\"https://bugs.kde.org/enter_bug.cgi?format=guided&product=konsole&component=kpart\">bug"
+" report</a> if you desire a change to how these are handled.</body></html>"
 msgstr ""
 
 #: settings/ProfileSettings.cpp:93
@@ -3019,8 +3068,7 @@ msgstr ""
 #: settings/ProfileSettings.cpp:144 settings/ProfileSettings.cpp:207
 #, fuzzy, kde-format
 msgctxt ""
-"@info:tooltip List item's checkbox for making item (profile) visible in a "
-"menu"
+"@info:tooltip List item's checkbox for making item (profile) visible in a menu"
 msgid "Show profile in menu"
 msgstr "മെനുവില്‍ കാണിയ്ക്കുക"
 
@@ -3053,8 +3101,8 @@ msgstr "പുതിയ പ്രൊഫൈല്‍"
 #, kde-format
 msgid ""
 "Profiles marked as visible will appear in context and File menu. A shortcut "
-"for creating a new tab can be assigned to each entry. However, only "
-"shortcuts of visible profiles will work."
+"for creating a new tab can be assigned to each entry. However, only shortcuts "
+"of visible profiles will work."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, newProfileButton)
@@ -3097,7 +3145,9 @@ msgstr "നീക്കം ചെയ്യുക"
 #: settings/ProfileSettings.ui:88
 #, kde-format
 msgid "Set the selected profile as the default for new terminal sessions"
-msgstr "പുതിയ ടെര്‍മിനല്‍ സെഷനുകള്‍ക്കു് സഹജമായതായി തെരഞ്ഞെടുത്ത പ്രൊഫൈല്‍ സജ്ജീകരിയ്ക്കുക"
+msgstr ""
+"പുതിയ ടെര്‍മിനല്‍ സെഷനുകള്‍ക്കു് സഹജമായതായി തെരഞ്ഞെടുത്ത പ്രൊഫൈല്‍ "
+"സജ്ജീകരിയ്ക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, setAsDefaultButton)
 #: settings/ProfileSettings.ui:91
@@ -3192,8 +3242,8 @@ msgstr ""
 #, fuzzy, kde-format
 msgid "Show 'New Tab' button"
 msgstr ""
-"കിളിവാതിലുകളുടെ പട്ടയില്‍ 'പുതിയ കിളിവാതില്‍', 'കിളിവാതില്‍ അടയ്ക്കുക' എന്നീ ബട്ടണുകള്‍ "
-"കാണിയ്ക്കുക"
+"കിളിവാതിലുകളുടെ പട്ടയില്‍ 'പുതിയ കിളിവാതില്‍', 'കിളിവാതില്‍ അടയ്ക്കുക' എന്നീ "
+"ബട്ടണുകള്‍ കാണിയ്ക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ExpandTabWidth)
 #: settings/TabBarSettings.ui:225
@@ -3207,14 +3257,17 @@ msgstr ""
 msgid "Use user-defined stylesheet:"
 msgstr "ഇഷ്ടപ്പെട്ട മാറ്റേണ്ടാത്ത കര്‍സറിന്റെ നിറം"
 
-#. i18n: ectx: property (filter), widget (KUrlRequester, kcfg_TabBarUserStyleSheetFile)
-#. i18n: ectx: property (filter), widget (KUrlRequester, kcfg_scrollbackUseSpecifiedLocationDirectory)
+#. i18n: ectx: property (filter), widget (KUrlRequester,
+#. kcfg_TabBarUserStyleSheetFile)
+#. i18n: ectx: property (filter), widget (KUrlRequester,
+#. kcfg_scrollbackUseSpecifiedLocationDirectory)
 #: settings/TabBarSettings.ui:258 settings/TemporaryFilesSettings.ui:53
 #, kde-format
 msgid "text/css"
 msgstr ""
 
-#. i18n: ectx: property (placeholderText), widget (KUrlRequester, kcfg_TabBarUserStyleSheetFile)
+#. i18n: ectx: property (placeholderText), widget (KUrlRequester,
+#. kcfg_TabBarUserStyleSheetFile)
 #: settings/TabBarSettings.ui:261
 #, kde-format
 msgctxt "@item:intext Optional file path is empty"
@@ -3246,7 +3299,8 @@ msgstr ""
 msgid "After current &tab"
 msgstr "ഇപ്പോഴത്തെ കിളിവാതില്‍ അടയ്ക്കുക"
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_CloseTabOnMiddleMouseButton)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_CloseTabOnMiddleMouseButton)
 #: settings/TabBarSettings.ui:354
 #, kde-format
 msgid "Close tab on middle-click"
@@ -3274,7 +3328,8 @@ msgstr ""
 msgid "Scrollback file location:"
 msgstr "പിന്നിലേയ്ക്കു് കാണാനുള്ള ഐച്ഛികങ്ങള്‍"
 
-#. i18n: ectx: property (text), widget (QRadioButton, kcfg_scrollbackUseSpecifiedLocation)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. kcfg_scrollbackUseSpecifiedLocation)
 #: settings/TemporaryFilesSettings.ui:79
 #, kde-format
 msgctxt "@option:radio Custom (file location); followed by text entry field"
@@ -3455,13 +3510,13 @@ msgstr ""
 #: TerminalDisplay.cpp:3480
 #, kde-format
 msgid ""
-"<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
-"Software_flow_control\">suspended</a> by pressing Ctrl+S. Press <b>Ctrl+Q</"
-"b> to resume.</qt>"
+"<qt>Output has been <a "
+"href=\"https://en.wikipedia.org/wiki/Software_flow_control\">suspended</a> by "
+"pressing Ctrl+S. Press <b>Ctrl+Q</b> to resume.</qt>"
 msgstr ""
-"<qt>കണ്ട്രോള്‍+S അമര്‍ത്തിക്കൊണ്ട് ഫലം <a href=\"http://en.wikipedia.org/wiki/"
-"Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> "
-"അമര്‍ത്തുക.</qt>"
+"<qt>കണ്ട്രോള്‍+S അമര്‍ത്തിക്കൊണ്ട് ഫലം <a "
+"href=\"http://en.wikipedia.org/wiki/Flow_control\">താത്കാലികമായി "
+"നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> അമര്‍ത്തുക.</qt>"
 
 #: TerminalDisplay.cpp:3518
 #, kde-format
@@ -3634,8 +3689,9 @@ msgid ""
 "No keyboard translator available.  The information needed to convert key "
 "presses into characters to send to the terminal is missing."
 msgstr ""
-"കീബോര്‍ഡിന്റെ പരിഭാഷകന്‍ ലഭ്യമല്ല. കീകള്‍ അമര്‍ത്തുന്നതിനെ ടെര്‍മിനലിലേയ്ക്കയയ്ക്കാനായി "
-"അക്ഷരങ്ങളായി പരിഭാഷപ്പെടുത്തുന്നതിനുള്ള വിവരം ലഭ്യമല്ല."
+"കീബോര്‍ഡിന്റെ പരിഭാഷകന്‍ ലഭ്യമല്ല. കീകള്‍ അമര്‍ത്തുന്നതിനെ "
+"ടെര്‍മിനലിലേയ്ക്കയയ്ക്കാനായി അക്ഷരങ്ങളായി പരിഭാഷപ്പെടുത്തുന്നതിനുള്ള വിവരം "
+"ലഭ്യമല്ല."
 
 #, fuzzy
 #~ msgctxt "@title"
@@ -3760,15 +3816,17 @@ msgstr ""
 #, fuzzy
 #~ msgid "Characters considered part of a word when double clicking:"
 #~ msgstr ""
-#~ "ടെര്‍മിനലില്‍ വച്ചു് രണ്ടു് തവണ ഞെക്കി മുഴുവന്‍ വാക്കും തെരഞ്ഞെടുക്കുമ്പോള്‍ ഒരു വാക്കിന്റെ ഭാഗമായി "
-#~ "കണക്കാക്കേണ്ട അക്ഷരങ്ങള്‍"
+#~ "ടെര്‍മിനലില്‍ വച്ചു് രണ്ടു് തവണ ഞെക്കി മുഴുവന്‍ വാക്കും തെരഞ്ഞെടുക്കുമ്പോള്‍ "
+#~ "ഒരു വാക്കിന്റെ ഭാഗമായി കണക്കാക്കേണ്ട അക്ഷരങ്ങള്‍"
 
 #, fuzzy
 #~ msgid "Copy && Paste"
 #~ msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
 #~ msgid "Enable flow control using Ctrl+S, Ctrl+Q"
-#~ msgstr "കണ്ട്രോള്‍+S, കണ്ട്രോള്‍+Q ഉപയോഗിച്ചു് ഒഴുക്കു് നിയന്ത്രിയ്ക്കുന്നതു് പ്രാവര്‍ത്തികമാക്കുക"
+#~ msgstr ""
+#~ "കണ്ട്രോള്‍+S, കണ്ട്രോള്‍+Q ഉപയോഗിച്ചു് ഒഴുക്കു് നിയന്ത്രിയ്ക്കുന്നതു് "
+#~ "പ്രാവര്‍ത്തികമാക്കുക"
 
 #~ msgid "Cursor shape:"
 #~ msgstr "കര്‍സറിന്റെ രൂപം:"
@@ -3857,11 +3915,10 @@ msgstr ""
 #~ msgstr "വലുതു്"
 
 #~ msgid ""
-#~ "Try to enable transparency, even if the system does not appear to support "
-#~ "it."
+#~ "Try to enable transparency, even if the system does not appear to support it."
 #~ msgstr ""
-#~ "സിസ്റ്റം പിന്തുണയ്ക്കുന്നതായി തോന്നുന്നില്ലെങ്കിലും, പുറകിലുള്ളതു് കാണുന്നതു് പ്രാവര്‍ത്തികമാക്കുവാന്‍ "
-#~ "ശ്രമിയ്ക്കുക."
+#~ "സിസ്റ്റം പിന്തുണയ്ക്കുന്നതായി തോന്നുന്നില്ലെങ്കിലും, പുറകിലുള്ളതു് കാണുന്നതു് "
+#~ "പ്രാവര്‍ത്തികമാക്കുവാന്‍ ശ്രമിയ്ക്കുക."
 
 #~ msgid "Input"
 #~ msgstr "ഇന്‍പുട്ട്"
@@ -3874,14 +3931,16 @@ msgstr ""
 
 #~ msgid "Edit tab title format used when executing remote commands"
 #~ msgstr ""
-#~ "വിദൂരത്തൊരു ആജ്ഞ പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട കിളിവാതിലുകളുടെ "
-#~ "തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ് ചിട്ടപ്പെടുത്തുക"
+#~ "വിദൂരത്തൊരു ആജ്ഞ പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട "
+#~ "കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ് ചിട്ടപ്പെടുത്തുക"
 
 #~ msgid "Allow terminal programs to resize the window"
-#~ msgstr "ജാലകത്തിന്റെ വലിപ്പം മാറ്റുവാന്‍ ടെര്‍മിനല്‍ പ്രോഗ്രാമുകളെ അനുവദിയ്ക്കുക"
+#~ msgstr ""
+#~ "ജാലകത്തിന്റെ വലിപ്പം മാറ്റുവാന്‍ ടെര്‍മിനല്‍ പ്രോഗ്രാമുകളെ അനുവദിയ്ക്കുക"
 
 #~ msgid "Allow programs to resize terminal window"
-#~ msgstr "ടെര്‍മിനല്‍ ജാലകത്തിന്റെ വലിപ്പം മാറ്റുവാന്‍ പ്രോഗ്രാമുകളെ അനുവദിയ്ക്കുക"
+#~ msgstr ""
+#~ "ടെര്‍മിനല്‍ ജാലകത്തിന്റെ വലിപ്പം മാറ്റുവാന്‍ പ്രോഗ്രാമുകളെ അനുവദിയ്ക്കുക"
 
 #, fuzzy
 #~ msgid "Configure Current Profile..."
@@ -3898,7 +3957,8 @@ msgstr ""
 #~ msgstr "പ്രവര്‍ത്തിപ്പിയ്ക്കാനുള്ള ആജ്ഞ"
 
 #~ msgid "Show or hide the menu bar in terminal windows"
-#~ msgstr "ടെര്‍മിനലിന്റെ ജാലകത്തില്‍ മെനുപ്പട്ട കാണിയ്ക്കുകയോ ഒളിപ്പിയ്ക്കുകയോ ചെയ്യുക"
+#~ msgstr ""
+#~ "ടെര്‍മിനലിന്റെ ജാലകത്തില്‍ മെനുപ്പട്ട കാണിയ്ക്കുകയോ ഒളിപ്പിയ്ക്കുകയോ ചെയ്യുക"
 
 #~ msgid "Disable scrollback"
 #~ msgstr "പുറകിലേയ്ക്കു് നീക്കുന്നതിനുള്ള പട്ട പ്രാവര്‍ത്തികമല്ലാതാക്കുക"
@@ -3964,9 +4024,11 @@ msgstr ""
 #~ msgstr "വലിയക്ഷരചെറിയക്ഷര വ്യത്യാസം കണക്കിലെടുക്കുക"
 
 #~ msgid ""
-#~ "Sets whether the search phrase is interpreted as normal text or as a "
-#~ "regular expression"
-#~ msgstr "തെരയാനുള്ള വാചകം സാധാരണ പദാവലിയാണോ റെഗുലര്‍ എക്സ്‌പ്രഷനാണോ എന്നു് സജ്ജീകരിയ്ക്കുന്നു"
+#~ "Sets whether the search phrase is interpreted as normal text or as a regular "
+#~ "expression"
+#~ msgstr ""
+#~ "തെരയാനുള്ള വാചകം സാധാരണ പദാവലിയാണോ റെഗുലര്‍ എക്സ്‌പ്രഷനാണോ എന്നു് "
+#~ "സജ്ജീകരിയ്ക്കുന്നു"
 
 #~ msgid "Search reached bottom, continued from top."
 #~ msgstr "തെരഞ്ഞു് താഴെയെത്തി, മുകളില്‍ നിന്നും തുടരുന്നു."
@@ -3993,4 +4055,5 @@ msgstr ""
 #~ msgstr "പ്രൊഫെലുകളൊന്നും ലഭ്യമല്ല"
 
 #~ msgid "Word characters for double-click selection: "
-#~ msgstr "രണ്ടു് തവണ ഞെക്കി തെരഞ്ഞെടുക്കുമ്പോള്‍ വാക്കായി കണക്കാക്കേണ്ട അക്ഷരങ്ങള്‍:"
+#~ msgstr ""
+#~ "രണ്ടു് തവണ ഞെക്കി തെരഞ്ഞെടുക്കുമ്പോള്‍ വാക്കായി കണക്കാക്കേണ്ട അക്ഷരങ്ങള്‍:"

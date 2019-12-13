@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -923,8 +923,7 @@ msgstr ""
 #. i18n: file skins/legacy/Data/world.desktop line 512
 #. i18n: file skins/static/Data/world.desktop line 512
 #, no-c-format, kde-format
-msgid ""
-"%1, you'll have to conquer %2 countries and place %3 armies in each one."
+msgid "%1, you'll have to conquer %2 countries and place %3 armies in each one."
 msgstr ""
 
 #. i18n: file skins/default/Data/world.desktop line 510
@@ -989,15 +988,14 @@ msgstr ""
 #. i18n: file skins/static/Data/world.desktop line 554
 #, no-c-format, kde-format
 msgid ""
-"%1, you'll have to eliminate %2. If it is eliminated by another player, "
-"you'll have to conquer %3 countries."
+"%1, you'll have to eliminate %2. If it is eliminated by another player, you'll"
+" have to conquer %3 countries."
 msgstr ""
 
 #. i18n: file skins/default/Data/world.desktop line 560
 #, no-c-format, kde-format
 msgid ""
-"This skin shows a world that looks like the real one with some "
-"nationalities\n"
+"This skin shows a world that looks like the real one with some nationalities\n"
 "randomly chosen and proposes various interesting goals"
 msgstr ""
 
@@ -1033,8 +1031,7 @@ msgstr ""
 #. i18n: file skins/legacy/Data/world.desktop line 568
 #, no-c-format, kde-format
 msgid ""
-"This skin shows a world that looks like the real one with some nationalities "
-"randomly chosen and proposes various interesting goals.\n"
+"This skin shows a world that looks like the real one with some nationalities randomly chosen and proposes various interesting goals.\n"
 "It looks like KsirK before vector graphics."
 msgstr ""
 
@@ -1046,8 +1043,7 @@ msgstr ""
 #. i18n: file skins/static/Data/world.desktop line 568
 #, no-c-format, kde-format
 msgid ""
-"This skin shows a world that looks like the real one with some "
-"nationalities\n"
+"This skin shows a world that looks like the real one with some nationalities\n"
 "randomly chosen and proposes various interesting goals.\n"
 "It features non-animated sprites"
 msgstr ""
@@ -1126,8 +1122,8 @@ msgstr ""
 #: Dialogs/InvasionSlider.cpp:142
 #, kde-format
 msgid ""
-"You are invading <font color=\"blue\">%1</font> with <font color=\"red\">%2</"
-"font>!"
+"You are invading <font color=\"blue\">%1</font> with <font "
+"color=\"red\">%2</font>!"
 msgstr ""
 
 #: Dialogs/InvasionSlider.cpp:143
@@ -1143,8 +1139,8 @@ msgstr ""
 #: Dialogs/InvasionSlider.cpp:148
 #, kde-format
 msgid ""
-"You are moving armies from <font color=\"red\">%1</font> to <font color="
-"\"blue\">%2</font>!"
+"You are moving armies from <font color=\"red\">%1</font> to <font "
+"color=\"blue\">%2</font>!"
 msgstr ""
 
 #: Dialogs/InvasionSlider.cpp:149
@@ -1269,8 +1265,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<b>Note:</b> Playing over the Jabber network is an experimental feature in "
-"KsirK.<br/>Particularly, the distribution of armies at game beginning is "
-"very slow (expect something like one minute)."
+"KsirK.<br/>Particularly, the distribution of armies at game beginning is very "
+"slow (expect something like one minute)."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, cancelButton)
@@ -1582,7 +1578,8 @@ msgstr ""
 msgid "Pla&yer is computer"
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QDialog, QWaitedPlayerSetupDialog)
+#. i18n: ectx: property (windowTitle), widget (QDialog,
+#. QWaitedPlayerSetupDialog)
 #: Dialogs/qwaitedplayersetupdialog.ui:14
 #, kde-format
 msgid "Saved Player Selection"
@@ -1790,8 +1787,8 @@ msgstr ""
 #: GameLogic/gameautomaton.cpp:1930
 #, kde-format
 msgid ""
-"%1, your goal will be displayed. Please<br>make sure that no other player "
-"can see it!"
+"%1, your goal will be displayed. Please<br>make sure that no other player can "
+"see it!"
 msgstr ""
 
 #: GameLogic/gameautomaton.cpp:1932
@@ -1944,8 +1941,8 @@ msgstr ""
 #: GameLogic/onu.cpp:133 GameLogic/onu.cpp:150 gestionSprites.cpp:693
 #: gestionSprites.cpp:808 gestionSprites.cpp:853 gestionSprites.cpp:1409
 #: gestionSprites.cpp:1486 kgamewin.cpp:152 kgamewin.cpp:385 kgamewin.cpp:402
-#: kgamewin.cpp:419 kgamewin.cpp:586 kgamewin.cpp:742
-#: Sprites/animsprite.cpp:511 Sprites/animsprite.cpp:526
+#: kgamewin.cpp:419 kgamewin.cpp:586 kgamewin.cpp:742 Sprites/animsprite.cpp:511
+#: Sprites/animsprite.cpp:526
 #, kde-format
 msgid "Error!"
 msgstr ""
@@ -2119,8 +2116,7 @@ msgstr ""
 
 #: Jabber/jabberaccount.cpp:533 kgamewinslots.cpp:1008
 #, kde-format
-msgid ""
-"An encrypted connection with the Jabber server could not be established."
+msgid "An encrypted connection with the Jabber server could not be established."
 msgstr ""
 
 #: Jabber/jabberaccount.cpp:534 kgamewinslots.cpp:1009
@@ -2422,9 +2418,9 @@ msgstr ""
 #: Jabber/jabberaccount.cpp:1130
 #, kde-format
 msgid ""
-"The Jabber user %1 removed %2's subscription to him/her. This account will "
-"no longer be able to view his/her online/offline status. Do you want to "
-"delete the contact?"
+"The Jabber user %1 removed %2's subscription to him/her. This account will no "
+"longer be able to view his/her online/offline status. Do you want to delete "
+"the contact?"
 msgstr ""
 
 #: Jabber/jabberaccount.cpp:1133 Jabber/jabbercontact.cpp:940
@@ -2479,8 +2475,8 @@ msgstr ""
 #: Jabber/jabberaccount.cpp:1557
 #, kde-format
 msgid ""
-"There was an error processing your request for groupchat %1. (Reason: %2, "
-"Code %3)"
+"There was an error processing your request for groupchat %1. (Reason: %2, Code"
+" %3)"
 msgstr ""
 
 #: Jabber/jabberaccount.cpp:1711
@@ -2618,9 +2614,9 @@ msgstr ""
 #: Jabber/jabbercontact.cpp:285
 #, kde-format
 msgid ""
-"<qt><i>%1</i> has invited you to join the conference <b>%2</b><br />%3<br /"
-">If you want to accept and join, just <b>enter your nickname</b> and press "
-"ok<br />If you want to decline, press cancel</qt>"
+"<qt><i>%1</i> has invited you to join the conference <b>%2</b><br />%3<br />If"
+" you want to accept and join, just <b>enter your nickname</b> and press ok<br "
+"/>If you want to decline, press cancel</qt>"
 msgstr ""
 
 #: Jabber/jabbercontact.cpp:291
@@ -2771,8 +2767,8 @@ msgstr ""
 #: kgamewin.cpp:392
 #, kde-format
 msgid ""
-"Allow to connect to a KsirK Jabber Multi User Gaming Room to create new "
-"games or to join present games"
+"Allow to connect to a KsirK Jabber Multi User Gaming Room to create new games "
+"or to join present games"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pbNewSocketGame)
@@ -3355,10 +3351,11 @@ msgstr ""
 #: main.cpp:54
 #, kde-format
 msgid ""
-"&nbsp;&nbsp;Anthony Rey<br/>&nbsp;&nbsp;Benjamin Lucas<br/>&nbsp;&nbsp;"
-"Benjamin Moreau<br/>&nbsp;&nbsp;Gaël Clouet<br/>&nbsp;&nbsp;Guillaume "
-"Pelouas<br/>&nbsp;&nbsp;Joël Marco<br/>&nbsp;&nbsp;Laurent Dang<br/>&nbsp;"
-"&nbsp;Nicolas Linard<br/>&nbsp;&nbsp;Vincent Sac"
+"&nbsp;&nbsp;Anthony Rey<br/>&nbsp;&nbsp;Benjamin "
+"Lucas<br/>&nbsp;&nbsp;Benjamin Moreau<br/>&nbsp;&nbsp;Gaël "
+"Clouet<br/>&nbsp;&nbsp;Guillaume Pelouas<br/>&nbsp;&nbsp;Joël "
+"Marco<br/>&nbsp;&nbsp;Laurent Dang<br/>&nbsp;&nbsp;Nicolas "
+"Linard<br/>&nbsp;&nbsp;Vincent Sac"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lImage1)

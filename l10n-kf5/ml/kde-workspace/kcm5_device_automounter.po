@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-05-20 03:25+0200\n"
 "PO-Revision-Date: 2019-12-12 22:58+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -77,20 +76,19 @@ msgstr ""
 #: DeviceAutomounterKCM.ui:45
 #, kde-format
 msgid ""
-"When this is checked, only remembered devices will be automatically mounted. "
-"A device is 'remembered' if it has ever been mounted before. For instance, "
-"plugging in a USB media player to charge is not sufficient to 'remember' it "
-"- if the files are not accessed, it will not be automatically mounted the "
-"next time it is seen. Once they have been accessed, however, the device's "
-"contents will be automatically made available to the system."
+"When this is checked, only remembered devices will be automatically mounted. A"
+" device is 'remembered' if it has ever been mounted before. For instance, "
+"plugging in a USB media player to charge is not sufficient to 'remember' it - "
+"if the files are not accessed, it will not be automatically mounted the next "
+"time it is seen. Once they have been accessed, however, the device's contents "
+"will be automatically made available to the system."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, automountUnknownDevices)
 #: DeviceAutomounterKCM.ui:48
 #, kde-format
 msgid ""
-"Only automatically mount removable media that has been manually mounted "
-"before"
+"Only automatically mount removable media that has been manually mounted before"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, automountOnLogin)
@@ -112,8 +110,8 @@ msgstr ""
 #: DeviceAutomounterKCM.ui:65
 #, kde-format
 msgid ""
-"When this is checked, the contents of any storage device will automatically "
-"be made available to the system when it is plugged in or attached."
+"When this is checked, the contents of any storage device will automatically be"
+" made available to the system when it is plugged in or attached."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, automountOnPlugin)
@@ -132,13 +130,9 @@ msgstr ""
 #: DeviceAutomounterKCM.ui:98
 #, kde-format
 msgid ""
-"This list contains the storage devices known to the system. If \"Automount "
-"on Login\" is checked, the device will be automatically mounted even though "
-"\"Mount all removable media at login\" is unchecked. The same applies for "
-"\"Automount on Attach\".\n"
+"This list contains the storage devices known to the system. If \"Automount on Login\" is checked, the device will be automatically mounted even though \"Mount all removable media at login\" is unchecked. The same applies for \"Automount on Attach\".\n"
 "\n"
-"If \"Enable automatic mounting of removable media\" is unchecked, the "
-"overrides do not apply and no devices will be automatically mounted."
+"If \"Enable automatic mounting of removable media\" is unchecked, the overrides do not apply and no devices will be automatically mounted."
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QPushButton, forgetDevice)

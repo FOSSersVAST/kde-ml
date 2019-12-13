@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -33,13 +33,15 @@ msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 msgid "No background pictures found."
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QWidget, KBounceBackgroundSelector)
+#. i18n: ectx: property (windowTitle), widget (QWidget,
+#. KBounceBackgroundSelector)
 #: backgroundselector.ui:14
 #, kde-format
 msgid "kbouncebackgroundselector"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_UseRandomBackgroundPictures)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_UseRandomBackgroundPictures)
 #: backgroundselector.ui:24
 #, kde-format
 msgid "Enable random pictures as background"
@@ -96,7 +98,8 @@ msgstr "%1 പോയിന്റ്: ഈ നിലയിലെ ആകെ സ്�
 #: gamewidget.cpp:419
 #, kde-format
 msgid "On to level %1. Remember you get %2 lives this time!"
-msgstr "%1-ആം നിലയിലേക്ക്. ഓര്‍ക്കുക, ഇത്തവണ താങ്കള്‍ക്ക് %2 അവസരങ്ങളാണ് ലഭിക്കുന്നത്!"
+msgstr ""
+"%1-ആം നിലയിലേക്ക്. ഓര്‍ക്കുക, ഇത്തവണ താങ്കള്‍ക്ക് %2 അവസരങ്ങളാണ് ലഭിക്കുന്നത്!"
 
 #: gamewidget.cpp:422
 #, fuzzy, kde-format

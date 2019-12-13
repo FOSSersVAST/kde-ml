@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-sdk\n"
@@ -12,15 +13,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
+"X-Language: ml\n"
 "X-Pootle-Path: /ml/l10n-kf5/kde-workspace/kcm_lookandfeel.po\n"
 "X-Pootle-Revision: 6404\n"
-"X-Language: ml\n"
 "X-Source-Language: C\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "Amrithanath M"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -39,8 +40,7 @@ msgstr "മാർക്കോ മാർട്ടിൻ"
 
 #: kcm.cpp:526
 #, kde-format
-msgid ""
-"You have to restart the Plasma session for these changes to take effect."
+msgid "You have to restart the Plasma session for these changes to take effect."
 msgstr "ഈ മാറ്റങ്ങൾ പ്രാബല്യത്തിൽ വരാൻ നിങ്ങൾ പ്ലാസ്മ സെഷൻ പുനരാരംഭിക്കണം."
 
 #: kcm.cpp:527
@@ -106,8 +106,8 @@ msgid ""
 "Your desktop layout will be lost and reset to the default layout provided by "
 "the selected theme."
 msgstr ""
-"നിങ്ങളുടെ ഡെസ്ക്ടോപ്പ് ലേഔട്ട് നഷ്ടപ്പെടുകയും തിരഞ്ഞെടുത്ത തീം നൽകിയ സ്ഥിരസ്ഥിതി ലേഔട്ടിലേക്ക് "
-"പുനഃസജ്ജമാക്കുകയും ചെയ്യും."
+"നിങ്ങളുടെ ഡെസ്ക്ടോപ്പ് ലേഔട്ട് നഷ്ടപ്പെടുകയും തിരഞ്ഞെടുത്ത തീം നൽകിയ "
+"സ്ഥിരസ്ഥിതി ലേഔട്ടിലേക്ക് പുനഃസജ്ജമാക്കുകയും ചെയ്യും."
 
 #: package/contents/ui/main.qml:81
 #, kde-format

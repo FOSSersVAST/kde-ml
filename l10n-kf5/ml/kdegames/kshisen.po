@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -146,8 +146,7 @@ msgstr ""
 #, kde-format
 msgctxt "%1 is a path to a tileset file"
 msgid ""
-"An error occurred when loading the tileset. %1 and the default tileset have "
-"been tried.\n"
+"An error occurred when loading the tileset. %1 and the default tileset have been tried.\n"
 "Please install the KMahjongg library."
 msgstr ""
 
@@ -160,8 +159,7 @@ msgstr ""
 #, kde-format
 msgctxt "%1 is a path to a background image file"
 msgid ""
-"An error occurred when loading the background. %1 and the default background "
-"have been tried.\n"
+"An error occurred when loading the background. %1 and the default background have been tried.\n"
 "Please install the KMahjongg library."
 msgstr ""
 
@@ -293,8 +291,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<b>Create solvable games only</b><p>If checked, you will only be presented "
-"with games that are possible to solve.</p><p>Note: Even in solvable games "
-"you can fail to complete if you remove the tiles in the wrong order.</p>"
+"with games that are possible to solve.</p><p>Note: Even in solvable games you "
+"can fail to complete if you remove the tiles in the wrong order.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_Solvable)
@@ -325,16 +323,16 @@ msgstr ""
 #: src/settings.ui:53
 #, kde-format
 msgid ""
-"<b>Tiles can slide, but you can connect only in 2 lines instead of 3</"
-"b><p>This option changes the rules to the point where it almost becomes a "
-"completely different game. When it is active, you can only remove the tiles "
-"if they can be connected by a line consisting of only two segments instead "
-"of the customary three. However, you are allowed to slide the tiles on the "
-"board, if the row or column where they are placed has some empty space. To "
-"make a sliding move, you have to click on the tile containing the column or "
-"row that can slide, and then on the matching tile. If there are two possible "
-"sliding moves, you will have to click on one of the two connecting lines to "
-"choose your preferred move.</p>"
+"<b>Tiles can slide, but you can connect only in 2 lines instead of "
+"3</b><p>This option changes the rules to the point where it almost becomes a "
+"completely different game. When it is active, you can only remove the tiles if"
+" they can be connected by a line consisting of only two segments instead of "
+"the customary three. However, you are allowed to slide the tiles on the board,"
+" if the row or column where they are placed has some empty space. To make a "
+"sliding move, you have to click on the tile containing the column or row that "
+"can slide, and then on the matching tile. If there are two possible sliding "
+"moves, you will have to click on one of the two connecting lines to choose "
+"your preferred move.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_TilesCanSlide)
@@ -347,8 +345,8 @@ msgstr ""
 #: src/settings.ui:63
 #, kde-format
 msgid ""
-"<b>Board Difficulty</b><p>The slider controls the difficulty of the board "
-"from Easy to Hard.</p>"
+"<b>Board Difficulty</b><p>The slider controls the difficulty of the board from"
+" Easy to Hard.</p>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, difficulty_groupBox)
@@ -400,8 +398,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<b>Board Size</b><p>This slider allows you to change the number of tiles on "
-"the board. The more tiles you have, the harder (and longer) the game will be."
-"</p>"
+"the board. The more tiles you have, the harder (and longer) the game will "
+"be.</p>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, size_groupBox)

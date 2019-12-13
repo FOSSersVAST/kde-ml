@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-11-28 02:54+0100\n"
 "PO-Revision-Date: 2019-12-12 21:03+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -92,8 +91,7 @@ msgid "Scope"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QTreeWidget, treeWidget)
-#: completion/katecompletionmodel.cpp:1323
-#: dialogs/commandmenuconfigwidget.ui:22
+#: completion/katecompletionmodel.cpp:1323 dialogs/commandmenuconfigwidget.ui:22
 #, kde-format
 msgid "Name"
 msgstr "പേരു്"
@@ -366,8 +364,8 @@ msgstr "നിലവിലുള്ള രേഖ പ്രിന്റു് ച
 #, kde-format
 msgid ""
 "<p>If this option is checked, every new view will display an icon border on "
-"the left hand side.</p><p>The icon border shows bookmark signs, for instance."
-"</p>"
+"the left hand side.</p><p>The icon border shows bookmark signs, for "
+"instance.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkIconBorder)
@@ -422,8 +420,8 @@ msgstr ""
 #: dialogs/bordersappearanceconfigwidget.ui:103
 #, kde-format
 msgid ""
-"<p>If this option is checked, hovering over the vertical scrollbar will show "
-"a preview of the text.</p>"
+"<p>If this option is checked, hovering over the vertical scrollbar will show a"
+" preview of the text.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkScrollbarPreview)
@@ -436,8 +434,8 @@ msgstr ""
 #: dialogs/bordersappearanceconfigwidget.ui:113
 #, kde-format
 msgid ""
-"If this option is checked, every new view will show a mini map on the "
-"vertical scrollbar."
+"If this option is checked, every new view will show a mini map on the vertical"
+" scrollbar."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkScrollbarMiniMap)
@@ -493,8 +491,7 @@ msgstr "എപ്പോഴും ഓണ്‍ ആയിരിക്കുക"
 #. i18n: ectx: property (whatsThis), widget (QGroupBox, gbSortBookmarks)
 #: dialogs/bordersappearanceconfigwidget.ui:246
 #, kde-format
-msgid ""
-"Choose how the bookmarks should be ordered in the <b>Bookmarks</b> menu."
+msgid "Choose how the bookmarks should be ordered in the <b>Bookmarks</b> menu."
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbSortBookmarks)
@@ -503,12 +500,13 @@ msgstr ""
 msgid "Sort Bookmarks Menu"
 msgstr "&ഓര്‍മ്മക്കുറിപ്പു് സജ്ജമാക്കുക"
 
-#. i18n: ectx: property (whatsThis), widget (QRadioButton, rbSortBookmarksByCreation)
+#. i18n: ectx: property (whatsThis), widget (QRadioButton,
+#. rbSortBookmarksByCreation)
 #: dialogs/bordersappearanceconfigwidget.ui:255
 #, kde-format
 msgid ""
-"Each new bookmark will be added to the bottom, independently from where it "
-"is placed in the document."
+"Each new bookmark will be added to the bottom, independently from where it is "
+"placed in the document."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, rbSortBookmarksByCreation)
@@ -517,7 +515,8 @@ msgstr ""
 msgid "B&y creation"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QRadioButton, rbSortBookmarksByPosition)
+#. i18n: ectx: property (whatsThis), widget (QRadioButton,
+#. rbSortBookmarksByPosition)
 #: dialogs/bordersappearanceconfigwidget.ui:265
 #, kde-format
 msgid "The bookmarks will be ordered by the line numbers they are placed at."
@@ -574,8 +573,8 @@ msgstr "കൂടുതല്‍ കുറിപ്പുകള്‍"
 #, kde-format
 msgid ""
 "<p>The entries are accessible through the submenu <b>Commands</b> in the "
-"<b>Tools</b> menu. For faster access it is possible to assign <b>shortcuts</"
-"b> in the shortcut configuration page after applying the changes.</p>"
+"<b>Tools</b> menu. For faster access it is possible to assign <b>shortcuts</b>"
+" in the shortcut configuration page after applying the changes.</p>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbEdit)
@@ -751,7 +750,8 @@ msgstr ""
 msgid "Maximum inheritance depth:"
 msgstr ""
 
-#. i18n: ectx: property (specialValueText), widget (QSpinBox, filteringMaximumInheritanceDepth)
+#. i18n: ectx: property (specialValueText), widget (QSpinBox,
+#. filteringMaximumInheritanceDepth)
 #: dialogs/completionconfigwidget.ui:172
 #, kde-format
 msgid "Infinity"
@@ -865,10 +865,10 @@ msgstr ""
 msgid ""
 "<p>Automatically start a new line of text when the current line exceeds the "
 "length specified by the <b>Wrap words at:</b> option.</p><p>This option does "
-"not wrap existing lines of text - use the <b>Apply Static Word Wrap</b> "
-"option in the <b>Tools</b> menu for that purpose.</p><p>If you want lines to "
-"be <i>visually wrapped</i> instead, according to the width of the view, "
-"enable <b>Dynamic Word Wrap</b> in the <b>Appearance</b> config page.</p>"
+"not wrap existing lines of text - use the <b>Apply Static Word Wrap</b> option"
+" in the <b>Tools</b> menu for that purpose.</p><p>If you want lines to be "
+"<i>visually wrapped</i> instead, according to the width of the view, enable "
+"<b>Dynamic Word Wrap</b> in the <b>Appearance</b> config page.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkStaticWordWrap)
@@ -877,7 +877,8 @@ msgstr ""
 msgid "Enable static &word wrap"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkShowStaticWordWrapMarker)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox,
+#. chkShowStaticWordWrapMarker)
 #: dialogs/editconfigwidget.ui:33
 #, kde-format
 msgid ""
@@ -961,7 +962,8 @@ msgstr "തിരഞ്ഞെടുത്തവ"
 msgid "Copy/Cut the current line if no selection"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, chkMousePasteAtCursorPosition)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. chkMousePasteAtCursorPosition)
 #: dialogs/editconfigwidget.ui:215
 #, kde-format
 msgid "Paste by mouse at cursor position"
@@ -1066,9 +1068,9 @@ msgstr ""
 #: dialogs/filetypeconfigwidget.ui:159
 #, kde-format
 msgid ""
-"The wildcards mask allows to select files by filename. A typical mask uses "
-"an asterisk and the file extension, for example <code>*.txt; *.text</code>. "
-"The string is a semicolon-separated list of masks."
+"The wildcards mask allows to select files by filename. A typical mask uses an "
+"asterisk and the file extension, for example <code>*.txt; *.text</code>. The "
+"string is a semicolon-separated list of masks."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lblMimeTypes)
@@ -1082,8 +1084,8 @@ msgstr "MIME &തരത്തിലുള്ളവ:"
 #, kde-format
 msgid ""
 "The mime type mask allows to select files by mimetype. The string is a "
-"semicolon-separated list of mimetypes, for example <code>text/plain; text/"
-"english</code>."
+"semicolon-separated list of mimetypes, for example <code>text/plain; "
+"text/english</code>."
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QToolButton, btnMimeTypes)
@@ -1102,8 +1104,8 @@ msgstr "മുന്‍&ഗണന:"
 #: dialogs/filetypeconfigwidget.ui:207
 #, kde-format
 msgid ""
-"Sets priority for this file type. If more than one file type selects the "
-"same file, the one with the highest priority will be used."
+"Sets priority for this file type. If more than one file type selects the same "
+"file, the one with the highest priority will be used."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lblMode)
@@ -1116,10 +1118,9 @@ msgstr ""
 #: dialogs/indentationconfigwidget.ui:27
 #, kde-format
 msgid ""
-"This is a list of available indentation modes. The specified indentation "
-"mode will be used for all new documents. Be aware that it is also possible "
-"to set the indentation mode with document variables, modes or a .kateconfig "
-"file."
+"This is a list of available indentation modes. The specified indentation mode "
+"will be used for all new documents. Be aware that it is also possible to set "
+"the indentation mode with document variables, modes or a .kateconfig file."
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbIndentationMode)
@@ -1158,14 +1159,15 @@ msgstr ""
 msgid "Tab wi&dth:"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (KPluralHandlingSpinBox, sbIndentWidth)
+#. i18n: ectx: property (whatsThis), widget (KPluralHandlingSpinBox,
+#. sbIndentWidth)
 #: dialogs/indentationconfigwidget.ui:125
 #, kde-format
 msgid ""
-"The indentation width is the number of spaces which is used to indent a "
-"line. If the option <b>Insert spaces instead of tabulators</b> in the "
-"section <b>Editing</b> is disabled, a <b>Tab</b> character is inserted if "
-"the indentation is divisible by the tab width."
+"The indentation width is the number of spaces which is used to indent a line. "
+"If the option <b>Insert spaces instead of tabulators</b> in the section "
+"<b>Editing</b> is disabled, a <b>Tab</b> character is inserted if the "
+"indentation is divisible by the tab width."
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbProperties)
@@ -1178,8 +1180,8 @@ msgstr ""
 #: dialogs/indentationconfigwidget.ui:150
 #, kde-format
 msgid ""
-"If this option is disabled, changing the indentation level aligns a line to "
-"a multiple of the width specified in <b>Indentation width</b>."
+"If this option is disabled, changing the indentation level aligns a line to a "
+"multiple of the width specified in <b>Indentation width</b>."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkKeepExtraSpaces)
@@ -1212,9 +1214,8 @@ msgstr ""
 #: dialogs/indentationconfigwidget.ui:179
 #, kde-format
 msgid ""
-"If this option is selected, the <b>Backspace</b> key decreases the "
-"indentation level if the cursor is located in the leading blank space of a "
-"line."
+"If this option is selected, the <b>Backspace</b> key decreases the indentation"
+" level if the cursor is located in the leading blank space of a line."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkBackspaceUnindents)
@@ -1227,14 +1228,10 @@ msgstr ""
 #: dialogs/indentationconfigwidget.ui:192
 #, kde-format
 msgid ""
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body>\n"
-"<p>Tab key action (if no selection exists) <a href=\"If you want <b>Tab</b> "
-"to align the current line in the current code block like in emacs, make "
-"<b>Tab</b> a shortcut to the action <b>Align</b>.\"><span>More ...</span></"
-"a></p></body></html>"
+"<p>Tab key action (if no selection exists) <a href=\"If you want <b>Tab</b> to align the current line in the current code block like in emacs, make <b>Tab</b> a shortcut to the action <b>Align</b>.\"><span>More ...</span></a></p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QRadioButton, rbTabAdvances)
@@ -1242,9 +1239,9 @@ msgstr ""
 #, kde-format
 msgid ""
 "If this option is selected, the <b>Tab</b> key always inserts white space so "
-"that the next tab position is reached. If the option <b>Insert spaces "
-"instead of tabulators</b> in the section <b>Editing</b> is enabled, spaces "
-"are inserted; otherwise, a single tabulator is inserted."
+"that the next tab position is reached. If the option <b>Insert spaces instead "
+"of tabulators</b> in the section <b>Editing</b> is enabled, spaces are "
+"inserted; otherwise, a single tabulator is inserted."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, rbTabAdvances)
@@ -1257,9 +1254,8 @@ msgstr ""
 #: dialogs/indentationconfigwidget.ui:235
 #, kde-format
 msgid ""
-"If this option is selected, the <b>Tab</b> key always indents the current "
-"line by the number of character positions specified in <b>Indentation width</"
-"b>."
+"If this option is selected, the <b>Tab</b> key always indents the current line"
+" by the number of character positions specified in <b>Indentation width</b>."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, rbTabIndents)
@@ -1272,16 +1268,15 @@ msgstr ""
 #: dialogs/indentationconfigwidget.ui:245
 #, kde-format
 msgid ""
-"If this option is selected, the <b>Tab</b> key either indents the current "
-"line or advances to the next tab position.<p> If the insertion point is at "
-"or before the first non-space character in the line, or if there is a "
-"selection, the current line is indented by the number of character positions "
-"specified in <b>Indentation width</b>.<p> If the insertion point is located "
-"after the first non-space character in the line and there is no selection, "
-"white space is inserted so that the next tab position is reached: if the "
-"option <b>Insert spaces instead of tabulators</b> in the section <b>Editing</"
-"b> is enabled, spaces are inserted; otherwise, a single tabulator is "
-"inserted."
+"If this option is selected, the <b>Tab</b> key either indents the current line"
+" or advances to the next tab position.<p> If the insertion point is at or "
+"before the first non-space character in the line, or if there is a selection, "
+"the current line is indented by the number of character positions specified in"
+" <b>Indentation width</b>.<p> If the insertion point is located after the "
+"first non-space character in the line and there is no selection, white space "
+"is inserted so that the next tab position is reached: if the option <b>Insert "
+"spaces instead of tabulators</b> in the section <b>Editing</b> is enabled, "
+"spaces are inserted; otherwise, a single tabulator is inserted."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, rbTabSmart)
@@ -1383,8 +1378,7 @@ msgstr ""
 
 #: dialogs/katedialogs.cpp:961
 #, kde-format
-msgid ""
-"You did not provide a backup suffix or prefix. Using default suffix: '~'"
+msgid "You did not provide a backup suffix or prefix. Using default suffix: '~'"
 msgstr ""
 
 #: dialogs/katedialogs.cpp:961
@@ -1456,7 +1450,8 @@ msgstr "വീണ്ടും &ലഭ്യമാക്കുക"
 #, fuzzy, kde-format
 msgid "Reload the file from disk. Unsaved changes will be lost."
 msgstr ""
-"ഡിസ്കില്‍ നിന്നും ഫയല്‍ വീണ്ടും ലഭ്യമാക്കുക. സൂക്ഷിക്കാത്ത മാറ്റങ്ങള്‍ നിങ്ങള്‍ക്കു് നഷ്ടമാകുന്നതാണു്."
+"ഡിസ്കില്‍ നിന്നും ഫയല്‍ വീണ്ടും ലഭ്യമാക്കുക. സൂക്ഷിക്കാത്ത മാറ്റങ്ങള്‍ "
+"നിങ്ങള്‍ക്കു് നഷ്ടമാകുന്നതാണു്."
 
 #: dialogs/katedialogs.cpp:1326
 #, fuzzy, kde-format
@@ -1477,7 +1472,8 @@ msgstr "ഫയലിന്റെ പേരു് മാറ്റി &സൂക�
 #: dialogs/katedialogs.cpp:1334
 #, kde-format
 msgid "Lets you select a location and save the file again."
-msgstr "ഒരു സ്ഥലം തിരഞ്ഞെടുത്തു് അവിടെ ഫയല്‍ സൂക്ഷിക്കുവാന്‍ ഇതു് സഹായിക്കുന്നു."
+msgstr ""
+"ഒരു സ്ഥലം തിരഞ്ഞെടുത്തു് അവിടെ ഫയല്‍ സൂക്ഷിക്കുവാന്‍ ഇതു് സഹായിക്കുന്നു."
 
 #. i18n: ectx: property (text), widget (QPushButton, m_skipBtn)
 #: dialogs/katedialogs.cpp:1339 spellcheck/spellcheckbar.ui:143
@@ -1496,8 +1492,8 @@ msgid ""
 "The diff command failed. Please make sure that diff(1) is installed and in "
 "your PATH."
 msgstr ""
-"diff കമാന്‍ഡ് പരാജയപ്പെട്ടു. diff(1) നിങ്ങളുടെ സിസ്റ്റമില്‍ ശരിയായ പാഥില്‍ ഇന്‍സ്റ്റോള്‍ "
-"ചെയ്തിരിക്കുന്നു എന്നു് ഉറപ്പാക്കുക."
+"diff കമാന്‍ഡ് പരാജയപ്പെട്ടു. diff(1) നിങ്ങളുടെ സിസ്റ്റമില്‍ ശരിയായ പാഥില്‍ "
+"ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്നു എന്നു് ഉറപ്പാക്കുക."
 
 #: dialogs/katedialogs.cpp:1408 swapfile/kateswapdiffcreator.cpp:107
 #: swapfile/kateswapdiffcreator.cpp:141
@@ -1525,9 +1521,8 @@ msgstr ""
 #: dialogs/navigationconfigwidget.ui:18
 #, kde-format
 msgid ""
-"When selected, pressing the home key will cause the cursor to skip "
-"whitespace and go to the start of a line's text. The same applies for the "
-"end key."
+"When selected, pressing the home key will cause the cursor to skip whitespace "
+"and go to the start of a line's text. The same applies for the end key."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkSmartHome)
@@ -1564,9 +1559,11 @@ msgid ""
 "possible."
 msgstr ""
 
-#. i18n: ectx: property (specialValueText), widget (QSpinBox, sbAutoCenterCursor)
+#. i18n: ectx: property (specialValueText), widget (QSpinBox,
+#. sbAutoCenterCursor)
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, spbSwapFileSync)
-#. i18n: ectx: property (specialValueText), widget (QSpinBox, sbDynamicWordWrapDepth)
+#. i18n: ectx: property (specialValueText), widget (QSpinBox,
+#. sbDynamicWordWrapDepth)
 #: dialogs/navigationconfigwidget.ui:56 dialogs/opensaveconfigadvwidget.ui:163
 #: dialogs/textareaappearanceconfigwidget.ui:111
 #, kde-format
@@ -1610,7 +1607,8 @@ msgstr ""
 msgid "Allow scrolling past the end of the document"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkBackspaceRemoveComposed)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox,
+#. chkBackspaceRemoveComposed)
 #: dialogs/navigationconfigwidget.ui:138
 #, kde-format
 msgid ""
@@ -1628,8 +1626,8 @@ msgstr ""
 #: dialogs/opensaveconfigadvwidget.ui:20
 #, kde-format
 msgid ""
-"<p>Backing up on save will cause Kate to copy the disk file to '&lt;"
-"prefix&gt;&lt;filename&gt;&lt;suffix&gt;' before saving changes.<p>The "
+"<p>Backing up on save will cause Kate to copy the disk file to "
+"'&lt;prefix&gt;&lt;filename&gt;&lt;suffix&gt;' before saving changes.<p>The "
 "suffix defaults to <strong>~</strong> and prefix is empty by default."
 msgstr ""
 
@@ -1727,7 +1725,8 @@ msgstr ""
 msgid "Directory:"
 msgstr ""
 
-#. i18n: ectx: property (placeholderText), widget (KUrlRequester, kurlSwapDirectory)
+#. i18n: ectx: property (placeholderText), widget (KUrlRequester,
+#. kurlSwapDirectory)
 #: dialogs/opensaveconfigadvwidget.ui:146
 #, kde-format
 msgid "Directory for swp files"
@@ -1784,8 +1783,8 @@ msgstr "&എന്‍കോഡിങ്:"
 #, kde-format
 msgid ""
 "if neither the encoding chosen as standard above, nor the encoding specified "
-"in the open/save dialog, nor the encoding specified on command line match "
-"the content of the file, this detection will be run."
+"in the open/save dialog, nor the encoding specified on command line match the "
+"content of the file, this detection will be run."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lblEncodingDetection2)
@@ -1799,12 +1798,12 @@ msgstr "&എന്‍കോഡിങ്:"
 #, kde-format
 msgid ""
 "This defines the fallback encoding to try for opening files if neither the "
-"encoding chosen as standard above, nor the encoding specified in the open/"
-"save dialog, nor the encoding specified on command line match the content of "
-"the file.  Before this is used, an attempt will be made to determine the "
-"encoding to use by looking for a byte order mark at start of file: if one is "
-"found, the right Unicode encoding will be chosen; otherwise encoding "
-"detection will run, if both fail the fallback encoding will be tried."
+"encoding chosen as standard above, nor the encoding specified in the open/save"
+" dialog, nor the encoding specified on command line match the content of the "
+"file.  Before this is used, an attempt will be made to determine the encoding "
+"to use by looking for a byte order mark at start of file: if one is found, the"
+" right Unicode encoding will be chosen; otherwise encoding detection will run,"
+" if both fail the fallback encoding will be tried."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lblEOL)
@@ -1835,8 +1834,8 @@ msgstr "മാക്കിന്റോഷ്"
 #: dialogs/opensaveconfigwidget.ui:105
 #, kde-format
 msgid ""
-"If this option is enabled the editor will autodetect the end of line type. "
-"The first found end of line type will be used for the whole file."
+"If this option is enabled the editor will autodetect the end of line type. The"
+" first found end of line type will be used for the whole file."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkDetectEOL)
@@ -1849,10 +1848,9 @@ msgstr ""
 #: dialogs/opensaveconfigwidget.ui:115
 #, kde-format
 msgid ""
-"The byte order mark is a special sequence at the beginning of Unicode "
-"encoded documents. It helps editors to open text documents with the correct "
-"Unicode encoding. The byte order mark is not visible in the displayed "
-"document."
+"The byte order mark is a special sequence at the beginning of Unicode encoded "
+"documents. It helps editors to open text documents with the correct Unicode "
+"encoding. The byte order mark is not visible in the displayed document."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkEnableBOM)
@@ -1916,8 +1914,8 @@ msgstr "രേഖ അടയ്ക്കുക"
 #: dialogs/opensaveconfigwidget.ui:209
 #, kde-format
 msgid ""
-"On save, a line break is appended to the document if not already present. "
-"The line break is visible after reloading the file."
+"On save, a line break is appended to the document if not already present. The "
+"line break is visible after reloading the file."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkNewLineAtEof)
@@ -1952,7 +1950,8 @@ msgstr ""
 msgid "Dynamic word wrap &indicators (if applicable):"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (KComboBox, cmbDynamicWordWrapIndicator)
+#. i18n: ectx: property (whatsThis), widget (KComboBox,
+#. cmbDynamicWordWrapIndicator)
 #: dialogs/textareaappearanceconfigwidget.ui:68
 #, kde-format
 msgid "Choose when the Dynamic Word Wrap Indicators should be displayed."
@@ -1968,13 +1967,13 @@ msgstr ""
 #: dialogs/textareaappearanceconfigwidget.ui:108
 #, no-c-format, kde-format
 msgid ""
-"<p>Enables the start of dynamically wrapped lines to be aligned vertically "
-"to the indentation level of the first line. This can help to make code and "
-"markup more readable.</p><p>Additionally, this allows you to set a maximum "
-"width of the screen, as a percentage, after which dynamically wrapped lines "
-"will no longer be vertically aligned. For example, at 50%, lines whose "
-"indentation levels are deeper than 50% of the width of the screen will not "
-"have vertical alignment applied to subsequent wrapped lines.</p>"
+"<p>Enables the start of dynamically wrapped lines to be aligned vertically to "
+"the indentation level of the first line. This can help to make code and markup"
+" more readable.</p><p>Additionally, this allows you to set a maximum width of "
+"the screen, as a percentage, after which dynamically wrapped lines will no "
+"longer be vertically aligned. For example, at 50%, lines whose indentation "
+"levels are deeper than 50% of the width of the screen will not have vertical "
+"alignment applied to subsequent wrapped lines.</p>"
 msgstr ""
 
 #. i18n: ectx: property (suffix), widget (QSpinBox, sbDynamicWordWrapDepth)
@@ -1990,8 +1989,7 @@ msgid "Whitespace Highlighting"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, spacesComboBox)
-#: dialogs/textareaappearanceconfigwidget.ui:156
-#: syntax/katehighlightmenu.cpp:57
+#: dialogs/textareaappearanceconfigwidget.ui:156 syntax/katehighlightmenu.cpp:57
 #, fuzzy, kde-format
 msgid "None"
 msgstr "ശൂന്യം"
@@ -2054,7 +2052,8 @@ msgstr ""
 msgid "Show i&ndentation lines"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkShowWholeBracketExpression)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox,
+#. chkShowWholeBracketExpression)
 #: dialogs/textareaappearanceconfigwidget.ui:252
 #, kde-format
 msgid ""
@@ -2062,7 +2061,8 @@ msgid ""
 "highlighted."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, chkShowWholeBracketExpression)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. chkShowWholeBracketExpression)
 #: dialogs/textareaappearanceconfigwidget.ui:255
 #, kde-format
 msgid "Highlight range between selected brackets"
@@ -2074,7 +2074,8 @@ msgstr ""
 msgid "Flash matching brackets"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, chkAnimateBracketMatching)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox,
+#. chkAnimateBracketMatching)
 #: dialogs/textareaappearanceconfigwidget.ui:265
 #, kde-format
 msgid ""
@@ -2151,8 +2152,8 @@ msgstr ""
 #: document/katedocument.cpp:2268
 #, kde-format
 msgid ""
-"The file %1 could not be loaded, as it was not possible to read from it.<br /"
-">Check if you have read access to this file."
+"The file %1 could not be loaded, as it was not possible to read from it.<br "
+"/>Check if you have read access to this file."
 msgstr ""
 
 #: document/katedocument.cpp:2270
@@ -2182,9 +2183,9 @@ msgstr ""
 #: document/katedocument.cpp:2399
 #, kde-format
 msgid ""
-"The file %1 was opened with %2 encoding but contained invalid characters."
-"<br />It is set to read-only mode, as saving might destroy its content.<br /"
-">Either reopen the file with the correct encoding chosen or enable the read-"
+"The file %1 was opened with %2 encoding but contained invalid characters.<br "
+"/>It is set to read-only mode, as saving might destroy its content.<br "
+"/>Either reopen the file with the correct encoding chosen or enable the read-"
 "write mode again in the tools menu to be able to edit it."
 msgstr ""
 
@@ -2193,8 +2194,8 @@ msgstr ""
 msgid ""
 "The file %1 was opened with %2 encoding but contained invalid characters. It "
 "is set to read-only mode, as saving might destroy its content. Either reopen "
-"the file with the correct encoding chosen or enable the read-write mode "
-"again in the tools menu to be able to edit it."
+"the file with the correct encoding chosen or enable the read-write mode again "
+"in the tools menu to be able to edit it."
 msgstr ""
 
 #: document/katedocument.cpp:2423
@@ -2220,9 +2221,9 @@ msgstr ""
 #, kde-format
 msgid ""
 "The file %1 was opened and contained lines longer than the configured Line "
-"Length Limit (%2 characters).<br/>The longest of those lines was %3 "
-"characters long<br/>Those lines were wrapped and the document is set to read-"
-"only mode, as saving will modify its content."
+"Length Limit (%2 characters).<br/>The longest of those lines was %3 characters"
+" long<br/>Those lines were wrapped and the document is set to read-only mode, "
+"as saving will modify its content."
 msgstr ""
 
 #: document/katedocument.cpp:2466
@@ -2246,8 +2247,8 @@ msgstr ""
 #: document/katedocument.cpp:2472
 #, kde-format
 msgid ""
-"Do you really want to save this file? Both your open file and the file on "
-"disk were changed. There could be some data lost."
+"Do you really want to save this file? Both your open file and the file on disk"
+" were changed. There could be some data lost."
 msgstr ""
 
 #: document/katedocument.cpp:2473 document/katedocument.cpp:2487
@@ -2259,27 +2260,24 @@ msgstr ""
 #: document/katedocument.cpp:2486
 #, kde-format
 msgid ""
-"The selected encoding cannot encode every Unicode character in this "
-"document. Do you really want to save it? There could be some data lost."
+"The selected encoding cannot encode every Unicode character in this document. "
+"Do you really want to save it? There could be some data lost."
 msgstr ""
 
 #: document/katedocument.cpp:2530
 #, kde-format
 msgid ""
 "The document could not be saved, as it was not possible to write to %1.\n"
-"Check that you have write access to this file or that enough disk space is "
-"available.\n"
-"The original file may be lost or damaged. Don't quit the application until "
-"the file is successfully written."
+"Check that you have write access to this file or that enough disk space is available.\n"
+"The original file may be lost or damaged. Don't quit the application until the file is successfully written."
 msgstr ""
 
 #: document/katedocument.cpp:2664
 #, kde-format
 msgid ""
-"For file %1 no backup copy could be created before saving. If an error "
-"occurs while saving, you might lose the data of this file. A reason could be "
-"that the media you write to is full or the directory of the file is read-"
-"only for you."
+"For file %1 no backup copy could be created before saving. If an error occurs "
+"while saving, you might lose the data of this file. A reason could be that the"
+" media you write to is full or the directory of the file is read-only for you."
 msgstr ""
 
 #: document/katedocument.cpp:2668
@@ -2328,24 +2326,25 @@ msgstr "ഫയല്‍ സൂക്ഷിക്കുക"
 msgid ""
 "The document could not be saved, as it was not possible to write to %1.\n"
 "\n"
-"Check that you have write access to this file or that enough disk space is "
-"available."
+"Check that you have write access to this file or that enough disk space is available."
 msgstr ""
 
 #: document/katedocument.cpp:4748
 #, kde-format
 msgid ""
 "Using deprecated modeline 'remove-trailing-space'. Please replace with "
-"'remove-trailing-spaces modified;', see https://docs.kde.org/stable5/en/"
-"applications/katepart/config-variables.html#variable-remove-trailing-spaces"
+"'remove-trailing-spaces modified;', see "
+"https://docs.kde.org/stable5/en/applications/katepart/config-"
+"variables.html#variable-remove-trailing-spaces"
 msgstr ""
 
 #: document/katedocument.cpp:4754
 #, kde-format
 msgid ""
 "Using deprecated modeline 'replace-trailing-space-save'. Please replace with "
-"'remove-trailing-spaces all;', see https://docs.kde.org/stable5/en/"
-"applications/katepart/config-variables.html#variable-remove-trailing-spaces"
+"'remove-trailing-spaces all;', see "
+"https://docs.kde.org/stable5/en/applications/katepart/config-"
+"variables.html#variable-remove-trailing-spaces"
 msgstr ""
 
 #: document/katedocument.cpp:5079
@@ -2472,8 +2471,7 @@ msgstr "%1-ന്റെ ഗുണഗണങ്ങള്‍"
 #, kde-format
 msgid ""
 "Select the MimeTypes you want for this file type.\n"
-"Please note that this will automatically edit the associated file extensions "
-"as well."
+"Please note that this will automatically edit the associated file extensions as well."
 msgstr ""
 
 #: mode/katemodeconfigpage.cpp:294
@@ -2542,15 +2540,15 @@ msgstr ""
 #: printing/printconfigwidgets.cpp:64
 #, kde-format
 msgid ""
-"<p>If enabled, line numbers will be printed on the left side of the page(s)."
-"</p>"
+"<p>If enabled, line numbers will be printed on the left side of the "
+"page(s).</p>"
 msgstr ""
 
 #: printing/printconfigwidgets.cpp:66
 #, kde-format
 msgid ""
-"<p>Print a box displaying typographical conventions for the document type, "
-"as defined by the syntax highlighting being used.</p>"
+"<p>Print a box displaying typographical conventions for the document type, as "
+"defined by the syntax highlighting being used.</p>"
 msgstr ""
 
 #: printing/printconfigwidgets.cpp:118
@@ -2626,12 +2624,13 @@ msgstr ""
 #: printing/printconfigwidgets.cpp:259
 #, kde-format
 msgid ""
-"<ul><li><tt>%u</tt>: current user name</li><li><tt>%d</tt>: complete date/"
-"time in short format</li><li><tt>%D</tt>: complete date/time in long format</"
-"li><li><tt>%h</tt>: current time</li><li><tt>%y</tt>: current date in short "
-"format</li><li><tt>%Y</tt>: current date in long format</li><li><tt>%f</tt>: "
-"file name</li><li><tt>%U</tt>: full URL of the document</li><li><tt>%p</tt>: "
-"page number</li><li><tt>%P</tt>: total amount of pages</li></ul><br />"
+"<ul><li><tt>%u</tt>: current user name</li><li><tt>%d</tt>: complete date/time"
+" in short format</li><li><tt>%D</tt>: complete date/time in long "
+"format</li><li><tt>%h</tt>: current time</li><li><tt>%y</tt>: current date in "
+"short format</li><li><tt>%Y</tt>: current date in long "
+"format</li><li><tt>%f</tt>: file name</li><li><tt>%U</tt>: full URL of the "
+"document</li><li><tt>%p</tt>: page number</li><li><tt>%P</tt>: total amount of"
+" pages</li></ul><br />"
 msgstr ""
 
 #: printing/printconfigwidgets.cpp:273
@@ -2747,8 +2746,8 @@ msgstr "പ്രിന്റു് ചെയ്യുന്നതിനായ�
 #: printing/printconfigwidgets.cpp:562
 #, kde-format
 msgid ""
-"<p>If enabled, the background color of the editor will be used.</p><p>This "
-"may be useful if your color scheme is designed for a dark background.</p>"
+"<p>If enabled, the background color of the editor will be used.</p><p>This may"
+" be useful if your color scheme is designed for a dark background.</p>"
 msgstr ""
 
 #: printing/printconfigwidgets.cpp:565
@@ -2846,9 +2845,8 @@ msgstr "തിരഞ്ഞെടുത്ത വാചകം:"
 #: schema/kateschemaconfig.cpp:97
 #, kde-format
 msgid ""
-"<p>Sets the background color of the selection.</p><p>To set the text color "
-"for selected text, use the &quot;<b>Configure Highlighting</b>&quot; dialog."
-"</p>"
+"<p>Sets the background color of the selection.</p><p>To set the text color for"
+" selected text, use the &quot;<b>Configure Highlighting</b>&quot; dialog.</p>"
 msgstr ""
 
 #: schema/kateschemaconfig.cpp:101
@@ -2928,8 +2926,8 @@ msgstr ""
 #: schema/kateschemaconfig.cpp:144
 #, kde-format
 msgid ""
-"<p>This color will be used to draw the line between line numbers and the "
-"icon borders, if both are enabled.</p>"
+"<p>This color will be used to draw the line between line numbers and the icon "
+"borders, if both are enabled.</p>"
 msgstr ""
 
 #: schema/kateschemaconfig.cpp:148
@@ -2940,8 +2938,8 @@ msgstr ""
 #: schema/kateschemaconfig.cpp:151
 #, kde-format
 msgid ""
-"<p>Sets the color of Word Wrap-related markers:</p><dl><dt>Static Word Wrap</"
-"dt><dd>A vertical line which shows the column where text is going to be "
+"<p>Sets the color of Word Wrap-related markers:</p><dl><dt>Static Word "
+"Wrap</dt><dd>A vertical line which shows the column where text is going to be "
 "wrapped</dd><dt>Dynamic Word Wrap</dt><dd>An arrow shown to the left of "
 "visually-wrapped lines</dd></dl>"
 msgstr ""
@@ -3068,8 +3066,8 @@ msgstr "പിശകു്"
 #: schema/kateschemaconfig.cpp:210
 #, kde-format
 msgid ""
-"<p>Sets the background color of mark type.</p><p><b>Note</b>: The marker "
-"color is displayed lightly because of transparency.</p>"
+"<p>Sets the background color of mark type.</p><p><b>Note</b>: The marker color"
+" is displayed lightly because of transparency.</p>"
 msgstr ""
 
 #: schema/kateschemaconfig.cpp:221
@@ -3100,11 +3098,11 @@ msgstr ""
 #: schema/kateschemaconfig.cpp:464
 #, kde-format
 msgid ""
-"<p>This list displays the default styles for the current schema and offers "
-"the means to edit them. The style name reflects the current style settings.</"
-"p><p>To edit the colors, click the colored squares, or select the color to "
-"edit from the popup menu.</p><p>You can unset the Background and Selected "
-"Background colors from the popup menu when appropriate.</p>"
+"<p>This list displays the default styles for the current schema and offers the"
+" means to edit them. The style name reflects the current style "
+"settings.</p><p>To edit the colors, click the colored squares, or select the "
+"color to edit from the popup menu.</p><p>You can unset the Background and "
+"Selected Background colors from the popup menu when appropriate.</p>"
 msgstr ""
 
 #: schema/kateschemaconfig.cpp:499
@@ -3157,11 +3155,11 @@ msgstr ""
 msgid ""
 "<p>This list displays the contexts of the current syntax highlight mode and "
 "offers the means to edit them. The context name reflects the current style "
-"settings.</p><p>To edit using the keyboard, press <strong>&lt;SPACE&gt;</"
-"strong> and choose a property from the popup menu.</p><p>To edit the colors, "
-"click the colored squares, or select the color to edit from the popup menu.</"
-"p><p>You can unset the Background and Selected Background colors from the "
-"context menu when appropriate.</p>"
+"settings.</p><p>To edit using the keyboard, press "
+"<strong>&lt;SPACE&gt;</strong> and choose a property from the popup "
+"menu.</p><p>To edit the colors, click the colored squares, or select the color"
+" to edit from the popup menu.</p><p>You can unset the Background and Selected "
+"Background colors from the context menu when appropriate.</p>"
 msgstr ""
 
 #: schema/kateschemaconfig.cpp:667
@@ -3293,8 +3291,8 @@ msgstr "പുതിയ സ്കീമാ"
 #: schema/kateschemaconfig.cpp:1295
 #, kde-format
 msgid ""
-"<p>The schema %1 already exists.</p><p>Please choose a different schema name."
-"</p>"
+"<p>The schema %1 already exists.</p><p>Please choose a different schema "
+"name.</p>"
 msgstr ""
 
 #: schema/kateschemaconfig.cpp:1330
@@ -3557,8 +3555,8 @@ msgstr ""
 #: script/data/commands/emmet.js:96
 #, kde-format
 msgid ""
-"Expands the abbreviation using Emmet expressions; see http://code.google.com/"
-"p/zen-coding/wiki/ZenHTMLSelectorsEn"
+"Expands the abbreviation using Emmet expressions; see "
+"http://code.google.com/p/zen-coding/wiki/ZenHTMLSelectorsEn"
 msgstr ""
 
 #: script/data/commands/emmet.js:97
@@ -3575,8 +3573,7 @@ msgstr ""
 
 #: script/data/commands/emmet.js:99
 #, kde-format
-msgid ""
-"Select contents of HTML/XML tag, moving inward on continuous invocations"
+msgid "Select contents of HTML/XML tag, moving inward on continuous invocations"
 msgstr ""
 
 #: script/data/commands/emmet.js:100
@@ -3776,8 +3773,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "Sort the selected text or whole document in natural order.<br>Here is an "
-"example to show the difference to the normal sort method:<br>sort(a10, a1, "
-"a2) => a1, a10, a2<br>natsort(a10, a1, a2) => a1, a2, a10"
+"example to show the difference to the normal sort method:<br>sort(a10, a1, a2)"
+" => a1, a10, a2<br>natsort(a10, a1, a2) => a1, a2, a10"
 msgstr ""
 
 #: script/data/commands/utils.js:373
@@ -3799,8 +3796,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "Joins selected lines or whole document. Optionally pass a separator to put "
-"between each line:<br><code>join ', '</code> will e.g. join lines and "
-"separate them by a comma."
+"between each line:<br><code>join ', '</code> will e.g. join lines and separate"
+" them by a comma."
 msgstr ""
 
 #: script/data/commands/utils.js:381
@@ -3811,32 +3808,32 @@ msgstr ""
 #: script/data/commands/utils.js:385
 #, kde-format
 msgid ""
-"Given a JavaScript function as argument, call that for the list of "
-"(selected) lines and replace them with the return value of that callback."
-"<br>Example (join selected lines):<br><code>each 'function(lines){return "
-"lines.join(\", \");}'</code><br>To save you some typing, you can also do "
-"this to achieve the same:<br><code>each 'lines.join(\", \")'</code>"
+"Given a JavaScript function as argument, call that for the list of (selected) "
+"lines and replace them with the return value of that callback.<br>Example "
+"(join selected lines):<br><code>each 'function(lines){return lines.join(\", "
+"\");}'</code><br>To save you some typing, you can also do this to achieve the "
+"same:<br><code>each 'lines.join(\", \")'</code>"
 msgstr ""
 
 #: script/data/commands/utils.js:387
 #, kde-format
 msgid ""
-"Given a JavaScript function as argument, call that for the list of "
-"(selected) lines and remove those where the callback returns false."
-"<br>Example (see also <code>rmblank</code>):<br><code>filter 'function(l)"
-"{return l.length > 0;}'</code><br>To save you some typing, you can also do "
-"this to achieve the same:<br><code>filter 'line.length > 0'</code>"
+"Given a JavaScript function as argument, call that for the list of (selected) "
+"lines and remove those where the callback returns false.<br>Example (see also "
+"<code>rmblank</code>):<br><code>filter 'function(l){return l.length > "
+"0;}'</code><br>To save you some typing, you can also do this to achieve the "
+"same:<br><code>filter 'line.length > 0'</code>"
 msgstr ""
 
 #: script/data/commands/utils.js:389
 #, kde-format
 msgid ""
-"Given a JavaScript function as argument, call that for the list of "
-"(selected) lines and replace the line with the return value of the callback."
-"<br>Example (see also <code>ltrim</code>):<br><code>map 'function(line)"
-"{return line.replace(/^\\s+/, \"\");}'</code><br>To save you some typing, "
-"you can also do this to achieve the same:<br><code>map 'line.replace(/^\\s"
-"+/, \"\")'</code>"
+"Given a JavaScript function as argument, call that for the list of (selected) "
+"lines and replace the line with the return value of the callback.<br>Example "
+"(see also <code>ltrim</code>):<br><code>map 'function(line){return "
+"line.replace(/^\\s+/, \"\");}'</code><br>To save you some typing, you can also"
+" do this to achieve the same:<br><code>map 'line.replace(/^\\s+/, "
+"\"\")'</code>"
 msgstr ""
 
 #: script/data/commands/utils.js:391
@@ -3966,8 +3963,7 @@ msgstr "സ്ക്രിപ്റ്റ് %1 ലഭ്യമാക്കു�
 msgid "Bad quoting in call: %1. Please escape single quotes with a backslash."
 msgstr ""
 
-#: script/katecommandlinescript.cpp:92 utils/katecmds.cpp:227
-#: vimode/cmds.cpp:55
+#: script/katecommandlinescript.cpp:92 utils/katecmds.cpp:227 vimode/cmds.cpp:55
 #, kde-format
 msgid "Could not access view"
 msgstr ""
@@ -4406,17 +4402,9 @@ msgstr ""
 #: spellcheck/spellcheckbar.ui:30 spellcheck/spellcheckbar.ui:46
 #, kde-format
 msgid ""
-"<qt><p>This word was considered to be an \"unknown word\" because it does "
-"not match any entry in the dictionary currently in use. It may also be a "
-"word in a foreign language.</p>\n"
-"<p>If the word is not misspelled, you may add it to the dictionary by "
-"clicking <b>Add to Dictionary</b>. If you do not want to add the unknown "
-"word to the dictionary, but you want to leave it unchanged, click <b>Ignore</"
-"b> or <b>Ignore All</b>.</p>\n"
-"<p>However, if the word is misspelled, you can try to find the correct "
-"replacement in the list below. If you cannot find a replacement there, you "
-"may type it in the text box below, and click <b>Replace</b> or <b>Replace "
-"All</b>.</p>\n"
+"<qt><p>This word was considered to be an \"unknown word\" because it does not match any entry in the dictionary currently in use. It may also be a word in a foreign language.</p>\n"
+"<p>If the word is not misspelled, you may add it to the dictionary by clicking <b>Add to Dictionary</b>. If you do not want to add the unknown word to the dictionary, but you want to leave it unchanged, click <b>Ignore</b> or <b>Ignore All</b>.</p>\n"
+"<p>However, if the word is misspelled, you can try to find the correct replacement in the list below. If you cannot find a replacement there, you may type it in the text box below, and click <b>Replace</b> or <b>Replace All</b>.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -4443,12 +4431,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"<p>The unknown word was detected and considered unknown because it is not "
-"included in the dictionary.<br>\n"
-"Click here if you consider the unknown word not to be misspelled, and you "
-"want to avoid wrongly detecting it again in the future. If you want to let "
-"it remain as is, but not add it to the dictionary, then click <b>Ignore</b> "
-"or <b>Ignore All</b> instead.</p>\n"
+"<p>The unknown word was detected and considered unknown because it is not included in the dictionary.<br>\n"
+"Click here if you consider the unknown word not to be misspelled, and you want to avoid wrongly detecting it again in the future. If you want to let it remain as is, but not add it to the dictionary, then click <b>Ignore</b> or <b>Ignore All</b> instead.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -4463,11 +4447,8 @@ msgstr "&ഭാഗം:"
 #, kde-format
 msgid ""
 "<qt>\n"
-"<p>If the unknown word is misspelled, you should type the correction for "
-"your misspelled word here or select it from the list below.</p>\n"
-"<p>You can then click <b>Replace</b> if you want to correct only this "
-"occurrence of the word or <b>Replace All</b> if you want to correct all "
-"occurrences.</p>\n"
+"<p>If the unknown word is misspelled, you should type the correction for your misspelled word here or select it from the list below.</p>\n"
+"<p>You can then click <b>Replace</b> if you want to correct only this occurrence of the word or <b>Replace All</b> if you want to correct all occurrences.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -4488,8 +4469,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"<p>Click here to replace this occurrence of the unknown text with the text "
-"in the edit box above (to the left).</p>\n"
+"<p>Click here to replace this occurrence of the unknown text with the text in the edit box above (to the left).</p>\n"
 "</qt>"
 msgstr ""
 
@@ -4499,14 +4479,13 @@ msgstr ""
 msgid ""
 "<qt>\n"
 "<p>Click here to let this occurrence of the unknown word remain as is.</p>\n"
-"<p>This action is useful when the word is a name, an acronym, a foreign word "
-"or any other unknown word that you want to use but not add to the dictionary."
-"</p>\n"
+"<p>This action is useful when the word is a name, an acronym, a foreign word or any other unknown word that you want to use but not add to the dictionary.</p>\n"
 "</qt>"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, textLabel5)
-#. i18n: ectx: property (whatsThis), widget (Sonnet::DictionaryComboBox, m_language)
+#. i18n: ectx: property (whatsThis), widget (Sonnet::DictionaryComboBox,
+#. m_language)
 #: spellcheck/spellcheckbar.ui:156 spellcheck/spellcheckbar.ui:174
 #, kde-format
 msgid ""
@@ -4521,7 +4500,8 @@ msgstr ""
 msgid "&Language:"
 msgstr "ഇ ലാഗ്വേജ്"
 
-#. i18n: ectx: property (toolTip), widget (Sonnet::DictionaryComboBox, m_language)
+#. i18n: ectx: property (toolTip), widget (Sonnet::DictionaryComboBox,
+#. m_language)
 #: spellcheck/spellcheckbar.ui:169
 #, kde-format
 msgid "Language Selection"
@@ -4533,11 +4513,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"<p>Click here to let all occurrences of the unknown word remain as they are."
-"</p>\n"
-"<p>This action is useful when the word is a name, an acronym, a foreign word "
-"or any other unknown word that you want to use but not add to the dictionary."
-"</p>\n"
+"<p>Click here to let all occurrences of the unknown word remain as they are.</p>\n"
+"<p>This action is useful when the word is a name, an acronym, a foreign word or any other unknown word that you want to use but not add to the dictionary.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -4552,8 +4529,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"<p>Click here to replace all occurrences of the unknown text with the text "
-"in the edit box above (to the left).</p>\n"
+"<p>Click here to replace all occurrences of the unknown text with the text in the edit box above (to the left).</p>\n"
 "</qt>"
 msgstr ""
 
@@ -4592,14 +4568,14 @@ msgstr "&ഭാഗം:"
 #: swapfile/kateswapdiffcreator.cpp:105
 #, fuzzy, kde-format
 #| msgid ""
-#| "The diff command failed. Please make sure that diff(1) is installed and "
-#| "in your PATH."
+#| "The diff command failed. Please make sure that diff(1) is installed and in "
+#| "your PATH."
 msgid ""
 "The diff command could not be started. Please make sure that diff(1) is "
 "installed and in your PATH."
 msgstr ""
-"diff കമാന്‍ഡ് പരാജയപ്പെട്ടു. diff(1) നിങ്ങളുടെ സിസ്റ്റമില്‍ ശരിയായ പാഥില്‍ ഇന്‍സ്റ്റോള്‍ "
-"ചെയ്തിരിക്കുന്നു എന്നു് ഉറപ്പാക്കുക."
+"diff കമാന്‍ഡ് പരാജയപ്പെട്ടു. diff(1) നിങ്ങളുടെ സിസ്റ്റമില്‍ ശരിയായ പാഥില്‍ "
+"ഇന്‍സ്റ്റോള്‍ ചെയ്തിരിക്കുന്നു എന്നു് ഉറപ്പാക്കുക."
 
 #: swapfile/kateswapfile.cpp:637
 #, kde-format
@@ -4895,8 +4871,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>comment</p><p>Inserts comment markers to make the selection or selected "
-"lines or current line a comment according to the text format as defined by "
-"the syntax highlight definition for the document.</p>"
+"lines or current line a comment according to the text format as defined by the"
+" syntax highlight definition for the document.</p>"
 msgstr ""
 
 #: utils/katecmds.cpp:86
@@ -4910,17 +4886,17 @@ msgstr ""
 #: utils/katecmds.cpp:91
 #, kde-format
 msgid ""
-"<p>goto <b>line number</b></p><p>This command navigates to the specified "
-"line number.</p>"
+"<p>goto <b>line number</b></p><p>This command navigates to the specified line "
+"number.</p>"
 msgstr ""
 
 #: utils/katecmds.cpp:96
 #, kde-format
 msgid ""
-"<p>set-indent-pasted-text <b>enable</b></p><p>If enabled, indentation of "
-"text pasted from the clipboard is adjusted using the current indenter.</"
-"p><p>Possible true values: 1 on true<br/>possible false values: 0 off false</"
-"p>"
+"<p>set-indent-pasted-text <b>enable</b></p><p>If enabled, indentation of text "
+"pasted from the clipboard is adjusted using the current "
+"indenter.</p><p>Possible true values: 1 on true<br/>possible false values: 0 "
+"off false</p>"
 msgstr ""
 
 #: utils/katecmds.cpp:102
@@ -4947,18 +4923,19 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>set-show-tabs <b>enable</b></p><p>If enabled, TAB characters and trailing "
-"whitespace will be visualized by a small dot.</p><p>Possible true values: 1 "
-"on true<br/>possible false values: 0 off false</p>"
+"whitespace will be visualized by a small dot.</p><p>Possible true values: 1 on"
+" true<br/>possible false values: 0 off false</p>"
 msgstr ""
 
 #: utils/katecmds.cpp:125
 #, kde-format
 msgid ""
-"<p>set-remove-trailing-spaces <b>mode</b></p><p>Removes the trailing spaces "
-"in the document depending on the <b>mode</b>.</p><p>Possible values:"
-"<ul><li><b>none</b>: never remove trailing spaces.</li><li><b>modified</b>: "
-"remove trailing spaces only of modified lines.</li><li><b>all</b>: remove "
-"trailing spaces in the entire document.</li></ul></p>"
+"<p>set-remove-trailing-spaces <b>mode</b></p><p>Removes the trailing spaces in"
+" the document depending on the <b>mode</b>.</p><p>Possible "
+"values:<ul><li><b>none</b>: never remove trailing "
+"spaces.</li><li><b>modified</b>: remove trailing spaces only of modified "
+"lines.</li><li><b>all</b>: remove trailing spaces in the entire "
+"document.</li></ul></p>"
 msgstr ""
 
 #: utils/katecmds.cpp:136
@@ -4971,16 +4948,16 @@ msgstr ""
 #: utils/katecmds.cpp:141
 #, kde-format
 msgid ""
-"<p>set-indent-mode <b>mode</b></p><p>The mode parameter is a value as seen "
-"in the Tools - Indentation menu</p>"
+"<p>set-indent-mode <b>mode</b></p><p>The mode parameter is a value as seen in "
+"the Tools - Indentation menu</p>"
 msgstr ""
 
 #: utils/katecmds.cpp:146
 #, kde-format
 msgid ""
-"<p>set-auto-indent <b>enable</b></p><p>Enable or disable autoindentation.</"
-"p><p>possible true values: 1 on true<br/>possible false values: 0 off false</"
-"p>"
+"<p>set-auto-indent <b>enable</b></p><p>Enable or disable "
+"autoindentation.</p><p>possible true values: 1 on true<br/>possible false "
+"values: 0 off false</p>"
 msgstr ""
 
 #: utils/katecmds.cpp:153
@@ -4994,9 +4971,9 @@ msgstr ""
 #: utils/katecmds.cpp:160
 #, kde-format
 msgid ""
-"<p>set-folding-markers <b>enable</b></p><p>Sets the visibility of the "
-"folding markers pane.</p><p> possible true values: 1 on true<br/>possible "
-"false values: 0 off false</p>"
+"<p>set-folding-markers <b>enable</b></p><p>Sets the visibility of the folding "
+"markers pane.</p><p> possible true values: 1 on true<br/>possible false "
+"values: 0 off false</p>"
 msgstr ""
 
 #: utils/katecmds.cpp:167
@@ -5027,17 +5004,17 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>set-replace-tabs-save <b>enable</b></p><p>When enabled, tabs will be "
-"replaced with whitespace whenever the document is saved.</p><p> possible "
-"true values: 1 on true<br/>possible false values: 0 off false</p>"
+"replaced with whitespace whenever the document is saved.</p><p> possible true "
+"values: 1 on true<br/>possible false values: 0 off false</p>"
 msgstr ""
 
 #: utils/katecmds.cpp:193
 #, kde-format
 msgid ""
 "<p>set-highlight <b>highlight</b></p><p>Sets the syntax highlighting system "
-"for the document. The argument must be a valid highlight name, as seen in "
-"the Tools → Highlighting menu. This command provides an autocompletion list "
-"for its argument.</p>"
+"for the document. The argument must be a valid highlight name, as seen in the "
+"Tools → Highlighting menu. This command provides an autocompletion list for "
+"its argument.</p>"
 msgstr ""
 
 #: utils/katecmds.cpp:198
@@ -5114,37 +5091,37 @@ msgstr "അപരിചിതമായ കമാന്‍ഡു് '%1'"
 msgid ""
 "<p> char <b>identifier</b> </p><p>This command allows you to insert literal "
 "characters by their numerical identifier, in decimal, octal or hexadecimal "
-"form.</p><p>Examples:<ul><li>char <b>234</b></li><li>char <b>0x1234</b></"
-"li></ul></p>"
+"form.</p><p>Examples:<ul><li>char <b>234</b></li><li>char "
+"<b>0x1234</b></li></ul></p>"
 msgstr ""
 
 #: utils/katecmds.cpp:563
 #, kde-format
 msgid ""
 "<p>date or date <b>format</b></p><p>Inserts a date/time string as defined by "
-"the specified format, or the format yyyy-MM-dd hh:mm:ss if none is specified."
-"</p><p>Possible format specifiers are:<table><tr><td>d</td><td>The day as "
-"number without a leading zero (1-31).</td></tr><tr><td>dd</td><td>The day as "
-"number with a leading zero (01-31).</td></tr><tr><td>ddd</td><td>The "
-"abbreviated localized day name (e.g. 'Mon'..'Sun').</td></tr><tr><td>dddd</"
-"td><td>The long localized day name (e.g. 'Monday'..'Sunday').</td></"
-"tr><tr><td>M</td><td>The month as number without a leading zero (1-12).</"
-"td></tr><tr><td>MM</td><td>The month as number with a leading zero (01-12).</"
-"td></tr><tr><td>MMM</td><td>The abbreviated localized month name (e.g. "
-"'Jan'..'Dec').</td></tr><tr><td>yy</td><td>The year as two digit number "
-"(00-99).</td></tr><tr><td>yyyy</td><td>The year as four digit number "
-"(1752-8000).</td></tr><tr><td>h</td><td>The hour without a leading zero "
-"(0..23 or 1..12 if AM/PM display).</td></tr><tr><td>hh</td><td>The hour with "
-"a leading zero (00..23 or 01..12 if AM/PM display).</td></tr><tr><td>m</"
-"td><td>The minute without a leading zero (0..59).</td></tr><tr><td>mm</"
-"td><td>The minute with a leading zero (00..59).</td></tr><tr><td>s</"
-"td><td>The second without a leading zero (0..59).</td></tr><tr><td>ss</"
-"td><td>The second with a leading zero (00..59).</td></tr><tr><td>z</"
-"td><td>The milliseconds without leading zeroes (0..999).</td></"
-"tr><tr><td>zzz</td><td>The milliseconds with leading zeroes (000..999).</"
-"td></tr><tr><td>AP</td><td>Use AM/PM display. AP will be replaced by either "
-"\"AM\" or \"PM\".</td></tr><tr><td>ap</td><td>Use am/pm display. ap will be "
-"replaced by either \"am\" or \"pm\".</td></tr></table></p>"
+"the specified format, or the format yyyy-MM-dd hh:mm:ss if none is "
+"specified.</p><p>Possible format specifiers are:<table><tr><td>d</td><td>The "
+"day as number without a leading zero (1-31).</td></tr><tr><td>dd</td><td>The "
+"day as number with a leading zero (01-31).</td></tr><tr><td>ddd</td><td>The "
+"abbreviated localized day name (e.g. "
+"'Mon'..'Sun').</td></tr><tr><td>dddd</td><td>The long localized day name (e.g."
+" 'Monday'..'Sunday').</td></tr><tr><td>M</td><td>The month as number without a"
+" leading zero (1-12).</td></tr><tr><td>MM</td><td>The month as number with a "
+"leading zero (01-12).</td></tr><tr><td>MMM</td><td>The abbreviated localized "
+"month name (e.g. 'Jan'..'Dec').</td></tr><tr><td>yy</td><td>The year as two "
+"digit number (00-99).</td></tr><tr><td>yyyy</td><td>The year as four digit "
+"number (1752-8000).</td></tr><tr><td>h</td><td>The hour without a leading zero"
+" (0..23 or 1..12 if AM/PM display).</td></tr><tr><td>hh</td><td>The hour with "
+"a leading zero (00..23 or 01..12 if AM/PM "
+"display).</td></tr><tr><td>m</td><td>The minute without a leading zero "
+"(0..59).</td></tr><tr><td>mm</td><td>The minute with a leading zero "
+"(00..59).</td></tr><tr><td>s</td><td>The second without a leading zero "
+"(0..59).</td></tr><tr><td>ss</td><td>The second with a leading zero "
+"(00..59).</td></tr><tr><td>z</td><td>The milliseconds without leading zeroes "
+"(0..999).</td></tr><tr><td>zzz</td><td>The milliseconds with leading zeroes "
+"(000..999).</td></tr><tr><td>AP</td><td>Use AM/PM display. AP will be replaced"
+" by either \"AM\" or \"PM\".</td></tr><tr><td>ap</td><td>Use am/pm display. ap"
+" will be replaced by either \"am\" or \"pm\".</td></tr></table></p>"
 msgstr ""
 
 #: utils/kateglobal.cpp:84
@@ -5522,7 +5499,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "അനി പീറ്റര്‍,സ്മിതാ ബി ആര്‍"
 
 #: utils/kateglobal.cpp:160
 #, kde-format
@@ -5620,15 +5597,15 @@ msgstr "ഡിസ്കില്‍ നിന്നും നിലവിലു�
 #: utils/katevariableexpansionmanager.cpp:88
 #, kde-format
 msgid ""
-"Full document path including file name, with native path separator "
-"(backslash on Windows)."
+"Full document path including file name, with native path separator (backslash "
+"on Windows)."
 msgstr ""
 
 #: utils/katevariableexpansionmanager.cpp:96
 #, kde-format
 msgid ""
-"Full document path excluding file name, with native path separator "
-"(backslash on Windows)."
+"Full document path excluding file name, with native path separator (backslash "
+"on Windows)."
 msgstr ""
 
 #: utils/katevariableexpansionmanager.cpp:104
@@ -5640,8 +5617,7 @@ msgstr ""
 #: utils/katevariableexpansionmanager.cpp:109
 #, kde-format
 msgid ""
-"Column number of the text cursor position in current document (starts with "
-"0)."
+"Column number of the text cursor position in current document (starts with 0)."
 msgstr ""
 
 #: utils/katevariableexpansionmanager.cpp:114
@@ -6161,8 +6137,8 @@ msgstr ""
 #: view/katestatusbar.cpp:563
 #, kde-format
 msgctxt ""
-"%1 and %3 are the selected words/chars count, %2 and %4 are the total words/"
-"chars count."
+"%1 and %3 are the selected words/chars count, %2 and %4 are the total "
+"words/chars count."
 msgid "Words %1/%2, Chars %3/%4"
 msgstr ""
 
@@ -6216,8 +6192,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "Use this to wrap the current line, or to reformat the selected lines as "
-"paragraph, to fit the 'Wrap words at' setting in the configuration dialog."
-"<br /><br />This is a static word wrap, meaning the document is changed."
+"paragraph, to fit the 'Wrap words at' setting in the configuration dialog.<br "
+"/><br />This is a static word wrap, meaning the document is changed."
 msgstr ""
 
 #: view/kateview.cpp:504
@@ -6228,9 +6204,9 @@ msgstr ""
 #: view/kateview.cpp:506
 #, kde-format
 msgid ""
-"Use this to clean the indentation of a selected block of text (only tabs/"
-"only spaces).<br /><br />You can configure whether tabs should be honored "
-"and used or replaced with spaces, in the configuration dialog."
+"Use this to clean the indentation of a selected block of text (only tabs/only "
+"spaces).<br /><br />You can configure whether tabs should be honored and used "
+"or replaced with spaces, in the configuration dialog."
 msgstr ""
 
 #: view/kateview.cpp:511
@@ -6253,8 +6229,8 @@ msgstr ""
 #: view/kateview.cpp:519
 #, kde-format
 msgid ""
-"This command comments out the current line or a selected block of text.<br /"
-"><br />The characters for single/multiple line comments are defined within "
+"This command comments out the current line or a selected block of text.<br "
+"/><br />The characters for single/multiple line comments are defined within "
 "the language's highlighting."
 msgstr ""
 
@@ -6277,8 +6253,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "This command removes comments from the current line or a selected block of "
-"text.<br /><br />The characters for single/multiple line comments are "
-"defined within the language's highlighting."
+"text.<br /><br />The characters for single/multiple line comments are defined "
+"within the language's highlighting."
 msgstr ""
 
 #: view/kateview.cpp:542
@@ -6328,8 +6304,7 @@ msgstr ""
 #: view/kateview.cpp:575
 #, kde-format
 msgid ""
-"Capitalize the selection, or the word under the cursor if no text is "
-"selected."
+"Capitalize the selection, or the word under the cursor if no text is selected."
 msgstr ""
 
 #: view/kateview.cpp:580
@@ -6345,8 +6320,8 @@ msgstr ""
 #: view/kateview.cpp:586
 #, kde-format
 msgid ""
-"Manually invoke command completion, usually by using a shortcut bound to "
-"this action."
+"Manually invoke command completion, usually by using a shortcut bound to this "
+"action."
 msgstr ""
 
 #: view/kateview.cpp:598
@@ -6372,7 +6347,8 @@ msgstr "ഡിസ്കില്‍ നിന്നും നിലവിലു�
 #: view/kateview.cpp:611
 #, kde-format
 msgid "Save the current document to disk, with a name of your choice."
-msgstr "നിങ്ങള്‍ക്കു് ഇഷ്ടമുള്ള ഒരു പേരില്‍ നിലവിലുള്ള രേഖ ഡിസ്കിലേക്കു് സൂക്ഷിക്കുക."
+msgstr ""
+"നിങ്ങള്‍ക്കു് ഇഷ്ടമുള്ള ഒരു പേരില്‍ നിലവിലുള്ള രേഖ ഡിസ്കിലേക്കു് സൂക്ഷിക്കുക."
 
 #: view/kateview.cpp:613
 #, kde-format
@@ -6575,8 +6551,8 @@ msgstr ""
 #: view/kateview.cpp:734
 #, kde-format
 msgid ""
-"Show/hide the Word Wrap Marker, a vertical line drawn at the word wrap "
-"column as defined in the editing properties"
+"Show/hide the Word Wrap Marker, a vertical line drawn at the word wrap column "
+"as defined in the editing properties"
 msgstr ""
 
 #: view/kateview.cpp:738
@@ -6599,8 +6575,8 @@ msgstr ""
 #: view/kateview.cpp:746
 #, kde-format
 msgid ""
-"Show/hide the icon border.<br /><br />The icon border shows bookmark "
-"symbols, for instance."
+"Show/hide the icon border.<br /><br />The icon border shows bookmark symbols, "
+"for instance."
 msgstr ""
 
 #: view/kateview.cpp:749
@@ -6639,9 +6615,12 @@ msgstr ""
 
 #. i18n("Show the whole document in the Mini-Map"), this);
 #. ac->addAction(QLatin1String("view_scrollbar_minimap_all"), a);
-#. a->setWhatsThis(i18n("Display the whole document in the mini-map.<br /><br />With this option set the whole document will be visible in the mini-map."));
+#. a->setWhatsThis(i18n("Display the whole document in the mini-map.<br /><br
+#. />With this option set the whole document will be visible in the mini-
+#. map."));
 #. connect(a, SIGNAL(triggered(bool)), SLOT(toggleScrollBarMiniMapAll()));
-#. connect(m_toggleScrollBarMiniMap, SIGNAL(triggered(bool)), m_toggleScrollBarMiniMapAll, SLOT(setEnabled(bool)));
+#. connect(m_toggleScrollBarMiniMap, SIGNAL(triggered(bool)),
+#. m_toggleScrollBarMiniMapAll, SLOT(setEnabled(bool)));
 #: view/kateview.cpp:774
 #, kde-format
 msgid "Show Non-Printable Spaces"
@@ -6708,8 +6687,8 @@ msgstr ""
 #: view/kateview.cpp:814
 #, kde-format
 msgid ""
-"Enable/disable adding of byte order marks for UTF-8/UTF-16 encoded files "
-"while saving"
+"Enable/disable adding of byte order marks for UTF-8/UTF-16 encoded files while"
+" saving"
 msgstr ""
 
 #: view/kateview.cpp:818
@@ -6755,8 +6734,8 @@ msgstr ""
 #: view/kateview.cpp:846
 #, kde-format
 msgid ""
-"Look up a piece of text or regular expression and replace the result with "
-"some given text."
+"Look up a piece of text or regular expression and replace the result with some"
+" given text."
 msgstr ""
 
 #: view/kateview.cpp:849
@@ -7017,8 +6996,8 @@ msgstr ""
 #: view/kateview.cpp:1153
 #, kde-format
 msgid ""
-"Insert newline including leading characters of the current line which are "
-"not letters or numbers."
+"Insert newline including leading characters of the current line which are not "
+"letters or numbers."
 msgstr ""
 
 #: view/kateview.cpp:1161
@@ -7100,11 +7079,10 @@ msgstr "ലഭ്യമായ കമാന്‍ഡുകള്‍"
 #: view/kateviewhelpers.cpp:1105
 #, kde-format
 msgid ""
-"<p>For help on individual commands, do <code>'help &lt;command&gt;'</code></"
-"p>"
+"<p>For help on individual commands, do <code>'help &lt;command&gt;'</code></p>"
 msgstr ""
-"<p>ഓരോ കമാന്‍ഡുകള്‍ക്കും ആവശ്യമുള്ള സഹായത്തിനായി, <code>'help &lt;command&gt;'</code></"
-"p> ഉപയോഗിക്കുക."
+"<p>ഓരോ കമാന്‍ഡുകള്‍ക്കും ആവശ്യമുള്ള സഹായത്തിനായി, <code>'help "
+"&lt;command&gt;'</code></p> ഉപയോഗിക്കുക."
 
 #: view/kateviewhelpers.cpp:1112
 #, kde-format
@@ -7119,8 +7097,8 @@ msgstr "ഇങ്ങനെയൊരു കമാന്‍ഡു് ലഭ്യ�
 #: view/kateviewhelpers.cpp:1121
 #, kde-format
 msgid ""
-"<p>This is the Katepart <b>command line</b>.<br />Syntax: <code><b>command "
-"[ arguments ]</b></code><br />For a list of available commands, enter "
+"<p>This is the Katepart <b>command line</b>.<br />Syntax: <code><b>command [ "
+"arguments ]</b></code><br />For a list of available commands, enter "
 "<code><b>help list</b></code><br />For help for individual commands, enter "
 "<code><b>help &lt;command&gt;</b></code></p>"
 msgstr ""
@@ -7173,123 +7151,124 @@ msgstr "തുറക്കുന്നതിനുള്ള രേഖ"
 #: vimode/appcommands.cpp:214
 #, kde-format
 msgid ""
-"<p><b>w/wa &mdash; write document(s) to disk</b></p><p>Usage: <tt><b>w[a]</"
-"b></tt></p><p>Writes the current document(s) to disk. It can be called in "
-"two ways:<br /> <tt>w</tt> &mdash; writes the current document to disk<br /> "
-"<tt>wa</tt> &mdash; writes all documents to disk.</p><p>If no file name is "
-"associated with the document, a file dialog will be shown.</p>"
+"<p><b>w/wa &mdash; write document(s) to disk</b></p><p>Usage: "
+"<tt><b>w[a]</b></tt></p><p>Writes the current document(s) to disk. It can be "
+"called in two ways:<br /> <tt>w</tt> &mdash; writes the current document to "
+"disk<br /> <tt>wa</tt> &mdash; writes all documents to disk.</p><p>If no file "
+"name is associated with the document, a file dialog will be shown.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:225
 #, kde-format
 msgid ""
-"<p><b>q/qa/wq/wqa &mdash; [write and] quit</b></p><p>Usage: <tt><b>[w]q[a]</"
-"b></tt></p><p>Quits the application. If <tt>w</tt> is prepended, it also "
-"writes the document(s) to disk. This command can be called in several ways:"
-"<br /> <tt>q</tt> &mdash; closes the current view.<br /> <tt>qa</tt> &mdash; "
-"closes all views, effectively quitting the application.<br /> <tt>wq</tt> "
-"&mdash; writes the current document to disk and closes its view.<br /> "
-"<tt>wqa</tt> &mdash; writes all documents to disk and quits.</p><p>In all "
-"cases, if the view being closed is the last view, the application quits. If "
-"no file name is associated with the document and it should be written to "
-"disk, a file dialog will be shown.</p>"
+"<p><b>q/qa/wq/wqa &mdash; [write and] quit</b></p><p>Usage: "
+"<tt><b>[w]q[a]</b></tt></p><p>Quits the application. If <tt>w</tt> is "
+"prepended, it also writes the document(s) to disk. This command can be called "
+"in several ways:<br /> <tt>q</tt> &mdash; closes the current view.<br /> "
+"<tt>qa</tt> &mdash; closes all views, effectively quitting the application.<br"
+" /> <tt>wq</tt> &mdash; writes the current document to disk and closes its "
+"view.<br /> <tt>wqa</tt> &mdash; writes all documents to disk and "
+"quits.</p><p>In all cases, if the view being closed is the last view, the "
+"application quits. If no file name is associated with the document and it "
+"should be written to disk, a file dialog will be shown.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:240
 #, kde-format
 msgid ""
-"<p><b>x/xa &mdash; write and quit</b></p><p>Usage: <tt><b>x[a]</b></tt></"
-"p><p>Saves document(s) and quits (e<b>x</b>its). This command can be called "
-"in two ways:<br /> <tt>x</tt> &mdash; closes the current view.<br /> <tt>xa</"
-"tt> &mdash; closes all views, effectively quitting the application.</p><p>In "
-"all cases, if the view being closed is the last view, the application quits. "
-"If no file name is associated with the document and it should be written to "
-"disk, a file dialog will be shown.</p><p>Unlike the 'w' commands, this "
-"command only writes the document if it is modified.</p>"
+"<p><b>x/xa &mdash; write and quit</b></p><p>Usage: "
+"<tt><b>x[a]</b></tt></p><p>Saves document(s) and quits (e<b>x</b>its). This "
+"command can be called in two ways:<br /> <tt>x</tt> &mdash; closes the current"
+" view.<br /> <tt>xa</tt> &mdash; closes all views, effectively quitting the "
+"application.</p><p>In all cases, if the view being closed is the last view, "
+"the application quits. If no file name is associated with the document and it "
+"should be written to disk, a file dialog will be shown.</p><p>Unlike the 'w' "
+"commands, this command only writes the document if it is modified.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:254
 #, kde-format
 msgid ""
-"<p><b>sp,split&mdash; Split horizontally the current view into two</b></"
-"p><p>Usage: <tt><b>sp[lit]</b></tt></p><p>The result is two views on the "
-"same document.</p>"
+"<p><b>sp,split&mdash; Split horizontally the current view into "
+"two</b></p><p>Usage: <tt><b>sp[lit]</b></tt></p><p>The result is two views on "
+"the same document.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:260
 #, kde-format
 msgid ""
-"<p><b>vs,vsplit&mdash; Split vertically the current view into two</b></"
-"p><p>Usage: <tt><b>vs[plit]</b></tt></p><p>The result is two views on the "
-"same document.</p>"
+"<p><b>vs,vsplit&mdash; Split vertically the current view into "
+"two</b></p><p>Usage: <tt><b>vs[plit]</b></tt></p><p>The result is two views on"
+" the same document.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:266
 #, kde-format
 msgid ""
-"<p><b>clo[se]&mdash; Close the current view</b></p><p>Usage: <tt><b>clo[se]</"
-"b></tt></p><p>After executing it, the current view will be closed.</p>"
+"<p><b>clo[se]&mdash; Close the current view</b></p><p>Usage: "
+"<tt><b>clo[se]</b></tt></p><p>After executing it, the current view will be "
+"closed.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:272
 #, kde-format
 msgid ""
 "<p><b>[v]new &mdash; split view and create new document</b></p><p>Usage: "
-"<tt><b>[v]new</b></tt></p><p>Splits the current view and opens a new "
-"document in the new view. This command can be called in two ways:<br /> "
-"<tt>new</tt> &mdash; splits the view horizontally and opens a new document."
-"<br /> <tt>vnew</tt> &mdash; splits the view vertically and opens a new "
-"document.<br /></p>"
+"<tt><b>[v]new</b></tt></p><p>Splits the current view and opens a new document "
+"in the new view. This command can be called in two ways:<br /> <tt>new</tt> "
+"&mdash; splits the view horizontally and opens a new document.<br /> "
+"<tt>vnew</tt> &mdash; splits the view vertically and opens a new document.<br "
+"/></p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:282
 #, kde-format
 msgid ""
-"<p><b>e[dit] &mdash; reload current document</b></p><p>Usage: <tt><b>e[dit]</"
-"b></tt></p><p>Starts <b>e</b>diting the current document again. This is "
-"useful to re-edit the current file, when it has been changed by another "
-"program.</p>"
+"<p><b>e[dit] &mdash; reload current document</b></p><p>Usage: "
+"<tt><b>e[dit]</b></tt></p><p>Starts <b>e</b>diting the current document again."
+" This is useful to re-edit the current file, when it has been changed by "
+"another program.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:512
 #, kde-format
 msgid ""
-"<p><b>b,buffer &mdash; Edit document N from the document list</b></"
-"p><p>Usage: <tt><b>b[uffer] [N]</b></tt></p>"
+"<p><b>b,buffer &mdash; Edit document N from the document list</b></p><p>Usage:"
+" <tt><b>b[uffer] [N]</b></tt></p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:517
 #, kde-format
 msgid ""
 "<p><b>bp,bprev &mdash; previous buffer</b></p><p>Usage: <tt><b>bp[revious] "
-"[N]</b></tt></p><p>Goes to <b>[N]</b>th previous document (\"<b>b</b>uffer"
-"\") in document list. </p><p> <b>[N]</b> defaults to one. </p><p>Wraps "
-"around the start of the document list.</p>"
+"[N]</b></tt></p><p>Goes to <b>[N]</b>th previous document (\"<b>b</b>uffer\") "
+"in document list. </p><p> <b>[N]</b> defaults to one. </p><p>Wraps around the "
+"start of the document list.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:525
 #, kde-format
 msgid ""
-"<p><b>bn,bnext &mdash; switch to next document</b></p><p>Usage: "
-"<tt><b>bn[ext] [N]</b></tt></p><p>Goes to <b>[N]</b>th next document "
-"(\"<b>b</b>uffer\") in document list.<b>[N]</b> defaults to one. </"
-"p><p>Wraps around the end of the document list.</p>"
+"<p><b>bn,bnext &mdash; switch to next document</b></p><p>Usage: <tt><b>bn[ext]"
+" [N]</b></tt></p><p>Goes to <b>[N]</b>th next document (\"<b>b</b>uffer\") in "
+"document list.<b>[N]</b> defaults to one. </p><p>Wraps around the end of the "
+"document list.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:533
 #, kde-format
 msgid ""
-"<p><b>bf,bfirst &mdash; first document</b></p><p>Usage: <tt><b>bf[irst]</b></"
-"tt></p><p>Goes to the <b>f</b>irst document (\"<b>b</b>uffer\") in document "
-"list.</p>"
+"<p><b>bf,bfirst &mdash; first document</b></p><p>Usage: "
+"<tt><b>bf[irst]</b></tt></p><p>Goes to the <b>f</b>irst document "
+"(\"<b>b</b>uffer\") in document list.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:539
 #, kde-format
 msgid ""
-"<p><b>bl,blast &mdash; last document</b></p><p>Usage: <tt><b>bl[ast]</b></"
-"tt></p><p>Goes to the <b>l</b>ast document (\"<b>b</b>uffer\") in document "
-"list.</p>"
+"<p><b>bl,blast &mdash; last document</b></p><p>Usage: "
+"<tt><b>bl[ast]</b></tt></p><p>Goes to the <b>l</b>ast document "
+"(\"<b>b</b>uffer\") in document list.</p>"
 msgstr ""
 
 #: vimode/appcommands.cpp:545
@@ -7365,9 +7344,7 @@ msgstr "വരിയുടെ &അക്കങ്ങള്‍ പ്രിന്
 #: vimode/config/configwidget.ui:63
 #, kde-format
 msgid ""
-"Key mapping is used to change the meaning of typed keys. This allows you to "
-"move commands to other keys or make special keypresses for doing a series of "
-"commands.\n"
+"Key mapping is used to change the meaning of typed keys. This allows you to move commands to other keys or make special keypresses for doing a series of commands.\n"
 "\n"
 "Example:\n"
 "\"<F2>\" → \"I-- <esc>\"\n"
@@ -7469,9 +7446,10 @@ msgstr ""
 msgid "Mark not set: %1"
 msgstr "ചേര്‍ക്കുക: %1"
 
-#~ msgid ""
-#~ "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
-#~ msgstr "\"%1\" എന്നു് പേരുള്ള ഒരു ഫയല്‍ നിലവിലുണ്ടു്. നിങ്ങള്‍ക്കു് അതു് മാറ്റി എഴുതണമോ?"
+#~ msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+#~ msgstr ""
+#~ "\"%1\" എന്നു് പേരുള്ള ഒരു ഫയല്‍ നിലവിലുണ്ടു്. നിങ്ങള്‍ക്കു് അതു് മാറ്റി "
+#~ "എഴുതണമോ?"
 
 #~ msgid "Overwrite File?"
 #~ msgstr "ഫയല്‍ മാറ്റി എഴുതണമോ?"
@@ -7498,7 +7476,8 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "ഏറ്റവും പുതിയതു്"
 
 #~ msgid "<b>Note:</b> New versions are selected automatically."
-#~ msgstr "<b>കുറിപ്പു്:</b> പുതിയ പതിപ്പുകള്‍ ഓട്ടോമാറ്റിക്കായി തിരഞ്ഞെടുക്കുന്നു."
+#~ msgstr ""
+#~ "<b>കുറിപ്പു്:</b> പുതിയ പതിപ്പുകള്‍ ഓട്ടോമാറ്റിക്കായി തിരഞ്ഞെടുക്കുന്നു."
 
 #~ msgid "&Install"
 #~ msgstr "&ഇന്‍സ്റ്റോള്‍ ചെയ്യുക"
@@ -7864,11 +7843,12 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "ഡിസ്കില്‍ ഫയലില്‍ മാറ്റം വരുത്തിയിരിക്കുന്നു"
 
 #~ msgid ""
-#~ "Do nothing. Next time you focus the file, or try to save it or close it, "
-#~ "you will be prompted again."
+#~ "Do nothing. Next time you focus the file, or try to save it or close it, you "
+#~ "will be prompted again."
 #~ msgstr ""
-#~ "ഒന്നും ചെയ്യേണ്ടതില്ല. അടുത്ത തവണ നിങ്ങള്‍ ഈ ഫയല്‍ ഉപയോഗിക്കുമ്പോള്‍, അല്ലെങ്കില്‍ അതു് "
-#~ "സൂക്ഷിക്കുമ്പോള്‍ അല്ലെങ്കില്‍ അടയ്ക്കുമ്പോള്‍, നിങ്ങളോടു് വീണ്ടും ചോദിക്കുന്നതാണു്."
+#~ "ഒന്നും ചെയ്യേണ്ടതില്ല. അടുത്ത തവണ നിങ്ങള്‍ ഈ ഫയല്‍ ഉപയോഗിക്കുമ്പോള്‍, "
+#~ "അല്ലെങ്കില്‍ അതു് സൂക്ഷിക്കുമ്പോള്‍ അല്ലെങ്കില്‍ അടയ്ക്കുമ്പോള്‍, നിങ്ങളോടു് "
+#~ "വീണ്ടും ചോദിക്കുന്നതാണു്."
 
 #~ msgid "Overwrite the disk file with the editor content."
 #~ msgstr "എഡിറ്ററിലുള്ള ഉള്ളടക്കമുപയോഗിച്ചു് ഡിസ്ക് ഫയല്‍ തിരുത്തിയെഴുതുക."
@@ -7879,7 +7859,8 @@ msgstr "ചേര്‍ക്കുക: %1"
 
 #, fuzzy
 #~ msgid "Ignoring amount of white space changed, the files are identical."
-#~ msgstr "വൈറ്റ് സ്പെയിസില്‍ വരുത്തിയ മാറ്റങ്ങള്‍ ഒഴികെ ഫയലുകള്‍ തമ്മില്‍ വ്യത്യാസമില്ല."
+#~ msgstr ""
+#~ "വൈറ്റ് സ്പെയിസില്‍ വരുത്തിയ മാറ്റങ്ങള്‍ ഒഴികെ ഫയലുകള്‍ തമ്മില്‍ വ്യത്യാസമില്ല."
 
 #, fuzzy
 #~ msgid "&Next"
@@ -8089,7 +8070,9 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "ഒരു പുതിയ രേഖ പ്രിന്റ് ഉണ്ടാക്കുന്നതിനായി ഈ കമാന്‍ഡു് ഉപയോഗിക്കുക"
 
 #~ msgid "Use this command to open an existing document for editing"
-#~ msgstr "നിലവിലുള്ള ഒരു രേഖ തുറന്നു് അതില്‍ മാറ്റം വരുത്തുന്നതിനായി ഈ കമാന്‍ഡു് ഉപയോഗിക്കുക"
+#~ msgstr ""
+#~ "നിലവിലുള്ള ഒരു രേഖ തുറന്നു് അതില്‍ മാറ്റം വരുത്തുന്നതിനായി ഈ കമാന്‍ഡു് "
+#~ "ഉപയോഗിക്കുക"
 
 #~ msgid "&New Window"
 #~ msgstr "&പുതിയ ജാലകം"
@@ -8116,11 +8099,11 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "ഫയല്‍ തുറക്കുക"
 
 #~ msgid ""
-#~ "The given file could not be read, check if it exists or if it is readable "
-#~ "for the current user."
+#~ "The given file could not be read, check if it exists or if it is readable for "
+#~ "the current user."
 #~ msgstr ""
-#~ "നല്‍കിയിരിക്കുന്ന ഫയല്‍ വായിക്കുവാന്‍ സാധ്യമല്ല, അതു് നിലവിലുണ്ടോ ഉണ്ടെങ്കില്‍ ഉപയോക്താവിനു് "
-#~ "ലഭ്യമാണോ എന്നു് പരിശോധിക്കുക."
+#~ "നല്‍കിയിരിക്കുന്ന ഫയല്‍ വായിക്കുവാന്‍ സാധ്യമല്ല, അതു് നിലവിലുണ്ടോ ഉണ്ടെങ്കില്‍"
+#~ " ഉപയോക്താവിനു് ലഭ്യമാണോ എന്നു് പരിശോധിക്കുക."
 
 #~ msgid "Read the contents of stdin"
 #~ msgstr "stdin-ന്റെ ഉള്ളടക്കം വായിക്കുക"
@@ -8135,13 +8118,15 @@ msgstr "ചേര്‍ക്കുക: %1"
 #~ msgstr "(c) 2000-2005 കെയിറ്റ് രചിതാക്കള്‍"
 
 #~ msgid "Directory containing tests, basedir and output directories."
-#~ msgstr "ടെസ്റ്റുകള്‍, basedir, ഔട്ട്പുട്ടു് ഡയറക്ടറികള്‍ എന്നിവയടങ്ങുന്ന ഡയറക്ടറി."
+#~ msgstr ""
+#~ "ടെസ്റ്റുകള്‍, basedir, ഔട്ട്പുട്ടു് ഡയറക്ടറികള്‍ എന്നിവയടങ്ങുന്ന ഡയറക്ടറി."
 
 #~ msgid "Keep output files even on success"
 #~ msgstr "വി‍ജയിച്ചു എങ്കിലും ഔട്ട്പുട്ട് ഫയലുകള്‍ സൂക്ഷിക്കുക"
 
 #~ msgid "Put output in <directory> instead of <base_dir>/output"
-#~ msgstr "<base_dir>/output എന്നതിനു് പകരം <directory>-ല്‍ ഔട്ട്പുട്ട് സൂക്ഷിക്കുക"
+#~ msgstr ""
+#~ "<base_dir>/output എന്നതിനു് പകരം <directory>-ല്‍ ഔട്ട്പുട്ട് സൂക്ഷിക്കുക"
 
 #~ msgid "Error: "
 #~ msgstr "പിശകു്:"

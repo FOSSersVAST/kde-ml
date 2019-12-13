@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-08-13 03:13+0200\n"
 "PO-Revision-Date: 2019-12-12 21:33+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "അനി പീറ്റര്‍"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -267,8 +266,7 @@ msgstr ""
 #: src/editor/resourceeditor.cpp:595
 #, kde-format
 msgid ""
-"The selected keyboard layout is already present as a built-in keyboard "
-"layout."
+"The selected keyboard layout is already present as a built-in keyboard layout."
 msgstr ""
 
 #: src/editor/resourceeditor.cpp:596 src/editor/resourceeditor.cpp:611
@@ -425,7 +423,8 @@ msgstr ""
 msgid ""
 "Copyright (C) 2011-2015 by Sebastian Gottfried\n"
 "Copyright (C) 2000-2007 by Håvard Frøiland and Andreas Nicolai"
-msgstr "Copyright (C) 2000-2007 - ഹാവര്‍ഡ് ഫ്രോയിലാന്‍ഡ്, ആന്‍ഡ്രിയാസ് നിക്കോളായി"
+msgstr ""
+"Copyright (C) 2000-2007 - ഹാവര്‍ഡ് ഫ്രോയിലാന്‍ഡ്, ആന്‍ഡ്രിയാസ് നിക്കോളായി"
 
 #: src/main.cpp:49
 #, kde-format
@@ -618,8 +617,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "KTouch can't switch or set up keyboard layouts. Before training, you have to "
-"configure your computer to use the correct keyboard layout. Otherwise you "
-"will have to use your current keyboard layout to type the lesson text."
+"configure your computer to use the correct keyboard layout. Otherwise you will"
+" have to use your current keyboard layout to type the lesson text."
 msgstr ""
 
 #: src/qml/homescreen/LessonDeletedMessage.qml:55
@@ -973,7 +972,8 @@ msgstr "നീക്കം ചെയ്യുക"
 msgid "New characters:"
 msgstr "പുതിയ അക്ഷരങ്ങള്‍"
 
-#. i18n: ectx: property (windowTitle), widget (QDialog, CustomLessonEditorDialog)
+#. i18n: ectx: property (windowTitle), widget (QDialog,
+#. CustomLessonEditorDialog)
 #: src/ui/customlessoneditordialog.ui:14
 #, kde-format
 msgid "Dialog"
@@ -991,7 +991,8 @@ msgstr "പുതിയ കീബോര്‍ഡ് ഉണ്ടാക്കു�
 msgid "Normal Key"
 msgstr "സാധാരണ കീ"
 
-#. i18n: ectx: property (toolTip), widget (QToolButton, m_newSpecialKeyToolButton)
+#. i18n: ectx: property (toolTip), widget (QToolButton,
+#. m_newSpecialKeyToolButton)
 #: src/ui/keyboardlayouteditor.ui:43
 #, fuzzy, kde-format
 msgid "Create new special key"
@@ -1155,43 +1156,50 @@ msgstr "കീയിലുള്ള അക്ഷരങ്ങള്‍"
 msgid "Type:"
 msgstr ""
 
-#. i18n: ectx: property (text), item, widget (KComboBox, m_specialKeyTypeComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. m_specialKeyTypeComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:579
 #, kde-format
 msgid "Tab"
 msgstr ""
 
-#. i18n: ectx: property (text), item, widget (KComboBox, m_specialKeyTypeComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. m_specialKeyTypeComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:584
 #, kde-format
 msgid "Capslock"
 msgstr ""
 
-#. i18n: ectx: property (text), item, widget (KComboBox, m_specialKeyTypeComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. m_specialKeyTypeComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:589
 #, kde-format
 msgid "Shift"
 msgstr ""
 
-#. i18n: ectx: property (text), item, widget (KComboBox, m_specialKeyTypeComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. m_specialKeyTypeComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:594
 #, kde-format
 msgid "Backspace"
 msgstr ""
 
-#. i18n: ectx: property (text), item, widget (KComboBox, m_specialKeyTypeComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. m_specialKeyTypeComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:599
 #, kde-format
 msgid "Return"
 msgstr ""
 
-#. i18n: ectx: property (text), item, widget (KComboBox, m_specialKeyTypeComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. m_specialKeyTypeComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:604
 #, kde-format
 msgid "Space"
 msgstr ""
 
-#. i18n: ectx: property (text), item, widget (KComboBox, m_specialKeyTypeComboBox)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. m_specialKeyTypeComboBox)
 #: src/ui/keyboardlayoutpropertieswidget.ui:609
 #, kde-format
 msgid "Other"
@@ -1215,7 +1223,8 @@ msgstr "മോഡിഫയര്‍/മറ്റ് കീകള്‍:"
 msgid "Open a text file..."
 msgstr "കീബോര്‍ഡ് ഫയല്‍ തുറക്കുക:"
 
-#. i18n: ectx: property (toolTip), widget (QToolButton, m_reformatLessonTextButton)
+#. i18n: ectx: property (toolTip), widget (QToolButton,
+#. m_reformatLessonTextButton)
 #: src/ui/lessontexteditor.ui:46
 #, kde-format
 msgid "Wrap lines automatically"
@@ -1227,7 +1236,8 @@ msgstr ""
 msgid "0 Characters"
 msgstr "അക്ഷരം"
 
-#. i18n: ectx: property (toolTip), widget (QToolButton, m_pasteCurrentNameButton)
+#. i18n: ectx: property (toolTip), widget (QToolButton,
+#. m_pasteCurrentNameButton)
 #: src/ui/newkeyboardlayoutwidget.ui:37
 #, fuzzy, kde-format
 msgid "Paste current system keyboard layout name"
@@ -1239,7 +1249,8 @@ msgstr "തലക്കെട്ടില്ലാത്ത കീബോര്�
 msgid "During training:"
 msgstr "&പരിശീലനം"
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnforceTypingErrorCorrection)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_EnforceTypingErrorCorrection)
 #: src/ui/trainingconfigwidget.ui:32
 #, kde-format
 msgid "Enforce correction of typing errors"
@@ -1719,8 +1730,8 @@ msgstr ""
 #~ "This is not a valid unicode number. Please correct the number or enter a "
 #~ "character."
 #~ msgstr ""
-#~ "ഇതു് ശരിയായൊരു യൂണിക്കോഡ് നമ്പര്‍ അല്ല. ദയവായി നമ്പര്‍ തിരുത്തുക അല്ലെങ്കില്‍ ഉചിതമായ അക്ഷരം "
-#~ "നല്‍കുക."
+#~ "ഇതു് ശരിയായൊരു യൂണിക്കോഡ് നമ്പര്‍ അല്ല. ദയവായി നമ്പര്‍ തിരുത്തുക അല്ലെങ്കില്‍ "
+#~ "ഉചിതമായ അക്ഷരം നല്‍കുക."
 
 #, fuzzy
 #~ msgid "Please enter either a character or a unicode number."
@@ -1773,7 +1784,9 @@ msgstr ""
 #~ msgstr "കീബോര്‍ഡ് മാതൃകാ ഫയല്‍ '%1' ലഭ്യമായില്ല. %2"
 
 #~ msgid "Could not download/open keyboard layout file from '%1'."
-#~ msgstr "'%1'-ല്‍ നിന്നും കീബോര്‍ഡ് മാതൃകാ ഫയല്‍ ഡൌണ്‍ലോട് ചെയ്യുവാനോ തുറക്കുവാനോ സാധ്യമായില്ല."
+#~ msgstr ""
+#~ "'%1'-ല്‍ നിന്നും കീബോര്‍ഡ് മാതൃകാ ഫയല്‍ ഡൌണ്‍ലോട് ചെയ്യുവാനോ തുറക്കുവാനോ "
+#~ "സാധ്യമായില്ല."
 
 #~ msgid "<new unnamed lecture file>"
 #~ msgstr "<new unnamed lecture file>"
@@ -1947,8 +1960,8 @@ msgstr ""
 
 #~ msgid "Keyboard Layout (click to activate keys for editing or drag keys)"
 #~ msgstr ""
-#~ "കീബോര്‍ഡ് മാതൃക (ചിട്ടപ്പെടുത്തുന്നതിനുള്ള കീകള്‍ സജ്ജമാക്കുന്നതിനായി ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കില്‍ "
-#~ "വലിച്ചിടുക)"
+#~ "കീബോര്‍ഡ് മാതൃക (ചിട്ടപ്പെടുത്തുന്നതിനുള്ള കീകള്‍ സജ്ജമാക്കുന്നതിനായി ക്ലിക്ക്"
+#~ " ചെയ്യുക അല്ലെങ്കില്‍ വലിച്ചിടുക)"
 
 #~ msgid "KTouch Lecture Editor"
 #~ msgstr "കെ-ടച്ച് ലെക്ചര്‍ എഡിറ്റര്‍"
@@ -2027,21 +2040,21 @@ msgstr ""
 #~ msgid "Change the text color for the student line"
 #~ msgstr "വിദ്യാര്‍ത്ഥിയുടെ വരിയുടെ വാചകത്തിനുള്ള നിറം മാറ്റുക"
 
-#~ msgid ""
-#~ "Here you can change the color of the text you type in the student line."
+#~ msgid "Here you can change the color of the text you type in the student line."
 #~ msgstr ""
-#~ "വിദ്യാര്‍ത്ഥിയുടെ വരിയില്‍ ടൈപ്പ് ചെയ്യുന്ന വാചകത്തിന്റെ നിറം നിങ്ങള്‍ക്കിവിടെ മാറ്റാം."
+#~ "വിദ്യാര്‍ത്ഥിയുടെ വരിയില്‍ ടൈപ്പ് ചെയ്യുന്ന വാചകത്തിന്റെ നിറം നിങ്ങള്‍ക്കിവിടെ"
+#~ " മാറ്റാം."
 
 #~ msgid "The background for the teacher's line"
 #~ msgstr "അദ്ധ്യാപകന്റെ വരിയുടെ പശ്ചാത്തലനിറം"
 
 #, fuzzy
 #~ msgid ""
-#~ "Here you can change the background color for the teacher's line (the line "
-#~ "of letters you have to type.)"
+#~ "Here you can change the background color for the teacher's line (the line of "
+#~ "letters you have to type.)"
 #~ msgstr ""
-#~ "അദ്ധ്യാപകന്റെ വരിയുടെ (നിങ്ങള്‍ ടൈപ്പ് ചെയ്യാനുള്ള വരി) പശ്ചാത്തലനിറം നിങ്ങള്‍ക്കിവിടെ "
-#~ "മാറ്റാം"
+#~ "അദ്ധ്യാപകന്റെ വരിയുടെ (നിങ്ങള്‍ ടൈപ്പ് ചെയ്യാനുള്ള വരി) പശ്ചാത്തലനിറം "
+#~ "നിങ്ങള്‍ക്കിവിടെ മാറ്റാം"
 
 #, fuzzy
 #~ msgid "Use different color on missed typing"
@@ -2075,10 +2088,10 @@ msgstr ""
 #~ msgstr "ശബ്ദം"
 
 #~ msgid ""
-#~ "If checked (default) this will emit a beep each time you make a typing "
-#~ "error."
+#~ "If checked (default) this will emit a beep each time you make a typing error."
 #~ msgstr ""
-#~ "ഇതു് തിരഞ്ഞെടുത്താല്‍ (സ്വതവേ), ടൈപ്പിങില്‍ ഓരോ പിശകുണ്ടാകുമ്പോഴും ഒരു ബീപ്പ് ചെയ്യുന്നതാണു്."
+#~ "ഇതു് തിരഞ്ഞെടുത്താല്‍ (സ്വതവേ), ടൈപ്പിങില്‍ ഓരോ പിശകുണ്ടാകുമ്പോഴും ഒരു ബീപ്പ് "
+#~ "ചെയ്യുന്നതാണു്."
 
 #~ msgid "&Beep on error"
 #~ msgstr "പിശകുണ്ടാകുമ്പോള്‍ &ബീപ്പ് ചെയ്യുക"
@@ -2098,7 +2111,9 @@ msgstr ""
 #~ msgid ""
 #~ "If this is checked (default) a sound will be played each time you "
 #~ "automatically change of level."
-#~ msgstr "ഇതു് തിരഞ്ഞെടുത്താല്‍ (സ്വതവേ), ഓരോ നിലയും മാറുന്നതനുസരിച്ചു് ശബ്ദമുണ്ടാക്കുന്നു."
+#~ msgstr ""
+#~ "ഇതു് തിരഞ്ഞെടുത്താല്‍ (സ്വതവേ), ഓരോ നിലയും മാറുന്നതനുസരിച്ചു് "
+#~ "ശബ്ദമുണ്ടാക്കുന്നു."
 
 #~ msgid "&Sound on automatic level change"
 #~ msgstr "സ്വയം നില മാറ്റുമ്പോള്‍ ശബ്ദമുണ്ടാക്കുക"
@@ -2151,8 +2166,7 @@ msgstr ""
 #~ msgid "Characters typed:"
 #~ msgstr "ടൈപ്പ് ചെയ്ത അക്ഷരങ്ങള്‍:"
 
-#~ msgid ""
-#~ "The number of characters (correct and wrong) that you have typed so far."
+#~ msgid "The number of characters (correct and wrong) that you have typed so far."
 #~ msgstr "ഇതുവരെ ടൈപ്പ് ചെയ്ത അക്ഷരങ്ങളുടെ (ശരിയായതും തെറ്റായതും) എണ്ണം."
 
 #~ msgid "Mistyped characters:"
@@ -2231,11 +2245,11 @@ msgstr ""
 #~ msgstr "സെഷന്‍ സ്ഥിതിവിവരക്കണക്ക്"
 
 #~ msgid ""
-#~ "Pressing this button will erase the whole training statistics for the "
-#~ "current user."
+#~ "Pressing this button will erase the whole training statistics for the current "
+#~ "user."
 #~ msgstr ""
-#~ "ഈ ബട്ടണ്‍ അമര്‍ത്തിയാല്‍ നിലവിലുള്ള ഉപയോക്താവിന്റെ പൂര്‍ണ്ണ പരിശീലന സ്ഥിതിവിവരക്കണക്കുകള്‍ "
-#~ "വെടിപ്പാക്കുന്നു."
+#~ "ഈ ബട്ടണ്‍ അമര്‍ത്തിയാല്‍ നിലവിലുള്ള ഉപയോക്താവിന്റെ പൂര്‍ണ്ണ പരിശീലന "
+#~ "സ്ഥിതിവിവരക്കണക്കുകള്‍ വെടിപ്പാക്കുന്നു."
 
 #~ msgid "Clear History"
 #~ msgstr "ഹിസ്റ്ററി വെടിപ്പാക്കുക"
@@ -2256,11 +2270,11 @@ msgstr ""
 #~ msgstr "അക്ഷരങ്ങള്‍/മിനിറ്റു്"
 
 #~ msgid ""
-#~ "This shows how fast you are typing. It measures the typing speed in "
-#~ "characters per minute."
+#~ "This shows how fast you are typing. It measures the typing speed in characters"
+#~ " per minute."
 #~ msgstr ""
-#~ "നിങ്ങളുടെ ടൈപ്പിങ് വേഗത ഇതു് കാണിക്കുന്നു. ഒരു മിനിറ്റില്‍ എത്ര അക്ഷരങ്ങള്‍ എന്ന രീതിയില്‍ "
-#~ "ടൈപ്പിങ് വേഗത അളക്കുന്നു."
+#~ "നിങ്ങളുടെ ടൈപ്പിങ് വേഗത ഇതു് കാണിക്കുന്നു. ഒരു മിനിറ്റില്‍ എത്ര അക്ഷരങ്ങള്‍ "
+#~ "എന്ന രീതിയില്‍ ടൈപ്പിങ് വേഗത അളക്കുന്നു."
 
 #~ msgid "New Characters in This Level"
 #~ msgstr "ഈ നിലയിലുള്ള പുതിയ അക്ഷരങ്ങള്‍"

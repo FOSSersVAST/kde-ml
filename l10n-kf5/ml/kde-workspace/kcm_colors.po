@@ -22,7 +22,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "അനി പീറ്റര്‍, ഹരി വിഷ്ണു, പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -428,7 +428,8 @@ msgstr "നിറക്കൂട്ടം:"
 msgid "Colorset to view/modify"
 msgstr "കാണേണ്ട/മാറ്റേണ്ട നിറക്കൂട്ടം"
 
-#. i18n: 'Common' here means &quot;frequent/not rare&quot;, not &quot;shared&quot;
+#. i18n: 'Common' here means &quot;frequent/not rare&quot;, not
+#. &quot;shared&quot;
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
 #: editor/scmeditorcolors.ui:40
 #, fuzzy, kde-format
@@ -1023,8 +1024,7 @@ msgstr "മുകളില്‍ വരുന്ന"
 #, kde-format
 msgid ""
 "Link Text on Link Background\n"
-"(Note: Link Background is derived from Link Text and cannot be separately "
-"configured at this time)"
+"(Note: Link Background is derived from Link Text and cannot be separately configured at this time)"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack4)
@@ -1032,8 +1032,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "Visited Text on Visited Background\n"
-"(Note: Visited Background is derived from Visited Text and cannot be "
-"separately configured at this time)"
+"(Note: Visited Background is derived from Visited Text and cannot be separately configured at this time)"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack2)
@@ -1041,8 +1040,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "Active Text on Active Background\n"
-"(Note: Active Background is derived from Active Text and cannot be "
-"separately configured at this time)"
+"(Note: Active Background is derived from Active Text and cannot be separately configured at this time)"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack1)
@@ -1064,8 +1062,7 @@ msgstr "പകരമായി"
 #, kde-format
 msgid ""
 "Negative Text on Negative Background\n"
-"(Note: Negative Background is derived from Negative Text and cannot be "
-"separately configured at this time)"
+"(Note: Negative Background is derived from Negative Text and cannot be separately configured at this time)"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack6)
@@ -1073,8 +1070,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "Neutral Text on Neutral Background\n"
-"(Note: Neutral Background is derived from Neutral Text and cannot be "
-"separately configured at this time)"
+"(Note: Neutral Background is derived from Neutral Text and cannot be separately configured at this time)"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack7)
@@ -1082,8 +1078,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "Positive Text on Positive Background\n"
-"(Note: Positive Background is derived from Positive Text and cannot be "
-"separately configured at this time)"
+"(Note: Positive Background is derived from Positive Text and cannot be separately configured at this time)"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelFore9)
@@ -1221,7 +1216,6 @@ msgstr ""
 #~ msgstr "നിറക്കൂട്ടു് നീക്കം ചെയ്യുക"
 
 #, fuzzy
-#~| msgid "Get new color schemes from the Internet"
 #~ msgid "Import a color scheme from a file"
 #~ msgstr "ഇന്റര്‍നെറ്റില്‍ നിന്നും നിറക്കൂട്ടു് ലഭ്യമാക്കുക"
 
@@ -1258,7 +1252,9 @@ msgstr ""
 #~ msgstr "&സജീവമല്ലാത്തതു് തെരഞ്ഞെടുക്കുമ്പോള്‍ നിറം മാറുന്നു"
 
 #~ msgid "Selecting another scheme will discard any changes you have made"
-#~ msgstr "മറ്റൊരു നിറക്കൂട്ടു് തെരഞ്ഞെടുത്താല്‍ നിങ്ങള്‍ വരുത്തിയ മാറ്റങ്ങളെല്ലാം ഉപേക്ഷിക്കുന്നതാകുന്നു"
+#~ msgstr ""
+#~ "മറ്റൊരു നിറക്കൂട്ടു് തെരഞ്ഞെടുത്താല്‍ നിങ്ങള്‍ വരുത്തിയ മാറ്റങ്ങളെല്ലാം "
+#~ "ഉപേക്ഷിക്കുന്നതാകുന്നു"
 
 #~ msgid "Are you sure?"
 #~ msgstr "നിങ്ങള്‍ക്കുറപ്പാണോ?"

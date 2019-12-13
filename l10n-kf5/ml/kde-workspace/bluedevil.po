@@ -10,8 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2019-12-08 03:27+0100\n"
 "PO-Revision-Date: 2019-12-12 22:59+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "കിരൺ ജോൺസ്"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -375,8 +374,7 @@ msgstr ""
 #: kcmodule/devices/devices.cpp:218
 #, kde-format
 msgid ""
-"Are you sure that you want to remove %1 device from the list of known "
-"devices?"
+"Are you sure that you want to remove %1 device from the list of known devices?"
 msgid_plural ""
 "Are you sure that you want to remove %1 devices from the list of known "
 "devices?"
@@ -546,16 +544,16 @@ msgstr "പിൻ ശെരിയല്ല  "
 #: kded/helpers/requestpin.cpp:49
 #, kde-format
 msgctxt ""
-"Shown in a notification to announce that a PIN is needed to accomplish a "
-"pair action,%1 is the name of the bluetooth device"
+"Shown in a notification to announce that a PIN is needed to accomplish a pair "
+"action,%1 is the name of the bluetooth device"
 msgid "PIN needed to pair with %1"
 msgstr ""
 
 #: kded/helpers/requestpin.cpp:53
 #, kde-format
 msgctxt ""
-"Notification button which once clicked, a dialog to introduce the PIN will "
-"be shown"
+"Notification button which once clicked, a dialog to introduce the PIN will be "
+"shown"
 msgid "Introduce PIN"
 msgstr ""
 
@@ -571,8 +569,8 @@ msgctxt ""
 "Shown in a dialog which asks to introduce a PIN that will be used to pair a "
 "Bluetooth device,%1 is the name of the Bluetooth device"
 msgid ""
-"In order to pair this computer with %1, you have to enter a PIN. Please do "
-"it below."
+"In order to pair this computer with %1, you have to enter a PIN. Please do it "
+"below."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)

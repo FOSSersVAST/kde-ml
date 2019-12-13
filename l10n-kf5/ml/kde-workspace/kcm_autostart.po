@@ -18,13 +18,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
-"X-Poedit-Language: Malayalam\n"
 "X-Poedit-Country: INDIA\n"
+"X-Poedit-Language: Malayalam\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "ഹിരണ്‍ വോണുഗോപാല്‍"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -160,7 +160,9 @@ msgstr "സ്ക്രിപ്റ്റ് ഫയല്‍"
 #, fuzzy, kde-format
 msgid ""
 "Only files with “.sh” extensions are allowed for setting up the environment."
-msgstr "പരിസരം സജ്ജീകരിക്കാന്‍ sh  എന്നു തുടര്‍നാമമുള്ള ഫയലുകള്‍ മാത്രമേ കെഡിഇ പരിഗണക്കൂ."
+msgstr ""
+"പരിസരം സജ്ജീകരിക്കാന്‍ sh  എന്നു തുടര്‍നാമമുള്ള ഫയലുകള്‍ മാത്രമേ കെഡിഇ "
+"പരിഗണക്കൂ."
 
 #. i18n: ectx: property (text), widget (QPushButton, btnProperties)
 #: autostartconfig.ui:17

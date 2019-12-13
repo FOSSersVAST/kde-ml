@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr "അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -157,7 +157,8 @@ msgstr "പോയിന്റുകള്‍: 0 - വരികള്‍: 0 - ന
 msgid "KBlocks"
 msgstr "കെബ്ലോക്ക്സ്"
 
-# Its not a translation. But it defines the game i thnk, eventhough it is a bit lame. :(
+# Its not a translation. But it defines the game i thnk, eventhough it is a bit
+# lame. :(
 #: main.cpp:318
 #, fuzzy, kde-format
 #| msgid "A falling blocks game for KDE"

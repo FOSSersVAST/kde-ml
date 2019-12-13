@@ -21,7 +21,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -105,8 +105,8 @@ msgid ""
 "You can trigger an action by pushing the mouse cursor against the "
 "corresponding screen edge or corner."
 msgstr ""
-"ഒരു നടപടി തുടങ്ങിവെക്കാന്‍ മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി നടപടിയുടെ ദിശയില്‍ "
-"നീക്കുക "
+"ഒരു നടപടി തുടങ്ങിവെക്കാന്‍ മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി "
+"നടപടിയുടെ ദിശയില്‍ നീക്കുക "
 
 #. i18n: ectx: property (text), widget (QLabel, quickMaximizeLabel)
 #: main.ui:67
@@ -138,13 +138,15 @@ msgstr "സ്ക്രീനിന്റെ വശത്തേയ്ക്ക�
 msgid "Trigger &quarter tiling in:"
 msgstr ""
 
-#. i18n: ectx: property (suffix), widget (QSpinBox, electricBorderCornerRatioSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox,
+#. electricBorderCornerRatioSpin)
 #: main.ui:116
 #, no-c-format, kde-format
 msgid "%"
 msgstr ""
 
-#. i18n: ectx: property (prefix), widget (QSpinBox, electricBorderCornerRatioSpin)
+#. i18n: ectx: property (prefix), widget (QSpinBox,
+#. electricBorderCornerRatioSpin)
 #: main.ui:119
 #, kde-format
 msgid "Outer "
@@ -161,7 +163,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "Change desktop when the mouse cursor is pushed against the edge of the screen"
-msgstr "മൌസ് ചൂണ്ടി സ്ക്രീനിന്റെ വക്കു് ചേര്‍ത്തു് അമര്‍ത്തുമ്പോള്‍ പണിയിടം മാറുക"
+msgstr ""
+"മൌസ് ചൂണ്ടി സ്ക്രീനിന്റെ വക്കു് ചേര്‍ത്തു് അമര്‍ത്തുമ്പോള്‍ പണിയിടം മാറുക"
 
 #. i18n: ectx: property (text), widget (QLabel, desktopSwitchLabel)
 #: main.ui:147
@@ -192,11 +195,11 @@ msgstr "എല്ലായ്പോഴും പ്രവര്‍ത്തന�
 #: main.ui:176
 #, kde-format
 msgid ""
-"Amount of time required for the mouse cursor to be pushed against the edge "
-"of the screen before the action is triggered"
+"Amount of time required for the mouse cursor to be pushed against the edge of "
+"the screen before the action is triggered"
 msgstr ""
-"മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി അമര്‍ത്തിയതിനു് ശേഷം നടപടി തുടങ്ങുന്നതിനു് മുമ്പു് എത്ര "
-"സമയം വേണം."
+"മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി അമര്‍ത്തിയതിനു് ശേഷം നടപടി "
+"തുടങ്ങുന്നതിനു് മുമ്പു് എത്ര സമയം വേണം."
 
 #. i18n: ectx: property (text), widget (QLabel, activationDelayLabel)
 #: main.ui:179
@@ -215,8 +218,8 @@ msgstr "എംഎസ്"
 #: main.ui:208
 #, kde-format
 msgid ""
-"Amount of time required after triggering an action until the next trigger "
-"can occur"
+"Amount of time required after triggering an action until the next trigger can "
+"occur"
 msgstr "ഒരു പ്രവൃത്തിക്കു ശേഷം അടുത്ത പ്രവൃത്തി തുടങ്ങുവാനുള്ള സമയം"
 
 #. i18n: ectx: property (text), widget (QLabel, triggerCooldownLabel)
@@ -232,8 +235,8 @@ msgid ""
 "You can trigger an action by swiping from the screen edge towards the center "
 "of the screen."
 msgstr ""
-"ഒരു നടപടി തുടങ്ങിവെക്കാന്‍ മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി നടപടിയുടെ ദിശയില്‍ "
-"നീക്കുക "
+"ഒരു നടപടി തുടങ്ങിവെക്കാന്‍ മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി "
+"നടപടിയുടെ ദിശയില്‍ നീക്കുക "
 
 #, fuzzy
 #~ msgid "Active Screen Corners and Edges"

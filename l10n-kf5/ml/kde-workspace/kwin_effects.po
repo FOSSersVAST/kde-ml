@@ -22,7 +22,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -131,9 +131,11 @@ msgstr "കിളിവാതില്‍ ചതുരം &അടയ്ക്ക
 msgid "Animation duration:"
 msgstr "&ആനിമേഷന്‍ (സജീവമാക്കല്‍) ദൈര്‍ഘ്യം:"
 
-#. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_RotationDuration)
+#. i18n: ectx: property (specialValueText), widget (QSpinBox,
+#. kcfg_RotationDuration)
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_Duration)
-#. i18n: ectx: property (specialValueText), widget (QSpinBox, kcfg_AnimationDuration)
+#. i18n: ectx: property (specialValueText), widget (QSpinBox,
+#. kcfg_AnimationDuration)
 #: coverswitch/coverswitch_config.ui:158 cube/cube_config.ui:149
 #: cubeslide/cubeslide_config.ui:49 magiclamp/magiclamp_config.ui:36
 #, fuzzy, kde-format
@@ -198,8 +200,7 @@ msgstr "സങ്കീര്‍ണമായ"
 #: flipswitch/flipswitch_config.cpp:67 invert/invert_config.cpp:49
 #: lookingglass/lookingglass_config.cpp:69 magnifier/magnifier_config.cpp:69
 #: mouseclick/mouseclick_config.cpp:61 mousemark/mousemark_config.cpp:67
-#: presentwindows/presentwindows_config.cpp:62
-#: showpaint/showpaint_config.cpp:47
+#: presentwindows/presentwindows_config.cpp:62 showpaint/showpaint_config.cpp:47
 #: thumbnailaside/thumbnailaside_config.cpp:68
 #: trackmouse/trackmouse_config.cpp:65
 #: windowgeometry/windowgeometry_config.cpp:56 zoom/zoom_config.cpp:65
@@ -357,8 +358,7 @@ msgstr "കൂടുതല്‍ ഐച്ഛികങ്ങള്‍"
 #: cube/cube_config.ui:415
 #, kde-format
 msgid ""
-"If enabled the effect will be deactivated after rotating the cube with the "
-"mouse,\n"
+"If enabled the effect will be deactivated after rotating the cube with the mouse,\n"
 "otherwise it will remain active"
 msgstr ""
 "പ്രാവര്‍ത്തികമാക്കിയാല്‍, ക്യൂബ് മൗസ് ഉപയോഗിച്ച് കറക്കിയതിനു ശേഷം പ്രഭാവം നിര്‍ജ്ജീവമാക്കപെടും,\n"
@@ -735,8 +735,7 @@ msgstr ""
 #: effect_builtins.cpp:238
 #, kde-format
 msgctxt "Comment describing the KWin Effect"
-msgid ""
-"Flip through windows that are in a stack for the alt+tab window switcher"
+msgid "Flip through windows that are in a stack for the alt+tab window switcher"
 msgstr ""
 
 #: effect_builtins.cpp:252
@@ -906,8 +905,7 @@ msgstr ""
 #: effect_builtins.cpp:448
 #, kde-format
 msgctxt "Comment describing the KWin Effect"
-msgid ""
-"Make modal dialogs smoothly fly in and out when they are shown or hidden"
+msgid "Make modal dialogs smoothly fly in and out when they are shown or hidden"
 msgstr ""
 
 #: effect_builtins.cpp:462
@@ -1357,7 +1355,8 @@ msgstr "&നിറം:"
 #: mousemark/mousemark_config.ui:78
 #, kde-format
 msgid "Draw with the mouse by holding Shift+Meta keys and moving the mouse."
-msgstr "മൌസ് ഉപയോഗിച്ച് വരക്കാന്‍ Shift+Meta കീസ് അമര്‍ത്തിപിടിച്ചിട്ട് മൌസ് അനക്കുക."
+msgstr ""
+"മൌസ് ഉപയോഗിച്ച് വരക്കാന്‍ Shift+Meta കീസ് അമര്‍ത്തിപിടിച്ചിട്ട് മൌസ് അനക്കുക."
 
 #: presentwindows/presentwindows.cpp:76
 #: presentwindows/presentwindows_config.cpp:73
@@ -1425,11 +1424,14 @@ msgid "Left button:"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonWindow)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonWindow)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonDesktop)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonDesktop)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonDesktop)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonDesktop)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_RightButtonDesktop)
 #: presentwindows/presentwindows_config.ui:139
 #: presentwindows/presentwindows_config.ui:183
 #: presentwindows/presentwindows_config.ui:232
@@ -1441,11 +1443,14 @@ msgid "No action"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonWindow)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonWindow)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonDesktop)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonDesktop)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonDesktop)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonDesktop)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_RightButtonDesktop)
 #: presentwindows/presentwindows_config.ui:144
 #: presentwindows/presentwindows_config.ui:188
 #: presentwindows/presentwindows_config.ui:237
@@ -1457,11 +1462,14 @@ msgid "Activate window"
 msgstr "സജീവമല്ലാത്ത ജാലകങ്ങള്‍:"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonWindow)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonWindow)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonDesktop)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonDesktop)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonDesktop)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonDesktop)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_RightButtonDesktop)
 #: presentwindows/presentwindows_config.ui:149
 #: presentwindows/presentwindows_config.ui:193
 #: presentwindows/presentwindows_config.ui:242
@@ -1473,7 +1481,8 @@ msgid "End effect"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonWindow)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonWindow)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonWindow)
 #: presentwindows/presentwindows_config.ui:154
 #: presentwindows/presentwindows_config.ui:198
@@ -1483,7 +1492,8 @@ msgid "Bring window to current desktop"
 msgstr "നിലവിലുള്ള ജാലകങ്ങള്‍ ടോഗിള്‍ ചെയ്യുക (നിലവിലുള്ള പണിയിടത്തിനായി)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonWindow)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonWindow)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonWindow)
 #: presentwindows/presentwindows_config.ui:159
 #: presentwindows/presentwindows_config.ui:203
@@ -1493,7 +1503,8 @@ msgid "Send window to all desktops"
 msgstr "നിലവിലുള്ള ജാലകങ്ങള്‍ ടോഗിള്‍ ചെയ്യുക (എല്ലാ പണിയിടങ്ങള്‍ക്കുമായി)"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonWindow)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonWindow)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonWindow)
 #: presentwindows/presentwindows_config.ui:164
 #: presentwindows/presentwindows_config.ui:208
@@ -1510,7 +1521,8 @@ msgstr "&മിനിമൈസ് ചെയ്തിരിക്കുന്ന 
 msgid "Middle button:"
 msgstr ""
 
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonWindow)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonWindow)
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonWindow)
 #: presentwindows/presentwindows_config.ui:213
 #: presentwindows/presentwindows_config.ui:262
@@ -1534,8 +1546,10 @@ msgid "Desktop"
 msgstr "പണിയിട ക്യൂബ്"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, kcfg_LeftButtonDesktop)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_MiddleButtonDesktop)
-#. i18n: ectx: property (text), item, widget (KComboBox, kcfg_RightButtonDesktop)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_MiddleButtonDesktop)
+#. i18n: ectx: property (text), item, widget (KComboBox,
+#. kcfg_RightButtonDesktop)
 #: presentwindows/presentwindows_config.ui:308
 #: presentwindows/presentwindows_config.ui:342
 #: presentwindows/presentwindows_config.ui:376
@@ -1820,7 +1834,8 @@ msgstr ""
 msgid "Meta"
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QWidget, KWin::TranslucencyEffectConfigForm)
+#. i18n: ectx: property (windowTitle), widget (QWidget,
+#. KWin::TranslucencyEffectConfigForm)
 #: translucency/package/contents/ui/config.ui:14
 #, kde-format
 msgid "Translucency"
@@ -2031,12 +2046,13 @@ msgstr ""
 msgid "Zoom Factor:"
 msgstr "സൂം ചെയ്യേണ്ട (വലിപ്പം കൂട്ടേണ്ട) ദൈര്‍ഘ്യം"
 
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, kcfg_EnableFocusTracking)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox,
+#. kcfg_EnableFocusTracking)
 #: zoom/zoom_config.ui:66
 #, kde-format
 msgid ""
-"Enable tracking of the focused location. This needs QAccessible to be "
-"enabled per application (\"export QT_ACCESSIBILITY=1\")."
+"Enable tracking of the focused location. This needs QAccessible to be enabled "
+"per application (\"export QT_ACCESSIBILITY=1\")."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableFocusTracking)
@@ -2181,7 +2197,8 @@ msgstr ""
 
 #~ msgid ""
 #~ "Only show thumbnail bar if there are at least specified number of windows"
-#~ msgstr "വ്യക്തമാക്കിയ അത്രയും ജാലകങ്ങള്‍ ഉണ്ടെങ്കില്‍ മാത്രം നഖച്ചിത്രപട്ട കാണിക്കുക"
+#~ msgstr ""
+#~ "വ്യക്തമാക്കിയ അത്രയും ജാലകങ്ങള്‍ ഉണ്ടെങ്കില്‍ മാത്രം നഖച്ചിത്രപട്ട കാണിക്കുക"
 
 #~ msgid "Dynamic mode"
 #~ msgstr "ഡൈനാമിക് ദശ"
@@ -2297,33 +2314,29 @@ msgstr ""
 #~ msgstr "&അലങ്കരിക്കാത്ത സാധാരണ ജാലകങ്ങള്‍"
 
 #~ msgid ""
-#~ "If enabled span the cube across all screens on a multiscreen setup, "
-#~ "otherwise\n"
+#~ "If enabled span the cube across all screens on a multiscreen setup, otherwise\n"
 #~ "the cube will only be displayed on a single screen"
 #~ msgstr ""
-#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍ ക്യൂബ് എല്ലാ സ്ക്രീനുകളിലൂടെ ഉണ്ടാകും, ഒരു മള്‍ടി-സ്ക്രീന്‍ സെറ്റപ്പില്‍, "
-#~ "അല്ലെങ്കില്‍ \n"
+#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍ ക്യൂബ് എല്ലാ സ്ക്രീനുകളിലൂടെ ഉണ്ടാകും, ഒരു മള്‍ടി-സ്ക്രീന്‍ സെറ്റപ്പില്‍, അല്ലെങ്കില്‍ \n"
 #~ "ക്യൂബ് ഒറ്റ സ്ക്രീനില്‍ മാത്രമായി കാണിക്കും"
 
 #~ msgid "Span cube on all screens in multi screen setup"
-#~ msgstr "ഒരു മള്‍ടി-സ്ക്രീന്‍ സെറ്റപ്പില്‍ ക്യൂബ് എല്ലാ സ്ക്രീനുകളിലൂടെയും സ്പാന്‍ ചെയ്യുക"
+#~ msgstr ""
+#~ "ഒരു മള്‍ടി-സ്ക്രീന്‍ സെറ്റപ്പില്‍ ക്യൂബ് എല്ലാ സ്ക്രീനുകളിലൂടെയും സ്പാന്‍ "
+#~ "ചെയ്യുക"
 
 #~ msgid ""
-#~ "If enabled the effect will be deactivated after rotating the cylinder "
-#~ "with the mouse,\n"
+#~ "If enabled the effect will be deactivated after rotating the cylinder with the mouse,\n"
 #~ "otherwise it will remain active."
 #~ msgstr ""
-#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍, സിലിണ്ടര്‍ മൗസ് ഉപയോഗിച്ച് കറക്കിയതിനു ശേഷം പ്രഭാവം "
-#~ "നിര്‍ജ്ജീവമാക്കപെടും,\n"
+#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍, സിലിണ്ടര്‍ മൗസ് ഉപയോഗിച്ച് കറക്കിയതിനു ശേഷം പ്രഭാവം നിര്‍ജ്ജീവമാക്കപെടും,\n"
 #~ "അല്ലെങ്കില്‍ അതു സജീവമായിരിക്കും"
 
 #~ msgid ""
-#~ "If enabled the effect will be deactivated after rotating the sphere with "
-#~ "the mouse,\n"
+#~ "If enabled the effect will be deactivated after rotating the sphere with the mouse,\n"
 #~ "otherwise it will remain active"
 #~ msgstr ""
-#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍, ഗോളം മൗസ് ഉപയോഗിച്ച് കറക്കിയതിനു ശേഷം പ്രഭാവം "
-#~ "നിര്‍ജ്ജീവമാക്കപെടും,\n"
+#~ "പ്രാവര്‍ത്തികമാക്കിയാല്‍, ഗോളം മൗസ് ഉപയോഗിച്ച് കറക്കിയതിനു ശേഷം പ്രഭാവം നിര്‍ജ്ജീവമാക്കപെടും,\n"
 #~ "അല്ലെങ്കില്‍ അതു സജീവമായിരിക്കും"
 
 #, fuzzy
