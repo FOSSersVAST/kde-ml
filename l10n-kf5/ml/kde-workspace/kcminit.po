@@ -6,15 +6,15 @@ msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-10-12 03:30+0200\n"
-"PO-Revision-Date: 2008-11-12 01:46+0730\n"
-"Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 22:21+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 "X-Poedit-Country: INDIA\n"
 
 #, kde-format
@@ -25,7 +25,7 @@ msgstr "ഹരി വിഷ്ണു"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "harivishnu@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: main.cpp:170
 #, kde-format
@@ -40,7 +40,9 @@ msgstr "കെ.സി.എം.ഇനിറ്റ്"
 #: main.cpp:238
 #, kde-format
 msgid "KCMInit - runs startup initialization for Control Modules."
-msgstr "കെ.സി.എം.ഇനിറ്റ് - കണ്‍ട്രോള്‍ മോഡ്യൂളുകള്‍ക്കായി തുടങ്ങുമ്പോഴുള്ള ചടങ്ങുകള്‍ പ്രവര്‍ത്തിപ്പിയ്ക്കുന്നു"
+msgstr ""
+"കെ.സി.എം.ഇനിറ്റ് - കണ്‍ട്രോള്‍ മോഡ്യൂളുകള്‍ക്കായി തുടങ്ങുമ്പോഴുള്ള ചടങ്ങുകള്‍ "
+"പ്രവര്‍ത്തിപ്പിയ്ക്കുന്നു"
 
 #: main.cpp:243
 #, kde-format

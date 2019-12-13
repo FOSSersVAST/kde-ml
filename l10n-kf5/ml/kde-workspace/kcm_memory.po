@@ -8,16 +8,15 @@ msgstr ""
 "Project-Id-Version: kcm_memory\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:24+0200\n"
-"PO-Revision-Date: 2019-05-22 01:57+0530\n"
-"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 22:37+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -27,7 +26,7 @@ msgstr "അനി പീറ്റര്‍"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "peter.ani@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: chartWidget.cpp:56 chartWidget.cpp:57 memory.cpp:270
 #, kde-format
@@ -62,13 +61,14 @@ msgstr "ഹെല്‍ഗെ ഡെല്ലര്‍"
 #: memory.cpp:101
 #, kde-format
 msgid ""
-"This display shows you the current memory usage of your system. The values "
-"are updated on a regular basis and give you an overview of the physical and "
+"This display shows you the current memory usage of your system. The values are"
+" updated on a regular basis and give you an overview of the physical and "
 "virtual memory being used."
 msgstr ""
-"ഇതു് നിങ്ങളുടെ സിസ്റ്റമിന്റെ നിലവിലുള്ള മെമ്മറിയുടെ ഉപയോഗം കാണിക്കുന്നു. മൂല്ല്യങ്ങള്‍ നിരന്തരം "
-"പരിഷ്കരിക്കപ്പെടുന്നു. കൂടാതെ, ഉപയോഗത്തിലുള്ള ഫിസിക്കല്‍, വിര്‍ച്ച്വല്‍ മെമ്മറികളെപ്പറ്റിയുമുള്ള "
-"വിവരം നമുക്കു് ലഭ്യമാക്കുന്നു."
+"ഇതു് നിങ്ങളുടെ സിസ്റ്റമിന്റെ നിലവിലുള്ള മെമ്മറിയുടെ ഉപയോഗം കാണിക്കുന്നു. "
+"മൂല്ല്യങ്ങള്‍ നിരന്തരം പരിഷ്കരിക്കപ്പെടുന്നു. കൂടാതെ, ഉപയോഗത്തിലുള്ള "
+"ഫിസിക്കല്‍, വിര്‍ച്ച്വല്‍ മെമ്മറികളെപ്പറ്റിയുമുള്ള വിവരം നമുക്കു് "
+"ലഭ്യമാക്കുന്നു."
 
 #: memory.cpp:107
 #, kde-format
@@ -136,8 +136,8 @@ msgid ""
 "This graph gives you an overview of the <b>total sum of physical and virtual "
 "memory</b> in your system."
 msgstr ""
-"നിങ്ങളുടെ സിസ്റ്റമിലുള്ള <b>മൊത്തം ഫിസിക്കല്‍, വിര്‍ച്ച്വല്‍ മെമ്മറിയുടെ</b> ഒരു അവലോകനം ഈ ഗ്രാഫ് "
-"ലഭ്യമാക്കുന്നു."
+"നിങ്ങളുടെ സിസ്റ്റമിലുള്ള <b>മൊത്തം ഫിസിക്കല്‍, വിര്‍ച്ച്വല്‍ മെമ്മറിയുടെ</b> "
+"ഒരു അവലോകനം ഈ ഗ്രാഫ് ലഭ്യമാക്കുന്നു."
 
 #: memory.cpp:216
 #, kde-format
@@ -154,11 +154,12 @@ msgid ""
 "<b>Free Physical Memory</b> and a large amount of <b>Disk Cache Memory</b>, "
 "your system is well configured.</p>"
 msgstr ""
-"നിങ്ങളുടെ സിസ്റ്റമിലുള്ള <b>ഫിസിക്കല്‍ മെമ്മറിയുടെ ഉപയോഗം</b> സംബന്ധിച്ചു് ഈ ഗ്രാഫ് ഒരു "
-"അവലോകനം നല്‍കുന്നു. <p>മിക്ക ഓപ്പറേറ്റിങ് സിസ്റ്റമുളും (ലിനക്സ് ഉള്‍പ്പടെ), പ്രവര്‍ത്തനം "
-"മെച്ചപ്പെടുത്തുന്നതിനായി, ലഭ്യമാകുന്ന ഫിസിക്കല്‍ മെമ്മറി പൂര്‍ണ്ണമായും ഡിസ്ക് കാഷേയായി "
-"ഉപയോഗിക്കുന്നു.</p><p>ഇതിനര്‍ത്ഥം, നിങ്ങളുടെ സിസ്റ്റമില്‍ അഥവാ ഉപയോഗത്തിലില്ലാത്ത അല്‍പം "
-"<b>ഫിസിക്കല്‍ മെമ്മറിയും</b> അധികം <b>ഡിസ്ക് കാഷേ മെമ്മറിയും</b> ഉണ്ടെങ്കില്‍, സിസ്റ്റം "
+"നിങ്ങളുടെ സിസ്റ്റമിലുള്ള <b>ഫിസിക്കല്‍ മെമ്മറിയുടെ ഉപയോഗം</b> സംബന്ധിച്ചു് ഈ "
+"ഗ്രാഫ് ഒരു അവലോകനം നല്‍കുന്നു. <p>മിക്ക ഓപ്പറേറ്റിങ് സിസ്റ്റമുളും (ലിനക്സ് "
+"ഉള്‍പ്പടെ), പ്രവര്‍ത്തനം മെച്ചപ്പെടുത്തുന്നതിനായി, ലഭ്യമാകുന്ന ഫിസിക്കല്‍ "
+"മെമ്മറി പൂര്‍ണ്ണമായും ഡിസ്ക് കാഷേയായി ഉപയോഗിക്കുന്നു.</p><p>ഇതിനര്‍ത്ഥം, "
+"നിങ്ങളുടെ സിസ്റ്റമില്‍ അഥവാ ഉപയോഗത്തിലില്ലാത്ത അല്‍പം <b>ഫിസിക്കല്‍ "
+"മെമ്മറിയും</b> അധികം <b>ഡിസ്ക് കാഷേ മെമ്മറിയും</b> ഉണ്ടെങ്കില്‍, സിസ്റ്റം "
 "ശരിയായി ക്രമികരിച്ചിരിക്കുന്നു എന്നാണു്.</p>"
 
 #: memory.cpp:232
@@ -173,9 +174,9 @@ msgid ""
 "<p>It will be used on demand and is provided through one or more swap "
 "partitions and/or swap files.</p>"
 msgstr ""
-"<p>സിസ്റ്റമില്‍ ലഭ്യമാകുന്ന <b>വിര്‍ച്ച്വല്‍ മെമ്മറി</b> ആണു് സ്വാപ്പ് സ്പെയിസ്.</p> <p> "
-"ആവശ്യാനുസരണം ഇതുപയോഗിക്കപ്പെടുന്നു. ഒന്നോ അതിലധികമോ സ്വാപ്പ് പാര്‍ട്ടീഷനോ ഫയലോ വഴി ഇതു് "
-"ലഭ്യമാക്കുന്നു.</p> "
+"<p>സിസ്റ്റമില്‍ ലഭ്യമാകുന്ന <b>വിര്‍ച്ച്വല്‍ മെമ്മറി</b> ആണു് സ്വാപ്പ് "
+"സ്പെയിസ്.</p> <p> ആവശ്യാനുസരണം ഇതുപയോഗിക്കപ്പെടുന്നു. ഒന്നോ അതിലധികമോ സ്വാപ്പ്"
+" പാര്‍ട്ടീഷനോ ഫയലോ വഴി ഇതു് ലഭ്യമാക്കുന്നു.</p> "
 
 #: memory.cpp:264
 #, kde-format

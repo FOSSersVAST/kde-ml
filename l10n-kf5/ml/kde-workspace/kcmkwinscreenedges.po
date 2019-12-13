@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: kcmkwinscreenedge.po\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-11 03:36+0100\n"
-"PO-Revision-Date: 2010-01-30 14:00+0530\n"
-"Last-Translator: seshagiri prabhu <seshagiriprabhu@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 22:16+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -25,7 +26,7 @@ msgstr ""
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: main.cpp:189 touch.cpp:130
 #, kde-format
@@ -104,8 +105,8 @@ msgid ""
 "You can trigger an action by pushing the mouse cursor against the "
 "corresponding screen edge or corner."
 msgstr ""
-"ഒരു നടപടി തുടങ്ങിവെക്കാന്‍ മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി നടപടിയുടെ ദിശയില്‍ "
-"നീക്കുക "
+"ഒരു നടപടി തുടങ്ങിവെക്കാന്‍ മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി "
+"നടപടിയുടെ ദിശയില്‍ നീക്കുക "
 
 #. i18n: ectx: property (text), widget (QLabel, quickMaximizeLabel)
 #: main.ui:67
@@ -137,13 +138,15 @@ msgstr "സ്ക്രീനിന്റെ വശത്തേയ്ക്ക�
 msgid "Trigger &quarter tiling in:"
 msgstr ""
 
-#. i18n: ectx: property (suffix), widget (QSpinBox, electricBorderCornerRatioSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox,
+#. electricBorderCornerRatioSpin)
 #: main.ui:116
 #, no-c-format, kde-format
 msgid "%"
 msgstr ""
 
-#. i18n: ectx: property (prefix), widget (QSpinBox, electricBorderCornerRatioSpin)
+#. i18n: ectx: property (prefix), widget (QSpinBox,
+#. electricBorderCornerRatioSpin)
 #: main.ui:119
 #, kde-format
 msgid "Outer "
@@ -160,7 +163,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "Change desktop when the mouse cursor is pushed against the edge of the screen"
-msgstr "മൌസ് ചൂണ്ടി സ്ക്രീനിന്റെ വക്കു് ചേര്‍ത്തു് അമര്‍ത്തുമ്പോള്‍ പണിയിടം മാറുക"
+msgstr ""
+"മൌസ് ചൂണ്ടി സ്ക്രീനിന്റെ വക്കു് ചേര്‍ത്തു് അമര്‍ത്തുമ്പോള്‍ പണിയിടം മാറുക"
 
 #. i18n: ectx: property (text), widget (QLabel, desktopSwitchLabel)
 #: main.ui:147
@@ -191,11 +195,11 @@ msgstr "എല്ലായ്പോഴും പ്രവര്‍ത്തന�
 #: main.ui:176
 #, kde-format
 msgid ""
-"Amount of time required for the mouse cursor to be pushed against the edge "
-"of the screen before the action is triggered"
+"Amount of time required for the mouse cursor to be pushed against the edge of "
+"the screen before the action is triggered"
 msgstr ""
-"മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി അമര്‍ത്തിയതിനു് ശേഷം നടപടി തുടങ്ങുന്നതിനു് മുമ്പു് എത്ര "
-"സമയം വേണം."
+"മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി അമര്‍ത്തിയതിനു് ശേഷം നടപടി "
+"തുടങ്ങുന്നതിനു് മുമ്പു് എത്ര സമയം വേണം."
 
 #. i18n: ectx: property (text), widget (QLabel, activationDelayLabel)
 #: main.ui:179
@@ -214,8 +218,8 @@ msgstr "എംഎസ്"
 #: main.ui:208
 #, kde-format
 msgid ""
-"Amount of time required after triggering an action until the next trigger "
-"can occur"
+"Amount of time required after triggering an action until the next trigger can "
+"occur"
 msgstr "ഒരു പ്രവൃത്തിക്കു ശേഷം അടുത്ത പ്രവൃത്തി തുടങ്ങുവാനുള്ള സമയം"
 
 #. i18n: ectx: property (text), widget (QLabel, triggerCooldownLabel)
@@ -231,8 +235,8 @@ msgid ""
 "You can trigger an action by swiping from the screen edge towards the center "
 "of the screen."
 msgstr ""
-"ഒരു നടപടി തുടങ്ങിവെക്കാന്‍ മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി നടപടിയുടെ ദിശയില്‍ "
-"നീക്കുക "
+"ഒരു നടപടി തുടങ്ങിവെക്കാന്‍ മൌസ് ചൂണ്ടിയെ സ്ക്രീനിന്റെ വക്ക് ലക്ഷ്യമാക്കി "
+"നടപടിയുടെ ദിശയില്‍ നീക്കുക "
 
 #, fuzzy
 #~ msgid "Active Screen Corners and Edges"

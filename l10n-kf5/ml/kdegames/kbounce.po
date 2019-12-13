@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: kbounce trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-07-28 02:51+0200\n"
-"PO-Revision-Date: 2008-12-27 22:19+0530\n"
-"Last-Translator: Abhishek Jacob <abhishekjacob123@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 21:41+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -25,20 +26,22 @@ msgstr "അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "abhishekjacob123@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: backgroundselector.cpp:111
 #, kde-format
 msgid "No background pictures found."
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QWidget, KBounceBackgroundSelector)
+#. i18n: ectx: property (windowTitle), widget (QWidget,
+#. KBounceBackgroundSelector)
 #: backgroundselector.ui:14
 #, kde-format
 msgid "kbouncebackgroundselector"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_UseRandomBackgroundPictures)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_UseRandomBackgroundPictures)
 #: backgroundselector.ui:24
 #, kde-format
 msgid "Enable random pictures as background"
@@ -95,7 +98,8 @@ msgstr "%1 പോയിന്റ്: ഈ നിലയിലെ ആകെ സ്�
 #: gamewidget.cpp:419
 #, kde-format
 msgid "On to level %1. Remember you get %2 lives this time!"
-msgstr "%1-ആം നിലയിലേക്ക്. ഓര്‍ക്കുക, ഇത്തവണ താങ്കള്‍ക്ക് %2 അവസരങ്ങളാണ് ലഭിക്കുന്നത്!"
+msgstr ""
+"%1-ആം നിലയിലേക്ക്. ഓര്‍ക്കുക, ഇത്തവണ താങ്കള്‍ക്ക് %2 അവസരങ്ങളാണ് ലഭിക്കുന്നത്!"
 
 #: gamewidget.cpp:422
 #, fuzzy, kde-format

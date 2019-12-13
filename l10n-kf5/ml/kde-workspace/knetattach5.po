@@ -8,16 +8,15 @@ msgstr ""
 "Project-Id-Version: knetattach\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-14 03:35+0100\n"
-"PO-Revision-Date: 2008-11-21 01:51+0730\n"
-"Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 22:29+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -27,7 +26,7 @@ msgstr "അനി പീറ്റര്‍"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "apeter@redhat.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: knetattach.cpp:94
 #, kde-format
@@ -35,8 +34,9 @@ msgid ""
 "Enter a name for this <i>WebFolder</i> as well as a server address, port and "
 "folder path to use and press the <b>Save & Connect</b> button."
 msgstr ""
-"ഈ <i>വെബ്അറ</i>, സെര്‍വര്‍ വിലാസം, പോര്‍ട്ട്, ഉപയോഗിക്കുവാനുള്ള അറയുടെ പാത്ത് എന്നിവയ്ക്കെല്ലാം "
-"ഒരു പേരു് നല്‍കുക. ശേഷം <b>സൂക്ഷിച്ചശേഷം &കണക്ട് ചെയ്യുക</b> എന്ന ബട്ടണ്‍ അമര്‍ത്തുക."
+"ഈ <i>വെബ്അറ</i>, സെര്‍വര്‍ വിലാസം, പോര്‍ട്ട്, ഉപയോഗിക്കുവാനുള്ള അറയുടെ പാത്ത് "
+"എന്നിവയ്ക്കെല്ലാം ഒരു പേരു് നല്‍കുക. ശേഷം <b>സൂക്ഷിച്ചശേഷം &കണക്ട് ചെയ്യുക</b>"
+" എന്ന ബട്ടണ്‍ അമര്‍ത്തുക."
 
 #: knetattach.cpp:96
 #, kde-format
@@ -45,9 +45,9 @@ msgid ""
 "address, port and folder path to use and press the <b>Save & Connect</b> "
 "button."
 msgstr ""
-"ഈ <i>സെക്യുര്‍ ഷെല്‍ കണക്ഷന്‍</i>, സെര്‍വര്‍ വിലാസം, പോര്‍ട്ട്, ഉപയോഗിക്കുവാനുള്ള അറയുടെ പാത്ത് "
-"എന്നിവയ്ക്കെല്ലാം ഒരു പേരു് നല്‍കുക. ശേഷം <b>സൂക്ഷിച്ചശേഷം &കണക്ട് ചെയ്യുക</b> എന്ന ബട്ടണ്‍ "
-"അമര്‍ത്തുക."
+"ഈ <i>സെക്യുര്‍ ഷെല്‍ കണക്ഷന്‍</i>, സെര്‍വര്‍ വിലാസം, പോര്‍ട്ട്, "
+"ഉപയോഗിക്കുവാനുള്ള അറയുടെ പാത്ത് എന്നിവയ്ക്കെല്ലാം ഒരു പേരു് നല്‍കുക. ശേഷം "
+"<b>സൂക്ഷിച്ചശേഷം &കണക്ട് ചെയ്യുക</b> എന്ന ബട്ടണ്‍ അമര്‍ത്തുക."
 
 #: knetattach.cpp:98
 #, kde-format
@@ -56,9 +56,9 @@ msgid ""
 "server address and folder path to use and press the <b>Save & Connect</b> "
 "button."
 msgstr ""
-"ഈ <i>ഫയല്‍ ട്രാന്‍സ്ഫര്‍ പ്രോട്ടോക്കോള്‍ കണക്ഷന്‍</i>, സെര്‍വര്‍ വിലാസം, ഉപയോഗിക്കുവാനുള്ള അറയുടെ "
-"പാത്ത് എന്നിവയ്ക്കെല്ലാം ഒരു പേരു് നല്‍കുക. ശേഷം <b>സൂക്ഷിച്ചശേഷം &കണക്ട് ചെയ്യുക</b> എന്ന ബട്ടണ്‍ "
-"അമര്‍ത്തുക."
+"ഈ <i>ഫയല്‍ ട്രാന്‍സ്ഫര്‍ പ്രോട്ടോക്കോള്‍ കണക്ഷന്‍</i>, സെര്‍വര്‍ വിലാസം, "
+"ഉപയോഗിക്കുവാനുള്ള അറയുടെ പാത്ത് എന്നിവയ്ക്കെല്ലാം ഒരു പേരു് നല്‍കുക. ശേഷം "
+"<b>സൂക്ഷിച്ചശേഷം &കണക്ട് ചെയ്യുക</b> എന്ന ബട്ടണ്‍ അമര്‍ത്തുക."
 
 #: knetattach.cpp:100
 #, kde-format
@@ -67,16 +67,16 @@ msgid ""
 "server address and folder path to use and press the <b>Save & Connect</b> "
 "button."
 msgstr ""
-"ഈ <i>മൈക്രോസോഫ്റ്റ് വിന്‍ഡോസ് ശൃംഖല ഡ്രൈവ്</i>, സെര്‍വര്‍ വിലാസം, ഉപയോഗിക്കുവാനുള്ള അറയുടെ പാത്ത് "
-"എന്നിവയ്ക്കെല്ലാം ഒരു പേരു് നല്‍കുക. ശേഷം <b>സൂക്ഷിച്ചശേഷം &കണക്ട് ചെയ്യുക</b> എന്ന ബട്ടണ്‍ "
-"അമര്‍ത്തുക."
+"ഈ <i>മൈക്രോസോഫ്റ്റ് വിന്‍ഡോസ് ശൃംഖല ഡ്രൈവ്</i>, സെര്‍വര്‍ വിലാസം, "
+"ഉപയോഗിക്കുവാനുള്ള അറയുടെ പാത്ത് എന്നിവയ്ക്കെല്ലാം ഒരു പേരു് നല്‍കുക. ശേഷം "
+"<b>സൂക്ഷിച്ചശേഷം &കണക്ട് ചെയ്യുക</b> എന്ന ബട്ടണ്‍ അമര്‍ത്തുക."
 
 #: knetattach.cpp:220
 #, kde-format
 msgid "Unable to connect to server.  Please check your settings and try again."
 msgstr ""
-"സര്‍വറുമായി ബന്ധം സ്ഥാപിക്കുവാന്‍ സാധ്യമായില്ല. ദയവായി നിങ്ങളുടെ സജ്ജീകരണങ്ങള്‍ പരിശോധിച്ചശേഷം "
-"വീണ്ടും ശ്രമിക്കുക."
+"സര്‍വറുമായി ബന്ധം സ്ഥാപിക്കുവാന്‍ സാധ്യമായില്ല. ദയവായി നിങ്ങളുടെ "
+"സജ്ജീകരണങ്ങള്‍ പരിശോധിച്ചശേഷം വീണ്ടും ശ്രമിക്കുക."
 
 #: knetattach.cpp:356
 #, kde-format
@@ -107,8 +107,8 @@ msgid ""
 "Select the type of network folder you wish to connect to and press the Next "
 "button."
 msgstr ""
-"നിങ്ങള്‍ക്കു് ബന്ധം സ്ഥാപിക്കുവാനാവശ്യമുള്ള തരത്തിലുള്ള ശൃംഖല അറ തിരഞ്ഞെടുത്തു് അടുത്തതു് എന്ന ബട്ടണ്‍ "
-"അമര്‍ത്തുക."
+"നിങ്ങള്‍ക്കു് ബന്ധം സ്ഥാപിക്കുവാനാവശ്യമുള്ള തരത്തിലുള്ള ശൃംഖല അറ "
+"തിരഞ്ഞെടുത്തു് അടുത്തതു് എന്ന ബട്ടണ്‍ അമര്‍ത്തുക."
 
 #. i18n: ectx: property (text), widget (QRadioButton, _recent)
 #: knetattach.ui:65
@@ -221,8 +221,8 @@ msgid "Primary author and maintainer"
 msgstr "പ്രധാന രചയിതാവും പാലകനും"
 
 #~ msgid ""
-#~ "Enter a name for this <i>%1</i> as well as the server address, port and "
-#~ "folder path to use and press the Next button."
+#~ "Enter a name for this <i>%1</i> as well as the server address, port and folder"
+#~ " path to use and press the Next button."
 #~ msgstr ""
-#~ "ഈ <i>%1</i>, സെര്‍വര്‍ വിലാസം, പോര്‍ട്ട്, ഉപയോഗിക്കുവാനുള്ള അറയുടെ പാത്ത് എന്നിവയ്ക്കെല്ലാം "
-#~ "ഒരു പേരു് നല്‍കുക. ശേഷം അടുത്തതു്എന്ന ബട്ടണ്‍ അമര്‍ത്തുക."
+#~ "ഈ <i>%1</i>, സെര്‍വര്‍ വിലാസം, പോര്‍ട്ട്, ഉപയോഗിക്കുവാനുള്ള അറയുടെ പാത്ത് "
+#~ "എന്നിവയ്ക്കെല്ലാം ഒരു പേരു് നല്‍കുക. ശേഷം അടുത്തതു്എന്ന ബട്ടണ്‍ അമര്‍ത്തുക."

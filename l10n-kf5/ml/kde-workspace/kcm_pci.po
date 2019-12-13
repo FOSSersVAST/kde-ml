@@ -8,16 +8,15 @@ msgstr ""
 "Project-Id-Version: kcm_pci\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-08-02 03:09+0200\n"
-"PO-Revision-Date: 2008-07-11 03:07+0530\n"
-"Last-Translator: ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 22:32+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -27,7 +26,7 @@ msgstr "അനി പീറ്റര്‍"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "peter.ani@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: kcm_pci.cpp:42
 #, kde-format
@@ -62,8 +61,8 @@ msgstr "ഈ പട്ടിക പിസിഐ വിവരം ലഭ്യമ�
 #: kcm_pci.cpp:82
 #, kde-format
 msgid ""
-"This display shows information about your computer's PCI slots and the "
-"related connected devices."
+"This display shows information about your computer's PCI slots and the related"
+" connected devices."
 msgstr ""
 
 #: kpci.cpp:64
@@ -316,8 +315,8 @@ msgstr "BIST ആരംഭം"
 msgid "Completion code"
 msgstr "പൂര്‍ത്തിയാക്കിയ കോഡ്"
 
-#: kpci.cpp:241 kpci.cpp:244 kpci.cpp:247 kpci.cpp:253 kpci.cpp:256
-#: kpci.cpp:259 kpci.cpp:264 kpci.cpp:295 kpci.cpp:311 kpci.cpp:437
+#: kpci.cpp:241 kpci.cpp:244 kpci.cpp:247 kpci.cpp:253 kpci.cpp:256 kpci.cpp:259
+#: kpci.cpp:264 kpci.cpp:295 kpci.cpp:311 kpci.cpp:437
 #, kde-format
 msgid "Size"
 msgstr "വലിപ്പം"
@@ -352,8 +351,8 @@ msgstr "മെമ്മറി"
 msgid "Prefetchable"
 msgstr "പ്രീഫെച്ചബിള്‍"
 
-#: kpci.cpp:294 kpci.cpp:298 kpci.cpp:303 kpci.cpp:310 kpci.cpp:314
-#: kpci.cpp:436 kpci.cpp:440 kpci.cpp:633 kpci.cpp:641
+#: kpci.cpp:294 kpci.cpp:298 kpci.cpp:303 kpci.cpp:310 kpci.cpp:314 kpci.cpp:436
+#: kpci.cpp:440 kpci.cpp:633 kpci.cpp:641
 #, kde-format
 msgid "Address"
 msgstr "വിലാസം"
@@ -420,14 +419,14 @@ msgstr ""
 msgid "32-bit"
 msgstr "32-ബിറ്റ്"
 
-#: kpci.cpp:385 kpci.cpp:389 kpci.cpp:393 kpci.cpp:398 kpci.cpp:402
-#: kpci.cpp:458 kpci.cpp:466 kpci.cpp:470
+#: kpci.cpp:385 kpci.cpp:389 kpci.cpp:393 kpci.cpp:398 kpci.cpp:402 kpci.cpp:458
+#: kpci.cpp:466 kpci.cpp:470
 #, kde-format
 msgid "Base"
 msgstr "ബെയിസ്"
 
-#: kpci.cpp:386 kpci.cpp:390 kpci.cpp:394 kpci.cpp:399 kpci.cpp:403
-#: kpci.cpp:459 kpci.cpp:467 kpci.cpp:471
+#: kpci.cpp:386 kpci.cpp:390 kpci.cpp:394 kpci.cpp:399 kpci.cpp:403 kpci.cpp:459
+#: kpci.cpp:467 kpci.cpp:471
 #, kde-format
 msgid "Limit"
 msgstr "പരിധി"
@@ -692,8 +691,7 @@ msgstr "B3"
 msgid "Secondary bus power & clock control"
 msgstr "സെക്കന്‍ഡറി ബസ് പവറും ക്ലോക്ക് നിയന്ത്രണവും"
 
-#: kpci.cpp:549 kpci.cpp:611 kpci.cpp:634 kpci.cpp:642 kpci.cpp:658
-#: kpci.cpp:670
+#: kpci.cpp:549 kpci.cpp:611 kpci.cpp:634 kpci.cpp:642 kpci.cpp:658 kpci.cpp:670
 #, kde-format
 msgid "Data"
 msgstr "ഡേറ്റാ"

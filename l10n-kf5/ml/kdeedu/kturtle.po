@@ -8,10 +8,9 @@ msgstr ""
 "Project-Id-Version: kturtle\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-13 03:03+0100\n"
-"PO-Revision-Date: 2019-12-03 10:50+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-12-12 21:28+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +26,7 @@ msgstr ""
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: canvas.cpp:207
 #, kde-format
@@ -144,8 +143,7 @@ msgstr ""
 #: editor.cpp:180
 #, kde-format
 msgid ""
-"The file you try to open is not a valid KTurtle script, or is incompatible "
-"with this version of KTurtle.\n"
+"The file you try to open is not a valid KTurtle script, or is incompatible with this version of KTurtle.\n"
 "Cannot open %1"
 msgstr ""
 
@@ -304,8 +302,7 @@ msgstr[1] ""
 #: interpreter/executer.cpp:287
 #, kde-format
 msgid "The %2 command was called with %3 but only accepts 1 parameter."
-msgid_plural ""
-"The %2 command was called with %3 but only accepts %1 parameters."
+msgid_plural "The %2 command was called with %3 but only accepts %1 parameters."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -551,8 +548,8 @@ msgstr ""
 #: interpreter/parser.cpp:280
 #, kde-format
 msgid ""
-"Text string was not properly closed, expected a double quote, ' \" ', to "
-"close the string."
+"Text string was not properly closed, expected a double quote, ' \" ', to close"
+" the string."
 msgstr ""
 
 #: interpreter/parser.cpp:628
@@ -568,18 +565,18 @@ msgstr ""
 #: interpreter/translator.cpp:109
 #, kde-format
 msgctxt ""
-"You are about to translate the 'True' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'True' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "true"
 msgstr ""
 
 #: interpreter/translator.cpp:116
 #, kde-format
 msgctxt ""
-"You are about to translate the 'False' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'False' COMMAND, there are some rules on how to"
+" translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "false"
 msgstr ""
 
@@ -587,8 +584,9 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'ArgumentSeparator' COMMAND, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"rules on how to translate it.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn how to properly translate "
+"it."
 msgid ","
 msgstr ""
 
@@ -596,17 +594,18 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'DecimalSeparator' COMMAND, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"rules on how to translate it.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn how to properly translate "
+"it."
 msgid "."
 msgstr ""
 
 #: interpreter/translator.cpp:149
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Exit' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Exit' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "exit"
 msgstr ""
 
@@ -622,9 +621,9 @@ msgstr ""
 #: interpreter/translator.cpp:163
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Else' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Else' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "else"
 msgstr ""
 
@@ -632,17 +631,17 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'Repeat' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "repeat"
 msgstr ""
 
 #: interpreter/translator.cpp:177
 #, kde-format
 msgctxt ""
-"You are about to translate the 'While' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'While' COMMAND, there are some rules on how to"
+" translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "while"
 msgstr ""
 
@@ -667,18 +666,18 @@ msgstr ""
 #: interpreter/translator.cpp:198
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Step' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Step' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "step"
 msgstr ""
 
 #: interpreter/translator.cpp:205
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Break' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Break' COMMAND, there are some rules on how to"
+" translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "break"
 msgstr ""
 
@@ -686,17 +685,17 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'Return' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "return"
 msgstr ""
 
 #: interpreter/translator.cpp:219
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Wait' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Wait' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "wait"
 msgstr ""
 
@@ -704,8 +703,8 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'Assert' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "assert"
 msgstr ""
 
@@ -739,36 +738,36 @@ msgstr ""
 #: interpreter/translator.cpp:278
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Learn' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Learn' COMMAND, there are some rules on how to"
+" translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "learn"
 msgstr ""
 
 #: interpreter/translator.cpp:285
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Reset' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Reset' COMMAND, there are some rules on how to"
+" translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "reset"
 msgstr ""
 
 #: interpreter/translator.cpp:292
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Clear' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Clear' COMMAND, there are some rules on how to"
+" translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "clear"
 msgstr ""
 
 #: interpreter/translator.cpp:299
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Clear' COMMAND ALIAS, there are some rules "
-"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
-"to learn how to properly translate it."
+"You are about to translate the 'Clear' COMMAND ALIAS, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
 msgid "ccl"
 msgstr ""
 
@@ -776,8 +775,8 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'Center' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "center"
 msgstr ""
 
@@ -829,9 +828,9 @@ msgstr ""
 #: interpreter/translator.cpp:348
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Forward' COMMAND, there are some rules on "
-"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Forward' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "forward"
 msgstr ""
 
@@ -847,8 +846,8 @@ msgstr ""
 #: interpreter/translator.cpp:362
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Backward' COMMAND, there are some rules on "
-"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"You are about to translate the 'Backward' COMMAND, there are some rules on how"
+" to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
 "learn how to properly translate it."
 msgid "backward"
 msgstr ""
@@ -856,9 +855,9 @@ msgstr ""
 #: interpreter/translator.cpp:369
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Backward' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"You are about to translate the 'Backward' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
 msgid "bw"
 msgstr ""
 
@@ -874,17 +873,17 @@ msgstr ""
 #: interpreter/translator.cpp:383
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Direction' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"You are about to translate the 'Direction' COMMAND ALIAS, there are some rules"
+" on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
 msgid "dir"
 msgstr ""
 
 #: interpreter/translator.cpp:390
 #, kde-format
 msgctxt ""
-"You are about to translate the 'TurnLeft' COMMAND, there are some rules on "
-"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"You are about to translate the 'TurnLeft' COMMAND, there are some rules on how"
+" to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
 "learn how to properly translate it."
 msgid "turnleft"
 msgstr ""
@@ -892,9 +891,9 @@ msgstr ""
 #: interpreter/translator.cpp:397
 #, kde-format
 msgctxt ""
-"You are about to translate the 'TurnLeft' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"You are about to translate the 'TurnLeft' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
 msgid "tl"
 msgstr ""
 
@@ -910,17 +909,17 @@ msgstr ""
 #: interpreter/translator.cpp:411
 #, kde-format
 msgctxt ""
-"You are about to translate the 'TurnRight' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"You are about to translate the 'TurnRight' COMMAND ALIAS, there are some rules"
+" on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
 msgid "tr"
 msgstr ""
 
 #: interpreter/translator.cpp:418
 #, kde-format
 msgctxt ""
-"You are about to translate the 'PenWidth' COMMAND, there are some rules on "
-"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"You are about to translate the 'PenWidth' COMMAND, there are some rules on how"
+" to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
 "learn how to properly translate it."
 msgid "penwidth"
 msgstr ""
@@ -928,36 +927,36 @@ msgstr ""
 #: interpreter/translator.cpp:425
 #, kde-format
 msgctxt ""
-"You are about to translate the 'PenWidth' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"You are about to translate the 'PenWidth' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
 msgid "pw"
 msgstr ""
 
 #: interpreter/translator.cpp:432
 #, kde-format
 msgctxt ""
-"You are about to translate the 'PenUp' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'PenUp' COMMAND, there are some rules on how to"
+" translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "penup"
 msgstr ""
 
 #: interpreter/translator.cpp:439
 #, kde-format
 msgctxt ""
-"You are about to translate the 'PenUp' COMMAND ALIAS, there are some rules "
-"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
-"to learn how to properly translate it."
+"You are about to translate the 'PenUp' COMMAND ALIAS, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
 msgid "pu"
 msgstr ""
 
 #: interpreter/translator.cpp:446
 #, kde-format
 msgctxt ""
-"You are about to translate the 'PenDown' COMMAND, there are some rules on "
-"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'PenDown' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "pendown"
 msgstr ""
 
@@ -973,8 +972,8 @@ msgstr ""
 #: interpreter/translator.cpp:460
 #, kde-format
 msgctxt ""
-"You are about to translate the 'PenColor' COMMAND, there are some rules on "
-"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"You are about to translate the 'PenColor' COMMAND, there are some rules on how"
+" to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
 "learn how to properly translate it."
 msgid "pencolor"
 msgstr ""
@@ -982,18 +981,18 @@ msgstr ""
 #: interpreter/translator.cpp:467
 #, kde-format
 msgctxt ""
-"You are about to translate the 'PenColor' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"You are about to translate the 'PenColor' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
 msgid "pc"
 msgstr ""
 
 #: interpreter/translator.cpp:474
 #, kde-format
 msgctxt ""
-"You are about to translate the 'CanvasColor' COMMAND, there are some rules "
-"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
-"to learn how to properly translate it."
+"You are about to translate the 'CanvasColor' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
 msgid "canvascolor"
 msgstr ""
 
@@ -1001,8 +1000,9 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'CanvasColor' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"rules on how to translate it.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn how to properly translate "
+"it."
 msgid "cc"
 msgstr ""
 
@@ -1019,8 +1019,9 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'CanvasSize' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"rules on how to translate it.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn how to properly translate "
+"it."
 msgid "cs"
 msgstr ""
 
@@ -1037,8 +1038,9 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'SpriteShow' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"rules on how to translate it.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn how to properly translate "
+"it."
 msgid "ss"
 msgstr ""
 
@@ -1055,25 +1057,26 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'SpriteHide' COMMAND ALIAS, there are some "
-"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn how to properly translate it."
+"rules on how to translate it.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn how to properly translate "
+"it."
 msgid "sh"
 msgstr ""
 
 #: interpreter/translator.cpp:530
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Print' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Print' COMMAND, there are some rules on how to"
+" translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "print"
 msgstr ""
 
 #: interpreter/translator.cpp:537
 #, kde-format
 msgctxt ""
-"You are about to translate the 'FontSize' COMMAND, there are some rules on "
-"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"You are about to translate the 'FontSize' COMMAND, there are some rules on how"
+" to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
 "learn how to properly translate it."
 msgid "fontsize"
 msgstr ""
@@ -1082,44 +1085,44 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'Random' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "random"
 msgstr ""
 
 #: interpreter/translator.cpp:551
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Random' COMMAND ALIAS, there are some rules "
-"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
-"to learn how to properly translate it."
+"You are about to translate the 'Random' COMMAND ALIAS, there are some rules on"
+" how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
 msgid "rnd"
 msgstr ""
 
 #: interpreter/translator.cpp:558
 #, kde-format
 msgctxt ""
-"You are about to translate the 'GetX' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'GetX' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "getx"
 msgstr ""
 
 #: interpreter/translator.cpp:565
 #, kde-format
 msgctxt ""
-"You are about to translate the 'GetY' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'GetY' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "gety"
 msgstr ""
 
 #: interpreter/translator.cpp:572
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Message' COMMAND, there are some rules on "
-"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Message' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "message"
 msgstr ""
 
@@ -1172,8 +1175,8 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'ArcTan' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "arctan"
 msgstr ""
 
@@ -1181,8 +1184,8 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'ArcSin' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "arcsin"
 msgstr ""
 
@@ -1190,35 +1193,35 @@ msgstr ""
 #, kde-format
 msgctxt ""
 "You are about to translate the 'ArcCos' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to learn"
+" how to properly translate it."
 msgid "arccos"
 msgstr ""
 
 #: interpreter/translator.cpp:635
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Sqrt' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Sqrt' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "sqrt"
 msgstr ""
 
 #: interpreter/translator.cpp:642
 #, kde-format
 msgctxt ""
-"You are about to translate the 'Round' COMMAND, there are some rules on how "
-"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
-"learn how to properly translate it."
+"You are about to translate the 'Round' COMMAND, there are some rules on how to"
+" translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
 msgid "round"
 msgstr ""
 
 #: interpreter/translator.cpp:649
 #, kde-format
 msgctxt ""
-"You are about to translate the 'GetDirection' COMMAND, there are some rules "
-"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
-"to learn how to properly translate it."
+"You are about to translate the 'GetDirection' COMMAND, there are some rules on"
+" how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
 msgid "getdirection"
 msgstr ""
 
@@ -1234,32 +1237,36 @@ msgstr ""
 #: interpreter/translator.cpp:675
 #, kde-format
 msgctxt ""
-"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn know how to properly translate it."
+"This is an EXAMPLE NAME in KTurtle.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn know how to properly "
+"translate it."
 msgid "triangle"
 msgstr ""
 
 #: interpreter/translator.cpp:687
 #, kde-format
 msgctxt ""
-"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn know how to properly translate it."
+"This is an EXAMPLE NAME in KTurtle.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn know how to properly "
+"translate it."
 msgid "curly"
 msgstr ""
 
 #: interpreter/translator.cpp:705
 #, kde-format
 msgctxt ""
-"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn know how to properly translate it."
+"This is an EXAMPLE NAME in KTurtle.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn know how to properly "
+"translate it."
 msgid "arrow"
 msgstr ""
 
 #: interpreter/translator.cpp:732
 #, kde-format
 msgctxt ""
-"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
-"translator.php to learn know how to properly translate it."
+"This is an EXAMPLE NAME in KTurtle.Please see "
+"https://edu.kde.org/kturtle/translator.php to learn know how to properly "
+"translate it."
 msgid "flower"
 msgstr ""
 
@@ -1334,8 +1341,8 @@ msgstr ""
 msgid ""
 "KTurtle is an educational programming environment that aims to make learning "
 "how to program as easy as possible. To achieve this KTurtle makes all "
-"programming tools available from the user interface. The programming "
-"language used is TurtleScript which allows its commands to be translated."
+"programming tools available from the user interface. The programming language "
+"used is TurtleScript which allows its commands to be translated."
 msgstr ""
 
 #: main.cpp:65
@@ -1390,16 +1397,15 @@ msgstr ""
 #: main.cpp:85
 #, kde-format
 msgid ""
-"Specifies the localization language by a language code, defaults to \"en_US"
-"\" (only works in testing mode)"
+"Specifies the localization language by a language code, defaults to \"en_US\" "
+"(only works in testing mode)"
 msgstr ""
 
 #. i18n("Only tokenizes the turtle code (only works in testing mode)")));
 #: main.cpp:87
 #, kde-format
 msgid ""
-"Translates turtle code to embeddable C++ example strings (for developers "
-"only)"
+"Translates turtle code to embeddable C++ example strings (for developers only)"
 msgstr ""
 
 #: mainwindow.cpp:77
@@ -1689,11 +1695,16 @@ msgstr ""
 msgid "Abort: Stop executing program"
 msgstr ""
 
-#. i18n("&Indent"), "format-indent-more", CTRL+Key_I, this, SLOT(slotIndent()), ac, "edit_indent");
-#. i18n("&Unindent"), "format-indent-less", CTRL+SHIFT+Key_I, this, SLOT(slotUnIndent()), ac, "edit_unindent");
-#. i18n("Cl&ean Indentation"), 0, 0, this, SLOT(slotCleanIndent()), ac, "edit_cleanIndent");
-#. i18n("Co&mment"), 0, CTRL+Key_D, this, SLOT(slotComment()), ac, "edit_comment");
-#. i18n("Unc&omment"), 0, CTRL+SHIFT+Key_D, this, SLOT(slotUnComment()), ac, "edit_uncomment");
+#. i18n("&Indent"), "format-indent-more", CTRL+Key_I, this, SLOT(slotIndent()),
+#. ac, "edit_indent");
+#. i18n("&Unindent"), "format-indent-less", CTRL+SHIFT+Key_I, this,
+#. SLOT(slotUnIndent()), ac, "edit_unindent");
+#. i18n("Cl&ean Indentation"), 0, 0, this, SLOT(slotCleanIndent()), ac,
+#. "edit_cleanIndent");
+#. i18n("Co&mment"), 0, CTRL+Key_D, this, SLOT(slotComment()), ac,
+#. "edit_comment");
+#. i18n("Unc&omment"), 0, CTRL+SHIFT+Key_D, this, SLOT(slotUnComment()), ac,
+#. "edit_uncomment");
 #. Tools menu actions
 #: mainwindow.cpp:340
 #, kde-format
@@ -1773,11 +1784,13 @@ msgstr ""
 #. i18n("Show &Console"), this);
 #. actionCollection()->addAction("show_console", a);
 #. a->setStatusTip(i18n("Show or hide the interactive Console tab"));
-#. a->setWhatsThis(i18n("Show Console: Show or hide the interactive Console tab"));
+#. a->setWhatsThis(i18n("Show Console: Show or hide the interactive Console
+#. tab"));
 #. a->setCheckable(true);
 #. a->setChecked(false);
 #. connect(a, SIGNAL(toggled(bool)), consoleDock, SLOT(setVisible(bool)));
-#. connect(consoleDock, SIGNAL(visibilityChanged(bool)), a, SLOT(setChecked(bool)));
+#. connect(consoleDock, SIGNAL(visibilityChanged(bool)), a,
+#. SLOT(setChecked(bool)));
 #: mainwindow.cpp:390
 #, kde-format
 msgid "Show &Line Numbers"
@@ -1966,8 +1979,7 @@ msgstr ""
 #: mainwindow.cpp:574
 #, kde-format
 msgid ""
-"Inspector: See information about variables and functions when the program "
-"runs"
+"Inspector: See information about variables and functions when the program runs"
 msgstr ""
 
 #: mainwindow.cpp:667

@@ -1,20 +1,21 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: plasma-sdk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-30 03:38+0100\n"
-"PO-Revision-Date: 2019-11-17 15:50+0530\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 22:22+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.2.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
+"X-Language: ml\n"
 "X-Pootle-Path: /ml/l10n-kf5/kde-workspace/kcm_lookandfeel.po\n"
 "X-Pootle-Revision: 6404\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: ml\n"
 "X-Source-Language: C\n"
 
 #, kde-format
@@ -25,7 +26,7 @@ msgstr "Amrithanath M"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "amrithanadhm@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: kcm.cpp:75
 #, kde-format
@@ -39,8 +40,7 @@ msgstr "മാർക്കോ മാർട്ടിൻ"
 
 #: kcm.cpp:526
 #, kde-format
-msgid ""
-"You have to restart the Plasma session for these changes to take effect."
+msgid "You have to restart the Plasma session for these changes to take effect."
 msgstr "ഈ മാറ്റങ്ങൾ പ്രാബല്യത്തിൽ വരാൻ നിങ്ങൾ പ്ലാസ്മ സെഷൻ പുനരാരംഭിക്കണം."
 
 #: kcm.cpp:527
@@ -106,8 +106,8 @@ msgid ""
 "Your desktop layout will be lost and reset to the default layout provided by "
 "the selected theme."
 msgstr ""
-"നിങ്ങളുടെ ഡെസ്ക്ടോപ്പ് ലേഔട്ട് നഷ്ടപ്പെടുകയും തിരഞ്ഞെടുത്ത തീം നൽകിയ സ്ഥിരസ്ഥിതി ലേഔട്ടിലേക്ക് "
-"പുനഃസജ്ജമാക്കുകയും ചെയ്യും."
+"നിങ്ങളുടെ ഡെസ്ക്ടോപ്പ് ലേഔട്ട് നഷ്ടപ്പെടുകയും തിരഞ്ഞെടുത്ത തീം നൽകിയ "
+"സ്ഥിരസ്ഥിതി ലേഔട്ടിലേക്ക് പുനഃസജ്ജമാക്കുകയും ചെയ്യും."
 
 #: package/contents/ui/main.qml:81
 #, kde-format

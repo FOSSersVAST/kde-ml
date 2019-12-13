@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: akregator_konqplugin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-29 02:33+0100\n"
-"PO-Revision-Date: 2019-05-22 01:57+0530\n"
-"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
-"കമ്പ്യൂട്ടിങ്ങ് <smcdiscuss@googlegroups.com\n"
+"PO-Revision-Date: 2019-12-12 10:50+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smcdiscuss@googlegroups.com\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: akregatorplugin.cpp:74
 #, kde-format
@@ -32,30 +33,31 @@ msgstr "അക്രിഗേറ്ററില്‍ ഫീഡ് കൂട്�
 #: konqfeedicon.cpp:146
 #, kde-format
 msgid "Add Feeds to Akregator"
-msgstr "അക്രിഗേറ്ററില്‍ ഫീഡുകള്‍ കൂട്ടിച്ചേര്‍ക്കുക"
+msgstr "അക്രിഗേറ്ററില്‍ ഫീഡുകള്‍ കൂട്ടി ച്ചേര്‍ക്കുക"
 
 #: konqfeedicon.cpp:155
 #, kde-format
 msgid "Add All Found Feeds to Akregator"
-msgstr "എല്ലാ ഫീഡുകളും അക്രിഗേറ്ററില്‍ കൂട്ടിച്ചേര്‍ക്കുക "
+msgstr "ലഭ്യമായ എല്ലാ ഫീഡുകളും അക്രിഗേറ്ററില്‍ കൂട്ടിച്ചേര്‍ക്കുക"
 
 #: konqfeedicon.cpp:179
 #, kde-format
 msgid "Subscribe to site updates (using news feed)"
-msgstr "സൈറ്റുകളിലെ പുതുമകളറിയാന്‍ വരിക്കാരനാകുക (വാര്‍ത്താ ഫീഡുകള്‍ ഉപയോഗിച്ചു്)"
+msgstr ""
+"സൈറ്റുകളിലെ പുതുമകളറിയാന്‍ വരിക്കാരനാകുക (വാര്‍ത്താ ഫീഡുകള്‍ ഉപയോഗിച്ച്)"
 
 #: pluginutil.cpp:52 pluginutil.cpp:62
 #, kde-format
 msgid "Imported Feeds"
-msgstr "എടുത്ത ഫീഡുകള്‍"
+msgstr "കൊണ്ടുവന്ന ഫീഡുകള്‍"
 
 #: pluginutil.cpp:54
-#, fuzzy, kde-format
+#, kde-format
 msgid "Unable to contact Akregator via D-Bus"
-msgstr "ഡിബസ് വഴി അക്രിഗേറ്ററെ ബന്ധപ്പെടാൻ കഴിഞ്ഞില്ല"
+msgstr "ഡി-ബസ് വഴി അക്രിഗേറ്ററെ ബന്ധപ്പെടാൻ കഴിയുന്നില്ല"
 
 #: pluginutil.cpp:55
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "D-Bus call failed"
-msgstr "ഡിബസ് വിളി പരാജയപെട്ടു"
+msgstr "ഡി-ബസ് വിളി പരാജയപെട്ടു"

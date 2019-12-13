@@ -9,16 +9,15 @@ msgstr ""
 "Project-Id-Version: kcmkwm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-09-20 03:31+0200\n"
-"PO-Revision-Date: 2008-07-22 23:41+0530\n"
-"Last-Translator: Manu S Madhav <manusmad@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 22:45+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -28,7 +27,7 @@ msgstr "അനി പീറ്റര്‍"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "peter.ani@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_1)
 #: actions.ui:17
@@ -51,8 +50,9 @@ msgid ""
 "In this row you can customize left click behavior when clicking into an "
 "inactive inner window ('inner' means: not titlebar, not frame)."
 msgstr ""
-"ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന ഇടത് ക്ലിക്ക് സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് "
-"ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
+"ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന ഇടത് ക്ലിക്ക് "
+"സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: "
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
 
 #. i18n: ectx: property (text), item, widget (KComboBox, coWin1)
 #. i18n: ectx: property (text), item, widget (KComboBox, coWin2)
@@ -111,8 +111,9 @@ msgid ""
 "In this row you can customize middle click behavior when clicking into an "
 "inactive inner window ('inner' means: not titlebar, not frame)."
 msgstr ""
-"ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മധ്യ ക്ലിക്ക് സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് "
-"ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
+"ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മധ്യ ക്ലിക്ക് "
+"സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: "
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
 
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #. i18n: ectx: property (text), widget (QLabel, label_3)
@@ -128,8 +129,9 @@ msgid ""
 "In this row you can customize right click behavior when clicking into an "
 "inactive inner window ('inner' means: not titlebar, not frame)."
 msgstr ""
-"ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന വലത് ക്ലിക്ക് സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് "
-"ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
+"ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന വലത് ക്ലിക്ക് "
+"സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: "
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. i18n: ectx: property (text), widget (QLabel, label_4)
@@ -145,8 +147,9 @@ msgid ""
 "In this row you can customize behavior when scrolling into an inactive inner "
 "window ('inner' means: not titlebar, not frame)."
 msgstr ""
-"ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന ഇടത് ക്ലിക്ക് സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് "
-"ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
+"ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന ഇടത് ക്ലിക്ക് "
+"സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: "
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
 
 #. i18n: ectx: property (text), item, widget (KComboBox, coWinWheel)
 #: actions.ui:163
@@ -218,8 +221,8 @@ msgid ""
 "In this row you can customize left click behavior when clicking into the "
 "titlebar or the frame."
 msgstr ""
-"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ ഇടത് ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന ഇടത് ക്ലിക്ക് സ്വഭാവം ഈ വരിയില്‍ "
-"നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ ഇടത് ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന ഇടത് ക്ലിക്ക് "
+"സ്വഭാവം ഈ വരിയില്‍ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #. i18n: ectx: property (text), item, widget (KComboBox, coAll1)
 #. i18n: ectx: property (text), item, widget (KComboBox, coAll2)
@@ -340,8 +343,8 @@ msgstr "തെളിച്ചം മാറ്റുക"
 #. i18n: ectx: property (text), item, widget (KComboBox, coAll3)
 #. i18n: ectx: property (text), item, widget (KComboBox, coAllW)
 #: actions.ui:310 actions.ui:380 actions.ui:450 actions.ui:505 mouse.ui:80
-#: mouse.ui:132 mouse.ui:271 mouse.ui:333 mouse.ui:386 mouse.ui:448
-#: mouse.ui:501 mouse.ui:563
+#: mouse.ui:132 mouse.ui:271 mouse.ui:333 mouse.ui:386 mouse.ui:448 mouse.ui:501
+#: mouse.ui:563
 #, fuzzy, kde-format
 #| msgid "Nothing"
 msgid "Do nothing"
@@ -360,8 +363,8 @@ msgid ""
 "In this row you can customize middle click behavior when clicking into the "
 "titlebar or the frame."
 msgstr ""
-"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മധ്യ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മധ്യ ക്ലിക്ക് സ്വഭാവം ഈ വരിയില്‍ "
-"നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മധ്യ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മധ്യ ക്ലിക്ക് "
+"സ്വഭാവം ഈ വരിയില്‍ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #. i18n: ectx: property (text), widget (QLabel, label_9)
@@ -377,8 +380,8 @@ msgid ""
 "In this row you can customize right click behavior when clicking into the "
 "titlebar or the frame."
 msgstr ""
-"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ വലത് ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന വലത് ക്ലിക്ക് സ്വഭാവം ഈ വരിയില്‍ "
-"നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+"തലപ്പട്ടയിലോ ഫ്രെയിമിലോ വലത് ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന വലത് ക്ലിക്ക് "
+"സ്വഭാവം ഈ വരിയില്‍ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #: actions.ui:458
@@ -390,11 +393,11 @@ msgstr "മോഡിഫയര്‍ കീ + മൌസ് വീല്‍:"
 #: actions.ui:471
 #, fuzzy, kde-format
 msgid ""
-"Here you can customize KDE's behavior when scrolling with the mouse wheel in "
-"a window while pressing the modifier key."
+"Here you can customize KDE's behavior when scrolling with the mouse wheel in a"
+" window while pressing the modifier key."
 msgstr ""
-"മോഡിഫയര്‍ കീ അമര്‍ത്തിക്കൊണ്ട് മൌസ് ചക്രമുപയോഗിച്ച് ഒരു ജാലകത്തില്‍ സ്ക്രോള്‍ ചെയ്താലുണ്ടാവുന്ന "
-"കെഡിഇയുടെ സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+"മോഡിഫയര്‍ കീ അമര്‍ത്തിക്കൊണ്ട് മൌസ് ചക്രമുപയോഗിച്ച് ഒരു ജാലകത്തില്‍ സ്ക്രോള്‍ "
+"ചെയ്താലുണ്ടാവുന്ന കെഡിഇയുടെ സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #. i18n: ectx: property (text), item, widget (KComboBox, coTiAct4)
 #. i18n: ectx: property (text), item, widget (KComboBox, coAllW)
@@ -454,9 +457,9 @@ msgstr "ജാലകത്തിലുള്ള പ്ര&വ‍ത്തിക�
 #: advanced.ui:32
 #, kde-format
 msgid ""
-"<html><head/><body><p>If this option is enabled, a shaded window will "
-"unshade automatically when the mouse pointer has been over the titlebar for "
-"some time.</p></body></html>"
+"<html><head/><body><p>If this option is enabled, a shaded window will unshade "
+"automatically when the mouse pointer has been over the titlebar for some "
+"time.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, shadeHoverOn)
@@ -491,32 +494,32 @@ msgstr ""
 #: advanced.ui:76
 #, kde-format
 msgid ""
-"<html><head/><body><p>The placement policy determines where a new window "
-"will appear on the desktop.</p><ul style=\"margin-top: 0px; margin-bottom: "
-"0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;\"><li style=\" "
+"<html><head/><body><p>The placement policy determines where a new window will "
+"appear on the desktop.</p><ul style=\"margin-top: 0px; margin-bottom: 0px; "
+"margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;\"><li style=\" "
 "margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-"
-"block-indent:0; text-indent:0px;\"><span style=\" font-style:italic;"
-"\">Smart</span> will try to achieve a minimum overlap of windows</li><li "
-"style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-style:"
-"italic;\">Maximizing</span> will try to maximize every window to fill the "
-"whole screen. It might be useful to selectively affect placement of some "
+"block-indent:0; text-indent:0px;\"><span style=\" font-"
+"style:italic;\">Smart</span> will try to achieve a minimum overlap of "
+"windows</li><li style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"style:italic;\">Maximizing</span> will try to maximize every window to fill "
+"the whole screen. It might be useful to selectively affect placement of some "
 "windows using the window-specific settings.</li><li style=\" margin-top:0px; "
 "margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
 "text-indent:0px;\"><span style=\" font-style:italic;\">Cascade</span> will "
 "cascade the windows</li><li style=\" margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-"\"><span style=\" font-style:italic;\">Random</span> will use a random "
-"position</li><li style=\" margin-top:0px; margin-bottom:0px; margin-"
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
+"indent:0px;\"><span style=\" font-style:italic;\">Random</span> will use a "
+"random position</li><li style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
 "style=\" font-style:italic;\">Centered</span> will place the window "
-"centered</li><li style=\" margin-top:0px; margin-bottom:0px; margin-"
-"left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-style:italic;\">Zero-cornered</span> will place the window in "
-"the top-left corner</li><li style=\" margin-top:0px; margin-bottom:12px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"
-"\"><span style=\" font-style:italic;\">Under mouse</span> will place the "
-"window under the pointer</li></ul></body></html>"
+"centered</li><li style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"style:italic;\">Zero-cornered</span> will place the window in the top-left "
+"corner</li><li style=\" margin-top:0px; margin-bottom:12px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"style:italic;\">Under mouse</span> will place the window under the "
+"pointer</li></ul></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, placementCombo)
@@ -568,17 +571,19 @@ msgstr "കേന്ദ്രീകരണം മൌസിന്റെ താഴ�
 msgid "&Special windows:"
 msgstr "ജാലകങ്ങള്‍"
 
-#. i18n: ectx: property (whatsThis), widget (QCheckBox, hideUtilityWindowsForInactive)
+#. i18n: ectx: property (whatsThis), widget (QCheckBox,
+#. hideUtilityWindowsForInactive)
 #: advanced.ui:128
 #, kde-format
 msgid ""
-"When turned on, utility windows (tool windows, torn-off menus,...) of "
-"inactive applications will be hidden and will be shown only when the "
-"application becomes active. Note that applications have to mark the windows "
-"with the proper window type for this feature to work."
+"When turned on, utility windows (tool windows, torn-off menus,...) of inactive"
+" applications will be hidden and will be shown only when the application "
+"becomes active. Note that applications have to mark the windows with the "
+"proper window type for this feature to work."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, hideUtilityWindowsForInactive)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. hideUtilityWindowsForInactive)
 #: advanced.ui:131
 #, kde-format
 msgid "Hide utility windows for inactive applications"
@@ -661,36 +666,36 @@ msgstr ""
 #: focus.ui:114
 #, kde-format
 msgid ""
-"<html><head/><body><p>This option specifies how much KWin will try to "
-"prevent unwanted focus stealing caused by unexpected activation of new "
-"windows. (Note: This feature does not work with the <span style=\" font-"
-"style:italic;\">Focus under mouse</span> or <span style=\" font-style:italic;"
-"\">Focus strictly under mouse</span> focus policies.) </p><ul style=\"margin-"
-"top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-"
-"indent: 1;\"><li style=\" margin-top:12px; margin-bottom:0px; margin-"
+"<html><head/><body><p>This option specifies how much KWin will try to prevent "
+"unwanted focus stealing caused by unexpected activation of new windows. (Note:"
+" This feature does not work with the <span style=\" font-style:italic;\">Focus"
+" under mouse</span> or <span style=\" font-style:italic;\">Focus strictly "
+"under mouse</span> focus policies.) </p><ul style=\"margin-top: 0px; margin-"
+"bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;\"><li "
+"style=\" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-"
+"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"style:italic;\">None:</span> Prevention is turned off and new windows always "
+"become activated.</li><li style=\" margin-top:0px; margin-bottom:0px; margin-"
 "left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
-"style=\" font-style:italic;\">None:</span> Prevention is turned off and new "
-"windows always become activated.</li><li style=\" margin-top:0px; margin-"
+"style=\" font-style:italic;\">Low:</span> Prevention is enabled; when some "
+"window does not have support for the underlying mechanism and KWin cannot "
+"reliably decide whether to activate the window or not, it will be activated. "
+"This setting may have both worse and better results than the medium level, "
+"depending on the applications.</li><li style=\" margin-top:0px; margin-"
 "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px;\"><span style=\" font-style:italic;\">Low:</span> Prevention is "
-"enabled; when some window does not have support for the underlying mechanism "
-"and KWin cannot reliably decide whether to activate the window or not, it "
-"will be activated. This setting may have both worse and better results than "
-"the medium level, depending on the applications.</li><li style=\" margin-"
-"top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
-"indent:0; text-indent:0px;\"><span style=\" font-style:italic;\">Medium:</"
-"span> Prevention is enabled.</li><li style=\" margin-top:0px; margin-"
-"bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px;\"><span style=\" font-style:italic;\">High:</span> New windows "
-"get activated only if no window is currently active or if they belong to the "
-"currently active application. This setting is probably not really usable "
-"when not using mouse focus policy.</li><li style=\" margin-top:0px; margin-"
-"bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
-"indent:0px;\"><span style=\" font-style:italic;\">Extreme:</span> All "
-"windows must be explicitly activated by the user.</li></ul><p>Windows that "
-"are prevented from stealing focus are marked as demanding attention, which "
-"by default means their taskbar entry will be highlighted. This can be "
-"changed in the Notifications control module.</p></body></html>"
+"indent:0px;\"><span style=\" font-style:italic;\">Medium:</span> Prevention is"
+" enabled.</li><li style=\" margin-top:0px; margin-bottom:0px; margin-left:0px;"
+" margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"style:italic;\">High:</span> New windows get activated only if no window is "
+"currently active or if they belong to the currently active application. This "
+"setting is probably not really usable when not using mouse focus "
+"policy.</li><li style=\" margin-top:0px; margin-bottom:12px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
+"style:italic;\">Extreme:</span> All windows must be explicitly activated by "
+"the user.</li></ul><p>Windows that are prevented from stealing focus are "
+"marked as demanding attention, which by default means their taskbar entry will"
+" be highlighted. This can be changed in the Notifications control "
+"module.</p></body></html>"
 msgstr ""
 
 #. i18n: Focus Stealing Prevention Level
@@ -787,8 +792,8 @@ msgid ""
 "When this option is enabled, the active Xinerama screen (where new windows "
 "appear, for example) is the screen containing the mouse pointer. When "
 "disabled, the active Xinerama screen is the screen containing the focused "
-"window. By default this option is disabled for Click to focus and enabled "
-"for other focus policies."
+"window. By default this option is disabled for Click to focus and enabled for "
+"other focus policies."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, activeMouseScreen)
@@ -898,18 +903,19 @@ msgstr "മത്തിയാസ് ഹോയിസര്‍-ക്ല്യൂ�
 #: main.cpp:166
 #, kde-format
 msgid ""
-"<p><h1>Window Behavior</h1> Here you can customize the way windows behave "
-"when being moved, resized or clicked on. You can also specify a focus policy "
-"as well as a placement policy for new windows.</p> <p>Please note that this "
+"<p><h1>Window Behavior</h1> Here you can customize the way windows behave when"
+" being moved, resized or clicked on. You can also specify a focus policy as "
+"well as a placement policy for new windows.</p> <p>Please note that this "
 "configuration will not take effect if you do not use KWin as your window "
 "manager. If you do use a different window manager, please refer to its "
 "documentation for how to customize window behavior.</p>"
 msgstr ""
-"<p><h1>ജാലകസ്വഭാവം</h1> ഇവിടെ നിങ്ങള്‍ക്ക് നീക്കുമ്പോഴും വലിപ്പം മാറ്റുമ്പോഴും ക്ലിക്ക് "
-"ചെയ്യുമ്പോഴുമുള്ള ജാലകങ്ങളുടെ സ്വഭാവം ഇഷ്ടമുള്ളരീതിയിലാക്കാം. പുതിയ ജാലകങ്ങള്‍ക്കായുള്ള "
-"കേന്ദ്രീകണ, സ്ഥാനനിശ്ചയ നയങ്ങളും നിങ്ങള്‍ക്ക് വ്യക്തമാക്കാം.</p> <p>KWin നിങ്ങളുടെ "
-"ജാലകകാര്യസ്ഥനായിട്ടുപയോഗിച്ചില്ലെങ്കില്‍ ഈ ക്രമീകരണങ്ങള്‍ ഫലവത്താകില്ലെന്ന് ദയവായി "
-"മനസ്സിലാക്കുക. നിങ്ങള്‍ വേറെ ജാലകകാര്യസ്ഥനാണുപയോഗിക്കുന്നതെങ്കില്‍, ജാലകങ്ങളുടെ സ്വഭാവം "
+"<p><h1>ജാലകസ്വഭാവം</h1> ഇവിടെ നിങ്ങള്‍ക്ക് നീക്കുമ്പോഴും വലിപ്പം മാറ്റുമ്പോഴും"
+" ക്ലിക്ക് ചെയ്യുമ്പോഴുമുള്ള ജാലകങ്ങളുടെ സ്വഭാവം ഇഷ്ടമുള്ളരീതിയിലാക്കാം. പുതിയ "
+"ജാലകങ്ങള്‍ക്കായുള്ള കേന്ദ്രീകണ, സ്ഥാനനിശ്ചയ നയങ്ങളും നിങ്ങള്‍ക്ക് "
+"വ്യക്തമാക്കാം.</p> <p>KWin നിങ്ങളുടെ ജാലകകാര്യസ്ഥനായിട്ടുപയോഗിച്ചില്ലെങ്കില്‍ "
+"ഈ ക്രമീകരണങ്ങള്‍ ഫലവത്താകില്ലെന്ന് ദയവായി മനസ്സിലാക്കുക. നിങ്ങള്‍ വേറെ "
+"ജാലകകാര്യസ്ഥനാണുപയോഗിക്കുന്നതെങ്കില്‍, ജാലകങ്ങളുടെ സ്വഭാവം "
 "ഇഷ്ടമുള്ളരീതിയിലാക്കാന്‍ അതിന്റെ വിവരണക്കുറിപ്പ് നോക്കുക.</p>"
 
 #: main.cpp:191
@@ -1029,8 +1035,8 @@ msgstr "നിര്‍ജ്ജീവം"
 #: mouse.ui:232 mouse.ui:347 mouse.ui:462
 #, kde-format
 msgid ""
-"Behavior on <em>left</em> click into the titlebar or frame of an <em>active</"
-"em> window."
+"Behavior on <em>left</em> click into the titlebar or frame of an "
+"<em>active</em> window."
 msgstr ""
 "ഒരു <em>സജീവ</em> ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ <em>ഇടത്</em> ക്ലിക്ക് "
 "ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
@@ -1041,8 +1047,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (KComboBox, coTiInAct2)
 #. i18n: ectx: property (text), item, widget (KComboBox, coTiAct3)
 #. i18n: ectx: property (text), item, widget (KComboBox, coTiInAct3)
-#: mouse.ui:266 mouse.ui:328 mouse.ui:381 mouse.ui:443 mouse.ui:496
-#: mouse.ui:558
+#: mouse.ui:266 mouse.ui:328 mouse.ui:381 mouse.ui:443 mouse.ui:496 mouse.ui:558
 #, fuzzy, kde-format
 #| msgid "Operations Menu"
 msgid "Show actions menu"
@@ -1057,8 +1062,8 @@ msgid ""
 "Behavior on <em>left</em> click into the titlebar or frame of an "
 "<em>inactive</em> window."
 msgstr ""
-"ഒരു <em>നിര്‍ജ്ജീവ</em> ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ <em>ഇടത്</em> ക്ലിക്ക് "
-"ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
+"ഒരു <em>നിര്‍ജ്ജീവ</em> ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ <em>ഇടത്</em> "
+"ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
 
 #. i18n: ectx: property (text), item, widget (KComboBox, coTiInAct1)
 #. i18n: ectx: property (text), item, widget (KComboBox, coTiInAct2)
@@ -1081,14 +1086,19 @@ msgstr "വലുതാക്കുവാനുള്ള ബട്ടണ്‍"
 #: mouse.ui:598 mouse.ui:617
 #, kde-format
 msgid "Behavior on <em>left</em> click onto the maximize button."
-msgstr "വലുതാക്കുവാനുള്ള ബട്ടണില്‍ <em>ഇടത്</em> ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
+msgstr ""
+"വലുതാക്കുവാനുള്ള ബട്ടണില്‍ <em>ഇടത്</em> ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന "
+"സ്വഭാവം."
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, label_9)
-#. i18n: ectx: property (whatsThis), widget (KComboBox, middleClickMaximizeButton)
+#. i18n: ectx: property (whatsThis), widget (KComboBox,
+#. middleClickMaximizeButton)
 #: mouse.ui:624 mouse.ui:643
 #, kde-format
 msgid "Behavior on <em>middle</em> click onto the maximize button."
-msgstr "വലുതാക്കുവാനുള്ള ബട്ടണില്‍ <em>മധ്യ</em> ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
+msgstr ""
+"വലുതാക്കുവാനുള്ള ബട്ടണില്‍ <em>മധ്യ</em> ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന "
+"സ്വഭാവം."
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #: mouse.ui:627
@@ -1097,11 +1107,14 @@ msgid "Middle c&lick:"
 msgstr "മധ്യത്തിലുള്ള ബട്ടണ്‍: "
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, label_10)
-#. i18n: ectx: property (whatsThis), widget (KComboBox, rightClickMaximizeButton)
+#. i18n: ectx: property (whatsThis), widget (KComboBox,
+#. rightClickMaximizeButton)
 #: mouse.ui:650 mouse.ui:669
 #, kde-format
 msgid "Behavior on <em>right</em> click onto the maximize button."
-msgstr "വലുതാക്കുവാനുള്ള ബട്ടണില്‍ <em>വലത്</em> ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
+msgstr ""
+"വലുതാക്കുവാനുള്ള ബട്ടണില്‍ <em>വലത്</em> ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന "
+"സ്വഭാവം."
 
 #. i18n: ectx: property (text), widget (QLabel, geometryTipLabel)
 #: moving.ui:20
@@ -1113,9 +1126,9 @@ msgstr ""
 #: moving.ui:30
 #, kde-format
 msgid ""
-"Enable this option if you want a window's geometry to be displayed while it "
-"is being moved or resized. The window position relative to the top-left "
-"corner of the screen is displayed together with its size."
+"Enable this option if you want a window's geometry to be displayed while it is"
+" being moved or resized. The window position relative to the top-left corner "
+"of the screen is displayed together with its size."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, geometryTipOn)
@@ -1152,8 +1165,8 @@ msgstr " പിക്സല്‍"
 #, kde-format
 msgid ""
 "Here you can set the snap zone for windows, i.e. the 'strength' of the "
-"magnetic field which will make windows snap to each other when they are "
-"moved near another window."
+"magnetic field which will make windows snap to each other when they are moved "
+"near another window."
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QSpinBox, centerSnap)
@@ -1169,9 +1182,9 @@ msgstr ""
 #: moving.ui:113
 #, kde-format
 msgid ""
-"Here you can set that windows will be only snapped if you try to overlap "
-"them, i.e. they will not be snapped if the windows comes only near another "
-"window or border."
+"Here you can set that windows will be only snapped if you try to overlap them,"
+" i.e. they will not be snapped if the windows comes only near another window "
+"or border."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, OverlapSnap)
@@ -1202,19 +1215,19 @@ msgstr "ജാലകങ്ങള്‍"
 #: windows.cpp:172
 #, kde-format
 msgid ""
-"<html><head/><body><p><span style=\" font-style:italic;\">Click to focus:</"
-"span> A window becomes active when you click into it. This behavior is "
-"common on other operating systems and likely what you want.</p></body></html>"
+"<html><head/><body><p><span style=\" font-style:italic;\">Click to "
+"focus:</span> A window becomes active when you click into it. This behavior is"
+" common on other operating systems and likely what you want.</p></body></html>"
 msgstr ""
 
 #: windows.cpp:175
 #, kde-format
 msgid ""
 "<html><head/><body><p><span style=\" font-style:italic;\">Click to focus "
-"(mouse precedence):</span> Mostly the same as <span style=\" font-style:"
-"italic;\">Click to focus</span>. If an active window has to be chosen by the "
-"system (eg. because the currently active one was closed) the window under "
-"the mouse is the preferred candidate. Unusual, but possible variant of <span "
+"(mouse precedence):</span> Mostly the same as <span style=\" font-"
+"style:italic;\">Click to focus</span>. If an active window has to be chosen by"
+" the system (eg. because the currently active one was closed) the window under"
+" the mouse is the preferred candidate. Unusual, but possible variant of <span "
 "style=\" font-style:italic;\">Click to focus</span>.</p></body></html>"
 msgstr ""
 
@@ -1232,36 +1245,37 @@ msgstr ""
 #: windows.cpp:181
 #, kde-format
 msgid ""
-"<html><head/><body><p>This is mostly the same as <span style=\" font-style:"
-"italic;\">Focus follows mouse</span>. If an active window has to be chosen "
-"by the system (eg. because the currently active one was closed) the window "
-"under the mouse is the preferred candidate. Choose this, if you want a hover "
-"controlled focus.</p></body></html>"
+"<html><head/><body><p>This is mostly the same as <span style=\" font-"
+"style:italic;\">Focus follows mouse</span>. If an active window has to be "
+"chosen by the system (eg. because the currently active one was closed) the "
+"window under the mouse is the preferred candidate. Choose this, if you want a "
+"hover controlled focus.</p></body></html>"
 msgstr ""
 
 #: windows.cpp:184
 #, kde-format
 msgid ""
-"<html><head/><body><p><span style=\" font-style:italic;\">Focus under mouse:"
-"</span> The focus always remains on the window under the mouse.<br/><span "
-"style=\" font-weight:600;\">Warning: </span><span style=\" font-style:italic;"
-"\">Focus stealing prevention</span> and the <span style=\" font-style:italic;"
-"\">tabbox ('Alt+Tab') </span>contradict the activation policy and will not "
-"work. You very likely want to use <span style=\" font-style:italic;\">Focus "
-"follows mouse (mouse precedence)</span> instead!</p></body></html>"
+"<html><head/><body><p><span style=\" font-style:italic;\">Focus under "
+"mouse:</span> The focus always remains on the window under the "
+"mouse.<br/><span style=\" font-weight:600;\">Warning: </span><span style=\" "
+"font-style:italic;\">Focus stealing prevention</span> and the <span style=\" "
+"font-style:italic;\">tabbox ('Alt+Tab') </span>contradict the activation "
+"policy and will not work. You very likely want to use <span style=\" font-"
+"style:italic;\">Focus follows mouse (mouse precedence)</span> "
+"instead!</p></body></html>"
 msgstr ""
 
 #: windows.cpp:187
 #, kde-format
 msgid ""
-"<html><head/><body><p><span style=\" font-style:italic;\">Focus strictly "
-"under mouse:</span> The focus is always on the window under the mouse (in "
-"doubt nowhere) very much like the focus behavior in an unmanaged legacy X11 "
+"<html><head/><body><p><span style=\" font-style:italic;\">Focus strictly under"
+" mouse:</span> The focus is always on the window under the mouse (in doubt "
+"nowhere) very much like the focus behavior in an unmanaged legacy X11 "
 "environment.<br/><span style=\" font-weight:600;\">Warning: </span><span "
 "style=\" font-style:italic;\">Focus stealing prevention</span> and the <span "
 "style=\" font-style:italic;\">tabbox ('Alt+Tab') </span>contradict the "
-"activation policy and will not work. You very likely want to use <span style="
-"\" font-style:italic;\">Focus follows mouse (mouse precedence)</span> "
+"activation policy and will not work. You very likely want to use <span "
+"style=\" font-style:italic;\">Focus follows mouse (mouse precedence)</span> "
 "instead!</p></body></html>"
 msgstr ""
 
@@ -1324,18 +1338,18 @@ msgstr ""
 #~ msgstr "മൌസ് ചക്രം സംഭവങ്ങളെ കൈകാര്യം ചെയ്യുക"
 
 #~ msgid ""
-#~ "In this column you can customize mouse clicks into the titlebar or the "
-#~ "frame of an active window."
+#~ "In this column you can customize mouse clicks into the titlebar or the frame "
+#~ "of an active window."
 #~ msgstr ""
-#~ "ഒരു സജീവ ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മൌസ് ക്ലിക്ക് ചെയ്യുന്നതിനെ ഈ വരിയില്‍ "
-#~ "നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+#~ "ഒരു സജീവ ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മൌസ് ക്ലിക്ക് ചെയ്യുന്നതിനെ ഈ "
+#~ "വരിയില്‍ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #~ msgid ""
-#~ "In this column you can customize mouse clicks into the titlebar or the "
-#~ "frame of an inactive window."
+#~ "In this column you can customize mouse clicks into the titlebar or the frame "
+#~ "of an inactive window."
 #~ msgstr ""
-#~ "ഒരു നിര്‍ജ്ജീവ ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മൌസ് ക്ലിക്ക് ചെയ്യുന്നതിനെ ഈ വരിയില്‍ "
-#~ "നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+#~ "ഒരു നിര്‍ജ്ജീവ ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ മൌസ് ക്ലിക്ക് "
+#~ "ചെയ്യുന്നതിനെ ഈ വരിയില്‍ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #~ msgid "Left button:"
 #~ msgstr "ഇടത്തുള്ള ബട്ടണ്‍: "
@@ -1384,45 +1398,45 @@ msgstr ""
 #~ msgstr "ചെറുതാക്കുക"
 
 #~ msgid ""
-#~ "Here you can customize mouse click behavior when clicking on the titlebar "
-#~ "or the frame of a window."
+#~ "Here you can customize mouse click behavior when clicking on the titlebar or "
+#~ "the frame of a window."
 #~ msgstr ""
-#~ "ഒരു ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മൌസ് ക്ലിക്ക് സ്വഭാവം "
-#~ "ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+#~ "ഒരു ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മൌസ് "
+#~ "ക്ലിക്ക് സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #~ msgid ""
 #~ "Behavior on <em>right</em> click into the titlebar or frame of an "
 #~ "<em>inactive</em> window."
 #~ msgstr ""
-#~ "ഒരു <em>നിര്‍ജ്ജീവ</em> ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ <em>വലത്</em> ക്ലിക്ക് "
-#~ "ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
+#~ "ഒരു <em>നിര്‍ജ്ജീവ</em> ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ <em>വലത്</em> "
+#~ "ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
 
 #~ msgid ""
 #~ "Behavior on <em>middle</em> click into the titlebar or frame of an "
 #~ "<em>inactive</em> window."
 #~ msgstr ""
-#~ "ഒരു <em>നിര്‍ജ്ജീവ</em> ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ <em>മധ്യ</em> ക്ലിക്ക് "
-#~ "ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
+#~ "ഒരു <em>നിര്‍ജ്ജീവ</em> ജാലകത്തിന്റെ തലപ്പട്ടയിലോ ഫ്രെയിമിലോ <em>മധ്യ</em> "
+#~ "ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം."
+
+#~ msgid "Here you can customize behavior when clicking on the maximize button."
+#~ msgstr ""
+#~ "വലുതാക്കുവാനുള്ള ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം ഇവിടെ "
+#~ "നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #~ msgid ""
-#~ "Here you can customize behavior when clicking on the maximize button."
+#~ "Here you can customize mouse click behavior when clicking on an inactive inner"
+#~ " window ('inner' means: not titlebar, not frame)."
 #~ msgstr ""
-#~ "വലുതാക്കുവാനുള്ള ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് "
-#~ "ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+#~ "ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മൌസ് ക്ലിക്ക് "
+#~ "സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: "
+#~ "തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
 
 #~ msgid ""
-#~ "Here you can customize mouse click behavior when clicking on an inactive "
-#~ "inner window ('inner' means: not titlebar, not frame)."
+#~ "Here you can customize KDE's behavior when clicking somewhere into a window "
+#~ "while pressing a modifier key."
 #~ msgstr ""
-#~ "ഒരു നിര്‍ജ്ജീവ ഉള്‍ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മൌസ് ക്ലിക്ക് സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് "
-#~ "ഇഷ്ടമുള്ളരീതിയിലാക്കാം ('ഉള്ളില്‍' എന്നാല്‍: തലപ്പട്ടയിലോ ഫ്രെയിമിലോ അല്ല)."
-
-#~ msgid ""
-#~ "Here you can customize KDE's behavior when clicking somewhere into a "
-#~ "window while pressing a modifier key."
-#~ msgstr ""
-#~ "മോഡിഫയര്‍ കീ അമര്‍ത്തിക്കൊണ്ട് ഒരു ജാലകത്തില്‍ എവിടെയെങ്കിലും ക്ലിക്ക് ചെയ്താലുണ്ടാവുന്ന "
-#~ "കെഡിഇയുടെ സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+#~ "മോഡിഫയര്‍ കീ അമര്‍ത്തിക്കൊണ്ട് ഒരു ജാലകത്തില്‍ എവിടെയെങ്കിലും ക്ലിക്ക് "
+#~ "ചെയ്താലുണ്ടാവുന്ന കെഡിഇയുടെ സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #, fuzzy
 #~ msgctxt "no border snap zone"
@@ -1449,24 +1463,24 @@ msgstr ""
 
 #~ msgid ""
 #~ "Enable this option if you want a window's content to be fully shown while "
-#~ "moving it, instead of just showing a window 'skeleton'. The result may "
-#~ "not be satisfying on slow machines without graphic acceleration."
+#~ "moving it, instead of just showing a window 'skeleton'. The result may not be "
+#~ "satisfying on slow machines without graphic acceleration."
 #~ msgstr ""
-#~ "നീക്കിക്കൊണ്ടിരിക്കുമ്പോള്‍ ഒരു ജാലകത്തിന്റെ ചട്ടക്കൂടിനുപകരം അതിലുള്ള സാധനങ്ങള്‍ മുഴുവനായി "
-#~ "കാണിയ്ക്കാന്‍ ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുക. വേഗം കുറഞ്ഞ മെഷീനുകളില്‍ ഗ്രാഫിക് ത്വരണമില്ലാതെ "
-#~ "ഇതു ഫലവത്തായില്ലെന്നുവരാം."
+#~ "നീക്കിക്കൊണ്ടിരിക്കുമ്പോള്‍ ഒരു ജാലകത്തിന്റെ ചട്ടക്കൂടിനുപകരം അതിലുള്ള "
+#~ "സാധനങ്ങള്‍ മുഴുവനായി കാണിയ്ക്കാന്‍ ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുക. വേഗം കുറഞ്ഞ"
+#~ " മെഷീനുകളില്‍ ഗ്രാഫിക് ത്വരണമില്ലാതെ ഇതു ഫലവത്തായില്ലെന്നുവരാം."
 
 #~ msgid "Display content in &resizing windows"
 #~ msgstr "&വലിപ്പം മാറ്റിക്കൊണ്ടിരിക്കുന്ന ജാലകങ്ങളിലുള്ളവ കാണിയ്ക്കുക"
 
 #~ msgid ""
-#~ "Enable this option if you want a window's content to be shown while "
-#~ "resizing it, instead of just showing a window 'skeleton'. The result may "
-#~ "not be satisfying on slow machines."
+#~ "Enable this option if you want a window's content to be shown while resizing "
+#~ "it, instead of just showing a window 'skeleton'. The result may not be "
+#~ "satisfying on slow machines."
 #~ msgstr ""
-#~ "വലിപ്പം മാറ്റിക്കൊണ്ടിരിക്കുമ്പോള്‍ ഒരു ജാലകത്തിന്റെ ചട്ടക്കൂടിനുപകരം അതിലുള്ള സാധനങ്ങള്‍ "
-#~ "കാണിയ്ക്കാന്‍ ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുക. വേഗം കുറഞ്ഞ മെഷീനുകളില്‍ ഇതു "
-#~ "ഫലവത്തായില്ലെന്നുവരാം."
+#~ "വലിപ്പം മാറ്റിക്കൊണ്ടിരിക്കുമ്പോള്‍ ഒരു ജാലകത്തിന്റെ ചട്ടക്കൂടിനുപകരം അതിലുള്ള"
+#~ " സാധനങ്ങള്‍ കാണിയ്ക്കാന്‍ ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുക. വേഗം കുറഞ്ഞ "
+#~ "മെഷീനുകളില്‍ ഇതു ഫലവത്തായില്ലെന്നുവരാം."
 
 #~ msgid "Allow moving and resizing o&f maximized windows"
 #~ msgstr "വലുതാക്കിയ ജാലകങ്ങളെ നീക്കാനും വലിപ്പം മാറ്റാനും അനുവദിക്കുക"
@@ -1485,18 +1499,18 @@ msgstr ""
 #~ msgstr "എ&പ്പോഴും സുസജ്ജം"
 
 #~ msgid ""
-#~ "Here you can customize KDE's behavior when middle clicking into a window "
-#~ "while pressing the modifier key."
+#~ "Here you can customize KDE's behavior when middle clicking into a window while"
+#~ " pressing the modifier key."
 #~ msgstr ""
-#~ "മോഡിഫയര്‍ കീ അമര്‍ത്തിക്കൊണ്ട് ഒരു ജാലകത്തില്‍ മദ്ധ്യ ക്ലിക്ക് ചെയ്താലുണ്ടാവുന്ന കെഡിഇയുടെ "
-#~ "സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+#~ "മോഡിഫയര്‍ കീ അമര്‍ത്തിക്കൊണ്ട് ഒരു ജാലകത്തില്‍ മദ്ധ്യ ക്ലിക്ക് "
+#~ "ചെയ്താലുണ്ടാവുന്ന കെഡിഇയുടെ സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #~ msgid ""
 #~ "Here you can customize mouse click behavior when double clicking on the "
 #~ "titlebar of a window."
 #~ msgstr ""
-#~ "ഒരു ജാലകത്തിന്റെ തലപ്പട്ടയില്‍ ഇരട്ടക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മൌസ് ക്ലിക്ക് സ്വഭാവം ഇവിടെ "
-#~ "നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
+#~ "ഒരു ജാലകത്തിന്റെ തലപ്പട്ടയില്‍ ഇരട്ടക്ലിക്ക് ചെയ്യുമ്പോളുണ്ടാവുന്ന മൌസ് "
+#~ "ക്ലിക്ക് സ്വഭാവം ഇവിടെ നിങ്ങള്‍ക്ക് ഇഷ്ടമുള്ളരീതിയിലാക്കാം."
 
 #~ msgid "Modifier key + left button:"
 #~ msgstr "മോഡിഫയര്‍ കീ + ഇടത്തുള്ള ബട്ടണ്‍:"

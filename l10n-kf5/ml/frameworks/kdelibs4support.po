@@ -13,15 +13,15 @@ msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-03 02:53+0100\n"
-"PO-Revision-Date: 2010-04-26 21:32+0530\n"
-"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 20:57+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Weblate 3.9.1\n"
 "X-Poedit-Country: INDIA\n"
 
 #, kde-format
@@ -32,7 +32,7 @@ msgstr "അനി പീറ്റര്‍"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "apeter@redhat.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #, kde-format
 msgctxt "color"
@@ -2403,7 +2403,8 @@ msgstr "KDebugDialog"
 #: kdebugdialog/main.cpp:101
 #, kde-format
 msgid "A dialog box for setting preferences for debug output"
-msgstr "ഡീബഗ് ചെയ്ത ഔട്ട്പുട്ടിനുള്ള വിശേഷതകള്‍ സജ്ജീകരിക്കുന്നതിനുള്ള ഡയലോഗ് ബോക്സ്"
+msgstr ""
+"ഡീബഗ് ചെയ്ത ഔട്ട്പുട്ടിനുള്ള വിശേഷതകള്‍ സജ്ജീകരിക്കുന്നതിനുള്ള ഡയലോഗ് ബോക്സ്"
 
 #: kdebugdialog/main.cpp:102
 #, fuzzy, kde-format
@@ -2423,7 +2424,8 @@ msgstr "പരിപാലകന്‍"
 #: kdebugdialog/main.cpp:108
 #, kde-format
 msgid "Show the fully-fledged dialog instead of the default list dialog"
-msgstr "സഹജമായ ലിസ്റ്റ് ഡയലോഗിനു് പകരം പൂര്‍ണ്ണരൂപത്തിലുള്ള ഒരു ഡയലോഗ് കാണിക്കുക"
+msgstr ""
+"സഹജമായ ലിസ്റ്റ് ഡയലോഗിനു് പകരം പൂര്‍ണ്ണരൂപത്തിലുള്ള ഒരു ഡയലോഗ് കാണിക്കുക"
 
 #: kdebugdialog/main.cpp:109
 #, kde-format
@@ -2716,15 +2718,16 @@ msgstr "വ്യക്തമാക്കിയിട്ടില്ല"
 #, kde-format
 msgctxt "replace this with information about your translation team"
 msgid ""
-"<p>KDE is translated into many languages thanks to the work of the "
-"translation teams all over the world.</p><p>For more information on KDE "
-"internationalization visit <a href=\"http://l10n.kde.org\">http://l10n.kde."
-"org</a></p>"
+"<p>KDE is translated into many languages thanks to the work of the translation"
+" teams all over the world.</p><p>For more information on KDE "
+"internationalization visit <a "
+"href=\"http://l10n.kde.org\">http://l10n.kde.org</a></p>"
 msgstr ""
-"<p>കെഡിഇ മലയാളം നിങ്ങള്‍ക്കായി അവതരിപ്പിക്കുന്നതു് സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ്പ്രവര്‍ത്തകരാണു്.</"
-"p><p>സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് കൂട്ടായ്മയെപ്പറ്റി കൂടുതലറിയാനും മലയാളം കമ്പ്യൂട്ടിങ്ങ് "
-"പ്രവര്‍ത്തനങ്ങളില്‍ പങ്കുചേരാനും <a href=\"http://smc.org.in\">http://smc.org.in </a> "
-"എന്ന വെബ്സൈറ്റ് സന്ദര്‍ശിയ്ക്കുക</p>"
+"<p>കെഡിഇ മലയാളം നിങ്ങള്‍ക്കായി അവതരിപ്പിക്കുന്നതു് സ്വതന്ത്ര മലയാളം "
+"കമ്പ്യൂട്ടിങ്ങ്പ്രവര്‍ത്തകരാണു്.</p><p>സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ്ങ് "
+"കൂട്ടായ്മയെപ്പറ്റി കൂടുതലറിയാനും മലയാളം കമ്പ്യൂട്ടിങ്ങ് പ്രവര്‍ത്തനങ്ങളില്‍ "
+"പങ്കുചേരാനും <a href=\"http://smc.org.in\">http://smc.org.in </a> എന്ന "
+"വെബ്സൈറ്റ് സന്ദര്‍ശിയ്ക്കുക</p>"
 
 #: kdecore/kcalendarsystem.cpp:108
 #, kde-format
@@ -6444,16 +6447,16 @@ msgstr ""
 #: kdecore/kcalendarsystemjapanese.cpp:71
 #, kde-format
 msgctxt ""
-"(kdedt-format) Japanese, Taishō, full era year format used for %EY, year = "
-"1, e.g. Taishō 1"
+"(kdedt-format) Japanese, Taishō, full era year format used for %EY, year = 1, "
+"e.g. Taishō 1"
 msgid "%EC Gannen"
 msgstr ""
 
 #: kdecore/kcalendarsystemjapanese.cpp:73
 #, kde-format
 msgctxt ""
-"(kdedt-format) Japanese, Taishō, full era year format used for %EY, year > "
-"1, e.g. Taishō 22"
+"(kdedt-format) Japanese, Taishō, full era year format used for %EY, year > 1, "
+"e.g. Taishō 22"
 msgid "%EC %Ey"
 msgstr ""
 
@@ -6488,16 +6491,16 @@ msgstr ""
 #: kdecore/kcalendarsystemjapanese.cpp:85
 #, kde-format
 msgctxt ""
-"(kdedt-format) Japanese, Heisei, full era year format used for %EY, year = "
-"1, e.g. Heisei 1"
+"(kdedt-format) Japanese, Heisei, full era year format used for %EY, year = 1, "
+"e.g. Heisei 1"
 msgid "%EC Gannen"
 msgstr ""
 
 #: kdecore/kcalendarsystemjapanese.cpp:87
 #, kde-format
 msgctxt ""
-"(kdedt-format) Japanese, Heisei, full era year format used for %EY, year > "
-"1, e.g. Heisei 22"
+"(kdedt-format) Japanese, Heisei, full era year format used for %EY, year > 1, "
+"e.g. Heisei 22"
 msgid "%EC %Ey"
 msgstr ""
 
@@ -7221,11 +7224,11 @@ msgstr "പ്രയോഗ വിഡ്ജറ്റുകളില്‍ ക്�
 #: kdecore/kcmdlineargs.cpp:306
 #, kde-format
 msgid ""
-"use a different graphics system instead of the default one, options are "
-"raster and opengl (experimental)"
+"use a different graphics system instead of the default one, options are raster"
+" and opengl (experimental)"
 msgstr ""
-"സഹജമായതിനു് പകരം വ്യത്യസ്തമായൊരു ഗ്രാഫിക്സ് സിസ്റ്റം ഉപയോഗിയ്ക്കുക, raster, opengl "
-"എന്നിവയാണു് ഐച്ഛികങ്ങള്‍ (പരീക്ഷണാടിസ്ഥാനത്തില്‍)"
+"സഹജമായതിനു് പകരം വ്യത്യസ്തമായൊരു ഗ്രാഫിക്സ് സിസ്റ്റം ഉപയോഗിയ്ക്കുക, raster, "
+"opengl എന്നിവയാണു് ഐച്ഛികങ്ങള്‍ (പരീക്ഷണാടിസ്ഥാനത്തില്‍)"
 
 #: kdecore/kcmdlineargs.cpp:307
 #, kde-format
@@ -7430,7 +7433,9 @@ msgstr ""
 #: kdecore/kcmdlineargs.cpp:1580
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
-msgstr "ഈ പ്രയോഗം തുറന്ന ഫയലുകള്‍/യുആര്‍എല്ലുകള്‍ ഉപയോഗത്തിനു് ശേഷം മാച്ചുകളയുന്നതായിരിയ്ക്കും"
+msgstr ""
+"ഈ പ്രയോഗം തുറന്ന ഫയലുകള്‍/യുആര്‍എല്ലുകള്‍ ഉപയോഗത്തിനു് ശേഷം "
+"മാച്ചുകളയുന്നതായിരിയ്ക്കും"
 
 #: kdecore/kcmdlineargs.cpp:1581
 #, kde-format
@@ -7790,8 +7795,8 @@ msgstr[1] ""
 #, kde-format
 msgctxt ""
 "@item:intext days and hours. This uses the previous item:intext messages. If "
-"this does not fit the grammar of your language please contact the i18n team "
-"to solve the problem"
+"this does not fit the grammar of your language please contact the i18n team to"
+" solve the problem"
 msgid "%1 and %2"
 msgstr "%1 ഉം %2 ഉം"
 
@@ -7799,17 +7804,17 @@ msgstr "%1 ഉം %2 ഉം"
 #, kde-format
 msgctxt ""
 "@item:intext hours and minutes. This uses the previous item:intext messages. "
-"If this does not fit the grammar of your language please contact the i18n "
-"team to solve the problem"
+"If this does not fit the grammar of your language please contact the i18n team"
+" to solve the problem"
 msgid "%1 and %2"
 msgstr "%1 ഉം %2 ഉം"
 
 #: kdecore/klocale_kde.cpp:1534
 #, kde-format
 msgctxt ""
-"@item:intext minutes and seconds. This uses the previous item:intext "
-"messages. If this does not fit the grammar of your language please contact "
-"the i18n team to solve the problem"
+"@item:intext minutes and seconds. This uses the previous item:intext messages."
+" If this does not fit the grammar of your language please contact the i18n "
+"team to solve the problem"
 msgid "%1 and %2"
 msgstr "%1 ഉം %2 ഉം"
 
@@ -8309,14 +8314,15 @@ msgstr "അമേരിക്ക/അര്‍ജന്റീന/കോര്‍�
 #, kde-format
 msgid "most locations (CB, CC, CN, ER, FM, LP, MN, NQ, RN, SA, SE, SF)"
 msgstr ""
-"മിക്ക സ്ഥലങ്ങളും (സിബി, സിസി, സിഎന്‍, ഇആര്‍, എഫ്എം, എല്‍പി, എംഎന്‍, എന്‍ക്യു, ആര്‍എന്‍, എസ്എ, എസ്ഇ, "
-"എസ്എഫ്)"
+"മിക്ക സ്ഥലങ്ങളും (സിബി, സിസി, സിഎന്‍, ഇആര്‍, എഫ്എം, എല്‍പി, എംഎന്‍, എന്‍ക്യു, "
+"ആര്‍എന്‍, എസ്എ, എസ്ഇ, എസ്എഫ്)"
 
 #. i18n: comment to the previous timezone
 #: kdecore/TIMEZONES:86
 #, kde-format
 msgid "most locations (CB, CC, CN, ER, FM, MN, SE, SF)"
-msgstr "മിക്ക സ്ഥലങ്ങളും (സിബി, സിസി, സിഎന്‍, ഇആര്‍, എഫ്എം, എംഎന്‍, എസ്ഇ, എസ്എഫ്)"
+msgstr ""
+"മിക്ക സ്ഥലങ്ങളും (സിബി, സിസി, സിഎന്‍, ഇആര്‍, എഫ്എം, എംഎന്‍, എസ്ഇ, എസ്എഫ്)"
 
 #: kdecore/TIMEZONES:87
 #, kde-format
@@ -8436,7 +8442,9 @@ msgstr "അമേരിക്ക/അറ്റികോകന്‍"
 #: kdecore/TIMEZONES:118 kdecore/TIMEZONES:174
 #, kde-format
 msgid "Eastern Standard Time - Atikokan, Ontario and Southampton I, Nunavut"
-msgstr "കിഴക്കന്‍ സ്റ്റാന്‍ഡേര്‍ഡ് സമയം - അറ്റിക്കോക്കന്‍, ഒണ്ടാറിയോ, സൌത്താംപ്ടന്‍ ഐ, നുനാവത്"
+msgstr ""
+"കിഴക്കന്‍ സ്റ്റാന്‍ഡേര്‍ഡ് സമയം - അറ്റിക്കോക്കന്‍, ഒണ്ടാറിയോ, സൌത്താംപ്ടന്‍ ഐ,"
+" നുനാവത്"
 
 #: kdecore/TIMEZONES:119
 #, kde-format
@@ -8538,7 +8546,9 @@ msgstr "അമേരിക്ക/കാല്‍ഗറി"
 #: kdecore/TIMEZONES:148 kdecore/TIMEZONES:204 kdecore/TIMEZONES:824
 #, kde-format
 msgid "Mountain Time - Alberta, east British Columbia & west Saskatchewan"
-msgstr "മൌണ്ടന്‍ സമയം - ആല്‍ബേര്‍ട്ടാ, കിഴക്കേ ബ്രിട്ടിഷ് കൊളംബിയയും പടിഞ്ഞാറന്‍ സാസ്കച്ചേവനും"
+msgstr ""
+"മൌണ്ടന്‍ സമയം - ആല്‍ബേര്‍ട്ടാ, കിഴക്കേ ബ്രിട്ടിഷ് കൊളംബിയയും പടിഞ്ഞാറന്‍ "
+"സാസ്കച്ചേവനും"
 
 #: kdecore/TIMEZONES:149
 #, kde-format
@@ -8645,7 +8655,9 @@ msgstr "ആഫ്രിക്ക/ഫ്രെഡറിക്ടണ്‍"
 #: kdecore/TIMEZONES:181
 #, fuzzy, kde-format
 msgid "Mountain Standard Time - Creston, British Columbia"
-msgstr "മൌണ്ടന്‍ സ്റ്റാന്‍ഡേര്‍ഡ് സമയം - ഡോസണ്‍ ക്രീക്കും ഫോര്‍ട്ട് സെയിന്റ് ജോണും, ബ്രിട്ടിഷ് കൊളംബിയ"
+msgstr ""
+"മൌണ്ടന്‍ സ്റ്റാന്‍ഡേര്‍ഡ് സമയം - ഡോസണ്‍ ക്രീക്കും ഫോര്‍ട്ട് സെയിന്റ് ജോണും, "
+"ബ്രിട്ടിഷ് കൊളംബിയ"
 
 #: kdecore/TIMEZONES:182
 #, kde-format
@@ -8695,7 +8707,9 @@ msgstr "അമേരിക്ക/ഡോസണ്‍_ക്രീക്ക്"
 #, kde-format
 msgid ""
 "Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia"
-msgstr "മൌണ്ടന്‍ സ്റ്റാന്‍ഡേര്‍ഡ് സമയം - ഡോസണ്‍ ക്രീക്കും ഫോര്‍ട്ട് സെയിന്റ് ജോണും, ബ്രിട്ടിഷ് കൊളംബിയ"
+msgstr ""
+"മൌണ്ടന്‍ സ്റ്റാന്‍ഡേര്‍ഡ് സമയം - ഡോസണ്‍ ക്രീക്കും ഫോര്‍ട്ട് സെയിന്റ് ജോണും, "
+"ബ്രിട്ടിഷ് കൊളംബിയ"
 
 #: kdecore/TIMEZONES:195
 #, kde-format
@@ -8800,7 +8814,9 @@ msgstr "അമേരിക്ക/ഗ്ലെയിസ്_ബേ"
 #: kdecore/TIMEZONES:223
 #, kde-format
 msgid "Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971"
-msgstr "അറ്റ്ലാന്റിക് സമയം - നോവാ സ്കോട്ടിയാ - ഡിഎസ്‌ടി 1966-1971 പാലിയ്ക്കാത്ത സ്ഥലങ്ങള്‍"
+msgstr ""
+"അറ്റ്ലാന്റിക് സമയം - നോവാ സ്കോട്ടിയാ - ഡിഎസ്‌ടി 1966-1971 പാലിയ്ക്കാത്ത "
+"സ്ഥലങ്ങള്‍"
 
 #: kdecore/TIMEZONES:224
 #, kde-format
@@ -8966,7 +8982,9 @@ msgstr "അമേരിക്ക/ഇന്ത്യാന/വിന്‍സെ�
 #: kdecore/TIMEZONES:269
 #, kde-format
 msgid "Eastern Time - Indiana - Daviess, Dubois, Knox & Martin Counties"
-msgstr "കിഴക്കന്‍ സമയം - ഇന്‍ഡ്യാന - ഡേവിയസ്, ഡുബോയിസ്, നോക്സ്, മാര്‍ട്ടിന്‍ കൌണ്ടികള്‍"
+msgstr ""
+"കിഴക്കന്‍ സമയം - ഇന്‍ഡ്യാന - ഡേവിയസ്, ഡുബോയിസ്, നോക്സ്, മാര്‍ട്ടിന്‍ "
+"കൌണ്ടികള്‍"
 
 #: kdecore/TIMEZONES:270
 #, kde-format
@@ -9158,7 +9176,8 @@ msgstr "അമേരിക്ക/മെനോമിനീ"
 #: kdecore/TIMEZONES:328
 #, kde-format
 msgid "Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties"
-msgstr "മദ്ധ്യ സമയം - മിഷിഗന്‍ - ഡിക്കിന്‍സണ്‍, ജോജെബിക്ക്, അയണ്‍, മെനോമിനീ കൌണ്ടികള്‍"
+msgstr ""
+"മദ്ധ്യ സമയം - മിഷിഗന്‍ - ഡിക്കിന്‍സണ്‍, ജോജെബിക്ക്, അയണ്‍, മെനോമിനീ കൌണ്ടികള്‍"
 
 #: kdecore/TIMEZONES:329
 #, kde-format
@@ -9224,8 +9243,8 @@ msgstr "മദ്ധ്യ സമയം - കോവാഹ്യൂലാ, ഡു
 #: kdecore/TIMEZONES:346
 #, fuzzy, kde-format
 msgid ""
-"Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from "
-"US border"
+"Mexican Central Time - Coahuila, Durango, Nuevo Leon, Tamaulipas away from US "
+"border"
 msgstr "മദ്ധ്യ സമയം - കോവാഹ്യൂലാ, ഡുറാങ്കോ, ന്യൂവോ ലിയോണ്‍, ടമൌലിപാസ്"
 
 #: kdecore/TIMEZONES:347
@@ -9276,7 +9295,8 @@ msgstr "അമേരിക്ക/നിപിഗോണ്‍"
 msgid ""
 "Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973"
 msgstr ""
-"കിഴക്കന്‍ സമയം - ഒണ്ടാരിയോ & ക്യൂബെക് - ഡിഎസ്‌ടി 1967-1973 പാലിച്ചിട്ടില്ലാത്ത സ്ഥലങ്ങള്‍"
+"കിഴക്കന്‍ സമയം - ഒണ്ടാരിയോ & ക്യൂബെക് - ഡിഎസ്‌ടി 1967-1973 പാലിച്ചിട്ടില്ലാത്ത"
+" സ്ഥലങ്ങള്‍"
 
 #: kdecore/TIMEZONES:359
 #, kde-format
@@ -9331,7 +9351,9 @@ msgstr "അമേരിക്ക/വടക്കന്‍_ഡക്കോട്�
 #: kdecore/TIMEZONES:373
 #, kde-format
 msgid "Central Time - North Dakota - Morton County (except Mandan area)"
-msgstr "മദ്ധ്യ സമയം - വടക്കേ ഡക്കോട്ട - മോര്‍ട്ടണ്‍ കൌണ്ടി (മാന്‍ഡന്‍ പ്രദേശം ഒഴിച്ചുള്ളവ)"
+msgstr ""
+"മദ്ധ്യ സമയം - വടക്കേ ഡക്കോട്ട - മോര്‍ട്ടണ്‍ കൌണ്ടി (മാന്‍ഡന്‍ പ്രദേശം "
+"ഒഴിച്ചുള്ളവ)"
 
 #: kdecore/TIMEZONES:374
 #, fuzzy, kde-format
@@ -9531,7 +9553,9 @@ msgstr "അമേരിക്ക/സാവോ_പോളോ"
 #: kdecore/TIMEZONES:432 kdecore/TIMEZONES:806
 #, kde-format
 msgid "S & SE Brazil (GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
-msgstr "S & SE ബ്രസീല്‍ (ജിഒ, ഡിഎഫ്, എംജി, ഇഎസ്, ആര്‍ജെ, എസ്‌പി, പിആര്‍, എസ്‌സി, ആര്‍എസ്)"
+msgstr ""
+"S & SE ബ്രസീല്‍ (ജിഒ, ഡിഎഫ്, എംജി, ഇഎസ്, ആര്‍ജെ, എസ്‌പി, പിആര്‍, എസ്‌സി, "
+"ആര്‍എസ്)"
 
 #: kdecore/TIMEZONES:433
 #, kde-format
@@ -10284,14 +10308,17 @@ msgstr "ഏഷ്യ/മാകാസ്സാര്‍"
 #: kdecore/TIMEZONES:633 kdecore/TIMEZONES:688
 #, fuzzy, kde-format
 msgid "east & south Borneo, Celebes, Bali, Nusa Tenggara, west Timor"
-msgstr "കിഴക്കും തെക്കും ബോര്‍ണിയോ, സെലബെസ്, ബാലി, ന്യൂസാ ടെങ്കേരാ, പടിഞ്ഞാറന്‍ തിമൂര്‍"
+msgstr ""
+"കിഴക്കും തെക്കും ബോര്‍ണിയോ, സെലബെസ്, ബാലി, ന്യൂസാ ടെങ്കേരാ, പടിഞ്ഞാറന്‍ "
+"തിമൂര്‍"
 
 #. i18n: comment to the previous timezone
 #: kdecore/TIMEZONES:635
 #, fuzzy, kde-format
-msgid ""
-"east & south Borneo, Sulawesi (Celebes), Bali, Nusa Tenggara, west Timor"
-msgstr "കിഴക്കും തെക്കും ബോര്‍ണിയോ, സെലബെസ്, ബാലി, ന്യൂസാ ടെങ്കേരാ, പടിഞ്ഞാറന്‍ തിമൂര്‍"
+msgid "east & south Borneo, Sulawesi (Celebes), Bali, Nusa Tenggara, west Timor"
+msgstr ""
+"കിഴക്കും തെക്കും ബോര്‍ണിയോ, സെലബെസ്, ബാലി, ന്യൂസാ ടെങ്കേരാ, പടിഞ്ഞാറന്‍ "
+"തിമൂര്‍"
 
 #: kdecore/TIMEZONES:636
 #, kde-format
@@ -11910,12 +11937,10 @@ msgctxt ""
 "%1 is the number of paths, %2 is the list of paths (with newlines between "
 "them)"
 msgid ""
-"Unable to read X11 RGB color strings. The following file location was "
-"examined:\n"
+"Unable to read X11 RGB color strings. The following file location was examined:\n"
 "%2"
 msgid_plural ""
-"Unable to read X11 RGB color strings. The following file locations were "
-"examined:\n"
+"Unable to read X11 RGB color strings. The following file locations were examined:\n"
 "%2"
 msgstr[0] ""
 msgstr[1] ""
@@ -12341,7 +12366,7 @@ msgstr ""
 #: kio/kfilemetadatareaderprocess.cpp:239
 #, kde-format
 msgid "Current maintainer"
-msgstr ""
+msgstr "ഇപ്പോഴത്തെ പരിപാലകൻ"
 
 #: kio/kfilemetadatareaderprocess.cpp:244
 #, kde-format
@@ -12432,8 +12457,8 @@ msgstr ""
 #: kio/knfotranslator.cpp:46
 #, kde-format
 msgctxt ""
-"@label see http://www.semanticdesktop.org/ontologies/2007/01/19/"
-"nie#hasLogicalPart"
+"@label see "
+"http://www.semanticdesktop.org/ontologies/2007/01/19/nie#hasLogicalPart"
 msgid "Has Logical Part"
 msgstr ""
 
@@ -13046,31 +13071,31 @@ msgstr ""
 #: kssl/ksslcertificate.cpp:1069
 #, kde-format
 msgid ""
-"Retrieval of the CRL (Certificate Revocation List) failed. This means the "
-"CA's (Certificate Authority) CRL can not be found."
+"Retrieval of the CRL (Certificate Revocation List) failed. This means the CA's"
+" (Certificate Authority) CRL can not be found."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1071
 #, kde-format
 msgid ""
-"The decryption of the certificate's signature failed. This means it could "
-"not even be calculated as opposed to just not matching the expected result."
+"The decryption of the certificate's signature failed. This means it could not "
+"even be calculated as opposed to just not matching the expected result."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1073
 #, kde-format
 msgid ""
 "The decryption of the CRL's (Certificate Revocation List) signature failed. "
-"This means it could not even be calculated as opposed to just not matching "
-"the expected result."
+"This means it could not even be calculated as opposed to just not matching the"
+" expected result."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1075
 #, kde-format
 msgid ""
-"The decoding of the public key of the issuer failed. This means that the "
-"CA's (Certificate Authority) certificate can not be used to verify the "
-"certificate you wanted to use."
+"The decoding of the public key of the issuer failed. This means that the CA's "
+"(Certificate Authority) certificate can not be used to verify the certificate "
+"you wanted to use."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1077
@@ -13083,8 +13108,8 @@ msgstr ""
 #: kssl/ksslcertificate.cpp:1079
 #, kde-format
 msgid ""
-"The CRL's (Certificate Revocation List) signature is invalid. This means "
-"that the CRL can not be verified."
+"The CRL's (Certificate Revocation List) signature is invalid. This means that "
+"the CRL can not be verified."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1081
@@ -13115,15 +13140,15 @@ msgstr ""
 #: kssl/ksslcertificate.cpp:1093
 #, kde-format
 msgid ""
-"The time format of the CRL's (Certificate Revocation List) 'lastUpdate' "
-"field is invalid."
+"The time format of the CRL's (Certificate Revocation List) 'lastUpdate' field "
+"is invalid."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1095
 #, kde-format
 msgid ""
-"The time format of the CRL's (Certificate Revocation List) 'nextUpdate' "
-"field is invalid."
+"The time format of the CRL's (Certificate Revocation List) 'nextUpdate' field "
+"is invalid."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1097
@@ -13134,8 +13159,8 @@ msgstr ""
 #: kssl/ksslcertificate.cpp:1099
 #, kde-format
 msgid ""
-"The certificate is self-signed and not in the list of trusted certificates. "
-"If you want to accept this certificate, import it into the list of trusted "
+"The certificate is self-signed and not in the list of trusted certificates. If"
+" you want to accept this certificate, import it into the list of trusted "
 "certificates."
 msgstr ""
 
@@ -13156,9 +13181,9 @@ msgstr ""
 #: kssl/ksslcertificate.cpp:1106
 #, kde-format
 msgid ""
-"The certificate can not be verified as it is the only certificate in the "
-"trust chain and not self-signed. If you self-sign the certificate, make sure "
-"to import it into the list of trusted certificates."
+"The certificate can not be verified as it is the only certificate in the trust"
+" chain and not self-signed. If you self-sign the certificate, make sure to "
+"import it into the list of trusted certificates."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1108
@@ -13179,8 +13204,8 @@ msgstr ""
 #: kssl/ksslcertificate.cpp:1115
 #, kde-format
 msgid ""
-"The length of the trust chain exceeded one of the CA's (Certificate "
-"Authority) 'pathlength' parameters, making all subsequent signatures invalid."
+"The length of the trust chain exceeded one of the CA's (Certificate Authority)"
+" 'pathlength' parameters, making all subsequent signatures invalid."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1117
@@ -13207,23 +13232,23 @@ msgstr ""
 #: kssl/ksslcertificate.cpp:1125
 #, kde-format
 msgid ""
-"The certificate's CA (Certificate Authority) does not match the CA name of "
-"the certificate."
+"The certificate's CA (Certificate Authority) does not match the CA name of the"
+" certificate."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1127
 #, kde-format
 msgid ""
-"The CA (Certificate Authority) certificate's key ID does not match the key "
-"ID in the 'Issuer' section of the certificate you are trying to use."
+"The CA (Certificate Authority) certificate's key ID does not match the key ID "
+"in the 'Issuer' section of the certificate you are trying to use."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1129
 #, kde-format
 msgid ""
-"The CA (Certificate Authority) certificate's key ID and name do not match "
-"the key ID and name in the 'Issuer' section of the certificate you are "
-"trying to use."
+"The CA (Certificate Authority) certificate's key ID and name do not match the "
+"key ID and name in the 'Issuer' section of the certificate you are trying to "
+"use."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1131
@@ -13242,8 +13267,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "The signature test for this certificate failed. This could mean that the "
-"signature of this certificate or any in its trust path are invalid, could "
-"not be decoded or that the CRL (Certificate Revocation List) could not be "
+"signature of this certificate or any in its trust path are invalid, could not "
+"be decoded or that the CRL (Certificate Revocation List) could not be "
 "verified. If you see this message, please let the author of the software you "
 "are using know that he or she should use the new, more specific error "
 "messages."
@@ -13253,17 +13278,17 @@ msgstr ""
 #, kde-format
 msgid ""
 "This certificate, any in its trust path or its CA's (Certificate Authority) "
-"CRL (Certificate Revocation List) is not valid. Any of them could not be "
-"valid yet or not valid any more. If you see this message, please let the "
-"author of the software you are using know that he or she should use the new, "
-"more specific error messages."
+"CRL (Certificate Revocation List) is not valid. Any of them could not be valid"
+" yet or not valid any more. If you see this message, please let the author of "
+"the software you are using know that he or she should use the new, more "
+"specific error messages."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1145
 #, kde-format
 msgid ""
-"Certificate signing authority root files could not be found so the "
-"certificate is not verified."
+"Certificate signing authority root files could not be found so the certificate"
+" is not verified."
 msgstr ""
 
 #: kssl/ksslcertificate.cpp:1147

@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: kwordquiz trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-08-22 02:42+0200\n"
-"PO-Revision-Date: 2008-12-29 20:37-0500\n"
-"Last-Translator: Manu S Madhav | മനു എസ് മാധവ്<manusmad@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 21:38+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: INDIA\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
+"X-Poedit-Country: INDIA\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -27,7 +27,7 @@ msgstr "മനു എസ് മാധവു് (Manu S Madhav)"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "manusmad@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #. i18n: ectx: property (title), widget (QGroupBox, clearButtonGroup)
 #: cleardialogbase.ui:21
@@ -242,13 +242,15 @@ msgctxt "@info:tooltip"
 msgid "Select this character"
 msgstr "ഈ ക്യാരക്ടര്‍ തെരഞ്ഞെടുക്കുക"
 
-#. i18n: ectx: label, entry (SizeHintColumn$(Section)), group (Document $(fileurl))
+#. i18n: ectx: label, entry (SizeHintColumn$(Section)), group (Document
+#. $(fileurl))
 #: documentsettings.kcfg:12
 #, fuzzy, kde-format
 msgid "Column widths"
 msgstr "നിരയുടെ &വീതി:"
 
-#. i18n: ectx: label, entry (KeyboardLayoutColumn$(Section)), group (Document $(fileurl))
+#. i18n: ectx: label, entry (KeyboardLayoutColumn$(Section)), group (Document
+#. $(fileurl))
 #: documentsettings.kcfg:18
 #, fuzzy, kde-format
 msgid "Keyboard layouts"
@@ -273,11 +275,11 @@ msgstr "നിങ്ങളുടെ ഉത്തരം തെറ്റായി�
 #: flashviewbase.ui:149
 #, kde-format
 msgid ""
-"<html>There are too few entries in your vocabulary.<br />You need at least "
-"one entry for a flashcard quiz.</html>"
+"<html>There are too few entries in your vocabulary.<br />You need at least one"
+" entry for a flashcard quiz.</html>"
 msgstr ""
-"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />ഫ്ലാഷ്‌കാര്‍ഡ് ക്വിസിനായി ഒരു "
-"എന്‍ട്രിയെങ്കിലും വേണം.</html>"
+"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />ഫ്ലാഷ്‌കാര്‍ഡ് "
+"ക്വിസിനായി ഒരു എന്‍ട്രിയെങ്കിലും വേണം.</html>"
 
 #: kwordquiz.cpp:116
 #, kde-format
@@ -332,12 +334,14 @@ msgstr "കെവേര്‍ഡ്ക്വിസ് നിര്‍ത്ത�
 #: kwordquiz.cpp:170
 #, kde-format
 msgid "Cuts the text from the selected cells and places it on the clipboard"
-msgstr "തെരഞ്ഞെടുത്ത കളങ്ങളില്‍നിന്നു പദാവലി മുറിച്ചു് ഓര്‍മ്മച്ചെപ്പില്‍ വയ്ക്കുക"
+msgstr ""
+"തെരഞ്ഞെടുത്ത കളങ്ങളില്‍നിന്നു പദാവലി മുറിച്ചു് ഓര്‍മ്മച്ചെപ്പില്‍ വയ്ക്കുക"
 
 #: kwordquiz.cpp:175
 #, kde-format
 msgid "Copies the text from the selected cells and places it on the clipboard"
-msgstr "തെരഞ്ഞെടുത്ത കളങ്ങളില്‍നിന്നു പദാവലി പകര്‍ത്തി ഓര്‍മ്മച്ചെപ്പില്‍ വയ്ക്കുക"
+msgstr ""
+"തെരഞ്ഞെടുത്ത കളങ്ങളില്‍നിന്നു പദാവലി പകര്‍ത്തി ഓര്‍മ്മച്ചെപ്പില്‍ വയ്ക്കുക"
 
 #: kwordquiz.cpp:180
 #, kde-format
@@ -345,7 +349,8 @@ msgid ""
 "Pastes previously cut or copied text from the clipboard into the selected "
 "cells"
 msgstr ""
-"മുമ്പ് മുറിച്ചതോ പകര്‍ത്തിയതോ ആയ പദാവലി ഓര്‍മ്മച്ചെപ്പില്‍ നിന്നു തെരഞ്ഞെടുത്ത കളങ്ങളില്‍ ഒട്ടിക്കുന്നു"
+"മുമ്പ് മുറിച്ചതോ പകര്‍ത്തിയതോ ആയ പദാവലി ഓര്‍മ്മച്ചെപ്പില്‍ നിന്നു തെരഞ്ഞെടുത്ത"
+" കളങ്ങളില്‍ ഒട്ടിക്കുന്നു"
 
 #: kwordquiz.cpp:186
 #, kde-format
@@ -381,7 +386,8 @@ msgstr "ഒഴിഞ്ഞതായി &അടയാളപ്പെടുത്�
 #, kde-format
 msgid "Marks the current or selected word as a blank for Fill-in-the-blank"
 msgstr ""
-"ഇപ്പോഴത്തെയോ തെരഞ്ഞെടുത്തതോ ആയ വാക്കു് ഒഴിഞ്ഞതു്-നിറയ്ക്കുകയില്‍ ഒഴിഞ്ഞതാക്കി അടയാളപ്പെടുത്തുന്നു"
+"ഇപ്പോഴത്തെയോ തെരഞ്ഞെടുത്തതോ ആയ വാക്കു് ഒഴിഞ്ഞതു്-നിറയ്ക്കുകയില്‍ ഒഴിഞ്ഞതാക്കി "
+"അടയാളപ്പെടുത്തുന്നു"
 
 #: kwordquiz.cpp:219
 #, kde-format
@@ -652,7 +658,9 @@ msgstr "ചില സംഭവങ്ങള്‍ക്കായി ശബ്ദ�
 #: kwordquiz.cpp:443
 #, kde-format
 msgid "Specifies preferences for the vocabulary editor and quiz sessions"
-msgstr "പദസഞ്ചയ ചിട്ടപ്പെടുത്തലിനും ക്വിസ് സെഷനുകള്‍ക്കുമായുള്ള മുന്‍‌ഗണനകള്‍ വ്യക്തമാക്കുന്നു"
+msgstr ""
+"പദസഞ്ചയ ചിട്ടപ്പെടുത്തലിനും ക്വിസ് സെഷനുകള്‍ക്കുമായുള്ള മുന്‍‌ഗണനകള്‍ "
+"വ്യക്തമാക്കുന്നു"
 
 #: kwordquiz.cpp:449
 #, kde-format
@@ -1116,7 +1124,9 @@ msgstr "ഡൌണ്‍ലോഡ് ചെയ്ത പദസഞ്ചയം ആ
 msgid ""
 "The folder where downloaded vocabularies are saved by default (relative to "
 "$HOME)"
-msgstr "ഡൌണ്‍ലോഡ് ചെയ്ത പദസഞ്ചയങ്ങള്‍ സഹജമായി സൂക്ഷിക്കുന്ന അറ ($HOME-നോടു് അപേക്ഷിച്ചു്)"
+msgstr ""
+"ഡൌണ്‍ലോഡ് ചെയ്ത പദസഞ്ചയങ്ങള്‍ സഹജമായി സൂക്ഷിക്കുന്ന അറ ($HOME-നോടു് "
+"അപേക്ഷിച്ചു്)"
 
 #. i18n: ectx: label, entry (TutorTiming), group (Tutor)
 #: kwordquiz.kcfg:159
@@ -1373,7 +1383,8 @@ msgstr "ശരിയായ ഉത്തരങ്ങള്‍"
 #, kde-format
 msgid ""
 "The number of questions answered correctly. May be shown as a percentage."
-msgstr "ഇതുവരെ ശരിയായി ഉത്തരം നല്‍കിയ ചോദ്യങ്ങളുടെ എണ്ണം. ശതമാനമായി കാണിച്ചെന്നുവരാം."
+msgstr ""
+"ഇതുവരെ ശരിയായി ഉത്തരം നല്‍കിയ ചോദ്യങ്ങളുടെ എണ്ണം. ശതമാനമായി കാണിച്ചെന്നുവരാം."
 
 #. i18n: ectx: property (toolTip), widget (QLabel, picError)
 #. i18n: ectx: property (toolTip), widget (QLabel, lblScoreError)
@@ -1388,7 +1399,8 @@ msgstr "തെറ്റായ ഉത്തരങ്ങള്‍"
 #, kde-format
 msgid ""
 "The number of questions answered incorrectly. May be shown as a percentage."
-msgstr "ഇതുവരെ തെറ്റായി ഉത്തരം നല്‍കിയ ചോദ്യങ്ങളുടെ എണ്ണം. ശതമാനമായി കാണിച്ചെന്നുവരാം."
+msgstr ""
+"ഇതുവരെ തെറ്റായി ഉത്തരം നല്‍കിയ ചോദ്യങ്ങളുടെ എണ്ണം. ശതമാനമായി കാണിച്ചെന്നുവരാം."
 
 #. i18n: ectx: property (toolTip), widget (QLabel, lblScoreAnswered)
 #. i18n: ectx: property (toolTip), widget (QLabel, picAnswered)
@@ -1445,11 +1457,11 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>KWordQuiz Tutor displays flashcards on your screen in a way that allows "
-"you to set a certain time interval at which flashcards will pop up.<br /"
-"><br />The flashcards pop up in a non-intrusive way allowing you to carry on "
+"you to set a certain time interval at which flashcards will pop up.<br /><br "
+"/>The flashcards pop up in a non-intrusive way allowing you to carry on "
 "working without stealing the focus from other programs you might be working "
-"with.<br /><br />Be sure to right-click KWordQuiz Tutor icon on the panel "
-"and select Preferences. There you can assign keyboard shortcuts.</qt>"
+"with.<br /><br />Be sure to right-click KWordQuiz Tutor icon on the panel and "
+"select Preferences. There you can assign keyboard shortcuts.</qt>"
 msgstr ""
 
 #: kwqtutor.cpp:49
@@ -1579,22 +1591,19 @@ msgid "File to open"
 msgstr "തുറക്കേണ്ട ഫയല്‍"
 
 #. i18n: ectx: property (text), widget (QLabel, lblCorrectHeader)
-#: multipleview.cpp:119 multipleviewbase.ui:558 qaview.cpp:155
-#: qaviewbase.ui:518
+#: multipleview.cpp:119 multipleviewbase.ui:558 qaview.cpp:155 qaviewbase.ui:518
 #, kde-format
 msgid "Correct Answer"
 msgstr "ശരിയുത്തരം"
 
 #. i18n: ectx: property (text), widget (QLabel, lblPreviousQuestionHeader)
-#: multipleview.cpp:124 multipleviewbase.ui:353 qaview.cpp:163
-#: qaviewbase.ui:294
+#: multipleview.cpp:124 multipleviewbase.ui:353 qaview.cpp:163 qaviewbase.ui:294
 #, kde-format
 msgid "Previous Question"
 msgstr "കഴിഞ്ഞ ചോദ്യം"
 
 #. i18n: ectx: property (text), widget (QLabel, lblYourAnswerHeader)
-#: multipleview.cpp:128 multipleviewbase.ui:479 qaview.cpp:168
-#: qaviewbase.ui:395
+#: multipleview.cpp:128 multipleviewbase.ui:479 qaview.cpp:168 qaviewbase.ui:395
 #, kde-format
 msgid "Your Answer"
 msgstr "നിങ്ങളുടെ ഉത്തരം"
@@ -1758,8 +1767,8 @@ msgid ""
 "<html>There are too few entries in your vocabulary.<br />You need at least "
 "three entries for a multiple choice quiz.</html>"
 msgstr ""
-"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി മൂന്നു് "
-"എന്‍ട്രികളെങ്കിലും വേണം.</html>"
+"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് "
+"ക്വിസിനായി മൂന്നു് എന്‍ട്രികളെങ്കിലും വേണം.</html>"
 
 #: prefcardappearance.cpp:78
 #, kde-format
@@ -1817,7 +1826,8 @@ msgstr "&അക്ഷരസഞ്ചയം:"
 #, kde-format
 msgid "Use to select the font for displaying text on the back of the card"
 msgstr ""
-"കാര്‍ഡിന്റെ പിന്‍ഭാഗത്തെ പദാവലി പ്രദര്‍ശിപ്പിക്കാനുള്ള അക്ഷരസഞ്ചയം തെരഞ്ഞെടുക്കാനുപയോഗിക്കുക"
+"കാര്‍ഡിന്റെ പിന്‍ഭാഗത്തെ പദാവലി പ്രദര്‍ശിപ്പിക്കാനുള്ള അക്ഷരസഞ്ചയം "
+"തെരഞ്ഞെടുക്കാനുപയോഗിക്കുക"
 
 #. i18n: ectx: property (toolTip), widget (KColorButton, kcfg_BackTextColor)
 #. i18n: ectx: property (toolTip), widget (KColorButton, kcfg_FrontTextColor)
@@ -1866,7 +1876,8 @@ msgstr "കാര്‍ഡ് വരയ്ക്കാനുള്ള നിറ�
 #, kde-format
 msgid "Use to select the font for displaying text on the front of the card"
 msgstr ""
-"കാര്‍ഡിന്റെ മുന്‍ഭാഗത്തുള്ള പദാവലി പ്രദര്‍ശിപ്പിക്കാനുള്ള അക്ഷരസഞ്ചയം തെരഞ്ഞെടുക്കാനുപയോഗിക്കുക"
+"കാര്‍ഡിന്റെ മുന്‍ഭാഗത്തുള്ള പദാവലി പ്രദര്‍ശിപ്പിക്കാനുള്ള അക്ഷരസഞ്ചയം "
+"തെരഞ്ഞെടുക്കാനുപയോഗിക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, textColorLabel)
 #: prefcardappearancebase.ui:249
@@ -1913,8 +1924,8 @@ msgid ""
 "Note: Select Settings -> Configure Shortcuts... to change the shortcut "
 "associated with each action."
 msgstr ""
-"കുറിപ്പ്: ഓരോ നടപടിയോടും അനുബന്ധിച്ചുള്ള കുറുക്കുവഴി മാറ്റാന്‍ സജ്ജീകരണങ്ങള്‍ -> കുറുക്കുവഴികള്‍ "
-"ക്രമീകരിക്കുക... തെരഞ്ഞെടുക്കുക."
+"കുറിപ്പ്: ഓരോ നടപടിയോടും അനുബന്ധിച്ചുള്ള കുറുക്കുവഴി മാറ്റാന്‍ സജ്ജീകരണങ്ങള്‍ "
+"-> കുറുക്കുവഴികള്‍ ക്രമീകരിക്കുക... തെരഞ്ഞെടുക്കുക."
 
 #. i18n: ectx: property (toolTip), widget (QTreeWidget, CharacterTree)
 #: prefcharacterbase.ui:48
@@ -1996,7 +2007,8 @@ msgstr "എന്റര്‍ കീ എങ്ങിനെയാണു് നീ
 #: prefeditorbase.ui:32
 #, kde-format
 msgid "Select how the Enter key should behave in the editor"
-msgstr "ചിട്ടപ്പെടുത്തലില്‍ എന്റര്‍ കീയുടെ സ്വഭാവമെന്തായിരിക്കണമെന്നു് തെരഞ്ഞെടുക്കുക"
+msgstr ""
+"ചിട്ടപ്പെടുത്തലില്‍ എന്റര്‍ കീയുടെ സ്വഭാവമെന്തായിരിക്കണമെന്നു് തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_EnterMove)
 #: prefeditorbase.ui:35
@@ -2008,7 +2020,9 @@ msgstr "എന്റര്‍ &കീ നീക്കുന്നു"
 #: prefeditorbase.ui:50
 #, kde-format
 msgid "Select if the next cell below should become active when pressing Enter."
-msgstr "എന്റര്‍ അമര്‍ത്തുമ്പോള്‍ താഴെയുള്ള അടുത്ത കളം സജീവമാകണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക."
+msgstr ""
+"എന്റര്‍ അമര്‍ത്തുമ്പോള്‍ താഴെയുള്ള അടുത്ത കളം സജീവമാകണമെങ്കില്‍ "
+"തെരഞ്ഞെടുക്കുക."
 
 #. i18n: ectx: property (text), widget (QRadioButton, optDown)
 #: prefeditorbase.ui:53
@@ -2021,7 +2035,9 @@ msgstr "&താഴേ"
 #, kde-format
 msgid ""
 "Select if the next cell to the right should become active when pressing Enter"
-msgstr "എന്റര്‍ അമര്‍ത്തുമ്പോള്‍ വലത്തുള്ള അടുത്ത കളം സജീവമാകണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക."
+msgstr ""
+"എന്റര്‍ അമര്‍ത്തുമ്പോള്‍ വലത്തുള്ള അടുത്ത കളം സജീവമാകണമെങ്കില്‍ "
+"തെരഞ്ഞെടുക്കുക."
 
 #. i18n: ectx: property (text), widget (QRadioButton, optRight)
 #: prefeditorbase.ui:66
@@ -2033,7 +2049,8 @@ msgstr "&വലതു്"
 #: prefeditorbase.ui:76
 #, kde-format
 msgid "Select if the current cell should remain active when pressing Enter"
-msgstr "എന്റര്‍ അമര്‍ത്തുമ്പോള്‍ ഈ കളം തന്നെ സജീവമായിരിക്കണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക."
+msgstr ""
+"എന്റര്‍ അമര്‍ത്തുമ്പോള്‍ ഈ കളം തന്നെ സജീവമായിരിക്കണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക."
 
 #. i18n: ectx: property (text), widget (QRadioButton, optNoMove)
 #: prefeditorbase.ui:79
@@ -2051,7 +2068,9 @@ msgstr "ഒഴിഞ്ഞതു്-നിറയ്ക്കുക പ്രാ�
 #: prefeditorbase.ui:92
 #, kde-format
 msgid "Select to enable the functions for Fill-in-the-blank"
-msgstr "ഒഴിഞ്ഞതു്-നിറയ്ക്കുക -യ്ക്കായി ഫങ്ഷനുകള്‍ പ്രാവര്‍ത്തികമാക്കാന്‍ തെരഞ്ഞെടുക്കുക"
+msgstr ""
+"ഒഴിഞ്ഞതു്-നിറയ്ക്കുക -യ്ക്കായി ഫങ്ഷനുകള്‍ പ്രാവര്‍ത്തികമാക്കാന്‍ "
+"തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_EnableBlanks)
 #: prefeditorbase.ui:95
@@ -2069,7 +2088,8 @@ msgstr "പദസഞ്ചയ രചനകള്‍ എങ്ങിനെയാ�
 #: prefgeneralbase.ui:38
 #, kde-format
 msgid "Select the kind of session to load an opened vocabulary document in"
-msgstr "തുറന്ന പദസഞ്ചയ രചനകള്‍ ഏതുതരം സെഷനിലാണു് ലോഡ് ചെയ്യേണ്ടതെന്നു് തെരഞ്ഞെടുക്കുക"
+msgstr ""
+"തുറന്ന പദസഞ്ചയ രചനകള്‍ ഏതുതരം സെഷനിലാണു് ലോഡ് ചെയ്യേണ്ടതെന്നു് തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, kcfg_StartSession)
 #: prefgeneralbase.ui:41
@@ -2105,7 +2125,8 @@ msgstr "പദസഞ്ചയ രചനകള്‍ ഫ്ലാഷ്‌കാ�
 #: prefgeneralbase.ui:63
 #, kde-format
 msgid "Select if the vocabulary documents should be opened in a flashcard quiz"
-msgstr "പദസഞ്ചയ രചനകള്‍ ഫ്ലാഷ്‌കാര്‍ഡ് ക്വിസില്‍ തുറക്കണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക"
+msgstr ""
+"പദസഞ്ചയ രചനകള്‍ ഫ്ലാഷ്‌കാര്‍ഡ് ക്വിസില്‍ തുറക്കണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, optFlashcard)
 #: prefgeneralbase.ui:66
@@ -2174,9 +2195,10 @@ msgstr "സൂചന പിശകായി വിലയിരുത്താന�
 #: prefquizbase.ui:74
 #, kde-format
 msgid ""
-"Select if questions where the hint function has been used should be counted "
-"as errors"
-msgstr "സൂചന ഫങ്ഷന്‍ ഉപയോഗിച്ച ചോദ്യങ്ങള്‍ പിശകായി വിലയിരുത്തണമോയെന്നു് തെരഞ്ഞെടുക്കുക"
+"Select if questions where the hint function has been used should be counted as"
+" errors"
+msgstr ""
+"സൂചന ഫങ്ഷന്‍ ഉപയോഗിച്ച ചോദ്യങ്ങള്‍ പിശകായി വിലയിരുത്തണമോയെന്നു് തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_HintError)
 #: prefquizbase.ui:77
@@ -2275,7 +2297,9 @@ msgstr "കാര്‍ഡ് എങ്ങിനെയാണു് എണ്ണ�
 msgid ""
 "Select if the previous card should be counted as correct when moving to the "
 "next card"
-msgstr "അടുത്ത കാര്‍ഡിലേക്കു് നീങ്ങുമ്പോള്‍ കഴിഞ്ഞ കാര്‍ഡ് ശരിയായി എണ്ണണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക"
+msgstr ""
+"അടുത്ത കാര്‍ഡിലേക്കു് നീങ്ങുമ്പോള്‍ കഴിഞ്ഞ കാര്‍ഡ് ശരിയായി എണ്ണണമെങ്കില്‍ "
+"തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, optCorrect)
 #: prefquizbase.ui:291
@@ -2287,9 +2311,11 @@ msgstr "ശരിയായി എണ്ണുക"
 #: prefquizbase.ui:301
 #, kde-format
 msgid ""
-"Select if the previous card should be counted as incorrect when moving to "
-"the next card"
-msgstr "അടുത്ത കാര്‍ഡിലേക്കു് നീങ്ങുമ്പോള്‍ കഴിഞ്ഞ കാര്‍ഡ് തെറ്റായി എണ്ണണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക"
+"Select if the previous card should be counted as incorrect when moving to the "
+"next card"
+msgstr ""
+"അടുത്ത കാര്‍ഡിലേക്കു് നീങ്ങുമ്പോള്‍ കഴിഞ്ഞ കാര്‍ഡ് തെറ്റായി എണ്ണണമെങ്കില്‍ "
+"തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, optError)
 #: prefquizbase.ui:304
@@ -2307,9 +2333,10 @@ msgstr "കാര്‍ഡ് സ്വയം തിരിക്കാന്‍ 
 #: prefquizbase.ui:317
 #, kde-format
 msgid ""
-"Select if you want a card to turn over automatically after the given amount "
-"of time"
-msgstr "തന്നിരിക്കുന്ന സമയത്തിനുശേഷം കാര്‍ഡ് സ്വയം തിരിയണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക"
+"Select if you want a card to turn over automatically after the given amount of"
+" time"
+msgstr ""
+"തന്നിരിക്കുന്ന സമയത്തിനുശേഷം കാര്‍ഡ് സ്വയം തിരിയണമെങ്കില്‍ തെരഞ്ഞെടുക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoFlip)
 #: prefquizbase.ui:320
@@ -2367,13 +2394,15 @@ msgstr ""
 "ഫ്ലാഷ്‌കാര്‍ഡ്\n"
 "ചമയം"
 
-#. i18n: ectx: property (text), widget (QRadioButton, radioButtonAppearanceNative)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. radioButtonAppearanceNative)
 #: preftutorbase.ui:167
 #, kde-format
 msgid "&Native"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QRadioButton, radioButtonAppearanceMinimalistic)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. radioButtonAppearanceMinimalistic)
 #: preftutorbase.ui:177
 #, kde-format
 msgid "Minim&alistic"
@@ -2385,7 +2414,8 @@ msgstr ""
 msgid "Miscellaneous"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_StartExerciseAsSoonAsFileIsLoaded)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_StartExerciseAsSoonAsFileIsLoaded)
 #: preftutorbase.ui:193
 #, kde-format
 msgid "S&tart exercise as soon as vocabulary file is opened"
@@ -2422,11 +2452,11 @@ msgstr "ചോദ്യത്തിന്റെ ഉത്തരം ടൈപ്�
 #: qaviewbase.ui:587
 #, kde-format
 msgid ""
-"<html>There are too few entries in your vocabulary.<br />You need at least "
-"one entry for a question and answer quiz.</html>"
+"<html>There are too few entries in your vocabulary.<br />You need at least one"
+" entry for a question and answer quiz.</html>"
 msgstr ""
-"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് ക്വിസിനായി ഒരു "
-"എന്‍ട്രിയെങ്കിലും വേണം.</html>"
+"<html>പദസഞ്ചയത്തില്‍ വളരെക്കുറവു് എന്‍ട്രികളേയുള്ളൂ.<br />അനവധി ചോയ്സ് "
+"ക്വിസിനായി ഒരു എന്‍ട്രിയെങ്കിലും വേണം.</html>"
 
 #: wqprintdialogpage.cpp:31
 #, kde-format
@@ -2446,7 +2476,8 @@ msgstr "പദസഞ്ചയ &പട്ടിക"
 #: wqprintdialogpage.cpp:43
 #, kde-format
 msgid "Select to print the vocabulary as displayed in the editor"
-msgstr "പദസഞ്ചയം, ചിട്ടപ്പെടുത്തലില്‍ കാണുന്നതുപോലെ പ്രിന്റ് ചെയ്യാന്‍ തെരഞ്ഞെടുക്കുക"
+msgstr ""
+"പദസഞ്ചയം, ചിട്ടപ്പെടുത്തലില്‍ കാണുന്നതുപോലെ പ്രിന്റ് ചെയ്യാന്‍ തെരഞ്ഞെടുക്കുക"
 
 #: wqprintdialogpage.cpp:47
 #, kde-format
@@ -2582,19 +2613,20 @@ msgstr "ഫ്ലാഷ്‌കാര്‍ഡുകള്‍ പ്രിന�
 #~ msgstr "സെഷനിലെ കാര്‍ഡുകളുടെ ​എണ്ണം"
 
 #~ msgid ""
-#~ "The number of cards counted as correct (I know). May be shown as a "
-#~ "percentage."
-#~ msgstr "ശരിയായി എണ്ണപ്പെട്ട കാര്‍ഡുകള്‍ (എനിക്കറിയാം). ശതമാനമായി കാണിച്ചെന്നുവരാം."
+#~ "The number of cards counted as correct (I know). May be shown as a percentage."
+#~ msgstr ""
+#~ "ശരിയായി എണ്ണപ്പെട്ട കാര്‍ഡുകള്‍ (എനിക്കറിയാം). ശതമാനമായി കാണിച്ചെന്നുവരാം."
 
 #~ msgid ""
-#~ "The number of cards counted as incorrect (I do not know). May be shown as "
-#~ "a percentage."
-#~ msgstr "തെറ്റായി എണ്ണപ്പെട്ട കാര്‍ഡുകള്‍ (എനിക്കറിയില്ല). ശതമാനമായി കാണിച്ചെന്നുവരാം."
+#~ "The number of cards counted as incorrect (I do not know). May be shown as a "
+#~ "percentage."
+#~ msgstr ""
+#~ "തെറ്റായി എണ്ണപ്പെട്ട കാര്‍ഡുകള്‍ (എനിക്കറിയില്ല). ശതമാനമായി കാണിച്ചെന്നുവരാം."
 
 #~ msgid "The number of cards already seen. May be shown as a percentage."
 #~ msgstr "കാണപ്പെട്ട കാര്‍ഡുകളുടെ എണ്ണം. ശതമാനമായി കാണിച്ചെന്നുവരാം."
 
 #~ msgid ""
-#~ "<html>The file<br /><b>%1</b><br />already exists. Do you want to "
-#~ "overwrite it?</html>"
+#~ "<html>The file<br /><b>%1</b><br />already exists. Do you want to overwrite "
+#~ "it?</html>"
 #~ msgstr "<html>ഫയല്‍<br /><b>%1</b><br />നിലവിലുണ്ട്. അത് മാച്ചെഴുതണോ?</html>"

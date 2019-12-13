@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: plasmoidviewer\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-08-14 03:25+0200\n"
-"PO-Revision-Date: 2008-11-26 15:12-0800\n"
-"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 22:37+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -27,7 +27,7 @@ msgstr "അനി പീറ്റര്‍"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "peter.ani@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: main.cpp:52
 #, fuzzy, kde-format
@@ -54,7 +54,9 @@ msgstr "ചുമര്‍ച്ചിത്രത്തിനുള്ള സ�
 msgid ""
 "The formfactor to use (horizontal, vertical, mediacenter, planar or "
 "application)"
-msgstr "ഉപയോഗിയ്ക്കേണ്ട ഫോംഫാക്റ്റര്‍ (തിരശ്ചീനം, ലംബം, മാധ്യമകേന്ദ്രം അല്ലെങ്കില്‍ പ്ലനാര്‍)"
+msgstr ""
+"ഉപയോഗിയ്ക്കേണ്ട ഫോംഫാക്റ്റര്‍ (തിരശ്ചീനം, ലംബം, മാധ്യമകേന്ദ്രം അല്ലെങ്കില്‍ "
+"പ്ലനാര്‍)"
 
 #: main.cpp:70
 #, kde-format

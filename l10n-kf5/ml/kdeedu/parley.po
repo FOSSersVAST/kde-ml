@@ -8,10 +8,9 @@ msgstr ""
 "Project-Id-Version: parley\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-13 03:04+0100\n"
-"PO-Revision-Date: 2019-12-03 10:51+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
-"കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 21:30+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +26,7 @@ msgstr "അനി പീറ്റര്‍"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "apeter@redhat.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
 #: plasmoid/config.ui:18
@@ -153,8 +152,8 @@ msgstr "ആഭ്യാസം തുടങ്ങുക"
 #: src/collection/entryfilterdialog.ui:20
 #, kde-format
 msgid ""
-"<p>Your selection of vocabulary for the practice is empty.</p><p>Below you "
-"can choose to ignore some of your configuration settings to start a practice "
+"<p>Your selection of vocabulary for the practice is empty.</p><p>Below you can"
+" choose to ignore some of your configuration settings to start a practice "
 "anyway.</p>"
 msgstr ""
 
@@ -322,7 +321,9 @@ msgstr "ഗ്രേഡ് (%1)"
 #: src/collection/vocabularymodel.cpp:324
 #, kde-format
 msgid "Please use Edit -> Languages to set up your document."
-msgstr "നിങ്ങളുടെ രേഖ തയ്യാറാക്കുന്നതിനായി ചിട്ടപ്പെടുത്തുക -> ഭാഷകള്‍ എന്നതു് ഉപയോഗിക്കുക."
+msgstr ""
+"നിങ്ങളുടെ രേഖ തയ്യാറാക്കുന്നതിനായി ചിട്ടപ്പെടുത്തുക -> ഭാഷകള്‍ എന്നതു് "
+"ഉപയോഗിക്കുക."
 
 #: src/collection/vocabularymodel.cpp:324
 #, kde-format
@@ -421,8 +422,10 @@ msgid "<h1>Parley</h1>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, playButton)
-#. i18n: ectx: property (text), widget (Practice::AudioButton, solutionSoundButton)
-#. i18n: ectx: property (text), widget (Practice::AudioButton, questionSoundButton)
+#. i18n: ectx: property (text), widget (Practice::AudioButton,
+#. solutionSoundButton)
+#. i18n: ectx: property (text), widget (Practice::AudioButton,
+#. questionSoundButton)
 #: src/editor/audiowidget.ui:18 src/practice/audiobutton.cpp:25
 #: src/practice/audiobutton.cpp:26 src/practice/audiobutton.cpp:70
 #: src/practice/audiobutton.cpp:71 src/practice/practice_widget_flashcard.ui:48
@@ -584,8 +587,7 @@ msgstr "ക്രിയാപദങ്ങളുടെ കാലഭേദങ്�
 #. i18n: ectx: property (text), widget (QLabel, singularLabel)
 #. i18n: ectx: property (text), item, widget (QComboBox, numberSelection)
 #: src/editor/conjugationwidget.ui:349 src/editor/declensionwidget.cpp:135
-#: src/editor/declensionwidget.ui:459
-#: src/settings/languagepropertiespage.ui:378
+#: src/editor/declensionwidget.ui:459 src/settings/languagepropertiespage.ui:378
 #: src/settings/languagepropertiespage.ui:486
 #, kde-format
 msgid "Singular"
@@ -594,8 +596,7 @@ msgstr "ഏകവചനം"
 #. i18n: ectx: property (text), widget (QLabel, dualLabel)
 #. i18n: ectx: property (text), item, widget (QComboBox, numberSelection)
 #: src/editor/conjugationwidget.ui:368 src/editor/declensionwidget.cpp:136
-#: src/editor/declensionwidget.ui:464
-#: src/settings/languagepropertiespage.ui:493
+#: src/editor/declensionwidget.ui:464 src/settings/languagepropertiespage.ui:493
 #, kde-format
 msgid "Dual"
 msgstr ""
@@ -605,8 +606,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, pluralLabel)
 #. i18n: ectx: property (text), item, widget (QComboBox, numberSelection)
 #: src/editor/conjugationwidget.ui:387 src/editor/declensionwidget.cpp:137
-#: src/editor/declensionwidget.ui:469
-#: src/settings/languagepropertiespage.ui:388
+#: src/editor/declensionwidget.ui:469 src/settings/languagepropertiespage.ui:388
 #: src/settings/languagepropertiespage.ui:500
 #, kde-format
 msgid "Plural"
@@ -965,8 +965,7 @@ msgstr "തെരയുവാനുള്ള പദങ്ങള്‍ ഇവി�
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #. i18n: ectx: property (text), widget (QLabel, label)
-#: src/editor/latexwidget.ui:37
-#: src/settings/kgametheme/kgamethemeselector.ui:55
+#: src/editor/latexwidget.ui:37 src/settings/kgametheme/kgamethemeselector.ui:55
 #, kde-format
 msgid "Preview"
 msgstr ""
@@ -1060,8 +1059,7 @@ msgstr ""
 #: src/editor/lessonview.cpp:195
 #, kde-format
 msgid "There is %1 word left in this unit. Do you want to delete it?"
-msgid_plural ""
-"There are %1 words left in this unit. Do you want to delete them?"
+msgid_plural "There are %1 words left in this unit. Do you want to delete them?"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -1073,8 +1071,8 @@ msgstr ""
 #: src/editor/lessonview.cpp:209
 #, kde-format
 msgid ""
-"The unit will be split into smaller unit. How many entries in each unit do "
-"you want?"
+"The unit will be split into smaller unit. How many entries in each unit do you"
+" want?"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, addChoiceButton)
@@ -1151,8 +1149,8 @@ msgstr "%1-നുള്ള വിപരീതം:"
 #: src/editor/synonymwidget.cpp:104
 #, kde-format
 msgctxt ""
-"Title for a list of false friend (things that sound similar but have "
-"different meanings) for a word"
+"Title for a list of false friend (things that sound similar but have different"
+" meanings) for a word"
 msgid "False Friends of %1:"
 msgstr ""
 
@@ -1261,8 +1259,8 @@ msgid ""
 "Either the language set up is incorrect or no spellchecker was installed for "
 "this locale: %1."
 msgstr ""
-"ഭാഷ ശരിയായി ക്രമീകരിച്ചിട്ടില്ല അല്ലെങ്കില്‍ ഈ ലൊക്കെയിലിനുള്ള അക്ഷരത്തെറ്റ് പരിശോധകന്‍ "
-"ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ല: %1."
+"ഭാഷ ശരിയായി ക്രമീകരിച്ചിട്ടില്ല അല്ലെങ്കില്‍ ഈ ലൊക്കെയിലിനുള്ള അക്ഷരത്തെറ്റ് "
+"പരിശോധകന്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ല: %1."
 
 #: src/editor/wordtypeview.cpp:40
 #, kde-format
@@ -1671,8 +1669,7 @@ msgstr "&ഭാഷകള്‍..."
 
 #: src/parleyactions.cpp:131
 #, kde-format
-msgid ""
-"Edit which languages are in the collection and their grammar properties."
+msgid "Edit which languages are in the collection and their grammar properties."
 msgstr ""
 
 #: src/parleyactions.cpp:136
@@ -1800,9 +1797,7 @@ msgstr ""
 #: src/parleydocument.cpp:225
 #, kde-format
 msgid ""
-"The vocabulary collection is locked by another process.  You can open the "
-"file if you take over the lock, but you will lose any changes from the other "
-"process.\n"
+"The vocabulary collection is locked by another process.  You can open the file if you take over the lock, but you will lose any changes from the other process.\n"
 "\n"
 "Do you want to take over the lock?\n"
 msgstr ""
@@ -1842,8 +1837,7 @@ msgstr "ഡൌണ്‍ലോട് ചെയ്ത പദാവലികള്�
 #: src/parleydocument.cpp:358 src/parleydocument.cpp:442
 #, kde-format
 msgid ""
-"File \"%1\" is locked by another process.  You can save to the file if you "
-"take over the lock, but you will lose any changes from the other process.\n"
+"File \"%1\" is locked by another process.  You can save to the file if you take over the lock, but you will lose any changes from the other process.\n"
 "\n"
 "Do you want to take over the lock?\n"
 msgstr ""
@@ -2171,8 +2165,7 @@ msgstr ""
 
 #: src/practice/configure/blockoptions.cpp:278
 #, kde-format
-msgid ""
-"The blocking time at level %1 should be lower than the expiration time.\n"
+msgid "The blocking time at level %1 should be lower than the expiration time.\n"
 msgstr ""
 
 #: src/practice/configure/blockoptions.cpp:284
@@ -2246,7 +2239,8 @@ msgstr ""
 msgid "Vocabulary drops one grade after this much time:"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ComparisonIncludeAdjective)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_ComparisonIncludeAdjective)
 #: src/practice/configure/comparisonoptionswidget.ui:16
 #, fuzzy, kde-format
 msgid "Include Adjectives"
@@ -2267,8 +2261,8 @@ msgstr ""
 #: src/practice/configure/configurepracticedialog.cpp:43
 #, fuzzy, kde-format
 msgctxt ""
-"@title:group Configure general settings for practicing vocabulary, short "
-"title in config dialog."
+"@title:group Configure general settings for practicing vocabulary, short title"
+" in config dialog."
 msgid "General"
 msgstr "സാധാരണ"
 
@@ -2292,8 +2286,7 @@ msgstr ""
 
 #: src/practice/configure/configurepracticedialog.cpp:51
 #, kde-format
-msgctxt ""
-"@title:group ignore vocabulary based on some properties like word type"
+msgctxt "@title:group ignore vocabulary based on some properties like word type"
 msgid "Thresholds"
 msgstr ""
 
@@ -2334,25 +2327,29 @@ msgstr ""
 msgid "Ignore Accents"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_IgnoreCapitalizationMistakes)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. kcfg_IgnoreCapitalizationMistakes)
 #: src/practice/configure/generalpracticeoptions.ui:36
 #, kde-format
 msgid "Any captitalization in the answer is counted as correct."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_IgnoreCapitalizationMistakes)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_IgnoreCapitalizationMistakes)
 #: src/practice/configure/generalpracticeoptions.ui:39
 #, kde-format
 msgid "Ignore Capitalization"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_IgnorePunctuationMistakes)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. kcfg_IgnorePunctuationMistakes)
 #: src/practice/configure/generalpracticeoptions.ui:49
 #, kde-format
 msgid "Any punctuation mistake in the answer is counted as correct."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_IgnorePunctuationMistakes)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_IgnorePunctuationMistakes)
 #: src/practice/configure/generalpracticeoptions.ui:52
 #, fuzzy, kde-format
 msgid "Ignore Punctuation"
@@ -2401,7 +2398,8 @@ msgstr ""
 msgid "Image for Solution"
 msgstr "സംയോഗം"
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_AllowImageInsteadOfWord)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. kcfg_AllowImageInsteadOfWord)
 #: src/practice/configure/generalpracticeoptions.ui:123
 #, kde-format
 msgid "Allow using images instead of words in flashcards."
@@ -2452,15 +2450,17 @@ msgstr ""
 msgid "Max number of new words"
 msgstr "മൊത്തം എന്‍ട്രികളുടെ എണ്ണം:"
 
-#. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_MultipleChoiceWordTypeConsistancy)
+#. i18n: ectx: property (toolTip), widget (QCheckBox,
+#. kcfg_MultipleChoiceWordTypeConsistancy)
 #: src/practice/configure/specificpracticeoptions.ui:23
 #, kde-format
 msgid ""
-"When creating multiple choice practices, try to show answers of the same "
-"word type."
+"When creating multiple choice practices, try to show answers of the same word "
+"type."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_MultipleChoiceWordTypeConsistancy)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_MultipleChoiceWordTypeConsistancy)
 #: src/practice/configure/specificpracticeoptions.ui:26
 #, fuzzy, kde-format
 msgid "Use choices of the same word type"
@@ -2816,8 +2816,7 @@ msgstr "ആഭ്യാസം തുടങ്ങുക"
 #, kde-format
 msgid ""
 "This answer will be counted as correct.\n"
-"Words will only be counted as correct if they are answered correctly on the "
-"first attempt."
+"Words will only be counted as correct if they are answered correctly on the first attempt."
 msgstr ""
 
 #: src/practice/statustoggle.cpp:87
@@ -2829,8 +2828,7 @@ msgstr "നിങ്ങളുടെ ഉത്തരം തെറ്റാണു�
 #, kde-format
 msgid ""
 "This answer will be counted as wrong.\n"
-"Words will only be counted as correct if they are answered correctly on the "
-"first attempt."
+"Words will only be counted as correct if they are answered correctly on the first attempt."
 msgstr ""
 
 #: src/practice/statustoggle.cpp:91
@@ -2918,8 +2916,8 @@ msgstr "നിങ്ങളുടെ ഉത്തരം തെറ്റാണു�
 #: src/practice/writtenbackendmode.cpp:118
 #, fuzzy, kde-format
 msgid ""
-"Your answer was wrong as capitalization mistakes are not accepted. Please "
-"try again."
+"Your answer was wrong as capitalization mistakes are not accepted. Please try "
+"again."
 msgstr "നിങ്ങളുടെ ഉത്തരം തെറ്റാണു്."
 
 #: src/practice/writtenbackendmode.cpp:120
@@ -2963,8 +2961,8 @@ msgstr "നിങ്ങളുടെ ഉത്തരം തെറ്റാണു�
 #: src/practice/writtenbackendmode.cpp:141
 #, fuzzy, kde-format
 msgid ""
-"Your answer was right... but not on the first try and your capitalization "
-"was wrong."
+"Your answer was right... but not on the first try and your capitalization was "
+"wrong."
 msgstr "നിങ്ങളുടെ ഉത്തരം തെറ്റാണു്."
 
 #: src/practice/writtenbackendmode.cpp:143
@@ -3130,15 +3128,15 @@ msgstr "&ലൈസന്‍സ്:"
 #, kde-format
 msgid ""
 "The license under which your document will be.\n"
-"If you consider contributing your file to KDE in the future, an appropriate "
-"license is required."
+"If you consider contributing your file to KDE in the future, an appropriate license is required."
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, licenseComboBox)
 #: src/settings/documentproperties.ui:239
 #, kde-format
 msgid "GPLv2+ (GNU General Public License version 2 or later)"
-msgstr "ജിപിഎല്‍ വി2+ (ഗ്നു ജനറല്‍ പബ്ലിക് ലൈസന്‍സ് പതിപ്പു് 2 അല്ലെങ്കില്‍ അടുത്തതു്)"
+msgstr ""
+"ജിപിഎല്‍ വി2+ (ഗ്നു ജനറല്‍ പബ്ലിക് ലൈസന്‍സ് പതിപ്പു് 2 അല്ലെങ്കില്‍ അടുത്തതു്)"
 
 #. i18n: ectx: property (text), widget (QLabel, label_language_1)
 #: src/settings/documentproperties.ui:256
@@ -3185,8 +3183,10 @@ msgstr "ശരിയായ തര്‍ജ്ജമ തെരഞ്ഞെടു�
 msgid "Visible columns in the main editor window."
 msgstr ""
 
-#. i18n: ectx: label, entry (CollapsedStatisticsViewItems), group (Document $(fileurl))
-#. i18n: ectx: whatsthis, entry (CollapsedStatisticsViewItems), group (Document $(fileurl))
+#. i18n: ectx: label, entry (CollapsedStatisticsViewItems), group (Document
+#. $(fileurl))
+#. i18n: ectx: whatsthis, entry (CollapsedStatisticsViewItems), group (Document
+#. $(fileurl))
 #: src/settings/documentsettings.kcfg:20 src/settings/documentsettings.kcfg:21
 #, kde-format
 msgid "Collapsed tree view items of statistics view window."
@@ -3729,16 +3729,16 @@ msgstr ""
 #: src/settings/parley.kcfg:73
 #, kde-format
 msgid ""
-"Append new vocabulary in a collection in order of their units. Note that "
-"this will not be a hard transition, but a slow mix from one unit to the next."
+"Append new vocabulary in a collection in order of their units. Note that this "
+"will not be a hard transition, but a slow mix from one unit to the next."
 msgstr ""
 
 #. i18n: ectx: label, entry (TestNumberOfEntries), group (PracticeOptions)
 #: src/settings/parley.kcfg:77
 #, kde-format
 msgid ""
-"The number of entries that are practiced at the same time. If one of these "
-"is answered correctly another entry will be appended."
+"The number of entries that are practiced at the same time. If one of these is "
+"answered correctly another entry will be appended."
 msgstr ""
 
 #. i18n: ectx: label, entry (SwapDirection), group (PracticeOptions)
@@ -3761,7 +3761,8 @@ msgid ""
 "question after the given time."
 msgstr ""
 
-#. i18n: ectx: label, entry (PracticeTimeoutTimePerAnswer), group (PracticeOptions)
+#. i18n: ectx: label, entry (PracticeTimeoutTimePerAnswer), group
+#. (PracticeOptions)
 #: src/settings/parley.kcfg:98
 #, kde-format
 msgid "Maximum time allowed to answer."
@@ -3785,7 +3786,8 @@ msgstr ""
 msgid "Count answers as right when only the accentuation is wrong."
 msgstr "നിങ്ങളുടെ ഉത്തരം തെറ്റാണു്."
 
-#. i18n: ectx: label, entry (IgnoreCapitalizationMistakes), group (PracticeOptions)
+#. i18n: ectx: label, entry (IgnoreCapitalizationMistakes), group
+#. (PracticeOptions)
 #: src/settings/parley.kcfg:115
 #, fuzzy, kde-format
 msgid "Count answers as right when only the capitalization is wrong."
@@ -3882,13 +3884,15 @@ msgid ""
 "session."
 msgstr ""
 
-#. i18n: ectx: label, entry (SessionLimitWordsInitialPhase), group (PracticeOptions)
+#. i18n: ectx: label, entry (SessionLimitWordsInitialPhase), group
+#. (PracticeOptions)
 #: src/settings/parley.kcfg:180
 #, kde-format
 msgid "Limit the number of words in the initial phase."
 msgstr ""
 
-#. i18n: ectx: label, entry (SessionMaxWordsInitialPhase), group (PracticeOptions)
+#. i18n: ectx: label, entry (SessionMaxWordsInitialPhase), group
+#. (PracticeOptions)
 #: src/settings/parley.kcfg:184
 #, kde-format
 msgid ""
@@ -3896,15 +3900,17 @@ msgid ""
 "no new words will be introduced."
 msgstr ""
 
-#. i18n: ectx: label, entry (MultipleChoiceWordTypeConsistancy), group (PracticeOptions)
+#. i18n: ectx: label, entry (MultipleChoiceWordTypeConsistancy), group
+#. (PracticeOptions)
 #: src/settings/parley.kcfg:190
 #, kde-format
 msgid ""
-"Use the same word type as the solution for the incorrect answers in a "
-"multiple choice practice."
+"Use the same word type as the solution for the incorrect answers in a multiple"
+" choice practice."
 msgstr ""
 
-#. i18n: ectx: label, entry (NumberMultipleChoiceAnswers), group (PracticeOptions)
+#. i18n: ectx: label, entry (NumberMultipleChoiceAnswers), group
+#. (PracticeOptions)
 #: src/settings/parley.kcfg:194
 #, kde-format
 msgid ""
@@ -4077,7 +4083,8 @@ msgstr ""
 msgid "Show the solution after an answer was given."
 msgstr ""
 
-#. i18n: ectx: label, entry (ShowSolutionAfterAnswerTime), group (PracticeManager)
+#. i18n: ectx: label, entry (ShowSolutionAfterAnswerTime), group
+#. (PracticeManager)
 #: src/settings/parley.kcfg:322
 #, kde-format
 msgid "The time the solution is shown (seconds). 0 is unlimited."
@@ -4113,14 +4120,17 @@ msgstr ""
 msgid "If true, the practice direction for each practice mode is stored."
 msgstr ""
 
-#. i18n: ectx: whatsthis, entry (RememberPracticeDirection), group (PracticeManager)
+#. i18n: ectx: whatsthis, entry (RememberPracticeDirection), group
+#. (PracticeManager)
 #: src/settings/parley.kcfg:376
 #, kde-format
 msgid "Should the practice direction for each practice mode be stored?"
 msgstr ""
 
-#. i18n: ectx: label, entry (PracticeDirectionsByPracticeMode), group (PracticeManager)
-#. i18n: ectx: whatsthis, entry (PracticeDirectionsByPracticeMode), group (PracticeManager)
+#. i18n: ectx: label, entry (PracticeDirectionsByPracticeMode), group
+#. (PracticeManager)
+#. i18n: ectx: whatsthis, entry (PracticeDirectionsByPracticeMode), group
+#. (PracticeManager)
 #: src/settings/parley.kcfg:380 src/settings/parley.kcfg:381
 #, kde-format
 msgid "Stored values of practice direction for each practice mode."
@@ -4247,7 +4257,8 @@ msgstr "Alt+1"
 msgid "Color used to display the grades:"
 msgstr "ഗ്രേഡ് 7-നുള്ള നിറം"
 
-#. i18n: ectx: property (whatsThis), widget (KColorButton, kcfg_InvalidUnitColor)
+#. i18n: ectx: property (whatsThis), widget (KColorButton,
+#. kcfg_InvalidUnitColor)
 #: src/settings/viewoptionsbase.ui:193
 #, kde-format
 msgid "Click here to change the color used to display invalid units."
@@ -4410,11 +4421,8 @@ msgstr ""
 #: tips:2
 #, kde-format
 msgid ""
-"<p>Parley enables you to edit many additional properties of the words you "
-"enter.</p>\n"
-"<p>Use \"Settings\" -> \"Tools\" to enable different tools that will help "
-"you set additional information for your vocabulary. These include images, "
-"sound, word types and many more. Choose the ones you like.</p>\n"
+"<p>Parley enables you to edit many additional properties of the words you enter.</p>\n"
+"<p>Use \"Settings\" -> \"Tools\" to enable different tools that will help you set additional information for your vocabulary. These include images, sound, word types and many more. Choose the ones you like.</p>\n"
 msgstr ""
 
 #. i18n: ectx: @info:tipoftheday
@@ -4428,22 +4436,16 @@ msgstr ""
 #: tips:15
 #, kde-format
 msgid ""
-"<p>If you do not want to see the answer again after pressing enter when "
-"practicing, you can configure Parley to directly skip to the next entry.</"
-"p>\n"
-"<p>You can even choose to display the answer for a fixed amount of time. Use "
-"\"Configure Practice...\" -> \"Advanced\" -> \"Show solution after answering"
-"\".</p>\n"
+"<p>If you do not want to see the answer again after pressing enter when practicing, you can configure Parley to directly skip to the next entry.</p>\n"
+"<p>You can even choose to display the answer for a fixed amount of time. Use \"Configure Practice...\" -> \"Advanced\" -> \"Show solution after answering\".</p>\n"
 msgstr ""
 
 #. i18n: ectx: @info:tipoftheday
 #: tips:22
 #, kde-format
 msgid ""
-"<p>If you want to see all words of a certain word type (e.g. nouns), simply "
-"select the word type in the list.</p>\n"
-"<p>To show the word type list, use \"Settings\" -> \"Tools\" -> \"Word Types"
-"\" in the menu.</p>\n"
+"<p>If you want to see all words of a certain word type (e.g. nouns), simply select the word type in the list.</p>\n"
+"<p>To show the word type list, use \"Settings\" -> \"Tools\" -> \"Word Types\" in the menu.</p>\n"
 msgstr ""
 
 #. i18n: ectx: @info:tipoftheday
@@ -4458,8 +4460,7 @@ msgstr ""
 #: tips:35
 #, kde-format
 msgid ""
-"<p>You can simply drag a word into the word types list to change its type.</"
-"p>\n"
+"<p>You can simply drag a word into the word types list to change its type.</p>\n"
 "<p>You can even select multiple words at the same time.</p>\n"
 msgstr ""
 
@@ -4468,8 +4469,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p><em>Setting Images</em></p>\n"
-"<p>A fast way to set an image for a word is to simply drop it onto the image "
-"dock.</p>\n"
+"<p>A fast way to set an image for a word is to simply drop it onto the image dock.</p>\n"
 msgstr ""
 
 #. i18n: ectx: @info:tipoftheday
@@ -4477,8 +4477,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p><em>Word Types</em></p>\n"
-"<p>You can set a special tag to some word types to let Parley know their "
-"grammatical meaning.</p>\n"
+"<p>You can set a special tag to some word types to let Parley know their grammatical meaning.</p>\n"
 "<p>For verbs for example you can then enter conjugations.</p>\n"
 msgstr ""
 
@@ -4487,10 +4486,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p><em>Multiple Choice</em></p>\n"
-"<p>For some vocabularies multiple choice tests work best. You can add "
-"choices to a word that will always be displayed in Multiple Choice mode. "
-"Otherwise random choices are generated from the other entries in the "
-"document. (Use the Multiple Choice tool for that.)</p>\n"
+"<p>For some vocabularies multiple choice tests work best. You can add choices to a word that will always be displayed in Multiple Choice mode. Otherwise random choices are generated from the other entries in the document. (Use the Multiple Choice tool for that.)</p>\n"
 msgstr ""
 
 #. i18n: ectx: @info:tipoftheday
@@ -4505,10 +4501,8 @@ msgstr ""
 #: tips:70
 #, kde-format
 msgid ""
-"<p>You can use the \"Download New Vocabulary\" dialog or visit the website "
-"listing many vocabulary documents:\n"
-"<a href=\"https://edu.kde.org/contrib/kvtml2.php\">https://edu.kde.org/"
-"contrib/kvtml2.php</a>.</p>\n"
+"<p>You can use the \"Download New Vocabulary\" dialog or visit the website listing many vocabulary documents:\n"
+"<a href=\"https://edu.kde.org/contrib/kvtml2.php\">https://edu.kde.org/contrib/kvtml2.php</a>.</p>\n"
 msgstr ""
 
 #, fuzzy
@@ -4714,7 +4708,8 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Show statistics for the current collection"
-#~ msgstr "നിലവിലുള്ള പദാവലിയുടെ പരിസ്ഥിതിക്കണക്കുകള്‍ കാണിച്ചു് വീണ്ടും സജ്ജീകരിക്കുക"
+#~ msgstr ""
+#~ "നിലവിലുള്ള പദാവലിയുടെ പരിസ്ഥിതിക്കണക്കുകള്‍ കാണിച്ചു് വീണ്ടും സജ്ജീകരിക്കുക"
 
 #~ msgid "Stopping Test"
 #~ msgstr "പരീക്ഷ നിര്‍ത്തുന്നനു"
@@ -4723,11 +4718,11 @@ msgstr ""
 #~ msgstr "<font color=\"#188C18\">ഉത്തരം ശരിയാണു്!</font>"
 
 #~ msgid ""
-#~ "<font color=\"#8C1818\">I think you made a spelling mistake. But the word "
-#~ "is right.</font>"
+#~ "<font color=\"#8C1818\">I think you made a spelling mistake. But the word is "
+#~ "right.</font>"
 #~ msgstr ""
-#~ "<font color=\"#8C1818\">അക്ഷരത്തെറ്റുണ്ടെന്നു് തോന്നുന്നു. പക്ഷേ നല്‍കിയ ഉത്തരം ശരിയാണു്. </"
-#~ "font>"
+#~ "<font color=\"#8C1818\">അക്ഷരത്തെറ്റുണ്ടെന്നു് തോന്നുന്നു. പക്ഷേ നല്‍കിയ "
+#~ "ഉത്തരം ശരിയാണു്. </font>"
 
 #~ msgid "<font color=\"#8C1818\">You made a mistake.</font>"
 #~ msgstr "<font color=\"#8C1818\">ഉത്തരം തെറ്റാണു്.</font>"
@@ -4756,11 +4751,11 @@ msgstr ""
 
 #~ msgctxt "@popupmessage"
 #~ msgid ""
-#~ "Either the language set up is incorrect or no spellchecker was installed "
-#~ "for %1 (%2)."
+#~ "Either the language set up is incorrect or no spellchecker was installed for "
+#~ "%1 (%2)."
 #~ msgstr ""
-#~ "ഭാഷ ശരിയായി ക്രമീകരിച്ചിട്ടില്ല അല്ലെങ്കില്‍ %1 (%2)-നുള്ള അക്ഷരത്തെറ്റ് പരിശോധകന്‍ "
-#~ "ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ല."
+#~ "ഭാഷ ശരിയായി ക്രമീകരിച്ചിട്ടില്ല അല്ലെങ്കില്‍ %1 (%2)-നുള്ള അക്ഷരത്തെറ്റ് "
+#~ "പരിശോധകന്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ല."
 
 #~ msgid "Rename the selected lesson"
 #~ msgstr "തെരഞ്ഞെടുത്ത പാഠത്തിന്റെ പേരു് മാറ്റുക"
@@ -4934,14 +4929,14 @@ msgstr ""
 #, fuzzy
 #~ msgid "Seems like you got the spelling wrong."
 #~ msgstr ""
-#~ "<font color=\"#8C1818\">അക്ഷരത്തെറ്റുണ്ടെന്നു് തോന്നുന്നു. പക്ഷേ നല്‍കിയ ഉത്തരം ശരിയാണു്. </"
-#~ "font>"
+#~ "<font color=\"#8C1818\">അക്ഷരത്തെറ്റുണ്ടെന്നു് തോന്നുന്നു. പക്ഷേ നല്‍കിയ "
+#~ "ഉത്തരം ശരിയാണു്. </font>"
 
 #, fuzzy
 #~ msgid "I don't know that word and it is not similar to the solution."
 #~ msgstr ""
-#~ "<font color=\"#8C1818\">അക്ഷരത്തെറ്റുണ്ടെന്നു് തോന്നുന്നു. പക്ഷേ നല്‍കിയ ഉത്തരം ശരിയാണു്. </"
-#~ "font>"
+#~ "<font color=\"#8C1818\">അക്ഷരത്തെറ്റുണ്ടെന്നു് തോന്നുന്നു. പക്ഷേ നല്‍കിയ "
+#~ "ഉത്തരം ശരിയാണു്. </font>"
 
 #, fuzzy
 #~ msgid "No dictionary and no clue."
@@ -5030,11 +5025,11 @@ msgstr ""
 
 #, fuzzy
 #~ msgid ""
-#~ "<font color=\"#8C1818\">No spellchecker, but seems like a spelling error."
-#~ "</font> "
+#~ "<font color=\"#8C1818\">No spellchecker, but seems like a spelling "
+#~ "error.</font> "
 #~ msgstr ""
-#~ "<font color=\"#8C1818\">അക്ഷരത്തെറ്റുണ്ടെന്നു് തോന്നുന്നു. പക്ഷേ നല്‍കിയ ഉത്തരം ശരിയാണു്. </"
-#~ "font>"
+#~ "<font color=\"#8C1818\">അക്ഷരത്തെറ്റുണ്ടെന്നു് തോന്നുന്നു. പക്ഷേ നല്‍കിയ "
+#~ "ഉത്തരം ശരിയാണു്. </font>"
 
 #, fuzzy
 #~ msgid "<font color=\"#188C18\">"
@@ -5073,7 +5068,9 @@ msgstr ""
 #~ msgstr "&വ്യാകരണം..."
 
 #~ msgid "Edit language properties (types, tenses and usages)."
-#~ msgstr "ഭാഷയുടെ ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക (ഏതു് തരം, ക്രിയാപദങ്ങളുടെ കാലഭേദം, ഉപയോഗം)"
+#~ msgstr ""
+#~ "ഭാഷയുടെ ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക (ഏതു് തരം, ക്രിയാപദങ്ങളുടെ കാലഭേദം, "
+#~ "ഉപയോഗം)"
 
 #~ msgid "&Lesson:"
 #~ msgstr "&പാഠം:"

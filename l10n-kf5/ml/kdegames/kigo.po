@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: kigo\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-06-28 02:58+0200\n"
-"PO-Revision-Date: 2019-06-28 02:58+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2019-12-12 21:43+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -25,7 +26,7 @@ msgstr ""
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: game/game.cpp:327
 #, kde-format
@@ -117,18 +118,11 @@ msgstr ""
 #: gui/config/generalconfig.ui:108
 #, kde-format
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\">Please select a Go engine "
-"that supports the <span style=\" font-style:italic;\">GnuGo Text Protocol "
-"(GTP)</span>. The indicator light turns green when the selected backend is "
-"working.</p></body></html>"
+"</style></head><body style=\" font-family:'Sans Serif'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Please select a Go engine that supports the <span style=\" font-style:italic;\">GnuGo Text Protocol (GTP)</span>. The indicator light turns green when the selected backend is working.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, appearanceGroupBox)
@@ -330,26 +324,13 @@ msgstr ""
 #: gui/widgets/errorwidget.ui:21
 #, kde-format
 msgid ""
-"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/"
-"REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css"
-"\">\n"
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:8pt; font-"
-"weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Sans Serif'; font-size:10pt; color:#ff0000;\">Kigo was unable to "
-"find a  Go engine backend.</span></p>\n"
-"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
-"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-"
-"family:'Sans Serif'; font-size:10pt; color:#ff0000;\"></p>\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-"
-"right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-"
-"family:'Sans Serif'; font-size:10pt;\">If you are sure that you already "
-"installed a suitable Go engine, you might want to configure Kigo to use that "
-"engine. Otherwise you should install a Go engine (like GnuGo).</span></p></"
-"body></html>"
+"</style></head><body style=\" font-family:'DejaVu Sans'; font-size:8pt; font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'Sans Serif'; font-size:10pt; color:#ff0000;\">Kigo was unable to find a  Go engine backend.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Sans Serif'; font-size:10pt; color:#ff0000;\"></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:'Sans Serif'; font-size:10pt;\">If you are sure that you already installed a suitable Go engine, you might want to configure Kigo to use that engine. Otherwise you should install a Go engine (like GnuGo).</span></p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, configureButton)
@@ -532,7 +513,8 @@ msgstr ""
 msgid "&Custom:"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (KPluralHandlingSpinBox, handicapSpinBox)
+#. i18n: ectx: property (toolTip), widget (KPluralHandlingSpinBox,
+#. handicapSpinBox)
 #: gui/widgets/setupwidget.ui:126
 #, kde-format
 msgid ""
@@ -540,7 +522,8 @@ msgid ""
 "Black gets a number of stones on the board before the game starts."
 msgstr ""
 
-#. i18n: ectx: property (specialValueText), widget (KPluralHandlingSpinBox, handicapSpinBox)
+#. i18n: ectx: property (specialValueText), widget (KPluralHandlingSpinBox,
+#. handicapSpinBox)
 #: gui/widgets/setupwidget.ui:129
 #, kde-format
 msgid "No handicap"

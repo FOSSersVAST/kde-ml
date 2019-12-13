@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: ksirk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-07-05 02:58+0200\n"
-"PO-Revision-Date: 2019-12-01 18:25+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 22:08+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: goal.cpp:100
 #, kde-format
@@ -38,7 +38,8 @@ msgstr ""
 msgid "KsirK - Goal Display"
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QDockWidget, KsirkContinentDefinition)
+#. i18n: ectx: property (windowTitle), widget (QDockWidget,
+#. KsirkContinentDefinition)
 #: ksirkcontinentdefinition.ui:13
 #, kde-format
 msgid "Continent"
@@ -62,12 +63,9 @@ msgstr ""
 msgid ""
 "Number of bonus points when owning the full continent.\n"
 "\n"
-"At the end of each turn a number of armies is distributed to each player. If "
-"one player owns all the countries of this continent, he/she gains this "
-"bonus.\n"
+"At the end of each turn a number of armies is distributed to each player. If one player owns all the countries of this continent, he/she gains this bonus.\n"
 "\n"
-"The bonus should be proportional to the continent's size and to the "
-"difficulty to conquer it or to keep it."
+"The bonus should be proportional to the continent's size and to the difficulty to conquer it or to keep it."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, selectcountriesbutton)
@@ -82,8 +80,7 @@ msgstr ""
 msgid ""
 "Click here to select the countries contained in this continent.\n"
 "\n"
-"A list of all the world's countries will be shown and you will be able to "
-"select the countries using the mouse and the Ctrl and Shift keys."
+"A list of all the world's countries will be shown and you will be able to select the countries using the mouse and the Ctrl and Shift keys."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, selectcountriesbutton)
@@ -104,7 +101,8 @@ msgstr ""
 msgid "This is the list of countries currently forming this continent."
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QDockWidget, KsirkCountryDefinition)
+#. i18n: ectx: property (windowTitle), widget (QDockWidget,
+#. KsirkCountryDefinition)
 #: ksirkcountrydefinition.ui:13
 #, kde-format
 msgid "Country"
@@ -160,8 +158,7 @@ msgstr ""
 msgid ""
 "Infantry's sprite top left point x-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
 "This value will be automatically updated if you move the infantry."
 msgstr ""
@@ -178,11 +175,9 @@ msgstr ""
 msgid ""
 "Infantry's sprite top left point y-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
-"This value will be automatically updated if you move the infantry by drag "
-"and drop."
+"This value will be automatically updated if you move the infantry by drag and drop."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
@@ -203,8 +198,7 @@ msgstr ""
 msgid ""
 "Cavalry's sprite top left point x-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
 "This value will be automatically updated if you move the cavalry."
 msgstr ""
@@ -221,11 +215,9 @@ msgstr ""
 msgid ""
 "Cavalry's sprite top left point y-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
-"This value will be automatically updated if you move the cavalry by drag and "
-"drop."
+"This value will be automatically updated if you move the cavalry by drag and drop."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_12)
@@ -246,11 +238,9 @@ msgstr ""
 msgid ""
 "Cannon's sprite top left point y-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
-"This value will be automatically updated if you move the cannon by drag and "
-"drop."
+"This value will be automatically updated if you move the cannon by drag and drop."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, cannonx)
@@ -265,8 +255,7 @@ msgstr ""
 msgid ""
 "Cannon's sprite top left point x-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
 "This value will be automatically updated if you move the cannon."
 msgstr ""
@@ -283,14 +272,11 @@ msgstr ""
 msgid ""
 "Point around which the country name is drawn y-coordinate.\n"
 "\n"
-"Note that this point should be located inside the limits of the country on "
-"the map mask.\n"
+"Note that this point should be located inside the limits of the country on the map mask.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
-"This value will be automatically updated if you move the country name by "
-"dragging and dropping its target icon.\n"
+"This value will be automatically updated if you move the country name by dragging and dropping its target icon.\n"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, centerx)
@@ -305,14 +291,11 @@ msgstr ""
 msgid ""
 "Point around which the country name is drawn x-coordinate.\n"
 "\n"
-"Note that this point should be located inside the limits of the country on "
-"the map mask.\n"
+"Note that this point should be located inside the limits of the country on the map mask.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
-"This value will be automatically updated if you move the country name by "
-"dragging and dropping its target icon."
+"This value will be automatically updated if you move the country name by dragging and dropping its target icon."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, anchory)
@@ -327,11 +310,9 @@ msgstr ""
 msgid ""
 "Center of the highlighting y-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
-"This value will be automatically updated if you move the highlighting by "
-"dragging and dropping its cross icon."
+"This value will be automatically updated if you move the highlighting by dragging and dropping its cross icon."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, anchorx)
@@ -346,11 +327,9 @@ msgstr ""
 msgid ""
 "Center of the highlighting x-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
-"This value will be automatically updated if you move the highlighting by "
-"dragging and dropping its cross icon."
+"This value will be automatically updated if you move the highlighting by dragging and dropping its cross icon."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, flagy)
@@ -365,11 +344,9 @@ msgstr ""
 msgid ""
 "Flag's sprite top left point y-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
-"This value will be automatically updated if you move the flag by drag and "
-"drop."
+"This value will be automatically updated if you move the flag by drag and drop."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, flagx)
@@ -384,11 +361,9 @@ msgstr ""
 msgid ""
 "Flag's sprite top left point x-coordinate.\n"
 "\n"
-"This is given relatively to the top left of the map, sized as defined in the "
-"main skin definition widget.\n"
+"This is given relatively to the top left of the map, sized as defined in the main skin definition widget.\n"
 "\n"
-"This value will be automatically updated if you move the flag by drag and "
-"drop."
+"This value will be automatically updated if you move the flag by drag and drop."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, neighboursbutton)
@@ -403,8 +378,7 @@ msgstr ""
 msgid ""
 "Click here to select this country's neighbors.\n"
 "\n"
-"A list of all the world's countries will be shown and you will be able to "
-"select the countries using the mouse and the Ctrl and Shift keys."
+"A list of all the world's countries will be shown and you will be able to select the countries using the mouse and the Ctrl and Shift keys."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, neighboursbutton)
@@ -462,8 +436,8 @@ msgstr ""
 #: ksirkgoaldefinition.ui:57
 #, kde-format
 msgid ""
-"<p>Eliminate a given player. If it is eliminated by another one, you will "
-"fall back to a <emphasis>Countries</emphasis> type of goal.</p>"
+"<p>Eliminate a given player. If it is eliminated by another one, you will fall"
+" back to a <emphasis>Countries</emphasis> type of goal.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, playertype)
@@ -484,8 +458,7 @@ msgstr ""
 msgid ""
 "Conquer a given number of countries.\n"
 "\n"
-"You can also make the player to have to put a given number of armies on each "
-"country."
+"You can also make the player to have to put a given number of armies on each country."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, countriestype)
@@ -505,8 +478,8 @@ msgstr ""
 #: ksirkgoaldefinition.ui:85
 #, kde-format
 msgid ""
-"Conquer a given list of continents. You can also let the player choose one "
-"of their target continents."
+"Conquer a given list of continents. You can also let the player choose one of "
+"their target continents."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, continentstype)
@@ -535,11 +508,10 @@ msgstr ""
 msgid ""
 "<p>Text describing the goal. It should include several placeholders for "
 "various data depending on the goal type:</p><ul><li><i>World Conquest</i>: "
-"none</li><li><i>Player</i>: one for the player name and one for the number "
-"of countries fallback</li><li><i>Countries</i>: one for the number of "
-"countries and possibly a second one for the number of armies to put on each "
-"country</li><li><i>Continents</i>: one for each continent to conquer</li></"
-"ul>"
+"none</li><li><i>Player</i>: one for the player name and one for the number of "
+"countries fallback</li><li><i>Countries</i>: one for the number of countries "
+"and possibly a second one for the number of armies to put on each "
+"country</li><li><i>Continents</i>: one for each continent to conquer</li></ul>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -564,8 +536,8 @@ msgstr ""
 #: ksirkgoaldefinition.ui:142
 #, kde-format
 msgid ""
-"<p>Number of countries to conquer in a <i>Countries</i> goal or as a "
-"fallback in a <i>Player</i> goal.</p>"
+"<p>Number of countries to conquer in a <i>Countries</i> goal or as a fallback "
+"in a <i>Player</i> goal.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, armiesbycountry)
@@ -587,13 +559,15 @@ msgstr ""
 msgid "Select the continents to conquer"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QPushButton, selectcontinentsbutton)
+#. i18n: ectx: property (whatsThis), widget (QPushButton,
+#. selectcontinentsbutton)
 #: ksirkgoaldefinition.ui:173
 #, kde-format
 msgid ""
-"<p>Click this button to select the continents to conquer in a <i>Continents</"
-"i> goal.</p><p>You will be prompted with a list of this world's continents. "
-"Select those to conquer with the mouse and the Ctrl and Shift keys.</p>"
+"<p>Click this button to select the continents to conquer in a "
+"<i>Continents</i> goal.</p><p>You will be prompted with a list of this world's"
+" continents. Select those to conquer with the mouse and the Ctrl and Shift "
+"keys.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, selectcontinentsbutton)
@@ -626,11 +600,12 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>List of the continents to conquer in a <i>Continents</i> goal.</p><p>You "
-"can change this list by clicking on the \"Select continents\" button above.</"
-"p>"
+"can change this list by clicking on the \"Select continents\" button "
+"above.</p>"
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QDockWidget, KsirkNationalityDefinition)
+#. i18n: ectx: property (windowTitle), widget (QDockWidget,
+#. KsirkNationalityDefinition)
 #: ksirknationalitydefinition.ui:13
 #, kde-format
 msgid "Nationality"
@@ -653,8 +628,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>Nationality name. The name of the player country. Can be the name of an "
-"existing country in case of a <i>realistic</i> world.</p><p>This string "
-"should be unique in the skin.</p>"
+"existing country in case of a <i>realistic</i> world.</p><p>This string should"
+" be unique in the skin.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
@@ -737,8 +712,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "This is the map's width. The map SVG element will be by default drawn on an "
-"image of this width. All positions on the map are expressed relatively to "
-"this dimension.\n"
+"image of this width. All positions on the map are expressed relatively to this"
+" dimension.\n"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, heightLineEdit)
@@ -752,8 +727,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "This is the map's height. The map SVG element will be by default drawn on an "
-"image of this height All positions on the map are expressed relatively to "
-"this dimension.\n"
+"image of this height All positions on the map are expressed relatively to this"
+" dimension.\n"
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
@@ -790,8 +765,7 @@ msgstr ""
 #: ksirkskindefinition.ui:118
 #, kde-format
 msgid ""
-"This color will be used to draw the foreground of the country names on the "
-"map"
+"This color will be used to draw the foreground of the country names on the map"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
@@ -810,8 +784,7 @@ msgstr ""
 #: ksirkskindefinition.ui:135
 #, kde-format
 msgid ""
-"This color will be used to draw the background of the country names on the "
-"map"
+"This color will be used to draw the background of the country names on the map"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QTextEdit, descriptionTextEdit)
@@ -829,7 +802,8 @@ msgid ""
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabSprites)
-#. i18n: ectx: property (windowTitle), widget (QDockWidget, KsirkSpritesDefinition)
+#. i18n: ectx: property (windowTitle), widget (QDockWidget,
+#. KsirkSpritesDefinition)
 #: ksirkskindefinition.ui:177 ksirkspritesdefinition.ui:13
 #, kde-format
 msgid "Sprites"
@@ -873,12 +847,13 @@ msgstr ""
 msgid "Removes the currently selected nationality"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QPushButton, deleteNationalityButton)
+#. i18n: ectx: property (whatsThis), widget (QPushButton,
+#. deleteNationalityButton)
 #: ksirkskindefinition.ui:229
 #, kde-format
 msgid ""
-"Click here to remove the currently selected nationality. You will be asked "
-"for confirmation."
+"Click here to remove the currently selected nationality. You will be asked for"
+" confirmation."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, deleteNationalityButton)
@@ -903,12 +878,9 @@ msgstr ""
 msgid ""
 "This list shows the nationalities defined.\n"
 "\n"
-"Each nationality name should be unique. Select a nationality and edit its "
-"details in the right dock.\n"
+"Each nationality name should be unique. Select a nationality and edit its details in the right dock.\n"
 "\n"
-"During the game, each player must choose a nationality. As such, you should "
-"add at least as many nationalities as the maximum number of players for this "
-"skin."
+"During the game, each player must choose a nationality. As such, you should add at least as many nationalities as the maximum number of players for this skin."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, newCountryButton)
@@ -956,8 +928,7 @@ msgstr ""
 msgid ""
 "This list shows the countries defined.\n"
 "\n"
-"Each country name should be unique. Select a country and edit its details in "
-"the right dock."
+"Each country name should be unique. Select a country and edit its details in the right dock."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, newContinentButton)
@@ -1004,8 +975,7 @@ msgstr ""
 msgid ""
 "This list shows the continents defined.\n"
 "\n"
-"Each continent name should be unique. Select a continent and edit its "
-"details in the right dock."
+"Each continent name should be unique. Select a continent and edit its details in the right dock."
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabGoals)
@@ -1058,8 +1028,7 @@ msgstr ""
 msgid ""
 "This list shows the goals defined.\n"
 "\n"
-"Each goal name should be unique. Select a goal and edit its details in the "
-"right dock."
+"Each goal name should be unique. Select a goal and edit its details in the right dock."
 msgstr ""
 
 #: ksirkSkinEditorConfigDialog.cpp:57
@@ -1067,7 +1036,8 @@ msgstr ""
 msgid "Preferences"
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QDialog, CountriesSelectionDialog)
+#. i18n: ectx: property (windowTitle), widget (QDialog,
+#. CountriesSelectionDialog)
 #: ksirkskineditorcountriesselectiondialog.ui:13
 #, kde-format
 msgid "Country Selection Dialog"
@@ -1137,11 +1107,9 @@ msgstr ""
 #: ksirkskineditorwidget.ui:74
 #, kde-format
 msgid ""
-"Shows the map of the skin with all already placed sprites, the country "
-"names, and the highlighting anchors.\n"
+"Shows the map of the skin with all already placed sprites, the country names, and the highlighting anchors.\n"
 "\n"
-"Drag and drop the sprites, the country names, and the highlighting anchors "
-"to change their place."
+"Drag and drop the sprites, the country names, and the highlighting anchors to change their place."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_26)
@@ -1164,10 +1132,7 @@ msgstr ""
 msgid ""
 "Empty space size between fighting cannon and flag.\n"
 "\n"
-"During a battle, firing (end exploding) cannons of each player are placed in "
-"both sides of the defender country flag. This parameter is the number of "
-"pixels between the flag and each cannon, measured relatively to the map base "
-"size as set in the main skin definition panel."
+"During a battle, firing (end exploding) cannons of each player are placed in both sides of the defender country flag. This parameter is the number of pixels between the flag and each cannon, measured relatively to the map base size as set in the main skin definition panel."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QTabWidget, ktabwidget)
@@ -1241,8 +1206,7 @@ msgstr ""
 msgid ""
 "Flag individual frame height.\n"
 "\n"
-"The pool flag element will be rendered on a pixmap of height: (Height * "
-"Number of versions) and then split into individual frames."
+"The pool flag element will be rendered on a pixmap of height: (Height * Number of versions) and then split into individual frames."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_3)
@@ -1269,8 +1233,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>Number of individual flag frames.</p><p>The pool <i>flag</i> element will "
-"be rendered on a pixmap of width: (<i>Width</i> * <i>Number of frames</i>) "
-"and then split into individual frames.</p>"
+"be rendered on a pixmap of width: (<i>Width</i> * <i>Number of frames</i>) and"
+" then split into individual frames.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
@@ -1298,13 +1262,9 @@ msgstr ""
 msgid ""
 "Number of flag versions.\n"
 "\n"
-"The pool flag element will be rendered on a pixmap of height: (Height * "
-"Number of versions) and then split into individual frames.\n"
+"The pool flag element will be rendered on a pixmap of height: (Height * Number of versions) and then split into individual frames.\n"
 "\n"
-"Each version shows the sprite visible from one direction: the first one is "
-"directed towards the right, the second towards the left, the third one from "
-"the front and the last one from the back. However, not all sprites need all "
-"versions."
+"Each version shows the sprite visible from one direction: the first one is directed towards the right, the second towards the left, the third one from the front and the last one from the back. However, not all sprites need all versions."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QWidget, infantryTab)
@@ -1330,8 +1290,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>Infantry individual frame width.</p><p>The pool <i>infantry</i> element "
-"will be rendered on a pixmap of width: <i>Width</i> * <i>number of frames</"
-"i> and then split into individual frames.</p>"
+"will be rendered on a pixmap of width: <i>Width</i> * <i>number of frames</i> "
+"and then split into individual frames.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, infantryh)
@@ -1374,12 +1334,12 @@ msgstr ""
 #: ksirkspritesdefinition.ui:234
 #, kde-format
 msgid ""
-"<p>Number of infantry versions.</p><p>The pool <i>infantry</i> element will "
-"be rendered on a pixmap of height: (<i>Height</i> * <i>Number of versions</"
-"i>) and then split into individual frames.</p><p>Each version shows the "
-"sprite visible from one direction: the first one is directed towards the "
-"right, the second towards the left, the third one from front and the last "
-"one from the back. However, not all sprites need all versions.</p>"
+"<p>Number of infantry versions.</p><p>The pool <i>infantry</i> element will be"
+" rendered on a pixmap of height: (<i>Height</i> * <i>Number of versions</i>) "
+"and then split into individual frames.</p><p>Each version shows the sprite "
+"visible from one direction: the first one is directed towards the right, the "
+"second towards the left, the third one from front and the last one from the "
+"back. However, not all sprites need all versions.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QWidget, cavalryTab)
@@ -1404,9 +1364,9 @@ msgstr ""
 #: ksirkspritesdefinition.ui:274
 #, kde-format
 msgid ""
-"<p>Individual cavalry frame width.</p><p>The pool <i>cavalry</i> element "
-"will be rendered on a pixmap of width (<i>Width</i> * <i>Number of frames</"
-"i>) and then split into individual frames.</p>"
+"<p>Individual cavalry frame width.</p><p>The pool <i>cavalry</i> element will "
+"be rendered on a pixmap of width (<i>Width</i> * <i>Number of frames</i>) and "
+"then split into individual frames.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, cavalryh)
@@ -1419,9 +1379,9 @@ msgstr ""
 #: ksirkspritesdefinition.ui:291
 #, kde-format
 msgid ""
-"<p>Individual cavalry frame height.</p><p>The pool <i>cavalry</i> element "
-"will be rendered on a pixmap of height (<i>Height</i> * <i>Number of "
-"versions</i>) and then split into individual frames.</p>"
+"<p>Individual cavalry frame height.</p><p>The pool <i>cavalry</i> element will"
+" be rendered on a pixmap of height (<i>Height</i> * <i>Number of versions</i>)"
+" and then split into individual frames.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, cavalryf)
@@ -1434,8 +1394,8 @@ msgstr ""
 #: ksirkspritesdefinition.ui:308
 #, kde-format
 msgid ""
-"<p>Number of individual cavalry frames.</p><p>The pool <i>cavalry</i> "
-"element will be rendered on a pixmap of width: (<i>Width</i> * <i>Number of "
+"<p>Number of individual cavalry frames.</p><p>The pool <i>cavalry</i> element "
+"will be rendered on a pixmap of width: (<i>Width</i> * <i>Number of "
 "frames</i>) and then split into individual frames.</p>"
 msgstr ""
 
@@ -1450,8 +1410,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>Number of cavalry versions.</p><p>The pool <i>cavalry</i> element will be "
-"rendered on a pixmap of height (<i>Height</i> * <i>Number of versions</i>) "
-"and then split into individual frames.</p><p>Each version shows the sprite "
+"rendered on a pixmap of height (<i>Height</i> * <i>Number of versions</i>) and"
+" then split into individual frames.</p><p>Each version shows the sprite "
 "visible from one direction: the first one is directed towards the right, the "
 "second towards the left, the third one from front and the last one from the "
 "back. However, not all sprites need all versions.</p>"
@@ -1479,9 +1439,9 @@ msgstr ""
 #: ksirkspritesdefinition.ui:367
 #, kde-format
 msgid ""
-"<p>Cannon individual frame width.</p><p>The pool <i>cannon</i> element will "
-"be rendered on a pixmap of width (<i>Width</i> * <i>Number of frames</i>) "
-"and then split into individual frames.</p>"
+"<p>Cannon individual frame width.</p><p>The pool <i>cannon</i> element will be"
+" rendered on a pixmap of width (<i>Width</i> * <i>Number of frames</i>) and "
+"then split into individual frames.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, cannonh)
@@ -1494,9 +1454,9 @@ msgstr ""
 #: ksirkspritesdefinition.ui:384
 #, kde-format
 msgid ""
-"<p>Individual cannon frame height.</p><p>The pool <i>cannon<i> element will "
-"be rendered on a pixmap of height (<i>Height</i> * <i>Number of versions</"
-"i>) and then split into individual frames.</p>"
+"<p>Individual cannon frame height.</p><p>The pool <i>cannon<i> element will be"
+" rendered on a pixmap of height (<i>Height</i> * <i>Number of versions</i>) "
+"and then split into individual frames.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, cannonf)
@@ -1510,8 +1470,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>Number of individual cannon frames.</p><p>The pool <i>cannon</i> element "
-"will be rendered on a pixmap of width (<i>Width</i> * <i>Number of frames</"
-"i>) and then split into individual frames.</p>"
+"will be rendered on a pixmap of width (<i>Width</i> * <i>Number of frames</i>)"
+" and then split into individual frames.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, cannonv)
@@ -1525,8 +1485,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>Number of cannon versions.</p><p>The pool <i>cannon</i> element will be "
-"rendered on a pixmap of height (<i>Height</i> * <i>Number of versions</i>) "
-"and then split into individual frames.</p><p>Each version shows the sprite "
+"rendered on a pixmap of height (<i>Height</i> * <i>Number of versions</i>) and"
+" then split into individual frames.</p><p>Each version shows the sprite "
 "visible from one direction: the first one is directed towards the right, the "
 "second towards the left, the third one from front and the last one from the "
 "back. However, not all sprites need all versions.</p>"
@@ -1569,9 +1529,9 @@ msgstr ""
 #: ksirkspritesdefinition.ui:479
 #, kde-format
 msgid ""
-"<p>Firing cannon individual frame height.</p><p>The pool <i>firing cannon</"
-"i> element will be rendered on a pixmap of height (<i>Height</i> * <i>Number "
-"of versions</i>) and then split into individual frames.</p>"
+"<p>Firing cannon individual frame height.</p><p>The pool <i>firing cannon</i> "
+"element will be rendered on a pixmap of height (<i>Height</i> * <i>Number of "
+"versions</i>) and then split into individual frames.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, firingf)
@@ -1601,10 +1561,10 @@ msgstr ""
 msgid ""
 "<p>Number of firing cannon versions.</p><p>The pool <i>firing cannon</i> "
 "element will be rendered on a pixmap of height (<i>Height</i> * <i>Number of "
-"versions</i>) and then split into individual frames.</p><p>Each version "
-"shows the sprite visible from one direction: the first one is directed "
-"towards the right, the second towards the left, the third one from front and "
-"the last one from the back. However, not all sprites need all versions.</p>"
+"versions</i>) and then split into individual frames.</p><p>Each version shows "
+"the sprite visible from one direction: the first one is directed towards the "
+"right, the second towards the left, the third one from front and the last one "
+"from the back. However, not all sprites need all versions.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QWidget, explodingTab)
@@ -1660,8 +1620,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>Number of individual exploding cannon frames.</p><p>The pool "
-"<i>exploding</i> element will be rendered on a pixmap of width (<i>Width</i> "
-"* <i>Number of frames</i>) and then split into individual frames.</p>"
+"<i>exploding</i> element will be rendered on a pixmap of width (<i>Width</i> *"
+" <i>Number of frames</i>) and then split into individual frames.</p>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, explodingv)
@@ -1676,10 +1636,10 @@ msgstr ""
 msgid ""
 "<p>Number of exploding cannon versions.</p><p>The pool <i>exploding</i> "
 "element will be rendered on a pixmap of height (<i>Height</i> * <i>Number of "
-"versions</i>) and then split into individual frames.</p><p>Each version "
-"shows the sprite visible from one direction: the first one is directed "
-"towards the right, the second towards the left, the third one from front and "
-"the last one from the back. However, not all sprites need all versions.</p>"
+"versions</i>) and then split into individual frames.</p><p>Each version shows "
+"the sprite visible from one direction: the first one is directed towards the "
+"right, the second towards the left, the third one from front and the last one "
+"from the back. However, not all sprites need all versions.</p>"
 msgstr ""
 
 #: main.cpp:56
@@ -1872,7 +1832,8 @@ msgstr ""
 msgid "PoolLoader"
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QWidget, KsirkSkinEditorPreferencesWidget)
+#. i18n: ectx: property (windowTitle), widget (QWidget,
+#. KsirkSkinEditorPreferencesWidget)
 #: preferences.ui:25
 #, kde-format
 msgid "KsirK Skin Editor Preferences"

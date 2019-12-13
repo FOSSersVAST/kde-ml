@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-09-29 02:28+0200\n"
-"PO-Revision-Date: 2019-12-03 10:50+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2019-12-12 21:27+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "അനി പീറ്റര്‍, ഹരി വിഷ്ണു, പ്
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "peter.ani@gmail.com, harivishnu@gmail.com, pravi.a@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #. i18n: ectx: Menu (file)
 #: data/kwriteui.rc:6
@@ -90,11 +90,11 @@ msgstr "നിലവിലുള്ള ഒരു രചനയില്‍ മാ
 #: kwrite.cpp:153
 #, kde-format
 msgid ""
-"This lists files which you have opened recently, and allows you to easily "
-"open them again."
+"This lists files which you have opened recently, and allows you to easily open"
+" them again."
 msgstr ""
-"നിങ്ങള്‍ ഏറ്റവും ഒടുവില്‍ തുറന്ന ഫയലുകള്‍ ഇത് ലഭ്യമാക്കുന്നു. നിങ്ങള്‍ക്കു് ഇവ വീണ്ടും എളുപ്പത്തില്‍ ഇവിടെ "
-"നിന്നും തുറക്കുവാനും സാധിക്കുന്നു."
+"നിങ്ങള്‍ ഏറ്റവും ഒടുവില്‍ തുറന്ന ഫയലുകള്‍ ഇത് ലഭ്യമാക്കുന്നു. നിങ്ങള്‍ക്കു് ഇവ"
+" വീണ്ടും എളുപ്പത്തില്‍ ഇവിടെ നിന്നും തുറക്കുവാനും സാധിക്കുന്നു."
 
 #: kwrite.cpp:157
 #, kde-format
@@ -114,7 +114,9 @@ msgstr "രചനയുടെ നിലവിലുള്ള കാഴ്ച അ
 #: kwrite.cpp:170
 #, kde-format
 msgid "Use this command to show or hide the view's statusbar"
-msgstr "കാഴ്ചയുടെ അവസ്ഥ കാണിയ്ക്കുന്ന ബാര്‍ കാണിക്കാനോ ഒളിപ്പിക്കാനോ ഈ ആജ്ഞ ഉപയോഗിക്കുക"
+msgstr ""
+"കാഴ്ചയുടെ അവസ്ഥ കാണിയ്ക്കുന്ന ബാര്‍ കാണിക്കാനോ ഒളിപ്പിക്കാനോ ഈ ആജ്ഞ "
+"ഉപയോഗിക്കുക"
 
 #: kwrite.cpp:172
 #, fuzzy, kde-format
@@ -244,8 +246,7 @@ msgstr "മാറ്റ് ന്യൂവല്‍"
 
 #: main.cpp:116
 #, kde-format
-msgctxt ""
-"Credit text for someone that did testing and some other similar things"
+msgctxt "Credit text for someone that did testing and some other similar things"
 msgid "Testing, ..."
 msgstr "പരീക്ഷിക്കുന്നു, ..."
 
@@ -302,7 +303,8 @@ msgstr "ഗ്ലെന്‍ പാര്‍ക്കര്‍"
 #: main.cpp:123
 #, kde-format
 msgid "KWrite Undo History, Kspell integration"
-msgstr "കെറൈറ്റിലെ വേണ്ടെന്നു് വയ്ക്കലിന്റെ ചരിത്രം, കെസ്പെല്‍ കൂട്ടിച്ചേര്‍ക്കല്‍"
+msgstr ""
+"കെറൈറ്റിലെ വേണ്ടെന്നു് വയ്ക്കലിന്റെ ചരിത്രം, കെസ്പെല്‍ കൂട്ടിച്ചേര്‍ക്കല്‍"
 
 #: main.cpp:124
 #, kde-format
@@ -312,7 +314,8 @@ msgstr "സ്കോട്ട് മാന്‍സണ്‍"
 #: main.cpp:124
 #, kde-format
 msgid "KWrite XML Syntax highlighting support"
-msgstr "കെറൈറ്റില്‍ എക്സ്എംഎല്‍ സിന്റാക്സ് എടുത്തു് കാണിയ്ക്കുന്നതിനുള്ള പിന്തുണ"
+msgstr ""
+"കെറൈറ്റില്‍ എക്സ്എംഎല്‍ സിന്റാക്സ് എടുത്തു് കാണിയ്ക്കുന്നതിനുള്ള പിന്തുണ"
 
 #: main.cpp:125
 #, kde-format
@@ -342,7 +345,9 @@ msgstr "മാറ്റിയോ മെര്‍ലി"
 #: main.cpp:128
 #, kde-format
 msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
-msgstr "ആര്‍പിഎം സ്പെക്-ഫയലുകള്‍, പേള്‍, ഡിഫ് എന്നിവയ്ക്കും മറ്റു പലതിനുമുള്ള എടുത്തുകാണിയ്ക്കല്‍"
+msgstr ""
+"ആര്‍പിഎം സ്പെക്-ഫയലുകള്‍, പേള്‍, ഡിഫ് എന്നിവയ്ക്കും മറ്റു പലതിനുമുള്ള "
+"എടുത്തുകാണിയ്ക്കല്‍"
 
 #: main.cpp:129
 #, kde-format
@@ -509,17 +514,18 @@ msgstr ""
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
-msgstr "'%1' എന്ന ഫയല്‍ തുറക്കുവാന്‍ സാധ്യമായില്ല: അതൊരു സാധാരണ ഫയല്‍ അല്ല, അറയാണു്."
+msgstr ""
+"'%1' എന്ന ഫയല്‍ തുറക്കുവാന്‍ സാധ്യമായില്ല: അതൊരു സാധാരണ ഫയല്‍ അല്ല, അറയാണു്."
 
 #~ msgid "Developer & Highlight wizard"
 #~ msgstr "രചയിതാവും എടുത്തുകാണിക്കുന്നതിലെ മാന്ത്രികനും"
 
 #~ msgid ""
-#~ "The file given could not be read; check whether it exists or is readable "
-#~ "for the current user."
+#~ "The file given could not be read; check whether it exists or is readable for "
+#~ "the current user."
 #~ msgstr ""
-#~ "നല്‍കിയ ഫയല്‍ വായിയ്ക്കുവാന്‍ സാധ്യമായില്ല; ഇതു് നിലവിലുണ്ടോ എന്നും ഉപയോക്താവിനു് ഇതു് ലഭ്യമാണോ "
-#~ "എന്നും പരിശോധിക്കുക."
+#~ "നല്‍കിയ ഫയല്‍ വായിയ്ക്കുവാന്‍ സാധ്യമായില്ല; ഇതു് നിലവിലുണ്ടോ എന്നും "
+#~ "ഉപയോക്താവിനു് ഇതു് ലഭ്യമാണോ എന്നും പരിശോധിക്കുക."
 
 #, fuzzy
 #~ msgid ""

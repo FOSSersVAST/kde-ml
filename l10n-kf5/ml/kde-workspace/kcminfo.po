@@ -6,15 +6,15 @@ msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-03 03:42+0100\n"
-"PO-Revision-Date: 2008-11-12 12:27+0530\n"
-"Last-Translator: മണിലാല്‍ കെ.എം|Manilal K M <libregeek@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 22:26+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 "X-Poedit-Country: INDIA\n"
 
 #, kde-format
@@ -25,7 +25,7 @@ msgstr "ഹരി വിഷ്ണു"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "harivishnu@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: ../base/info_aix.cpp:68 ../base/info_wayland.cpp:88
 #, kde-format
@@ -591,11 +591,11 @@ msgstr "%1-നെ കുറിച്ച് വിവരങ്ങള്‍ ലഭ
 #: info.cpp:109
 #, kde-format
 msgid ""
-"All the information modules return information about a certain aspect of "
-"your computer hardware or your operating system."
+"All the information modules return information about a certain aspect of your "
+"computer hardware or your operating system."
 msgstr ""
-"എല്ലാ വിവര മോഡ്യൂളുകളും നിങ്ങളുടെ കമ്പ്യൂട്ടറിന്റെ ഹാര്‍ഡ്‌വെയറിനെ കുറിച്ചോ പ്രവര്‍ത്തകസംവിധാനത്തേ "
-"കുറിച്ചോ വിവരങ്ങള്‍ നല്‍കുന്നു."
+"എല്ലാ വിവര മോഡ്യൂളുകളും നിങ്ങളുടെ കമ്പ്യൂട്ടറിന്റെ ഹാര്‍ഡ്‌വെയറിനെ കുറിച്ചോ "
+"പ്രവര്‍ത്തകസംവിധാനത്തേ കുറിച്ചോ വിവരങ്ങള്‍ നല്‍കുന്നു."
 
 #: main.cpp:45
 #, kde-format

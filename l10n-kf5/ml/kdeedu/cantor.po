@@ -8,10 +8,9 @@ msgstr ""
 "Project-Id-Version: cantor\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-02 03:00+0100\n"
-"PO-Revision-Date: 2019-11-28 11:54+0000\n"
-"Last-Translator: Weblate Admin <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-12-12 21:37+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +26,7 @@ msgstr ""
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: animationresultitem.cpp:53
 #, kde-format
@@ -305,15 +304,15 @@ msgstr ""
 #: backendchoosedialog.cpp:116
 #, kde-format
 msgid ""
-"<hr><div>%1</div><br><div>See <a href=\"%2\">%2</a> for more information.</"
-"div>"
+"<hr><div>%1</div><br><div>See <a href=\"%2\">%2</a> for more "
+"information.</div>"
 msgstr ""
 
 #: backendchoosedialog.cpp:128
 #, kde-format
 msgid ""
-"<hr><div><b><font color='#e50000'>Some requirements are not fulfilled: </"
-"font></b>%1</div>"
+"<hr><div><b><font color='#e50000'>Some requirements are not fulfilled: "
+"</font></b>%1</div>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, makeDefault)
@@ -343,9 +342,9 @@ msgstr ""
 #: backends/julia/juliabackend.cpp:101
 #, kde-format
 msgid ""
-"The path to Julia specified in the application settings must point directly "
-"to the executable. Symlinks are not allowed. Please provide the correct path "
-"in the application settings and try again."
+"The path to Julia specified in the application settings must point directly to"
+" the executable. Symlinks are not allowed. Please provide the correct path in "
+"the application settings and try again."
 msgstr ""
 
 #: backends/julia/juliabackend.cpp:116 backends/julia/juliabackend.cpp:128
@@ -358,9 +357,9 @@ msgstr ""
 #: backends/julia/juliabackend.cpp:141
 #, kde-format
 msgid ""
-"You are trying to use Cantor with Julia v%1.%2.%3. This version of Cantor "
-"was compiled with the support of Julia v%4.%5.%6. Please point to this "
-"version of Julia or recompile Cantor using the version %1.%2.%3."
+"You are trying to use Cantor with Julia v%1.%2.%3. This version of Cantor was "
+"compiled with the support of Julia v%4.%5.%6. Please point to this version of "
+"Julia or recompile Cantor using the version %1.%2.%3."
 msgstr ""
 
 #. i18n: ectx: label, entry (replPath), group (JuliaBackend)
@@ -394,8 +393,7 @@ msgstr ""
 #. i18n: ectx: label, entry (integratePlots), group (Python2Backend)
 #. i18n: ectx: label, entry (integratePlots), group (Python3Backend)
 #: backends/julia/juliabackend.kcfg:20 backends/maxima/maximabackend.kcfg:17
-#: backends/octave/octavebackend.kcfg:17
-#: backends/python2/python2backend.kcfg:12
+#: backends/octave/octavebackend.kcfg:17 backends/python2/python2backend.kcfg:12
 #: backends/python3/python3backend.kcfg:12 backends/R/rserver/rserver.kcfg:12
 #: backends/scilab/scilabbackend.kcfg:14
 #, kde-format
@@ -531,8 +529,8 @@ msgstr ""
 #: backends/maxima/maximabackend.cpp:89
 #, kde-format
 msgctxt ""
-"the url to the documentation of Maxima, please check if there is a "
-"translated version and use the correct url"
+"the url to the documentation of Maxima, please check if there is a translated "
+"version and use the correct url"
 msgid "http://maxima.sourceforge.net/docs/manual/en/maxima.html"
 msgstr ""
 
@@ -600,9 +598,9 @@ msgstr ""
 msgid "Maxima crashed twice within a short time. Stopping to try starting"
 msgstr ""
 
-#: backends/maxima/maximasession.cpp:288 cantor_part.cpp:962
-#: lib/session.cpp:243 lib/session.cpp:245 worksheet.cpp:972 worksheet.cpp:1000
-#: worksheet.cpp:1015 worksheet.cpp:1032 worksheet.cpp:1076 worksheet.cpp:1088
+#: backends/maxima/maximasession.cpp:288 cantor_part.cpp:962 lib/session.cpp:243
+#: lib/session.cpp:245 worksheet.cpp:972 worksheet.cpp:1000 worksheet.cpp:1015
+#: worksheet.cpp:1032 worksheet.cpp:1076 worksheet.cpp:1088
 #, kde-format
 msgid "Error - Cantor"
 msgstr ""
@@ -632,8 +630,8 @@ msgstr ""
 #: backends/octave/octavebackend.cpp:77
 #, kde-format
 msgctxt ""
-"the url to the documentation of Octave, please check if there is a "
-"translated version (currently Czech and Japanese) and use the correct url"
+"the url to the documentation of Octave, please check if there is a translated "
+"version (currently Czech and Japanese) and use the correct url"
 msgid "https://octave.org/doc/interpreter/"
 msgstr ""
 
@@ -641,9 +639,9 @@ msgstr ""
 #, kde-format
 msgid ""
 "<b>GNU Octave</b> is a high-level language, primarily intended for numerical "
-"computations. <br/>It provides a convenient command line interface for "
-"solving linear and nonlinear problems numerically, and for performing other "
-"numerical experiments using a language that is mostly compatible with Matlab."
+"computations. <br/>It provides a convenient command line interface for solving"
+" linear and nonlinear problems numerically, and for performing other numerical"
+" experiments using a language that is mostly compatible with Matlab."
 msgstr ""
 
 #. i18n: ectx: label, entry (Path), group (OctaveBackend)
@@ -711,8 +709,7 @@ msgstr ""
 
 #. i18n: ectx: label, entry (localDoc), group (Python2Backend)
 #. i18n: ectx: label, entry (localDoc), group (Python3Backend)
-#: backends/python2/python2backend.kcfg:9
-#: backends/python3/python3backend.kcfg:9
+#: backends/python2/python2backend.kcfg:9 backends/python3/python3backend.kcfg:9
 #, kde-format
 msgid "Url to the local Python documentation"
 msgstr ""
@@ -731,7 +728,8 @@ msgid ""
 "packages to scientific programming. This backend supports Python 3."
 msgstr ""
 
-#. i18n: ectx: property (windowTitle), widget (QWidget, QalculatePlotAssistantBase)
+#. i18n: ectx: property (windowTitle), widget (QWidget,
+#. QalculatePlotAssistantBase)
 #: backends/qalculate/plotassistant/qalculateplotdialog.ui:14
 #, kde-format
 msgid "Cantor - Plot Dialog"
@@ -1124,23 +1122,23 @@ msgstr ""
 msgid ""
 "<b>Qalculate!</b> is not your regular software replication of the cheapest "
 "available calculator. Qalculate! aims to make full use of the superior "
-"interface, power and flexibility of modern computers. The center of "
-"attention in Qalculate! is the expression entry. Instead of entering each "
-"number in a mathematical expression separately, you can directly write the "
-"whole expression and later modify it. The interpretation of expressions is "
-"flexible and fault tolerant, and if you nevertheless do something wrong, "
-"Qalculate! will tell you so. Not fully solvable expressions are however not "
-"errors. Qalculate! will simplify as far as it can and answer with an "
-"expression. In addition to numbers and arithmetic operators, an expression "
-"may contain any combination of variables, units, and functions."
+"interface, power and flexibility of modern computers. The center of attention "
+"in Qalculate! is the expression entry. Instead of entering each number in a "
+"mathematical expression separately, you can directly write the whole "
+"expression and later modify it. The interpretation of expressions is flexible "
+"and fault tolerant, and if you nevertheless do something wrong, Qalculate! "
+"will tell you so. Not fully solvable expressions are however not errors. "
+"Qalculate! will simplify as far as it can and answer with an expression. In "
+"addition to numbers and arithmetic operators, an expression may contain any "
+"combination of variables, units, and functions."
 msgstr ""
 
 #. i18n: ectx: label, entry (postConversion), group (QalculateBackend)
 #: backends/qalculate/qalculatebackend.kcfg:9
 #, kde-format
 msgid ""
-"If and how units will be automatically converted. If true, convert to the "
-"best suited SI units (the least amount of units)."
+"If and how units will be automatically converted. If true, convert to the best"
+" suited SI units (the least amount of units)."
 msgstr ""
 
 #. i18n: ectx: label, entry (angleUnit), group (QalculateBackend)
@@ -1203,8 +1201,8 @@ msgstr ""
 #: backends/qalculate/qalculatebackend.kcfg:68
 #, kde-format
 msgid ""
-"If true, plots will be displayed inside the worksheet. If not they appear in "
-"a separate window."
+"If true, plots will be displayed inside the worksheet. If not they appear in a"
+" separate window."
 msgstr ""
 
 #. i18n: ectx: label, entry (coloredPlot), group (QalculateBackend)
@@ -1433,8 +1431,7 @@ msgstr ""
 
 #: backends/qalculate/qalculatesyntaxhelpobject.cpp:236
 #, kde-format
-msgid ""
-"If the plot shall be surrounded by borders on all sides (not just axis)."
+msgid "If the plot shall be surrounded by borders on all sides (not just axis)."
 msgstr ""
 
 #: backends/qalculate/qalculatesyntaxhelpobject.cpp:237
@@ -1766,13 +1763,13 @@ msgstr ""
 #: backends/R/rbackend.cpp:99
 #, kde-format
 msgid ""
-"<b>R</b> is a language and environment for statistical computing and "
-"graphics, similar to the S language and environment. <br/>It provides a wide "
-"variety of statistical (linear and nonlinear modelling, classical "
-"statistical tests, time-series analysis, classification, clustering, ...) "
-"and graphical techniques, and is highly extensible. The S language is often "
-"the vehicle of choice for research in statistical methodology, and R "
-"provides an Open Source route to participation in that activity."
+"<b>R</b> is a language and environment for statistical computing and graphics,"
+" similar to the S language and environment. <br/>It provides a wide variety of"
+" statistical (linear and nonlinear modelling, classical statistical tests, "
+"time-series analysis, classification, clustering, ...) and graphical "
+"techniques, and is highly extensible. The S language is often the vehicle of "
+"choice for research in statistical methodology, and R provides an Open Source "
+"route to participation in that activity."
 msgstr ""
 
 #: backends/R/rexpression.cpp:109 backends/R/rexpression.cpp:110
@@ -1818,8 +1815,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<b>Sage</b> is a free open-source mathematics software system licensed under "
-"the GPL. <br/>It combines the power of many existing open-source packages "
-"into a common Python-based interface."
+"the GPL. <br/>It combines the power of many existing open-source packages into"
+" a common Python-based interface."
 msgstr ""
 
 #. i18n: ectx: label, entry (Path), group (SageBackend)
@@ -1902,8 +1899,8 @@ msgstr ""
 #: backends/scilab/scilabbackend.cpp:85
 #, kde-format
 msgctxt ""
-"The url to the documentation of Scilab, please check if there is a "
-"translated version and use the correct url"
+"The url to the documentation of Scilab, please check if there is a translated "
+"version and use the correct url"
 msgid "https://www.scilab.org/support/documentation"
 msgstr ""
 
@@ -1911,8 +1908,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<b>Scilab</b> is a free software, cross-platform numerical computational "
-"package and a high-level, numerically oriented programming language.Scilab "
-"is distributed under CeCILL license (GPL compatible)."
+"package and a high-level, numerically oriented programming language.Scilab is "
+"distributed under CeCILL license (GPL compatible)."
 msgstr ""
 
 #. i18n: ectx: label, entry (Path), group (ScilabBackend)
@@ -1974,15 +1971,11 @@ msgstr ""
 msgid ""
 "<h1>No Backend Found</h1>\n"
 "<div>You could try:\n"
-"  <ul>    <li>Changing the settings in the config dialog;</li>    "
-"<li>Installing packages for the following program:</li>     %2   </ul> </"
-"div> "
+"  <ul>    <li>Changing the settings in the config dialog;</li>    <li>Installing packages for the following program:</li>     %2   </ul> </div> "
 msgid_plural ""
 "<h1>No Backend Found</h1>\n"
 "<div>You could try:\n"
-"  <ul>    <li>Changing the settings in the config dialog;</li>    "
-"<li>Installing packages for one of the following programs:</li>     %2   </"
-"ul> </div> "
+"  <ul>    <li>Changing the settings in the config dialog;</li>    <li>Installing packages for one of the following programs:</li>     %2   </ul> </div> "
 msgstr[0] ""
 msgstr[1] ""
 
@@ -2090,7 +2083,8 @@ msgstr ""
 msgid "Ask for confirmation when restarting the backend"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_StoreTextEntryFormatting)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_StoreTextEntryFormatting)
 #. i18n: ectx: label, entry (StoreTextEntryFormatting), group (Cantor)
 #: cantor.kcfg:46 settings.ui:118
 #, kde-format
@@ -2201,10 +2195,12 @@ msgid "Show Help"
 msgstr ""
 
 #. i18n("Publish Worksheet"), collection);
-#. publishWorksheet->setIcon(QIcon::fromTheme(QLatin1String("get-hot-new-stuff")));
-#. collection->addAction(QLatin1String("file_publish_worksheet"), publishWorksheet);
-#. connect(publishWorksheet, &QAction::triggered, this, SLOT(publishWorksheet()));
-#.
+#. publishWorksheet->setIcon(QIcon::fromTheme(QLatin1String("get-hot-new-
+#. stuff")));
+#. collection->addAction(QLatin1String("file_publish_worksheet"),
+#. publishWorksheet);
+#. connect(publishWorksheet, &QAction::triggered, this,
+#. SLOT(publishWorksheet()));
 #: cantor_part.cpp:332
 #, kde-format
 msgid "Show Script Editor"
@@ -2797,8 +2793,8 @@ msgstr ""
 #: lib/session.cpp:245
 #, kde-format
 msgid ""
-"%1 process has died unexpectedly with message \"%2\". All calculation "
-"results are lost."
+"%1 process has died unexpectedly with message \"%2\". All calculation results "
+"are lost."
 msgstr ""
 
 #: main.cpp:36
@@ -3058,8 +3054,8 @@ msgstr ""
 #: settings.ui:35
 #, kde-format
 msgid ""
-"When enabled, Cantor will automatically evaluate every entry below the "
-"current one."
+"When enabled, Cantor will automatically evaluate every entry below the current"
+" one."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_AutoEval)
@@ -3092,7 +3088,8 @@ msgstr ""
 msgid "Enable Completion"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, kcfg_ExpressionNumberingDefault)
+#. i18n: ectx: property (text), widget (QCheckBox,
+#. kcfg_ExpressionNumberingDefault)
 #: settings.ui:74
 #, kde-format
 msgid "Enable Line Numbers"
@@ -3206,8 +3203,8 @@ msgstr ""
 #: worksheet.cpp:1055
 #, kde-format
 msgid ""
-"In read-only mode Cantor couldn't guarantee, that the export will be valid "
-"for %1"
+"In read-only mode Cantor couldn't guarantee, that the export will be valid for"
+" %1"
 msgstr ""
 
 #: worksheet.cpp:1088
@@ -3244,8 +3241,7 @@ msgstr ""
 
 #: worksheet.cpp:1184 worksheet.cpp:1353
 #, kde-format
-msgid ""
-"%1 backend was not found. Editing and executing entries is not possible."
+msgid "%1 backend was not found. Editing and executing entries is not possible."
 msgstr ""
 
 #: worksheet.cpp:1193 worksheet.cpp:1363

@@ -10,16 +10,15 @@ msgstr ""
 "Project-Id-Version: ksysguard\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-07 03:31+0100\n"
-"PO-Revision-Date: 2010-06-23 17:21+0530\n"
-"Last-Translator: Ershad K <ershad92@gmail.com>\n"
-"Language-Team: <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>>\n"
+"PO-Revision-Date: 2019-12-12 22:20+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -29,7 +28,7 @@ msgstr "അനി പീറ്റര്‍, ഇര്‍ഷാദ് കെ"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "peter.ani@gmail.com, ershad92@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: HostConnector.cpp:44
 #, kde-format
@@ -373,10 +372,10 @@ msgstr ""
 #, kde-format
 msgid ""
 "The sensor browser lists the connected hosts and the sensors that they "
-"provide. Click and drag sensors into drop zones of a worksheet. A display "
-"will appear that visualizes the values provided by the sensor. Some sensor "
-"displays can display values of multiple sensors. Simply drag other sensors "
-"on to the display to add more sensors."
+"provide. Click and drag sensors into drop zones of a worksheet. A display will"
+" appear that visualizes the values provided by the sensor. Some sensor "
+"displays can display values of multiple sensors. Simply drag other sensors on "
+"to the display to add more sensors."
 msgstr ""
 
 #: SensorDisplayLib/DancingBars.cpp:94 SensorDisplayLib/FancyPlotter.cpp:281
@@ -430,8 +429,8 @@ msgstr "ഏറ്റവും കുറഞ്ഞ മൂല്ല്യം:"
 #: SensorDisplayLib/DancingBarsSettings.cpp:78
 #, kde-format
 msgid ""
-"Enter the minimum value for the display here. If both values are 0, "
-"automatic range detection is enabled."
+"Enter the minimum value for the display here. If both values are 0, automatic "
+"range detection is enabled."
 msgstr ""
 
 #: SensorDisplayLib/DancingBarsSettings.cpp:82
@@ -443,8 +442,8 @@ msgstr "ഏറ്റവും കൂടിയ മൂല്ല്യം:"
 #: SensorDisplayLib/DancingBarsSettings.cpp:90
 #, kde-format
 msgid ""
-"Enter the maximum value for the display here. If both values are 0, "
-"automatic range detection is enabled."
+"Enter the maximum value for the display here. If both values are 0, automatic "
+"range detection is enabled."
 msgstr ""
 
 #: SensorDisplayLib/DancingBarsSettings.cpp:100
@@ -589,8 +588,8 @@ msgstr "നിറം ഇവിടെ സൂക്ഷിക്കുക (_S)"
 #, kde-format
 msgid ""
 "This is an empty space in a worksheet. Drag a sensor from the Sensor Browser "
-"and drop it here. A sensor display will appear that allows you to monitor "
-"the values of the sensor over time."
+"and drop it here. A sensor display will appear that allows you to monitor the "
+"values of the sensor over time."
 msgstr ""
 
 #: SensorDisplayLib/FancyPlotter.cpp:177
@@ -718,11 +717,12 @@ msgstr ""
 #, kde-format
 msgid ""
 "Check this box if you want the display range to adapt dynamically to the "
-"currently displayed values; if you do not check this, you have to specify "
-"the range you want in the fields below."
+"currently displayed values; if you do not check this, you have to specify the "
+"range you want in the fields below."
 msgstr ""
-"കാഴ്ചയുടെ പരിധി ഇപ്പോള്‍ കാണുന്ന വിലകളായി സ്വയം നിശ്ചയിയ്ക്കാന്‍ ഈ കളം തെരഞ്ഞെടുക്കുക; നിങ്ങള്‍ "
-"ഇതു് തെരഞ്ഞെടുത്തിട്ടില്ലെങ്കില്‍, നിങ്ങള്‍ക്കു് താഴെയുള്ള കളങ്ങളില്‍ പരിധി നിങ്ങള്‍ക്കു് നല്‍കേണ്ടി വരും."
+"കാഴ്ചയുടെ പരിധി ഇപ്പോള്‍ കാണുന്ന വിലകളായി സ്വയം നിശ്ചയിയ്ക്കാന്‍ ഈ കളം "
+"തെരഞ്ഞെടുക്കുക; നിങ്ങള്‍ ഇതു് തെരഞ്ഞെടുത്തിട്ടില്ലെങ്കില്‍, നിങ്ങള്‍ക്കു് "
+"താഴെയുള്ള കളങ്ങളില്‍ പരിധി നിങ്ങള്‍ക്കു് നല്‍കേണ്ടി വരും."
 
 #: SensorDisplayLib/FancyPlotterSettings.cpp:103
 #, fuzzy, kde-format
@@ -732,12 +732,13 @@ msgstr "പ്രദര്‍ശനത്തിനുള്ള തലക്ക�
 #: SensorDisplayLib/FancyPlotterSettings.cpp:114
 #, kde-format
 msgid ""
-"Enter the soft maximum value for the display here. The upper range will not "
-"be reduced below this value, but will still go above this number for values "
+"Enter the soft maximum value for the display here. The upper range will not be"
+" reduced below this value, but will still go above this number for values "
 "above this value."
 msgstr ""
-"ഇവിടെ കാണിയ്ക്കാവുന്ന മൃദുവായ ഉയര്‍ന്ന വില നല്‍കുക. ഉയര്‍ന്ന പരിധി ഇതിലും താഴെ വരില്ലെങ്കിലും ഈ "
-"വിലയ്ക്കു് മുകളിലുള്ളവയ്ക്കു് ഈ സംഖ്യയേക്കാളും മുകളില്‍ പോകും."
+"ഇവിടെ കാണിയ്ക്കാവുന്ന മൃദുവായ ഉയര്‍ന്ന വില നല്‍കുക. ഉയര്‍ന്ന പരിധി ഇതിലും താഴെ"
+" വരില്ലെങ്കിലും ഈ വിലയ്ക്കു് മുകളിലുള്ളവയ്ക്കു് ഈ സംഖ്യയേക്കാളും മുകളില്‍ "
+"പോകും."
 
 #: SensorDisplayLib/FancyPlotterSettings.cpp:121
 #, kde-format
@@ -1040,10 +1041,9 @@ msgstr "ഡിസ്പളെ &നീക്കം ചെയ്യുക"
 #: SensorDisplayLib/SensorDisplay.cpp:188
 #, kde-format
 msgid ""
-"<qt><p>This is a sensor display. To customize a sensor display click the "
-"right mouse button here and select the <i>Properties</i> entry from the "
-"popup menu. Select <i>Remove</i> to delete the display from the worksheet.</"
-"p>%1</qt>"
+"<qt><p>This is a sensor display. To customize a sensor display click the right"
+" mouse button here and select the <i>Properties</i> entry from the popup menu."
+" Select <i>Remove</i> to delete the display from the worksheet.</p>%1</qt>"
 msgstr ""
 
 #: SensorDisplayLib/SensorLogger.cpp:133
@@ -1076,8 +1076,7 @@ msgctxt "@title:column"
 msgid "Log File"
 msgstr "ലോഗ് ഫയല്‍"
 
-#: SensorDisplayLib/SensorLogger.cpp:419
-#: SensorDisplayLib/SensorLoggerDlg.cpp:30
+#: SensorDisplayLib/SensorLogger.cpp:419 SensorDisplayLib/SensorLoggerDlg.cpp:30
 #, kde-format
 msgid "Sensor Logger"
 msgstr ""
@@ -1408,11 +1407,11 @@ msgstr "സിസ്റ്റം മോണിറ്റര്‍"
 #~ msgstr "ഹോസ്റ്റ് %1 ലഭ്യമായില്ല"
 
 #~ msgid ""
-#~ "An error occurred with the network (e.g. the network cable was "
-#~ "accidentally unplugged) for host %1."
+#~ "An error occurred with the network (e.g. the network cable was accidentally "
+#~ "unplugged) for host %1."
 #~ msgstr ""
-#~ "ഹോസ്റ്റ് %1-നുള്ള നെറ്റ്‌വര്‍ക്കില്‍ (ഉദാ. നെറ്റ്‌വര്‍ക്കു് കേബിള്‍ അബദ്ധവശാല്‍ ഊരിയെടുത്തു) പിശകു് "
-#~ "സംഭവിച്ചിരിക്കുന്നു."
+#~ "ഹോസ്റ്റ് %1-നുള്ള നെറ്റ്‌വര്‍ക്കില്‍ (ഉദാ. നെറ്റ്‌വര്‍ക്കു് കേബിള്‍ "
+#~ "അബദ്ധവശാല്‍ ഊരിയെടുത്തു) പിശകു് സംഭവിച്ചിരിക്കുന്നു."
 
 #~ msgid "Error for host %1: %2"
 #~ msgstr "ഹോസ്റ്റ് %1-ലുള്ള പിശകു്: %2"

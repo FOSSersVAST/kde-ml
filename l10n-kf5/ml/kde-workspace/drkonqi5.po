@@ -8,16 +8,15 @@ msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-06 03:32+0100\n"
-"PO-Revision-Date: 2019-05-22 01:57+0530\n"
-"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2019-12-12 22:13+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -27,7 +26,7 @@ msgstr "അനി പീറ്റര്‍"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "peter.ani@gmail.com"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: aboutbugreportingdialog.cpp:40
 #, fuzzy, kde-format
@@ -51,8 +50,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"<note>It is safe to close this dialog. If you do not want to, you do not "
-"have to file a bug report.</note>"
+"<note>It is safe to close this dialog. If you do not want to, you do not have "
+"to file a bug report.</note>"
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:56
@@ -60,8 +59,7 @@ msgstr ""
 msgctxt "@info/rich"
 msgid ""
 "In order to generate a useful bug report we need some information about both "
-"the crash and your system. (You may also need to install some debug "
-"packages.)"
+"the crash and your system. (You may also need to install some debug packages.)"
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:61
@@ -74,8 +72,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"This assistant will guide you through the crash reporting process for the "
-"KDE bug tracking system. All the information you enter on the bug report "
+"This assistant will guide you through the crash reporting process for the KDE "
+"bug tracking system. All the information you enter on the bug report "
 "<strong>must be written in English</strong>, if possible, as KDE is formed "
 "internationally."
 msgstr ""
@@ -114,9 +112,9 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich crash situation example"
 msgid ""
-"documents or images that you were using and their type/format (later if you "
-"go to look at the report in the bug tracking system, you can attach a file "
-"to the report)"
+"documents or images that you were using and their type/format (later if you go"
+" to look at the report in the bug tracking system, you can attach a file to "
+"the report)"
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:83
@@ -161,18 +159,18 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"This page will generate a \"backtrace\" of the crash. This is information "
-"that tells the developers where the application crashed."
+"This page will generate a \"backtrace\" of the crash. This is information that"
+" tells the developers where the application crashed."
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:98
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"If the crash information is not detailed enough, you may need to install "
-"some debug packages and reload it (if the <interface>Install Debug Symbols</"
-"interface> button is available you can use it to automatically install the "
-"missing information.)"
+"If the crash information is not detailed enough, you may need to install some "
+"debug packages and reload it (if the <interface>Install Debug "
+"Symbols</interface> button is available you can use it to automatically "
+"install the missing information.)"
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:102
@@ -187,8 +185,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"Once you get a useful backtrace (or if you do not want to install the "
-"missing debugging packages) you can continue."
+"Once you get a useful backtrace (or if you do not want to install the missing "
+"debugging packages) you can continue."
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:109
@@ -202,8 +200,8 @@ msgstr ""
 msgctxt "@info/rich"
 msgid ""
 "Using the quality of the crash information gathered, and your answers on the "
-"previous page, the assistant will tell you if the crash is worth reporting "
-"or not."
+"previous page, the assistant will tell you if the crash is worth reporting or "
+"not."
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:114
@@ -220,9 +218,9 @@ msgstr ""
 msgctxt "@info/rich"
 msgid ""
 "If the crash is listed as being not worth reporting, and you think the "
-"assistant has made a mistake, you can still manually report the bug by "
-"logging into the bug tracking system. You can also go back and change "
-"information and download debug packages."
+"assistant has made a mistake, you can still manually report the bug by logging"
+" into the bug tracking system. You can also go back and change information and"
+" download debug packages."
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:125
@@ -235,9 +233,9 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"We may need to contact you in the future to ask for further information. As "
-"we need to keep track of the bug reports, you need to have an account on the "
-"KDE bug tracking system. If you do not have one, you can create one here: "
+"We may need to contact you in the future to ask for further information. As we"
+" need to keep track of the bug reports, you need to have an account on the KDE"
+" bug tracking system. If you do not have one, you can create one here: "
 "<link>%1</link>"
 msgstr ""
 
@@ -253,10 +251,9 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"The KWallet dialog may appear when pressing Login to save your password in "
-"the KWallet password system. Also, it will prompt you for the KWallet "
-"password upon loading to autocomplete the login fields if you use this "
-"assistant again."
+"The KWallet dialog may appear when pressing Login to save your password in the"
+" KWallet password system. Also, it will prompt you for the KWallet password "
+"upon loading to autocomplete the login fields if you use this assistant again."
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:143
@@ -287,10 +284,10 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"If you are unsure whether your report is the same, follow the main options "
-"to tentatively mark your crash as a duplicate of that report. This is "
-"usually the safest thing to do. We cannot uncombine bug reports, but we can "
-"easily merge them."
+"If you are unsure whether your report is the same, follow the main options to "
+"tentatively mark your crash as a duplicate of that report. This is usually the"
+" safest thing to do. We cannot uncombine bug reports, but we can easily merge "
+"them."
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:158
@@ -298,8 +295,8 @@ msgstr ""
 msgctxt "@info/rich"
 msgid ""
 "If not enough possible duplicates are found, or you did not find a similar "
-"report, then you can force it to search for more bug reports (only if the "
-"date range limit is not reached.)"
+"report, then you can force it to search for more bug reports (only if the date"
+" range limit is not reached.)"
 msgstr ""
 
 #: aboutbugreportingdialog.cpp:161
@@ -379,9 +376,10 @@ msgstr ""
 msgctxt "@info/rich"
 msgid ""
 "If you are interested in helping us to keep the KDE bug tracker system clean "
-"and useful, which allows the developers to be more focused on fixing the "
-"real issues,  you are welcome to <link url='https://community.kde.org/"
-"Guidelines_and_HOWTOs/Bug_triaging'>join the BugSquad team</link>."
+"and useful, which allows the developers to be more focused on fixing the real "
+"issues,  you are welcome to <link "
+"url='https://community.kde.org/Guidelines_and_HOWTOs/Bug_triaging'>join the "
+"BugSquad team</link>."
 msgstr ""
 
 #: applicationdetailsexamples.cpp:34
@@ -412,16 +410,16 @@ msgstr ""
 #, kde-format
 msgctxt "@info examples about information the user can provide"
 msgid ""
-"File view mode, grouping and sorting settings, preview settings, and "
-"directory you were browsing."
+"File view mode, grouping and sorting settings, preview settings, and directory"
+" you were browsing."
 msgstr ""
 
 #: applicationdetailsexamples.cpp:50
 #, kde-format
 msgctxt "@info examples about information the user can provide"
 msgid ""
-"Instant Messaging protocols you use, and plugins you have installed "
-"(official and unofficial)."
+"Instant Messaging protocols you use, and plugins you have installed (official "
+"and unofficial)."
 msgstr ""
 
 #: applicationdetailsexamples.cpp:53
@@ -496,11 +494,11 @@ msgstr ""
 #: backtracewidget.cpp:115
 #, kde-format
 msgid ""
-"<h2>What is a \"backtrace\" ?</h2><p>A backtrace basically describes what "
-"was happening inside the application when it crashed, so the developers may "
-"track down where the mess started. They may look meaningless to you, but "
-"they might actually contain a wealth of useful information.<br />Backtraces "
-"are commonly used during interactive and post-mortem debugging.</p>"
+"<h2>What is a \"backtrace\" ?</h2><p>A backtrace basically describes what was "
+"happening inside the application when it crashed, so the developers may track "
+"down where the mess started. They may look meaningless to you, but they might "
+"actually contain a wealth of useful information.<br />Backtraces are commonly "
+"used during interactive and post-mortem debugging.</p>"
 msgstr ""
 
 #: backtracewidget.cpp:135
@@ -575,11 +573,11 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"You can click the <interface>Install Debug Symbols</interface> button in "
-"order to automatically install the missing debugging information packages. "
-"If this method does not work: please read <link url='%1'>How to create "
-"useful crash reports</link> to learn how to get a useful backtrace; install "
-"the needed packages (<link url='%2'>list of files</link>) and click the "
+"You can click the <interface>Install Debug Symbols</interface> button in order"
+" to automatically install the missing debugging information packages. If this "
+"method does not work: please read <link url='%1'>How to create useful crash "
+"reports</link> to learn how to get a useful backtrace; install the needed "
+"packages (<link url='%2'>list of files</link>) and click the "
 "<interface>Reload</interface> button."
 msgstr ""
 
@@ -587,8 +585,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"Please read <link url='%1'>How to create useful crash reports</link> to "
-"learn how to get a useful backtrace; install the needed packages (<link "
+"Please read <link url='%1'>How to create useful crash reports</link> to learn "
+"how to get a useful backtrace; install the needed packages (<link "
 "url='%2'>list of files</link>) and click the <interface>Reload</interface> "
 "button."
 msgstr ""
@@ -609,24 +607,23 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"You could try to regenerate the backtrace by clicking the <interface>Reload</"
-"interface> button."
+"You could try to regenerate the backtrace by clicking the "
+"<interface>Reload</interface> button."
 msgstr ""
 
 #: backtracewidget.cpp:306
 #, kde-format
 msgctxt "@info:status"
 msgid ""
-"<strong>The debugger application is missing or could not be launched.</"
-"strong>"
+"<strong>The debugger application is missing or could not be launched.</strong>"
 msgstr ""
 
 #: backtracewidget.cpp:312
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"<strong>You need to first install the debugger application (%1) then click "
-"the <interface>Reload</interface> button.</strong>"
+"<strong>You need to first install the debugger application (%1) then click the"
+" <interface>Reload</interface> button.</strong>"
 msgstr ""
 
 #: backtracewidget.cpp:371
@@ -757,8 +754,8 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid ""
-"This crash information is not useful enough, do you want to try to improve "
-"it? You will need to install some debugging packages."
+"This crash information is not useful enough, do you want to try to improve it?"
+" You will need to install some debugging packages."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_base.cpp:116
@@ -770,8 +767,8 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_base.cpp:146
 #, kde-format
 msgctxt ""
-"@option:check kind of information the user can provide about the crash, %1 "
-"is the application name"
+"@option:check kind of information the user can provide about the crash, %1 is "
+"the application name"
 msgid "What I was doing when the application \"%1\" crashed"
 msgstr ""
 
@@ -850,8 +847,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid ""
-"The information you can provide is not considered helpful enough in this "
-"case."
+"The information you can provide is not considered helpful enough in this case."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_base.cpp:324
@@ -936,8 +932,8 @@ msgstr ""
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
-"Use this button to save the generated crash report information to a file. "
-"You can use this option to report the bug later."
+"Use this button to save the generated crash report information to a file. You "
+"can use this option to report the bug later."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:75
@@ -956,17 +952,17 @@ msgstr ""
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
-"Use this button to login to the KDE bug tracking system using the provided e-"
-"mail address and password."
+"Use this button to login to the KDE bug tracking system using the provided "
+"e-mail address and password."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:94
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"<note>You need a user account on the <link url='%1'>KDE bug tracking system</"
-"link> in order to file a bug report, because we may need to contact you "
-"later for requesting further information. If you do not have one, you can "
+"<note>You need a user account on the <link url='%1'>KDE bug tracking "
+"system</link> in order to file a bug report, because we may need to contact "
+"you later for requesting further information. If you do not have one, you can "
 "freely <link url='%2'>create one here</link>. Please do not use disposable "
 "email accounts.</note>"
 msgstr ""
@@ -1037,8 +1033,8 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid ""
-"The amount of required information is proportional to the quality of the "
-"other information like the backtrace or the reproducibility rate.<br /><br />"
+"The amount of required information is proportional to the quality of the other"
+" information like the backtrace or the reproducibility rate.<br /><br />"
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:532
@@ -1046,8 +1042,8 @@ msgstr ""
 msgctxt "@info"
 msgid ""
 "Previously, you told DrKonqi that you could provide some contextual "
-"information. Try writing more details about your situation. (even little "
-"ones could help us.)<br /><br />"
+"information. Try writing more details about your situation. (even little ones "
+"could help us.)<br /><br />"
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:537
@@ -1103,8 +1099,8 @@ msgstr ""
 #, kde-format
 msgctxt "@info:tooltip help and examples of good bug descriptions"
 msgid ""
-"- Note if you noticed any unusual behavior in the application or in the "
-"whole environment."
+"- Note if you noticed any unusual behavior in the application or in the whole "
+"environment."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:615
@@ -1254,8 +1250,8 @@ msgstr ""
 msgid ""
 "Press this button to declare that, in your opinion and according to your "
 "experience, the reports found as similar do not match the crash you have "
-"experienced, and you believe it is unlikely that a better match would be "
-"found after further review."
+"experienced, and you believe it is unlikely that a better match would be found"
+" after further review."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:184
@@ -1274,9 +1270,9 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid ""
-"You have not selected any possible duplicates, or a report to which to "
-"attach your crash information. Have you read all the reports, and can you "
-"confirm that there are no real duplicates?"
+"You have not selected any possible duplicates, or a report to which to attach "
+"your crash information. Have you read all the reports, and can you confirm "
+"that there are no real duplicates?"
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:194
@@ -1361,16 +1357,16 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid ""
-"Your crash is a <strong>duplicate</strong> and has already been reported as "
-"<a href=\"%1\">Bug %1</a>."
+"Your crash is a <strong>duplicate</strong> and has already been reported as <a"
+" href=\"%1\">Bug %1</a>."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:436
 #, kde-format
 msgctxt "@label"
 msgid ""
-"Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is "
-"a <strong>duplicate</strong> of <a href=\"%2\">Bug %2</a>"
+"Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is a "
+"<strong>duplicate</strong> of <a href=\"%2\">Bug %2</a>"
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:437
@@ -1393,8 +1389,8 @@ msgstr ""
 #, kde-format
 msgctxt "@label"
 msgid ""
-"Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is "
-"a duplicate of the <strong>closed</strong> <a href=\"%2\">Bug %2</a>."
+"Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is a "
+"duplicate of the <strong>closed</strong> <a href=\"%2\">Bug %2</a>."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:463
@@ -1407,8 +1403,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"Error fetching the bug report list<nl/><message>%1.</message><nl/>Please "
-"wait some time and try again."
+"Error fetching the bug report list<nl/><message>%1.</message><nl/>Please wait "
+"some time and try again."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:489
@@ -1427,8 +1423,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@label"
 msgid ""
-"The report is going to be <strong>attached</strong> to bug %1. <a href=\"#"
-"\">Cancel</a>"
+"The report is going to be <strong>attached</strong> to bug %1. <a "
+"href=\"#\">Cancel</a>"
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:590
@@ -1541,8 +1537,8 @@ msgstr ""
 #, kde-format
 msgctxt "@info bug resolution"
 msgid ""
-"the bug is caused by a problem in an external application or library, or by "
-"a distribution or packaging issue"
+"the bug is caused by a problem in an external application or library, or by a "
+"distribution or packaging issue"
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:735
@@ -1575,8 +1571,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"The report you selected (bug %1) is already marked as duplicate of bug %2. "
-"Do you want to read that report instead? (recommended)"
+"The report you selected (bug %1) is already marked as duplicate of bug %2. Do "
+"you want to read that report instead? (recommended)"
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:776
@@ -1596,22 +1592,22 @@ msgstr ""
 msgid ""
 "<p><note>The bug report's title is often written by its reporter and may not "
 "reflect the bug's nature, root cause or other visible symptoms you could use "
-"to compare to your crash. Please read the complete report and all the "
-"comments below.</note></p>"
+"to compare to your crash. Please read the complete report and all the comments"
+" below.</note></p>"
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:843
 #, kde-kuit-format
 msgid ""
-"<p><note>This bug report has %1 duplicate report. That means this is "
-"probably a <strong>common crash</strong>. <i>Please consider only adding a "
-"comment or a note if you can provide new valuable information which was not "
-"already mentioned.</i></note></p>"
+"<p><note>This bug report has %1 duplicate report. That means this is probably "
+"a <strong>common crash</strong>. <i>Please consider only adding a comment or a"
+" note if you can provide new valuable information which was not already "
+"mentioned.</i></note></p>"
 msgid_plural ""
-"<p><note>This bug report has %1 duplicate reports. That means this is "
-"probably a <strong>common crash</strong>. <i>Please consider only adding a "
-"comment or a note if you can provide new valuable information which was not "
-"already mentioned.</i></note></p>"
+"<p><note>This bug report has %1 duplicate reports. That means this is probably"
+" a <strong>common crash</strong>. <i>Please consider only adding a comment or "
+"a note if you can provide new valuable information which was not already "
+"mentioned.</i></note></p>"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -1662,8 +1658,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"Error fetching the bug report<nl/><message>%1.</message><nl/>Please wait "
-"some time and try again."
+"Error fetching the bug report<nl/><message>%1.</message><nl/>Please wait some "
+"time and try again."
 msgstr ""
 
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:927
@@ -1721,11 +1717,11 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:17
 #, kde-format
 msgctxt "@label question"
-msgid ""
-"<strong>Do you remember what you were doing prior to the crash?</strong>"
+msgid "<strong>Do you remember what you were doing prior to the crash?</strong>"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QRadioButton, m_rememberCrashSituationYes)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. m_rememberCrashSituationYes)
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:44
 #, kde-format
 msgctxt ""
@@ -1734,7 +1730,8 @@ msgctxt ""
 msgid "Yes"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QRadioButton, m_rememberCrashSituationNo)
+#. i18n: ectx: property (text), widget (QRadioButton,
+#. m_rememberCrashSituationNo)
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:54
 #, kde-format
 msgctxt ""
@@ -1748,8 +1745,8 @@ msgstr ""
 #, kde-format
 msgctxt "@label question"
 msgid ""
-"<strong>Does the application crash again if you repeat the same situation?</"
-"strong>"
+"<strong>Does the application crash again if you repeat the same "
+"situation?</strong>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, m_reproducibleBox)
@@ -1757,8 +1754,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
-"If you tried to repeat the situation, select how often the application "
-"crashes"
+"If you tried to repeat the situation, select how often the application crashes"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, m_reproducibleBox)
@@ -1766,8 +1762,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
-"If you tried to repeat the situation, select how often the application "
-"crashes"
+"If you tried to repeat the situation, select how often the application crashes"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, m_reproducibleBox)
@@ -1845,8 +1840,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, m_unusualSituation)
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:231
 #, kde-format
-msgctxt ""
-"@option:check kind of information the user can provide about the crash"
+msgctxt "@option:check kind of information the user can provide about the crash"
 msgid "Unusual desktop behavior I noticed"
 msgstr ""
 
@@ -1855,8 +1849,8 @@ msgstr ""
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
-"Check this option if you can provide application specific details or "
-"settings that may be related to the crash."
+"Check this option if you can provide application specific details or settings "
+"that may be related to the crash."
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, m_appSpecificDetails)
@@ -1864,15 +1858,14 @@ msgstr ""
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
-"Check this option if you can provide application specific details or "
-"settings that may be related to the crash."
+"Check this option if you can provide application specific details or settings "
+"that may be related to the crash."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_appSpecificDetails)
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:254
 #, kde-format
-msgctxt ""
-"@option:check kind of information the user can provide about the crash"
+msgctxt "@option:check kind of information the user can provide about the crash"
 msgid "Custom settings of the application that may be related"
 msgstr ""
 
@@ -1900,7 +1893,8 @@ msgctxt "@title:column"
 msgid "Description"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, m_selectedPossibleDuplicatesLabel)
+#. i18n: ectx: property (text), widget (QLabel,
+#. m_selectedPossibleDuplicatesLabel)
 #: bugzillaintegration/ui/assistantpage_bugzilla_duplicates.ui:119
 #, kde-format
 msgctxt ""
@@ -1922,8 +1916,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "This is likely to be a <strong>common crash</strong>, and a lot of different "
-"cases' details may have been provided already. <i>Proceed only if you can "
-"add new information (not already mentioned). </i>"
+"cases' details may have been provided already. <i>Proceed only if you can add "
+"new information (not already mentioned). </i>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, proceedLabel)
@@ -1960,7 +1954,8 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:219
 #, fuzzy, kde-format
 msgid "Completely sure: attach my &information to this report"
-msgstr "ദയവായി നിങ്ങളുടെ ബഗ് റിപ്പോര്‍ട്ടിലേക്കു് താഴെ പറയുന്ന വിവരങ്ങളും ചേര്‍ക്കുക:"
+msgstr ""
+"ദയവായി നിങ്ങളുടെ ബഗ് റിപ്പോര്‍ട്ടിലേക്കു് താഴെ പറയുന്ന വിവരങ്ങളും ചേര്‍ക്കുക:"
 
 #. i18n: ectx: property (text), widget (QLabel, m_explanationLabel)
 #: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:30
@@ -2028,7 +2023,8 @@ msgctxt "@label:textbox bugzilla account password"
 msgid "Password:"
 msgstr ""
 
-#. i18n: ectx: property (accessibleName), widget (KPasswordLineEdit, m_passwordEdit)
+#. i18n: ectx: property (accessibleName), widget (KPasswordLineEdit,
+#. m_passwordEdit)
 #: bugzillaintegration/ui/assistantpage_bugzilla_login.ui:52
 #, kde-format
 msgid "Password input"
@@ -2104,10 +2100,10 @@ msgstr ""
 #, kde-format
 msgctxt "@info note before starting the bug reporting process"
 msgid ""
-"<p><i>Note:</i> Since communication between you and the developers is "
-"required for effective debugging, to continue reporting this bug <strong>it "
-"is required for you to agree that developers may contact you.</strong></"
-"p><p>Feel free to close this dialog if you do not accept this.</p>"
+"<p><i>Note:</i> Since communication between you and the developers is required"
+" for effective debugging, to continue reporting this bug <strong>it is "
+"required for you to agree that developers may contact you.</strong></p><p>Feel"
+" free to close this dialog if you do not accept this.</p>"
 msgstr ""
 
 #: debugpackageinstaller.cpp:64
@@ -2137,8 +2133,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid ""
-"An error was encountered during the installation of the debug symbol "
-"packages."
+"An error was encountered during the installation of the debug symbol packages."
 msgstr ""
 
 #: drkonqi.cpp:155
@@ -2151,7 +2146,8 @@ msgstr "ബാക്ക്ട്രെയിസ് <filename>%1</filename>-ല�
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "Could not create a file in which to save the report."
-msgstr "ബാക്ക്ട്രെയിസ് സൂക്ഷിക്കുന്നതിനായി ഒരു ഫയല്‍ ഉണ്ടാക്കുവാന്‍ സാധ്യമായില്ല"
+msgstr ""
+"ബാക്ക്ട്രെയിസ് സൂക്ഷിക്കുന്നതിനായി ഒരു ഫയല്‍ ഉണ്ടാക്കുവാന്‍ സാധ്യമായില്ല"
 
 #: drkonqi.cpp:165
 #, fuzzy, kde-format
@@ -2188,10 +2184,10 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<para>As the Crash Handler itself has failed, the automatic reporting "
-"process is disabled to reduce the risks of failing again.<nl /><nl />Please, "
-"<link url='%1'>manually report</link> this error to the KDE bug tracking "
-"system. Do not forget to include the backtrace from the <interface>Developer "
+"<para>As the Crash Handler itself has failed, the automatic reporting process "
+"is disabled to reduce the risks of failing again.<nl /><nl />Please, <link "
+"url='%1'>manually report</link> this error to the KDE bug tracking system. Do "
+"not forget to include the backtrace from the <interface>Developer "
 "Information</interface> tab.</para>"
 msgstr ""
 
@@ -2199,10 +2195,10 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<para>The reporting assistant is disabled because the crash handler dialog "
-"was started in safe mode.<nl />You can manually report this bug to %1 "
-"(including the backtrace from the <interface>Developer Information</"
-"interface> tab.)</para>"
+"<para>The reporting assistant is disabled because the crash handler dialog was"
+" started in safe mode.<nl />You can manually report this bug to %1 (including "
+"the backtrace from the <interface>Developer Information</interface> "
+"tab.)</para>"
 msgstr ""
 
 #: drkonqidialog.cpp:132
@@ -2211,26 +2207,26 @@ msgctxt "@info"
 msgid ""
 "<para>The reporting assistant is disabled because the crashed application "
 "appears to have been updated or uninstalled since it had been started. This "
-"prevents accurate crash reporting and can also be the cause of this crash.</"
-"para><para>After updating it is always a good idea to log out and back in to "
-"make sure the update is fully applied and will not cause any side effects.</"
-"para>"
+"prevents accurate crash reporting and can also be the cause of this "
+"crash.</para><para>After updating it is always a good idea to log out and back"
+" in to make sure the update is fully applied and will not cause any side "
+"effects.</para>"
 msgstr ""
 
 #: drkonqidialog.cpp:140
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<para>You can help us improve KDE Software by reporting this error.<nl /"
-"><link url='%1'>Learn more about bug reporting.</link></para>"
+"<para>You can help us improve KDE Software by reporting this error.<nl /><link"
+" url='%1'>Learn more about bug reporting.</link></para>"
 msgstr ""
 
 #: drkonqidialog.cpp:146
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<para>You cannot report this error, because <application>%1</application> "
-"does not provide a bug reporting address.</para>"
+"<para>You cannot report this error, because <application>%1</application> does"
+" not provide a bug reporting address.</para>"
 msgstr ""
 
 #: drkonqidialog.cpp:155
@@ -2243,8 +2239,8 @@ msgstr "വിശദാംശങ്ങള്‍ കാണിക്കുക"
 #, kde-kuit-format
 msgctxt "@info Note the time information is divided into date and time parts"
 msgid ""
-"<para>Executable: <application>%1</application> PID: %2 Signal: %3 (%4) "
-"Time: %5 %6</para>"
+"<para>Executable: <application>%1</application> PID: %2 Signal: %3 (%4) Time: "
+"%5 %6</para>"
 msgstr ""
 
 #: drkonqidialog.cpp:188
@@ -2301,8 +2297,8 @@ msgstr ""
 #, fuzzy, kde-format
 msgid "The KDE Crash Handler gives the user feedback if a program has crashed."
 msgstr ""
-"ഒരു പ്രോഗ്രാമിന്റെ പ്രവര്‍ത്തനം അപ്രതീക്ഷിതമായി നില്‍ക്കുന്നതിനുള്ള കാരണം കെഡിഇ തകരാറുകള്‍ "
-"കൈകാര്യം ചെയ്യുന്ന പ്രയോഗം ലഭ്യമാക്കുന്നു"
+"ഒരു പ്രോഗ്രാമിന്റെ പ്രവര്‍ത്തനം അപ്രതീക്ഷിതമായി നില്‍ക്കുന്നതിനുള്ള കാരണം "
+"കെഡിഇ തകരാറുകള്‍ കൈകാര്യം ചെയ്യുന്ന പ്രയോഗം ലഭ്യമാക്കുന്നു"
 
 #: main.cpp:120
 #, kde-format
@@ -2512,7 +2508,7 @@ msgstr ""
 # Copyright (C) 2008 This_file_is_part_of_KDE
 # This file is distributed under the same license as the kdebase package.
 # ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>, 2008.
-#
+# 
 #, fuzzy
 #~ msgctxt "@action:button"
 #~ msgid ""
@@ -2522,8 +2518,7 @@ msgstr ""
 #~ "POT-Creation-Date: 2009-08-05 06:19+0200\n"
 #~ "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 #~ "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-#~ "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് "
-#~ "<smc-discuss@googlegroups.com>\n"
+#~ "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 #~ "MIME-Version: 1.0\n"
 #~ "Content-Type: text/plain; charset=UTF-8\n"
 #~ "Content-Transfer-Encoding: 8bit\n"
@@ -2541,7 +2536,9 @@ msgstr ""
 #~ msgstr "&ബഗ് റിപ്പോര്‍ട്ടു്"
 
 #~ msgid "Could not generate a backtrace as the debugger '%1' was not found."
-#~ msgstr "ഡീബഗ്ഗര്‍ '%1' ലഭ്യമാകാഞ്ഞതിനാല്‍ ഒരു ബാക്ക്ട്രെയിസ് ഉണ്ടാക്കുവാന്‍ സാധ്യമായില്ല."
+#~ msgstr ""
+#~ "ഡീബഗ്ഗര്‍ '%1' ലഭ്യമാകാഞ്ഞതിനാല്‍ ഒരു ബാക്ക്ട്രെയിസ് ഉണ്ടാക്കുവാന്‍ "
+#~ "സാധ്യമായില്ല."
 
 #~ msgid "Application: %progname (%execname), signal %signame"
 #~ msgstr "പ്രയോഗം: %progname (%execname), signal %signame"
@@ -2551,11 +2548,11 @@ msgstr ""
 #~ msgstr "ബാക്ക്ട്രെയിസ് ലഭ്യമാക്കിയിരിക്കുന്നു."
 
 #~ msgid ""
-#~ "A file named <filename>%1</filename> already exists. Are you sure you "
-#~ "want to overwrite it?"
+#~ "A file named <filename>%1</filename> already exists. Are you sure you want to "
+#~ "overwrite it?"
 #~ msgstr ""
-#~ "<filename>%1</filename> എന്ന പേരില്‍ ഒരു ഫയല്‍ നിലവിലുണ്ടു്. നിങ്ങള്‍ക്കു് ഇതു് മാറ്റി "
-#~ "എഴുതണമോ?"
+#~ "<filename>%1</filename> എന്ന പേരില്‍ ഒരു ഫയല്‍ നിലവിലുണ്ടു്. നിങ്ങള്‍ക്കു് "
+#~ "ഇതു് മാറ്റി എഴുതണമോ?"
 
 #~ msgid "Overwrite File?"
 #~ msgstr "ഫയല്‍ മാറ്റി എഴുതണമോ?"
@@ -2568,15 +2565,11 @@ msgstr ""
 
 #~ msgid ""
 #~ "This backtrace appears to be of no use.\n"
-#~ "This is probably because your packages are built in a way which prevents "
-#~ "creation of proper backtraces, or the stack frame was seriously corrupted "
-#~ "in the crash.\n"
+#~ "This is probably because your packages are built in a way which prevents creation of proper backtraces, or the stack frame was seriously corrupted in the crash.\n"
 #~ "\n"
 #~ msgstr ""
 #~ "ബാക്ക്ട്രെയിസ്കൊണ്ടു് ഒരു പ്രയോജനവുമില്ലതെയായിരിക്കുന്നു.\n"
-#~ "ഒരു പക്ഷേ ശരിയായി ബാക്ക്ട്രെയിസുകള്‍ ഉണ്ടാക്കുവാന്‍ സാധിക്കാത്ത വിധം നിങ്ങളുടെ പാക്കേജുകള്‍ "
-#~ "ഉണ്ടാക്കിയിരിക്കുന്നതുകൊണ്ടോ അല്ലെങ്കില്‍ പ്രോഗ്രാമിന്റെ പ്രവര്‍ത്തനം നിന്നപ്പോള്‍ സ്റ്റാക്ക് "
-#~ "ഫ്രെയിമിനു് തകരാറു സംഭവിച്ചതുകൊണ്ടോ ആവാം.\n"
+#~ "ഒരു പക്ഷേ ശരിയായി ബാക്ക്ട്രെയിസുകള്‍ ഉണ്ടാക്കുവാന്‍ സാധിക്കാത്ത വിധം നിങ്ങളുടെ പാക്കേജുകള്‍ ഉണ്ടാക്കിയിരിക്കുന്നതുകൊണ്ടോ അല്ലെങ്കില്‍ പ്രോഗ്രാമിന്റെ പ്രവര്‍ത്തനം നിന്നപ്പോള്‍ സ്റ്റാക്ക് ഫ്രെയിമിനു് തകരാറു സംഭവിച്ചതുകൊണ്ടോ ആവാം.\n"
 #~ "\n"
 
 #~ msgid ""
@@ -2588,26 +2581,25 @@ msgstr ""
 
 #~ msgid ""
 #~ "\n"
-#~ "As the usage of these options is not recommended - because they can, in "
-#~ "rare cases, be responsible for KDE problems - a backtrace will not be "
-#~ "generated.\n"
-#~ "You need to turn these options off and reproduce the problem again in "
-#~ "order to get a backtrace.\n"
+#~ "As the usage of these options is not recommended - because they can, in rare cases, be responsible for KDE problems - a backtrace will not be generated.\n"
+#~ "You need to turn these options off and reproduce the problem again in order to get a backtrace.\n"
 #~ msgstr ""
 #~ "\n"
-#~ "ഈ ഐച്ഛികങ്ങള്‍ ഉപയോഗിക്കുന്നതു് ഉചിതമല്ലാത്തതിനാല്‍ (കാരണം, ഇവ ചിലപ്പോള്‍ കെഡിഇ-യുടെ "
-#~ "തകരാറുകള്‍ക്കു് കാരണമാവാം) ഒരു ബാക്ക്ട്രെയിസ് ഉണ്ടാകുന്നതല്ല.\n"
-#~ "ഈ ഐച്ഛികങ്ങളെല്ലാം ഓഫ് ചെയ്തു് പിശകു് വീണ്ടുമുണ്ടാക്കിയാല്‍ മാത്രമേ നിങ്ങള്‍ക്കു് ഒരു ബാക്ക്ട്രെയിസ് "
-#~ "ലഭ്യമാകുകയുള്ളൂ.\n"
+#~ "ഈ ഐച്ഛികങ്ങള്‍ ഉപയോഗിക്കുന്നതു് ഉചിതമല്ലാത്തതിനാല്‍ (കാരണം, ഇവ ചിലപ്പോള്‍ കെഡിഇ-യുടെ തകരാറുകള്‍ക്കു് കാരണമാവാം) ഒരു ബാക്ക്ട്രെയിസ് ഉണ്ടാകുന്നതല്ല.\n"
+#~ "ഈ ഐച്ഛികങ്ങളെല്ലാം ഓഫ് ചെയ്തു് പിശകു് വീണ്ടുമുണ്ടാക്കിയാല്‍ മാത്രമേ നിങ്ങള്‍ക്കു് ഒരു ബാക്ക്ട്രെയിസ് ലഭ്യമാകുകയുള്ളൂ.\n"
 
 #~ msgid "Backtrace will not be created."
 #~ msgstr "ബാക്ക്ട്രെയിസ് ഉണ്ടാക്കുവാന്‍ സാധ്യമല്ല."
 
 #~ msgid "System configuration startup check disabled.\n"
-#~ msgstr "സിസ്റ്റം ക്രമീകരണങ്ങളുടെ ആരംഭത്തിലുള്ള പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിക്കുന്നു.\n"
+#~ msgstr ""
+#~ "സിസ്റ്റം ക്രമീകരണങ്ങളുടെ ആരംഭത്തിലുള്ള പരിശോധന പ്രവര്‍ത്തന "
+#~ "രഹിതമാക്കിയിരിക്കുന്നു.\n"
 
 #~ msgid "You have to edit the description before the report can be sent."
-#~ msgstr "റിപ്പോര്‍ട്ടു് അയയ്ക്കുന്നതിനു് മുമ്പായി നിങ്ങള്‍ അതിന്റെ വിശദാംശങ്ങള്‍ മാറ്റേണ്ടതുണ്ടു്."
+#~ msgstr ""
+#~ "റിപ്പോര്‍ട്ടു് അയയ്ക്കുന്നതിനു് മുമ്പായി നിങ്ങള്‍ അതിന്റെ വിശദാംശങ്ങള്‍ "
+#~ "മാറ്റേണ്ടതുണ്ടു്."
 
 #~ msgid "(C) 2000-2003, Hans Petter Bieker"
 #~ msgstr "(C) 2000-2003, ഹാന്‍സ് പെറ്റര്‍ ബെയിക്കര്‍"
@@ -2616,25 +2608,18 @@ msgstr ""
 #~ msgstr "ഒരു മാരകമായ പിശകുണ്ടായിരിക്കുന്നു"
 
 #~ msgid ""
-#~ "<p style=\"margin-bottom: 6px;\"><b>Application crashed</b></p><p>The "
-#~ "program %appname crashed.</p>"
+#~ "<p style=\"margin-bottom: 6px;\"><b>Application crashed</b></p><p>The program "
+#~ "%appname crashed.</p>"
 #~ msgstr ""
 #~ "<p style=\"margin-bottom: 6px;\"><b>പ്രയോഗം അപ്രതീക്ഷിതമായി പ്രവര്‍ത്തനം "
 #~ "നിര്‍ത്തിയിരിക്കുന്നു</b></p><p> %appname എന്ന പ്രോഗ്രാം നിന്നുപോയി.</p>"
 
 #~ msgid ""
-#~ "<p>Do you want to generate a backtrace? This will help the developers to "
-#~ "figure out what went wrong.</p>\n"
-#~ "<p>Unfortunately this will take some time on slow machines.</"
-#~ "p><p><b>Note: A backtrace is not a substitute for a proper description of "
-#~ "the bug and information on how to reproduce it. It is not possible to fix "
-#~ "the bug without a proper description.</b></p>"
+#~ "<p>Do you want to generate a backtrace? This will help the developers to figure out what went wrong.</p>\n"
+#~ "<p>Unfortunately this will take some time on slow machines.</p><p><b>Note: A backtrace is not a substitute for a proper description of the bug and information on how to reproduce it. It is not possible to fix the bug without a proper description.</b></p>"
 #~ msgstr ""
-#~ "<p>നിങ്ങള്‍ക്കു് ഒരു ബാക്ക്ട്രെയിസ് ഉണ്ടാക്കണമോ? അഥവാ പിശകുകളുണ്ടായാല്‍, അവയെന്തെല്ലാമെന്നു് "
-#~ "കണ്ടുപിടിക്കുവാന്‍ ഇതു് ഡവലപ്പര്‍മാരെ സഹായിക്കുന്നു.</p>\n"
-#~ "<p>വേഗത കുറവുള്ള സിസ്റ്റമുകളില്‍ ഇതിനു് അല്‍പം സമയമെടുക്കുന്നു.</p><p><b>കുറിപ്പു്: ഒരു "
-#~ "ബഗിനെപ്പറ്റിയും അതു് എങ്ങനെയുണ്ടായി എന്നുള്ള വിശദീകരണങ്ങള്‍ക്കും ഒരിക്കലും ഒരു ബാക്ക്ട്രെയിസ് "
-#~ "പകരമാവില്ല. ശരിയായ വിശദാംശങ്ങളില്ലാതെ ഒരു ബഗ് പരിഹരിക്കുവാന്‍ സാധ്യമല്ല</b></p> "
+#~ "<p>നിങ്ങള്‍ക്കു് ഒരു ബാക്ക്ട്രെയിസ് ഉണ്ടാക്കണമോ? അഥവാ പിശകുകളുണ്ടായാല്‍, അവയെന്തെല്ലാമെന്നു് കണ്ടുപിടിക്കുവാന്‍ ഇതു് ഡവലപ്പര്‍മാരെ സഹായിക്കുന്നു.</p>\n"
+#~ "<p>വേഗത കുറവുള്ള സിസ്റ്റമുകളില്‍ ഇതിനു് അല്‍പം സമയമെടുക്കുന്നു.</p><p><b>കുറിപ്പു്: ഒരു ബഗിനെപ്പറ്റിയും അതു് എങ്ങനെയുണ്ടായി എന്നുള്ള വിശദീകരണങ്ങള്‍ക്കും ഒരിക്കലും ഒരു ബാക്ക്ട്രെയിസ് പകരമാവില്ല. ശരിയായ വിശദാംശങ്ങളില്ലാതെ ഒരു ബഗ് പരിഹരിക്കുവാന്‍ സാധ്യമല്ല</b></p> "
 
 #~ msgid "Include Backtrace"
 #~ msgstr "ബാക്ക്ട്രെയിസ് ഉള്‍പ്പെടുത്തുക"

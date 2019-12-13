@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-21 03:23+0200\n"
+"POT-Creation-Date: 2019-12-13 03:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
@@ -95,129 +95,129 @@ msgstr ""
 msgid "Always arrange tasks in columns of as many rows"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:52
+#: package/contents/ui/ConfigBehavior.qml:51
 #, kde-format
 msgid "Group:"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:54
+#: package/contents/ui/ConfigBehavior.qml:53
 #, kde-format
 msgid "Do not group"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:54
+#: package/contents/ui/ConfigBehavior.qml:53
 #, kde-format
 msgid "By program name"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:60
+#: package/contents/ui/ConfigBehavior.qml:59
 #, kde-format
 msgid "Open groups in popups"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:74
+#: package/contents/ui/ConfigBehavior.qml:73
 #, kde-format
 msgid "Group only when the Task Manager is full"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:88
+#: package/contents/ui/ConfigBehavior.qml:87
 #, kde-format
 msgid "Sort:"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, kde-format
 msgid "Do not sort"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, kde-format
 msgid "Manually"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, kde-format
 msgid "Alphabetically"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, kde-format
 msgid "By desktop"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:90
+#: package/contents/ui/ConfigBehavior.qml:89
 #, kde-format
 msgid "By activity"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:96
+#: package/contents/ui/ConfigBehavior.qml:95
 #, kde-format
 msgid "Keep launchers separate"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:108
+#: package/contents/ui/ConfigBehavior.qml:107
 #, kde-format
 msgid "On middle-click:"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:111
+#: package/contents/ui/ConfigBehavior.qml:110
 #, kde-format
 msgctxt "The click action"
 msgid "None"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:112
+#: package/contents/ui/ConfigBehavior.qml:111
 #, kde-format
 msgid "Close window or group"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:113
+#: package/contents/ui/ConfigBehavior.qml:112
 #, kde-format
 msgid "New instance"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:114
+#: package/contents/ui/ConfigBehavior.qml:113
 #, kde-format
 msgid "Minimize/Restore window or group"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:115
+#: package/contents/ui/ConfigBehavior.qml:114
 #, kde-format
 msgctxt "When clicking it would toggle grouping windows of a specific app"
 msgid "Group/Ungroup"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:116
+#: package/contents/ui/ConfigBehavior.qml:115
 #, kde-format
 msgid "Bring to the current virtual desktop"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:122
+#: package/contents/ui/ConfigBehavior.qml:121
 #, kde-format
 msgid "Cycle through tasks with mouse wheel"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:131
+#: package/contents/ui/ConfigBehavior.qml:130
 #, kde-format
 msgid "Filter:"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:132
+#: package/contents/ui/ConfigBehavior.qml:131
 #, kde-format
 msgid "Show only tasks from the current screen"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:137
+#: package/contents/ui/ConfigBehavior.qml:136
 #, kde-format
 msgid "Show only tasks from the current desktop"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:142
+#: package/contents/ui/ConfigBehavior.qml:141
 #, kde-format
 msgid "Show only tasks from the current activity"
 msgstr ""
 
-#: package/contents/ui/ConfigBehavior.qml:148
+#: package/contents/ui/ConfigBehavior.qml:146
 #, kde-format
 msgid "Show only tasks that are minimized"
 msgstr ""

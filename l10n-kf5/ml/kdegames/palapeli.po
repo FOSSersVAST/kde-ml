@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: palapeli\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-17 02:55+0100\n"
-"PO-Revision-Date: 2019-11-17 02:55+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2019-12-12 22:06+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -25,7 +26,7 @@ msgstr ""
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
 #: libpala/slicerpropertyset.cpp:71
 #, kde-format
@@ -377,8 +378,8 @@ msgstr ""
 #: src/engine/gameplay.cpp:417
 #, kde-format
 msgid ""
-"You need to click on a piece holder to select it before you can delete it, "
-"or you can just click on its Close button."
+"You need to click on a piece holder to select it before you can delete it, or "
+"you can just click on its Close button."
 msgstr ""
 
 #: src/engine/gameplay.cpp:436
@@ -395,15 +396,15 @@ msgstr ""
 #: src/engine/gameplay.cpp:461
 #, kde-format
 msgid ""
-"You need to click on a piece holder to select it before you can select all "
-"the pieces in it."
+"You need to click on a piece holder to select it before you can select all the"
+" pieces in it."
 msgstr ""
 
 #: src/engine/gameplay.cpp:481
 #, kde-format
 msgid ""
-"To rearrange pieces, either the puzzle table must have some selected pieces "
-"or there must be a selected holder with some selected pieces in it."
+"To rearrange pieces, either the puzzle table must have some selected pieces or"
+" there must be a selected holder with some selected pieces in it."
 msgstr ""
 
 #: src/engine/gameplay.cpp:543
@@ -437,8 +438,8 @@ msgstr ""
 #: src/engine/gameplay.cpp:611
 #, kde-format
 msgid ""
-"You need to have at least two holders, one of them selected and with "
-"selected pieces inside it, before you can transfer pieces to a second holder."
+"You need to have at least two holders, one of them selected and with selected "
+"pieces inside it, before you can transfer pieces to a second holder."
 msgstr ""
 
 #: src/engine/gameplay.cpp:1079
@@ -451,51 +452,23 @@ msgstr ""
 #, kde-format
 msgctxt "Hints for solving large puzzles"
 msgid ""
-"You have just created a large puzzle: Palapeli has several features to help "
-"you solve it within the limited space on the desktop. They are described in "
-"detail in the Palapeli Handbook (on the Help menu). Here are just a few "
-"quick tips.\n"
+"You have just created a large puzzle: Palapeli has several features to help you solve it within the limited space on the desktop. They are described in detail in the Palapeli Handbook (on the Help menu). Here are just a few quick tips.\n"
 "\n"
-"Before beginning, it may be best not to use bevels or shadowing with large "
-"puzzles (see the Settings dialog), because they make loading slower and "
-"highlighting harder to see when the pieces in the view are very small.\n"
+"Before beginning, it may be best not to use bevels or shadowing with large puzzles (see the Settings dialog), because they make loading slower and highlighting harder to see when the pieces in the view are very small.\n"
 "\n"
-"The first feature is the puzzle Preview (a picture of the completed puzzle) "
-"and a toolbar button to turn it on or off. If you hover over it with the "
-"mouse, it magnifies parts of the picture, so the window size you choose for "
-"the Preview can be quite small.\n"
+"The first feature is the puzzle Preview (a picture of the completed puzzle) and a toolbar button to turn it on or off. If you hover over it with the mouse, it magnifies parts of the picture, so the window size you choose for the Preview can be quite small.\n"
 "\n"
-"Next, there are close-up and distant views of the puzzle table, which you "
-"can switch quickly by using a mouse button (default Middle-Click). In close-"
-"up view, use the empty space in the scroll bars to search through the puzzle "
-"pieces a 'page' at a time. You can adjust the two views by zooming in or out "
-"and your changes will be remembered.\n"
+"Next, there are close-up and distant views of the puzzle table, which you can switch quickly by using a mouse button (default Middle-Click). In close-up view, use the empty space in the scroll bars to search through the puzzle pieces a 'page' at a time. You can adjust the two views by zooming in or out and your changes will be remembered.\n"
 "\n"
-"Then there is a space on the puzzle table reserved for building up the "
-"solution.\n"
+"Then there is a space on the puzzle table reserved for building up the solution.\n"
 "\n"
-"Last but not least, there are small windows called 'holders'. They are for "
-"sorting pieces into groups such as edges, sky or white house on left. You "
-"can have as many holders as you like and can give them names. You should "
-"already have one named 'Hand', for carrying pieces from wherever you find "
-"them to the solution area.\n"
+"Last but not least, there are small windows called 'holders'. They are for sorting pieces into groups such as edges, sky or white house on left. You can have as many holders as you like and can give them names. You should already have one named 'Hand', for carrying pieces from wherever you find them to the solution area.\n"
 "\n"
-"You use a special mouse click to transfer pieces into or out of a holder "
-"(default Shift Left-Click). First make sure the holder you want to use is "
-"active: it should have a blue outline. If not, click on it. To transfer "
-"pieces into the holder, select them on the puzzle table then do the special "
-"click to 'teleport' them into the holder. Or you can just do the special "
-"click on one piece at a time.\n"
+"You use a special mouse click to transfer pieces into or out of a holder (default Shift Left-Click). First make sure the holder you want to use is active: it should have a blue outline. If not, click on it. To transfer pieces into the holder, select them on the puzzle table then do the special click to 'teleport' them into the holder. Or you can just do the special click on one piece at a time.\n"
 "\n"
-"To transfer pieces out of a holder, make sure no pieces are selected on the "
-"puzzle table, go into the holder window and select some pieces, using normal "
-"Palapeli mouse operations, then go back to the puzzle table and do the "
-"special click on an empty space where you want the pieces to arrive. "
-"Transfer no more than a few pieces at a time, to avoid collisions of pieces "
-"on the puzzle table.\n"
+"To transfer pieces out of a holder, make sure no pieces are selected on the puzzle table, go into the holder window and select some pieces, using normal Palapeli mouse operations, then go back to the puzzle table and do the special click on an empty space where you want the pieces to arrive. Transfer no more than a few pieces at a time, to avoid collisions of pieces on the puzzle table.\n"
 "\n"
-"By the way, holders can do almost all the things the puzzle table and its "
-"window can do, including joining pieces to build up a part of the solution."
+"By the way, holders can do almost all the things the puzzle table and its window can do, including joining pieces to build up a part of the solution."
 msgstr ""
 
 #: src/engine/gameplay.cpp:1132
@@ -791,16 +764,16 @@ msgstr ""
 #: src/palapeli.kcfg:12
 #, kde-format
 msgid ""
-"The filename of the background image to use for the View, or \"__color__\" "
-"if a solid color should be used (see key \"ViewBackgroundColor\")."
+"The filename of the background image to use for the View, or \"__color__\" if "
+"a solid color should be used (see key \"ViewBackgroundColor\")."
 msgstr ""
 
 #. i18n: ectx: label, entry (ViewBackgroundColor), group (Appearance)
 #: src/palapeli.kcfg:16
 #, kde-format
 msgid ""
-"The background color to use for the View (if the key \"ViewBackground\" is "
-"set to \"__color__\")."
+"The background color to use for the View (if the key \"ViewBackground\" is set"
+" to \"__color__\")."
 msgstr ""
 
 #. i18n: ectx: label, entry (ViewHighlightColor), group (Appearance)
@@ -813,8 +786,8 @@ msgstr ""
 #: src/palapeli.kcfg:24
 #, kde-format
 msgid ""
-"Where to reserve space on the puzzle table for the solution, when shuffling "
-"or re-shuffling the pieces."
+"Where to reserve space on the puzzle table for the solution, when shuffling or"
+" re-shuffling the pieces."
 msgstr ""
 
 #. i18n: ectx: label, entry (PieceSpacing), group (Appearance)
@@ -845,8 +818,8 @@ msgstr ""
 #: src/palapeli.kcfg:40
 #, kde-format
 msgid ""
-"Whether to render bevels on the puzzle pieces. Turning this off might "
-"improve puzzle loading performance."
+"Whether to render bevels on the puzzle pieces. Turning this off might improve "
+"puzzle loading performance."
 msgstr ""
 
 #. i18n: ectx: label, entry (PuzzlePreviewVisible), group (PuzzlePreview)
